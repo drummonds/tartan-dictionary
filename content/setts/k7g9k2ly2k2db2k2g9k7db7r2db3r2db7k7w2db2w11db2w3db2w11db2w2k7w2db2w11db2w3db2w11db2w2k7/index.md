@@ -1,6 +1,15 @@
 ---
 title: "Malcolm Dress (Lochcarron 2005)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Malcolm"
+  url: "/clan/malcolm/"
+- name: "Malcolm"
+  url: "/families/malcolm/"
+- name: "Malcolm Dress"
+  url: "/tartans/m/ma/malcolm-dress-2/"
 ---
 This is the **Malcolm Dress (Lochcarron 2005)** sett — one scale-free proportion (`k7g9k2ly2k2db2k2g9k7db7r2db3r2db7k7w2db2w11db2w3db2w11db2w2k7w2db2w11db2w3db2w11db2w2k7`), colour order pattern
 [KGKYKBKGKBRBRBKWBWBWBWBWKWBWBWBWBWK](/stripes/kgkykbkgkbrbrbkwbwbwbwbwkwbwbwbwbwk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/db12k2db2k2r3k2lb6k2w2k2lb6k2y2k2db6k2r2~x2/"><circle cx="14.0" cy="124.4" r="4" fill="#3465a4"><title>Kilburnie</title></circle></a><a href="/variants/s24/k2y2k2g9k7w2k3w12k2w4k2w12k3w2k7db7r2db3r2db7k7g9k2lb2~x2/"><circle cx="14.0" cy="125.4" r="4" fill="#3465a4"><title>Malcolm, dress</title></circle></a><a href="/variants/s24/k7g9k2ly2k2y2k2g9k7db7r2db3r2db7k7w2k2w11k2w3k2w11k2w2~x4/"><circle cx="14.0" cy="128.0" r="4" fill="#3465a4"><title>Malcolm Dress</title></circle></a><a href="/variants/s34/g3r3g3lb3yi13lb5yi3lb5k9g3lb3g3yi6lb3k3lb16y3lb3g3lb3r3lb16k3lb3yi6g3lb3g3k9lb5yi3lb5yi13lb3~x2~yi2404144/"><circle cx="79.2" cy="136.4" r="4" fill="#3465a4"><title>Shipley, Ian (Personal)</title></circle></a><a href="/variants/s28/db8w21db8w7k2w3y3w3k12w2r8y3k3y3k3y3k3y3k3y3r8w2k12w3y3w3k2w7~x2/"><circle cx="23.3" cy="98.0" r="4" fill="#3465a4"><title>Znaimer (Canada)</title></circle></a><a href="/variants/s20/lb3k3dy1k1dy1k1dy1k1dy3lb2k1y1k1dy1k2db2w7k1w2dy1~x2/"><circle cx="17.0" cy="132.4" r="4" fill="#3465a4"><title>Unidentified #18</title></circle></a><a href="/variants/s24/k12g12y3g12k9w5b6w19b2w6b2w19b6w5k9g12w3g12k12db10k2db2k2db10~x2/"><circle cx="14.0" cy="134.8" r="4" fill="#3465a4"><title>Campbell, dress</title></circle></a><a href="/variants/s26/db12k2db6k2db12k12g14k2w4k2g14k10w6db6w18db3w4db3w18db6w6k10g14k2y4k2/"><circle cx="26.9" cy="139.5" r="4" fill="#3465a4"><title>Campbell of Loch Neil Dress Clan Tartan</title></circle></a><a href="/variants/s29/dr2k1db8k6lb8k2lb2k2lb8k6g8k1dr2k1g8k6lb2k2lb2k2lb6k2lb2k2lb2k6db8k1dr2~x2/"><circle cx="57.5" cy="135.3" r="4" fill="#3465a4"><title>MacKinlay Dress</title></circle></a><a href="/variants/s32/dg12t3k2t3k2t3k2t3w12dp2dg2dp2w4g2w4k2w4g2w4dp2dg2dp2w12t3k2t3k2t3k2t3dg12r3~x2~dg1806142-g2408144/"><circle cx="14.0" cy="110.3" r="4" fill="#3465a4"><title>Kennedy Dress</title></circle></a><circle cx="14.8" cy="120.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

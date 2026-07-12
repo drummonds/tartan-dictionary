@@ -1,6 +1,13 @@
 ---
 title: "MacLeod, Californian"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacLeod"
+  url: "/clan/macleod/"
+- name: "MacLeod, Californian"
+  url: "/tartans/m/ma/macleod-californian/"
 ---
 This is the **MacLeod, Californian** sett — one scale-free proportion (`y4db25g3k3g3k3g13w24k2r3`), colour order pattern
 [GBGKGKGWKR](/stripes/gbgkgkgwkr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y4db22g3k3g3k3g12w22k2r3~x2/"><circle cx="59.1" cy="130.1" r="4" fill="#3465a4"><title>Californian MacLeod</title></circle></a><a href="/variants/s10/y4t25g3k3g3k3g13w24k2r3~x2/"><circle cx="83.0" cy="128.5" r="4" fill="#3465a4"><title>MacLeod Special Dress (Dance)</title></circle></a><a href="/variants/s9/g5db22g6k10w24y2db2w2r2~x2/"><circle cx="93.1" cy="130.2" r="4" fill="#3465a4"><title>Haymarket Dress Blue Trade Tartan</title></circle></a><a href="/variants/s10/r3k1lb10k1g2k1db8g12k1y3~x2/"><circle cx="89.2" cy="135.7" r="4" fill="#3465a4"><title>Sullivan (Estimated threadcount)</title></circle></a><a href="/variants/s9/w3lb26db13k13w2g8k5r3lb3~x2/"><circle cx="95.1" cy="133.1" r="4" fill="#3465a4"><title>Moran (Virgin Islands) (Personal)</title></circle></a><a href="/variants/s10/ly5lb14k3ly7g3k3g7k6db24w3~x2/"><circle cx="47.3" cy="153.7" r="4" fill="#3465a4"><title>Kagame (Personal)</title></circle></a><a href="/variants/s9/dp4k2w3k2db30g9k4w20dy3~x2~g2408144/"><circle cx="122.5" cy="114.1" r="4" fill="#3465a4"><title>Minnesota Dress American District Tartan</title></circle></a><a href="/variants/s9/dr3w6y4k25w3n30o30w3k2~x2~n1900000-o2500000/"><circle cx="90.6" cy="124.7" r="4" fill="#3465a4"><title>Craparo</title></circle></a><a href="/variants/s9/lb34r3lb8db4lb8k24g34k2w6/"><circle cx="129.3" cy="123.8" r="4" fill="#3465a4"><title>Hogg Dress</title></circle></a><a href="/variants/s9/dp4k2w3k2db30g9k4w20dy3~x2/"><circle cx="123.1" cy="114.1" r="4" fill="#3465a4"><title>Minnesota Dress</title></circle></a><circle cx="72.7" cy="121.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

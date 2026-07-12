@@ -1,6 +1,13 @@
 ---
 title: "Thompson, Megan Kate (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Thompson"
+  url: "/clan/thompson/"
+- name: "Thompson, Megan Kate"
+  url: "/tartans/t/th/thompson-megan-kate/"
 ---
 This is the **Thompson, Megan Kate (Personal)** sett — one scale-free proportion (`dp5r8p16w25r4lb4n3lp3`), colour order pattern
 [BRBWRWBW](/stripes/brbwrwbw/). It is recorded as a single **variant**, below.

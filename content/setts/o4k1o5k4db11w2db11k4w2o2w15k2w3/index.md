@@ -1,6 +1,11 @@
 ---
 title: "Tommy"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Tommy"
+  url: "/tartans/t/to/tommy/"
 ---
 This is the **Tommy** sett — one scale-free proportion (`o4k1o5k4db11w2db11k4w2o2w15k2w3`), colour order pattern
 [RKRKBWBKWRWKW](/stripes/rkrkbwbkwrwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w4y10db20k1w12y1db4w2k4y5k10w5db2~x2/"><circle cx="118.5" cy="132.5" r="4" fill="#3465a4"><title>Dinarzh: Fortress of the Bear</title></circle></a><a href="/variants/s13/w4ly10db20k1w12ly1db4w2k4ly5k10w5db2~x2/"><circle cx="120.9" cy="136.1" r="4" fill="#3465a4"><title>Dinarzh: (Fashion)</title></circle></a><a href="/variants/s18/dp4w6k1dp2k1w14k3w3k2dp2k2dp2db4dp2db6dp2db6dp2/"><circle cx="117.3" cy="133.2" r="4" fill="#3465a4"><title>Royal Canadian Air Force</title></circle></a><a href="/variants/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/"><circle cx="162.1" cy="135.9" r="4" fill="#3465a4"><title>McRae, Dress</title></circle></a><a href="/variants/s12/db16r4db6r10db30r4k30w34r9w6r4w16/"><circle cx="91.1" cy="169.9" r="4" fill="#3465a4"><title>MacDonald Pattern of Plaids</title></circle></a><a href="/variants/s12/w4r1db18k6w5k4w4k4w3k2r1db2~x2/"><circle cx="151.0" cy="126.7" r="4" fill="#3465a4"><title>Knights Templar St Andrews Corporate Tartan</title></circle></a><a href="/variants/s12/k2y2db15y2k2y2w2y2w14y1k2y2~x2/"><circle cx="137.8" cy="123.5" r="4" fill="#3465a4"><title>Independence</title></circle></a><a href="/variants/s14/db10r2db2r4db12r2k14w13r4w2r2w4r1y3~x2/"><circle cx="81.9" cy="125.3" r="4" fill="#3465a4"><title>Carnegie #2</title></circle></a><a href="/variants/s13/w3k2w15db3w3k7g8k2g8k7db8k1db2~x2/"><circle cx="85.4" cy="157.5" r="4" fill="#3465a4"><title>Campbell Dress Artifact Tartan</title></circle></a><a href="/variants/s12/t4r3k3r6k8t10w8k12w8t24k2t2~x2/"><circle cx="150.8" cy="156.9" r="4" fill="#3465a4"><title>Trillard (Personal)</title></circle></a><circle cx="111.8" cy="141.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

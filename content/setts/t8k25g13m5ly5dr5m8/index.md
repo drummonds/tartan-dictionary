@@ -1,6 +1,11 @@
 ---
 title: "Bro-Menez Are (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Bro-Menez Are"
+  url: "/tartans/b/br/bro-menez-are/"
 ---
 This is the **Bro-Menez Are (Corporate)** sett — one scale-free proportion (`t8k25g13m5ly5dr5m8`), colour order pattern
 [BKGRYBR](/stripes/bkgrybr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k10r3y4db12g4r4w2~x4/"><circle cx="39.7" cy="194.7" r="4" fill="#3465a4"><title>Eichelberger Family, Jörg (Personal)</title></circle></a><a href="/variants/s8/dr3dg2n2dg3k6b2ly10b2~x2/"><circle cx="39.1" cy="191.4" r="4" fill="#3465a4"><title>Burnfoot Check</title></circle></a><a href="/variants/s7/k20y4db13w4g30w4r13~x2/"><circle cx="57.8" cy="179.8" r="4" fill="#3465a4"><title>South Africa 1994 (Fashion)</title></circle></a><a href="/variants/s8/dp21lg4dy5lg4dp5k21dg21y5~x2~lg3105139-dg1804158/"><circle cx="65.9" cy="194.8" r="4" fill="#3465a4"><title>Caledonian Labrador Retrievers</title></circle></a><a href="/variants/s8/o21db4dr5db4o5k21g21ly5~x2/"><circle cx="47.9" cy="189.6" r="4" fill="#3465a4"><title>Caledonian Labrador Retrievers</title></circle></a><a href="/variants/s8/n6w2k4dy12k4w2n6r3~x2/"><circle cx="72.0" cy="208.1" r="4" fill="#3465a4"><title>Strathblane</title></circle></a><a href="/variants/s6/k8r12w8g15db30y5~x2/"><circle cx="73.0" cy="203.0" r="4" fill="#3465a4"><title>Reekie (Edmonton)</title></circle></a><a href="/variants/s6/k11db3o5k2g15dp11~x2/"><circle cx="66.8" cy="202.5" r="4" fill="#3465a4"><title>Saorsa Corporate Tartan</title></circle></a><a href="/variants/s6/g7w4k21n16db16r5~x2/"><circle cx="40.3" cy="221.6" r="4" fill="#3465a4"><title>Hawkes, Norman (Personal)</title></circle></a><a href="/variants/s9/r3db16o2db2o12k8g12k12w3~x2/"><circle cx="38.9" cy="175.6" r="4" fill="#3465a4"><title>Celtic Women International</title></circle></a><circle cx="54.6" cy="195.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,13 @@
 ---
 title: "Daks, Blue Loden"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Daks"
+  url: "/clan/daks/"
+- name: "Daks, Blue Loden"
+  url: "/tartans/d/da/daks-blue-loden/"
 ---
 This is the **Daks, Blue Loden** sett — one scale-free proportion (`o5lb13do4r4do27lb3do4o5`), colour order pattern
 [RBWBRBWR](/stripes/rbwbrbwr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r2db12r2g11r4db5g2r24w2~x2/"><circle cx="273.6" cy="170.5" r="4" fill="#3465a4"><title>Fraser Gathering, Red (1997)</title></circle></a><a href="/variants/s9/g3r9lb1g9r1g1r9db9r1~x4/"><circle cx="245.3" cy="201.7" r="4" fill="#3465a4"><title>Convention of the Baronage (Corp)</title></circle></a><a href="/variants/s10/g3r2db2r13lb1db4r2g7r2db2~x2/"><circle cx="277.4" cy="172.9" r="4" fill="#3465a4"><title>MacKillop Clan Tartan</title></circle></a><a href="/variants/s9/g3r9lb1g9r1g1r8db9r1~x4/"><circle cx="238.7" cy="202.6" r="4" fill="#3465a4"><title>Baronage</title></circle></a><a href="/variants/s9/y20db27r6db15y8db11y78dbi10r12~db0805267-dbi1604274/"><circle cx="325.0" cy="173.2" r="4" fill="#3465a4"><title>Bracken</title></circle></a><a href="/variants/s6/r1db6r1g6r12w1/"><circle cx="286.4" cy="193.0" r="4" fill="#3465a4"><title>Fraser VS</title></circle></a><a href="/variants/s6/r1db6r1g6r12w1~x2/"><circle cx="286.4" cy="193.0" r="4" fill="#3465a4"><title>Fraser VS</title></circle></a><a href="/variants/s8/ly3lb7do2r2do14lb2do2ly3~x2/"><circle cx="247.1" cy="204.2" r="4" fill="#3465a4"><title>Daks (Blue Loden)</title></circle></a><a href="/variants/s8/r12db2w1db2r3g8r3db1/"><circle cx="313.2" cy="180.6" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/variants/s8/r12db2w1db2r3g8r3db1~x2/"><circle cx="313.2" cy="180.6" r="4" fill="#3465a4"><title>Chisholm (Portrait) The.. Clan Tartan</title></circle></a><circle cx="282.1" cy="190.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Murray of Dunmore (Clan)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Murray"
+  url: "/clan/murray/"
+- name: "Murray of Dunmore"
+  url: "/families/murray-of-dunmore/"
+- name: "Murray of Dunmore"
+  url: "/tartans/m/mu/murray-of-dunmore/"
 ---
 This is the **Murray of Dunmore (Clan)** sett — one scale-free proportion (`dg4dr4dg4dr6dg15dr11dg2dr2dg16dr21dg2dr2dg4dr2dg2dr3dg5dr3dg2dr2dg4`), colour order pattern
 [GBGBGBGBGBGBGBGBGBGBG](/stripes/gbgbgbgbgbgbgbgbgbgbg/). It is recorded as a single **variant**, below.

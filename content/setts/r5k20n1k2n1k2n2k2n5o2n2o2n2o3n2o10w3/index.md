@@ -1,6 +1,11 @@
 ---
 title: "Nike Golf Dark"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Nike Golf Dark"
+  url: "/tartans/n/ni/nike-golf-dark/"
 ---
 This is the **Nike Golf Dark** sett — one scale-free proportion (`r5k20n1k2n1k2n2k2n5o2n2o2n2o3n2o10w3`), colour order pattern
 [RKBKBKBKBRBRBRBRW](/stripes/rkbkbkbkbrbrbrbrw/). It is recorded as **2 variants** — the same
@@ -23,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/r5k20n1k2n1k2n2k2n5o2n2o2n2o3n2o10w3~x2~n1900000-o2500000/"><circle cx="151.7" cy="83.7" r="4" fill="#3465a4"><title>Nike Golf Dark (Corporate)</title></circle></a><a href="/variants/s14/k5r1w2r1k26r3ly1n10w1r3w1n10w1r3~x2/"><circle cx="203.4" cy="65.6" r="4" fill="#3465a4"><title>El Dorado Hills P &amp; D (Corporate)</title></circle></a><a href="/variants/s14/k5r1w2r1k26r3y1n10w1r3w1n10w1r3~x2/"><circle cx="203.1" cy="65.1" r="4" fill="#3465a4"><title>El Dorado Hills Firefighters Pipes and Drums</title></circle></a><a href="/variants/s21/g20k1g1k6w1k6dp1k1dp4r3dp14r3dp4k1dp1k6w1k6g1k1g8~x2/"><circle cx="132.6" cy="84.6" r="4" fill="#3465a4"><title>New Hampshire District Tartan</title></circle></a><a href="/variants/s15/r23db1g1r3db2r1db12k3w6k6db4g2k2g3k2~x2/"><circle cx="152.7" cy="78.4" r="4" fill="#3465a4"><title>Mars Exploration</title></circle></a><a href="/variants/s18/o8k24n1k1n1k1n1k1n8k1n1k1n1k1n1o20y1w1~x2/"><circle cx="209.0" cy="52.1" r="4" fill="#3465a4"><title>Read Dress, Peter (Personal)</title></circle></a><a href="/variants/s15/dr22k3lo1k1w3k3db1k3db8k19lo4k2lo1k7lo3~x2/"><circle cx="202.4" cy="85.0" r="4" fill="#3465a4"><title>Ruxton</title></circle></a><a href="/variants/s19/dr44g18lb5db2lb2db3lb9k7lb5k7lb9db3lb2db2lb5dr16g3dr5db2~x2/"><circle cx="192.2" cy="82.9" r="4" fill="#3465a4"><title>Metcalf (Clan)</title></circle></a><a href="/variants/s10/r47dg14k5y2k3dg7k3y2k5dg14~x2/"><circle cx="214.6" cy="86.6" r="4" fill="#3465a4"><title>Harbor Club</title></circle></a><a href="/variants/s12/y4w2r16n8k1n3k2n2k3n2k22lb4~x2/"><circle cx="148.9" cy="83.7" r="4" fill="#3465a4"><title>Aberdeen Forever (District)</title></circle></a><circle cx="155.8" cy="82.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

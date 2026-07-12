@@ -1,6 +1,15 @@
 ---
 title: "Vance (Name?)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Vance"
+  url: "/clan/vance/"
+- name: "Vance"
+  url: "/families/vance/"
+- name: "Vance"
+  url: "/tartans/v/va/vance/"
 ---
 This is the **Vance (Name?)** sett — one scale-free proportion (`k3lb2g13w2lb24dr3`), colour order pattern
 [BWWGWK](/stripes/bwwgwk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3t2g13w2t24dr3~x4~t2405244-g2408144/"><circle cx="275.0" cy="172.9" r="4" fill="#3465a4"><title>Vance</title></circle></a><a href="/variants/s6/r1g9lb9k1lb1w1~x6/"><circle cx="234.6" cy="188.2" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/variants/s5/k2lb36g12w3r2~x2/"><circle cx="363.2" cy="148.3" r="4" fill="#3465a4"><title>Cleland</title></circle></a><a href="/variants/s5/k2lb28g7w3r2~x2/"><circle cx="352.4" cy="153.9" r="4" fill="#3465a4"><title>Cleland Corporate Tartan</title></circle></a><a href="/variants/s6/k2w1g5dr1lb18dr2~x2/"><circle cx="313.4" cy="132.1" r="4" fill="#3465a4"><title>Norris (1998) (Name)</title></circle></a><a href="/variants/s8/k3r1y1lb11g13lb5r1y1~x4/"><circle cx="198.5" cy="151.5" r="4" fill="#3465a4"><title>Snodgrass (Clan)</title></circle></a><a href="/variants/s9/w4dr13lb54dg22k4ly20lb48dr13w4/"><circle cx="217.0" cy="137.7" r="4" fill="#3465a4"><title>Wynberg Boys' High School</title></circle></a><a href="/variants/s6/k2w1g5dr1lb18r2~x2/"><circle cx="294.0" cy="115.1" r="4" fill="#3465a4"><title>Norris (1998)</title></circle></a><a href="/variants/s7/lb8w28ly3g3lb8k9lb4~x2/"><circle cx="170.6" cy="177.3" r="4" fill="#3465a4"><title>MacTavish of Dunardry Dress</title></circle></a><a href="/variants/s7/k10lb30g3lb3g3lb3r6~x2/"><circle cx="283.3" cy="158.0" r="4" fill="#3465a4"><title>Kinding (Personal)</title></circle></a><circle cx="260.8" cy="164.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

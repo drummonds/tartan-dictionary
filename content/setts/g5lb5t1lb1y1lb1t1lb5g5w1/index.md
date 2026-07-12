@@ -1,6 +1,15 @@
 ---
 title: "MacGiboney Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacGiboney"
+  url: "/clan/macgiboney/"
+- name: "MacGiboney"
+  url: "/families/macgiboney/"
+- name: "MacGiboney"
+  url: "/tartans/m/ma/macgiboney-2/"
 ---
 This is the **MacGiboney Dress** sett — one scale-free proportion (`g5lb5t1lb1y1lb1t1lb5g5w1`), colour order pattern
 [GWBWGWBWGW](/stripes/gwbwgwbwgw/). It is recorded as **2 variants** — the same
@@ -23,6 +32,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g5lb5t1lb1y1lb1t1lb5g5w1~x8~lb3200000-t2503227-w3600000/"><circle cx="293.4" cy="263.9" r="4" fill="#3465a4"><title>MacGiboney Dress</title></circle></a><a href="/variants/s6/y1lb1t1lb5g5w1~x8~lb3200000-t2503227/"><circle cx="273.1" cy="275.3" r="4" fill="#3465a4"><title>MacGibboney (Name)</title></circle></a><a href="/variants/s13/w25g8w8g8w8g46lb46y8lb46g46w46g8w8/"><circle cx="216.0" cy="247.8" r="4" fill="#3465a4"><title>Poulter SG 096 (Fashion)</title></circle></a><circle cx="287.1" cy="261.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

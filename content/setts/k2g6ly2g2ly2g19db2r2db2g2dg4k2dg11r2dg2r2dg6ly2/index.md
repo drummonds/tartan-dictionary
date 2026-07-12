@@ -1,6 +1,15 @@
 ---
 title: "Harmon Hunting (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Harmon"
+  url: "/clan/harmon/"
+- name: "Harmon"
+  url: "/families/harmon/"
+- name: "Harmon Hunting"
+  url: "/tartans/h/ha/harmon-hunting/"
 ---
 This is the **Harmon Hunting (Personal)** sett — one scale-free proportion (`k2g6ly2g2ly2g19db2r2db2g2dg4k2dg11r2dg2r2dg6ly2`), colour order pattern
 [KGYGYGBRBGGKGRGRGY](/stripes/kgygygbrbggkgrgrgy/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/k2dgi6ly2dgi2ly2dgi19db2r2db2dgi2dg4k2dg11r2dg2r2dg6ly2~x2~dgi1806142-db1404245/"><circle cx="166.1" cy="129.4" r="4" fill="#3465a4"><title>Harmon Hunting Personal Tartan</title></circle></a><a href="/variants/s18/k2g6dy2g2dy2g19db2dr2db2g2dg4k2dg11dr2dg2dr2dg6dy2~x2/"><circle cx="181.1" cy="136.4" r="4" fill="#3465a4"><title>Harmon Hunting</title></circle></a><a href="/variants/s14/y3k3dg2k6g7dg2y3dg2ly3dg5y3b3y20k2~x2~ly2705081/"><circle cx="156.9" cy="129.7" r="4" fill="#3465a4"><title>Stewart Camel Fashion Tartan</title></circle></a><a href="/variants/s14/dg6g3dg24k2dg4k16o5dg2w4dg2g21dg2k2y3~x2/"><circle cx="141.3" cy="115.8" r="4" fill="#3465a4"><title>Celtic F.C.</title></circle></a><a href="/variants/s13/r2dg18g2dg2g2dg2g12db3k13dg10k2g12y2~x2/"><circle cx="140.8" cy="151.6" r="4" fill="#3465a4"><title>McHeadley Society</title></circle></a><a href="/variants/s17/g20k2w2k2y2k2g19r5k19r5t20k2g2k2g2k2t20~x2/"><circle cx="91.2" cy="115.2" r="4" fill="#3465a4"><title>MacNicol Htg (Clan)</title></circle></a><a href="/variants/s17/r2k6g2k2g14k1y2k1t5r1t5k1w2k1g14k1t2~x2/"><circle cx="165.2" cy="96.9" r="4" fill="#3465a4"><title>Duncan of Sketraw</title></circle></a><a href="/variants/s13/dr2g13t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="184.7" cy="105.0" r="4" fill="#3465a4"><title>Stewart (King George VI)</title></circle></a><a href="/variants/s12/g7r2g3r5g17y2k15y2t22g3w2t7~x2/"><circle cx="108.2" cy="141.3" r="4" fill="#3465a4"><title>Paisley</title></circle></a><a href="/variants/s14/dg5g3dg16k2dg4k12g4dg2lb5dg2g16dg2k2y3~x2/"><circle cx="136.3" cy="161.1" r="4" fill="#3465a4"><title>Celtic Football Club (1996)</title></circle></a><circle cx="142.0" cy="122.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

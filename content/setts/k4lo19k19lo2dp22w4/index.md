@@ -1,6 +1,15 @@
 ---
 title: "Dutch"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Dutch"
+  url: "/clan/dutch/"
+- name: "Dutch"
+  url: "/families/dutch/"
+- name: "Dutch"
+  url: "/tartans/d/du/dutch/"
 ---
 This is the **Dutch** sett — one scale-free proportion (`k4lo19k19lo2dp22w4`), colour order pattern
 [KYKYBW](/stripes/kykybw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k4o19k19o2dp22w4~x2/"><circle cx="142.0" cy="192.7" r="4" fill="#3465a4"><title>Dutch (District)</title></circle></a><a href="/variants/s6/w2db12lo1k12lo12k1~x2/"><circle cx="141.0" cy="187.1" r="4" fill="#3465a4"><title>Dutch District Tartan</title></circle></a><a href="/variants/s6/w5dr34k22dr4lb24dr4~x2/"><circle cx="181.4" cy="200.3" r="4" fill="#3465a4"><title>Wcwm 759-2</title></circle></a><a href="/variants/s7/w8k2n12k11w1dr6n4~x2/"><circle cx="125.4" cy="197.0" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s6/r3n27k6lo13k14r3~x2/"><circle cx="158.4" cy="195.3" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish special grey</title></circle></a><a href="/variants/s6/r2n20k5w10k10r2~x2/"><circle cx="150.0" cy="190.2" r="4" fill="#3465a4"><title>Thompson Grey Family Tartan</title></circle></a><a href="/variants/s6/lb2r12db2lb6k6lb1~x4/"><circle cx="188.1" cy="188.0" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish</title></circle></a><a href="/variants/s6/lb2r12db2lb6k6lb1~x2/"><circle cx="188.1" cy="188.0" r="4" fill="#3465a4"><title>MacTavish Thomson Clan Tartan</title></circle></a><a href="/variants/s6/lb2r12db2lb6k6lb1/"><circle cx="188.1" cy="188.0" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/variants/s6/w23db6w6r5k35r10~x2/"><circle cx="142.5" cy="198.4" r="4" fill="#3465a4"><title>Meg Merrilees Fancy Tartan</title></circle></a><circle cx="136.5" cy="194.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Stuart of Bute"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Stuart"
+  url: "/clan/stuart/"
 ---
 A family of [Clan Stuart](/clan/stuart/).
 

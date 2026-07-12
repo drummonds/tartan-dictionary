@@ -1,6 +1,11 @@
 ---
 title: "Green Highland, The (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Green Highland, The"
+  url: "/tartans/g/gr/green-highland-the/"
 ---
 This is the **Green Highland, The (Fashion)** sett — one scale-free proportion (`db2g15do3db7g7db2`), colour order pattern
 [BGBBGB](/stripes/bgbbgb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db4w1db12g12db1g4~x2/"><circle cx="348.7" cy="245.1" r="4" fill="#3465a4"><title>Unidentified Tweed</title></circle></a><a href="/variants/s7/db1g12db4lb1db4g4db1~x4/"><circle cx="395.4" cy="232.5" r="4" fill="#3465a4"><title>St. Dennis &amp; Cranley School</title></circle></a><a href="/variants/s5/lb9dt3lb1dt12y1~x4/"><circle cx="366.7" cy="237.0" r="4" fill="#3465a4"><title>North Sea Commission</title></circle></a><a href="/variants/s7/db1dg4dr1dg1lo1dg4db1~x12/"><circle cx="417.1" cy="283.5" r="4" fill="#3465a4"><title>Justus Hunting (Personal)</title></circle></a><a href="/variants/s6/g6b1g7w1b7r1~x4~w4000000-r2109032/"><circle cx="332.4" cy="255.1" r="4" fill="#3465a4"><title>Norris (1957)</title></circle></a><a href="/variants/s6/g6b1g7w1b7r1~x4/"><circle cx="333.4" cy="255.3" r="4" fill="#3465a4"><title>Norris (1957) (Name)</title></circle></a><a href="/variants/s5/db8g2db8g15lb2~x4/"><circle cx="320.1" cy="283.8" r="4" fill="#3465a4"><title>Hamilton Green Hunting</title></circle></a><a href="/variants/s7/db16g4db3g3y2g24r2~x2/"><circle cx="349.9" cy="195.8" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s5/db5g2db5g8w1~x8/"><circle cx="303.4" cy="288.9" r="4" fill="#3465a4"><title>Hamilton Hunting Clan Tartan</title></circle></a><a href="/variants/s6/db6g2db29g29db2g6~x2/"><circle cx="403.3" cy="244.4" r="4" fill="#3465a4"><title>Harmony 12</title></circle></a><circle cx="384.9" cy="274.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Cavan County, Crest Range"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Cavan County, Crest Range"
+  url: "/tartans/c/ca/cavan-county-crest-range/"
 ---
 This is the **Cavan County, Crest Range** sett — one scale-free proportion (`dy32db10k52db10w5k24db16w10k11dy15`), colour order pattern
 [GBKBWKBWKG](/stripes/gbkbwkbwkg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k1g8k9r1k1r1k9db8r1~x6/"><circle cx="207.2" cy="173.2" r="4" fill="#3465a4"><title>Guthrie Family Tartan</title></circle></a><a href="/variants/s7/db9k7n5r1n5k1n2~x4/"><circle cx="187.2" cy="191.6" r="4" fill="#3465a4"><title>Greyhound Grenadiers #2</title></circle></a><a href="/variants/s6/k61n20ly2n20k5ly4~x2/"><circle cx="201.2" cy="149.6" r="4" fill="#3465a4"><title>Sonsub Corporate Tartan</title></circle></a><a href="/variants/s9/db28k3db6k3db6k20dy28k3w6~x2/"><circle cx="180.3" cy="181.6" r="4" fill="#3465a4"><title>Forbes #5</title></circle></a><a href="/variants/s10/db9k9db9r2k18g12r2g4r2g4~x2/"><circle cx="133.5" cy="189.1" r="4" fill="#3465a4"><title>Newlands Family Tartan</title></circle></a><a href="/variants/s10/lo32db10k52db10w5k24db16w10k11lo15/"><circle cx="167.1" cy="174.1" r="4" fill="#3465a4"><title>Cavan County Crest (Fashion)</title></circle></a><a href="/variants/s9/db16k3db16k26dp4k26n20w3n8/"><circle cx="166.5" cy="189.9" r="4" fill="#3465a4"><title>Scotsburn Croft</title></circle></a><a href="/variants/s11/k2r1dg10k10lb4k2lb2k2lb5k2lb2~x2/"><circle cx="154.4" cy="163.6" r="4" fill="#3465a4"><title>Bijral</title></circle></a><a href="/variants/s11/k24dp5k9g3k2g3k2g14dp7k2dp10~x2/"><circle cx="234.3" cy="171.2" r="4" fill="#3465a4"><title>Paxton (Personal)</title></circle></a><a href="/variants/s11/w4k2n12dr3k3dr3k23n10k2n6k2~x2/"><circle cx="211.7" cy="150.6" r="4" fill="#3465a4"><title>Auld Lang Syne, Grey (Fashion)</title></circle></a><circle cx="185.2" cy="179.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Women's Royal Army Corps Ass. (Corp."
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Women's Royal Army Corps Ass. (Corp."
+  url: "/tartans/w/wo/women-s-royal-army-corps-ass-corp/"
 ---
 This is the **Women's Royal Army Corps Ass. (Corp.** sett — one scale-free proportion (`dg10w2dg10y1dg10r2dg24g1dg2g1dg2g2`), colour order pattern
 [GGGGGGRGGGWG](/stripes/ggggggrgggwg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dg6g3dg3g4dg4k5dg3k5dg28r2dg4r2~x2~dg1806142-g2408144/"><circle cx="377.1" cy="140.5" r="4" fill="#3465a4"><title>Ross Hunting Clan Tartan</title></circle></a><a href="/variants/s11/dg30r2dg8r1dg5w2dg5r1dg8r2dg30~w4000000/"><circle cx="626.0" cy="144.4" r="4" fill="#3465a4"><title>Brithwe Dewi Sant (Welsh)</title></circle></a><a href="/variants/s13/w3dg35db3dg2db3dg10dr3dg2dr3dg2dr3dg10y2~x2/"><circle cx="518.0" cy="145.4" r="4" fill="#3465a4"><title>Glencross (Kirkbampton) (Personal)</title></circle></a><a href="/variants/s22/dg2g1dg2g1dg24r2dg10y1dg10w2dg10w2dg10y1dg10r2dg24g1dg2g1dg2g2~x2/"><circle cx="557.0" cy="97.8" r="4" fill="#3465a4"><title>Womens Royal Army Corps Assoc.</title></circle></a><a href="/variants/s8/dg40dy2db3r4db3dy2dg40w3~x2/"><circle cx="564.8" cy="147.8" r="4" fill="#3465a4"><title>Asher (Personal)</title></circle></a><a href="/variants/s10/g14w2g14r1g14y2g30lb2g2lb4~x2/"><circle cx="622.7" cy="156.3" r="4" fill="#3465a4"><title>Holmston Primary (School)</title></circle></a><a href="/variants/s13/dg25k1y2k1dg4k1dr2k1dg4k1lr2k1dg25~x4/"><circle cx="552.6" cy="93.0" r="4" fill="#3465a4"><title>Hilton Check</title></circle></a><a href="/variants/s13/g72lo2g10dr9g2dy9g2db9g2t9g9lo2g72~x2/"><circle cx="578.2" cy="110.6" r="4" fill="#3465a4"><title>U.S. Seabees (Military)</title></circle></a><circle cx="571.5" cy="125.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Anderson Blue"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Anderson"
+  url: "/clan/anderson/"
+- name: "Anderson"
+  url: "/families/anderson/"
+- name: "Anderson"
+  url: "/tartans/a/an/anderson-11/"
 ---
 This is the **Anderson Blue** sett — one scale-free proportion (`db8k1o1k1db22o1k14o1w2o1w6k3o1w3o1`), colour order pattern
 [BKRKBRKRWRWKRWR](/stripes/bkrkbrkrwrwkrwr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db50k12o2k2w2k2o12db7k7w2~x2~o2500000/"><circle cx="224.1" cy="77.6" r="4" fill="#3465a4"><title>Skye</title></circle></a><a href="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2~db1406275/"><circle cx="218.1" cy="106.1" r="4" fill="#3465a4"><title>Scottish Knights Templar International</title></circle></a><a href="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/"><circle cx="178.6" cy="119.5" r="4" fill="#3465a4"><title>Scottish Knights Templar St. A (Corp</title></circle></a><a href="/variants/s13/w4k1db24k1dg12k1w12k1db12w4k1w1k2~x2/"><circle cx="213.2" cy="101.8" r="4" fill="#3465a4"><title>Lesotho</title></circle></a><a href="/variants/s14/db3g1k1db2lb16db2k4g1k1db16lb2db2k1g3~x2/"><circle cx="210.5" cy="111.2" r="4" fill="#3465a4"><title>Tiger of Sweden</title></circle></a><a href="/variants/s10/w4r1db20k6w5k4w3k2r1db2~x2/"><circle cx="203.2" cy="118.4" r="4" fill="#3465a4"><title>Scottish Knights Templar, of M.T.S. St Andrew</title></circle></a><a href="/variants/s12/db30o3db4k2db2w2db2k14o8db2o6w2~x2/"><circle cx="249.8" cy="119.0" r="4" fill="#3465a4"><title>Unidentified #48</title></circle></a><a href="/variants/s13/y7k1db22k2db1k2db4k2db1k2db4k18w5~x2~k0503265-db1605267/"><circle cx="252.3" cy="115.2" r="4" fill="#3465a4"><title>Swedish</title></circle></a><a href="/variants/s15/k8db2k2db24k8w2k1w2k4w2k1w2k8g16k4~x2/"><circle cx="178.5" cy="98.9" r="4" fill="#3465a4"><title>Fair Trade</title></circle></a><a href="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2~db1406275/"><circle cx="167.6" cy="94.7" r="4" fill="#3465a4"><title>Scottish Knights Templar St. Andrews</title></circle></a><circle cx="205.2" cy="85.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

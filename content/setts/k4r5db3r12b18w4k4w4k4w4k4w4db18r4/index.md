@@ -1,6 +1,13 @@
 ---
 title: "Edinburgh, Military Tattoo"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Edinburgh"
+  url: "/clan/edinburgh/"
+- name: "Edinburgh Military Tattoo"
+  url: "/tartans/e/ed/edinburgh-military-tattoo/"
 ---
 This is the **Edinburgh, Military Tattoo** sett — one scale-free proportion (`k4r5db3r12b18w4k4w4k4w4k4w4db18r4`), colour order pattern
 [KRBRBWKWKWKWBR](/stripes/krbrbwkwkwkwbr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/k4r6db3r16lb18w4k4w4k4w4k4w4db18r4~x2/"><circle cx="29.1" cy="162.0" r="4" fill="#3465a4"><title>Edinburgh Military Tattoo (Dance)</title></circle></a><a href="/variants/s12/dr8w30o5w8o5k12w6k12db28dr4db8dr8/"><circle cx="58.4" cy="165.0" r="4" fill="#3465a4"><title>Kinloch Anderson Dress</title></circle></a><a href="/variants/s12/r3lb3r3lb12k6g3k4db16k4g3k6lb3~x2/"><circle cx="46.9" cy="182.1" r="4" fill="#3465a4"><title>Trinity Presbyterian Church</title></circle></a><a href="/variants/s15/db2k1db6k1dr5y3dr5k2w3k2w9k1w2k1y2~x2/"><circle cx="50.0" cy="151.9" r="4" fill="#3465a4"><title>Unidentified #11</title></circle></a><a href="/variants/s9/k20w3lb20k3r3dg20r10w3k20~x2/"><circle cx="33.9" cy="156.3" r="4" fill="#3465a4"><title>Soutar/Souter</title></circle></a><a href="/variants/s11/y2k2r2db10r1k9w9r2w2r1w2~x2/"><circle cx="73.0" cy="142.8" r="4" fill="#3465a4"><title>Cameron Erracht Dress Trade Tartan</title></circle></a><a href="/variants/s12/r20g3r3g13r6k10db14w3r3w3db14k12~x2/"><circle cx="55.2" cy="179.2" r="4" fill="#3465a4"><title>Glengarry Highland Games</title></circle></a><a href="/variants/s13/r6db9k2db2k2db9k10y4n17r5k2r5w4~x2/"><circle cx="34.6" cy="152.9" r="4" fill="#3465a4"><title>Alberta Caledonia (Corporate)</title></circle></a><a href="/variants/s15/db2k1db6k1r5y3r5k2w3k2w9k1w2k1y2~x2/"><circle cx="48.4" cy="147.5" r="4" fill="#3465a4"><title>Unidentified 32</title></circle></a><a href="/variants/s12/lyi3ly3lyi12k2ly2lo2ly8k2db12dp8k2dp2~x2~lyi3202083-ly2804101/"><circle cx="27.2" cy="166.4" r="4" fill="#3465a4"><title>Merise and Lars (Personal)</title></circle></a><circle cx="16.8" cy="166.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

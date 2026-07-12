@@ -1,6 +1,11 @@
 ---
 title: "Dorward"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Dorward"
+  url: "/tartans/d/do/dorward/"
 ---
 This is the **Dorward** sett — one scale-free proportion (`o7r3o9g15db19o14r4`), colour order pattern
 [RRBGRRR](/stripes/rrbgrrr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1o4g3o1db3o1~x2/"><circle cx="227.1" cy="285.2" r="4" fill="#3465a4"><title>Fraser Hunting</title></circle></a><a href="/variants/s7/dy7r3dy9g15db19dy14r4~x2/"><circle cx="220.9" cy="268.2" r="4" fill="#3465a4"><title>Dorward/Dogwood</title></circle></a><a href="/variants/s6/r13dt13o5lo2dt13lo13~x2~o2606057-lo2906085/"><circle cx="198.7" cy="271.0" r="4" fill="#3465a4"><title>Torana</title></circle></a><a href="/variants/s7/r10b44o5dg40o62r5o10/"><circle cx="285.5" cy="212.2" r="4" fill="#3465a4"><title>Ballintrae</title></circle></a><a href="/variants/s11/db3o14g14o2db14o2db14o2g14o14r3~x2/"><circle cx="190.9" cy="230.9" r="4" fill="#3465a4"><title>Buchanan, hunting</title></circle></a><a href="/variants/s5/db2g4y1db1r2~x12/"><circle cx="183.2" cy="294.2" r="4" fill="#3465a4"><title>Creek Indian Nation</title></circle></a><a href="/variants/s8/r10g14r3db14r10g14r3db4~x2/"><circle cx="192.5" cy="278.8" r="4" fill="#3465a4"><title>Glasgow District Tartan</title></circle></a><a href="/variants/s6/dy1db3dy1g3dy4r1~x2/"><circle cx="234.5" cy="291.0" r="4" fill="#3465a4"><title>Fraser Hunting #2</title></circle></a><a href="/variants/s7/db2g4y1db1r2g4r2~x12/"><circle cx="219.0" cy="282.9" r="4" fill="#3465a4"><title>Creek Indian Nation (District)</title></circle></a><a href="/variants/s8/r3g6db2dbi2db11g9db2r3~x2~db1204274-dbi1406275/"><circle cx="200.1" cy="242.8" r="4" fill="#3465a4"><title>Daks (Navy)</title></circle></a><circle cx="211.5" cy="262.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "MacDonell of Glengarry D"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDonell"
+  url: "/clan/macdonell/"
 ---
 A family of [Clan MacDonell](/clan/macdonell/).
 

@@ -1,6 +1,15 @@
 ---
 title: "Downie Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Downie"
+  url: "/clan/downie/"
+- name: "Downie"
+  url: "/families/downie/"
+- name: "Downie Dress"
+  url: "/tartans/d/do/downie-dress/"
 ---
 This is the **Downie Dress** sett — one scale-free proportion (`g3lb3g5r4g28db8w3db3w24r2k2`), colour order pattern
 [GWGRGBWBWRK](/stripes/gwgrgbwbwrk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lo2lb14k1g11k2r2gi2k1~x4~g2508144-gi2604158/"><circle cx="145.5" cy="128.1" r="4" fill="#3465a4"><title>Mission (District)</title></circle></a><a href="/variants/s8/o2lb14k1g11k2lr2b2k1~x4~o1604043-lr3103019/"><circle cx="148.2" cy="128.7" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s13/lb7k1do1n2g18lb2k1lo2k1lb6k1do1lb1~x4/"><circle cx="181.4" cy="91.1" r="4" fill="#3465a4"><title>Wcwm 972-1</title></circle></a><a href="/variants/s9/g9k2r4g14w3lp3w23g5y3~x2/"><circle cx="155.5" cy="145.7" r="4" fill="#3465a4"><title>Taylor Dress Family Tartan</title></circle></a><a href="/variants/s9/g9k2b4g14w3dg3w23g5y3~x2/"><circle cx="154.1" cy="148.5" r="4" fill="#3465a4"><title>Taylor, dress</title></circle></a><a href="/variants/s8/g22r3w1g2r3lb16k3dy2~x4/"><circle cx="163.1" cy="86.3" r="4" fill="#3465a4"><title>Stirling University #2</title></circle></a><a href="/variants/s8/dy2lb14k1dg11k2r2g2k1~x4~dg1806142-g2203152/"><circle cx="144.4" cy="125.2" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s10/y4t25g3k3g3k3g13w24k2r3~x2/"><circle cx="83.0" cy="128.5" r="4" fill="#3465a4"><title>MacLeod Special Dress (Dance)</title></circle></a><a href="/variants/s10/lb24k2r2lb2db12g28r4g5lb3g3~x2/"><circle cx="194.8" cy="139.2" r="4" fill="#3465a4"><title>Downie (Name)</title></circle></a><a href="/variants/s10/y6k2g12r4g8k10w24t2w3t2~x2/"><circle cx="87.4" cy="134.7" r="4" fill="#3465a4"><title>Gillies Dress, Green (Dance)</title></circle></a><circle cx="149.4" cy="111.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

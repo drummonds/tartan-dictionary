@@ -1,6 +1,15 @@
 ---
 title: "MacRobart Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacRobart"
+  url: "/clan/macrobart/"
+- name: "MacRobart"
+  url: "/families/macrobart/"
+- name: "MacRobart"
+  url: "/tartans/m/ma/macrobart/"
 ---
 This is the **MacRobart Family Tartan** sett — one scale-free proportion (`dg17lb3dg17k15w33db8w33k15dg17lb3dg17lb3`), colour order pattern
 [GWGKWBWKGWGW](/stripes/gwgkwbwkgwgw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k23lb25r4lb25k23y2g25k4g25y2~x2/"><circle cx="91.9" cy="168.8" r="4" fill="#3465a4"><title>Forsyth</title></circle></a><a href="/variants/s10/k23lb25r4lb25k23y2g25k4g25y4/"><circle cx="86.8" cy="171.6" r="4" fill="#3465a4"><title>Forsyth</title></circle></a><a href="/variants/s12/w5db1w16db4w4k6g10dr2g10k6db10dr2~x2/"><circle cx="75.7" cy="152.2" r="4" fill="#3465a4"><title>Murray of Atholl Dress</title></circle></a><a href="/variants/s12/k4g4k2g12k6w3k6n2w4n2w15r3~x2/"><circle cx="71.1" cy="167.1" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/variants/s12/g8r1g2r3g12k12dy1lb12r3lb2r1lb8~x2/"><circle cx="105.2" cy="149.0" r="4" fill="#3465a4"><title>Macallan Distillery</title></circle></a><a href="/variants/s12/k6g5k6do6w1do10k6w3dr1w12dr1w3~x4/"><circle cx="70.8" cy="156.6" r="4" fill="#3465a4"><title>Forbes - 1970 (WCWM #1)</title></circle></a><a href="/variants/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/"><circle cx="54.6" cy="169.3" r="4" fill="#3465a4"><title>MacKenzie Dress - 1950 (Clan)</title></circle></a><a href="/variants/s10/t12ly2t12k6o10k1w2k1o10k6~x2/"><circle cx="130.1" cy="165.5" r="4" fill="#3465a4"><title>Soroptimist International</title></circle></a><a href="/variants/s12/k4g4k2g14k6w3k6n2w4n2w15r3~x2/"><circle cx="70.5" cy="164.7" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/variants/s12/w5db2w17db5w5db9g12r3g12k9db11r3~x2/"><circle cx="42.0" cy="186.6" r="4" fill="#3465a4"><title>Murray Dress Trade Tartan</title></circle></a><circle cx="98.3" cy="165.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,13 @@
 ---
 title: "Hay or Stewart"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hay"
+  url: "/clan/hay/"
+- name: "Hay or Stewart"
+  url: "/tartans/h/ha/hay-or-stewart/"
 ---
 This is the **Hay or Stewart** sett — one scale-free proportion (`w9r5w29k10y2k3w3k3dg12r6k3r3w2`), colour order pattern
 [WRKRGKWKGKWRW](/stripes/wrkrgkwkgkwrw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w9r5w29k10y2k3w3k3g12r6k3r3w2~x2/"><circle cx="160.7" cy="110.6" r="4" fill="#3465a4"><title>Hay, or Stewart</title></circle></a><a href="/variants/s14/w9r5w29db3k10ly2k3w3k3g12r6k3r3w2~x2/"><circle cx="132.1" cy="93.5" r="4" fill="#3465a4"><title>Hay - Stewart (Fashion)</title></circle></a><a href="/variants/s14/r2w24lb3w3k6y1k1w1k1g8r4k1r2w1~x2/"><circle cx="185.8" cy="53.9" r="4" fill="#3465a4"><title>Stewart Victoria Royal Family Tartan</title></circle></a><a href="/variants/s12/g4b3g3b4g4k8g3k9w29r2w4r2~x2/"><circle cx="149.4" cy="110.7" r="4" fill="#3465a4"><title>Ross, hunting dress</title></circle></a><a href="/variants/s11/dy27w2dy3ly4dy3w2dy5k13n2w26n3~x2/"><circle cx="158.8" cy="119.2" r="4" fill="#3465a4"><title>MacKellar Dress, Maroon (Dance)</title></circle></a><a href="/variants/s13/lb10w18lb4lo6lb45k30lb4k4y4r4y4r4y4/"><circle cx="131.3" cy="102.3" r="4" fill="#3465a4"><title>Les Coeurs de Lions en Bleu</title></circle></a><a href="/variants/s12/w15db2k3y1k1w1k1g3r4k1r1w1~x2/"><circle cx="169.9" cy="79.1" r="4" fill="#3465a4"><title>Stewart Dress MINI Tartan</title></circle></a><a href="/variants/s11/lo2db2w2r1w2db10w1k2lo10w1lo2~x4/"><circle cx="152.0" cy="142.2" r="4" fill="#3465a4"><title>Bear Baars (Personal)</title></circle></a><a href="/variants/s18/r4lb5r2lb7r10k4lo2k2lo2k4w4k4lb18r1k2r1lb4r3~x2~r2109032/"><circle cx="147.7" cy="100.4" r="4" fill="#3465a4"><title>Anderson Red (Westwood) (Estimated threadcount)</title></circle></a><a href="/variants/s12/dr4w4dr2w29k10dg3k10dg4g4dg3g3dg3~x2~dg1806142-g2408144/"><circle cx="134.0" cy="114.3" r="4" fill="#3465a4"><title>Ross Arisaid</title></circle></a><circle cx="160.6" cy="109.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

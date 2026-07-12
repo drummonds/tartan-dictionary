@@ -1,6 +1,11 @@
 ---
 title: "MacCaskill Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "MacCaskill"
+  url: "/tartans/m/ma/maccaskill/"
 ---
 This is the **MacCaskill Family Tartan** sett — one scale-free proportion (`k2r1g15k15db15y1k2`), colour order pattern
 [KGBKGRK](/stripes/kgbkgrk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r3k2db25k28g25k2r3~x2/"><circle cx="167.5" cy="167.7" r="4" fill="#3465a4"><title>Coarse Kilt</title></circle></a><a href="/variants/s7/r4k4db24k24g24k2r3~x2/"><circle cx="151.6" cy="179.8" r="4" fill="#3465a4"><title>Black Watch</title></circle></a><a href="/variants/s7/k4db16k12g12r1g2k2~x2/"><circle cx="174.3" cy="172.9" r="4" fill="#3465a4"><title>Dundas #2</title></circle></a><a href="/variants/s7/y3k1db20k16g20k1w3~x2/"><circle cx="135.2" cy="146.0" r="4" fill="#3465a4"><title>MacCormick</title></circle></a><a href="/variants/s8/r2k4db23k14g16y1k4y2~x2/"><circle cx="163.6" cy="133.1" r="4" fill="#3465a4"><title>Thomas, baron of Craigie, Robert (Personal)</title></circle></a><a href="/variants/s7/r3k2g15k10db21k1y2/"><circle cx="176.4" cy="141.4" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s9/r2g10k12db1k2db14k1db1g2~x2/"><circle cx="152.0" cy="143.1" r="4" fill="#3465a4"><title>McWilliams Wedding (Personal)</title></circle></a><a href="/variants/s7/db12k4g4r1g4k1y1~x4/"><circle cx="194.1" cy="165.5" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/variants/s7/r3k2g15k10db20k2y2~x2/"><circle cx="142.2" cy="172.5" r="4" fill="#3465a4"><title>MacLeod Clan Tartan</title></circle></a><a href="/variants/s7/r3k2g15k10db20k2y2/"><circle cx="142.2" cy="172.5" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><circle cx="158.4" cy="151.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

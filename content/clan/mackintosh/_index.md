@@ -1,6 +1,9 @@
 ---
 title: "Clan Mackintosh (Clan Chattan)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 **Territory:** Badenoch & Strathnairn · **1745 strength:** 800 men
 

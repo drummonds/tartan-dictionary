@@ -12,7 +12,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/east-of-scotland-tartan-army/"><img src="/variants/s6/dt40dy10dt8r20dt100w5/sett.png" alt="East of Scotland Tartan Army" width="140"><br><strong>East of Scotland Tartan Army</strong></a></li>
 <li><a class="tartan" href="/families/easton/"><img src="/variants/s7/n3db2w1db50y1db2r3~x2~n2203265-db1003265/sett.png" alt="Easton" width="140"><br><strong>Easton</strong></a></li>
 <li><a class="tartan" href="/variants/s13/w1db16k12lb2dp3lb2k12db2k2db2k2db7w1~x2/"><strong>Edgar</strong></a></li>
-<li><a class="tartan" href="/families/edinburgh/"><img src="/variants/s11/db6w2db2w2db4w6db28lb4db4lb45r4/sett.png" alt="Edinburgh" width="140"><br><strong>Edinburgh</strong></a></li>
+<li><a class="tartan" href="/families/edinburgh/"><img src="/variants/s9/w3db22k2r3k2r5g7b2k2~x2/sett.png" alt="Edinburgh" width="140"><br><strong>Edinburgh</strong></a></li>
 <li><a class="tartan" href="/clan/edmonstone/"><img src="/variants/s10/dg7r4dg14db10dg5db10w2db10dg5db5~x2/sett.png" alt="Edmonstone" width="140"><br><strong>Edmonstone</strong></a><div class="clan-territory">clan</div></li>
 <li><a class="tartan" href="/families/edmonstone-of-duntreath/"><img src="/variants/s10/dg7r4dg14db10dg5db10w2db10dg5db5~x2/sett.png" alt="Edmonstone of Duntreath" width="140"><br><strong>Edmonstone of Duntreath</strong></a></li>
 <li><a class="tartan" href="/variants/s9/n37db4n7db4n9db40lb2db4n2/"><strong>Edwards</strong></a></li>

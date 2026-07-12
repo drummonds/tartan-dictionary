@@ -1,6 +1,11 @@
 ---
 title: "Budge (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Budge"
+  url: "/tartans/b/bu/budge/"
 ---
 This is the **Budge (Personal)** sett — one scale-free proportion (`t48db4lr7db3lr4db1lr2db6lr3db9t4r3db7`), colour order pattern
 [BBYBYBYBYBBRB](/stripes/bbybybybybbrb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/lb3db1lb1r1lb1db10r1lb9t35ly2t2ly1lb2~x2/"><circle cx="358.2" cy="91.4" r="4" fill="#3465a4"><title>De Clercq, Christian (Belgium)</title></circle></a><a href="/variants/s9/r3n32db2n3db4n2db16w1db1~x2/"><circle cx="454.0" cy="141.8" r="4" fill="#3465a4"><title>Dauphinee, Andrew Hunter (Personal)</title></circle></a><a href="/variants/s11/n3w1n1w1n2w3n14db2n2db32r2~x2/"><circle cx="371.7" cy="107.2" r="4" fill="#3465a4"><title>Unknown</title></circle></a><a href="/variants/s9/dbi66w1db10w1db10w1db12r2lb24~x2~dbi1406275-db1404245/"><circle cx="356.4" cy="99.5" r="4" fill="#3465a4"><title>RAAF #2</title></circle></a><a href="/variants/s23/b126r3y16b20y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4do130b10/"><circle cx="396.0" cy="58.0" r="4" fill="#3465a4"><title>Unidentified Plaid 3</title></circle></a><a href="/variants/s10/b64g4o1g4o1g4o64do2o2do8~x2/"><circle cx="400.3" cy="113.0" r="4" fill="#3465a4"><title>Connacht</title></circle></a><a href="/variants/s8/n20db2n2db2n2o47db24w2~n1900000-o2500000/"><circle cx="352.6" cy="166.3" r="4" fill="#3465a4"><title>Browne (Personal)</title></circle></a><a href="/variants/s11/db3w1db1w1db2w3db15t2db2t22r2~x2/"><circle cx="299.6" cy="134.8" r="4" fill="#3465a4"><title>Commonwealth Games 1986 (Corp)</title></circle></a><a href="/variants/s11/db6w2db2w2db4w6db28b4db4b45r4/"><circle cx="315.2" cy="133.2" r="4" fill="#3465a4"><title>Edinburgh, '86</title></circle></a><circle cx="398.9" cy="106.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

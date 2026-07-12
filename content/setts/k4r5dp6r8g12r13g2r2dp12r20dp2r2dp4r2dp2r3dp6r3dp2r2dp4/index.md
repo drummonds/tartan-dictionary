@@ -1,6 +1,15 @@
 ---
 title: "Murray of Tullibardine #3"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Murray"
+  url: "/clan/murray/"
+- name: "Murray of Tullibardine"
+  url: "/families/murray-of-tullibardine/"
+- name: "Murray of Tullibardine 3"
+  url: "/tartans/m/mu/murray-of-tullibardine-3/"
 ---
 This is the **Murray of Tullibardine #3** sett — one scale-free proportion (`k4r5dp6r8g12r13g2r2dp12r20dp2r2dp4r2dp2r3dp6r3dp2r2dp4`), colour order pattern
 [BRBRBRBRBRBRBRGRGRBRK](/stripes/brbrbrbrbrbrbrgrgrbrk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s23/r34y3r6y4r4y6r4y8r26y8r4y6r4y4r6y3r34k8n3k6n4k10n10/"><circle cx="295.9" cy="117.7" r="4" fill="#3465a4"><title>Starrett Company, L.S. (Corporate)</title></circle></a><a href="/variants/s21/db4r1db1r2db10r2db1r1k1r1db1r12db6r4g4r12g10r6db4r2k2~x4/"><circle cx="224.7" cy="129.1" r="4" fill="#3465a4"><title>MacLeod of Tullibardine</title></circle></a><a href="/variants/s21/db4r2db2r3db12r3db2r2k5r2db2r22db26r6g6r22g23r14db8r7k3~x2/"><circle cx="215.8" cy="122.2" r="4" fill="#3465a4"><title>Murray of Tullibardine</title></circle></a><a href="/variants/s11/db25dbi2r25g10r4db25r2g2r25g2r2~x2~db1204274-dbi1406275/"><circle cx="287.5" cy="142.9" r="4" fill="#3465a4"><title>Hebrides #2</title></circle></a><a href="/variants/s10/k10lb1k1r10lb1k1lb1r10g6r2~x4/"><circle cx="237.8" cy="126.3" r="4" fill="#3465a4"><title>Unidentified (Scolpaig)</title></circle></a><a href="/variants/s25/dp9r2dp9r9dp1r1dp2r1dp1r9w1r4dp11r2dp11r4w1r9g2r4g2r9g9r2g9~x2/"><circle cx="238.2" cy="157.0" r="4" fill="#3465a4"><title>Lumsden of Clova</title></circle></a><a href="/variants/s25/dg9r2dg9r9dg2r4dg2r9w1r4dp11r2dp11r4w1r9dp1r1dp2r1dp1r9dp9r2dp9~x2/"><circle cx="251.3" cy="159.6" r="4" fill="#3465a4"><title>Lumsden of Clova (Clan?)</title></circle></a><a href="/variants/s13/y3r2k7r2db7r18k2r2k2r18db7r2k2~x2/"><circle cx="270.4" cy="138.2" r="4" fill="#3465a4"><title>Brad Majors</title></circle></a><a href="/variants/s25/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4g4r14g27r9db6r6k3/"><circle cx="209.8" cy="112.9" r="4" fill="#3465a4"><title>Murray of Tullibardine #4</title></circle></a><a href="/variants/s13/ly3r2k7r2db7r18k2r2k2r18db7r2k2~x2/"><circle cx="265.8" cy="136.9" r="4" fill="#3465a4"><title>Brad Majors (Fashion)</title></circle></a><circle cx="255.9" cy="139.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

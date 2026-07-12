@@ -1,6 +1,15 @@
 ---
 title: "Cranstoun"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cranstoun"
+  url: "/clan/cranstoun/"
+- name: "Cranstoun"
+  url: "/families/cranstoun/"
+- name: "Cranstoun"
+  url: "/tartans/c/cr/cranstoun-2/"
 ---
 This is the **Cranstoun** sett — one scale-free proportion (`b14db1b1db1b3db6g12r2`), colour order pattern
 [BBBBBBGR](/stripes/bbbbbbgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g19w1db12b2db2b2db2b16~x2/"><circle cx="284.4" cy="201.8" r="4" fill="#3465a4"><title>Unnamed, No 52</title></circle></a><a href="/variants/s9/b3db3b12db26g26r3g26db28w3~b2603265-db1404245/"><circle cx="250.1" cy="213.6" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s8/db9t2db2y1t7db2r1t4~x4/"><circle cx="318.6" cy="233.0" r="4" fill="#3465a4"><title>Mercer, Charles</title></circle></a><a href="/variants/s7/b32do6o5do6dg19o3dg5~x2/"><circle cx="283.4" cy="220.4" r="4" fill="#3465a4"><title>Roscommon</title></circle></a><a href="/variants/s6/db35w3db8t36dg9o3~x2~db1605267-t2605232/"><circle cx="290.0" cy="208.2" r="4" fill="#3465a4"><title>Georgian Bay, Waters of</title></circle></a><a href="/variants/s6/r15t98db72y25db8w15~t2304245-db1404245/"><circle cx="253.6" cy="208.0" r="4" fill="#3465a4"><title>Afternoon Tea / Earl Grey</title></circle></a><a href="/variants/s9/r2db12dg2b11dg4db5b2dg24w2~x2/"><circle cx="272.8" cy="182.8" r="4" fill="#3465a4"><title>Fraser Gathering, hunting</title></circle></a><a href="/variants/s8/b24dp3b3dp3b3dp7dg20r3~x2/"><circle cx="289.0" cy="215.4" r="4" fill="#3465a4"><title>Crantock</title></circle></a><a href="/variants/s9/dp4db18r2db2r2db9g20db3g4~x2~dp1607327-r1606028/"><circle cx="296.9" cy="200.8" r="4" fill="#3465a4"><title>St. Andrews New Golf Club</title></circle></a><a href="/variants/s8/b36w4b4w4b16dg64r9b6~x2/"><circle cx="294.2" cy="169.5" r="4" fill="#3465a4"><title>Colvin</title></circle></a><circle cx="293.4" cy="198.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

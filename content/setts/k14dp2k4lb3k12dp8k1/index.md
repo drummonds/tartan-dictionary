@@ -1,6 +1,11 @@
 ---
 title: "Punky Princess"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Punky Princess"
+  url: "/tartans/p/pu/punky-princess-2/"
 ---
 This is the **Punky Princess** sett — one scale-free proportion (`k14dp2k4lb3k12dp8k1`), colour order pattern
 [KBKWKBK](/stripes/kbkwkbk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k24n18k11n4k11n18k53r4/"><circle cx="372.5" cy="176.4" r="4" fill="#3465a4"><title>Spirit of Glyndwr Red (Fashion)</title></circle></a><a href="/variants/s8/k24n18k11n4k11n18k53ly4/"><circle cx="373.2" cy="179.8" r="4" fill="#3465a4"><title>Spirit of Glyndwr Gold (Fashion)</title></circle></a><a href="/variants/s11/k1y1dp7k8y1k8y1dp2y1k4y1~x4/"><circle cx="306.6" cy="182.7" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s8/k21dp15k5dp15k5dp15k21w2~x2~dp1205314/"><circle cx="306.8" cy="227.8" r="4" fill="#3465a4"><title>Highland Spirit Weavers Tartan</title></circle></a><a href="/variants/s7/k14r2k4lb3k12r8k1~x2/"><circle cx="353.7" cy="174.1" r="4" fill="#3465a4"><title>Punky Princess (Fashion)</title></circle></a><a href="/variants/s8/k24n18k11n4k11n18k53n4/"><circle cx="402.8" cy="195.5" r="4" fill="#3465a4"><title>Spirit of Glyndwr Grey (Fashion)</title></circle></a><a href="/variants/s7/n1k21n5k3n5k9r1~x4/"><circle cx="432.7" cy="151.6" r="4" fill="#3465a4"><title>Sunderland of Scotland (Fashion)</title></circle></a><a href="/variants/s7/k1n2k7n11k18y2k1~x2/"><circle cx="359.0" cy="156.0" r="4" fill="#3465a4"><title>DDB Canada (Fashion)</title></circle></a><a href="/variants/s9/g12k8n6k22n3k8n3k40g6/"><circle cx="384.1" cy="165.3" r="4" fill="#3465a4"><title>Jensen, Sven (Personal)</title></circle></a><a href="/variants/s6/k21lb2k5lb9k13g2~x4/"><circle cx="378.9" cy="194.8" r="4" fill="#3465a4"><title>New Zealand (2000)</title></circle></a><circle cx="379.7" cy="184.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

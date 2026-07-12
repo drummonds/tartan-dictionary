@@ -1,6 +1,11 @@
 ---
 title: "Stewart of Achnacone"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Stewart"
+  url: "/clan/stewart/"
 ---
 A family of [Clan Stewart](/clan/stewart/).
 

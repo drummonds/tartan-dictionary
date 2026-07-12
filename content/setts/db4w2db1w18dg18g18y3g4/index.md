@@ -1,6 +1,11 @@
 ---
 title: "Gigha, Green (Dance)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Gigha"
+  url: "/tartans/g/gi/gigha/"
 ---
 This is the **Gigha, Green (Dance)** sett — one scale-free proportion (`db4w2db1w18dg18g18y3g4`), colour order pattern
 [BWBWGGGG](/stripes/bwbwgggg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g2dy10g11y4dy1w18g2dy1~x2/"><circle cx="212.0" cy="184.3" r="4" fill="#3465a4"><title>Aviemore Check District Tartan</title></circle></a><a href="/variants/s10/ly10db24ly5db13ly24db5g52db5dbi18w8~db1004274-dbi1406275/"><circle cx="150.7" cy="197.3" r="4" fill="#3465a4"><title>Leitrem County Crest (Fashion)</title></circle></a><a href="/variants/s8/g2dy10g11ly4dy1w18g2dy1~x2/"><circle cx="210.9" cy="184.3" r="4" fill="#3465a4"><title>Aviemore Check (Fashion)</title></circle></a><a href="/variants/s8/g2do8g8ly3do1w12g2do1~x2/"><circle cx="181.1" cy="211.4" r="4" fill="#3465a4"><title>National Trust</title></circle></a><a href="/variants/s8/dg3ly2dg14ly1w10n14ly2n3~x2/"><circle cx="206.0" cy="205.4" r="4" fill="#3465a4"><title>Bannockbane Hunting (MacBean and Bishop)</title></circle></a><a href="/variants/s10/g16w8dg2w1dg2w4dg24w8db16w4~x2/"><circle cx="191.5" cy="178.1" r="4" fill="#3465a4"><title>Spirit of Pakistan, The</title></circle></a><a href="/variants/s8/g2dy10g11ly4dy1w18g2dy1~x2~dy1603076-ly3307090/"><circle cx="221.7" cy="187.7" r="4" fill="#3465a4"><title>Aviemore Check</title></circle></a><a href="/variants/s8/dg18g6dy3w1dy3w1lb6db6~x2~dg1806142-g2408144/"><circle cx="205.3" cy="170.7" r="4" fill="#3465a4"><title>Iroquois Falls Centenary (Commem.)</title></circle></a><a href="/variants/s8/lg4n2dg24dy10w12r1w12dg2~x2/"><circle cx="173.6" cy="140.7" r="4" fill="#3465a4"><title>Reuben J Jolley Family (Personal)</title></circle></a><a href="/variants/s8/dg3lo2dg30w18ly1dt30ly2dt3~x2/"><circle cx="236.2" cy="145.7" r="4" fill="#3465a4"><title>Bannockbane Green</title></circle></a><circle cx="166.5" cy="179.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Brunton (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Brunton"
+  url: "/clan/brunton/"
+- name: "Brunton"
+  url: "/families/brunton/"
+- name: "Brunton"
+  url: "/tartans/b/br/brunton/"
 ---
 This is the **Brunton (Personal)** sett — one scale-free proportion (`k7r3k27dg27ly3dg3ly3dg3`), colour order pattern
 [GYGYGKRK](/stripes/gygygkrk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k7r3k27g27y3g3y3g3~x2/"><circle cx="206.4" cy="165.3" r="4" fill="#3465a4"><title>Brunton (Personal)</title></circle></a><a href="/variants/s9/ni3o3k16ni2k2ni16k3ni2n2~x2~ni1700000/"><circle cx="243.9" cy="171.3" r="4" fill="#3465a4"><title>Chinzei Keiai Junior High School</title></circle></a><a href="/variants/s9/n3o3k16n2k2n16k3n2lb2~x2~n1700000-o2500000/"><circle cx="231.1" cy="167.9" r="4" fill="#3465a4"><title>Chinzei Keiai Senior High School</title></circle></a><a href="/variants/s9/dg4k4dg23k11r2k2r2k20w4~x2/"><circle cx="244.7" cy="157.1" r="4" fill="#3465a4"><title>New Golf Club</title></circle></a><a href="/variants/s9/k12r1k1r1k1r4dg12y1dg2~x4/"><circle cx="216.9" cy="148.7" r="4" fill="#3465a4"><title>Durie</title></circle></a><a href="/variants/s9/n3o3k16n2k2n16k3n2lb2~x2~n1900000-o2500000/"><circle cx="225.6" cy="166.4" r="4" fill="#3465a4"><title>Chinzei Keiai Senior High School</title></circle></a><a href="/variants/s9/k1g8k9r1k1r1k9db8r1~x6/"><circle cx="207.2" cy="173.2" r="4" fill="#3465a4"><title>Guthrie Family Tartan</title></circle></a><a href="/variants/s10/g5k2g17y2k5y2b5k17g2y4~x2/"><circle cx="158.8" cy="175.6" r="4" fill="#3465a4"><title>Antrim</title></circle></a><a href="/variants/s7/g6r2g13k6w2k16r3~x2/"><circle cx="178.1" cy="197.2" r="4" fill="#3465a4"><title>Sinclair Hunting</title></circle></a><a href="/variants/s10/k8g28k8dg17k88dg17k8g28k8r6~g1903114-dg1405139/"><circle cx="276.9" cy="138.2" r="4" fill="#3465a4"><title>Childers (Gurkha Rifles)</title></circle></a><circle cx="228.1" cy="167.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

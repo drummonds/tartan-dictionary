@@ -16,8 +16,8 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/baillie-of-polkemmet/"><img src="/variants/s5/w3t12k12r20g2~x2/sett.png" alt="Baillie of Polkemmet" width="140"><br><strong>Baillie of Polkemmet</strong></a></li>
 <li><a class="tartan" href="/families/baird/"><img src="/variants/s8/db3k2db8k8g8dp1g1dp3~x2/sett.png" alt="Baird" width="140"><br><strong>Baird</strong></a></li>
 <li><a class="tartan" href="/families/baker/"><img src="/variants/s8/db28o3lb1o3db4lb2dp1lb5~x4/sett.png" alt="Baker" width="140"><br><strong>Baker</strong></a></li>
-<li><a class="tartan" href="/families/balfour/"><img src="/variants/s6/db18y2dy6y2dy19r3~x2/sett.png" alt="Balfour" width="140"><br><strong>Balfour</strong></a></li>
-<li><a class="tartan" href="/families/ball/"><img src="/variants/s6/lo13g8k5lb3w2r1~x4/sett.png" alt="Ball" width="140"><br><strong>Ball</strong></a></li>
+<li><a class="tartan" href="/families/balfour/"><img src="/variants/s6/db30y3dy11y3n33r6~x2/sett.png" alt="Balfour" width="140"><br><strong>Balfour</strong></a></li>
+<li><a class="tartan" href="/families/ball/"><img src="/variants/s6/lo13t8r5k3w2g1~x4/sett.png" alt="Ball" width="140"><br><strong>Ball</strong></a></li>
 <li><a class="tartan" href="/families/ballantrae/"><img src="/variants/s7/dy5r3dy31dg20dy3g22r5~x2/sett.png" alt="Ballantrae" width="140"><br><strong>Ballantrae</strong></a></li>
 <li><a class="tartan" href="/families/ballantyne/"><img src="/variants/s5/n60g13n9dr8y4~x2/sett.png" alt="Ballantyne" width="140"><br><strong>Ballantyne</strong></a></li>
 <li><a class="tartan" href="/families/ballarat/"><img src="/variants/s10/w5n38y3db11y1db11y3n4w5lo1~x2~n1700000-y2400000/sett.png" alt="Ballarat" width="140"><br><strong>Ballarat</strong></a></li>
@@ -28,8 +28,8 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/bannatyne/"><img src="/variants/s12/db8r8db42k4db4k4db4k20g4k10g25w8/sett.png" alt="Bannatyne" width="140"><br><strong>Bannatyne</strong></a></li>
 <li><a class="tartan" href="/families/bannockbane/"><img src="/variants/s8/b3t2b30t1w18lb14t2lb3~x2/sett.png" alt="Bannockbane" width="140"><br><strong>Bannockbane</strong></a></li>
 <li><a class="tartan" href="/families/barbecue/"><img src="/variants/s8/r45k2r2k28w16r4k4lo2/sett.png" alt="Barbecue" width="140"><br><strong>Barbecue</strong></a></li>
-<li><a class="tartan" href="/families/barber/"><img src="/variants/s4/y30g30r1db16~x2/sett.png" alt="Barber" width="140"><br><strong>Barber</strong></a></li>
-<li><a class="tartan" href="/families/barbour/"><img src="/variants/s7/ly4dy2ly21db11w2n20r3~x2/sett.png" alt="Barbour" width="140"><br><strong>Barbour</strong></a></li>
+<li><a class="tartan" href="/families/barber/"><img src="/variants/s4/ly30g30r1db16~x2/sett.png" alt="Barber" width="140"><br><strong>Barber</strong></a></li>
+<li><a class="tartan" href="/families/barbour/"><img src="/variants/s7/r3k20w2do11o21ly2o2~x2~o2204058-ly3307090/sett.png" alt="Barbour" width="140"><br><strong>Barbour</strong></a></li>
 <li><a class="tartan" href="/families/barclay/"><img src="/variants/s4/r1g16db16g1/sett.png" alt="Barclay" width="140"><br><strong>Barclay</strong></a></li>
 <li><a class="tartan" href="/variants/s18/g3dg2g2dg16g2dg2g2dg2g4n4k2n2k2n2k24r2k2w3~x2/"><strong>Barkway Wedding 2012</strong></a></li>
 <li><a class="tartan" href="/families/barnes/"><img src="/variants/s10/db20k3db3k3db3k16g3lo3g12dr2~x2/sett.png" alt="Barnes" width="140"><br><strong>Barnes</strong></a></li>
@@ -49,7 +49,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/bear/"><img src="/variants/s18/dy24k1lr2k1dy24o2dy2o12k4lr4w4wi4y4lo4dy4o12dy2o2~x2~dy1503076-lr3000000-wi3701120/sett.png" alt="Bear" width="140"><br><strong>Bear</strong></a></li>
 <li><a class="tartan" href="/variants/s13/r2db18lo4k5lo1k1w1k2g8r6k1r3w1~x4/"><strong>Beaton</strong></a></li>
 <li><a class="tartan" href="/variants/s14/k6t3db28lo8k10lo2k2lb2k4g16dr12k2dr6lb2~x2/"><strong>Beatty</strong></a></li>
-<li><a class="tartan" href="/families/beck/"><img src="/variants/s15/k4lb2w15r6w25lb2k4lb2w15lb4k2lb4k2lb4k2~x2/sett.png" alt="Beck" width="140"><br><strong>Beck</strong></a></li>
+<li><a class="tartan" href="/families/beck/"><img src="/variants/s15/k4w2lb15r6lb25w2k4w2lb15w4k2w4k2w4k2~x2/sett.png" alt="Beck" width="140"><br><strong>Beck</strong></a></li>
 <li><a class="tartan" href="/variants/s6/lbi3lb2db3r3k3ly1~x8~lbi3203246-lb3103284/"><strong>Becker</strong></a></li>
 <li><a class="tartan" href="/families/begg/"><img src="/variants/s9/o4dg30db12g3k2lb3k26dp4k2~dg1504144-db0906265-g2307139-k0704274/sett.png" alt="Begg" width="140"><br><strong>Begg</strong></a></li>
 <li><a class="tartan" href="/variants/s6/db22n5dp9g14db10lo2~x2~dp0904014/"><strong>Belfrage</strong></a></li>
@@ -59,7 +59,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/bell-of-the-borders/"><img src="/variants/s9/r3g2k9lg2k2lg24y2lg2y1~x4~g2408144-lg2901240/sett.png" alt="Bell of the Borders" width="140"><br><strong>Bell of the Borders</strong></a></li>
 <li><a class="tartan" href="/variants/s16/n8db6dp40g16n1g7n2g5n4g4n4g2n5g1n36w6~n1703265-db1104274/"><strong>Bell-McTier Thistle</strong></a></li>
 <li><a class="tartan" href="/families/benedictus/"><img src="/variants/s14/k16t6b12db4dp4db4b35db40b4db4b4db6dp4p6~t2508259-b1511266-db1108266-dp1708331-p2005325/sett.png" alt="Benedictus" width="140"><br><strong>Benedictus</strong></a></li>
-<li><a class="tartan" href="/families/bennet/"><img src="/variants/s11/lr64db18lb2db3lr2db3t14b8k2b4lr2~x2~lb3005267-b2409265/sett.png" alt="Bennet" width="140"><br><strong>Bennet</strong></a></li>
+<li><a class="tartan" href="/families/bennet/"><img src="/variants/s11/r64db18r2db3r2db3r14lb8r2lb4r2~x2/sett.png" alt="Bennet" width="140"><br><strong>Bennet</strong></a></li>
 <li><a class="tartan" href="/variants/s7/k16t2k8r3lr3r3k8~x2/"><strong>Benson</strong></a></li>
 <li><a class="tartan" href="/variants/s14/y1dbi2dg20r3dbi30y1dbi30lb3db9dg4r3dg4dbi2y1~x2~dbi1404245-lb3203246-db1106275/"><strong>Benteau na mara</strong></a></li>
 <li><a class="tartan" href="/clan/benyon/"><img src="/variants/s15/db22k1dg3db6k1db6dg3db4dg7db11y1db11dg7y2k6~dg1605139/sett.png" alt="Benyon" width="140"><br><strong>Benyon</strong></a><div class="clan-territory">clan</div></li>
@@ -84,11 +84,11 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/blackrock/"><img src="/variants/s8/k10dg3k6dg20ki8dr4w4dg10~x2~k0504259-ki0700000/sett.png" alt="BlackRock" width="140"><br><strong>BlackRock</strong></a></li>
 <li><a class="tartan" href="/families/blackstock/"><img src="/variants/s7/lo2dg7k6r11k1r1lo2~x4/sett.png" alt="Blackstock" width="140"><br><strong>Blackstock</strong></a></li>
 <li><a class="tartan" href="/families/blackwater/"><img src="/variants/s20/k4dg2k7t2k4dg17t2dg17k4t2k7dg2k4t4dg2t16dg2t16dg2t4~x2/sett.png" alt="Blackwater" width="140"><br><strong>Blackwater</strong></a></li>
-<li><a class="tartan" href="/families/blair/"><img src="/variants/s13/db2dr2db12k5dg12dr2dg2dr2dg12k5w14dr2w2~x2/sett.png" alt="Blair" width="140"><br><strong>Blair</strong></a></li>
+<li><a class="tartan" href="/families/blair/"><img src="/variants/s7/dg4r1dg18k20db18r1db4~x2~dg1806142-r2109032-db1406275/sett.png" alt="Blair" width="140"><br><strong>Blair</strong></a></li>
 <li><a class="tartan" href="/families/blais/"><img src="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x2/sett.png" alt="Blais" width="140"><br><strong>Blais</strong></a></li>
 <li><a class="tartan" href="/variants/s11/k4r1k3r2dy3k12dg10dgi18db3n3db3~x2~dgi1705139/"><strong>Blake, William & Agnes</strong></a></li>
 <li><a class="tartan" href="/families/blanton/"><img src="/variants/s15/t12k2t2k2t2k10g5r3w2r3g5k10t11k2t2~x2/sett.png" alt="Blanton" width="140"><br><strong>Blanton</strong></a></li>
-<li><a class="tartan" href="/families/blaylock/"><img src="/variants/s12/dg4n2dg8do8o2do8o16k2do5n2o5y2~x2/sett.png" alt="Blaylock" width="140"><br><strong>Blaylock</strong></a></li>
+<li><a class="tartan" href="/families/blaylock/"><img src="/variants/s10/k4w2db8w3r16k2r5y2r5w2~x2/sett.png" alt="Blaylock" width="140"><br><strong>Blaylock</strong></a></li>
 <li><a class="tartan" href="/families/blue/"><img src="/variants/s6/n14r4n14lb15db13w3~x2~n1702277-db1007262/sett.png" alt="Blue" width="140"><br><strong>Blue</strong></a></li>
 <li><a class="tartan" href="/clan/boat/"><img src="/variants/s8/db62w4k2w7dp2g3y2db16~x2/sett.png" alt="Boat" width="140"><br><strong>Boat</strong></a><div class="clan-territory">clan</div></li>
 <li><a class="tartan" href="/families/boat-of-garten/"><img src="/variants/s8/db62w4k2w7dp2g3y2db16~x2/sett.png" alt="Boat of Garten" width="140"><br><strong>Boat of Garten</strong></a></li>
@@ -99,7 +99,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/variants/s7/k1r1w1k1w1k1db1~x16/"><strong>Border Bell</strong></a></li>
 <li><a class="tartan" href="/families/boroughmuir/"><img src="/variants/s7/db6t47db22g47dp4g4n4/sett.png" alt="Boroughmuir" width="140"><br><strong>Boroughmuir</strong></a></li>
 <li><a class="tartan" href="/families/borthwick/"><img src="/variants/s9/g12k2r12k3n12k16n12k3r6~x2/sett.png" alt="Borthwick" width="140"><br><strong>Borthwick</strong></a></li>
-<li><a class="tartan" href="/families/boswell/"><img src="/variants/s5/b8w13r3w2k5~x2/sett.png" alt="Boswell" width="140"><br><strong>Boswell</strong></a></li>
+<li><a class="tartan" href="/families/boswell/"><img src="/variants/s10/b9r2b2db12b2r2b12w1b15y2~x4/sett.png" alt="Boswell" width="140"><br><strong>Boswell</strong></a></li>
 <li><a class="tartan" href="/variants/s8/dr2ly24dr2ly3dr2g24k8dy2~x2/"><strong>Botherston</strong></a></li>
 <li><a class="tartan" href="/families/boucherville/"><img src="/variants/s9/g20y2n5w4g2n2g2n2t6~x2/sett.png" alt="Boucherville" width="140"><br><strong>Boucherville</strong></a></li>
 <li><a class="tartan" href="/families/bowie/"><img src="/variants/s12/dg10lo2dg3r4dg13k13r2t13r4t3r2t10~x2/sett.png" alt="Bowie" width="140"><br><strong>Bowie</strong></a></li>
@@ -111,7 +111,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/variants/s13/db13k3db5k6g18k2dp9k2db3k2dp11k4r4~x2/"><strong>Braid</strong></a></li>
 <li><a class="tartan" href="/families/braveheart/"><img src="/variants/s22/w21dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1o20k2~x2/sett.png" alt="Braveheart" width="140"><br><strong>Braveheart</strong></a></li>
 <li><a class="tartan" href="/variants/s9/k3dr1k14lo14dr1lo1dr1lo1dr2~x4/"><strong>Brecheen</strong></a></li>
-<li><a class="tartan" href="/families/breckon/"><img src="/variants/s9/db3dr1db14dg14dr1dg1dr1dg1dr2~x4/sett.png" alt="Breckon" width="140"><br><strong>Breckon</strong></a></li>
+<li><a class="tartan" href="/families/breckon/"><img src="/variants/s9/db3dy1db14r14dy1r1dy1r1db2~x4/sett.png" alt="Breckon" width="140"><br><strong>Breckon</strong></a></li>
 <li><a class="tartan" href="/variants/s18/lr6k2dr40k16db6k2db4k2n4k2lb2k2n4db7k2n6db1dr4~x2~db1404245/"><strong>Breeding</strong></a></li>
 <li><a class="tartan" href="/families/bressuire/"><img src="/variants/s7/dr1dg4g1dg3dr4db15w1~x4/sett.png" alt="Bressuire" width="140"><br><strong>Bressuire</strong></a></li>
 <li><a class="tartan" href="/variants/s19/dg3dr2t1dr19dg1dr1dg1dr8dg1t8dr1dg8dr1dg1dr1dg28dy1dg2o2~x2/"><strong>Brewer</strong></a></li>
@@ -124,7 +124,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/variants/s8/db2g4lb11dp19db1dp19o4lo2~x2/"><strong>Brigid Mhairi</strong></a></li>
 <li><a class="tartan" href="/variants/s12/db53g10k20y5k5w5k7r18db10k6db6w6/"><strong>Broager</strong></a></li>
 <li><a class="tartan" href="/families/broberg/"><img src="/variants/s4/dr80lb40k5dy6/sett.png" alt="Broberg" width="140"><br><strong>Broberg</strong></a></li>
-<li><a class="tartan" href="/families/brodie/"><img src="/variants/s7/r2k8y1k8g8db8r2~x2/sett.png" alt="Brodie" width="140"><br><strong>Brodie</strong></a></li>
+<li><a class="tartan" href="/families/brodie/"><img src="/variants/s8/r48w4db4k4r12db4r1y4/sett.png" alt="Brodie" width="140"><br><strong>Brodie</strong></a></li>
 <li><a class="tartan" href="/families/brook/"><img src="/variants/s10/n4w4do4w4n4w4do4w4r1n4~x4/sett.png" alt="Brook" width="140"><br><strong>Brook</strong></a></li>
 <li><a class="tartan" href="/variants/s9/db1lb1db1k8g10k8r1w1y1~x2/"><strong>Brooke</strong></a></li>
 <li><a class="tartan" href="/families/brough/"><img src="/variants/s7/dr18db12w2db12dg8dr3dg10~x2/sett.png" alt="Brough" width="140"><br><strong>Brough</strong></a></li>
@@ -143,7 +143,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/bryson/"><img src="/variants/s5/dy16r8t57db56lb8/sett.png" alt="Bryson" width="140"><br><strong>Bryson</strong></a></li>
 <li><a class="tartan" href="/families/buccleuch/"><img src="/variants/s7/r107k9r5dp41r5g51r14/sett.png" alt="Buccleuch" width="140"><br><strong>Buccleuch</strong></a></li>
 <li><a class="tartan" href="/families/buchan/"><img src="/variants/s23/r6g6r2k24r2db2k2r2k24r2g6r6db2k6r2g27r2k2r2g27r2k6db2~x2/sett.png" alt="Buchan" width="140"><br><strong>Buchan</strong></a></li>
-<li><a class="tartan" href="/families/buchanan/"><img src="/variants/s12/dy6g6dy6y1dy6g6k6g4k6g6dy6lb1~x2/sett.png" alt="Buchanan" width="140"><br><strong>Buchanan</strong></a></li>
+<li><a class="tartan" href="/families/buchanan/"><img src="/variants/s18/g6k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x2/sett.png" alt="Buchanan" width="140"><br><strong>Buchanan</strong></a></li>
 <li><a class="tartan" href="/families/buffalo/"><img src="/variants/s2/k1db1~x100/sett.png" alt="Buffalo" width="140"><br><strong>Buffalo</strong></a></li>
 <li><a class="tartan" href="/families/buglass/"><img src="/variants/s13/lo3dt1lo1dt16do2dt2do2dt3do12doi26ly2doi3lb2~x2~do1103038-doi1402055/sett.png" alt="Buglass" width="140"><br><strong>Buglass</strong></a></li>
 <li><a class="tartan" href="/families/buie/"><img src="/variants/s3/r18k3r2~x4/sett.png" alt="Buie" width="140"><br><strong>Buie</strong></a></li>

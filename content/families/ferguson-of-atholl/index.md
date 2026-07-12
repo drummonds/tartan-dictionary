@@ -1,6 +1,11 @@
 ---
 title: "Ferguson of Atholl"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ferguson"
+  url: "/clan/ferguson/"
 ---
 A family of [Clan Ferguson](/clan/ferguson/).
 

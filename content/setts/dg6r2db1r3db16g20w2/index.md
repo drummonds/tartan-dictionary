@@ -1,6 +1,11 @@
 ---
 title: "MacCord / McCord (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "MacCord / McCord"
+  url: "/tartans/m/ma/maccord-mccord/"
 ---
 This is the **MacCord / McCord (Personal)** sett — one scale-free proportion (`dg6r2db1r3db16g20w2`), colour order pattern
 [GRBRBGW](/stripes/grbrbgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r3db6y2db15g12dg39w3~x2/"><circle cx="276.4" cy="153.8" r="4" fill="#3465a4"><title>Wagland (Name)</title></circle></a><a href="/variants/s7/g20dg14db9y2db9k1w2~x4/"><circle cx="170.3" cy="160.8" r="4" fill="#3465a4"><title>Hughes</title></circle></a><a href="/variants/s7/r6db27lb2g2lb2g30w4~x2/"><circle cx="240.7" cy="164.8" r="4" fill="#3465a4"><title>MX-5 Owners' Club</title></circle></a><a href="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-lo2804072/"><circle cx="238.9" cy="142.1" r="4" fill="#3465a4"><title>Michigan, State of (District)</title></circle></a><a href="/variants/s6/y15db8r25db72dg98w15/"><circle cx="227.6" cy="196.2" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/variants/s8/db3r3db36g17y2g21w2r3~x2/"><circle cx="275.2" cy="156.9" r="4" fill="#3465a4"><title>Singh Name Tartan</title></circle></a><a href="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-r1707033/"><circle cx="232.0" cy="139.6" r="4" fill="#3465a4"><title>Michigan State District Tartan</title></circle></a><a href="/variants/s7/db3g13lb1r3lb1db10y1~x2/"><circle cx="240.3" cy="185.8" r="4" fill="#3465a4"><title>Graeme Heckenberg Hunting</title></circle></a><a href="/variants/s7/db3g13lb1r3lb1db10ly1~x2/"><circle cx="234.9" cy="184.1" r="4" fill="#3465a4"><title>Heckenberg Htg (Personal)</title></circle></a><a href="/variants/s8/g8lr4db21g6r7g1r1g8~x2/"><circle cx="242.5" cy="177.4" r="4" fill="#3465a4"><title>Cathcart</title></circle></a><circle cx="225.7" cy="163.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Weaving for Life"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Weaving for Life"
+  url: "/tartans/w/we/weaving-for-life/"
 ---
 This is the **Weaving for Life** sett — one scale-free proportion (`lr24n2lr6m3lr6w6lr6w6`), colour order pattern
 [WYWYRYBY](/stripes/wywyryby/). It is recorded as a single **variant**, below.

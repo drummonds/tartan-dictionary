@@ -1,6 +1,11 @@
 ---
 title: "Limerick, County"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Limerick, County"
+  url: "/tartans/l/li/limerick-county/"
 ---
 This is the **Limerick, County** sett — one scale-free proportion (`do6ly4do3db2do5db2do3db2g14dr3db2`), colour order pattern
 [BBGBBBBBBYB](/stripes/bbgbbbbbbyb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/do6y4do3db2do5db2do3db2g15r3db2~x2/"><circle cx="193.5" cy="204.5" r="4" fill="#3465a4"><title>Limerick</title></circle></a><a href="/variants/s12/dpi4dp4dpi2dp14dg6g3dg6dgi2g4dgi2g15n3~x2~dpi1607327-dp1105325-g2408144-dgi1806142/"><circle cx="151.3" cy="199.7" r="4" fill="#3465a4"><title>Kinloch Anderson Heather (Corporate)</title></circle></a><a href="/variants/s11/dr3db14g14db2dr14db2dr14db2g14db2lo3~x2/"><circle cx="224.1" cy="235.8" r="4" fill="#3465a4"><title>Clare Irish County Tartan</title></circle></a><a href="/variants/s7/lbi4dg13g6dr16lb2dr2g2~x2~lbi3200000-lb3103284/"><circle cx="223.6" cy="226.0" r="4" fill="#3465a4"><title>Caledonian Brewery (Corporate)</title></circle></a><a href="/variants/s11/dt2y10dg4lp5dg2lp3dg2lp5dg4dt15lr2~x2~y2302166-dg1806142/"><circle cx="156.4" cy="215.3" r="4" fill="#3465a4"><title>Elwyn Glen (Corporate)</title></circle></a><a href="/variants/s9/db23ly2dr3dbi7dr3ly2g15dr21ly5~x2~db1404245-dbi1406275/"><circle cx="204.2" cy="203.5" r="4" fill="#3465a4"><title>Land's End Maroon</title></circle></a><a href="/variants/s13/dr3lb2dr3lb2dr14db6lb3db6g16dr6t6dr6lb3~x2/"><circle cx="191.0" cy="207.9" r="4" fill="#3465a4"><title>Ritchie</title></circle></a><a href="/variants/s12/dg19dr3dg3dr15ly13dr15dg3dr3dg19dy6ly6do6~x2/"><circle cx="201.6" cy="230.9" r="4" fill="#3465a4"><title>Maple Leaf</title></circle></a><a href="/variants/s7/g3dy32g4lb3g18dp18lo3~x2/"><circle cx="246.7" cy="210.7" r="4" fill="#3465a4"><title>Wcwm 9275-1410</title></circle></a><a href="/variants/s8/dp11dy2dp2dy2dp2dy11g14w2~x2/"><circle cx="216.9" cy="237.6" r="4" fill="#3465a4"><title>Lamont #2</title></circle></a><circle cx="193.5" cy="220.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Coca Cola US Corporate Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Coca Cola US"
+  url: "/tartans/c/co/coca-cola-us/"
 ---
 This is the **Coca Cola US Corporate Tartan** sett — one scale-free proportion (`w7dy7w7dy40r3`), colour order pattern
 [RGWGW](/stripes/rgwgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/ly12w1k2ly1k1~x8/"><circle cx="408.7" cy="157.5" r="4" fill="#3465a4"><title>Lochcarron, Camel (Fashion)</title></circle></a><a href="/variants/s7/dy3k2dy32dr3dy3k5w3~x2/"><circle cx="448.8" cy="135.4" r="4" fill="#3465a4"><title>Bro-Dreger</title></circle></a><a href="/variants/s5/y25k9y12w2db2~x2/"><circle cx="388.5" cy="185.9" r="4" fill="#3465a4"><title>Gairloch</title></circle></a><a href="/variants/s5/lb15do15lb15do80r6/"><circle cx="454.8" cy="200.3" r="4" fill="#3465a4"><title>Coca Cola (Corporate)</title></circle></a><a href="/variants/s5/lb7dy7lb7dy40r3~x2/"><circle cx="458.2" cy="196.9" r="4" fill="#3465a4"><title>Coca Cola</title></circle></a><a href="/variants/s4/k75y29k4ly6~x2~y2400000-ly3307090/"><circle cx="389.1" cy="173.5" r="4" fill="#3465a4"><title>Perry Ancient (Personal)</title></circle></a><a href="/variants/s5/r2dg1r1dg10w1~x4/"><circle cx="448.7" cy="201.5" r="4" fill="#3465a4"><title>Welsh National District Tartan</title></circle></a><a href="/variants/s8/y20w2y20k4w3y3k3w2/"><circle cx="408.1" cy="174.3" r="4" fill="#3465a4"><title>Guzzo Check (Personal)</title></circle></a><a href="/variants/s5/dy38w9dy3k9w3~x2/"><circle cx="348.5" cy="179.1" r="4" fill="#3465a4"><title>Loch Tummel</title></circle></a><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="368.0" cy="144.3" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><circle cx="431.3" cy="189.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

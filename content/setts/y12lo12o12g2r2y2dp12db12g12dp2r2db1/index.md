@@ -1,6 +1,15 @@
 ---
 title: "Rainbow Kilt (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Rainbow"
+  url: "/clan/rainbow/"
+- name: "Rainbow"
+  url: "/families/rainbow/"
+- name: "Rainbow"
+  url: "/tartans/r/ra/rainbow-2/"
 ---
 This is the **Rainbow Kilt (Fashion)** sett — one scale-free proportion (`y12lo12o12g2r2y2dp12db12g12dp2r2db1`), colour order pattern
 [BRBGBBGRGRYG](/stripes/brbgbbgrgryg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k2ly12dr3ly3dr12g12n12y12g1lb2~x2~n1900000-y2302111/"><circle cx="52.9" cy="165.5" r="4" fill="#3465a4"><title>Auld Scotland Weavers Tartan</title></circle></a><a href="/variants/s9/y4r24dy19w3g23o13dy3n13dy3~x2~o2500000-n1900000/"><circle cx="94.1" cy="195.2" r="4" fill="#3465a4"><title>Teallach Family Tartan</title></circle></a><a href="/variants/s12/db21dp21y2lo2o2r21lo21y21db2r2dp2o21~x2/"><circle cx="73.7" cy="165.5" r="4" fill="#3465a4"><title>Watret</title></circle></a><a href="/variants/s15/w9o14do11o3oi11y7w1do3w1y7o7do3w2b2w2~x2~o2102055-oi2104058/"><circle cx="111.8" cy="156.1" r="4" fill="#3465a4"><title>Hudson Bay Company Artifact</title></circle></a><a href="/variants/s11/db21dp21y21o2r21lo21y21db2r2dp2o21~x2/"><circle cx="105.3" cy="186.8" r="4" fill="#3465a4"><title>Watret (Artefact)</title></circle></a><a href="/variants/s12/y9g7db3r28db4g7db5lb4db5dg7db3w6~x2~g1903114-dg1806142/"><circle cx="101.5" cy="148.1" r="4" fill="#3465a4"><title>Mayo County Crest (Fashion)</title></circle></a><a href="/variants/s10/lo3do2n18lb3o13lb4k3lb4do18lb3~x2/"><circle cx="109.8" cy="167.9" r="4" fill="#3465a4"><title>Leitrim, County</title></circle></a><a href="/variants/s9/r3db7lb1dg6dbi5loi2lo2g2r3~x2~db1204274-dg1806142-dbi1406275-loi2906085-lo2706066-g2408144/"><circle cx="19.4" cy="191.1" r="4" fill="#3465a4"><title>Bailey, Leslie A (Personal)</title></circle></a><a href="/variants/s18/dp19db2g9db2n19dp2n19db2g9db2r18g9r18db2g9db2dp19lb3~x2/"><circle cx="111.4" cy="164.0" r="4" fill="#3465a4"><title>Cuillins of Skye Fashion Tartan</title></circle></a><a href="/variants/s13/lb17r2w2db9ly2g16w1r6w1dg5ly1y8ly2~x2~ly3307090-g1903114-dg1806142-y2203076/"><circle cx="73.9" cy="115.4" r="4" fill="#3465a4"><title>Okanagan(District)</title></circle></a><circle cx="46.7" cy="160.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

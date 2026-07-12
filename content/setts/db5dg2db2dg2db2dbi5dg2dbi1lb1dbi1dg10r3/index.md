@@ -1,6 +1,15 @@
 ---
 title: "Richards Welsh Name Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Richards"
+  url: "/clan/richards/"
+- name: "Richards"
+  url: "/families/richards/"
+- name: "Richards"
+  url: "/tartans/r/ri/richards/"
 ---
 This is the **Richards Welsh Name Tartan** sett — one scale-free proportion (`db5dg2db2dg2db2dbi5dg2dbi1lb1dbi1dg10r3`), colour order pattern
 [BGBGBBGBWBGR](/stripes/bgbgbbgbwbgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db3r1dbi12dg2dbi2db4dbi2dg2dbi2dg9db1ly2~x4~db1204274-dbi1406275/"><circle cx="303.9" cy="195.1" r="4" fill="#3465a4"><title>St. Andrew's Soc. of Philadelphia (C</title></circle></a><a href="/variants/s17/dg14dbi2r2dbi2dg22lb2dbi16lb2db20dg5r2dg5db20lb2dbi16lb2dg8~x2~dbi1406275-db1204274/"><circle cx="260.9" cy="186.6" r="4" fill="#3465a4"><title>Frangord</title></circle></a><a href="/variants/s7/dbi12lb6dbi52db41o12dp6o12~dbi1406275-db1404245/"><circle cx="310.1" cy="217.2" r="4" fill="#3465a4"><title>Great Scot</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2~db1406275/"><circle cx="312.1" cy="211.0" r="4" fill="#3465a4"><title>Hutchesons' Grammar School</title></circle></a><a href="/variants/s11/dg24db7dg7db7k22db7k4dy4k4db40dr14~db1605267-k0503265/"><circle cx="285.3" cy="200.1" r="4" fill="#3465a4"><title>Brethwe Powys</title></circle></a><a href="/variants/s9/r2do15dg12do2db12do2dg12do15ly2~x4/"><circle cx="341.4" cy="259.9" r="4" fill="#3465a4"><title>Amazing Union (Personal)</title></circle></a><a href="/variants/s10/dg9w2dg24db37r3db37dg24w2dg9o4~x2~db1103284/"><circle cx="381.8" cy="190.5" r="4" fill="#3465a4"><title>Hardie</title></circle></a><a href="/variants/s9/dg15g3dr2g3dg8t12db20r2db4~x2~t2105244-db1004274/"><circle cx="224.4" cy="208.0" r="4" fill="#3465a4"><title>Westbrook (2013)</title></circle></a><a href="/variants/s7/dg32dy7dg7dy16db32y3dy8~x2~dg1806142-db1406275/"><circle cx="319.5" cy="243.4" r="4" fill="#3465a4"><title>Strange of Balcaskie (Personal)</title></circle></a><a href="/variants/s7/db14k5dp5k5db14dg32dr4~x2~db1404245-dp1507327/"><circle cx="281.3" cy="231.6" r="4" fill="#3465a4"><title>Bennachie (Whisky)</title></circle></a><circle cx="298.7" cy="212.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

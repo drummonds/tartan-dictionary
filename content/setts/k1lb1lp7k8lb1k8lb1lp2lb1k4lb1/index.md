@@ -1,6 +1,15 @@
 ---
 title: "Clark (Crook)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Clark"
+  url: "/clan/clark/"
+- name: "Clark"
+  url: "/families/clark/"
+- name: "Clark"
+  url: "/tartans/c/cl/clark-3/"
 ---
 This is the **Clark (Crook)** sett — one scale-free proportion (`k1lb1lp7k8lb1k8lb1lp2lb1k4lb1`), colour order pattern
 [KWWKWKWWWKW](/stripes/kwwkwkwwwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k1y1dp7k8y1k8y1dp2y1k4y1~x4/"><circle cx="306.6" cy="182.7" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s10/k17ly2k2ly2k9lb11k2lb11k20ly2~x2/"><circle cx="298.2" cy="177.2" r="4" fill="#3465a4"><title>Coppa Romana (Corporate)</title></circle></a><a href="/variants/s11/k1lb1y7k8lb1k8lb1y2lb1k4lb1~x4/"><circle cx="267.7" cy="175.4" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s11/k1lb1y7k8lb1k8lb1y2lb1k4lb1~x2/"><circle cx="267.7" cy="175.4" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s11/k1w1db8k9w1k9w1db2w1k4w1~x2/"><circle cx="281.6" cy="169.5" r="4" fill="#3465a4"><title>Clergy (Mackinlay)</title></circle></a><a href="/variants/s10/k17y2k2y2k9lb11k2lb11k20y2~x2/"><circle cx="293.6" cy="173.0" r="4" fill="#3465a4"><title>Coppa Romana (Switzerland)</title></circle></a><a href="/variants/s8/k10lb1k2lb1k4lb10g1lb2~x4/"><circle cx="267.5" cy="183.5" r="4" fill="#3465a4"><title>Martin's Own</title></circle></a><a href="/variants/s7/k16w30lb36k10lb10k83lb6/"><circle cx="276.0" cy="176.0" r="4" fill="#3465a4"><title>Glasgow Warriors</title></circle></a><a href="/variants/s11/w20k6w9k6w6k12w6k48w8k16w16~x2/"><circle cx="289.9" cy="198.2" r="4" fill="#3465a4"><title>MacLean (Black and White)</title></circle></a><a href="/variants/s11/w20k6w9k6w6k12w6k48w8k16w16/"><circle cx="289.9" cy="198.2" r="4" fill="#3465a4"><title>MacLean, Black &amp; White</title></circle></a><circle cx="269.3" cy="177.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

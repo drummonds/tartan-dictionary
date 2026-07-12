@@ -1,6 +1,11 @@
 ---
 title: "Wilson's No.030"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Wilson's No.030"
+  url: "/tartans/w/wi/wilson-s-no-030/"
 ---
 This is the **Wilson's No.030** sett — one scale-free proportion (`k16g2lb2db4g16y2k15db6lb2k3lb4`), colour order pattern
 [KWBKGGBWGKGWBGGKBWKW](/stripes/kwbkggbwgkgwbggkbwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k16db2lb2db4g16lb2k15db6lb2k3lb4~x2/"><circle cx="134.8" cy="151.4" r="4" fill="#3465a4"><title>Wilson's No.157</title></circle></a><a href="/variants/s17/t6k1t1k1t1k7g6ly1k1db1k1ly1g6k7t7k1t1~x4~t2205244-db1106275/"><circle cx="109.1" cy="150.4" r="4" fill="#3465a4"><title>Polaris Military</title></circle></a><a href="/variants/s20/y5g2y2g15k9db2k2db2k2db9g5db9k2db2k2db2k9g15k2w4~x2/"><circle cx="89.3" cy="147.3" r="4" fill="#3465a4"><title>Fyvie</title></circle></a><a href="/variants/s22/db16k16g2db2g2db2g16db2g2db2g2db16ly8k2db2k2ly8k16db16k2r5k2~x2/"><circle cx="108.9" cy="126.6" r="4" fill="#3465a4"><title>Lamquet (2015)</title></circle></a><a href="/variants/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5~x2/"><circle cx="107.9" cy="149.2" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/variants/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5/"><circle cx="107.9" cy="149.2" r="4" fill="#3465a4"><title>Stephenson Hunting Tartan</title></circle></a><a href="/variants/s22/db16k16g2k2g2k2g16k2g2k2g2k16y8k2db2k2y8k16db16k2r5k2~x2/"><circle cx="134.1" cy="126.7" r="4" fill="#3465a4"><title>Lamquet (2015)</title></circle></a><a href="/variants/s28/k8g8k1y2k1g8k8db8k1db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1~x2/"><circle cx="112.0" cy="126.5" r="4" fill="#3465a4"><title>Campbell of Argyll Clan Tartan</title></circle></a><a href="/variants/s9/db20ly3k7g11k2g3k2g3r4~x2/"><circle cx="117.5" cy="139.7" r="4" fill="#3465a4"><title>Ogilvie of Inverarity (Wilson) / Ochterlonie</title></circle></a><a href="/variants/s29/db4k1db1k1db1k8g8k1w2k1g8k8db8k1db1k1db8k8g8k1ly2k1g8k8db1k1db1k1db4~x8/"><circle cx="108.3" cy="125.3" r="4" fill="#3465a4"><title>Campbell</title></circle></a><circle cx="114.6" cy="135.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

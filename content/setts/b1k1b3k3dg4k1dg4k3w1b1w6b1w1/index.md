@@ -1,6 +1,13 @@
 ---
 title: "Black Watch Dress (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Black"
+  url: "/clan/black/"
+- name: "Black Watch Dress"
+  url: "/tartans/b/bl/black-watch-dress-2/"
 ---
 This is the **Black Watch Dress (Fashion)** sett — one scale-free proportion (`b1k1b3k3dg4k1dg4k3w1b1w6b1w1`), colour order pattern
 [BKBKGKGKWBWBW](/stripes/bkbkgkgkwbwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db6k5db10k10g13k3g13k10w4db4w18db2w3~x2/"><circle cx="41.3" cy="166.1" r="4" fill="#3465a4"><title>Sutherland Dress (Fashion)</title></circle></a><a href="/variants/s13/db4k4db10k10g12ly2g12k10w4db4w16db3w2~x2/"><circle cx="26.8" cy="180.4" r="4" fill="#3465a4"><title>Gordon Dress (1965)</title></circle></a><a href="/variants/s13/db4k4db10k10g13y3g13k10w4db4w16db2w3~x2/"><circle cx="28.3" cy="180.4" r="4" fill="#3465a4"><title>Gordon Dress Tartan</title></circle></a><a href="/variants/s13/w3k2w15db3w3k7g8k2g8k7db8k1db2~x2/"><circle cx="85.4" cy="157.5" r="4" fill="#3465a4"><title>Campbell Dress Artifact Tartan</title></circle></a><a href="/variants/s11/k12w6k6w6r4w13k3w4k8db24r3~x2/"><circle cx="90.8" cy="178.6" r="4" fill="#3465a4"><title>Merchiston Castle School Pipe Band</title></circle></a><a href="/variants/s11/k18w8k8w8r5w18k5w5k12db36r5~x2/"><circle cx="93.5" cy="178.7" r="4" fill="#3465a4"><title>Merchiston, Castle School Pipers</title></circle></a><a href="/variants/s11/k18w8k8w8r5w18k5w5k12db36r5/"><circle cx="93.5" cy="178.7" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/variants/s11/k9w8k8w8r5w18k5w5k12db36r5/"><circle cx="93.0" cy="175.7" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/variants/s12/db8r2db2r4db10r2k11g10r4g2r2g8~x2/"><circle cx="83.9" cy="208.2" r="4" fill="#3465a4"><title>MacDonald #6</title></circle></a><a href="/variants/s12/db8r2db2r3db12r2k12g12r3g2r2g8/"><circle cx="100.9" cy="196.3" r="4" fill="#3465a4"><title>MacDonald MINI Design Tartan</title></circle></a><circle cx="46.1" cy="194.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

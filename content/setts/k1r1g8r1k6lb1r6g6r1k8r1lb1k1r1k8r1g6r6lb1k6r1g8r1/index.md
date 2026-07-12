@@ -1,6 +1,15 @@
 ---
 title: "Cumming Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cumming"
+  url: "/clan/cumming/"
+- name: "Cumming"
+  url: "/families/cumming/"
+- name: "Cumming"
+  url: "/tartans/c/cu/cumming-2/"
 ---
 This is the **Cumming Hunting** sett — one scale-free proportion (`k1r1g8r1k6lb1r6g6r1k8r1lb1k1r1k8r1g6r6lb1k6r1g8r1`), colour order pattern
 [KRGRKWRGRKRWKRKRGRWKRGR](/stripes/krgrkwrgrkrwkrkrgrwkrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s23/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1~x2/"><circle cx="116.6" cy="143.1" r="4" fill="#3465a4"><title>Cumming Comyn Buchan Clan Tartan</title></circle></a><a href="/variants/s23/r6g6r2k24r2db2k2r2k24r2g6r6db2k6r2g27r2k2r2g27r2k6db2~x2/"><circle cx="170.3" cy="98.6" r="4" fill="#3465a4"><title>Buchan Cumming MacIntyre District Tartan</title></circle></a><a href="/variants/s24/k2r2g27r2k6db2r6g6r2k24r2k2db2r2k24r2g6r6db2k6r2g27r2k2~x2/"><circle cx="166.4" cy="93.9" r="4" fill="#3465a4"><title>Cumming/Buchan Hunting</title></circle></a><a href="/variants/s28/r4k4r6g24r4k3r6g3r4k24r6g4r4lb4r4g4r6k24r4g3r6k3r4g24r6k4r4lb4~x2/"><circle cx="110.6" cy="124.0" r="4" fill="#3465a4"><title>Kilbarchan Unidentified No. 7</title></circle></a><a href="/variants/s29/k4w6k23w2k3ly17k2ly4k2ly17k3dg17k20w6ly4w6k20dg17k3ly17k2ly4k2ly17k3w2k23w6k4~ly3106095/"><circle cx="130.0" cy="115.1" r="4" fill="#3465a4"><title>Vaughan (Welsh Name) Welsh Name Tartan</title></circle></a><a href="/variants/s16/g7k2g7y1k2y1k10y3r10y3k10y1g11k2g3k2~x2/"><circle cx="132.7" cy="156.2" r="4" fill="#3465a4"><title>Blackburn Appalachian Hunting</title></circle></a><a href="/variants/s21/r6g6r2k24r2k2db2r2k24r2db6k6r2g27r2k2r2g27r2k6db2~x2/"><circle cx="173.3" cy="102.6" r="4" fill="#3465a4"><title>Buchan (Clan)</title></circle></a><a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1~x2/"><circle cx="133.0" cy="158.4" r="4" fill="#3465a4"><title>Cumming (d)</title></circle></a><a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1/"><circle cx="133.0" cy="158.4" r="4" fill="#3465a4"><title>Cumming</title></circle></a><a href="/variants/s19/dg8k1dg1k1dg1k4o10w2o10k3dg3k6dg3k6dg3k3o10w3r4~x2/"><circle cx="96.1" cy="143.3" r="4" fill="#3465a4"><title>Pride of Loch Leven (Fashion?)</title></circle></a><circle cx="114.2" cy="142.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "MacAlister of Skye"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacAlister"
+  url: "/clan/macalister/"
 ---
 A family of [Clan MacAlister](/clan/macalister/).
 

@@ -1,6 +1,11 @@
 ---
 title: "Loch Lomond Millennium"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Loch Lomond Millennium"
+  url: "/tartans/l/lo/loch-lomond-millennium/"
 ---
 This is the **Loch Lomond Millennium** sett — one scale-free proportion (`k3b2k12dg4db19r3db19dg4k12b2y3`), colour order pattern
 [GBKGBRBGKBK](/stripes/gbkgbrbgkbk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db5dr2db8y2dr3k9dr2db18k9dbi4w2~x2~db1406275-dbi1706275/"><circle cx="186.5" cy="156.0" r="4" fill="#3465a4"><title>Royal Gourock Yacht Club, The</title></circle></a><a href="/variants/s13/dp4k3dp20k10db19o2db2o2db25g3db4k6w4~x2/"><circle cx="204.4" cy="127.5" r="4" fill="#3465a4"><title>Highland Destiny (Fashion)</title></circle></a><a href="/variants/s11/dbi13lb2dbi13k3db13k21dy3k18dbi9k2dbi2~x2~dbi1605267-db1003265/"><circle cx="203.4" cy="171.9" r="4" fill="#3465a4"><title>Haus of RvR</title></circle></a><a href="/variants/s10/db9k30db9lb3db5r3db5y3db5g3~x2/"><circle cx="187.4" cy="134.8" r="4" fill="#3465a4"><title>Fed. of Circles &amp; Solitaries (Corp.)</title></circle></a><a href="/variants/s11/k20lb2k8db2k2db2k2db10dr5g5db15~x2/"><circle cx="201.6" cy="160.4" r="4" fill="#3465a4"><title>Lawtie (Personal)</title></circle></a><a href="/variants/s10/db13k14g6k14db14w1r1y1g1db3~x2/"><circle cx="189.4" cy="135.3" r="4" fill="#3465a4"><title>Scotshill</title></circle></a><a href="/variants/s13/ri1db14k10db10k1db2k1db10k10dr8db2r2w1~x2~ri2806019-r2510029/"><circle cx="233.2" cy="131.0" r="4" fill="#3465a4"><title>Hynett, William (Personal)</title></circle></a><a href="/variants/s8/db15dp3db30k22dg18dp3dg3w3~x2/"><circle cx="218.5" cy="185.3" r="4" fill="#3465a4"><title>Moray (Corporate)</title></circle></a><a href="/variants/s12/db3dr2db13k9dy3k2dy14k2dy3k9db15w3~x2/"><circle cx="157.9" cy="180.2" r="4" fill="#3465a4"><title>McWilliams Dress (2014)</title></circle></a><a href="/variants/s11/db2r5db8y2r3k9r2db18k9dbi4w2~x2~db1108266-dbi1208266/"><circle cx="133.5" cy="144.8" r="4" fill="#3465a4"><title>Royal Gourock Yacht Club, The</title></circle></a><circle cx="187.8" cy="154.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

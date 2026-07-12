@@ -1,6 +1,11 @@
 ---
 title: "Highlander Highland Laddie"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Highlander Highland Laddie"
+  url: "/tartans/h/hi/highlander-highland-laddie/"
 ---
 This is the **Highlander Highland Laddie** sett — one scale-free proportion (`k7dr3g30db28lb3`), colour order pattern
 [KBGBW](/stripes/kbgbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k7dr3g29db29w3~x2/"><circle cx="186.5" cy="197.4" r="4" fill="#3465a4"><title>Highlander, Highland Laddie Kilts</title></circle></a><a href="/variants/s5/k7y3g28db28w3~x2/"><circle cx="178.4" cy="197.6" r="4" fill="#3465a4"><title>Turnbull Hunting Clan Tartan</title></circle></a><a href="/variants/s5/k2dy1g10db10w1~x6/"><circle cx="194.6" cy="192.6" r="4" fill="#3465a4"><title>Turnbull Hunting (1983) #2</title></circle></a><a href="/variants/s5/k7lb3g18db18w2~x2/"><circle cx="149.0" cy="212.9" r="4" fill="#3465a4"><title>Bhatti (Name)</title></circle></a><a href="/variants/s5/k7lt3dg18db18w2~x2/"><circle cx="173.0" cy="217.8" r="4" fill="#3465a4"><title>Bhatti</title></circle></a><a href="/variants/s5/r2y1g10db10w1~x6/"><circle cx="225.7" cy="208.1" r="4" fill="#3465a4"><title>Turnbull Hunting (Name)</title></circle></a><a href="/variants/s5/r7y3g28db28w3~x2/"><circle cx="212.1" cy="213.5" r="4" fill="#3465a4"><title>Turnbull, hunting</title></circle></a><a href="/variants/s5/k2lb2g8db8w1~x2/"><circle cx="150.2" cy="217.3" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s5/k2lb2g8db8w1/"><circle cx="150.2" cy="217.3" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s5/k2w2g8db8w1/"><circle cx="161.3" cy="228.3" r="4" fill="#3465a4"><title>Douglas</title></circle></a><circle cx="198.8" cy="198.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

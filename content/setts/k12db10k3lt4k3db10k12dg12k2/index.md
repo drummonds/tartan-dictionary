@@ -1,6 +1,11 @@
 ---
 title: "Rainford (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Rainford"
+  url: "/tartans/r/ra/rainford/"
 ---
 This is the **Rainford (Personal)** sett — one scale-free proportion (`k12db10k3lt4k3db10k12dg12k2`), colour order pattern
 [KBKWKBKGK](/stripes/kbkwkbkgk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k1g5k5db5k1db1k1~x4/"><circle cx="174.4" cy="235.7" r="4" fill="#3465a4"><title>Strathspey District Tartan</title></circle></a><a href="/variants/s7/k1dg5k5t5k1t1k1~x4/"><circle cx="175.6" cy="236.6" r="4" fill="#3465a4"><title>Strathspey District (District)</title></circle></a><a href="/variants/s9/k4db10k2db2k4t5k6t6k4~x4/"><circle cx="168.5" cy="252.9" r="4" fill="#3465a4"><title>Saul (Personal)</title></circle></a><a href="/variants/s8/k7r2k2ki6y1ki1y1ki4~x4~ki0604259/"><circle cx="217.3" cy="206.5" r="4" fill="#3465a4"><title>Printing Industries of America</title></circle></a><a href="/variants/s9/db8k2db2k2db2k8g7k1w1~x2/"><circle cx="158.2" cy="192.5" r="4" fill="#3465a4"><title>Forbes #3</title></circle></a><a href="/variants/s6/k3dg11k3b11k18o3~x2/"><circle cx="190.1" cy="222.5" r="4" fill="#3465a4"><title>The Harbour Town, Hilton Head</title></circle></a><a href="/variants/s10/db10k2db4k4g7y2g7k4db10k2/"><circle cx="160.7" cy="232.9" r="4" fill="#3465a4"><title>Gordon Miniature</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x6/"><circle cx="170.4" cy="222.5" r="4" fill="#3465a4"><title>Forbes - 1947 (Lyon Court)</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1/"><circle cx="170.4" cy="222.5" r="4" fill="#3465a4"><title>Forbes LC</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x2/"><circle cx="170.4" cy="222.5" r="4" fill="#3465a4"><title>Forbes Ancient</title></circle></a><circle cx="174.7" cy="227.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

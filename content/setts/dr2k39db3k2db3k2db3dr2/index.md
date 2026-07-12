@@ -1,6 +1,15 @@
 ---
 title: "Impulse (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Impulse"
+  url: "/clan/impulse/"
+- name: "Impulse"
+  url: "/families/impulse/"
+- name: "Impulse"
+  url: "/tartans/i/im/impulse-2/"
 ---
 This is the **Impulse (Fashion)** sett — one scale-free proportion (`dr2k39db3k2db3k2db3dr2`), colour order pattern
 [BBKBKBKKKKB](/stripes/bbkbkbkkkkb/). It is recorded as a single **variant**, below.

@@ -1,6 +1,11 @@
 ---
 title: "Jeux Canada Games '87 (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Jeux Canada Games '87"
+  url: "/tartans/j/je/jeux-canada-games-87/"
 ---
 This is the **Jeux Canada Games '87 (Corporate)** sett — one scale-free proportion (`w16db3w2db3w2db3r5db6w2`), colour order pattern
 [WBRBWBWBW](/stripes/wbrbwbwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db8w2db11w13db30w13r11db2~x2/"><circle cx="292.5" cy="198.6" r="4" fill="#3465a4"><title>Jubilation (Commemorative)</title></circle></a><a href="/variants/s9/w8dt2w1dt2w1dt2r3dt3w1~x4/"><circle cx="236.6" cy="214.0" r="4" fill="#3465a4"><title>Canadian Winter Games 1987</title></circle></a><a href="/variants/s7/w5r3w26db21w3db8y3~x2/"><circle cx="251.4" cy="202.7" r="4" fill="#3465a4"><title>MacPherson Blue/White Clan Tartan</title></circle></a><a href="/variants/s6/w5db16w5db16w33r3~x2/"><circle cx="306.8" cy="221.6" r="4" fill="#3465a4"><title>Buchanan Dress, Blue (Dance)</title></circle></a><a href="/variants/s16/db6r5db3w2db3w2db3w16db3w2db3w2db3r5db6w2~x2/"><circle cx="212.7" cy="189.8" r="4" fill="#3465a4"><title>Jeux Canada Games '87</title></circle></a><a href="/variants/s7/w5k3w31dp26w4dp10lb4~x2/"><circle cx="236.6" cy="178.1" r="4" fill="#3465a4"><title>MacPherson Dress Purple</title></circle></a><a href="/variants/s7/w5k3w26db21w3db8y3~x2/"><circle cx="227.4" cy="189.0" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance)</title></circle></a><a href="/variants/s7/w5r3w26dt21w3dt8y3~x2/"><circle cx="250.9" cy="204.0" r="4" fill="#3465a4"><title>MacPherson Dress, Blue (Dance)</title></circle></a><a href="/variants/s8/lb30r3lb3r3lb12dt30n3dt5~x2/"><circle cx="285.0" cy="190.6" r="4" fill="#3465a4"><title>Dama Classic</title></circle></a><a href="/variants/s6/db8w3db28w32k3w4~x2/"><circle cx="273.1" cy="198.4" r="4" fill="#3465a4"><title>Ailsa, Navy (Dance)</title></circle></a><circle cx="262.9" cy="203.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

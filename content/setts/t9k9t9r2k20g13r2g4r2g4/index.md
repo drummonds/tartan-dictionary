@@ -1,6 +1,15 @@
 ---
 title: "Newlands of Lauriston"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Newlands"
+  url: "/clan/newlands/"
+- name: "Newlands of Lauriston"
+  url: "/families/newlands-of-lauriston/"
+- name: "Newlands of Lauriston"
+  url: "/tartans/n/ne/newlands-of-lauriston/"
 ---
 This is the **Newlands of Lauriston** sett — one scale-free proportion (`t9k9t9r2k20g13r2g4r2g4`), colour order pattern
 [BKBRKGRGRG](/stripes/bkbrkgrgrg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db9k9db9r2k18g12r2g4r2g4~x2/"><circle cx="133.5" cy="189.1" r="4" fill="#3465a4"><title>Newlands Family Tartan</title></circle></a><a href="/variants/s13/t25k4t4k4t4k26g25r6g25k26t25k2r6~x2/"><circle cx="124.6" cy="163.9" r="4" fill="#3465a4"><title>Atholl (District)</title></circle></a><a href="/variants/s10/db12r4db18r2k19g18r4g3y2g8~x2/"><circle cx="106.0" cy="173.3" r="4" fill="#3465a4"><title>Biskup (Personal)</title></circle></a><a href="/variants/s8/db10k6y1g6k1g6y1k6~x2~db1406275/"><circle cx="148.5" cy="177.0" r="4" fill="#3465a4"><title>Norwich No.115</title></circle></a><a href="/variants/s13/t25k4t4k4t4k26g25r9g25k26t25k2r9~x2/"><circle cx="113.7" cy="167.7" r="4" fill="#3465a4"><title>Atholl</title></circle></a><a href="/variants/s13/g56k6g7k6g7k35db45ly6db45k35g45k6g6/"><circle cx="153.9" cy="172.2" r="4" fill="#3465a4"><title>Dewar's Highlander</title></circle></a><a href="/variants/s9/r3db6k1db1k1db1k6g9k2~x2/"><circle cx="127.4" cy="182.4" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/variants/s11/g2db12r1k12g12k2g12k12r1db12g1~x4/"><circle cx="141.2" cy="176.4" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/variants/s10/g5k2g17y2k5y2b5k17g2y4~x2/"><circle cx="158.8" cy="175.6" r="4" fill="#3465a4"><title>Antrim</title></circle></a><a href="/variants/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="133.4" cy="173.2" r="4" fill="#3465a4"><title>Stephenson Hunting</title></circle></a><circle cx="136.5" cy="180.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Flowers of the Forest, The"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Flowers"
+  url: "/clan/flowers/"
+- name: "Flowers of the Forest, The"
+  url: "/families/flowers-of-the-forest-the/"
+- name: "Flowers of the Forest, The"
+  url: "/tartans/f/fl/flowers-of-the-forest-the-2/"
 ---
 This is the **Flowers of the Forest, The** sett — one scale-free proportion (`lb8db4dy5r1dy5r1dy5r1dy16lb1`), colour order pattern
 [WBGRGRGRGW](/stripes/wbgrgrgrgw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y20db27r6db15y8db11y78dbi10r12~db0805267-dbi1604274/"><circle cx="325.0" cy="173.2" r="4" fill="#3465a4"><title>Bracken</title></circle></a><a href="/variants/s10/dg3r6dg2r1dg2r1dg16w1dg2w3~x4/"><circle cx="392.9" cy="154.2" r="4" fill="#3465a4"><title>Prince of Wales (Fashion)</title></circle></a><a href="/variants/s7/db13k3db20o70db20o30w3~x2/"><circle cx="382.5" cy="153.2" r="4" fill="#3465a4"><title>Unidentified 21</title></circle></a><a href="/variants/s11/y6lb1n18k6n4k4n8k1n8k2y5~x2~y2400000-n1700000/"><circle cx="314.0" cy="158.7" r="4" fill="#3465a4"><title>Bute Heather, Grey</title></circle></a><a href="/variants/s11/ly4do37db17do4db8do6r2do5db2do3ly4/"><circle cx="394.6" cy="152.4" r="4" fill="#3465a4"><title>Griffiths (Welsh Name)</title></circle></a><a href="/variants/s11/db5ly1n19k6n4k4n12w1n12k2db2~x2/"><circle cx="352.5" cy="131.0" r="4" fill="#3465a4"><title>Apollo 12 (Commemorative)</title></circle></a><a href="/variants/s11/g8db3g2db4ly2db5g7db4g4db37r6~db1204274/"><circle cx="396.5" cy="137.8" r="4" fill="#3465a4"><title>Jenkins (Welsh Name)</title></circle></a><a href="/variants/s8/dg3w5dg3db6dg5db1dg12r1~x2/"><circle cx="316.9" cy="199.2" r="4" fill="#3465a4"><title>Hasegawa (Akasaka) (Personal)</title></circle></a><a href="/variants/s6/o11db1o3dbi1db9r1~x4~db0805267-dbi1604274/"><circle cx="318.6" cy="194.1" r="4" fill="#3465a4"><title>Dege, of Saville Row</title></circle></a><a href="/variants/s9/y20db27r6db15y8db11y78dbi10r12~db1204274-dbi1406275/"><circle cx="357.8" cy="183.5" r="4" fill="#3465a4"><title>Braken Tartan</title></circle></a><circle cx="366.6" cy="161.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

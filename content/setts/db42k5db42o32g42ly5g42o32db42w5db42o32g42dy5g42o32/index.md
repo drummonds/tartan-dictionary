@@ -1,6 +1,15 @@
 ---
 title: "Amnesty"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Amnesty"
+  url: "/clan/amnesty/"
+- name: "Amnesty"
+  url: "/families/amnesty/"
+- name: "Amnesty"
+  url: "/tartans/a/am/amnesty/"
 ---
 This is the **Amnesty** sett — one scale-free proportion (`db42k5db42o32g42ly5g42o32db42w5db42o32g42dy5g42o32`), colour order pattern
 [BKBRGYGRBWBRGGGR](/stripes/bkbrgygrbwbrgggr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/db42k5db42o32g42dy5g42o32db42w5db42o32g42ly5g42o32/"><circle cx="92.4" cy="177.1" r="4" fill="#3465a4"><title>Amnesty (Commemorative)</title></circle></a><a href="/variants/s14/db12g24r5do20g4w2g4do21y5g24db12do4k2do4~x2/"><circle cx="151.2" cy="139.1" r="4" fill="#3465a4"><title>Hyndman (Personal)</title></circle></a><a href="/variants/s12/dg13db11w2lb4r3ly3r3lb4w2db11dg13k2~x2~dg1806142-db1406275-r2109032/"><circle cx="72.7" cy="159.6" r="4" fill="#3465a4"><title>Kentucky, State of</title></circle></a><a href="/variants/s14/db6r2db6y3g6k1g2lb2g2k1g6k1g2lb2~x2/"><circle cx="101.8" cy="178.9" r="4" fill="#3465a4"><title>Presbyterian Synod of Living Waters (USA)</title></circle></a><a href="/variants/s20/g5k1g5k6t4lb1t3n1t6dp2t6n1t3lb1t4k6g5k1g5dp2~x4/"><circle cx="65.0" cy="174.8" r="4" fill="#3465a4"><title>Smithers</title></circle></a><a href="/variants/s11/db6o2db6y3g6k1g2lb2g2k1g6~x2/"><circle cx="124.0" cy="198.1" r="4" fill="#3465a4"><title>Presbyterian Synod (US) (Corporate)</title></circle></a><a href="/variants/s14/n11db6g6y1db2y1g6db6n11k1r3k1g5db5~x2/"><circle cx="140.6" cy="166.0" r="4" fill="#3465a4"><title>Penman Family Tartan</title></circle></a><a href="/variants/s11/t6k4t10w2db10g4db6g9r2g4dy2~x4/"><circle cx="31.7" cy="203.7" r="4" fill="#3465a4"><title>O'Sullivan (Name)</title></circle></a><a href="/variants/s11/dp2t6n1t3lb1t4k6g5k1g5dp2~x4/"><circle cx="68.1" cy="196.9" r="4" fill="#3465a4"><title>Smithers (Name)</title></circle></a><a href="/variants/s12/w3dr3k3dr10t7db8g4db3g3db3g13lo3~x2/"><circle cx="24.6" cy="190.7" r="4" fill="#3465a4"><title>Chattahoochee River</title></circle></a><circle cx="94.0" cy="177.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

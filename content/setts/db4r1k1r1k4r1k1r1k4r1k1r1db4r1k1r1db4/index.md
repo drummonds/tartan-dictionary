@@ -1,6 +1,11 @@
 ---
 title: "Mary Stuart (Fashion?"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Mary Stuart (Fashion?"
+  url: "/tartans/m/ma/mary-stuart-fashion/"
 ---
 This is the **Mary Stuart (Fashion?** sett — one scale-free proportion (`db4r1k1r1k4r1k1r1k4r1k1r1db4r1k1r1db4`), colour order pattern
 [BRKRBRKRKRKRKRKRB](/stripes/brkrbrkrkrkrkrkrb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r8k2r2k2r2k16db16g3db16k16r16k2r2~x4/"><circle cx="144.3" cy="164.5" r="4" fill="#3465a4"><title>MacLachlan</title></circle></a><a href="/variants/s20/db1g1db6k6g1k6g1db2g1db3g1db3g1db2g1k6g1k6db6g1~x4~db1406275/"><circle cx="187.3" cy="187.2" r="4" fill="#3465a4"><title>Cargill Clan/Family Tartan</title></circle></a><a href="/variants/s13/n25k8n8k8n8k46db46w8db46k46n46k8n8/"><circle cx="143.3" cy="196.8" r="4" fill="#3465a4"><title>Poulter, Jet Black (Corporate)</title></circle></a><a href="/variants/s13/r16k2r2k2r2k16db16g3db16k16r16k2r2~x2/"><circle cx="134.3" cy="165.5" r="4" fill="#3465a4"><title>MacLachlan</title></circle></a><a href="/variants/s13/r16k2r2k2r2k16db16g3db16k16r16k2r2/"><circle cx="134.3" cy="165.5" r="4" fill="#3465a4"><title>MacLachlan</title></circle></a><a href="/variants/s12/n23k6n6k6o38k40o6k40o38n38o6n6~n1900000-o2500000/"><circle cx="149.7" cy="201.1" r="4" fill="#3465a4"><title>Monarch of Argyll (Fashion)</title></circle></a><a href="/variants/s13/db20dr3db3dr3db3k10lr14k4lr14k10db14dr3db3~x2/"><circle cx="135.0" cy="185.9" r="4" fill="#3465a4"><title>Commonwealth Variation</title></circle></a><a href="/variants/s11/k2lb2db10k10lb2k10lb2db3lb2db5lb2~x2/"><circle cx="176.1" cy="214.6" r="4" fill="#3465a4"><title>Clergy Blue Tartan</title></circle></a><a href="/variants/s13/r13k2r3g10r5k3r3k12db2k3db2k3db12~x4/"><circle cx="99.1" cy="179.8" r="4" fill="#3465a4"><title>Bonnar (Name)</title></circle></a><a href="/variants/s9/k1r1k5r1w1r1db5r1k1~x2/"><circle cx="138.8" cy="185.8" r="4" fill="#3465a4"><title>Gipsy Fancy Tartan</title></circle></a><circle cx="141.2" cy="204.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

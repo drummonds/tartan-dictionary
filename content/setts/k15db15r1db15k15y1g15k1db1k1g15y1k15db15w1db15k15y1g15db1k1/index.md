@@ -1,6 +1,11 @@
 ---
 title: "Perthshire Highland Society (Corp)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Perthshire Highland Society"
+  url: "/tartans/p/pe/perthshire-highland-society/"
 ---
 This is the **Perthshire Highland Society (Corp)** sett — one scale-free proportion (`k15db15r1db15k15y1g15k1db1k1g15y1k15db15w1db15k15y1g15db1k1`), colour order pattern
 [KBGGKBWBKGGKBKGGKBRBK](/stripes/kbggkbwbkggkbkggkbrbk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s22/g12k12db15k2db15k12g5r2g5k1ly3k1g5r2g5k12db15k2db15k12g12r2~x2~ly3307090/"><circle cx="116.5" cy="131.0" r="4" fill="#3465a4"><title>Paterson Clan/Family Weavers Tartan</title></circle></a><a href="/variants/s19/k19db2g10ly3g10db2k24db2g10db18g5db2k7db2g5db18g10db2k5~x2/"><circle cx="99.4" cy="132.4" r="4" fill="#3465a4"><title>Offally Irish County Tartan</title></circle></a><a href="/variants/s9/lb4k1g19lo1k19db13dr2db4dr2~x4/"><circle cx="109.6" cy="100.4" r="4" fill="#3465a4"><title>Whitson</title></circle></a><a href="/variants/s24/db2w1db15k5g11k1r3k1g11k5db17w1db17k5g11k1r3k1g11k5db15w1db2y2~x2/"><circle cx="157.6" cy="88.7" r="4" fill="#3465a4"><title>Sacramento City Fire Department</title></circle></a><a href="/variants/s14/r3dg4g2dg10k18dg2db18dg3db18dg2k18dg16w1r3~x2~dg1806142-g2408144/"><circle cx="119.4" cy="120.0" r="4" fill="#3465a4"><title>Paget Family Tartan</title></circle></a><a href="/variants/s11/k6g20t2dr5t2k20lo3db20g26dr3db5~x2~g2203152/"><circle cx="135.1" cy="115.6" r="4" fill="#3465a4"><title>Stephenson</title></circle></a><a href="/variants/s17/db12k1g2k1g2k1db12dr2k25dr2g12k1db2k1db2k1g12~x4/"><circle cx="120.9" cy="115.8" r="4" fill="#3465a4"><title>O'Connor / Ochiltree</title></circle></a><a href="/variants/s25/db11k2r2w2b2k16g16k2g16k16db16r2w2b2db16k16g16k2g16k16r2w2b2k2db11~x2~db1108266-b1813263/"><circle cx="62.4" cy="123.2" r="4" fill="#3465a4"><title>Scottish American Military</title></circle></a><a href="/variants/s15/db16k2db2k2db2k12g12y2k2y2g12k16db16k1w3~x2/"><circle cx="133.9" cy="126.6" r="4" fill="#3465a4"><title>Dyce #2</title></circle></a><a href="/variants/s15/db12k2db2k2db2k12g12k1w2k1g12k12db12k1r2~x2/"><circle cx="124.0" cy="135.7" r="4" fill="#3465a4"><title>Mackenzie</title></circle></a><circle cx="114.0" cy="104.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

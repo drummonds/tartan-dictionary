@@ -1,6 +1,15 @@
 ---
 title: "Cree (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cree"
+  url: "/clan/cree/"
+- name: "Cree"
+  url: "/families/cree/"
+- name: "Cree"
+  url: "/tartans/c/cr/cree/"
 ---
 This is the **Cree (Fashion)** sett — one scale-free proportion (`w3r3k3r6dg6k2w3k2lo3k6db2do20lo3`), colour order pattern
 [WRKRGKWKYKBBY](/stripes/wrkrgkwkykbby/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/y3do22db2k7y3k2w3k2g7r5k3r3w3~x2/"><circle cx="61.5" cy="99.7" r="4" fill="#3465a4"><title>Cree Clan Tartan</title></circle></a><a href="/variants/s10/db4k1w2k3y1n12o1k12o12r4~x2/"><circle cx="63.2" cy="119.2" r="4" fill="#3465a4"><title>Campbell, hunting</title></circle></a><a href="/variants/s12/db4lb1k3y1k1w1k1g8r12lb1r2k1~x4/"><circle cx="103.5" cy="91.8" r="4" fill="#3465a4"><title>MacLean of Duart #6</title></circle></a><a href="/variants/s12/db4lb1k3y1k1w1k1g8r12lb1r2k1~x2/"><circle cx="103.5" cy="91.8" r="4" fill="#3465a4"><title>MacLean of Duart Clan Tartan</title></circle></a><a href="/variants/s11/r30w4y2w4db16dg8dp3dg8k10r3k4~x2/"><circle cx="83.5" cy="96.6" r="4" fill="#3465a4"><title>Filipino American</title></circle></a><a href="/variants/s16/lb4k22r3k3r3k3r22y3r4db6r4k3g18k3r6w3~x2/"><circle cx="72.0" cy="102.9" r="4" fill="#3465a4"><title>Innes (of Moray)</title></circle></a><a href="/variants/s10/r24dr24k2w6k2y2k16lb5db6w2~x2/"><circle cx="51.0" cy="108.9" r="4" fill="#3465a4"><title>Scotland's International - Away (Fas</title></circle></a><a href="/variants/s10/r24g22k2w6k2y2k15lb6b6w2~x2/"><circle cx="39.6" cy="116.0" r="4" fill="#3465a4"><title>Bruce of Kinnaird</title></circle></a><a href="/variants/s10/r24g22k2w6k2y2k15lb6ri6w2~x2~r2109032-ri2406019/"><circle cx="41.6" cy="115.6" r="4" fill="#3465a4"><title>Bruce of Kinnaird Clan Tartan</title></circle></a><a href="/variants/s10/r24g22k2w6k2ly2k15y6ri6w2~x2~r2109032-ri2806019/"><circle cx="43.1" cy="116.5" r="4" fill="#3465a4"><title>Bruce of Kinnaird</title></circle></a><circle cx="45.1" cy="105.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

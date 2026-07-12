@@ -1,6 +1,11 @@
 ---
 title: "Coalfields Regeneration Trust, The"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Coalfields Regeneration Trust, The"
+  url: "/tartans/c/co/coalfields-regeneration-trust-the/"
 ---
 This is the **Coalfields Regeneration Trust, The** sett — one scale-free proportion (`k2r1ly1y8k15y2dp1`), colour order pattern
 [BGKGYRK](/stripes/bgkgyrk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k2r1y1g8k15g2dp1~x2/"><circle cx="266.0" cy="128.8" r="4" fill="#3465a4"><title>Coalfields Regeneration Trust, The</title></circle></a><a href="/variants/s7/dy3k36g14b2k2g14r3~x2/"><circle cx="245.4" cy="130.2" r="4" fill="#3465a4"><title>Vipont (Yellow line)</title></circle></a><a href="/variants/s7/r3g14k2b2g14k36y3~x2/"><circle cx="243.7" cy="129.8" r="4" fill="#3465a4"><title>Vipont</title></circle></a><a href="/variants/s7/lo2w1db6w1ly2k17ly1~x2/"><circle cx="257.3" cy="117.8" r="4" fill="#3465a4"><title>East Tennessee State University</title></circle></a><a href="/variants/s7/k11w1k1w1k4n8r1~x8/"><circle cx="272.6" cy="159.2" r="4" fill="#3465a4"><title>Dunfermline Athletic (2008) (Corp)</title></circle></a><a href="/variants/s7/n6dp4n2w2n25k26y4~x2/"><circle cx="223.6" cy="148.2" r="4" fill="#3465a4"><title>New York State Troopers</title></circle></a><a href="/variants/s5/k10g4k1lb2r1~x10/"><circle cx="274.2" cy="181.0" r="4" fill="#3465a4"><title>Brotherhood of the Kilt</title></circle></a><a href="/variants/s7/k32t2k6t2k13n30w2~x2/"><circle cx="304.4" cy="152.8" r="4" fill="#3465a4"><title>Mountain Rescue Association Honor Guard</title></circle></a><a href="/variants/s6/k43dr10w3k3w15db3~x2/"><circle cx="283.7" cy="148.6" r="4" fill="#3465a4"><title>Bro-Wened</title></circle></a><a href="/variants/s8/lo8k50n15dg6n6db3n6lo2~x2/"><circle cx="255.6" cy="102.5" r="4" fill="#3465a4"><title>Royal College of G.P.s (Corporate)</title></circle></a><circle cx="262.0" cy="124.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Scottish Spirit Fashion Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Scottish Spirit"
+  url: "/tartans/s/sc/scottish-spirit-2/"
 ---
 This is the **Scottish Spirit Fashion Tartan** sett — one scale-free proportion (`dt10r3dt32y12k5y2k4y2k17o4k2lb2`), colour order pattern
 [BRBGKGKGKRKW](/stripes/brbgkgkgkrkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/ni9r3ni32n12k5n2k4n2k17dp4k2lb2~x2~ni1700000/"><circle cx="197.2" cy="111.1" r="4" fill="#3465a4"><title>Scottish Spirit</title></circle></a><a href="/variants/s9/k2r2k15lb2k4lb2n9dt27w2~x2~n1800000-dt1200000/"><circle cx="168.0" cy="116.2" r="4" fill="#3465a4"><title>Real Mary King's Close, The</title></circle></a><a href="/variants/s11/db24k6lo4k6lb4k6g24dr48db5dr6k5~x2/"><circle cx="148.3" cy="124.9" r="4" fill="#3465a4"><title>Unidentified Furnishing</title></circle></a><a href="/variants/s10/y16k2y6k2r2k2db15g1db1w2~x2/"><circle cx="185.0" cy="107.1" r="4" fill="#3465a4"><title>Otago Corporate District Tartan</title></circle></a><a href="/variants/s12/r4dg2y2dg24k2dg3k3dg3k10b10w2b4~x2/"><circle cx="172.7" cy="117.9" r="4" fill="#3465a4"><title>Kerby, from the Tennessee Cumberland Basin</title></circle></a><a href="/variants/s14/n4o3n4o2n4dt8n30k4dt4k36n4r2k4w2~dt1602277-r2109032/"><circle cx="185.3" cy="77.7" r="4" fill="#3465a4"><title>Capercaillie Corporate Tartan</title></circle></a><a href="/variants/s12/r2lb6r1dy14r1dy14r1k6dg10ly1dg2ly2~x2~dg1403152-ly2705081/"><circle cx="185.4" cy="122.9" r="4" fill="#3465a4"><title>Ogg of Tarragann Hunting</title></circle></a><a href="/variants/s11/dr5dg30k6ly2k3lb5k12dr8k3dr3lr3~x2/"><circle cx="148.9" cy="115.8" r="4" fill="#3465a4"><title>King George (Nash)</title></circle></a><a href="/variants/s8/o11k66n32dg11n10db6n10r4~o2606066-r2409032/"><circle cx="182.6" cy="117.3" r="4" fill="#3465a4"><title>Turnbull, Dress Bruce (Personal)</title></circle></a><a href="/variants/s14/dr10w1do1w2n10dr8do2k17do2dr7n19k3y1k1~x2/"><circle cx="145.6" cy="103.5" r="4" fill="#3465a4"><title>Scottish Wildcat</title></circle></a><circle cx="186.2" cy="104.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

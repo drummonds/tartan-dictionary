@@ -1,6 +1,11 @@
 ---
 title: "Canadian Dental Association"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Canadian Dental Association"
+  url: "/tartans/c/ca/canadian-dental-association/"
 ---
 This is the **Canadian Dental Association** sett — one scale-free proportion (`r8k3lb15k1w3k1lb8k1w3k1r19k2y2k2g2k2r2k2`), colour order pattern
 [KRKGKGKRKWKWKWKWKR](/stripes/krkgkgkrkwkwkwkwkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dy5k3g2r20db10w2g1dy1w20k4dy3~x2~db1406275/"><circle cx="88.2" cy="69.2" r="4" fill="#3465a4"><title>MacCulloch Dress Clan/Family Tartan</title></circle></a><a href="/variants/s17/r30w2lb4k4y2k2w6k2lb11k15y3g20r14w4r4k2r8~x2/"><circle cx="116.7" cy="88.1" r="4" fill="#3465a4"><title>Wilson's No.156</title></circle></a><a href="/variants/s20/ri5t6ri2t9ri4r6ri4k5ly2k2ly2k5w5k5r23ri1k2ri1r5ri4~x2~ri2806019-r2109032/"><circle cx="99.4" cy="71.3" r="4" fill="#3465a4"><title>Westwood Red Anderson (Fashion)</title></circle></a><a href="/variants/s21/k1o4w13o1k5dp4w1dp4k5w1k3r5n3w1n3r5k13r1w20n3r1~x2/"><circle cx="91.2" cy="65.7" r="4" fill="#3465a4"><title>Aberdeen (Johnston and Smith)</title></circle></a><a href="/variants/s16/r6w1r1k15r1w2k1ly5w25ri5k1r5k1w5k1ri5~x2~r2109032-ri2806019/"><circle cx="130.6" cy="52.6" r="4" fill="#3465a4"><title>Puccini (Fashion)</title></circle></a><a href="/variants/s18/r8k3n15k1w3k1n8k1w3k1r19k2ly2k2g2k2r2k2~x2/"><circle cx="133.8" cy="66.9" r="4" fill="#3465a4"><title>Canadian Dental Association (Corp.)</title></circle></a><a href="/variants/s14/db20w3db4w3db4w3r22g2k1g2ly16w1k2w1~x2/"><circle cx="114.8" cy="75.6" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield (District)</title></circle></a><a href="/variants/s11/lb8k1r22ly1r6k3dg10w1k3lb20w1~x2/"><circle cx="152.0" cy="91.2" r="4" fill="#3465a4"><title>Unnamed C20th - National Archives</title></circle></a><a href="/variants/s15/r44g25k2w6k2y3k16lb12r6lb12k16y3k2w6r44~x2/"><circle cx="168.2" cy="74.9" r="4" fill="#3465a4"><title>Wilson's, No 17</title></circle></a><a href="/variants/s15/w2dp2k2r4k1r21k4w1dp12k3w1g6k2db3r1~x2/"><circle cx="144.0" cy="64.5" r="4" fill="#3465a4"><title>Gaudet-Hillan (Personal)</title></circle></a><circle cx="123.3" cy="64.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

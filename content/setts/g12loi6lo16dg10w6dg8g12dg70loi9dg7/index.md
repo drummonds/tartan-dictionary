@@ -1,6 +1,11 @@
 ---
 title: "Rams Timeless"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Rams Timeless"
+  url: "/tartans/r/ra/rams-timeless/"
 ---
 This is the **Rams Timeless** sett — one scale-free proportion (`g12loi6lo16dg10w6dg8g12dg70loi9dg7`), colour order pattern
 [GYGGGWGYYG](/stripes/gygggwgyyg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g12y6lo16dg10w6dg8g12dg70y9dg7~g2408144-dg1806142/"><circle cx="391.7" cy="191.1" r="4" fill="#3465a4"><title>Rams Timeless</title></circle></a><a href="/variants/s10/dt37g27w2dt4r6dt4w2g27dt37y2~x2/"><circle cx="339.6" cy="164.0" r="4" fill="#3465a4"><title>Highlands of Durham</title></circle></a><a href="/variants/s15/w2g4dg16g2dp2g25dg8g2dg2g25dp2g2dp6g2w2~x2~g2408144-dg1806142/"><circle cx="395.7" cy="184.1" r="4" fill="#3465a4"><title>Beechgrove Garden, The</title></circle></a><a href="/variants/s9/g20y2n5w4g2n2g2n2t6~x2~w4000000/"><circle cx="350.2" cy="212.5" r="4" fill="#3465a4"><title>Boucherville</title></circle></a><a href="/variants/s9/g20y2n5w4g2n2g2n2t6~x2/"><circle cx="354.9" cy="214.1" r="4" fill="#3465a4"><title>Boucherville (District)</title></circle></a><a href="/variants/s14/dp2y25dg8y2dg2y25dp2y2dp6y2w2y4dg16y2~x2~y2505139-dg1504144/"><circle cx="404.1" cy="182.1" r="4" fill="#3465a4"><title>Beechgrove Garden, The</title></circle></a><a href="/variants/s7/g14y7g14dg50g64w6g7/"><circle cx="406.6" cy="233.5" r="4" fill="#3465a4"><title>Freedom of Derry</title></circle></a><a href="/variants/s7/g55dbi7dr24g12db4dy3db4~x2~dbi1406275-db1404245/"><circle cx="404.5" cy="183.7" r="4" fill="#3465a4"><title>Crieff &amp; Strathearn #1</title></circle></a><a href="/variants/s8/y5g3y3g53dr7db5dr13w4~x2/"><circle cx="379.0" cy="157.2" r="4" fill="#3465a4"><title>Hall (P.I.E.) (Personal)</title></circle></a><a href="/variants/s7/dt16g4dt3g3lo2g24dr2~x2/"><circle cx="400.7" cy="222.1" r="4" fill="#3465a4"><title>St. Andrews Links (Corporate)</title></circle></a><circle cx="392.4" cy="191.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

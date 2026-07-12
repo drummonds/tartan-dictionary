@@ -1,6 +1,11 @@
 ---
 title: "Cian of Ely"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cian"
+  url: "/clan/cian/"
 ---
 A family of [Clan Cian](/clan/cian/).
 

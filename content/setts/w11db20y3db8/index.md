@@ -1,6 +1,11 @@
 ---
 title: "Lucard, Stéphane (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Lucard, Stéphane"
+  url: "/tartans/l/lu/lucard-st-phane/"
 ---
 This is the **Lucard, Stéphane (Personal)** sett — one scale-free proportion (`w11db20y3db8`), colour order pattern
 [BGBW](/stripes/bgbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db18w4db3y12~x2/"><circle cx="320.7" cy="288.5" r="4" fill="#3465a4"><title>Genesee Community College</title></circle></a><a href="/variants/s5/db10g4w27db40r4~x2/"><circle cx="292.9" cy="209.4" r="4" fill="#3465a4"><title>Turnbull Dress, Bruce (Personal)</title></circle></a><a href="/variants/s5/db10w3db12y14r4~x2/"><circle cx="225.2" cy="279.4" r="4" fill="#3465a4"><title>MacLeod, of Argentina</title></circle></a><a href="/variants/s4/w20db20w3db3~x2/"><circle cx="385.6" cy="284.4" r="4" fill="#3465a4"><title>Barbie's Moss Plaid (Blue &amp; White)</title></circle></a><a href="/variants/s4/w20b20w3b3~x2/"><circle cx="421.7" cy="297.1" r="4" fill="#3465a4"><title>Unidentified, Plaid Barbie's Moss</title></circle></a><a href="/variants/s4/db60y6db11r25~x2/"><circle cx="431.5" cy="216.5" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums (Corp</title></circle></a><a href="/variants/s3/y20db10w3~x2/"><circle cx="361.9" cy="301.7" r="4" fill="#3465a4"><title>Masai Shuka 04 (Artefact)</title></circle></a><a href="/variants/s4/db4w35db31w4~x2/"><circle cx="367.0" cy="288.2" r="4" fill="#3465a4"><title>Lewis, Navy (Dance)</title></circle></a><a href="/variants/s4/db2g7db7w1~x2/"><circle cx="323.1" cy="293.2" r="4" fill="#3465a4"><title>Unidentified No 78</title></circle></a><a href="/variants/s5/db37w9db3r9w3~x2/"><circle cx="372.7" cy="198.0" r="4" fill="#3465a4"><title>Glen Moy Trade Tartan</title></circle></a><circle cx="354.2" cy="285.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

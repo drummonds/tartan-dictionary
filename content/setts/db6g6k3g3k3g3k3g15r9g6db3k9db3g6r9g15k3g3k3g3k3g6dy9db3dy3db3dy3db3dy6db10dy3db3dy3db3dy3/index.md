@@ -1,6 +1,11 @@
 ---
 title: "Unidentified 'Old tartan'"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified 'Old tartan'"
+  url: "/tartans/u/un/unidentified-old-tartan-2/"
 ---
 This is the **Unidentified 'Old tartan'** sett — one scale-free proportion (`db6g6k3g3k3g3k3g15r9g6db3k9db3g6r9g15k3g3k3g3k3g6dy9db3dy3db3dy3db3dy6db10dy3db3dy3db3dy3`), colour order pattern
 [BGKGKGKGRGBKBGRGKGKGKGGBGBGBGBGBGBG](/stripes/bgkgkgkgrgbkbgrgkgkgkggbgbgbgbgbgbg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s35/db6g6k3g3k3g3k3g15r9g6db3k9db3g6r9g15k3g3k3g3k3g6o9db3o3db3o3db3o6db10o3db3o3db3o3~x2/"><circle cx="56.6" cy="160.6" r="4" fill="#3465a4"><title>Unidentified &quot;Old tartan&quot;</title></circle></a><a href="/variants/s13/t18r5t3r5t3k20g18dy4g18k20t20k6t6/"><circle cx="63.3" cy="161.8" r="4" fill="#3465a4"><title>Keith</title></circle></a><a href="/variants/s15/dt12w2dt2dr2dt2k10dg12k2dg4k2dg12k10dt12k2dr3~x2~dg1804158/"><circle cx="104.4" cy="158.8" r="4" fill="#3465a4"><title>Scotland's National</title></circle></a><a href="/variants/s15/db8k4y3k4db14k4dg4dgi6dg3dgi10k10dgi9k3r3k4~x2~dg1605139-dgi1806142/"><circle cx="32.6" cy="169.5" r="4" fill="#3465a4"><title>Wells (Personal)</title></circle></a><a href="/variants/s28/g4lb2g11k9do12lo2do12k9g2k2g2k2g6dr2g6k2g2k2g2k9do12k2do12k9g11lb2g4dr2~x2/"><circle cx="58.5" cy="140.8" r="4" fill="#3465a4"><title>Shearer (Name)</title></circle></a><a href="/variants/s31/db1k6dr1k1dr1k1dr6w1dr2g3dr2k1g5k1dr2w1dr2k1g5k1dr2g3dr2w1dr6k1dr1k1dr1k6g1~x4/"><circle cx="105.2" cy="136.6" r="4" fill="#3465a4"><title>Innes of Cowie (Clan?)</title></circle></a><a href="/variants/s14/k8g3w3g3r3g12k8g6db12y4k6w3k3g8~x2~w4000000-db1406275/"><circle cx="17.7" cy="170.0" r="4" fill="#3465a4"><title>Scott (Green)</title></circle></a><a href="/variants/s18/db8dy3db3dy3db3dy3db4g4k3g3k3g3k3g13r8g4db3k6~x2/"><circle cx="52.2" cy="199.1" r="4" fill="#3465a4"><title>Glasgow Celtic Society Corporate Tartan</title></circle></a><a href="/variants/s18/db8o3db3o3db3o3db4g4k3g3k3g3k3g13r8g4db3k6~x2/"><circle cx="48.4" cy="197.3" r="4" fill="#3465a4"><title>Glasgow, Celtic Society</title></circle></a><a href="/variants/s26/db8g2db8k2db2k2db2k4g11r2g11k4g2k9g2k9g2k4g11y2g11k4db2k2db2k4~x2/"><circle cx="106.2" cy="157.5" r="4" fill="#3465a4"><title>Stuart/Stewart Hunting #3</title></circle></a><circle cx="60.4" cy="162.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

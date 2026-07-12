@@ -1,6 +1,15 @@
 ---
 title: "Large (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Large"
+  url: "/clan/large/"
+- name: "Large"
+  url: "/families/large/"
+- name: "Large"
+  url: "/tartans/l/la/large/"
 ---
 This is the **Large (Personal)** sett — one scale-free proportion (`k2dr15dg10k2dg5k5dg2db11dg2k2dr8k2y2k2dr15k2`), colour order pattern
 [KBGKGKGBGKBKGKBK](/stripes/kbgkgkgbgkbkgkbk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/ki2dr17ki2y2ki2dr8ki2g2k11g2ki5g5ki2g10dr15ki2~x2~ki0700000-k0504259/"><circle cx="204.0" cy="158.7" r="4" fill="#3465a4"><title>Large (Personal)</title></circle></a><a href="/variants/s13/dy6k28dy4k4dy12do32k4do3k4do3k4do14y4/"><circle cx="283.5" cy="176.1" r="4" fill="#3465a4"><title>Etihad Airways</title></circle></a><a href="/variants/s12/db3dr2db13k9ki3k2ki14k2ki3k9db15w3~x2~k0700000-ki0803038/"><circle cx="203.3" cy="194.0" r="4" fill="#3465a4"><title>McWilliams Dress (2014)</title></circle></a><a href="/variants/s21/dr4dg4dr1k7dr1k1y1dr1k7dr1dg4dr4y1dp4dr1dg7ly1dg7dr1dp4y1~x4/"><circle cx="130.5" cy="159.4" r="4" fill="#3465a4"><title>Gordonstoun #3</title></circle></a><a href="/variants/s12/dti10k4dt16k4dt10k16dt8k24dt28dr3dti4dr3~dti1500000-dt1300000/"><circle cx="283.7" cy="203.2" r="4" fill="#3465a4"><title>St. Mirren (Corporate)</title></circle></a><a href="/variants/s15/db13k2db2k2db2dbi13dg13k2dg3k2dg13k13dg13k2db3~x2~db0805267-dbi1604274/"><circle cx="231.7" cy="207.6" r="4" fill="#3465a4"><title>Bailey Atlanta National</title></circle></a><a href="/variants/s13/y1ki1dg8k1dg1ki8dg1k8dg1ki1dg8ki1w1~x6~ki0700000-k0504259/"><circle cx="278.9" cy="182.5" r="4" fill="#3465a4"><title>Robieson, Graham A. (Personal)</title></circle></a><a href="/variants/s15/k18dy3k3dy3k3dy16dg16r1y1r1dg16dy16k17dy3k3~x2/"><circle cx="233.6" cy="146.0" r="4" fill="#3465a4"><title>Lander (2013)</title></circle></a><a href="/variants/s15/dt12w2dt2dr2dt2k10dg12k2dg4k2dg12k10dt12k2dr3~x2/"><circle cx="153.7" cy="200.3" r="4" fill="#3465a4"><title>Scotland's National (Fashion)</title></circle></a><a href="/variants/s12/ki5k2ki2k2ki2db5k2db1n1db1k10ki3~x4~ki0700000-db1404245/"><circle cx="280.6" cy="195.2" r="4" fill="#3465a4"><title>Hopkins (Welsh Name)</title></circle></a><circle cx="223.4" cy="174.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Ofsharick, Matthew (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Ofsharick, Matthew"
+  url: "/tartans/o/of/ofsharick-matthew/"
 ---
 This is the **Ofsharick, Matthew (Personal)** sett — one scale-free proportion (`n55db8w8db8g5n8y4w4k4`), colour order pattern
 [BBWBGBGWK](/stripes/bbwbgbgwk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/n55t8w8t8g5n8ly4w4k4~x2/"><circle cx="309.7" cy="121.2" r="4" fill="#3465a4"><title>Ofsharick, Matthew (Personal)</title></circle></a><a href="/variants/s9/n68k4n18o20k3w3k10lb8lr4~n1900000-o2500000/"><circle cx="315.8" cy="93.2" r="4" fill="#3465a4"><title>Carbon (Corporate)</title></circle></a><a href="/variants/s8/t46dp3r3dp3r4dp12w3k3~x2/"><circle cx="326.8" cy="122.2" r="4" fill="#3465a4"><title>Edinburgh Festival</title></circle></a><a href="/variants/s12/t50r3t4k8n4k2y3k2r12w2r4t4~x2/"><circle cx="292.7" cy="61.6" r="4" fill="#3465a4"><title>City of Barrie</title></circle></a><a href="/variants/s11/dp8g8w3g8dp8w3t40r3k3t40w3~x2/"><circle cx="303.2" cy="121.2" r="4" fill="#3465a4"><title>World Peace (Fashion)</title></circle></a><a href="/variants/s8/db3n10db3k3w10r4n28k2~x2~db1106275-n2002249/"><circle cx="275.8" cy="140.4" r="4" fill="#3465a4"><title>Moorpark Primary School (Corporate)</title></circle></a><a href="/variants/s12/n68t5k9lo3k3lb3k3n20dr9k3dr5lb4/"><circle cx="350.6" cy="71.1" r="4" fill="#3465a4"><title>British Caledonian Airways #2</title></circle></a><a href="/variants/s10/g5db2k2db29r2db2r15y2db4w2~x2/"><circle cx="269.7" cy="101.2" r="4" fill="#3465a4"><title>Bro-Naoned</title></circle></a><a href="/variants/s10/lb16db6k1y1k1db1lb4dy4k1r1~x4/"><circle cx="225.1" cy="95.0" r="4" fill="#3465a4"><title>Kirk in the Hills</title></circle></a><a href="/variants/s10/dy2db25r4g4r4w3db3k3db6w2~x2~db1406275/"><circle cx="268.0" cy="113.4" r="4" fill="#3465a4"><title>University of Edinburgh Business School, The</title></circle></a><circle cx="295.3" cy="114.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

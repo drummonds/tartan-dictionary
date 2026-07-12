@@ -1,6 +1,13 @@
 ---
 title: "Thomas McGurran"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Thomas"
+  url: "/clan/thomas/"
+- name: "Thomas McGurran"
+  url: "/tartans/t/th/thomas-mcgurran/"
 ---
 This is the **Thomas McGurran** sett — one scale-free proportion (`db4w8lo3db1g1w1g32lo2w1g1n8r1g2n2w2`), colour order pattern
 [BWYBGWGYWGBRGBW](/stripes/bwybgwgywgbrgbw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g56n6ly6y2w2y2w16n10w2g6r3~x2/"><circle cx="318.0" cy="97.0" r="4" fill="#3465a4"><title>McAleavy (2014)</title></circle></a><a href="/variants/s11/g56lb6ly6lyi2w2lyi2w16lb10w2g6r3~x2~ly3104101-lyi3407090/"><circle cx="314.5" cy="96.5" r="4" fill="#3465a4"><title>McAleavy (2014)</title></circle></a><a href="/variants/s14/g20lb1o2lb1o2db4r1db1r1db1r1db1r2w2~x4/"><circle cx="261.3" cy="85.4" r="4" fill="#3465a4"><title>Mighty Men (Corporate)</title></circle></a><a href="/variants/s11/g1w1g39r2w3b13w3dy2r1dy2w1~x2/"><circle cx="366.2" cy="83.8" r="4" fill="#3465a4"><title>Schuster (Bavaria) (Personal), Benedikt</title></circle></a><a href="/variants/s14/r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142/"><circle cx="330.0" cy="87.3" r="4" fill="#3465a4"><title>McGran (Personal)</title></circle></a><a href="/variants/s11/g1w1g39r2w3t13w3dr2r1dr2w1~x2/"><circle cx="379.4" cy="89.7" r="4" fill="#3465a4"><title>Schuster (Perosnal)</title></circle></a><a href="/variants/s13/g40dy2r3w2g4dy1r18w1g2dy1db4w1dy3~x2/"><circle cx="350.0" cy="72.9" r="4" fill="#3465a4"><title>Morgan Jocelyn Osmélian Peregrine (Personal)</title></circle></a><a href="/variants/s12/y2g16lb2w2lb2w2lb6g7r2w1lb1dp1~x2/"><circle cx="265.7" cy="133.6" r="4" fill="#3465a4"><title>Fredericton</title></circle></a><a href="/variants/s12/y2g16lb2w2lb2w2lb6g7r2w1lb1dp1~x6/"><circle cx="265.7" cy="133.6" r="4" fill="#3465a4"><title>Fredericton #2</title></circle></a><a href="/variants/s10/db6w1ly24g6dt3g1dt3g1dt12r1~x2~db1404245-dt1703208/"><circle cx="225.9" cy="120.1" r="4" fill="#3465a4"><title>Chisholm Colonial</title></circle></a><circle cx="280.1" cy="66.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

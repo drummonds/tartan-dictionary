@@ -1,6 +1,13 @@
 ---
 title: "Italian American"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Italian"
+  url: "/clan/italian/"
+- name: "Italian American"
+  url: "/tartans/i/it/italian-american/"
 ---
 This is the **Italian American** sett — one scale-free proportion (`r4k2w6k2db40k80g10w6r3`), colour order pattern
 [RKWKBKGWR](/stripes/rkwkbkgwr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r4k2w6k2t40k80g10w6r3/"><circle cx="269.0" cy="61.8" r="4" fill="#3465a4"><title>Italian American (Corporate)</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="299.1" cy="111.7" r="4" fill="#3465a4"><title>MacBeth (Fashion)</title></circle></a><a href="/variants/s9/lb4n6k4ri2r10k44n1k1lb2~x2~ri2109032-r1807033/"><circle cx="357.7" cy="49.0" r="4" fill="#3465a4"><title>Calgary HOG (Corporate)</title></circle></a><a href="/variants/s9/lb4n6k4r2o10k44n1k1lb2~x2~r2410029-o2208036/"><circle cx="352.2" cy="47.4" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><a href="/variants/s9/db12w1db2k3r15k1y2k39r2~x2/"><circle cx="292.6" cy="64.5" r="4" fill="#3465a4"><title>Superstition Fire Honor Guard Pipes &amp; Drums</title></circle></a><a href="/variants/s9/n4w1k36db2dr4w1db14dr8w1~x2/"><circle cx="277.1" cy="83.6" r="4" fill="#3465a4"><title>Midnight Balmoral (Personal)</title></circle></a><a href="/variants/s9/w3db2y1db2y1db31k28r2k2~x2/"><circle cx="281.7" cy="80.4" r="4" fill="#3465a4"><title>Hill (Name)</title></circle></a><a href="/variants/s10/k53t3k2w1k2t3k5t32y1r3~x2/"><circle cx="333.6" cy="45.9" r="4" fill="#3465a4"><title>Estonian National Tartan (District)</title></circle></a><a href="/variants/s12/k4n6k4o4n29o6k64db10k4db6lb4w2~n1900000-o2500000/"><circle cx="246.2" cy="51.2" r="4" fill="#3465a4"><title>Earthrise</title></circle></a><a href="/variants/s9/k4r2k28db31y1db2y1db2w3~x2/"><circle cx="276.4" cy="83.3" r="4" fill="#3465a4"><title>Hill</title></circle></a><circle cx="278.5" cy="62.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

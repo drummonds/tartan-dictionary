@@ -1,6 +1,11 @@
 ---
 title: "Un-named (D C Dalgliesh)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Un-named"
+  url: "/tartans/u/un/un-named/"
 ---
 This is the **Un-named (D C Dalgliesh)** sett — one scale-free proportion (`k3lb4r5k2lb5k2r5k2g25k3lb11k2r5k1w3`), colour order pattern
 [KWRKWKRKGKWKRKW](/stripes/kwrkwkrkgkwkrkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r4g20k16y2k3w3k2w18r6k2r4k1w2~x2/"><circle cx="89.8" cy="103.0" r="4" fill="#3465a4"><title>Palmer, Edward</title></circle></a><a href="/variants/s13/r24k8dg12k1g2k1dg12k8w3g2w14g1w2~x2~r2109032-dg1806142-g2508144/"><circle cx="90.2" cy="103.4" r="4" fill="#3465a4"><title>Hohenzollern Staff</title></circle></a><a href="/variants/s13/r24k8dg12k1g2k1dg12k8w3g2w14g1w2~x2~dg1806142-g2508144/"><circle cx="90.0" cy="102.9" r="4" fill="#3465a4"><title>Hohenzollern Staff (Personal)</title></circle></a><a href="/variants/s16/lb4r2lb3g1lb1g2lb18r1k12dg21lb1k3dg1k2dg4r2~x2/"><circle cx="140.6" cy="82.8" r="4" fill="#3465a4"><title>Munster</title></circle></a><a href="/variants/s19/k3r1g2r2w20db3w3r7k2r2k2r2k7g2k2g2k2g8y3~x2/"><circle cx="66.0" cy="70.0" r="4" fill="#3465a4"><title>Princess Beatrice, dress</title></circle></a><a href="/variants/s19/k4r1k1r2w24db2w3r8g2r2g2r2k8g2k2g2k2g8y2~x2/"><circle cx="96.4" cy="52.4" r="4" fill="#3465a4"><title>Princess Beatrice Dress Royal Family Tartan</title></circle></a><a href="/variants/s14/ly10w2dy1w2n10ly8dy2k17dy2ly7n19k3y1k1~x2/"><circle cx="102.6" cy="97.4" r="4" fill="#3465a4"><title>Scottish Wildcat</title></circle></a><a href="/variants/s13/r4dg20k16ly2k3w3k2ly18r6k2r4k1w2~x4/"><circle cx="91.0" cy="102.2" r="4" fill="#3465a4"><title>Johnson, J.M.</title></circle></a><a href="/variants/s19/k3dr1g2dr2w20db3w3dr7k2dr2k2dr2k7g2k2g2k2g8dy3~x4/"><circle cx="67.6" cy="73.7" r="4" fill="#3465a4"><title>Princess Beatrice Dress (Dance)</title></circle></a><a href="/variants/s19/k3r1k2r2w20db3w3r8k2r2k2r2k8g2k2g2k2g8dy2~x2/"><circle cx="68.1" cy="68.1" r="4" fill="#3465a4"><title>Princess Beatrice Dress (1880)</title></circle></a><circle cx="117.7" cy="86.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

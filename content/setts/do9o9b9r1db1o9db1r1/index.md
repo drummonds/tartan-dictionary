@@ -1,6 +1,15 @@
 ---
 title: "Jardine, of Castlemilk"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Jardine,"
+  url: "/clan/jardine/"
+- name: "Jardine, of Castlemilk"
+  url: "/families/jardine-of-castlemilk/"
+- name: "Jardine, of Castlemilk"
+  url: "/tartans/j/ja/jardine-of-castlemilk-3/"
 ---
 This is the **Jardine, of Castlemilk** sett — one scale-free proportion (`do9o9b9r1db1o9db1r1`), colour order pattern
 [BRBRBRBR](/stripes/brbrbrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r10b44o5dg40o62r5o10/"><circle cx="285.5" cy="212.2" r="4" fill="#3465a4"><title>Ballintrae</title></circle></a><a href="/variants/s7/o72do30o18b62y10do7b32/"><circle cx="292.7" cy="243.4" r="4" fill="#3465a4"><title>Manhattan Ethnic</title></circle></a><a href="/variants/s8/o18dt2o2dt2o2dt14dr14ly3~x2/"><circle cx="267.6" cy="219.0" r="4" fill="#3465a4"><title>Talladale</title></circle></a><a href="/variants/s7/r5o20db13dbi42db13o20lo5~db1404245-dbi1406275/"><circle cx="216.5" cy="230.4" r="4" fill="#3465a4"><title>Newmill Corporate Tartan</title></circle></a><a href="/variants/s8/db34dy9ly3dy9n30r3n11r5/"><circle cx="261.4" cy="204.9" r="4" fill="#3465a4"><title>Ballantyne (Personal) STWR</title></circle></a><a href="/variants/s6/r15dt8g25dt72n98lb15~dt0900000/"><circle cx="254.6" cy="204.2" r="4" fill="#3465a4"><title>Afternoon Tea / Black Tea</title></circle></a><a href="/variants/s6/db30y3o11y3n33r6~x2/"><circle cx="270.5" cy="219.6" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/variants/s8/r1dy1r9g6lg2t3r2y1~x4~lg2803208-t2203208/"><circle cx="247.2" cy="186.3" r="4" fill="#3465a4"><title>Battle of Bannockburn, The</title></circle></a><a href="/variants/s7/dp8r3y1r3dg14r3y1~x4/"><circle cx="285.8" cy="196.8" r="4" fill="#3465a4"><title>Logan - 1819 (with yellow)</title></circle></a><a href="/variants/s9/n3do18n4do3n4r13n21do2b3~x2/"><circle cx="343.7" cy="223.9" r="4" fill="#3465a4"><title>Leitrim</title></circle></a><circle cx="267.9" cy="214.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

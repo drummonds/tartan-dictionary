@@ -1,6 +1,11 @@
 ---
 title: "Orlando, City of"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Orlando, City of"
+  url: "/tartans/o/or/orlando-city-of/"
 ---
 This is the **Orlando, City of** sett — one scale-free proportion (`db12k1g16db1g1db14g3db14r2`), colour order pattern
 [BKGBGBGBRBGBGBGK](/stripes/bkgbgbgbrbgbgbgk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db12ly1g16db1g1db14g3db14r2~x4/"><circle cx="382.6" cy="183.7" r="4" fill="#3465a4"><title>Orlando, City of (District)</title></circle></a><a href="/variants/s10/db26dg6db26r2dg26w1r6db2r6db13~x2/"><circle cx="393.8" cy="170.1" r="4" fill="#3465a4"><title>Unidentified Plaid #5</title></circle></a><a href="/variants/s9/n22b9k4n14dr2n11k2n2k2~x2/"><circle cx="362.1" cy="165.1" r="4" fill="#3465a4"><title>Greyhound Grenadiers Pipe Band</title></circle></a><a href="/variants/s15/db11k1g3db6k1db6g3db4g7db11y1db11g7y2k4/"><circle cx="299.3" cy="179.9" r="4" fill="#3465a4"><title>Beynon</title></circle></a><a href="/variants/s11/g16k2g2k2g2db32r3db32g16k2g2~x2/"><circle cx="321.1" cy="139.4" r="4" fill="#3465a4"><title>MacLachlan, Green Dress (Fashion)</title></circle></a><a href="/variants/s15/db22k1dg3db6k1db6dg3db4dg7db11y1db11dg7y2k6~dg1605139/"><circle cx="395.3" cy="147.0" r="4" fill="#3465a4"><title>Benyon of Wales</title></circle></a><a href="/variants/s20/db4n3db4n19k2n3k2n12db4n3db4n3k1n2y1n2y1n2k1n3~x4/"><circle cx="413.6" cy="122.6" r="4" fill="#3465a4"><title>Washington, Stockman</title></circle></a><a href="/variants/s15/db22k1dg3db6k1db6dg3db4dg7db11y1db11dg7y2k4~x2~dg1605139/"><circle cx="414.1" cy="146.9" r="4" fill="#3465a4"><title>Benyon of Wales (Name)</title></circle></a><a href="/variants/s13/b9r5b51dg13k13b5dg4b5dg23b11k5b5r5/"><circle cx="278.6" cy="144.2" r="4" fill="#3465a4"><title>Balmoral, Gillies</title></circle></a><a href="/variants/s10/db15g7y3g7db40g7y3g7db15r5~x2~db1406275/"><circle cx="394.7" cy="184.4" r="4" fill="#3465a4"><title>Wheadon</title></circle></a><circle cx="348.9" cy="148.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

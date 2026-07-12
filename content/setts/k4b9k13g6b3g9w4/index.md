@@ -1,6 +1,15 @@
 ---
 title: "Ramsay, Red"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ramsay"
+  url: "/clan/ramsay/"
+- name: "Ramsay"
+  url: "/families/ramsay/"
+- name: "Ramsay"
+  url: "/tartans/r/ra/ramsay-6/"
 ---
 This is the **Ramsay, Red** sett — one scale-free proportion (`k4b9k13g6b3g9w4`), colour order pattern
 [KBKGBGW](/stripes/kbkgbgw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db4k4db4g9k2~x2/"><circle cx="155.1" cy="285.6" r="4" fill="#3465a4"><title>Austin Clan</title></circle></a><a href="/variants/s5/db4k4db4g9k2/"><circle cx="155.1" cy="285.6" r="4" fill="#3465a4"><title>Austin</title></circle></a><a href="/variants/s6/lb3g12k14lb11k3lb3~x2/"><circle cx="131.7" cy="255.5" r="4" fill="#3465a4"><title>Wilson's, No 166</title></circle></a><a href="/variants/s7/k4g4k1g4k4db4y1~x2/"><circle cx="112.4" cy="268.4" r="4" fill="#3465a4"><title>Unidentified No 39</title></circle></a><a href="/variants/s7/k4dy9k13g6dy3g9w4~x2/"><circle cx="81.9" cy="255.2" r="4" fill="#3465a4"><title>Ramsay Hunting Family Tartan</title></circle></a><a href="/variants/s7/k12g12k2g12k12db12lb3~x2/"><circle cx="120.0" cy="248.0" r="4" fill="#3465a4"><title>MacIntyre Hunting Clan Tartan</title></circle></a><a href="/variants/s6/db2k2db12k11g12w2~x2/"><circle cx="124.1" cy="228.6" r="4" fill="#3465a4"><title>Campbell, The White Stripe</title></circle></a><a href="/variants/s7/k8g8k1g8k8b8w2~x2/"><circle cx="121.2" cy="233.6" r="4" fill="#3465a4"><title>Unnamed, No 31</title></circle></a><a href="/variants/s7/k8g8k1g8k8lb8w2~x2/"><circle cx="115.2" cy="231.7" r="4" fill="#3465a4"><title>Unidentified No 31</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="145.6" cy="229.5" r="4" fill="#3465a4"><title>Murray (Variation) Clan Tartan</title></circle></a><circle cx="77.9" cy="256.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

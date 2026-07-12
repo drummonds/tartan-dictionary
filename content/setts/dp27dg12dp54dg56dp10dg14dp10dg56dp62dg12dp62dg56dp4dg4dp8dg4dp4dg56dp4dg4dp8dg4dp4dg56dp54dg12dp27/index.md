@@ -1,6 +1,11 @@
 ---
 title: "Rae (Wilsons) (Clan)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Rae"
+  url: "/tartans/r/ra/rae/"
 ---
 This is the **Rae (Wilsons) (Clan)** sett — one scale-free proportion (`dp27dg12dp54dg56dp10dg14dp10dg56dp62dg12dp62dg56dp4dg4dp8dg4dp4dg56dp4dg4dp8dg4dp4dg56dp54dg12dp27`), colour order pattern
 [BGBGBGBGBGBGBGBGBGBGBGBGBGB](/stripes/bgbgbgbgbgbgbgbgbgbgbgbgbgb/). It is recorded as a single **variant**, below.

@@ -1,6 +1,11 @@
 ---
 title: "Long Way Down, The (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Long Way Down, The"
+  url: "/tartans/l/lo/long-way-down-the/"
 ---
 This is the **Long Way Down, The (Corporate)** sett — one scale-free proportion (`o55g6yi3lb3yi3lb3yi10y5yi5lr2yi3`), colour order pattern
 [GYGGGWGWGGR](/stripes/gygggwgwggr/). It is recorded as a single **variant**, below.

@@ -1,6 +1,13 @@
 ---
 title: "Anderson P"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Anderson"
+  url: "/clan/anderson/"
+- name: "Anderson P"
+  url: "/tartans/a/an/anderson-p/"
 ---
 This is the **Anderson P** sett — one scale-free proportion (`r3g6k1r2k1g6db4r1k4y1k1y1k3w3k3lb18k1r2k1lb6r3`), colour order pattern
 [RGKRKGBRKGKGKWKWKRKWR](/stripes/rgkrkgbrkgkgkwkwkrkwr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3lb18r1k2r1lb6r3~x2/"><circle cx="57.8" cy="66.3" r="4" fill="#3465a4"><title>Anderson Family Tartan</title></circle></a><a href="/variants/s22/r3g6k1r2k1g6r2db5r2k2y2k2y2k3w3k3lb14k1r2k1lb6r3~x2/"><circle cx="14.0" cy="83.6" r="4" fill="#3465a4"><title>Anderson Variant Clan Tartan</title></circle></a><a href="/variants/s22/r3g6k1r2k1g6r2db5r2k2y2k2y2k3w3k3b14k1r2k1b6r3~x2/"><circle cx="22.3" cy="86.8" r="4" fill="#3465a4"><title>Anderson 11</title></circle></a><a href="/variants/s22/dy6lb12k2r3k2lb40k6w6k6y3k3y3k12r3db12r3dy14k2r3k2dy14r5/"><circle cx="58.2" cy="49.0" r="4" fill="#3465a4"><title>Anderson (Paton)</title></circle></a><a href="/variants/s21/r4lb10k1r2k1lb32db4w5k4y2k2y2k8r2db8g9k1r2k1g8r4~x2/"><circle cx="98.7" cy="27.9" r="4" fill="#3465a4"><title>Anderson (MacGregor-Hastie #2)</title></circle></a><a href="/variants/s22/o6lb12k2r3k2lb40k6w6k6y3k3y3k12r3db12r3o14k2r3k2o14r5/"><circle cx="60.8" cy="48.9" r="4" fill="#3465a4"><title>Anderson 1</title></circle></a><a href="/variants/s24/r4g6r1g2r3g2r1g6r3db2r1k2y1k1y1k2w2k2lb18r1k1r1lb3r2~x2/"><circle cx="72.9" cy="49.4" r="4" fill="#3465a4"><title>Anderson (MacGregor-Hastie #4)</title></circle></a><a href="/variants/s24/w4dbi4w50dbi5w5k26g27k4y4db4k4g27k25dbi23r3dbi10r3dbi23k25w5dbi5w50dbi4w4~dbi1604274-db0805267/"><circle cx="53.5" cy="64.2" r="4" fill="#3465a4"><title>Malcolm, dress</title></circle></a><a href="/variants/s23/w4dbi4w50dbi5k25dbi23r3dbi10r3dbi23k25g27k4db4y4k4g27k26w5dbi5w50dbi4w4~dbi1406275-db1204274/"><circle cx="49.8" cy="66.7" r="4" fill="#3465a4"><title>Malcolm, Dress</title></circle></a><a href="/variants/s24/w4dbi4w50dbi5w5k26g27k4y4db4k4g27k25dbi23r3dbi10r3dbi23k25w5dbi5w50dbi4w4~dbi1406275-db1204274/"><circle cx="53.4" cy="63.7" r="4" fill="#3465a4"><title>Malcolm Dress Clan Tartan</title></circle></a><circle cx="59.3" cy="57.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

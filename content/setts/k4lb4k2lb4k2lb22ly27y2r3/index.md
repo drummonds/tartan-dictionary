@@ -1,6 +1,15 @@
 ---
 title: "Falkirk"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Falkirk"
+  url: "/clan/falkirk/"
+- name: "Falkirk"
+  url: "/families/falkirk/"
+- name: "Falkirk"
+  url: "/tartans/f/fa/falkirk-2/"
 ---
 This is the **Falkirk** sett — one scale-free proportion (`k4lb4k2lb4k2lb22ly27y2r3`), colour order pattern
 [KWKWKWYGR](/stripes/kwkwkwygr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/ly24k5r2k2w2n8w3k2w2ly2~x2/"><circle cx="188.9" cy="115.5" r="4" fill="#3465a4"><title>Stewart Fawn Trade Tartan</title></circle></a><a href="/variants/s8/k3r1y1lb11g13lb5r1y1~x4/"><circle cx="198.5" cy="151.5" r="4" fill="#3465a4"><title>Snodgrass (Clan)</title></circle></a><a href="/variants/s11/w60dt24n3dt5w3dt5o16n8k3n6w4/"><circle cx="214.1" cy="97.8" r="4" fill="#3465a4"><title>Glenmore Pink</title></circle></a><a href="/variants/s13/w9r5w29k10y2k3w3k3g12r6k3r3w2~x2/"><circle cx="160.7" cy="110.6" r="4" fill="#3465a4"><title>Hay, or Stewart</title></circle></a><a href="/variants/s8/lb4k13lb17ly2r2ly24lb2w2~x2/"><circle cx="162.6" cy="155.6" r="4" fill="#3465a4"><title>Lalage (Personal)</title></circle></a><a href="/variants/s6/w43k5r3g5y27o5~x2/"><circle cx="195.3" cy="135.5" r="4" fill="#3465a4"><title>Reekie, Charlene</title></circle></a><a href="/variants/s9/r15ri1g3k1w11r3g3ri3w1~x4~r1506019-ri2806019/"><circle cx="182.4" cy="127.5" r="4" fill="#3465a4"><title>Etive, Burgundy (Dance)</title></circle></a><a href="/variants/s14/r6g4y4g25r4g6r4g6w34g4w4k4r4w6/"><circle cx="145.6" cy="137.9" r="4" fill="#3465a4"><title>Hay, White Dress</title></circle></a><a href="/variants/s9/y1k6g4k1w16lb1w4lb6w1~x2/"><circle cx="201.2" cy="126.6" r="4" fill="#3465a4"><title>Henderson Dress (Clan?)</title></circle></a><a href="/variants/s10/lo4g2lo2g2lo2g24k2r16w9db3~x2/"><circle cx="152.7" cy="123.7" r="4" fill="#3465a4"><title>North West Territories (District)</title></circle></a><circle cx="197.2" cy="129.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

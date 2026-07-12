@@ -1,6 +1,11 @@
 ---
 title: "Waugh"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Waugh"
+  url: "/tartans/w/wa/waugh/"
 ---
 This is the **Waugh** sett — one scale-free proportion (`db100lb10k5lb10r8`), colour order pattern
 [BWKWR](/stripes/bwkwr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db128r8lb41n4lb4n4/"><circle cx="437.9" cy="127.6" r="4" fill="#3465a4"><title>French Freemasons' Pride (Fashion)</title></circle></a><a href="/variants/s5/ki61w4k11db5dr5~x2~ki0604259/"><circle cx="417.4" cy="150.1" r="4" fill="#3465a4"><title>Edinburgh Crystal</title></circle></a><a href="/variants/s5/db12lb1k2db1r1~x8/"><circle cx="459.8" cy="167.6" r="4" fill="#3465a4"><title>Lochcarron (1985)</title></circle></a><a href="/variants/s5/db13lb3db1r3lb1~x6/"><circle cx="405.9" cy="200.5" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><a href="/variants/s4/db1lb1db8r1~x2/"><circle cx="532.5" cy="229.7" r="4" fill="#3465a4"><title>Lochaber #3</title></circle></a><a href="/variants/s5/db26lb6g1r1w2~x2/"><circle cx="428.8" cy="129.4" r="4" fill="#3465a4"><title>Special Air Service</title></circle></a><a href="/variants/s6/r5db58lb4t6y4k4~x2~lb3103284-t2503227/"><circle cx="395.0" cy="115.9" r="4" fill="#3465a4"><title>Kendle (2013)</title></circle></a><a href="/variants/s6/r5db58lb4n6y4k4~x2~db1406275-n2203265/"><circle cx="411.7" cy="119.1" r="4" fill="#3465a4"><title>Kendle (2013)</title></circle></a><a href="/variants/s5/db68lb7db16k16ly4~x2/"><circle cx="445.5" cy="167.8" r="4" fill="#3465a4"><title>Burnetts &amp; Struth</title></circle></a><a href="/variants/s8/dbi2w2dbi43t5db4k8db2w2~x2~dbi1404245-db1204274/"><circle cx="380.0" cy="107.3" r="4" fill="#3465a4"><title>Fife Flyers</title></circle></a><circle cx="463.9" cy="143.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

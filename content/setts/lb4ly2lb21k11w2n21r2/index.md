@@ -1,6 +1,13 @@
 ---
 title: "Barbour -Modern"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Barbour"
+  url: "/clan/barbour/"
+- name: "Barbour -Modern"
+  url: "/tartans/b/ba/barbour-modern/"
 ---
 This is the **Barbour -Modern** sett — one scale-free proportion (`lb4ly2lb21k11w2n21r2`), colour order pattern
 [RBWKWYW](/stripes/rbwkwyw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db3r2n15w10k2y3~x2/"><circle cx="133.4" cy="176.3" r="4" fill="#3465a4"><title>SCH '67 Class</title></circle></a><a href="/variants/s7/r2db14k6g1w12g1w2~x4/"><circle cx="137.8" cy="150.1" r="4" fill="#3465a4"><title>Davidson (Wedding) (Personal)</title></circle></a><a href="/variants/s7/y2r1lb16k5dp2w11dp1~x4/"><circle cx="153.9" cy="130.7" r="4" fill="#3465a4"><title>Dignan</title></circle></a><a href="/variants/s8/db5w30lb9k9dp9g2dp2g5~x2/"><circle cx="122.5" cy="128.3" r="4" fill="#3465a4"><title>Alexander of Menstry Dress</title></circle></a><a href="/variants/s7/lo4dr2t32k10dp4lb21dp2~x2/"><circle cx="167.7" cy="136.8" r="4" fill="#3465a4"><title>Dignan School of Dancing</title></circle></a><a href="/variants/s8/g5y2lb20w2k20w20k2w5~x2/"><circle cx="114.4" cy="168.6" r="4" fill="#3465a4"><title>Alexander Brothers - 2007? (Corp.)</title></circle></a><a href="/variants/s7/r3w2db27k19w27dp2y3~x2/"><circle cx="111.1" cy="138.9" r="4" fill="#3465a4"><title>Christian Dress (Personal)</title></circle></a><a href="/variants/s8/db48ly25dy15dr7w5db7k10w10~x2/"><circle cx="121.6" cy="155.3" r="4" fill="#3465a4"><title>State Seal of Utah (Fashion)</title></circle></a><a href="/variants/s8/lb26db13k13w2g8k5r3lb3~x2/"><circle cx="106.2" cy="141.3" r="4" fill="#3465a4"><title>Moran (Coilessan) (Personal)</title></circle></a><a href="/variants/s6/k6w49db50dp6dbi8ly4~db1204274-dbi1406275/"><circle cx="158.5" cy="145.1" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><circle cx="144.8" cy="159.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Wilson (Janet)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Wilson"
+  url: "/clan/wilson/"
+- name: "Wilson"
+  url: "/families/wilson/"
+- name: "Wilson"
+  url: "/tartans/w/wi/wilson-3/"
 ---
 This is the **Wilson (Janet)** sett — one scale-free proportion (`db45w4db6g6db6g6db6g37r6g6r6g6r6g6r6g39r27g6db6r12w4r30`), colour order pattern
 [BWBGBGBGRGRGRGRGRGBRWRWRBGRGRGRGRGRGBGBGBW](/stripes/bwbgbgbgrgrgrgrgrgbrwrwrbgrgrgrgrgrgbgbgbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s22/dp30w2lb3dg3lb3dg3lb3dg16r3dg3r3dg3r3dg3r3dg25r15dg4lb4r8w2r15~x2/"><circle cx="192.6" cy="112.1" r="4" fill="#3465a4"><title>Wilson, Janet (1780 Original)</title></circle></a><a href="/variants/s28/r25g6r25g29r4g8r4g29dp32g6dp32g29dp2g2dp4g2dp2g29dp2g2dp4g2dp2g29r25g6r25dp2/"><circle cx="271.2" cy="119.6" r="4" fill="#3465a4"><title>Ross (Wilsons)</title></circle></a><a href="/variants/s28/r25g6r25g29r4g8r4g29dp32g6dp32g29dp2g2dp4g2dp2g29dp2g2dp4g2dp2g29r25g6r25dp2~dp1607327/"><circle cx="278.6" cy="120.9" r="4" fill="#3465a4"><title>Ross (Wilsons) Clan/Family Tartan</title></circle></a><a href="/variants/s39/g21w2g20r8g6y3g6r8g10r9g11r22g3r9g3r21w2r10db26r6db26r10w2r19g2r2g3r2g2r20g2r2g3r2g2r19g20r6g20/"><circle cx="220.9" cy="115.9" r="4" fill="#3465a4"><title>Lumsden (Waistcoat)</title></circle></a><a href="/variants/s39/g21w2g20r8g6y3g6r8g10r9g11r22g3r9g3r21w2r10db26r6db26r10w2r19g2r2g3r2g2r20g2r2g3r2g2r19g20r6g20~x2/"><circle cx="220.9" cy="115.9" r="4" fill="#3465a4"><title>Lumsden Waistcoat</title></circle></a><a href="/variants/s39/g9r3g9r8g1r1g3r1g1r8g1r1g3r1g1r8w1r4db10r3db10r4w1r8g2r4g2r8g5r3g5r3g5y1g5r5g8w1g8~x2/"><circle cx="197.0" cy="139.2" r="4" fill="#3465a4"><title>Lumsden</title></circle></a><a href="/variants/s31/db9r2db9r9g1r1g2r1g1r9g1r1g2r1g1r9w1r4db11r2db11r4w1r9g2r4g2r9g9r2g9~x2/"><circle cx="228.8" cy="139.7" r="4" fill="#3465a4"><title>Lumsden, of Clova</title></circle></a><a href="/variants/s14/db2lb1r2g16r2db6lb1r2g6r2db16lb1r2g2~x2~db1406275-r2109032/"><circle cx="233.3" cy="125.3" r="4" fill="#3465a4"><title>Norwich No.023</title></circle></a><a href="/variants/s29/db3r15g2r2g12w2db12r2db4r2db12w2r8db2r2db2r2db2r8db2r2db2r2db2r8g10db1g2r2~x2/"><circle cx="213.9" cy="125.2" r="4" fill="#3465a4"><title>Summerville Presbyterian Church (Cor</title></circle></a><a href="/variants/s27/g18r2g18r18g2r4g2r18db18r2db18r18db1r1db2r1db1r18db1r1g2r1db1r18g18r2g18~x2/"><circle cx="277.2" cy="134.5" r="4" fill="#3465a4"><title>Ross (Clan)</title></circle></a><circle cx="216.7" cy="120.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "MacKinnon Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacKinnon"
+  url: "/clan/mackinnon/"
+- name: "MacKinnon"
+  url: "/families/mackinnon/"
+- name: "MacKinnon Dress"
+  url: "/tartans/m/ma/mackinnon-dress-2/"
 ---
 This is the **MacKinnon Dress** sett — one scale-free proportion (`g9dy7w7r1`), colour order pattern
 [GGWR](/stripes/ggwr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r1g8dy8w1~x2/"><circle cx="272.1" cy="252.3" r="4" fill="#3465a4"><title>MacKinnon Hunting (Var) Clan Tartan</title></circle></a><a href="/variants/s4/g9o7w7r1~x4/"><circle cx="189.2" cy="275.8" r="4" fill="#3465a4"><title>MacKinnon, dress</title></circle></a><a href="/variants/s5/r1dy5g5w5y1~x8/"><circle cx="90.3" cy="258.7" r="4" fill="#3465a4"><title>Eastern Townshippers (Corporate)</title></circle></a><a href="/variants/s4/ly30g30r1db16~x2/"><circle cx="246.3" cy="217.8" r="4" fill="#3465a4"><title>Barber Family (Personal)</title></circle></a><a href="/variants/s4/g9dr7w7r1~x4/"><circle cx="160.9" cy="265.3" r="4" fill="#3465a4"><title>MacKinnon Dress Trade Tartan</title></circle></a><a href="/variants/s4/dg7dr7w7r1~x6/"><circle cx="126.7" cy="273.4" r="4" fill="#3465a4"><title>MacKinnon Dress Hunting (Fashion)</title></circle></a><a href="/variants/s4/g22w14r7ly2~x2/"><circle cx="256.9" cy="248.2" r="4" fill="#3465a4"><title>Loch Lomond #3</title></circle></a><a href="/variants/s4/r1g6db6w1~x4/"><circle cx="221.5" cy="262.4" r="4" fill="#3465a4"><title>Salt Spring Island</title></circle></a><a href="/variants/s4/db10g10r5w1~x2/"><circle cx="204.5" cy="257.4" r="4" fill="#3465a4"><title>Thorntons Law Corporate Tartan</title></circle></a><a href="/variants/s4/db21g34r14w6~x2/"><circle cx="195.1" cy="279.9" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><circle cx="160.6" cy="267.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

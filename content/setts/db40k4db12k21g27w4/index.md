@@ -1,6 +1,15 @@
 ---
 title: "Granger (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Granger"
+  url: "/clan/granger/"
+- name: "Granger"
+  url: "/families/granger/"
+- name: "Granger"
+  url: "/tartans/g/gr/granger/"
 ---
 This is the **Granger (Personal)** sett — one scale-free proportion (`db40k4db12k21g27w4`), colour order pattern
 [BKBKGW](/stripes/bkbkgw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db2k2db12k11g16w2~x2/"><circle cx="141.6" cy="213.6" r="4" fill="#3465a4"><title>Campbell of Argyll (Smiths)</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="145.6" cy="229.5" r="4" fill="#3465a4"><title>Murray (Variation) Clan Tartan</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8r2/"><circle cx="135.8" cy="215.9" r="4" fill="#3465a4"><title>Fletcher C</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8r2~x2/"><circle cx="135.8" cy="215.9" r="4" fill="#3465a4"><title>Fletcher of Dunans Clan Tartan</title></circle></a><a href="/variants/s6/k4w2g18k13db12k2~x2/"><circle cx="141.0" cy="205.7" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s6/k4w2g13k13b12k2~x2/"><circle cx="132.5" cy="220.8" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s7/db15w2g2k18db21k3g15~x2/"><circle cx="181.7" cy="188.7" r="4" fill="#3465a4"><title>Loyalhanna (District?)</title></circle></a><a href="/variants/s6/k6g11w2db22r2k4~x2/"><circle cx="181.9" cy="167.8" r="4" fill="#3465a4"><title>Leslie Hebridean Artifact Tartan</title></circle></a><a href="/variants/s6/db31t4db5k19g20lo4~x2/"><circle cx="156.2" cy="203.4" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/variants/s6/db31b4db5k19g20y4~x2/"><circle cx="163.5" cy="205.3" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><circle cx="206.8" cy="208.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

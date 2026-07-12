@@ -1,6 +1,13 @@
 ---
 title: "Turnberry Manx Snaefell Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Turnberry"
+  url: "/clan/turnberry/"
+- name: "Turnberry Manx Snaefell"
+  url: "/tartans/t/tu/turnberry-manx-snaefell/"
 ---
 This is the **Turnberry Manx Snaefell Family Tartan** sett — one scale-free proportion (`ly22do2ly2do2ly2do15w17do3`), colour order pattern
 [BWBYBYBY](/stripes/bwbybyby/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/ly24dy3ly3dy3ly3dy20w22dy4~x2~dy1603076/"><circle cx="238.4" cy="237.2" r="4" fill="#3465a4"><title>Baillie Dress</title></circle></a><a href="/variants/s8/do2lo2do15lo1w10ly15lo2ly2~x2/"><circle cx="233.0" cy="206.0" r="4" fill="#3465a4"><title>Bannockbane Orange Stripes</title></circle></a><a href="/variants/s7/do5lo4do26ly26do4ly3w5~x2/"><circle cx="295.1" cy="227.0" r="4" fill="#3465a4"><title>Elgin District Tartan</title></circle></a><a href="/variants/s8/ly6n2ly2n2ly18n13db13n2~x2/"><circle cx="292.0" cy="249.4" r="4" fill="#3465a4"><title>Heil, Rudiger (Personal)</title></circle></a><a href="/variants/s8/ly22dy2ly2dy2ly2dy14lr16dy3~x2/"><circle cx="272.6" cy="216.4" r="4" fill="#3465a4"><title>Snaefell (District)</title></circle></a><a href="/variants/s9/dy22do3dy3do3dy3do9lb28do3lb6~x2/"><circle cx="268.3" cy="212.9" r="4" fill="#3465a4"><title>Kildonan Brown (Fashion)</title></circle></a><a href="/variants/s7/n2w1ly17n14w15n2w2~x2/"><circle cx="298.4" cy="238.5" r="4" fill="#3465a4"><title>North American Sheep Breeders Association</title></circle></a><a href="/variants/s8/n9do1n1do1n1do7w7do2~x4/"><circle cx="261.5" cy="241.6" r="4" fill="#3465a4"><title>Grey Watch, Dress</title></circle></a><a href="/variants/s13/ly20do3ly3do3ly3do9w10do3w1do9ly10do3ly3~x2/"><circle cx="315.1" cy="196.6" r="4" fill="#3465a4"><title>Brown Watch Dress</title></circle></a><a href="/variants/s8/ly7db4ly2db4ly23n19db19n4~x2/"><circle cx="266.0" cy="244.7" r="4" fill="#3465a4"><title>Chindecella Gorse (Personal)</title></circle></a><circle cx="270.3" cy="227.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

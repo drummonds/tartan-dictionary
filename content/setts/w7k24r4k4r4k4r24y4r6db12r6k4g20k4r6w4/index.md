@@ -1,6 +1,15 @@
 ---
 title: "Innes"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Innes,"
+  url: "/clan/innes/"
+- name: "Innes"
+  url: "/families/innes/"
+- name: "Innes"
+  url: "/tartans/i/in/innes-5/"
 ---
 This is the **Innes** sett — one scale-free proportion (`w7k24r4k4r4k4r24y4r6db12r6k4g20k4r6w4`), colour order pattern
 [WKRKRKRGRBRKGKRW](/stripes/wkrkrkrgrbrkgkrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/w3k12r2k2r2k2r12y2r3db6r3k2g10k2r3w2/"><circle cx="61.0" cy="135.0" r="4" fill="#3465a4"><title>Innes D</title></circle></a><a href="/variants/s16/lb7k24r4k4r4k4r24y4r6db12r6k4g20k4r6w4/"><circle cx="43.7" cy="123.1" r="4" fill="#3465a4"><title>Innes (Seven colours) (Clan)</title></circle></a><a href="/variants/s16/lb7k24r4k4r4k4r24y4r6db12r6k4g20k4r6w4~x2/"><circle cx="43.7" cy="123.1" r="4" fill="#3465a4"><title>Innes</title></circle></a><a href="/variants/s16/lb3k12r2k2r2k2r12y2r3db6r3k2g10k2r3w2~x2/"><circle cx="46.3" cy="122.3" r="4" fill="#3465a4"><title>Innes D</title></circle></a><a href="/variants/s16/lb3k12r2k2r2k2r12y2r3db6r3k2g10k2r3w2/"><circle cx="46.3" cy="122.3" r="4" fill="#3465a4"><title>Innes D</title></circle></a><a href="/variants/s16/lb4k22r3k3r3k3r22y3r4db6r4k3g18k3r6w3~x2/"><circle cx="72.0" cy="102.9" r="4" fill="#3465a4"><title>Innes (of Moray)</title></circle></a><a href="/variants/s15/r14g3r14g13y2k14db6k2db2k2db6r9w2k2r2~x2/"><circle cx="96.9" cy="136.8" r="4" fill="#3465a4"><title>MacPherson #8</title></circle></a><a href="/variants/s15/r6db1r6g8y1k6db4k1db2k1db4r4w1k1r1~x2/"><circle cx="73.8" cy="139.7" r="4" fill="#3465a4"><title>MacPherson Clan Tartan</title></circle></a><a href="/variants/s14/r9lb8k2lb2k2lb8k16y3dg18r10k3r10w2r5~x2/"><circle cx="62.7" cy="137.7" r="4" fill="#3465a4"><title>Caledonia - 1819 (Wilsons') No.155</title></circle></a><a href="/variants/s14/k1y1k1g6k6r6db1r1db1r6k6g6k1lb1~x4/"><circle cx="64.7" cy="150.6" r="4" fill="#3465a4"><title>Rossi (Personal)</title></circle></a><circle cx="58.2" cy="135.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

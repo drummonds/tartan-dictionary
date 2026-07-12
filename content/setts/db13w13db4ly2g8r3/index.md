@@ -1,6 +1,11 @@
 ---
 title: "Unidentified (Winterbottom)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified"
+  url: "/tartans/u/un/unidentified-21/"
 ---
 This is the **Unidentified (Winterbottom)** sett — one scale-free proportion (`db13w13db4ly2g8r3`), colour order pattern
 [BWBYGR](/stripes/bwbygr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/lb3w10db10g10r2~x4/"><circle cx="75.1" cy="264.8" r="4" fill="#3465a4"><title>MacTeddy</title></circle></a><a href="/variants/s6/db3r2g5r8db12w3~x2/"><circle cx="193.9" cy="242.5" r="4" fill="#3465a4"><title>Edinburgh Bus Company (Corporate)</title></circle></a><a href="/variants/s6/w5lb34k24lb4dr24lb4~x2/"><circle cx="175.6" cy="205.3" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/variants/s6/r3w8db4dg14r4db2~x4/"><circle cx="157.6" cy="230.2" r="4" fill="#3465a4"><title>MacKintosh Dress (Scott Adie)</title></circle></a><a href="/variants/s6/r3w8db4g14r4db2~x2/"><circle cx="163.4" cy="236.5" r="4" fill="#3465a4"><title>MacIntosh Dress Clan Tartan</title></circle></a><a href="/variants/s7/r3db15w13dy6db2dy2r2~x2/"><circle cx="161.5" cy="204.5" r="4" fill="#3465a4"><title>Thompson Navy Trade Tartan</title></circle></a><a href="/variants/s6/db2g13db11lb4w9db2~x2/"><circle cx="166.0" cy="263.7" r="4" fill="#3465a4"><title>Loch Leven Check Trade Tartan</title></circle></a><a href="/variants/s5/r7y3g28db28w3~x2/"><circle cx="212.1" cy="213.5" r="4" fill="#3465a4"><title>Turnbull, hunting</title></circle></a><a href="/variants/s7/dy17g5db2w12db2y4g7~x4~g2203152-db1106275/"><circle cx="145.7" cy="219.5" r="4" fill="#3465a4"><title>Northern Ontario</title></circle></a><a href="/variants/s8/db1lb9w3y3db9y1g1r1~x4/"><circle cx="133.2" cy="168.7" r="4" fill="#3465a4"><title>Curd (2013)</title></circle></a><circle cx="128.6" cy="230.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

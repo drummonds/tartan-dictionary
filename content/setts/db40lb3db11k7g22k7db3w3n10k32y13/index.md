@@ -1,6 +1,11 @@
 ---
 title: "Aurora House Check"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Aurora House Check"
+  url: "/tartans/a/au/aurora-house-check/"
 ---
 This is the **Aurora House Check** sett — one scale-free proportion (`db40lb3db11k7g22k7db3w3n10k32y13`), colour order pattern
 [BWBKGKBWBKG](/stripes/bwbkgkbwbkg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w2db3lb3db13k13db4r2db4g12b3r1~x2/"><circle cx="98.6" cy="124.1" r="4" fill="#3465a4"><title>Fitzgerald, hunting</title></circle></a><a href="/variants/s11/w2db3lb3db13k13db4r2db4g12lp3r1~x2/"><circle cx="94.6" cy="122.3" r="4" fill="#3465a4"><title>Fitzgerald Hunting Family Tartan</title></circle></a><a href="/variants/s11/dp27y2dp2k12g6o2g12k12db12r2db2~x2/"><circle cx="94.2" cy="119.5" r="4" fill="#3465a4"><title>Boxell, Baron (Personal)</title></circle></a><a href="/variants/s8/r4y3g12k16dy5db20k4w2~x2/"><circle cx="56.1" cy="136.5" r="4" fill="#3465a4"><title>Iowa</title></circle></a><a href="/variants/s14/g12k16dy5db20k4w2k4db20dy5k16g12y3r4y3~x2/"><circle cx="56.1" cy="136.5" r="4" fill="#3465a4"><title>Iowa American District Tartan</title></circle></a><a href="/variants/s9/dg32lb3lp3lb3dg2k20db17r3y4~x2/"><circle cx="135.9" cy="110.7" r="4" fill="#3465a4"><title>Colorado (District)</title></circle></a><a href="/variants/s11/dp27y2dp2k12g6o2g12k12db12r2db2~x2~dp1105325/"><circle cx="94.4" cy="119.4" r="4" fill="#3465a4"><title>Boxell of West Niddry, Baron (Personal)</title></circle></a><a href="/variants/s9/dg32lb3p3lb3dg2k20db17r3y4~x2/"><circle cx="141.5" cy="112.1" r="4" fill="#3465a4"><title>Colorado American District Tartan</title></circle></a><a href="/variants/s9/o4k7o2db25k19w2g13k2y3~x2/"><circle cx="117.7" cy="133.7" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><a href="/variants/s12/g16db7r2db7k5y2dp1y2k5db16g8w1~x2/"><circle cx="137.8" cy="116.7" r="4" fill="#3465a4"><title>Waipu (District)</title></circle></a><circle cx="91.4" cy="119.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

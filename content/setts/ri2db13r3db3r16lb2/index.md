@@ -1,6 +1,11 @@
 ---
 title: "MacArthur-Fox, dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "MacArthur-Fox Dress"
+  url: "/tartans/m/ma/macarthur-fox-dress/"
 ---
 This is the **MacArthur-Fox, dress** sett — one scale-free proportion (`ri2db13r3db3r16lb2`), colour order pattern
 [RBRBRW](/stripes/rbrbrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r2db13dr3db3dr16lb2~x4/"><circle cx="335.1" cy="232.1" r="4" fill="#3465a4"><title>MacArthur-Fox Dress Personal Tartan</title></circle></a><a href="/variants/s6/r2t13dr3t3dr16lb2~x4/"><circle cx="304.2" cy="225.7" r="4" fill="#3465a4"><title>MacArthur-Fox Blue (Personal)</title></circle></a><a href="/variants/s5/db8r2db8r15w2~x4/"><circle cx="292.8" cy="248.0" r="4" fill="#3465a4"><title>Hamilton (Clan)</title></circle></a><a href="/variants/s5/db6r1db6r9w1~x2/"><circle cx="315.6" cy="242.8" r="4" fill="#3465a4"><title>Hamilton</title></circle></a><a href="/variants/s5/db6r1db6r9w1~x4/"><circle cx="315.6" cy="242.8" r="4" fill="#3465a4"><title>Hamilton Red Clan Tartan</title></circle></a><a href="/variants/s6/g3r2db22r22db2w3~x2/"><circle cx="274.4" cy="186.4" r="4" fill="#3465a4"><title>Galloway Red</title></circle></a><a href="/variants/s6/dg2r1db16r16db1y2~x2/"><circle cx="311.7" cy="173.5" r="4" fill="#3465a4"><title>Galloway Dress (Yellow Line)</title></circle></a><a href="/variants/s6/y2db1r16db16r1g2~x2/"><circle cx="307.8" cy="172.8" r="4" fill="#3465a4"><title>Galloway Dress District Tartan</title></circle></a><a href="/variants/s6/g1r1db16r16db1w1~x2/"><circle cx="326.5" cy="162.9" r="4" fill="#3465a4"><title>Galloway, dress</title></circle></a><a href="/variants/s6/r12db2r12db17w2r2~x2~r1807033/"><circle cx="344.8" cy="230.7" r="4" fill="#3465a4"><title>British European</title></circle></a><circle cx="325.0" cy="225.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Hawick"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hawick"
+  url: "/clan/hawick/"
+- name: "Hawick"
+  url: "/families/hawick/"
+- name: "Hawick"
+  url: "/tartans/h/ha/hawick-4/"
 ---
 This is the **Hawick** sett — one scale-free proportion (`y4k3w2k2dg12b2dg12b2dg12k2w2k3y2k3b4k3y2k3w2k2g12b2g12b26k2w2k3y2k3b4k3`), colour order pattern
 [GKWKGBGBGKWKGKBKGKWKGBGBKWKGKBK](/stripes/gkwkgbgbgkwkgkbkgkwkgbgbkwkgkbk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s40/k12g1k1g1k1g1k1g12lb4y4lb4k1g1k1g1k1g1db1g12k12db1k1db1k1db1k1db12lb4k1r4k1lb4k1db1k1db1k1db1k1db12~x2/"><circle cx="60.2" cy="55.6" r="4" fill="#3465a4"><title>Coutts 75th (Name)</title></circle></a><a href="/variants/s40/k12g1k1g1k1g1k1g12lb4y4lb4k1g1k1g1k1g1k1g12k12db1k1db1k1db1k1db12lb4k1r4k1lb4k1db1k1db1k1db1k1db12~x2/"><circle cx="62.6" cy="55.2" r="4" fill="#3465a4"><title>Coutts 75th (James Robert )</title></circle></a><a href="/variants/s15/r6w2k3w2k3w2k3g16w2db6dy3k2db10k2r4~x2/"><circle cx="14.0" cy="108.4" r="4" fill="#3465a4"><title>Webb (Personal)</title></circle></a><a href="/variants/s33/dg10r1dg5k1w1k1y1k1db2k1y1k1w1k1g5r1g5db5r1db5k1w1k1y1k1db2k1y1k1w1k1dg5r1~x4/"><circle cx="26.5" cy="80.1" r="4" fill="#3465a4"><title>Hawick (District)</title></circle></a><a href="/variants/s24/g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2dbi18dg1dbi2k6g2dg12g2k6dbi2dg1g17db4~x2~dbi1406275-db1204274/"><circle cx="107.0" cy="93.6" r="4" fill="#3465a4"><title>Clack Personal Tartan</title></circle></a><a href="/variants/s23/k3dy2k6g3k3g21db18r2db2r2db2r3db2r2db2r2db18g21k3g3k6lr2k3~x2/"><circle cx="107.5" cy="91.8" r="4" fill="#3465a4"><title>Wood Clan/Family Tartan</title></circle></a><a href="/variants/s26/dg18k10db12k1g2k1db12dy2k10g2dg2g15dg3g15dg2g2k10dy2db12k1g2k1db12k10dg18r3~x2~dg1806142-db1204274-g2203152/"><circle cx="83.1" cy="102.4" r="4" fill="#3465a4"><title>Leinster Irish District Tartan</title></circle></a><a href="/variants/s24/r12db6k8g6r1g6r2g3k1y2k1g1r1g2r1g7k9db11k1w2k1db11k9db8~x2/"><circle cx="65.3" cy="108.7" r="4" fill="#3465a4"><title>MacDonald of Pr Edward Island Tartan</title></circle></a><a href="/variants/s32/db12r3db2r1db8r1db2r3db12r1k12g12r3g2r1g8r1g2r3g12k12w2db4w16k1r4k1w16db4w2k12r1~x2/"><circle cx="33.8" cy="87.7" r="4" fill="#3465a4"><title>MacDonald Dress</title></circle></a><a href="/variants/s32/db12r3db2r1db8r1db2r3db12r1k12g12r3g2r1g8r1g2r3g12k12w2k4w16k1r4k1w16k4w2k12r1~x2/"><circle cx="36.0" cy="86.7" r="4" fill="#3465a4"><title>MacDonald Dress Clan Tartan</title></circle></a><circle cx="46.8" cy="81.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

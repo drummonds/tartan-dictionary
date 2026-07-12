@@ -1,6 +1,15 @@
 ---
 title: "Orkney District Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Orkney"
+  url: "/clan/orkney/"
+- name: "Orkney"
+  url: "/families/orkney/"
+- name: "Orkney"
+  url: "/tartans/o/or/orkney/"
 ---
 This is the **Orkney District Tartan** sett — one scale-free proportion (`o3g1lb6k1g6o4k1lo1`), colour order pattern
 [RGWKGRKY](/stripes/rgwkgrky/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y5g2r2g12k9lb12r2lb2r2lb2~x2/"><circle cx="72.0" cy="182.3" r="4" fill="#3465a4"><title>Lobban (Personal)</title></circle></a><a href="/variants/s7/dg8b6dg48w31o42g6o8/"><circle cx="158.7" cy="202.3" r="4" fill="#3465a4"><title>Bannockbane, Green</title></circle></a><a href="/variants/s8/dr9g3t19k3g19dr13k3ly3~x2/"><circle cx="112.5" cy="209.9" r="4" fill="#3465a4"><title>Orkney (District?)</title></circle></a><a href="/variants/s9/k4r14t2g16r3k3r3t12g4~x2/"><circle cx="135.0" cy="197.5" r="4" fill="#3465a4"><title>Crook (Name)</title></circle></a><a href="/variants/s5/g6k1r1lb2r2~x4~r2109032/"><circle cx="129.9" cy="206.3" r="4" fill="#3465a4"><title>Wilson's No.193</title></circle></a><a href="/variants/s7/g4n12lo2k10y10lo3y2~x2/"><circle cx="70.9" cy="217.5" r="4" fill="#3465a4"><title>Rothesay</title></circle></a><a href="/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/"><circle cx="96.0" cy="204.9" r="4" fill="#3465a4"><title>Corcoran of Sherbrooke (Personal)</title></circle></a><a href="/variants/s8/dg9w2dg9k2ly14lyi4w2r2~x4~ly2503076-lyi2705081/"><circle cx="127.6" cy="180.2" r="4" fill="#3465a4"><title>MacShane (Clan)</title></circle></a><a href="/variants/s8/g9lb2g9k2dy14ly4lb2r2~x4~dy1603076-ly3307090/"><circle cx="149.4" cy="191.1" r="4" fill="#3465a4"><title>McShane (Personal)</title></circle></a><a href="/variants/s10/o9k2o2r2g6k1y1k1g6r3~x2/"><circle cx="147.4" cy="178.0" r="4" fill="#3465a4"><title>MacAart</title></circle></a><circle cx="97.8" cy="208.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

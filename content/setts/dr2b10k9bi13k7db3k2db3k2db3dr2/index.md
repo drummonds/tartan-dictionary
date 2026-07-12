@@ -1,6 +1,15 @@
 ---
 title: "Impulse"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Impulse"
+  url: "/clan/impulse/"
+- name: "Impulse"
+  url: "/families/impulse/"
+- name: "Impulse"
+  url: "/tartans/i/im/impulse/"
 ---
 This is the **Impulse** sett — one scale-free proportion (`dr2b10k9bi13k7db3k2db3k2db3dr2`), colour order pattern
 [BBKBKBKBKBB](/stripes/bbkbkbkbkbb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k20lb2k8db2k2db2k2db10dr5g5db15~x2/"><circle cx="201.6" cy="160.4" r="4" fill="#3465a4"><title>Lawtie (Personal)</title></circle></a><a href="/variants/s7/k1db6b1ki6b6k1w1~x6~ki0604259/"><circle cx="116.7" cy="209.0" r="4" fill="#3465a4"><title>Mary Washington</title></circle></a><a href="/variants/s7/dr5b20k13db42k13b20y5~x2/"><circle cx="148.5" cy="205.3" r="4" fill="#3465a4"><title>Newmill</title></circle></a><a href="/variants/s13/db21n3db3n3db3k20dp18w3dp18k20db18n3db3~x2/"><circle cx="153.0" cy="184.5" r="4" fill="#3465a4"><title>Westwood MacPoiret (Fashion)</title></circle></a><a href="/variants/s12/o8dp28dg4dp8dg4k12dp7k12db28t4db8t8~db1208266-t2508259/"><circle cx="104.4" cy="175.3" r="4" fill="#3465a4"><title>Kinloch Anderson Thistle</title></circle></a><a href="/variants/s18/y3k18db3k3db3k3db17b3db3b3db3b12w2b12db9b12k2w2~x2~db1404245-b1511266/"><circle cx="140.3" cy="150.8" r="4" fill="#3465a4"><title>Van Ingelgem Dress (Personal)</title></circle></a><a href="/variants/s7/dbi16k16db16w3db16k2lb3~x2~dbi1406275-db1106275/"><circle cx="175.9" cy="209.3" r="4" fill="#3465a4"><title>St. Andrew Society</title></circle></a><a href="/variants/s15/b11k2b4k2b4k11db11k2lb4k2db11k11b11k2b4~x2/"><circle cx="120.7" cy="200.7" r="4" fill="#3465a4"><title>William Murdoch, (Scottish Gas)</title></circle></a><a href="/variants/s9/k6db3k3db33k16b21k3b3r4~x2~db1003265-b1813263/"><circle cx="197.0" cy="166.0" r="4" fill="#3465a4"><title>USCBP - Office of Field Operations</title></circle></a><a href="/variants/s10/ki9w2ki24k8w5k8db15k3db15k2~x2~ki0604259/"><circle cx="157.9" cy="179.3" r="4" fill="#3465a4"><title>Scottish Claymores</title></circle></a><circle cx="107.3" cy="188.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

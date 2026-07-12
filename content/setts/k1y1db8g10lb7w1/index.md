@@ -1,6 +1,15 @@
 ---
 title: "Porteous Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Porteous"
+  url: "/clan/porteous/"
+- name: "Porteous"
+  url: "/families/porteous/"
+- name: "Porteous"
+  url: "/tartans/p/po/porteous/"
 ---
 This is the **Porteous Family Tartan** sett — one scale-free proportion (`k1y1db8g10lb7w1`), colour order pattern
 [KGBGWW](/stripes/kgbgww/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3y3db20g25lb18w3~x2/"><circle cx="102.4" cy="189.1" r="4" fill="#3465a4"><title>Porteous</title></circle></a><a href="/variants/s6/k3ly3db20dg25lb18w3~x2/"><circle cx="105.6" cy="188.6" r="4" fill="#3465a4"><title>Porteous (Clan)</title></circle></a><a href="/variants/s5/k2lb2g8db8w1~x2/"><circle cx="150.2" cy="217.3" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s5/k2lb2g8db8w1/"><circle cx="150.2" cy="217.3" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s5/k7lb3g18db18w2~x2/"><circle cx="149.0" cy="212.9" r="4" fill="#3465a4"><title>Bhatti (Name)</title></circle></a><a href="/variants/s5/k4t2g13db13w2~x4/"><circle cx="142.1" cy="221.0" r="4" fill="#3465a4"><title>Bath</title></circle></a><a href="/variants/s6/k3g44db27ly6r10w3~x2/"><circle cx="198.1" cy="149.1" r="4" fill="#3465a4"><title>Shawlands International (Commem.)</title></circle></a><a href="/variants/s6/g10k1db13k3lb9lo3~x2/"><circle cx="107.3" cy="191.0" r="4" fill="#3465a4"><title>Inverary</title></circle></a><a href="/variants/s7/k2dbi2g16db2y1db13w2~x2~dbi1406275-db1204274/"><circle cx="199.3" cy="138.0" r="4" fill="#3465a4"><title>Wishart Hunting Family Tartan</title></circle></a><a href="/variants/s5/k2dy1g10db10w1~x6/"><circle cx="194.6" cy="192.6" r="4" fill="#3465a4"><title>Turnbull Hunting (1983) #2</title></circle></a><circle cx="118.7" cy="179.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

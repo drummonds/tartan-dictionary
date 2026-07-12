@@ -1,6 +1,15 @@
 ---
 title: "Chattan, Clan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Chattan"
+  url: "/clan/chattan/"
+- name: "Chattan"
+  url: "/families/chattan/"
+- name: "Chattan"
+  url: "/tartans/c/ch/chattan-2/"
 ---
 This is the **Chattan, Clan** sett — one scale-free proportion (`r120k4w2g32w4k7r7k2r7k7w4lb32k8r8k12w4`), colour order pattern
 [RKWGWKRKRKWWKRKW](/stripes/rkwgwkrkrkwwkrkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/r94k3w2g21w3y3r5k2r5y3w3n21k7r7y8w4~x2/"><circle cx="319.1" cy="14.0" r="4" fill="#3465a4"><title>MacKintosh 8</title></circle></a><a href="/variants/s14/r98k3dg21w5r5k2r5w5dg2db21k7r7w8dg4/"><circle cx="326.9" cy="21.0" r="4" fill="#3465a4"><title>MacFarlane Red (Clan)</title></circle></a><a href="/variants/s14/r98k3dg21w5r5k2r5w5dg2db21k7r7w8dg4~db1204274/"><circle cx="328.5" cy="21.1" r="4" fill="#3465a4"><title>MacFarlane Red</title></circle></a><a href="/variants/s16/r60k2w1g16w2y3r3k1r3y3n2w16k4r4y6w2/"><circle cx="281.7" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan D</title></circle></a><a href="/variants/s14/r103k8g16w4r9k3r9w4g7db41k14r14w10g6/"><circle cx="267.6" cy="49.2" r="4" fill="#3465a4"><title>MacFarlane Red Artifact Tartan</title></circle></a><a href="/variants/s13/r5t2ly1r45t4w1k4ti9t2ly2t2k10w2~x2~t2405244-ti2503227/"><circle cx="288.6" cy="22.5" r="4" fill="#3465a4"><title>Stratford Police PB (Corporate)</title></circle></a><a href="/variants/s13/r41g13k8w2y2r1y2w2db6k2r3y2w5/"><circle cx="233.0" cy="30.0" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/variants/s16/r60g2w1g15w2y3r3k1r3y3n2w16k4r4y6w2/"><circle cx="290.0" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><a href="/variants/s13/r5db2ly1r46db4w1k5lb9db2ly2db2k10w2~x2/"><circle cx="283.6" cy="18.9" r="4" fill="#3465a4"><title>Stratford City Police PB (Corp)</title></circle></a><a href="/variants/s16/r60k2w1g16w2y3r3k1r3y3w2lb16k4r4y6w2~x2/"><circle cx="290.6" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan D</title></circle></a><circle cx="262.3" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

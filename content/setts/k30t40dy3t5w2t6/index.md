@@ -1,6 +1,11 @@
 ---
 title: "Micron"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Micron"
+  url: "/tartans/m/mi/micron/"
 ---
 This is the **Micron** sett — one scale-free proportion (`k30t40dy3t5w2t6`), colour order pattern
 [BWBGBK](/stripes/bwbgbk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w4n15db8k4db28k2db4w2/"><circle cx="302.8" cy="159.2" r="4" fill="#3465a4"><title>Kelvinside Academy (School)</title></circle></a><a href="/variants/s6/r1t8k3t1k3t1~x8/"><circle cx="292.5" cy="210.1" r="4" fill="#3465a4"><title>Mackay (Blue)</title></circle></a><a href="/variants/s8/db32k2db4k2db8ly29w2k2/"><circle cx="274.9" cy="136.3" r="4" fill="#3465a4"><title>Southern Lakes</title></circle></a><a href="/variants/s6/g26db10k3db2dy2db10~x4/"><circle cx="282.2" cy="191.4" r="4" fill="#3465a4"><title>St. Andrews Old Course Hotel (Corp)</title></circle></a><a href="/variants/s6/r1t1k17t17k1w1~x4/"><circle cx="269.6" cy="146.9" r="4" fill="#3465a4"><title>Sorbie (Name)</title></circle></a><a href="/variants/s5/g18db9k1db1w1~x4/"><circle cx="348.9" cy="171.1" r="4" fill="#3465a4"><title>Irvine Clan Tartan</title></circle></a><a href="/variants/s5/g27db14k2db2y2~x4/"><circle cx="332.6" cy="189.9" r="4" fill="#3465a4"><title>Irving of Bonshaw</title></circle></a><a href="/variants/s5/t13w3t1k3w1~x6/"><circle cx="357.3" cy="188.8" r="4" fill="#3465a4"><title>Loch Lomond #2</title></circle></a><a href="/variants/s7/g23db3k8db4g4db56ly8/"><circle cx="324.7" cy="146.5" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><circle cx="261.8" cy="117.8" r="4" fill="#3465a4"><title>Jack Sinclair (Personal)</title></circle></a><circle cx="315.2" cy="151.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

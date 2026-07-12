@@ -1,6 +1,11 @@
 ---
 title: "Jones-MacGregor"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Jones-MacGregor"
+  url: "/tartans/j/jo/jones-macgregor-2/"
 ---
 This is the **Jones-MacGregor** sett — one scale-free proportion (`db2lb2db3lb8g4db4g3db8r12g7r3g2k1w1`), colour order pattern
 [BWBWGBGBRGRGKW](/stripes/bwbwgbgbrgrgkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dp6k3n19k6n4k3o12lb4o12w2dp5~x2~n1900000-o2500000/"><circle cx="84.8" cy="161.4" r="4" fill="#3465a4"><title>Scotland Forever Antique (Fashion)</title></circle></a><a href="/variants/s14/db2y2db3y8g4db4g3db8r12g7r3g2k1w1~x2/"><circle cx="90.3" cy="148.7" r="4" fill="#3465a4"><title>Jones-MacGregor (Name)</title></circle></a><a href="/variants/s14/db4w2r6k1db12g4w2r6b6w2g8r2w16r4~x2/"><circle cx="61.2" cy="122.0" r="4" fill="#3465a4"><title>MacFarlane, dress</title></circle></a><a href="/variants/s15/w6g6w6g12lb8g14dy24k4lb4k4dp44w12g20k4lb5/"><circle cx="56.5" cy="124.3" r="4" fill="#3465a4"><title>Wexford County, Crest Range</title></circle></a><a href="/variants/s11/w4db5r3db22ly4k3g17r7k2r7ly2~x2/"><circle cx="92.9" cy="132.0" r="4" fill="#3465a4"><title>Crozier/Crosser</title></circle></a><a href="/variants/s11/w4db5r3db22y4k3g17r7k2r7y2~x2/"><circle cx="100.2" cy="134.2" r="4" fill="#3465a4"><title>Crosser, Crozier</title></circle></a><a href="/variants/s18/g12k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x4/"><circle cx="55.1" cy="125.8" r="4" fill="#3465a4"><title>Buchanan 2</title></circle></a><a href="/variants/s14/w8db3w10dy8y2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="47.0" cy="137.4" r="4" fill="#3465a4"><title>MacInnes Hunting Dress Clan Tartan</title></circle></a><a href="/variants/s11/w4db5r3db22dy4k3g17r7k2r7dy2~x2/"><circle cx="100.6" cy="134.0" r="4" fill="#3465a4"><title>Crosser Crozier Family Tartan</title></circle></a><a href="/variants/s14/w8db3w10o8y2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="48.7" cy="137.2" r="4" fill="#3465a4"><title>MacInnes, Ancient hunting</title></circle></a><circle cx="72.1" cy="142.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

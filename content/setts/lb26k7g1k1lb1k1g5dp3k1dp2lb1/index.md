@@ -1,6 +1,11 @@
 ---
 title: "Grotto Dove"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Grotto Dove"
+  url: "/tartans/g/gr/grotto-dove/"
 ---
 This is the **Grotto Dove** sett — one scale-free proportion (`lb26k7g1k1lb1k1g5dp3k1dp2lb1`), colour order pattern
 [WBKBGKWKGKW](/stripes/wbkbgkwkgkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/lb52k12dr3k3lb3k3do10n8k3n3lb3~x2~do1400000/"><circle cx="254.9" cy="89.6" r="4" fill="#3465a4"><title>Stewart Dress, Grey #1 (Fashion)</title></circle></a><a href="/variants/s11/lb32k10lo1k2lb1k2r7y3k1y3lb1~x4/"><circle cx="257.4" cy="58.4" r="4" fill="#3465a4"><title>Glen Coe #3</title></circle></a><a href="/variants/s12/lb98n12k16w5k5w5k5n28lb16k5lb16w6/"><circle cx="302.4" cy="104.1" r="4" fill="#3465a4"><title>Glen Moy Tartan</title></circle></a><a href="/variants/s9/r3g2k9lb2k2lb24y2lb2y1~x4/"><circle cx="281.6" cy="88.3" r="4" fill="#3465a4"><title>Bell of the Borders (Name)</title></circle></a><a href="/variants/s9/r3dg2k9lb2k2lb24y2lb2y1~x2/"><circle cx="281.4" cy="87.8" r="4" fill="#3465a4"><title>Bell Family Tartan</title></circle></a><a href="/variants/s10/ly15k2ly3k2t50k2ly3k2w10k4~x2/"><circle cx="279.8" cy="100.2" r="4" fill="#3465a4"><title>D.E.B.S. (Fashion)</title></circle></a><a href="/variants/s9/r3g2k9lg2k2lg24y2lg2y1~x4~g2408144-lg2901240/"><circle cx="285.5" cy="91.0" r="4" fill="#3465a4"><title>Bell of the Borders</title></circle></a><a href="/variants/s9/n10lb11k2lb3k2lb2k8n40w4~x2/"><circle cx="324.7" cy="123.9" r="4" fill="#3465a4"><title>Doune (District)</title></circle></a><a href="/variants/s11/lb30r2lb2k5lb3dy2lb3dy22lb3k2lb3~x2/"><circle cx="294.4" cy="123.3" r="4" fill="#3465a4"><title>Dunbarton Weft</title></circle></a><a href="/variants/s10/b30k5r2k1r10w1r1w1k3w2~x4/"><circle cx="288.5" cy="80.3" r="4" fill="#3465a4"><title>Masai Shuka 11 (Artefact)</title></circle></a><circle cx="288.3" cy="81.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

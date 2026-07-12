@@ -1,6 +1,15 @@
 ---
 title: "Pitlochry (District)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Pitlochry"
+  url: "/clan/pitlochry/"
+- name: "Pitlochry"
+  url: "/families/pitlochry/"
+- name: "Pitlochry"
+  url: "/tartans/p/pi/pitlochry/"
 ---
 This is the **Pitlochry (District)** sett — one scale-free proportion (`dp23g2dp2g2dp2g12db16g1lb3g1db16g12dp16g1ly3`), colour order pattern
 [BGBGBGBGWGBGBGY](/stripes/bgbgbgbgwgbgbgy/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/dp23g2dp2g2dp2g12db16g1lb3g1db16g12dp16g1dy3~x2/"><circle cx="260.2" cy="149.7" r="4" fill="#3465a4"><title>Pitlochry</title></circle></a><a href="/variants/s16/t8db6dp40dg16db1dg7t2dg5t4dg4t4dg2t5dg1t36w6/"><circle cx="285.6" cy="110.1" r="4" fill="#3465a4"><title>Bell-McTier Thistle (Personal)</title></circle></a><a href="/variants/s12/db8w8db4dp4db36dp4db4n26db2n26g2db5/"><circle cx="284.1" cy="139.6" r="4" fill="#3465a4"><title>Historic Scotland (1998)</title></circle></a><a href="/variants/s16/n8db6dp40g16n1g7n2g5n4g4n4g2n5g1n36w6~n1703265-db1104274/"><circle cx="304.5" cy="114.4" r="4" fill="#3465a4"><title>Bell-McTier Thistle</title></circle></a><a href="/variants/s16/db11n4db4w2db4n4db11g26n4w3n4w2n14dg10db16dg6~x2/"><circle cx="197.6" cy="184.3" r="4" fill="#3465a4"><title>Stuart-Houghton Hunting (Personal)</title></circle></a><a href="/variants/s13/w1dy2dr15db2dr2db15dr2g15dr2db2dr15dy2w1~x2/"><circle cx="292.7" cy="163.5" r="4" fill="#3465a4"><title>Robbie (Stirling) (Personal)</title></circle></a><a href="/variants/s13/dg12dp3lb3dp3lb3dp12db3dp3db2dp2db14ly1w3~x2/"><circle cx="189.1" cy="162.4" r="4" fill="#3465a4"><title>Scottish Tourist Guides Assoc. (Corp</title></circle></a><a href="/variants/s11/db26dbi3db1dp2db1dbi3db3dbi12g14db2w2~x2~db1004274-dbi1406275/"><circle cx="335.3" cy="147.0" r="4" fill="#3465a4"><title>Royal Highland Yacht Club (Corporate</title></circle></a><a href="/variants/s16/db11n4db4w2db4n4db11dg26n4w3n4w2n14dg10db16dg6~x2/"><circle cx="250.7" cy="202.0" r="4" fill="#3465a4"><title>Stuart-Houghton Hunting (Personal)</title></circle></a><a href="/variants/s13/db4dr4dbi44w6dbi5dy4dbi3dy8dbi3dy16db4dr22w4~db1106275-dbi1204274/"><circle cx="278.1" cy="160.1" r="4" fill="#3465a4"><title>Largs District Tartan</title></circle></a><circle cx="251.1" cy="147.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

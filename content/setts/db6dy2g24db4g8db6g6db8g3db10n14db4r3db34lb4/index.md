@@ -1,6 +1,15 @@
 ---
 title: "Matchpoint Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Matchpoint"
+  url: "/clan/matchpoint/"
+- name: "Matchpoint"
+  url: "/families/matchpoint/"
+- name: "Matchpoint Hunting"
+  url: "/tartans/m/ma/matchpoint-hunting/"
 ---
 This is the **Matchpoint Hunting** sett — one scale-free proportion (`db6dy2g24db4g8db6g6db8g3db10n14db4r3db34lb4`), colour order pattern
 [BGGBGBGBGBBBRBW](/stripes/bggbgbgbgbbbrbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db6y2g24db4g8db6g6db8g3db10n14db4r3db34lb4/"><circle cx="274.6" cy="135.6" r="4" fill="#3465a4"><title>Matchpoint Hunting</title></circle></a><a href="/variants/s8/dg10w2dt3g2o14db26dg2db6~x2/"><circle cx="248.5" cy="135.3" r="4" fill="#3465a4"><title>Spirit of Fife</title></circle></a><a href="/variants/s18/dg10b8dg46b3dg3b55r4b5w4b5y4b55dg3b3dg46b8dg10db10~x2/"><circle cx="310.8" cy="112.4" r="4" fill="#3465a4"><title>Lorne, Marquis of</title></circle></a><a href="/variants/s15/db6dy2o24db4o8db6o6db6o3db10n14db4r3db34lb4~o2500000-n1900000/"><circle cx="283.7" cy="132.6" r="4" fill="#3465a4"><title>Matchpoint Dress</title></circle></a><a href="/variants/s10/n9r1g9db19w2db19g9r1n9dr1~x2/"><circle cx="251.1" cy="156.3" r="4" fill="#3465a4"><title>Wilton (Toronto) (Personal)</title></circle></a><a href="/variants/s15/db6y2yi24db4yi8db6yi6db8yi3db10n14db4r3db34lb4~yi2400000-n1700000/"><circle cx="298.8" cy="139.1" r="4" fill="#3465a4"><title>MatchPoint Dress</title></circle></a><a href="/variants/s10/dbi30w2r3w2db14lr3g14dbi18r2dbi3~x2~dbi1605267-db0906265/"><circle cx="280.8" cy="145.4" r="4" fill="#3465a4"><title>Kansai St Andrews Society</title></circle></a><a href="/variants/s19/dr5db3dr3r2db2y2db2y1db14g2db7g4db4g7db2g9y1n2g5~x2/"><circle cx="209.7" cy="148.5" r="4" fill="#3465a4"><title>Hart of Scotland (Corporate)</title></circle></a><a href="/variants/s9/db40r4db10dg10g22ly3g4lyi3g4~x2~dg1806142-g1903114-ly2705081-lyi3407090/"><circle cx="277.1" cy="157.6" r="4" fill="#3465a4"><title>Keith Stanhope Society (Commem.)</title></circle></a><a href="/variants/s16/g10db10r1db10n1db1n10db2n10db1n1db10r1db10g10w2~x2/"><circle cx="246.3" cy="182.5" r="4" fill="#3465a4"><title>American Soc of Travel Agents Corporate Tartan</title></circle></a><circle cx="275.3" cy="135.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

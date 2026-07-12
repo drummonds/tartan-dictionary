@@ -1,6 +1,15 @@
 ---
 title: "Asher (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Asher"
+  url: "/clan/asher/"
+- name: "Asher"
+  url: "/families/asher/"
+- name: "Asher"
+  url: "/tartans/a/as/asher/"
 ---
 This is the **Asher (Personal)** sett — one scale-free proportion (`dg40dy2db3r4db3dy2dg40w3`), colour order pattern
 [GGBRBGGW](/stripes/ggbrbggw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dg40k2db3r4db3k2dg40w3~x2/"><circle cx="492.1" cy="100.2" r="4" fill="#3465a4"><title>Asher Personal Tartan</title></circle></a><a href="/variants/s5/g44db9r2db9g2~x2/"><circle cx="481.2" cy="193.4" r="4" fill="#3465a4"><title>Tyrconnell (Personal)</title></circle></a><a href="/variants/s8/k2w2db8k4dg33r2dg16w2~x2/"><circle cx="384.2" cy="130.8" r="4" fill="#3465a4"><title>Sarros, Terrence (USA) (Personal)</title></circle></a><a href="/variants/s5/dt68t7dt16k16ly4~x2/"><circle cx="474.5" cy="180.0" r="4" fill="#3465a4"><title>Burnett's &amp; Struth (Corporate)</title></circle></a><a href="/variants/s6/dt40dy10dt8r20dt100w5/"><circle cx="550.3" cy="178.4" r="4" fill="#3465a4"><title>East of Scotland Tartan Army</title></circle></a><a href="/variants/s5/dt32dr3dt4k2lo3~x2/"><circle cx="549.3" cy="168.5" r="4" fill="#3465a4"><title>MacLaine of Lochbuie Hunting</title></circle></a><a href="/variants/s10/dg40dr5k2w2k2y3k2dg10dr3k3~x2/"><circle cx="421.1" cy="106.2" r="4" fill="#3465a4"><title>Palmer, Arnold</title></circle></a><a href="/variants/s8/g40db2w2db2y2db23g32r2~x2/"><circle cx="412.4" cy="151.9" r="4" fill="#3465a4"><title>Marshall Fields Corporate Tartan</title></circle></a><a href="/variants/s7/dt40dg3dp4dt28ly2lr2dt7~x2/"><circle cx="626.0" cy="188.8" r="4" fill="#3465a4"><title>Pisniak (Personal)</title></circle></a><a href="/variants/s6/dg30dr2dg8dr1dg5w2/"><circle cx="626.0" cy="183.2" r="4" fill="#3465a4"><title>Dewi Sant</title></circle></a><circle cx="564.8" cy="147.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

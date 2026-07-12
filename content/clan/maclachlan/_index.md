@@ -1,6 +1,9 @@
 ---
 title: "Clan MacLachlan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 **Territory:** Cowal · **1745 strength:** 200 men
 

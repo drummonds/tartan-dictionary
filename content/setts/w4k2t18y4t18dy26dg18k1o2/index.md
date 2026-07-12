@@ -1,6 +1,13 @@
 ---
 title: "Hughes Interconnection Int."
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hughes"
+  url: "/clan/hughes/"
+- name: "Hughes Interconnection Int."
+  url: "/tartans/h/hu/hughes-interconnection-int/"
 ---
 This is the **Hughes Interconnection Int.** sett — one scale-free proportion (`w4k2t18y4t18dy26dg18k1o2`), colour order pattern
 [KGGBGBKWKBGBGGKR](/stripes/kggbgbkwkbgbggkr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k8dy4ly1db13dy13g29w2g29dy13db13ly1dy4k3~x2~db1406275-w3600000/"><circle cx="170.8" cy="80.3" r="4" fill="#3465a4"><title>Teviotdale District Tartan</title></circle></a><a href="/variants/s11/dr4g4k2g17do5g5do17g6lb1db22dr2~x2/"><circle cx="187.9" cy="131.2" r="4" fill="#3465a4"><title>Adams (Name)</title></circle></a><a href="/variants/s11/dr4g4k2g15do5g5do15g6w1db19dr2~x2/"><circle cx="175.3" cy="140.1" r="4" fill="#3465a4"><title>Adams</title></circle></a><a href="/variants/s17/dy16k4dy8g2dg19w2g22db15k4w3dg3y4g30db25w5dg40db16~x2/"><circle cx="93.8" cy="106.8" r="4" fill="#3465a4"><title>Les Cercles de Fermieres du Quebec</title></circle></a><a href="/variants/s13/db8k1w5k1r5dg13k2g4k2g11dg20dy7dg5~x2/"><circle cx="144.3" cy="108.1" r="4" fill="#3465a4"><title>Wild Geese</title></circle></a><a href="/variants/s13/y9k1dy31g30db36g3db3g3db36g30dy31k1w9~x2/"><circle cx="166.9" cy="107.8" r="4" fill="#3465a4"><title>Campbell, Brown (Personal)</title></circle></a><a href="/variants/s20/db5t2db9dp10k2dp4k2dg10g33w2g33dg10k2dp4k2dp10db9t2db5w3~x2~db1204274-dg1806142-g2203152/"><circle cx="158.0" cy="85.4" r="4" fill="#3465a4"><title>Inverclyde Green</title></circle></a><a href="/variants/s17/db16dg40w5db25g30y4dg3w3k4db15g22w2dg19g2o8k4o16~x2/"><circle cx="82.6" cy="101.0" r="4" fill="#3465a4"><title>Les Cercles de Fermieres du Quebec</title></circle></a><a href="/variants/s8/k5t3dy4ly1db13dy13g29w2~x2/"><circle cx="175.6" cy="105.4" r="4" fill="#3465a4"><title>Teviotdale</title></circle></a><a href="/variants/s14/db12g24r5do20g4w2g4do21y5g24db12do4k2do4~x2/"><circle cx="151.2" cy="139.1" r="4" fill="#3465a4"><title>Hyndman (Personal)</title></circle></a><circle cx="172.8" cy="104.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

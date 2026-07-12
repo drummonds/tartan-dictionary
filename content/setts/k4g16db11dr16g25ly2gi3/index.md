@@ -1,6 +1,11 @@
 ---
 title: "Mayo Irish County Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Mayo Irish County"
+  url: "/tartans/m/ma/mayo-irish-county/"
 ---
 This is the **Mayo Irish County Tartan** sett — one scale-free proportion (`k4g16db11dr16g25ly2gi3`), colour order pattern
 [GYGBBGK](/stripes/gygbbgk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k4g16db11r16g25y2lb3~x2/"><circle cx="209.4" cy="171.0" r="4" fill="#3465a4"><title>Mayo</title></circle></a><a href="/variants/s7/k4dg16db11dr16dg25lo2lb3~x2/"><circle cx="294.2" cy="184.0" r="4" fill="#3465a4"><title>Mayo, County</title></circle></a><a href="/variants/s7/g25r4db25r13g25y2lb6~x2/"><circle cx="239.7" cy="205.5" r="4" fill="#3465a4"><title>Rotary</title></circle></a><a href="/variants/s6/dg26ki3dg12k10b15w2~x2~ki0604259/"><circle cx="252.1" cy="189.3" r="4" fill="#3465a4"><title>Lossiemouth/Hersbruck</title></circle></a><a href="/variants/s7/g10r3g30n10w2db15r4~x2/"><circle cx="289.7" cy="189.5" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s7/dg3w1dg12r6dg3k3g2~x4/"><circle cx="272.7" cy="171.3" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/variants/s6/r3db24k7dbi11g11y2~x2~db1404245-dbi1406275/"><circle cx="178.6" cy="188.2" r="4" fill="#3465a4"><title>Cowie</title></circle></a><a href="/variants/s6/dg9g1b2g1db4r1~x12~dg1806142-g2408144/"><circle cx="283.4" cy="215.1" r="4" fill="#3465a4"><title>Gorman, George (Personal)</title></circle></a><a href="/variants/s9/k2r2k4ly3dg24k2dg16t17r2~x2/"><circle cx="257.9" cy="150.9" r="4" fill="#3465a4"><title>Shanahan (Corporate)</title></circle></a><a href="/variants/s5/r17db7y8dg58k6~x2/"><circle cx="319.0" cy="183.3" r="4" fill="#3465a4"><title>St Johns County's Sheriff's Office</title></circle></a><circle cx="257.7" cy="185.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Seller (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Seller"
+  url: "/clan/seller/"
+- name: "Seller"
+  url: "/families/seller/"
+- name: "Seller"
+  url: "/tartans/s/se/seller-2/"
 ---
 This is the **Seller (Personal)** sett — one scale-free proportion (`g46k3db6y2db3y2db3g7r6db2r3w4`), colour order pattern
 [GKBGBGBGRBRWRBRGBGBGBK](/stripes/gkbgbgbgrbrwrbrgbgbgbk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g64k4db9dy2db4dy2db4g11r8db2r4w3~x2~w4000000/"><circle cx="244.5" cy="31.3" r="4" fill="#3465a4"><title>Sillars</title></circle></a><a href="/variants/s12/g42t3k8y2k2w3k2g12r5k2r2w2~x2/"><circle cx="198.9" cy="45.2" r="4" fill="#3465a4"><title>King George VI (Green Stewart)</title></circle></a><a href="/variants/s15/r3w3k3w3r3db8k1y2k1db8k2g30k1g10k2~x2/"><circle cx="204.0" cy="58.3" r="4" fill="#3465a4"><title>Coigach</title></circle></a><a href="/variants/s15/r3w3k3w3r3db8k1y2k1db8k2g30k1g10k2~x2~r1506019/"><circle cx="205.5" cy="59.2" r="4" fill="#3465a4"><title>Coigach (District)</title></circle></a><a href="/variants/s19/r1k3g2k2n2k1n3k1n2r3k1g16k1n18y1g1n2k2r1~x2/"><circle cx="207.7" cy="82.7" r="4" fill="#3465a4"><title>Craig Family Tartan</title></circle></a><a href="/variants/s19/dr1k2n2g1y1n17k1g14k1dr2n2k1n2k1n2k2g2k2dr1~x4/"><circle cx="219.2" cy="88.6" r="4" fill="#3465a4"><title>Craig</title></circle></a><a href="/variants/s13/dg55ly20w2ly3k2ly3w2ly3db18k2ly4y2ly3~x2/"><circle cx="215.7" cy="58.4" r="4" fill="#3465a4"><title>Knox (Personal)</title></circle></a><a href="/variants/s27/r3k2g9db12w3db12g2k2g2k2g36k2g2k2g2db12w3db12k3y3k2g12k2r3k2g6w3~x2/"><circle cx="157.8" cy="61.1" r="4" fill="#3465a4"><title>Cockburn #2</title></circle></a><a href="/variants/s19/g40dy3dr12y3w1y1w2y1w1k4y1w1y1w1dy1y1dy3dr12dy3~x2/"><circle cx="226.0" cy="27.8" r="4" fill="#3465a4"><title>Tenon Tours</title></circle></a><a href="/variants/s24/g34k1r4w1r4k1g4k1y2k1g7k1r3k1g3k1r3k1g3w1db5w1y4w2~x2/"><circle cx="263.3" cy="16.7" r="4" fill="#3465a4"><title>MacMaster Corporate Tartan</title></circle></a><circle cx="211.8" cy="46.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

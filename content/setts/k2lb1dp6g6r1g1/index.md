@@ -1,6 +1,11 @@
 ---
 title: "Wilson's, No 183"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Wilson's, No 183"
+  url: "/tartans/w/wi/wilson-s-no-183-2/"
 ---
 This is the **Wilson's, No 183** sett — one scale-free proportion (`k2lb1dp6g6r1g1`), colour order pattern
 [GRGBWK](/stripes/grgbwk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k4lb3dp11g14y2~x2/"><circle cx="148.5" cy="217.5" r="4" fill="#3465a4"><title>Wellington, No 122</title></circle></a><a href="/variants/s5/k4lb3dp11g14w2~x2/"><circle cx="146.9" cy="220.6" r="4" fill="#3465a4"><title>Wellington No 229</title></circle></a><a href="/variants/s5/k4lb3g13dp12w2~x2/"><circle cx="134.4" cy="224.6" r="4" fill="#3465a4"><title>Wilson's No 148</title></circle></a><a href="/variants/s5/k4lb3g12dp13y2~x2/"><circle cx="137.5" cy="221.2" r="4" fill="#3465a4"><title>Wilson's, No 176</title></circle></a><a href="/variants/s5/k8lb3g13dp12y2~x2/"><circle cx="130.4" cy="224.4" r="4" fill="#3465a4"><title>Wilson's No.176</title></circle></a><a href="/variants/s7/dp9k7g5r4g7k1y1~x2/"><circle cx="105.4" cy="204.0" r="4" fill="#3465a4"><title>MacLaren #2</title></circle></a><a href="/variants/s8/dg14dp11lb3k5lb3dp11dg14w2~x2~dg1605139-dp1607327/"><circle cx="173.0" cy="214.1" r="4" fill="#3465a4"><title>Wilson's No.229</title></circle></a><a href="/variants/s6/g14db2g2k8dp9k2~x2/"><circle cx="172.7" cy="218.9" r="4" fill="#3465a4"><title>MacArthur of Milton Hunting Clan Tartan</title></circle></a><a href="/variants/s6/db18r3k9r3g23y3~x2/"><circle cx="138.3" cy="196.5" r="4" fill="#3465a4"><title>Royal College of Physicians (Corp)</title></circle></a><a href="/variants/s7/k4t21dy10y4k20r6t3~x2/"><circle cx="108.7" cy="195.6" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><circle cx="152.4" cy="204.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

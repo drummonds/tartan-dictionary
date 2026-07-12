@@ -1,6 +1,11 @@
 ---
 title: "Lochcarron"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Lochcarron"
+  url: "/clan/lochcarron/"
 ---
 A family of [Clan Lochcarron](/clan/lochcarron/).
 

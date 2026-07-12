@@ -1,6 +1,11 @@
 ---
 title: "Prince Edward Island District Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Prince Edward Island"
+  url: "/tartans/p/pr/prince-edward-island-2/"
 ---
 This is the **Prince Edward Island District Tartan** sett — one scale-free proportion (`w2k1g16k12r12k1w2`), colour order pattern
 [WKGKRKW](/stripes/wkgkrkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k4y2k13y1w8o13y2o4~x2/"><circle cx="136.7" cy="168.2" r="4" fill="#3465a4"><title>Bannockbane, Light Tan</title></circle></a><a href="/variants/s6/k2r20k8g18r3w2~x2/"><circle cx="190.1" cy="183.6" r="4" fill="#3465a4"><title>Celtic Combat</title></circle></a><a href="/variants/s8/k4y2k13y1w8ly13y2ly4~x2/"><circle cx="130.5" cy="171.4" r="4" fill="#3465a4"><title>Bannockbane Light Tan</title></circle></a><a href="/variants/s6/dy2ly14k14ly1dr14ly2~x2/"><circle cx="162.5" cy="183.2" r="4" fill="#3465a4"><title>United Distillers</title></circle></a><a href="/variants/s8/k3w1r16k1g21t9k6w1~x4/"><circle cx="152.6" cy="130.8" r="4" fill="#3465a4"><title>Ford &amp; Etal</title></circle></a><a href="/variants/s7/g3r20g16k22lo6k3g2~x2/"><circle cx="136.5" cy="182.7" r="4" fill="#3465a4"><title>Wcwm 1062</title></circle></a><a href="/variants/s7/ly6k6y30k8lb18k6ly3~x2~ly3307090-y2602166/"><circle cx="142.1" cy="187.6" r="4" fill="#3465a4"><title>Cape Breton (yellow stripes)</title></circle></a><a href="/variants/s7/y6k6g30k8lb18k6y3~x2/"><circle cx="142.3" cy="191.3" r="4" fill="#3465a4"><title>Cape Breton (yellow stripes) (Dist)</title></circle></a><a href="/variants/s7/k2r7k6g12y1g1k2~x4/"><circle cx="175.4" cy="171.4" r="4" fill="#3465a4"><title>Blackstock Hunting Family Tartan</title></circle></a><a href="/variants/s9/db3k5r2g2r3g12r6k1r3~x4/"><circle cx="162.9" cy="174.5" r="4" fill="#3465a4"><title>Fulton (1999) (Name)</title></circle></a><circle cx="147.4" cy="156.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

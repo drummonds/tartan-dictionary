@@ -1,6 +1,11 @@
 ---
 title: "Princess Margaret Rose (Royal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Princess Margaret Rose"
+  url: "/tartans/p/pr/princess-margaret-rose/"
 ---
 This is the **Princess Margaret Rose (Royal)** sett — one scale-free proportion (`g32r12g6r6k2w3`), colour order pattern
 [GRGRKW](/stripes/grgrkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg32r12dg6r6k2w3~x2/"><circle cx="341.5" cy="158.7" r="4" fill="#3465a4"><title>Princess Margaret Rose</title></circle></a><a href="/variants/s6/g36r18g4r6k1w2~x2/"><circle cx="385.0" cy="133.5" r="4" fill="#3465a4"><title>Princess Margaret Rose Tartan</title></circle></a><a href="/variants/s6/g9r2g9r14k1w2~x2/"><circle cx="271.4" cy="189.6" r="4" fill="#3465a4"><title>MacGregor of Balquhidder Clan Tartan</title></circle></a><a href="/variants/s6/g9r2g9r14k1w2~x4/"><circle cx="271.4" cy="189.6" r="4" fill="#3465a4"><title>MacGregor of Balquidder - 1831 (Clan</title></circle></a><a href="/variants/s6/k2r16g6r3g8w1~x4/"><circle cx="292.5" cy="173.1" r="4" fill="#3465a4"><title>MacAulay (Clan)</title></circle></a><a href="/variants/s6/k2r16g6r3g8w1/"><circle cx="292.5" cy="173.1" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/variants/s6/k2r16g6r3g8w1~x2/"><circle cx="292.5" cy="173.1" r="4" fill="#3465a4"><title>MacAulay Tartan</title></circle></a><a href="/variants/s5/k1r5g10r5g1~x4/"><circle cx="300.8" cy="225.7" r="4" fill="#3465a4"><title>Murray, Lord George (Hose)</title></circle></a><a href="/variants/s6/k2r16g6r3g8lb1~x2/"><circle cx="297.3" cy="174.6" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/variants/s7/lbi2g6dr1g1dr14k1lb1~x4~lbi3200000-lb3103284/"><circle cx="304.0" cy="138.8" r="4" fill="#3465a4"><title>MacMaster (USA) #1</title></circle></a><circle cx="346.3" cy="167.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

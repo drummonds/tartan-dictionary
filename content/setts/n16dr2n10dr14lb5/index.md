@@ -1,6 +1,15 @@
 ---
 title: "Mowbray (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Mowbray"
+  url: "/clan/mowbray/"
+- name: "Mowbray"
+  url: "/families/mowbray/"
+- name: "Mowbray"
+  url: "/tartans/m/mo/mowbray/"
 ---
 This is the **Mowbray (Personal)** sett — one scale-free proportion (`n16dr2n10dr14lb5`), colour order pattern
 [BBBBW](/stripes/bbbbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/n16r2n10r15lb5~x2/"><circle cx="385.8" cy="291.4" r="4" fill="#3465a4"><title>Mowbray (Moubray) Family Tartan</title></circle></a><a href="/variants/s5/db2w2dr8db8w1~x2/"><circle cx="309.2" cy="273.0" r="4" fill="#3465a4"><title>Laval (Tartan de..) District Tartan</title></circle></a><a href="/variants/s5/db13n6dr51db51n5~x2/"><circle cx="481.6" cy="298.7" r="4" fill="#3465a4"><title>Hillsdale (Corporate?)</title></circle></a><a href="/variants/s6/t6r6w1r6t6y1~x8~r2607041/"><circle cx="295.6" cy="281.5" r="4" fill="#3465a4"><title>Unidentified Lindley</title></circle></a><a href="/variants/s8/dr25g10db30w4db30g10dr25w2~x2/"><circle cx="279.1" cy="228.2" r="4" fill="#3465a4"><title>Highland Spring Dress (2004)</title></circle></a><a href="/variants/s6/db1n8w1db4dr8w1~x6/"><circle cx="253.9" cy="259.8" r="4" fill="#3465a4"><title>Little's Chauffeur Drive</title></circle></a><a href="/variants/s5/dp23dg8dp23dg35w5~x2/"><circle cx="350.5" cy="299.2" r="4" fill="#3465a4"><title>Baru</title></circle></a><a href="/variants/s4/lb14n7dy6n2~x8/"><circle cx="298.0" cy="301.2" r="4" fill="#3465a4"><title>Outlander #3</title></circle></a><circle cx="407.6" cy="315.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Graham Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Graham"
+  url: "/clan/graham/"
+- name: "Graham"
+  url: "/families/graham/"
+- name: "Graham Dress"
+  url: "/tartans/g/gr/graham-dress/"
 ---
 This is the **Graham Dress** sett — one scale-free proportion (`w4db4w60db5w5k30db27k5db30k27g4lb5g66lb5g4k30w5db5w57db4w4`), colour order pattern
 [WBWBWKBKBKGWGWGKWBWBW](/stripes/wbwbwkbkbkgwgwgkwbwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w6g2w28k13t6k4t4k4t16r2t2r4~x2/"><circle cx="109.3" cy="104.2" r="4" fill="#3465a4"><title>Sutherland Dress (Dance)</title></circle></a><a href="/variants/s19/r4db4w52db5w5k26g25r6g28k25g3db26g6db25g3k27w50db4r4~x2/"><circle cx="79.4" cy="107.4" r="4" fill="#3465a4"><title>Lauder</title></circle></a><a href="/variants/s19/r4db4w52db5w5k26dg25r6dg28k25dg3db26dg6db25dg3k27w50db4r4/"><circle cx="81.0" cy="105.7" r="4" fill="#3465a4"><title>Lauder Dress</title></circle></a><a href="/variants/s14/db2k2db4k4g4y1g4w2db3w14db2w2k2y1~x4/"><circle cx="107.3" cy="124.1" r="4" fill="#3465a4"><title>Gordon Dress #3</title></circle></a><a href="/variants/s19/ly6db2lo2db1k1db1lyi4lb2lyi2db17k2lb3k8lb3k2lb17k2lb2lyi2~x2~ly3104101-lyi3407090/"><circle cx="93.6" cy="80.5" r="4" fill="#3465a4"><title>Ferrari (Name)</title></circle></a><a href="/variants/s23/w2db1w12db2w2k8db8k2db2k2db8k8g8k1y2k1g8k8w2db2w12db1w2~x2/"><circle cx="56.2" cy="120.1" r="4" fill="#3465a4"><title>Gordon Dress (Original)</title></circle></a><a href="/variants/s13/db24k4g8y4g8k4w4k4w24k1w2k1y3~x2/"><circle cx="112.1" cy="98.6" r="4" fill="#3465a4"><title>Gordon Dress #4</title></circle></a><a href="/variants/s20/w24k12db3k2db2k2db12r1db1r3db1r1db12k2db2k2db3k12w24g2~x4/"><circle cx="148.7" cy="71.7" r="4" fill="#3465a4"><title>Sutherland, Dress Royal (Dance)</title></circle></a><a href="/variants/s16/lb4r2lb3g1lb1g2lb18r1k12dg21lb1k3dg1k2dg4r2~x2/"><circle cx="140.6" cy="82.8" r="4" fill="#3465a4"><title>Munster</title></circle></a><a href="/variants/s18/db2lp4r2g24db4g2db4k10lp4db2lp4g8db1k1db22lp4db2r2~x2/"><circle cx="158.1" cy="88.7" r="4" fill="#3465a4"><title>Couper of Gogar</title></circle></a><circle cx="99.8" cy="91.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

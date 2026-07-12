@@ -1,6 +1,11 @@
 ---
 title: "Cardiff City Football Club (Corp)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Cardiff City Football Club"
+  url: "/tartans/c/ca/cardiff-city-football-club/"
 ---
 This is the **Cardiff City Football Club (Corp)** sett — one scale-free proportion (`r4ly24k13ly2k4ly3k1ly3lb2`), colour order pattern
 [RYKYKYKYW](/stripes/rykykykyw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k3y3lr3y3k12y24k1y3k3w3~x2/"><circle cx="289.4" cy="108.9" r="4" fill="#3465a4"><title>Bruichladdich (Corporate)</title></circle></a><a href="/variants/s10/do1lr2k5do3k1ly4k1ly10k1ly1~x4/"><circle cx="205.4" cy="157.2" r="4" fill="#3465a4"><title>Campbell 'Camel'</title></circle></a><a href="/variants/s12/w3ly3r2ly13k3ly4k22ly4k3ly16b2w3~x2/"><circle cx="198.5" cy="132.4" r="4" fill="#3465a4"><title>Loch Sween</title></circle></a><a href="/variants/s10/ly15n1ly2lo2ly2n1ly3k8n10ly3~x4/"><circle cx="239.3" cy="148.0" r="4" fill="#3465a4"><title>Annan Trade Tartan</title></circle></a><a href="/variants/s7/r2w10k15ly36w2k2w2~x2/"><circle cx="252.4" cy="138.0" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><a href="/variants/s16/ly24k13ly2k4ly3k1ly3lb2ly3k1ly3k4ly2k13ly24r4~x2/"><circle cx="297.1" cy="94.5" r="4" fill="#3465a4"><title>Cardiff City Football Club</title></circle></a><a href="/variants/s8/ly5k9ly2k7o10r4o35k4~x2~ly3607098-o2505058/"><circle cx="284.1" cy="130.8" r="4" fill="#3465a4"><title>Wilbers #2 (Personal)</title></circle></a><a href="/variants/s7/g3r16w4k6g28r1g3~x2/"><circle cx="296.2" cy="133.8" r="4" fill="#3465a4"><title>Pollock Clan Tartan</title></circle></a><a href="/variants/s10/y28k2y28k2y2k2ly29k2r2k2~x2/"><circle cx="311.4" cy="133.3" r="4" fill="#3465a4"><title>Ulster Irish District Tartan</title></circle></a><a href="/variants/s10/t4k12db3t4db3k3ly36db3t2ly3~x2/"><circle cx="249.9" cy="113.4" r="4" fill="#3465a4"><title>Hughes (USA) (Name)</title></circle></a><circle cx="287.6" cy="115.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

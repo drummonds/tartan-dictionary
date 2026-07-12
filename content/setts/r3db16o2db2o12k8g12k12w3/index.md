@@ -1,6 +1,11 @@
 ---
 title: "Celtic Women International"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Celtic Women International"
+  url: "/tartans/c/ce/celtic-women-international/"
 ---
 This is the **Celtic Women International** sett — one scale-free proportion (`r3db16o2db2o12k8g12k12w3`), colour order pattern
 [RBRBRKGKW](/stripes/rbrbrkgkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k8n30dg16k24dr8dg32lb32dr7lb12lbi4~lb3103284-lbi3200000/"><circle cx="37.7" cy="181.7" r="4" fill="#3465a4"><title>Manderson (Personal)</title></circle></a><a href="/variants/s9/y3lp9k3lp4k9g15k9db11w2~x4/"><circle cx="33.6" cy="184.6" r="4" fill="#3465a4"><title>Hoban (Name)</title></circle></a><a href="/variants/s10/k10lb5dp10g20k6g6db10r2db2r4~x2/"><circle cx="65.9" cy="162.5" r="4" fill="#3465a4"><title>Brotherston (Personal)</title></circle></a><a href="/variants/s9/db3w2g14r14k2db7k9dy2k2~x2/"><circle cx="36.2" cy="165.6" r="4" fill="#3465a4"><title>Black Hills</title></circle></a><a href="/variants/s7/k10r3y4db12g4r4w2~x4/"><circle cx="39.7" cy="194.7" r="4" fill="#3465a4"><title>Eichelberger Family, Jörg (Personal)</title></circle></a><a href="/variants/s10/dp22r3k22g22y2g22k22r3dp22w3~x2/"><circle cx="80.6" cy="159.8" r="4" fill="#3465a4"><title>Unidentified Scarlett #7</title></circle></a><a href="/variants/s10/db2r2db2w1db8k8dg8r2dg2ly2~x2/"><circle cx="79.6" cy="165.1" r="4" fill="#3465a4"><title>Logan Rogers (Personal)</title></circle></a><a href="/variants/s7/r3dp8g20k20db17k3lg3~x2/"><circle cx="64.7" cy="191.2" r="4" fill="#3465a4"><title>Gracey (2013)</title></circle></a><a href="/variants/s8/k1g6k6g1dp2dy2db6w1~x4/"><circle cx="45.6" cy="189.7" r="4" fill="#3465a4"><title>Hebridean Celebration</title></circle></a><a href="/variants/s10/r3g18r4lb3r4k13r3db18g2y3~x2/"><circle cx="60.4" cy="148.8" r="4" fill="#3465a4"><title>Stirling and Bannockburn District Tartan</title></circle></a><circle cx="38.9" cy="175.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

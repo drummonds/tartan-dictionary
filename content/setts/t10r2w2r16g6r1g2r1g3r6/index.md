@@ -1,6 +1,15 @@
 ---
 title: "Harkness Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Harkness"
+  url: "/clan/harkness/"
+- name: "Harkness"
+  url: "/families/harkness/"
+- name: "Harkness Dress"
+  url: "/tartans/h/ha/harkness-dress/"
 ---
 This is the **Harkness Dress** sett — one scale-free proportion (`t10r2w2r16g6r1g2r1g3r6`), colour order pattern
 [BRWRGRGRGR](/stripes/brwrgrgrgr/). It is recorded as **2 variants** — the same
@@ -23,6 +32,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/t10r2w2r16g6r1g2r1g3r6~x4~w4000000/"><circle cx="324.4" cy="137.8" r="4" fill="#3465a4"><title>Harkness Dress</title></circle></a><a href="/variants/s10/db10r2w2r16g6r1g2r1g3r6~x2/"><circle cx="291.8" cy="158.9" r="4" fill="#3465a4"><title>Harkness Family Tartan</title></circle></a><a href="/variants/s8/r12t2w1t2r3g8r3t1~x4/"><circle cx="336.9" cy="190.3" r="4" fill="#3465a4"><title>Chisholm, The</title></circle></a><a href="/variants/s10/ly4r21ly1r21g8db4g5db4g4ly4~db1204274/"><circle cx="324.2" cy="156.4" r="4" fill="#3465a4"><title>Rice Welsh Name Tartan</title></circle></a><a href="/variants/s10/g3r2db2r13lb1db4r2g7r2db2~x2/"><circle cx="277.4" cy="172.9" r="4" fill="#3465a4"><title>MacKillop Clan Tartan</title></circle></a><a href="/variants/s11/dg4g8db6dg8r6g2r2g2r24g1r3/"><circle cx="319.0" cy="139.6" r="4" fill="#3465a4"><title>MacDougall VS</title></circle></a><a href="/variants/s11/w2r4g8r16lb2r3g16r4lb2r4w2~x2/"><circle cx="272.9" cy="193.0" r="4" fill="#3465a4"><title>MacKinnon #10</title></circle></a><a href="/variants/s10/r7w2r32db7g3db2g3db2g16r3~x2/"><circle cx="322.9" cy="143.1" r="4" fill="#3465a4"><title>Chisholm Hunting (HSL) Clan Tartan</title></circle></a><a href="/variants/s10/g3r2db2r14t1db4r2g12r2db2~x8/"><circle cx="271.0" cy="168.1" r="4" fill="#3465a4"><title>MacKillop (Clan)</title></circle></a><a href="/variants/s12/r3g3r3g14r3g3r3db5r18y2r8y2~x2/"><circle cx="325.8" cy="186.8" r="4" fill="#3465a4"><title>Burns Family Tartan</title></circle></a><circle cx="318.6" cy="170.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

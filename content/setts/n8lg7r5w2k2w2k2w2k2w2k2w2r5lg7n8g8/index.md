@@ -1,6 +1,15 @@
 ---
 title: "Somerset"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Somerset"
+  url: "/clan/somerset/"
+- name: "Somerset"
+  url: "/families/somerset/"
+- name: "Somerset"
+  url: "/tartans/s/so/somerset-2/"
 ---
 This is the **Somerset** sett — one scale-free proportion (`n8lg7r5w2k2w2k2w2k2w2k2w2r5lg7n8g8`), colour order pattern
 [BYRWKWKWKWKWRYBG](/stripes/byrwkwkwkwkwrybg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g8n8lg7r5w2k2w2k2w2~x4/"><circle cx="14.0" cy="219.7" r="4" fill="#3465a4"><title>Somerset (District)</title></circle></a><a href="/variants/s13/lb10dr3lb10k7ly5w2ly5w2ly5k7dg10dr3dg7~x2/"><circle cx="14.0" cy="199.9" r="4" fill="#3465a4"><title>Redgate (Name)</title></circle></a><a href="/variants/s18/g6k1lb3k1y6k1y6k1lb3k1r6w1r6k1lb3k1g6lb3~x4/"><circle cx="14.0" cy="160.7" r="4" fill="#3465a4"><title>Buchanan Old Clan Tartan</title></circle></a><a href="/variants/s13/k2w1ly6r6w1k2w2ki3w2k1w2g3w2~x4~k0700000-ki0803038/"><circle cx="22.4" cy="179.3" r="4" fill="#3465a4"><title>Hovington (2014)</title></circle></a><a href="/variants/s15/lb3g1lb1g5r2do4lb3g2w1lb1y1g1do2r2y1~x4/"><circle cx="69.8" cy="207.8" r="4" fill="#3465a4"><title>Highlands of Haliburton (District)</title></circle></a><a href="/variants/s19/w1dr4k1lb3k1n4db1n4k1lb3k1g4lb1g4k1lb3k1dr4w1~x4/"><circle cx="14.0" cy="171.0" r="4" fill="#3465a4"><title>Caribou (District)</title></circle></a><a href="/variants/s16/dr3k8w2k3w2k2w6b3w6dy2w2dy3w2dy4ly10w3~x2/"><circle cx="30.1" cy="173.1" r="4" fill="#3465a4"><title>Clanedin/Commonwealth</title></circle></a><a href="/variants/s13/w4dy4k3dy9g13k3w3k3w3k9y4lb20w3~x2/"><circle cx="14.0" cy="154.5" r="4" fill="#3465a4"><title>Clodagh/Cork</title></circle></a><a href="/variants/s14/g5k1g5k1db5w1db5g2w1ly2db1r3ly1r3~x4/"><circle cx="42.6" cy="180.4" r="4" fill="#3465a4"><title>Festival Celtique de Qubecc</title></circle></a><a href="/variants/s16/g4w2r2lb3db3do2db2do2g2do2g3do2g8do6w8lb2~x2/"><circle cx="50.6" cy="210.4" r="4" fill="#3465a4"><title>Missouri Dress (Proposed) (District)</title></circle></a><circle cx="14.0" cy="194.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Leaf Peeper"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Leaf Peeper"
+  url: "/tartans/l/le/leaf-peeper/"
 ---
 This is the **Leaf Peeper** sett — one scale-free proportion (`k2w1dg25dy11r12w1ly12k1w2`), colour order pattern
 [KWGGRWYKW](/stripes/kwggrwykw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k2w1g25dy11r12w1y12k1w2~x2/"><circle cx="169.7" cy="115.1" r="4" fill="#3465a4"><title>Leaf Peeper</title></circle></a><a href="/variants/s9/w2dg27dy1ly7lb5dy5r17dy6lb1~x2/"><circle cx="188.9" cy="118.3" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/variants/s11/dy5k3w2r20db10g2w1dy1g20k4dy3~x2/"><circle cx="111.4" cy="103.6" r="4" fill="#3465a4"><title>MacCulloch</title></circle></a><a href="/variants/s11/o5k3w2r20db10g2w1r1g20k4o3~x2/"><circle cx="111.6" cy="101.1" r="4" fill="#3465a4"><title>MacCullough Family Tartan</title></circle></a><a href="/variants/s11/g15r25g4k2y1db1y1k2g4db12w1~x2/"><circle cx="176.1" cy="85.8" r="4" fill="#3465a4"><title>Livingstone (Australia) Dress</title></circle></a><a href="/variants/s11/r8lb7k8y2k1b1g19k1r8lb3r8~x2/"><circle cx="120.8" cy="115.4" r="4" fill="#3465a4"><title>Unnamed No 1</title></circle></a><a href="/variants/s12/r8lb7k8y2k1w2k1g19k1r8lb3r8~x2/"><circle cx="110.0" cy="108.2" r="4" fill="#3465a4"><title>Unnamed No 1 Tartan</title></circle></a><a href="/variants/s8/w3dy1r29dy16g23db3g3ly2~x2/"><circle cx="213.2" cy="123.3" r="4" fill="#3465a4"><title>Tache, Sir Etienne Paschal #2</title></circle></a><a href="/variants/s11/w3k1r25k2dy2g25dy2y2dy10k1r2~x2/"><circle cx="176.6" cy="79.9" r="4" fill="#3465a4"><title>Bicknell, The Hamish (Personal)</title></circle></a><a href="/variants/s11/w1lb3db2dr18r2g16r2dr2r2lb3w1~x2/"><circle cx="189.5" cy="112.2" r="4" fill="#3465a4"><title>Moray of Abercairny</title></circle></a><circle cx="152.8" cy="107.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Pearson"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Pearson"
+  url: "/clan/pearson/"
+- name: "Pearson"
+  url: "/families/pearson/"
+- name: "Pearson"
+  url: "/tartans/p/pe/pearson-2/"
 ---
 This is the **Pearson** sett — one scale-free proportion (`oi3g14o1g14oi3`), colour order pattern
 [RGRGR](/stripes/rgrgr/). It is recorded as a single **variant**, below.

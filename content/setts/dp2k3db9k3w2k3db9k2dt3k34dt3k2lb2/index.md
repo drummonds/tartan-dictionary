@@ -1,6 +1,11 @@
 ---
 title: "Hanson (2016)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Hanson"
+  url: "/tartans/h/ha/hanson/"
 ---
 This is the **Hanson (2016)** sett — one scale-free proportion (`dp2k3db9k3w2k3db9k2dt3k34dt3k2lb2`), colour order pattern
 [BKBKWKBKBKBKW](/stripes/bkbkwkbkbkbkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k24db2k3dp1k1dp2k1dg5dr2k1dr2w1~x4/"><circle cx="367.6" cy="62.1" r="4" fill="#3465a4"><title>Braveheart Warrior (Universal)</title></circle></a><a href="/variants/s12/k30db3k4dp2k2dp2k2dg10r6k2r3w2~x2/"><circle cx="252.2" cy="79.7" r="4" fill="#3465a4"><title>Braveheart Commemorative Tartan</title></circle></a><a href="/variants/s12/k44y3k4y3k4db4w2db4dr2w2dg4y2~x2/"><circle cx="323.8" cy="48.4" r="4" fill="#3465a4"><title>Clan An Caigeann (Corporate)</title></circle></a><a href="/variants/s15/k23db1g1r3db2r1db12y1k1w1k6db4g2k2g3~x2/"><circle cx="228.0" cy="61.4" r="4" fill="#3465a4"><title>Astrobiology</title></circle></a><a href="/variants/s12/k24db2k3dp1k1dp2k1dg5dr2k1dr2lb1~x4/"><circle cx="379.7" cy="65.9" r="4" fill="#3465a4"><title>Braveheart Warrior</title></circle></a><a href="/variants/s13/db6k2w3k2db6k4lb9k2r2k46lb2k2db6~x2/"><circle cx="304.9" cy="57.9" r="4" fill="#3465a4"><title>Kieck (2015)</title></circle></a><a href="/variants/s10/k10n4k34db3g3db3g3db26o2lb3~x2~n2002249-db1004274/"><circle cx="233.8" cy="106.7" r="4" fill="#3465a4"><title>Dugan (Personal)</title></circle></a><a href="/variants/s10/k62t4k7db29k3ly4k3w4k11t16~x2/"><circle cx="288.7" cy="100.2" r="4" fill="#3465a4"><title>State Seal of Massachusetts Fash)</title></circle></a><a href="/variants/s11/k49db15k2ly6k33dr4k3dy8w3db5k3~x2/"><circle cx="332.3" cy="71.9" r="4" fill="#3465a4"><title>State Seal of Wisconsin (Fashion)</title></circle></a><a href="/variants/s12/k4dt6k4n4dt29n6k68db10k4t6db4w2~dt0900000-n1700000-db1208266-t2205244/"><circle cx="303.7" cy="63.9" r="4" fill="#3465a4"><title>Earthrise</title></circle></a><circle cx="302.7" cy="80.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,8 +1,11 @@
 ---
 title: "Clan Jones"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
-*A clan defined by its tartans — the dictionary holds no separate clan history for it, only the cloth that carries its name.*
+Designed by Peter MacDonald in 1997 for Mrs Ros Jones of Mull, for all of the name; charity fundraiser.
 
 ## Tartan
 

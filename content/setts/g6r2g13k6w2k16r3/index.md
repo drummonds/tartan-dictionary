@@ -1,6 +1,15 @@
 ---
 title: "Sinclair Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Sinclair"
+  url: "/clan/sinclair/"
+- name: "Sinclair"
+  url: "/families/sinclair/"
+- name: "Sinclair Hunting"
+  url: "/tartans/s/si/sinclair-hunting-2/"
 ---
 This is the **Sinclair Hunting** sett — one scale-free proportion (`g6r2g13k6w2k16r3`), colour order pattern
 [GRGKWKR](/stripes/grgkwkr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g8r3g30k8w3k36w8~x2/"><circle cx="198.4" cy="170.4" r="4" fill="#3465a4"><title>Cleghorn (Personal)</title></circle></a><a href="/variants/s8/g4r4k12w2k12g32r4k3~x2/"><circle cx="230.9" cy="145.1" r="4" fill="#3465a4"><title>MacHardy (Clans Originaux)</title></circle></a><a href="/variants/s9/lg16k3lg16k26dp4k26n20k3n8/"><circle cx="164.0" cy="195.9" r="4" fill="#3465a4"><title>Scotsburn Croft</title></circle></a><a href="/variants/s5/k8y1k8g13r2~x4/"><circle cx="227.9" cy="199.7" r="4" fill="#3465a4"><title>Tolmie</title></circle></a><a href="/variants/s5/k3w3k3dg10r1~x6/"><circle cx="204.9" cy="198.4" r="4" fill="#3465a4"><title>Burberry Hunting</title></circle></a><a href="/variants/s5/k6db4g44k41w4~x2/"><circle cx="233.3" cy="187.8" r="4" fill="#3465a4"><title>Douglas (alternative threadcount)</title></circle></a><a href="/variants/s5/k6g4dg44k41w4~x2~g2408144-dg1806142/"><circle cx="241.8" cy="189.2" r="4" fill="#3465a4"><title>Raeside</title></circle></a><a href="/variants/s7/k4w19k11dg15k3dg16y3~x2/"><circle cx="132.6" cy="219.8" r="4" fill="#3465a4"><title>Lawson, William 2002</title></circle></a><a href="/variants/s6/r5g18y2k14lb5k4~x2/"><circle cx="119.0" cy="189.8" r="4" fill="#3465a4"><title>Dahlonega (District)</title></circle></a><a href="/variants/s8/k7g7k1g7k7lb1dp7k1~x4/"><circle cx="145.1" cy="212.7" r="4" fill="#3465a4"><title>Wilson's No 108</title></circle></a><circle cx="178.1" cy="197.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

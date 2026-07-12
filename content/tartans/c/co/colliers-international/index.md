@@ -18,7 +18,7 @@ The **Colliers International** tartan groups 2 setts — the same named design r
 <tr><td><a href="/setts/db7n7db40y3db40n7db7n7db7n7db40r3db40n7db7n7db7n7db40lb3db40n7db7n7/">Colliers International</a> ★</td><td><code>DB/14 N14 DB80 Y6 DB80 N14 DB14 N14 DB14 N14 DB80 R6 DB80 N14 DB14 N14 DB14 N14 DB80 LB6 DB80 N14 DB14 N/14</code></td><td>1388</td><td>~2008</td></tr>
 <tr><td colspan="4" class="sett-swatch"><a href="/setts/db7n7db40y3db40n7db7n7db7n7db40r3db40n7db7n7db7n7db40lb3db40n7db7n7/"><img src="/variants/s24/db7n7db40y3db40n7db7n7db7n7db40r3db40n7db7n7db7n7db40lb3db40n7db7n7~x2/sett.png" alt="Colliers International sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/db7n7db40y3db40n7db7n7db7n7db40r3db40n7db7n7db7n7db40t3db40n7db7n7/">Canadian Corporate Tartan</a></td><td><code>DB/14 N14 DB80 Y6 DB80 N14 DB14 N14 DB14 N14 DB80 R6 DB80 N14 DB14 N14 DB14 N14 DB80 T6 DB80 N14 DB14 N/14</code></td><td>1388</td><td>2008</td></tr>
-<tr><td colspan="4" class="sett-swatch"><a href="/setts/db7n7db40y3db40n7db7n7db7n7db40r3db40n7db7n7db7n7db40t3db40n7db7n7/"><img src="db7n7db40y3db40n7db7n7db7n7db40r3db40n7db7n7db7n7db40t3db40n7db7n7-rev.png" alt="Canadian Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/db7n7db40y3db40n7db7n7db7n7db40r3db40n7db7n7db7n7db40t3db40n7db7n7/"><img src="/variants/s24/db7n7db40y3db40n7db7n7db7n7db40r3db40n7db7n7db7n7db40t3db40n7db7n7~x2~t2405244/sett.png" alt="Canadian Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

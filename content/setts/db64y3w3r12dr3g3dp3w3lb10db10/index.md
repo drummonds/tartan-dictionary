@@ -1,6 +1,11 @@
 ---
 title: "Tau-Taurini (Provisional) (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Tau-Taurini"
+  url: "/tartans/t/ta/tau-taurini/"
 ---
 This is the **Tau-Taurini (Provisional) (Personal)** sett — one scale-free proportion (`db64y3w3r12dr3g3dp3w3lb10db10`), colour order pattern
 [BGWRBGBWWB](/stripes/bgwrbgbwwb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r2m3ki16b4r2b4k36g3k3w2~x2~ki0802138-k0604259/"><circle cx="221.9" cy="77.2" r="4" fill="#3465a4"><title>Fitzgerald Htg (Name)</title></circle></a><a href="/variants/s9/db152b2k4w2g28ri10k26r1y2~ri2008029-r2008022/"><circle cx="361.4" cy="14.0" r="4" fill="#3465a4"><title>Royal Canadian Mounted Police</title></circle></a><a href="/variants/s7/y3db38g7dp4lb5r5w3~x2/"><circle cx="276.7" cy="129.8" r="4" fill="#3465a4"><title>Blairgowrie Golf Club, The</title></circle></a><a href="/variants/s8/db45w2lb23db10g2r1dr5wi1~x2~w3904115-wi4000000/"><circle cx="331.5" cy="66.2" r="4" fill="#3465a4"><title>Hier Family, Kilcreggan (Personal)</title></circle></a><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/"><circle cx="260.4" cy="78.3" r="4" fill="#3465a4"><title>Stewart Blue MINI Tartan</title></circle></a><a href="/variants/s11/db60w3dp8y2k2w2k2g14db4dy10w2~x2/"><circle cx="287.9" cy="46.9" r="4" fill="#3465a4"><title>O'Shaughnessy (Estimated threadcount)</title></circle></a><a href="/variants/s12/db57lb3k9ly2k2w3k2g10db6k2db2r3~x2~lb3501240-ly3307090/"><circle cx="310.9" cy="32.4" r="4" fill="#3465a4"><title>O'Shaughnessy Memorial</title></circle></a><a href="/variants/s12/db46r3db7do2y2do2w2do11ly6db2ly3w2~x2/"><circle cx="339.4" cy="77.3" r="4" fill="#3465a4"><title>Lady Diana Plaid Trade or Fancy Tartan</title></circle></a><a href="/variants/s12/db57lb3k9y2k2w3k2g10db6k2db2r3~x2/"><circle cx="316.1" cy="33.5" r="4" fill="#3465a4"><title>O'Shaughnessy Memorial (Corporate)</title></circle></a><a href="/variants/s7/lb58ly2db24g2r1dr5w1~x2/"><circle cx="352.0" cy="60.0" r="4" fill="#3465a4"><title>Hier (Personal)</title></circle></a><circle cx="315.8" cy="60.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

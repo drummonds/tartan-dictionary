@@ -1,6 +1,11 @@
 ---
 title: "Perthshire Clayquhat District Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Perthshire Clayquhat"
+  url: "/tartans/p/pe/perthshire-clayquhat/"
 ---
 This is the **Perthshire Clayquhat District Tartan** sett — one scale-free proportion (`r23k1g9r3db1lb1r1`), colour order pattern
 [RKGRBWR](/stripes/rkgrbwr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r65g16r4dp4r4w5~x2/"><circle cx="499.1" cy="151.0" r="4" fill="#3465a4"><title>Howard, Vincent (Personal)</title></circle></a><a href="/variants/s8/r48db3ly2dg14r8db3lb4w3~x2/"><circle cx="383.8" cy="94.2" r="4" fill="#3465a4"><title>Drummond of Fingask</title></circle></a><a href="/variants/s6/r72k8r4g16r7n2~x2/"><circle cx="494.0" cy="100.1" r="4" fill="#3465a4"><title>MacAndrew Dress (Name)</title></circle></a><a href="/variants/s8/r72g3y2g26r14db6lb6w2/"><circle cx="416.9" cy="87.7" r="4" fill="#3465a4"><title>Stewart of Fingask - 1745 (Clan?)</title></circle></a><a href="/variants/s8/r48db3y1g14r8db3lb4w1~x2/"><circle cx="443.0" cy="70.7" r="4" fill="#3465a4"><title>Prince Charles Cloak</title></circle></a><a href="/variants/s8/r48db3y1g14r8db3lb4w1/"><circle cx="443.0" cy="70.7" r="4" fill="#3465a4"><title>Prince Charles Cloak</title></circle></a><a href="/variants/s8/r56w2k12y3r12y3r12g3~x2/"><circle cx="462.6" cy="82.3" r="4" fill="#3465a4"><title>Hackston, or Halkerston</title></circle></a><a href="/variants/s8/r51lr2k11ly3r11ly3r11g3~x2/"><circle cx="454.8" cy="90.5" r="4" fill="#3465a4"><title>Hackston (Green stripe) (Portrait)</title></circle></a><a href="/variants/s6/r96g42r16g17k4lb6/"><circle cx="392.5" cy="146.3" r="4" fill="#3465a4"><title>MacGregor Hunting Glengyle Clan Tartan</title></circle></a><a href="/variants/s7/r48w3k3g2y6g2r6~x4/"><circle cx="491.6" cy="90.9" r="4" fill="#3465a4"><title>Ferguson the Astronomer</title></circle></a><circle cx="421.9" cy="103.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Prestoungrange/Dolphinstoun/Wills dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Prestoungrange/Dolphinstoun/Wills dress"
+  url: "/tartans/p/pr/prestoungrange-dolphinstoun-wills-dress/"
 ---
 This is the **Prestoungrange/Dolphinstoun/Wills dress** sett — one scale-free proportion (`w3lb2w3r4w16k2w2k2w3k10g35k2g2k1g2`), colour order pattern
 [GKGKGKWKWKWRWWW](/stripes/gkgkgkwkwkwrwww/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r6g2w21g2y2k8y2g32w1k3~x2/"><circle cx="200.2" cy="86.9" r="4" fill="#3465a4"><title>Fiander, Julian (Personal)</title></circle></a><a href="/variants/s9/r6g2w21dy2k8dy2g32w1k3~x2/"><circle cx="191.6" cy="93.7" r="4" fill="#3465a4"><title>Fiander, Julian (Personal)</title></circle></a><a href="/variants/s13/y30k2g2k2g2lb3k1lb2k1lb1g12lo2k6~x4/"><circle cx="229.0" cy="71.2" r="4" fill="#3465a4"><title>Lomond (1983)</title></circle></a><a href="/variants/s11/k9n2ly2k2w18ly2k2w1k19ly33dr2~x2/"><circle cx="185.1" cy="82.4" r="4" fill="#3465a4"><title>Pride of Scotland Gold</title></circle></a><a href="/variants/s13/dg55ly20w2ly3k2ly3w2ly3db18k2ly4y2ly3~x2/"><circle cx="215.7" cy="58.4" r="4" fill="#3465a4"><title>Knox (Personal)</title></circle></a><a href="/variants/s15/r3w3k3w3r3db8k1y2k1db8k2g30k1g10k2~x2/"><circle cx="204.0" cy="58.3" r="4" fill="#3465a4"><title>Coigach</title></circle></a><a href="/variants/s14/y3lb2k1lb24k2lb2k2lb2k2g8dp2g8k1w2~x2/"><circle cx="202.9" cy="68.5" r="4" fill="#3465a4"><title>Alexander-Johnstone (Personal)</title></circle></a><a href="/variants/s15/w20r4w4r7w132k26db26y6db6w9g83r30k5r7w4/"><circle cx="176.7" cy="43.5" r="4" fill="#3465a4"><title>Stewart dress</title></circle></a><a href="/variants/s12/g4k2g28r4g4k18g4lp4g4lp7k1w3~x2/"><circle cx="228.9" cy="93.1" r="4" fill="#3465a4"><title>Moss</title></circle></a><a href="/variants/s15/r3w3k3w3r3db8k1y2k1db8k2g30k1g10k2~x2~r1506019/"><circle cx="205.5" cy="59.2" r="4" fill="#3465a4"><title>Coigach (District)</title></circle></a><circle cx="196.7" cy="56.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

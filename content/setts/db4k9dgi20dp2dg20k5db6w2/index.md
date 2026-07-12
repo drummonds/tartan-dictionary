@@ -1,6 +1,11 @@
 ---
 title: "Linden Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Linden"
+  url: "/tartans/l/li/linden/"
 ---
 This is the **Linden Family Tartan** sett — one scale-free proportion (`db4k9dgi20dp2dg20k5db6w2`), colour order pattern
 [BKGBGKBW](/stripes/bkgbgkbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr2db11k8dg8y2g8k1y2~x2~dg1806142-g2408144/"><circle cx="58.0" cy="177.8" r="4" fill="#3465a4"><title>Scout Mapping Service #2 (Corporate)</title></circle></a><a href="/variants/s9/dg20dr2g3db12k20dr2dt3db4dt3~x2/"><circle cx="155.0" cy="173.8" r="4" fill="#3465a4"><title>Ithilien Heather (Personal)</title></circle></a><a href="/variants/s9/dg20dr2g3db12k20dr2n3db4n3~x2~dg1302138/"><circle cx="138.1" cy="166.5" r="4" fill="#3465a4"><title>Ithilien Commemorative Tartan</title></circle></a><a href="/variants/s7/db3r2db18k6dg18y2g3~x2/"><circle cx="200.8" cy="181.5" r="4" fill="#3465a4"><title>McComb</title></circle></a><a href="/variants/s8/dt4k9g20dp2dg20k5dt6lb2~x2/"><circle cx="102.9" cy="175.4" r="4" fill="#3465a4"><title>Linden</title></circle></a><a href="/variants/s7/db3r2db18k6dg18y2g3~x2~dg1806142-g2203152/"><circle cx="176.5" cy="175.1" r="4" fill="#3465a4"><title>McComb (Personal)</title></circle></a><a href="/variants/s8/dr3dg2dr6dg20k15dg3db18w2~x2/"><circle cx="175.5" cy="188.4" r="4" fill="#3465a4"><title>Curry (Irish) (Name)</title></circle></a><a href="/variants/s6/db9w2dg25do10k15dp4~x2/"><circle cx="171.9" cy="193.8" r="4" fill="#3465a4"><title>Staley (2014)</title></circle></a><a href="/variants/s6/w2dg20b3k10dy20ly2~x2/"><circle cx="156.9" cy="184.4" r="4" fill="#3465a4"><title>Morris of Balgonie Htg (Personal)</title></circle></a><a href="/variants/s7/r3dg20k2n11k2db20lr2~x2/"><circle cx="169.2" cy="178.2" r="4" fill="#3465a4"><title>Grandfather Mountain Games (District</title></circle></a><circle cx="134.1" cy="183.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

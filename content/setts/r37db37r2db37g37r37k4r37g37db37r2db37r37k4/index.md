@@ -1,6 +1,15 @@
 ---
 title: "Skene of Cromar"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Skene"
+  url: "/clan/skene/"
+- name: "Skene of Cromar"
+  url: "/families/skene-of-cromar/"
+- name: "Skene of Cromar"
+  url: "/tartans/s/sk/skene-of-cromar-3/"
 ---
 This is the **Skene of Cromar** sett — one scale-free proportion (`r37db37r2db37g37r37k4r37g37db37r2db37r37k4`), colour order pattern
 [KRBRBGRKRGBRBR](/stripes/krbrbgrkrgbrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k4r37db37r2db37g37r37k4~x2/"><circle cx="193.3" cy="172.6" r="4" fill="#3465a4"><title>Skene of Cromar - 1950 (Clan)</title></circle></a><a href="/variants/s8/k4r37db37r2db37g37r37k4/"><circle cx="193.3" cy="172.6" r="4" fill="#3465a4"><title>Skene, of Cromar</title></circle></a><a href="/variants/s13/db4k1db5k4g8r4g8k4r3db3r12db2r4~x4/"><circle cx="126.5" cy="177.5" r="4" fill="#3465a4"><title>Murray of Atholl, Red Dress</title></circle></a><a href="/variants/s12/db16r1db1r1g12r16w2r16g12db12r1db1~x2/"><circle cx="218.1" cy="163.7" r="4" fill="#3465a4"><title>Fraser of Lovat Clan Tartan</title></circle></a><a href="/variants/s10/g14k5db2r21g18k4db18r9k2r12/"><circle cx="153.5" cy="187.6" r="4" fill="#3465a4"><title>Ruben Delanghe (Personal)</title></circle></a><a href="/variants/s16/dr15n20lr6k4n10lr22k28n6dr6lr22n6dr2lr12k2lr3n10~x2/"><circle cx="138.6" cy="149.9" r="4" fill="#3465a4"><title>Alexander Brothers - 1993 (Corp.)</title></circle></a><a href="/variants/s13/r9db3r9k18db9k2db9k2db9r6w1db1r4~x2/"><circle cx="172.9" cy="143.1" r="4" fill="#3465a4"><title>Metro Detroit Police &amp; Fire P &amp;</title></circle></a><a href="/variants/s12/db16r2db2r2g14r13w2r13g14db14r2db2~x2/"><circle cx="177.2" cy="201.3" r="4" fill="#3465a4"><title>Fraser of Lovat</title></circle></a><a href="/variants/s10/r12y4r38dg25db8dg10db8dg8db25r3/"><circle cx="224.1" cy="192.1" r="4" fill="#3465a4"><title>MacEdward (Personal)</title></circle></a><a href="/variants/s7/r52t16k16g22r16lo3r16~x2/"><circle cx="173.9" cy="145.0" r="4" fill="#3465a4"><title>Sturrock (Blue/Black)</title></circle></a><circle cx="197.4" cy="169.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

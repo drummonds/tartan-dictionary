@@ -1,6 +1,15 @@
 ---
 title: "McCartney (Day)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan McCartney"
+  url: "/clan/mccartney/"
+- name: "McCartney"
+  url: "/families/mccartney/"
+- name: "McCartney"
+  url: "/tartans/m/mc/mccartney-2/"
 ---
 This is the **McCartney (Day)** sett — one scale-free proportion (`dp4dg2dp24dg8k2r2k2y2k10dp2w3`), colour order pattern
 [BGBGKRKGKBW](/stripes/bgbgkrkgkbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dp26ly2r3ly2dp26k13y2k8w3k8y2k13~x2~ly3307090-y2502222/"><circle cx="202.0" cy="113.7" r="4" fill="#3465a4"><title>Curnow of Kernow (Personal)</title></circle></a><a href="/variants/s11/k4g2w2dp22k16r8k3r4k3dy4k3~x2/"><circle cx="140.1" cy="118.5" r="4" fill="#3465a4"><title>Hines Snr, Raymond Lee (Personal)</title></circle></a><a href="/variants/s11/dp10db1dp2db1lb1db1lb2o2lb1k1y2~x10/"><circle cx="205.2" cy="121.1" r="4" fill="#3465a4"><title>Lieuwen, Jeffrey Pascal (Personal)</title></circle></a><a href="/variants/s14/n31k4n4k4n4k4n6w5k4o3dp19o3n4r3~x2/"><circle cx="189.6" cy="111.3" r="4" fill="#3465a4"><title>Sydney Academy</title></circle></a><a href="/variants/s9/k2r2k15lb2k4lb2n9dt27w2~x2~n1800000-dt1200000/"><circle cx="168.0" cy="116.2" r="4" fill="#3465a4"><title>Real Mary King's Close, The</title></circle></a><a href="/variants/s12/ni9r3ni32n12k5n2k4n2k17dp4k2lb2~x2~ni1700000/"><circle cx="197.2" cy="111.1" r="4" fill="#3465a4"><title>Scottish Spirit</title></circle></a><a href="/variants/s12/dt10r3dt32y12k5y2k4y2k17o4k2lb2~x2~dt1600000-y2200000/"><circle cx="186.2" cy="104.9" r="4" fill="#3465a4"><title>Scottish Spirit Fashion Tartan</title></circle></a><a href="/variants/s10/k3g1dr1db6n2db1n1db1dr10w1~x4/"><circle cx="178.0" cy="140.1" r="4" fill="#3465a4"><title>Crieff Primary School</title></circle></a><a href="/variants/s11/dr1db15k2ly1k1t1k5dr4k1dr2w1~x4/"><circle cx="199.9" cy="101.9" r="4" fill="#3465a4"><title>Glen Stewart</title></circle></a><a href="/variants/s11/k12g3y2k2g3k18dy4k2dp18g2db2~x2/"><circle cx="198.0" cy="134.7" r="4" fill="#3465a4"><title>Sturm (2016)</title></circle></a><circle cx="204.3" cy="109.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

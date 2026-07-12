@@ -1,6 +1,11 @@
 ---
 title: "Unidentified Fragment Artifact Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified Fragment"
+  url: "/tartans/u/un/unidentified-fragment/"
 ---
 This is the **Unidentified Fragment Artifact Tartan** sett — one scale-free proportion (`dy8g20db15dy6g4dy8db4dy6g20dy8db6dy4lb2dy4db6`), colour order pattern
 [BGWGBGGGBGGGBGG](/stripes/bgwgbgggbgggbgg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db21g2db3g2db2g14dy15g4dy15g14db14g2db3~x2/"><circle cx="277.3" cy="233.1" r="4" fill="#3465a4"><title>Montmorency Family Tartan</title></circle></a><a href="/variants/s10/db4dy7y3dy12g15dy5db20dy5g4dy2~x2/"><circle cx="275.5" cy="239.2" r="4" fill="#3465a4"><title>Tupper. Sir Charles.. Family Tartan</title></circle></a><a href="/variants/s15/lo2db3dy3db4g16db3dy3db4g3db3dy16db4g3db3lo2~x2/"><circle cx="215.8" cy="209.2" r="4" fill="#3465a4"><title>Kerry, County</title></circle></a><a href="/variants/s13/db8dy1db1dy1db1dy8g8dy1g8dy8db8dy1db1~x6/"><circle cx="273.4" cy="242.2" r="4" fill="#3465a4"><title>Tyneside Scottish (Blue) (District)</title></circle></a><a href="/variants/s11/dr3db14g14db2dr14db2dr14db2g14db2lo3~x2/"><circle cx="224.1" cy="235.8" r="4" fill="#3465a4"><title>Clare Irish County Tartan</title></circle></a><a href="/variants/s10/db4g2dbi10y1dbi2g13db11g13dbi13y2~x2~db1204274-dbi1406275/"><circle cx="273.5" cy="233.6" r="4" fill="#3465a4"><title>Pinney's of Scotland</title></circle></a><a href="/variants/s13/db11do1db1do1db1do8g8do1g8do8db8do1db1~x2/"><circle cx="294.3" cy="228.8" r="4" fill="#3465a4"><title>Tyneside Scottish District Tartan</title></circle></a><a href="/variants/s21/g9db2dg3db2dg5db2dg3lo3dg6lo3dg3db2dg5db2dg3db2g16dr3db2dr3g7~x2/"><circle cx="186.3" cy="194.9" r="4" fill="#3465a4"><title>Limerick Irish County Tartan</title></circle></a><a href="/variants/s16/db11n4db4w2db4n4db11dg26n4w3n4w2n14dg10db16dg6~x2/"><circle cx="250.7" cy="202.0" r="4" fill="#3465a4"><title>Stuart-Houghton Hunting (Personal)</title></circle></a><a href="/variants/s15/o8g20db15o6g4o8db4o6g20o8db6o4b2o4db6/"><circle cx="214.7" cy="210.3" r="4" fill="#3465a4"><title>Unidentified, Fragment</title></circle></a><circle cx="235.6" cy="225.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

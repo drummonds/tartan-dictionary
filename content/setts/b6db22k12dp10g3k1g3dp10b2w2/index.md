@@ -1,6 +1,11 @@
 ---
 title: "Cowal"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Cowal"
+  url: "/tartans/c/co/cowal/"
 ---
 This is the **Cowal** sett — one scale-free proportion (`b6db22k12dp10g3k1g3dp10b2w2`), colour order pattern
 [BBKBGKGBBW](/stripes/bbkbgkgbbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db6dbi22k12dp10g3k1g3dp10db2w2~x2~db1106275-dbi1404245/"><circle cx="146.2" cy="130.6" r="4" fill="#3465a4"><title>Cowal (Corporate)</title></circle></a><a href="/variants/s11/db6w1t18k6t4k4dp8dg1dp8k2db5~x2~db1108266-dp1708331/"><circle cx="123.0" cy="131.5" r="4" fill="#3465a4"><title>Bute Heather, Ancient</title></circle></a><a href="/variants/s11/dg10y2k2dg2k13dg2k2dg1dp13db24w2~x2/"><circle cx="167.5" cy="108.9" r="4" fill="#3465a4"><title>Lang of Sherbrooke (Personal)</title></circle></a><a href="/variants/s9/k3dp16g5dp3b2dp2k12db23w2~x2/"><circle cx="147.1" cy="148.3" r="4" fill="#3465a4"><title>Creiff Highland Gathering</title></circle></a><a href="/variants/s11/dg10y2dp2dg2dp13dg2dp2dg1k13db24w2~x2/"><circle cx="178.4" cy="112.9" r="4" fill="#3465a4"><title>Lang of Sherbrooke (Personal)</title></circle></a><a href="/variants/s11/db4k2db20k13y1k2y2k2y1b23n4~x2/"><circle cx="171.4" cy="111.8" r="4" fill="#3465a4"><title>Michigan State Police (Corporate)</title></circle></a><a href="/variants/s6/dy2db12k6dp10k1w2~x2/"><circle cx="170.6" cy="188.9" r="4" fill="#3465a4"><title>Soroptimist International Corporate Tartan</title></circle></a><a href="/variants/s8/dp1r4dp1r1dp12k6db16w1~x2/"><circle cx="215.7" cy="147.7" r="4" fill="#3465a4"><title>First</title></circle></a><a href="/variants/s7/r4dp1r1dp12k6db16w1~x2/"><circle cx="213.8" cy="158.5" r="4" fill="#3465a4"><title>First (Corporate)</title></circle></a><a href="/variants/s9/k3dp16dg5dp3o2dp2k12db23w2~x2/"><circle cx="163.1" cy="152.7" r="4" fill="#3465a4"><title>Crieff Highland Gathering Corporate Tartan</title></circle></a><circle cx="132.6" cy="125.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

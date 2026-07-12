@@ -1,6 +1,11 @@
 ---
 title: "Guardian of Scotland Dress (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Guardian of Scotland Dress"
+  url: "/tartans/g/gu/guardian-of-scotland-dress/"
 ---
 This is the **Guardian of Scotland Dress (Fashion)** sett — one scale-free proportion (`r2k1w25db7dbi20g4dbi4dp8k1y2`), colour order pattern
 [GKBBGBBWKR](/stripes/gkbbgbbwkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y2k1dp8dbi4g4dbi20db7r25k1w2~x2~dbi1406275-db1106275/"><circle cx="134.5" cy="71.8" r="4" fill="#3465a4"><title>Guardian of Scotland</title></circle></a><a href="/variants/s12/t1w6lb1w1lb2r2dg2k2w1t2db16w1~x4/"><circle cx="131.0" cy="71.8" r="4" fill="#3465a4"><title>Arctic</title></circle></a><a href="/variants/s12/db4dr1k3ly1k1lr1k1dbi8lb12dr1lb2k1~x4~db1106275-dbi1406275/"><circle cx="99.6" cy="96.9" r="4" fill="#3465a4"><title>MacLean (Dress)</title></circle></a><a href="/variants/s11/w4k1db16k1g12y12lb24lo2lb1lo4lb2~x2/"><circle cx="107.6" cy="91.5" r="4" fill="#3465a4"><title>Rwanda</title></circle></a><a href="/variants/s11/w4lb1y2lb13ri1k13dy1k1g1k1r2~x4~ri2406019-r2109032/"><circle cx="83.1" cy="69.6" r="4" fill="#3465a4"><title>Kungsholmen Snooker Corporate Sports Tartan</title></circle></a><a href="/variants/s8/t32g5lb8db4dp5w5k5ly8~x2~t2205244-db1208266/"><circle cx="106.6" cy="136.0" r="4" fill="#3465a4"><title>Fremsaeter, Jenny (Personal)</title></circle></a><a href="/variants/s10/g2k1r5w7r1db10w1db10t30y1~x2/"><circle cx="192.0" cy="71.2" r="4" fill="#3465a4"><title>Festival Intercltico de Avils (Coror</title></circle></a><a href="/variants/s13/lb2db18ly4k5ly1k1w1k2g8r6k1r3w1~x4/"><circle cx="76.2" cy="75.8" r="4" fill="#3465a4"><title>Bethune (Personal)</title></circle></a><a href="/variants/s12/g4w28lb3w3k16lb4o10n4k14r2k2r3~o2500000-n1900000/"><circle cx="62.2" cy="92.8" r="4" fill="#3465a4"><title>Edinburgh Zoo Panda (Comm)</title></circle></a><a href="/variants/s9/w3lb26db13k13w2g8k5r3lb3~x2/"><circle cx="95.1" cy="133.1" r="4" fill="#3465a4"><title>Moran (Virgin Islands) (Personal)</title></circle></a><circle cx="82.8" cy="63.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

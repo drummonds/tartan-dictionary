@@ -1,6 +1,13 @@
 ---
 title: "Hueg Scottish Blue Thistle (Personal"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hueg"
+  url: "/clan/hueg/"
+- name: "Hueg Scottish Blue Thistle"
+  url: "/tartans/h/hu/hueg-scottish-blue-thistle/"
 ---
 This is the **Hueg Scottish Blue Thistle (Personal** sett — one scale-free proportion (`r2g4k2dp25g4dp4ly2dp2w2dp5g3r7k2r3w2`), colour order pattern
 [RGKBGBYBWBGRKRW](/stripes/rgkbgbybwbgrkrw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/w3r30k4dg2db17y3db2y3db17dg2k4r30w3r2~x2~dg1806142/"><circle cx="214.2" cy="86.2" r="4" fill="#3465a4"><title>Unidentified Lindley #4</title></circle></a><a href="/variants/s14/n31k4n4k4n4k4n6w5k4o3dp19o3n4r3~x2/"><circle cx="189.6" cy="111.3" r="4" fill="#3465a4"><title>Sydney Academy</title></circle></a><a href="/variants/s14/r3db10t3db2t2db2r3k5r2k5r22dg2r3dg2~x2~t1903246-dg1405139/"><circle cx="206.0" cy="112.3" r="4" fill="#3465a4"><title>Lochcarron Dress</title></circle></a><a href="/variants/s12/k2db2g2db22r4g3r3g2r22k2r2ly2~x2/"><circle cx="214.2" cy="111.8" r="4" fill="#3465a4"><title>Harris, Jeffrey S (Personal)</title></circle></a><a href="/variants/s12/k3db2g2db22r4g3r3g2r22k2r2y2~x2/"><circle cx="210.6" cy="114.1" r="4" fill="#3465a4"><title>Harris, Jeffrey S (Personal)</title></circle></a><a href="/variants/s16/k2db12r12db2r2lb2r2lb2r12db6r2dg12k2y1r1y1~x2/"><circle cx="155.9" cy="109.3" r="4" fill="#3465a4"><title>Catalan Dance</title></circle></a><a href="/variants/s13/y1k1r8db1r1dg8r1db8r1dg1r8k1w1~x6/"><circle cx="170.2" cy="125.2" r="4" fill="#3465a4"><title>Robieson</title></circle></a><a href="/variants/s16/db12k2ly28k2n2k2lo2k2ly28k2db12r12k3lo2k3r12~x2~ly2503076-lo3006076/"><circle cx="159.6" cy="93.2" r="4" fill="#3465a4"><title>Oneness</title></circle></a><a href="/variants/s14/db12r30db2lb2k8lb2k4ly2k4dg15r8k2r4lb2~x2/"><circle cx="148.0" cy="89.0" r="4" fill="#3465a4"><title>Brown of Castledean (Artefact)</title></circle></a><a href="/variants/s16/dr24k2w2n6w2lo2dr2k2dr2lo2w2t6k2dr3lo3w2~x2/"><circle cx="171.8" cy="84.0" r="4" fill="#3465a4"><title>MacGlashan (Clan?)</title></circle></a><circle cx="204.2" cy="86.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

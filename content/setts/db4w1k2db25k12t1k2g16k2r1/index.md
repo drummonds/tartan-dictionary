@@ -1,6 +1,15 @@
 ---
 title: "Sidey Family Tartan (Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Sidey"
+  url: "/clan/sidey/"
+- name: "Sidey"
+  url: "/families/sidey/"
+- name: "Sidey"
+  url: "/tartans/s/si/sidey/"
 ---
 This is the **Sidey Family Tartan (Name)** sett — one scale-free proportion (`db4w1k2db25k12t1k2g16k2r1`), colour order pattern
 [BWKBKBKGKR](/stripes/bwkbkbkgkr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db4w1k2db25k12b1k2g16k2r1~x2/"><circle cx="198.1" cy="89.7" r="4" fill="#3465a4"><title>Sidey Family (Dundee) (Personal)</title></circle></a><a href="/variants/s10/dr2db24lb6k6g6k4g2k2g2k1~x2/"><circle cx="171.0" cy="91.6" r="4" fill="#3465a4"><title>Crookdake-Cheng (Personal)</title></circle></a><a href="/variants/s11/r2k1db30k6g12y1db2y1g12k3w1~x2/"><circle cx="218.5" cy="75.9" r="4" fill="#3465a4"><title>Hororata</title></circle></a><a href="/variants/s12/db5r2y7r2db42g28k5db10k15g5w3r3/"><circle cx="181.9" cy="95.7" r="4" fill="#3465a4"><title>Héritage Séquane</title></circle></a><a href="/variants/s11/db38w2db2k10g2y2g22k3r3k3r3~x2/"><circle cx="185.5" cy="85.0" r="4" fill="#3465a4"><title>Hunnisett /Edinchip Corporate Tartan</title></circle></a><a href="/variants/s11/r2k1db30k6g12ly1db2ly1g12k3w1~x2/"><circle cx="213.9" cy="74.5" r="4" fill="#3465a4"><title>Hororata (District)</title></circle></a><a href="/variants/s12/db5r2ly7r2db42g28k5db10k15g5w3r3/"><circle cx="174.6" cy="93.5" r="4" fill="#3465a4"><title>Heritage Sequane</title></circle></a><a href="/variants/s11/db2r2db2r2db20k24g12y1k2g2lb2~x2/"><circle cx="160.4" cy="85.1" r="4" fill="#3465a4"><title>Unidentified #7</title></circle></a><a href="/variants/s11/g10db9dp4dr2dp4g6k10w4g24db60k4/"><circle cx="247.5" cy="78.6" r="4" fill="#3465a4"><title>Huaumé, Patrick Antoine (Personal)</title></circle></a><a href="/variants/s8/lg2dg9k16r2db30lg3dg6w1~x2~lg3304130-dg1202138/"><circle cx="201.8" cy="99.5" r="4" fill="#3465a4"><title>Climb, The</title></circle></a><circle cx="198.0" cy="89.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

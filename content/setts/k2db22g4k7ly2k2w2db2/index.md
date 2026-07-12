@@ -1,6 +1,13 @@
 ---
 title: "Glasgow, University of"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Glasgow"
+  url: "/clan/glasgow/"
+- name: "Glasgow, University of"
+  url: "/tartans/g/gl/glasgow-university-of/"
 ---
 This is the **Glasgow, University of** sett — one scale-free proportion (`k2db22g4k7ly2k2w2db2`), colour order pattern
 [BWKYKGBK](/stripes/bwkykgbk/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k2db22g4k7b2k2w2db2~x2/"><circle cx="258.1" cy="139.2" r="4" fill="#3465a4"><title>Glasgow, University of</title></circle></a><a href="/variants/s9/db8w2k8g12r2db3r2db24r2~x2/"><circle cx="239.4" cy="145.5" r="4" fill="#3465a4"><title>Burt #2 (Name)</title></circle></a><a href="/variants/s10/db10k1g2k2lb3k2g2k1db10w1~x8/"><circle cx="244.0" cy="146.3" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><a href="/variants/s6/k3db30k8w8k2r3~x2/"><circle cx="259.9" cy="149.0" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><a href="/variants/s7/lb3k19db24r2db2y2db2~x2/"><circle cx="262.8" cy="147.2" r="4" fill="#3465a4"><title>Mensa</title></circle></a><a href="/variants/s8/dg3k3db2k16db2k2db24lb2~x2/"><circle cx="306.5" cy="160.9" r="4" fill="#3465a4"><title>Auckland (Fashion)</title></circle></a><a href="/variants/s6/r4g2r2k5db22w2~x4/"><circle cx="273.4" cy="145.2" r="4" fill="#3465a4"><title>Reese (Personal)</title></circle></a><a href="/variants/s6/y8w3db40k12w3y3~x2/"><circle cx="290.4" cy="159.5" r="4" fill="#3465a4"><title>Wolverine (Corporate)</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="299.1" cy="111.7" r="4" fill="#3465a4"><title>MacBeth (Fashion)</title></circle></a><a href="/variants/s9/w3db1k14db2k1g6k1db30ly3~x2/"><circle cx="269.9" cy="86.5" r="4" fill="#3465a4"><title>Bro-Kerne</title></circle></a><circle cx="249.3" cy="136.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

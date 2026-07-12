@@ -1,6 +1,11 @@
 ---
 title: "Baseggio Name Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Baseggio"
+  url: "/tartans/b/ba/baseggio/"
 ---
 This is the **Baseggio Name Tartan** sett — one scale-free proportion (`db4k6g1w1r1k6db4k2y1k1y1k1y1k2y3k3`), colour order pattern
 [BKGWRKBKGKGKGKGK](/stripes/bkgwrkbkgkgkgkgk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r1db6k1db1k8g1k8dp2g1k1g6lo1~x4/"><circle cx="152.3" cy="138.0" r="4" fill="#3465a4"><title>van der Watt Personal)</title></circle></a><a href="/variants/s9/k10dp3db4dp3k7b3g8k17y2~x2/"><circle cx="213.1" cy="163.0" r="4" fill="#3465a4"><title>Ayrshire Tourist Board</title></circle></a><a href="/variants/s13/k1r1k8g1k1g8y1db8k1db1k8w1k1~x6/"><circle cx="149.6" cy="122.5" r="4" fill="#3465a4"><title>Survivor</title></circle></a><a href="/variants/s13/k1r1k8g1k1g8y1db8k1db1k8w1k1~x3/"><circle cx="149.6" cy="122.5" r="4" fill="#3465a4"><title>Survivor (Fashion)</title></circle></a><a href="/variants/s22/b14dg2b2dg14k2dg14k2dg2k9r2k8ly2k9dg2k2dg14k2dg14b2dg2b14w2~x2/"><circle cx="141.0" cy="130.0" r="4" fill="#3465a4"><title>Dow-Aerlift (Name)</title></circle></a><a href="/variants/s17/k3dg3w3dg3dpi3dg3dpi3dg15dp3k3dp3k3dp3k3dp3dg19r3~x2~dpi1607327-dp1105325/"><circle cx="201.6" cy="136.5" r="4" fill="#3465a4"><title>MacGlynn</title></circle></a><a href="/variants/s14/r2db7k5r2db5k1db5w1db5k1db5r2g7y2~x2/"><circle cx="155.6" cy="169.1" r="4" fill="#3465a4"><title>MacLellan, McLellan hunting</title></circle></a><a href="/variants/s23/k8n1k3n1k8dr9k6n4k6dr9k8n1k3n1k8n13dy1k13y5k3lo5k3lo5~x2/"><circle cx="171.9" cy="113.3" r="4" fill="#3465a4"><title>Zibrant</title></circle></a><a href="/variants/s11/k12g3y2k2g3k18dy4k2dp18g2db2~x2/"><circle cx="198.0" cy="134.7" r="4" fill="#3465a4"><title>Sturm (2016)</title></circle></a><a href="/variants/s14/dy24k4w7dy7ly4n28dy7k29dy35r7dy7w4dy4k17/"><circle cx="139.7" cy="138.6" r="4" fill="#3465a4"><title>Mauchline</title></circle></a><circle cx="161.1" cy="150.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

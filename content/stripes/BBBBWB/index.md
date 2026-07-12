@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/t11db7t3db70lb4db6/">Auchairne</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/t11db7t3db70lb4db6/"><img src="/variants/s6/t11db7t3db70lb4db6~x2~db1004274/sett.png" alt="Auchairne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/b10db6b3db62w4db5~x2/">Auchairne</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/b10db6b3db62w4db5~x2/"><img src="/variants/s6/b10db6b3db62w4db5~x2/sett.png" alt="Auchairne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/t11db7t3db70lb4db6/">Auchairne</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/t11db7t3db70lb4db6/"><img src="/variants/s6/t11db7t3db70lb4db6~x2~db1004274/sett.png" alt="Auchairne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/db3w1db12b12db1b3~x4/">Erskine Blue (Fashion)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/db3w1db12b12db1b3~x4/"><img src="/variants/s6/db3w1db12b12db1b3~x4/sett.png" alt="Erskine Blue (Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>

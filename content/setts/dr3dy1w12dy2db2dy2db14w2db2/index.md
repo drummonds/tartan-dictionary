@@ -1,6 +1,11 @@
 ---
 title: "Lord Arran (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Lord Arran"
+  url: "/tartans/l/lo/lord-arran/"
 ---
 This is the **Lord Arran (Corporate)** sett — one scale-free proportion (`dr3dy1w12dy2db2dy2db14w2db2`), colour order pattern
 [BGWGBGBWB](/stripes/bgwgbgbwb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db30t2w2t2db4ti10w25db4~x2~t2405244-ti2503227/"><circle cx="290.6" cy="191.0" r="4" fill="#3465a4"><title>Eildon/Longniddry Blue Dress Fashion Tartan</title></circle></a><a href="/variants/s8/db42lb2lbi2lb2db5dbi12lbi32db4~x2~db1204274-lb3103284-lbi3200000-dbi1404245/"><circle cx="342.0" cy="176.9" r="4" fill="#3465a4"><title>Longniddry Eildon Blue Dress Fancy Tartan</title></circle></a><a href="/variants/s8/db42lb2w2lb2db5dbi12w32db4~x2~db0805267-dbi1405255/"><circle cx="310.9" cy="168.7" r="4" fill="#3465a4"><title>Eildon (1980)</title></circle></a><a href="/variants/s8/db41lb2w2lb2db5b12w31db4~x2/"><circle cx="317.6" cy="173.4" r="4" fill="#3465a4"><title>Harmony, Eildon</title></circle></a><a href="/variants/s8/db41ti2w2ti2db5t12w31db4~x2~ti2503227-t2405244/"><circle cx="269.5" cy="153.0" r="4" fill="#3465a4"><title>Harmony Eildon</title></circle></a><a href="/variants/s8/o20db2o2db2ly3db12w18db3~x2/"><circle cx="178.1" cy="189.5" r="4" fill="#3465a4"><title>Heriot (Fashion)</title></circle></a><a href="/variants/s8/w4lb1y2lb22db20w2db4w2~x2/"><circle cx="282.1" cy="166.9" r="4" fill="#3465a4"><title>Gorman Blue (Personal)</title></circle></a><a href="/variants/s9/dy7db7dy4db26w12db3w14dr2db6/"><circle cx="262.0" cy="196.3" r="4" fill="#3465a4"><title>Aquascutum (Kinloch Anderson)</title></circle></a><a href="/variants/s10/lb4dp2lb6dp2lb10dp30g10dp2g9dp2~x2/"><circle cx="311.0" cy="185.5" r="4" fill="#3465a4"><title>Lang</title></circle></a><a href="/variants/s12/db15lb11lbi2lb1lbi1g4lbi1lb1lbi2lb11db15g5~x4~lb3103284-lbi3200000/"><circle cx="254.4" cy="181.2" r="4" fill="#3465a4"><title>Highlands Country Club</title></circle></a><circle cx="249.8" cy="174.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

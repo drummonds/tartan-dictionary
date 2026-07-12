@@ -1,6 +1,15 @@
 ---
 title: "Scott"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Scott"
+  url: "/clan/scott/"
+- name: "Scott"
+  url: "/families/scott/"
+- name: "Scott"
+  url: "/tartans/s/sc/scott-4/"
 ---
 This is the **Scott** sett — one scale-free proportion (`g4r3k1r28g14r4g4w3g4r4g4w3`), colour order pattern
 [GRKRGRGWGRGW](/stripes/grkrgrgwgrgw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r4g8w1g8r4g4r2g4r24k2~x2/"><circle cx="337.8" cy="125.7" r="4" fill="#3465a4"><title>Cumming Clan Tartan</title></circle></a><a href="/variants/s10/r4g4w3g4r4g14r28k1r3g4~x2/"><circle cx="350.3" cy="114.9" r="4" fill="#3465a4"><title>Scott - 1842 (Clan)</title></circle></a><a href="/variants/s10/r4g4w3g4r4g14r28k2r2g3~x2/"><circle cx="316.3" cy="136.7" r="4" fill="#3465a4"><title>Scott Red Clan Tartan</title></circle></a><a href="/variants/s8/r36g18r4g6k1lr2k1g2~x2/"><circle cx="321.8" cy="86.4" r="4" fill="#3465a4"><title>Strang (Personal)</title></circle></a><a href="/variants/s9/r12db2r3g20k4g20r30k2r1~x2/"><circle cx="295.0" cy="127.6" r="4" fill="#3465a4"><title>Oriel #1 (District)</title></circle></a><a href="/variants/s11/g18r3g2r2db6r2g2r24g1r2g6~x2/"><circle cx="352.6" cy="148.4" r="4" fill="#3465a4"><title>MacDonell of Glengarry #4</title></circle></a><a href="/variants/s9/r12db2r3g20k4g20r30k2r1~x2~db1406275/"><circle cx="266.0" cy="107.4" r="4" fill="#3465a4"><title>Oriel #1</title></circle></a><a href="/variants/s18/r16g8r2g2w2g2r2g2w2g2r2g8r16k1r2g3r2k1~x2/"><circle cx="302.7" cy="111.2" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s8/k2r2k1r18g24k1g2lo2~x2/"><circle cx="298.5" cy="118.2" r="4" fill="#3465a4"><title>Gleneil (Spoof)</title></circle></a><a href="/variants/s10/r6w1r24db6g2k1g2k1g12r1~x2/"><circle cx="299.9" cy="95.7" r="4" fill="#3465a4"><title>Chisholm Clan Tartan</title></circle></a><circle cx="307.1" cy="106.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

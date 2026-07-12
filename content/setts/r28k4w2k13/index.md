@@ -1,6 +1,15 @@
 ---
 title: "Dunbar Ancient"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Dunbar"
+  url: "/clan/dunbar/"
+- name: "Dunbar"
+  url: "/families/dunbar/"
+- name: "Dunbar"
+  url: "/tartans/d/du/dunbar/"
 ---
 This is the **Dunbar Ancient** sett — one scale-free proportion (`r28k4w2k13`), colour order pattern
 [KWKRKW](/stripes/kwkrkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r48k12n7k5w3~x2/"><circle cx="343.9" cy="142.5" r="4" fill="#3465a4"><title>Turner (Personal)</title></circle></a><a href="/variants/s4/k1r8k8y1~x6/"><circle cx="263.0" cy="218.1" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/variants/s4/k1r8k8y1~x4/"><circle cx="263.0" cy="218.1" r="4" fill="#3465a4"><title>Wallace (Clan)</title></circle></a><a href="/variants/s4/k1r8k8y1/"><circle cx="263.0" cy="218.1" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/variants/s4/k1r8k8y1~x2/"><circle cx="263.0" cy="218.1" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/variants/s6/db1r12k6y1k6db1~x4/"><circle cx="227.4" cy="167.1" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/variants/s4/y1k8r13g1~x6/"><circle cx="290.2" cy="176.6" r="4" fill="#3465a4"><title>Billy Apple® Red</title></circle></a><a href="/variants/s5/r41k19r7k9w3~x2/"><circle cx="327.8" cy="176.7" r="4" fill="#3465a4"><title>MacGregor, Black (Personal)</title></circle></a><a href="/variants/s6/k4r26k4w2k13y4~x2/"><circle cx="241.9" cy="155.0" r="4" fill="#3465a4"><title>Dunbar #2</title></circle></a><a href="/variants/s5/r36k18r4k7w2~x2/"><circle cx="338.0" cy="161.0" r="4" fill="#3465a4"><title>Hopkins (Name)</title></circle></a><circle cx="287.4" cy="156.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

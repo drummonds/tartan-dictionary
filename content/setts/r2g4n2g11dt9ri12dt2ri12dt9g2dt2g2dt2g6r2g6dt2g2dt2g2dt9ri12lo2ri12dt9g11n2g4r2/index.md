@@ -1,6 +1,15 @@
 ---
 title: "Shearer"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Shearer"
+  url: "/clan/shearer/"
+- name: "Shearer"
+  url: "/families/shearer/"
+- name: "Shearer"
+  url: "/tartans/s/sh/shearer/"
 ---
 This is the **Shearer** sett — one scale-free proportion (`r2g4n2g11dt9ri12dt2ri12dt9g2dt2g2dt2g6r2g6dt2g2dt2g2dt9ri12lo2ri12dt9g11n2g4r2`), colour order pattern
 [RGBGBRBRBGBGBGRGBGBGBRYRBGBGR](/stripes/rgbgbrbrbgbgbgrgbgbgbryrbgbgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s24/g4r2g3r3g16db16dr16dbi3dr3dbi2dr4y3dr4dbi2dr3dbi3dr16db16g16r3g3r2g4dbi3~x2~db1404245-dbi1406275/"><circle cx="144.4" cy="155.0" r="4" fill="#3465a4"><title>Cuthill Clan/Family Tartan</title></circle></a><a href="/variants/s18/g18r3g3r15dg13r14g3r3g18dg5g2y5g3r2g3db5g2lb5~x2/"><circle cx="180.9" cy="156.9" r="4" fill="#3465a4"><title>Ben Murad (Personal)</title></circle></a><a href="/variants/s18/t12dg4r2dy3g4dg4r20w4r14dg4g4dy3r2dg4t12dy2t8dy2~x2~dg1806142-g2408144/"><circle cx="147.7" cy="154.1" r="4" fill="#3465a4"><title>Beguinot, (Personal)</title></circle></a><a href="/variants/s30/db12g12db4dy20g12db4dy20g12db4dy20g12db4dy20g12db4dy20g12db11dy24lo4dy4w2dg20r8dy4r5w4r5dy4r8/"><circle cx="152.4" cy="133.9" r="4" fill="#3465a4"><title>Unidentified Victorian fancy</title></circle></a><a href="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2/"><circle cx="169.2" cy="181.1" r="4" fill="#3465a4"><title>Allen - 2001 (Personal)</title></circle></a><a href="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2~w4000000/"><circle cx="168.4" cy="180.8" r="4" fill="#3465a4"><title>Allen - Northumbrian (Personal)</title></circle></a><a href="/variants/s21/g4db4r4db2g12db2g12db2r4g4w1ri4dbi2r4db4dbi4db4r4db2dbi12db2~x2~db1404245-r1706009-ri2406019-dbi1406275/"><circle cx="157.2" cy="162.2" r="4" fill="#3465a4"><title>Otago Peninsula Corporate Tartan</title></circle></a><circle cx="136.8" cy="169.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

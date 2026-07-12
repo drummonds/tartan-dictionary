@@ -1,6 +1,13 @@
 ---
 title: "Campbell, New Louden"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Campbell"
+  url: "/clan/campbell/"
+- name: "Campbell, New Louden"
+  url: "/tartans/c/ca/campbell-new-louden-2/"
 ---
 This is the **Campbell, New Louden** sett — one scale-free proportion (`r25w2ly5lb2db2ly5w2g12w2o2ly2r5k2r5ly2o2w2ly9`), colour order pattern
 [RWYWBYWGWRYRKRYRWY](/stripes/rwywbywgwryrkryrwy/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/r25w2o5dg2db2o5w2g12w2b2o2r5k2r5o2b2w2o9~x2/"><circle cx="128.8" cy="70.9" r="4" fill="#3465a4"><title>Campbell, New Louden</title></circle></a><a href="/variants/s15/y10dy1g2y2lb2r1k2y2g2dy1y10r7w3r13db5~x2/"><circle cx="121.2" cy="97.0" r="4" fill="#3465a4"><title>Contrecoeur Corporate Tartan</title></circle></a><a href="/variants/s16/r4o2w2o23w2o2r4o2w2o2w12db6y2k4n2w2~x2/"><circle cx="126.9" cy="82.3" r="4" fill="#3465a4"><title>Palmer, General W.J.</title></circle></a><a href="/variants/s9/k4n13m3lr7w3ly25r2ly3o4~x2/"><circle cx="125.9" cy="106.5" r="4" fill="#3465a4"><title>Australian Donkey</title></circle></a><a href="/variants/s14/ri42r2k15r2g22y4w2dp2w2y4lb7w2dp6w6~x2~ri2209032-r2208029/"><circle cx="82.7" cy="40.8" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/variants/s23/r32w2db2dbi2lb2w2lb2dbi2db2w2k2g9k2w2ri3r3rii3g2rii3r3ri3w2g6~x2~db0804274-dbi1605267-ri1505012-rii1707033/"><circle cx="97.0" cy="14.0" r="4" fill="#3465a4"><title>MacBean MacVean</title></circle></a><a href="/variants/s14/r12w1k1g12y2db5lb6r2lb2r4g2r2k2g2~x2/"><circle cx="95.6" cy="108.2" r="4" fill="#3465a4"><title>Unidentified #31</title></circle></a><a href="/variants/s14/ri30r2k6r2g17y7w2k2w2y4lb7w2k6w6~x2~ri2209032-r2208029/"><circle cx="60.4" cy="79.2" r="4" fill="#3465a4"><title>Dundee #2</title></circle></a><a href="/variants/s24/r16g1r1g1r1g4k1w1k1y1k1lb6db4lb6k1y1k1w1k1g4r12g1r1k1~x2/"><circle cx="137.9" cy="41.4" r="4" fill="#3465a4"><title>Macan of Lurgyvallan Portrait Tartan</title></circle></a><a href="/variants/s23/ri32w2db2dbi2lb2w2lb2dbi2db2w2k2g9k2w2dr3ri3r3g2r3ri3dr3w2g6~x2~ri2008029-db0805267-dbi1604274-r1506028/"><circle cx="95.0" cy="14.0" r="4" fill="#3465a4"><title>MacBean, MacVean</title></circle></a><circle cx="112.4" cy="68.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

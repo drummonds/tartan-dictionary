@@ -1,6 +1,11 @@
 ---
 title: "Page"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Page"
+  url: "/tartans/p/pa/page/"
 ---
 This is the **Page** sett — one scale-free proportion (`g46k18g6k13r4k4w4`), colour order pattern
 [GKGKRKW](/stripes/gkgkrkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g30k12g6k6db2k5~x2/"><circle cx="314.4" cy="184.8" r="4" fill="#3465a4"><title>Fife, Duchess of..</title></circle></a><a href="/variants/s6/g70k26g12k14t3k16~x2/"><circle cx="326.8" cy="167.7" r="4" fill="#3465a4"><title>Duchess of Fife</title></circle></a><a href="/variants/s6/g70k26g12k14db3k16~x2/"><circle cx="327.1" cy="167.5" r="4" fill="#3465a4"><title>Duchess of Fife #2</title></circle></a><a href="/variants/s9/dr3g32k4g4k11db3k7dr4w3/"><circle cx="204.4" cy="139.6" r="4" fill="#3465a4"><title>Derick Wardrope (Portobello) (Personal)</title></circle></a><a href="/variants/s7/k6db1k6g4k10g20r2~x2/"><circle cx="249.7" cy="157.8" r="4" fill="#3465a4"><title>MacKinross</title></circle></a><a href="/variants/s8/g4r4k12w2k12g32r4k3~x2/"><circle cx="230.9" cy="145.1" r="4" fill="#3465a4"><title>MacHardy (Clans Originaux)</title></circle></a><a href="/variants/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="219.3" cy="188.3" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/variants/s7/g8w4g50k12g4k15ly5~x2/"><circle cx="302.6" cy="159.3" r="4" fill="#3465a4"><title>Instakilt, Green (Fashion)</title></circle></a><a href="/variants/s8/k19r1g3k7g2k2g20w2~x2/"><circle cx="259.3" cy="134.9" r="4" fill="#3465a4"><title>Scottish Chieftain</title></circle></a><a href="/variants/s8/k4g32k4g4k8w3k8lb4~x2/"><circle cx="242.6" cy="158.8" r="4" fill="#3465a4"><title>Hartmann (Personal)</title></circle></a><circle cx="253.4" cy="161.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

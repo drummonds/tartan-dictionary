@@ -1,6 +1,11 @@
 ---
 title: "Johnson, J.M."
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Johnson, J.M."
+  url: "/tartans/j/jo/johnson-j-m/"
 ---
 This is the **Johnson, J.M.** sett — one scale-free proportion (`r4dg20k16ly2k3w3k2ly18r6k2r4k1w2`), colour order pattern
 [RGKYKWKYRKRKW](/stripes/rgkykwkyrkrkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r4g22k16y2k3w3k2db20r8k2r4k1w2~x2/"><circle cx="76.1" cy="88.2" r="4" fill="#3465a4"><title>Galt Sir Alexander.. Family Tartan</title></circle></a><a href="/variants/s13/r4g20k16y2k3w3k2w18r6k2r4k1w2~x2/"><circle cx="89.8" cy="103.0" r="4" fill="#3465a4"><title>Palmer, Edward</title></circle></a><a href="/variants/s13/r24k8dg12k1g2k1dg12k8w3g2w14g1w2~x2~r2109032-dg1806142-g2508144/"><circle cx="90.2" cy="103.4" r="4" fill="#3465a4"><title>Hohenzollern Staff</title></circle></a><a href="/variants/s13/r24k8dg12k1g2k1dg12k8w3g2w14g1w2~x2~dg1806142-g2508144/"><circle cx="90.0" cy="102.9" r="4" fill="#3465a4"><title>Hohenzollern Staff (Personal)</title></circle></a><a href="/variants/s15/k3lb4r5k2lb5k2r5k2g25k3lb11k2r5k1w3~x2/"><circle cx="117.7" cy="86.9" r="4" fill="#3465a4"><title>Un-named (D C Dalgliesh)</title></circle></a><a href="/variants/s12/k10r26k2r4k2r26k3dg36k3g30k3y2~y2400000/"><circle cx="160.2" cy="113.7" r="4" fill="#3465a4"><title>Pope Welsh Name Tartan</title></circle></a><a href="/variants/s14/ly10w2dy1w2n10ly8dy2k17dy2ly7n19k3y1k1~x2/"><circle cx="102.6" cy="97.4" r="4" fill="#3465a4"><title>Scottish Wildcat</title></circle></a><a href="/variants/s11/dy5k3w2r20db10g2w1dy1g20k4dy3~x2/"><circle cx="111.4" cy="103.6" r="4" fill="#3465a4"><title>MacCulloch</title></circle></a><a href="/variants/s11/o5k3w2r20db10g2w1r1g20k4o3~x2/"><circle cx="111.6" cy="101.1" r="4" fill="#3465a4"><title>MacCullough Family Tartan</title></circle></a><a href="/variants/s14/dr27g20k7w3ly3dr2ly3w3ly6dp6k2dr3ly4dp3~x2/"><circle cx="97.6" cy="103.2" r="4" fill="#3465a4"><title>Roman (Personal)</title></circle></a><circle cx="91.0" cy="102.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

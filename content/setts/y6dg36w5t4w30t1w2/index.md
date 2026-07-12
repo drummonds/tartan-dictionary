@@ -1,6 +1,11 @@
 ---
 title: "Pearce Scotch Plaid 4 (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Pearce Scotch Plaid 4"
+  url: "/tartans/p/pe/pearce-scotch-plaid-4/"
 ---
 This is the **Pearce Scotch Plaid 4 (Fashion)** sett — one scale-free proportion (`y6dg36w5t4w30t1w2`), colour order pattern
 [GGWBWBW](/stripes/ggwbwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db4w2db1w36g21y4~x2/"><circle cx="356.1" cy="156.3" r="4" fill="#3465a4"><title>Skye, Green (Dance)</title></circle></a><a href="/variants/s8/w10db2w1db35g10ly3g10r4~x2/"><circle cx="259.6" cy="118.2" r="4" fill="#3465a4"><title>Sandelin (Personal)</title></circle></a><a href="/variants/s6/w36db12w1r12g16y2~x2/"><circle cx="232.5" cy="142.0" r="4" fill="#3465a4"><title>MacNappy Tartan</title></circle></a><a href="/variants/s8/g4dr14g14ly6dr1w30g2dr1~x2/"><circle cx="253.7" cy="157.6" r="4" fill="#3465a4"><title>British Columbia #2</title></circle></a><a href="/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi3200000-lb3103284/"><circle cx="229.7" cy="204.0" r="4" fill="#3465a4"><title>Highlands Country Club (Corporate)</title></circle></a><a href="/variants/s8/g3dr12g12ly5dr1w25g2dr1~x2/"><circle cx="244.3" cy="165.4" r="4" fill="#3465a4"><title>Dogwood Trade Tartan</title></circle></a><a href="/variants/s8/dg42g2w2g2dg5dt12w32dg4~x2~dg1806142-g2408144/"><circle cx="298.8" cy="163.9" r="4" fill="#3465a4"><title>Longniddry Green (Dance)</title></circle></a><a href="/variants/s9/g22dr2g4dr2g4dr18w24dr1lo3~x2/"><circle cx="233.5" cy="164.5" r="4" fill="#3465a4"><title>Prince Edward Island, Dress</title></circle></a><a href="/variants/s9/dr6w1dr2w25dr3g12dr3g12dr3~x2/"><circle cx="260.5" cy="177.9" r="4" fill="#3465a4"><title>Crawford Arisaid (Dance)</title></circle></a><a href="/variants/s8/dgi42g2w2g2dgi5dg12w32dgi4~x2~dgi1806142-g2408144/"><circle cx="299.2" cy="164.3" r="4" fill="#3465a4"><title>Longniddry Green District Tartan</title></circle></a><circle cx="290.8" cy="147.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Jardine, of Castlemilk"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Jardine,"
+  url: "/clan/jardine/"
 ---
 A family of [Clan Jardine,](/clan/jardine/).
 

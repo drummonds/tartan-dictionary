@@ -1,6 +1,11 @@
 ---
 title: "Dalgliesh, Ewen (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Dalgliesh, Ewen"
+  url: "/tartans/d/da/dalgliesh-ewen/"
 ---
 This is the **Dalgliesh, Ewen (Personal)** sett — one scale-free proportion (`db45dp6n6dp30dg6dp6dg30k4r4k3`), colour order pattern
 [BBBBGBGKRK](/stripes/bbbbgbgkrk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dbi6dpi10dp4dpi11dg20k4dg8k21db47dbi2~dbi1406275-dpi1607327-dp1105325-db1204274/"><circle cx="219.0" cy="135.6" r="4" fill="#3465a4"><title>Spirit of Alva (Fashion)</title></circle></a><a href="/variants/s11/db6w1dt18k6dt4k4dp8dg1dp8k2db5~x2~db1003265-dt1203284-dp0804317/"><circle cx="244.3" cy="173.2" r="4" fill="#3465a4"><title>Bute Heather, Modern</title></circle></a><a href="/variants/s11/db13w2dt38k13dt8k8dp17dg2dp17k4db11/"><circle cx="201.7" cy="155.8" r="4" fill="#3465a4"><title>Bute Heather (Fashion)</title></circle></a><a href="/variants/s10/k4db16lb2db16dr4dp7dg21dr3dg4do3~x2/"><circle cx="224.0" cy="176.7" r="4" fill="#3465a4"><title>Scottish Lion Name Tartan</title></circle></a><a href="/variants/s9/dp6db4k4db26k12dp3dbi42dy4dbi4~db1204274-dbi1605267/"><circle cx="312.7" cy="175.8" r="4" fill="#3465a4"><title>Goldblatt, Joe Jeff (Personal)</title></circle></a><a href="/variants/s11/db6ki2dp14ki5dp14ki3k4ki6k24w2dp6~x2~ki0700000-k0504259/"><circle cx="259.2" cy="183.7" r="4" fill="#3465a4"><title>Dunn (Canada) (Name)</title></circle></a><a href="/variants/s8/db24dg4k2y1k2dg4dr25dg15~x2/"><circle cx="300.5" cy="171.3" r="4" fill="#3465a4"><title>Livingstone Aus. Dress (Personal)</title></circle></a><a href="/variants/s9/dp6db4k4db26k12dp3dbi42y4dbi4~db1404245-dbi1406275/"><circle cx="302.8" cy="173.3" r="4" fill="#3465a4"><title>Goldblatt, Joe, Jeff (Personal)</title></circle></a><a href="/variants/s14/k16lb6dbi12db4dp4db4dbi35db40dbi4db4dbi4db6dp4o6~dbi1406275-db1404245/"><circle cx="226.6" cy="148.3" r="4" fill="#3465a4"><title>Benedictus Blue (Personal)</title></circle></a><a href="/variants/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/"><circle cx="242.3" cy="130.7" r="4" fill="#3465a4"><title>Newlands, Charlie (Personal)</title></circle></a><circle cx="240.0" cy="159.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

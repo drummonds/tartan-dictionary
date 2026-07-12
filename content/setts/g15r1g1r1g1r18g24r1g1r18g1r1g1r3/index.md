@@ -1,6 +1,15 @@
 ---
 title: "Robertson - 1746 (Artefact)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Robertson"
+  url: "/clan/robertson/"
+- name: "Robertson"
+  url: "/families/robertson/"
+- name: "Robertson"
+  url: "/tartans/r/ro/robertson-5/"
 ---
 This is the **Robertson - 1746 (Artefact)** sett — one scale-free proportion (`g15r1g1r1g1r18g24r1g1r18g1r1g1r3`), colour order pattern
 [GRGRGRGRGRGRGR](/stripes/grgrgrgrgrgrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r24g2r2g40r25g2r2g2r2g20~x2/"><circle cx="421.7" cy="183.4" r="4" fill="#3465a4"><title>Donachie</title></circle></a><a href="/variants/s17/g9r2g3r20g2r1g2r2g20r2g3r2g2r22g3y1r3~x2/"><circle cx="403.2" cy="135.9" r="4" fill="#3465a4"><title>Hebrides Outer</title></circle></a><a href="/variants/s14/g20r3g6r6g6r8dp2r2g20r2dp2r46dp3r8~x2/"><circle cx="397.8" cy="137.5" r="4" fill="#3465a4"><title>MacAlister of Glenbarr</title></circle></a><a href="/variants/s10/g14r4g2r2g2r4g19r30g2r9~x2/"><circle cx="416.6" cy="195.5" r="4" fill="#3465a4"><title>Livingstone</title></circle></a><a href="/variants/s11/g18r3g2r2db6r2g2r24g1r2g6~x2/"><circle cx="352.6" cy="148.4" r="4" fill="#3465a4"><title>MacDonell of Glengarry #4</title></circle></a><a href="/variants/s14/r60db2r2g63r2db2r2db20r2db2r54g2r2g40/"><circle cx="356.6" cy="120.9" r="4" fill="#3465a4"><title>Bruce - 1819 (Old)</title></circle></a><a href="/variants/s14/r2g1lo1g12r1g1r1g4r17g3r2g1r2lr2~x4/"><circle cx="342.7" cy="111.6" r="4" fill="#3465a4"><title>Hayes</title></circle></a><a href="/variants/s14/g6r2g2r18dp9r3g3r3dp9r3g24r2g2r4~x2/"><circle cx="270.6" cy="176.4" r="4" fill="#3465a4"><title>Stewart of Urrard (Clan?)</title></circle></a><a href="/variants/s13/g2r3g2r52g2r2db28r2g42r2g2r3g2~x2/"><circle cx="322.2" cy="117.9" r="4" fill="#3465a4"><title>MacQuarrie #3</title></circle></a><a href="/variants/s13/g2r3g2r52g2r2db28r2g42r2g2r3g2/"><circle cx="322.2" cy="117.9" r="4" fill="#3465a4"><title>MacQuarrie 1815</title></circle></a><circle cx="417.0" cy="150.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

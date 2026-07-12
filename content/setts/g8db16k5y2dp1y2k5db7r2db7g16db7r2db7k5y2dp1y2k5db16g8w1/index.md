@@ -1,6 +1,15 @@
 ---
 title: "Waipu"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Waipu"
+  url: "/clan/waipu/"
+- name: "Waipu"
+  url: "/families/waipu/"
+- name: "Waipu"
+  url: "/tartans/w/wa/waipu-2/"
 ---
 This is the **Waipu** sett — one scale-free proportion (`g8db16k5y2dp1y2k5db7r2db7g16db7r2db7k5y2dp1y2k5db16g8w1`), colour order pattern
 [GBKGBGKBRBGBRBKGBGKBGW](/stripes/gbkgbgkbrbgbrbkgbgkbgw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s24/db2w1db15k5g11k1r3k1g11k5db17w1db17k5g11k1r3k1g11k5db15w1db2y2~x2/"><circle cx="157.6" cy="88.7" r="4" fill="#3465a4"><title>Sacramento City Fire Department</title></circle></a><a href="/variants/s17/r2db14k2n5g3w1g3w1g3k1g3k1g3n5k2db14y2~x2/"><circle cx="136.4" cy="94.7" r="4" fill="#3465a4"><title>Service of Drymen Corporate Tartan</title></circle></a><a href="/variants/s17/dr2db14k2n5g3lb1g3lb1g3k1g3k1g3n5k2db14lo2~x2/"><circle cx="140.1" cy="95.9" r="4" fill="#3465a4"><title>Service of Drymen (Personal)</title></circle></a><a href="/variants/s11/k6g20t2dr5t2k20lo3db20g26dr3db5~x2~g2203152/"><circle cx="135.1" cy="115.6" r="4" fill="#3465a4"><title>Stephenson</title></circle></a><a href="/variants/s12/g16db7r2db7k5y2dp1y2k5db16g8w1~x2/"><circle cx="137.8" cy="116.7" r="4" fill="#3465a4"><title>Waipu (District)</title></circle></a><a href="/variants/s21/k15db15r1db15k15y1g15k1db1k1g15y1k15db15w1db15k15y1g15db1k1~x2/"><circle cx="114.0" cy="104.2" r="4" fill="#3465a4"><title>Perthshire Highland Society (Corp)</title></circle></a><a href="/variants/s12/db9lb1db1r3db14r1k12dg15dp3dg21r1dg8~x2~db1406275-dg1806142-dp1607327/"><circle cx="200.1" cy="89.3" r="4" fill="#3465a4"><title>West Highland Way</title></circle></a><a href="/variants/s16/ti16k12g2k2dg32t2dg2lr3dg2t2dg32k2g2k12ti16dr3~x2~ti2503227-t2405244/"><circle cx="178.5" cy="82.9" r="4" fill="#3465a4"><title>Scottish Ambulance Service</title></circle></a><a href="/variants/s13/y2db2w1db15k5g11k1r3k1g11k5db17w1~x2/"><circle cx="166.2" cy="108.9" r="4" fill="#3465a4"><title>Sacramento City Fire Department (P&amp;D</title></circle></a><a href="/variants/s15/db28k4lb4k4db4k4g26k2y5k2g26k4db40k4r10/"><circle cx="169.7" cy="92.0" r="4" fill="#3465a4"><title>Bailey, The House of</title></circle></a><circle cx="145.2" cy="93.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

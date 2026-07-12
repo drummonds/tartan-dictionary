@@ -1,6 +1,15 @@
 ---
 title: "Rathmore (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Rathmore"
+  url: "/clan/rathmore/"
+- name: "Rathmore"
+  url: "/families/rathmore/"
+- name: "Rathmore"
+  url: "/tartans/r/ra/rathmore-2/"
 ---
 This is the **Rathmore (Fashion)** sett — one scale-free proportion (`r40lb2r6n2r2n2lo2n9w5ri2w4lo1`), colour order pattern
 [RWRBRBYBWRWY](/stripes/rwrbrbybwrwy/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r26b2r6n2r2n2o2n9w5dg2w4o2~x2/"><circle cx="277.5" cy="116.1" r="4" fill="#3465a4"><title>Rathmore</title></circle></a><a href="/variants/s12/r26lb2r6n2r2n2ly2n9w5ri2w4ly2~x2~r2109032-ri2406019/"><circle cx="280.6" cy="119.8" r="4" fill="#3465a4"><title>Rathmore Family Tartan</title></circle></a><a href="/variants/s9/r38y1db3w1g13r6db3lb3w1~x2/"><circle cx="392.8" cy="73.0" r="4" fill="#3465a4"><title>Drummond, Ancient</title></circle></a><a href="/variants/s12/r52db12n9y2n2g2n2dg11r7n2r3db2~x2~g2408144-dg1806142/"><circle cx="366.2" cy="83.2" r="4" fill="#3465a4"><title>McPrato</title></circle></a><a href="/variants/s9/r36w1db3y1g16r8db3lb2w1~x2/"><circle cx="377.9" cy="79.9" r="4" fill="#3465a4"><title>Drummond of Perth (Logan) Clan Tartan</title></circle></a><a href="/variants/s9/r36w1db3y1g16r8db3lb2w1/"><circle cx="377.9" cy="79.9" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/variants/s9/r36w1db3y1g16r8db3t2w1~x2/"><circle cx="380.1" cy="80.9" r="4" fill="#3465a4"><title>Drummond of Perth (Clan)</title></circle></a><a href="/variants/s16/r46w1y3db1y3db1y3db1y3w1r46dp14r2w2g2dp14~x2/"><circle cx="437.9" cy="41.5" r="4" fill="#3465a4"><title>Firenze ~ Florence</title></circle></a><a href="/variants/s11/r52y2r1y2lb8db4g18r11w2db5lb8~x2/"><circle cx="340.4" cy="62.3" r="4" fill="#3465a4"><title>Doig (Personal)</title></circle></a><a href="/variants/s8/r72g3y2g26r14db6lb6w2/"><circle cx="416.9" cy="87.7" r="4" fill="#3465a4"><title>Stewart of Fingask - 1745 (Clan?)</title></circle></a><circle cx="398.4" cy="58.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

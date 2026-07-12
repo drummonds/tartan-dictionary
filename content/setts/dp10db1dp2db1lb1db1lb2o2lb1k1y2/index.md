@@ -1,6 +1,11 @@
 ---
 title: "Lieuwen, Jeffrey Pascal (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Lieuwen, Jeffrey Pascal"
+  url: "/tartans/l/li/lieuwen-jeffrey-pascal/"
 ---
 This is the **Lieuwen, Jeffrey Pascal (Personal)** sett — one scale-free proportion (`dp10db1dp2db1lb1db1lb2o2lb1k1y2`), colour order pattern
 [BBBBWBWRWKG](/stripes/bbbbwbwrwkg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dp10db1dp2db1lg1db1lg2lp2lg1k1ly2~x10/"><circle cx="184.4" cy="119.1" r="4" fill="#3465a4"><title>Lieuwen (2013)</title></circle></a><a href="/variants/s10/dp1k1w1dp10y1db2k1db2w1y1~x8/"><circle cx="237.6" cy="129.1" r="4" fill="#3465a4"><title>Regan</title></circle></a><a href="/variants/s14/n31k4n4k4n4k4n6w5k4o3dp19o3n4r3~x2/"><circle cx="189.6" cy="111.3" r="4" fill="#3465a4"><title>Sydney Academy</title></circle></a><a href="/variants/s11/dp4dg2dp24dg8k2r2k2y2k10dp2w3~x2/"><circle cx="204.3" cy="109.2" r="4" fill="#3465a4"><title>McCartney (Day)</title></circle></a><a href="/variants/s11/db4dy3db22r6w2k6w2db6n20k3n4~x2~db1406275-w4000000/"><circle cx="164.5" cy="140.1" r="4" fill="#3465a4"><title>Asman Hunting Family Tartan</title></circle></a><a href="/variants/s9/w3db25r3ri3r3ri5g10r3k2~x2~r1506028-ri2008029/"><circle cx="167.3" cy="123.4" r="4" fill="#3465a4"><title>Edinburgh District</title></circle></a><a href="/variants/s11/db20y1o1db3k1n2k1r10k1n2r4~x2/"><circle cx="250.1" cy="82.2" r="4" fill="#3465a4"><title>Blais</title></circle></a><a href="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x2/"><circle cx="251.1" cy="82.6" r="4" fill="#3465a4"><title>Blais (Personal)</title></circle></a><a href="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x4/"><circle cx="251.1" cy="82.6" r="4" fill="#3465a4"><title>Blais (Personal)</title></circle></a><a href="/variants/s10/k3ly1dbi1db6r2db1r1db1dbi10lb1~x4~dbi1605267-db1003265/"><circle cx="178.9" cy="143.8" r="4" fill="#3465a4"><title>Ertico</title></circle></a><circle cx="205.2" cy="121.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

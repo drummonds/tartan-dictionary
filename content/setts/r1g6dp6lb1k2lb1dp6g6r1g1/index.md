@@ -1,6 +1,11 @@
 ---
 title: "Wilson's No.183"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Wilson's No.183"
+  url: "/tartans/w/wi/wilson-s-no-183/"
 ---
 This is the **Wilson's No.183** sett — one scale-free proportion (`r1g6dp6lb1k2lb1dp6g6r1g1`), colour order pattern
 [GRGBWKWBGR](/stripes/grgbwkwbgr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dg14dp11lb3k5lb3dp11dg14w2~x2~dg1605139-dp1607327/"><circle cx="173.0" cy="214.1" r="4" fill="#3465a4"><title>Wilson's No.229</title></circle></a><a href="/variants/s9/db18n5db18ly14k3w3k3ly14n3~x2/"><circle cx="141.9" cy="197.0" r="4" fill="#3465a4"><title>Strakan</title></circle></a><a href="/variants/s5/k8lb3g13dp12y2~x2/"><circle cx="130.4" cy="224.4" r="4" fill="#3465a4"><title>Wilson's No.176</title></circle></a><a href="/variants/s5/dp19w2g12lb3k4~x2/"><circle cx="164.0" cy="180.0" r="4" fill="#3465a4"><title>Wilson's No.111</title></circle></a><a href="/variants/s8/g14dp11y3k5y3dp11g14ly2~x2~dp1607327/"><circle cx="165.1" cy="211.5" r="4" fill="#3465a4"><title>Wilson's No.124</title></circle></a><a href="/variants/s10/dt6ly2r6lb3k2ly6dt10r2dt3r2~x4/"><circle cx="133.5" cy="210.7" r="4" fill="#3465a4"><title>Commonwealth</title></circle></a><a href="/variants/s6/k2lb1dp6g6r1g1~x4/"><circle cx="152.4" cy="204.9" r="4" fill="#3465a4"><title>Wilson's, No 183</title></circle></a><a href="/variants/s9/db2r3g11r3db2lb2db11r2g2~x2/"><circle cx="191.4" cy="219.4" r="4" fill="#3465a4"><title>Hebridean 1</title></circle></a><a href="/variants/s13/lg12k2r2k2r2k12dg11y2dg11k12lg11k2r2~x2~lg3101240-k0700000/"><circle cx="97.6" cy="178.1" r="4" fill="#3465a4"><title>92nd Regiment Drummers' Plaid (Mil.)</title></circle></a><a href="/variants/s8/r3g6db2dbi2db11g9db2r3~x2~db1204274-dbi1406275/"><circle cx="200.1" cy="242.8" r="4" fill="#3465a4"><title>Daks (Navy)</title></circle></a><circle cx="166.4" cy="197.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -4,6 +4,9 @@
 {{ define "main" }}
 <article class="post">
   <header class="post-header">
+    {{/* Breadcrumbs (#68): the trail up the ownership ladder, from front-matter crumbs — the
+         same partial the variant and default single layouts use. Nothing renders without crumbs. */}}
+    {{ partial "crumbs.html" . }}
     <h1 style="text-align: center;">{{ .Title }}</h1>
   </header>
 

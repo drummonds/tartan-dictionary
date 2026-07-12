@@ -1,6 +1,11 @@
 ---
 title: "Aukland & District Pipe Band (Corp)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Aukland & District Pipe Band"
+  url: "/tartans/a/au/aukland-district-pipe-band/"
 ---
 This is the **Aukland & District Pipe Band (Corp)** sett — one scale-free proportion (`g164r20g6r20g23r14g4r36`), colour order pattern
 [GRGRGRGR](/stripes/grgrgrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g48r4g2r4g6r2g3r9~x2/"><circle cx="570.3" cy="170.3" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s8/g48r4g2r4g6r2g3r9/"><circle cx="570.3" cy="170.3" r="4" fill="#3465a4"><title>Menzies Hunting</title></circle></a><a href="/variants/s8/dg48r4dg2r4dg6r2dg3r9~x2/"><circle cx="560.7" cy="158.4" r="4" fill="#3465a4"><title>Menzies (Clan)</title></circle></a><a href="/variants/s8/r54g6r5g6r10g3r2g18~x2/"><circle cx="521.7" cy="163.9" r="4" fill="#3465a4"><title>Kyle Green (Name)</title></circle></a><a href="/variants/s9/r4g24r6g4r4g6r44g1w4~x2~w4000000/"><circle cx="440.1" cy="125.5" r="4" fill="#3465a4"><title>Baluch Regiment</title></circle></a><a href="/variants/s9/r5g20r5g3r4g5r36g1w4~x2/"><circle cx="430.9" cy="136.5" r="4" fill="#3465a4"><title>Baluchistan Fitzgerald Regimental Tartan</title></circle></a><a href="/variants/s10/r3g12r1g2r2g2r1g12r3k1~x4/"><circle cx="430.2" cy="175.4" r="4" fill="#3465a4"><title>Connell (Dalgliesh) (Personal)</title></circle></a><a href="/variants/s9/y2r12g2r1g32r1g2r12w2/"><circle cx="391.8" cy="129.2" r="4" fill="#3465a4"><title>MacFie</title></circle></a><a href="/variants/s10/g4r16g4r2g3r2g32w1g1w2~x2/"><circle cx="459.0" cy="133.3" r="4" fill="#3465a4"><title>Rothesay #2</title></circle></a><a href="/variants/s10/g4r16g4r2g3r2g32w2g2w3~x2/"><circle cx="414.6" cy="161.2" r="4" fill="#3465a4"><title>Rothesay Hunting Family Tartan</title></circle></a><circle cx="531.0" cy="153.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

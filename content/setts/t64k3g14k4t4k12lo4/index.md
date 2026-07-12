@@ -1,6 +1,15 @@
 ---
 title: "Murray of Elibank"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Murray"
+  url: "/clan/murray/"
+- name: "Murray of Elibank"
+  url: "/families/murray-of-elibank/"
+- name: "Murray of Elibank"
+  url: "/tartans/m/mu/murray-of-elibank/"
 ---
 This is the **Murray of Elibank** sett — one scale-free proportion (`t64k3g14k4t4k12lo4`), colour order pattern
 [BKGKBKY](/stripes/bkgkbky/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g24k2db3k2db8r2~x2/"><circle cx="305.0" cy="170.5" r="4" fill="#3465a4"><title>Shaw (Clan 1)</title></circle></a><a href="/variants/s6/k4t24k2dg13t2k3~x4~t2405244-dg1806142/"><circle cx="242.0" cy="162.7" r="4" fill="#3465a4"><title>Vance (Family Association) Corporate Family Tartan</title></circle></a><a href="/variants/s6/t52k28lr5k3lr2k10~x2/"><circle cx="305.3" cy="151.1" r="4" fill="#3465a4"><title>St. Andrews, Earl of (District)</title></circle></a><a href="/variants/s8/y3g2k1g30db24k2db2k2/"><circle cx="303.2" cy="121.8" r="4" fill="#3465a4"><title>Johnston</title></circle></a><a href="/variants/s8/y3g2k1g30db24k2db2k2~x2/"><circle cx="303.2" cy="121.8" r="4" fill="#3465a4"><title>Johnston Clan Tartan</title></circle></a><a href="/variants/s6/g50db20k3db2o2db5~x2/"><circle cx="379.3" cy="145.9" r="4" fill="#3465a4"><title>St Andrews Hotel, Golf Resort, and SPA</title></circle></a><a href="/variants/s6/g50db20k3db2dy2db5~x2/"><circle cx="380.3" cy="146.5" r="4" fill="#3465a4"><title>St Andrews Old Course Hotel Corporate Tartan</title></circle></a><a href="/variants/s6/g45db14k3db2dy2db5~x2/"><circle cx="388.1" cy="148.5" r="4" fill="#3465a4"><title>St Andrews Old Course Hotel, Golf Course and Spa</title></circle></a><a href="/variants/s6/k3lb1g21k2dr3lb2~x2/"><circle cx="356.5" cy="138.0" r="4" fill="#3465a4"><title>Leach Hunting</title></circle></a><a href="/variants/s7/g23db3k8db4g4db56ly8/"><circle cx="324.7" cy="146.5" r="4" fill="#3465a4"><title>Tern House</title></circle></a><circle cx="355.9" cy="128.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

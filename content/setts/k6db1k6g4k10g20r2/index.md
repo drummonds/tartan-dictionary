@@ -1,6 +1,11 @@
 ---
 title: "MacKinross"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "MacKinross"
+  url: "/tartans/m/ma/mackinross/"
 ---
 This is the **MacKinross** sett — one scale-free proportion (`k6db1k6g4k10g20r2`), colour order pattern
 [KBKGKGR](/stripes/kbkgkgr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g70k26g12k14db3k16~x2/"><circle cx="327.1" cy="167.5" r="4" fill="#3465a4"><title>Duchess of Fife #2</title></circle></a><a href="/variants/s6/g70k26g12k14t3k16~x2/"><circle cx="326.8" cy="167.7" r="4" fill="#3465a4"><title>Duchess of Fife</title></circle></a><a href="/variants/s6/g30k12g6k6db2k5~x2/"><circle cx="314.4" cy="184.8" r="4" fill="#3465a4"><title>Fife, Duchess of..</title></circle></a><a href="/variants/s8/g4r4k12w2k12g32r4k3~x2/"><circle cx="230.9" cy="145.1" r="4" fill="#3465a4"><title>MacHardy (Clans Originaux)</title></circle></a><a href="/variants/s7/g46k18g6k13r4k4w4~x2/"><circle cx="253.4" cy="161.5" r="4" fill="#3465a4"><title>Page</title></circle></a><a href="/variants/s8/k3r1g32k12w1k12r1g3~x2/"><circle cx="300.5" cy="107.9" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s6/r3g30k12g6k16y2~x2/"><circle cx="254.0" cy="177.4" r="4" fill="#3465a4"><title>MacArthur (Variant)</title></circle></a><a href="/variants/s6/dr3g30k12g1k16lo2~x2/"><circle cx="268.0" cy="142.0" r="4" fill="#3465a4"><title>MacArthur-Fox Htg (Personal)</title></circle></a><a href="/variants/s6/r1g16k8g3k4y1/"><circle cx="289.1" cy="165.8" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/variants/s6/r1g16k8g3k4y1~x2/"><circle cx="289.1" cy="165.8" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><circle cx="249.7" cy="157.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

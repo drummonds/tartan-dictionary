@@ -1,6 +1,11 @@
 ---
 title: "Motherwell Football Club 1991"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Motherwell Football Club 1991"
+  url: "/tartans/m/mo/motherwell-football-club-1991/"
 ---
 This is the **Motherwell Football Club 1991** sett — one scale-free proportion (`dr6y1dr6k3dr12k15r1dr30k1w2`), colour order pattern
 [BGBKBKRBKW](/stripes/bgbkbkrbkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k5dr40k4w2k4dr10w4dr5w1~x2/"><circle cx="459.5" cy="93.6" r="4" fill="#3465a4"><title>Southern Illinois University - Carbondale</title></circle></a><a href="/variants/s9/dr18k1dy3k1lr1dr3k2dr2lr2~x4/"><circle cx="428.4" cy="120.5" r="4" fill="#3465a4"><title>Anthony Plaid Red</title></circle></a><a href="/variants/s9/dr2k6dr24g2dr2r1dr6k1r2~x2/"><circle cx="486.2" cy="115.0" r="4" fill="#3465a4"><title>Fitzgibbon Red</title></circle></a><a href="/variants/s13/w2k2lb2y2k2dr6k1dr12k2dr6w1dr23k1~x2/"><circle cx="425.3" cy="81.8" r="4" fill="#3465a4"><title>Wilding, Michael John (Personal)</title></circle></a><a href="/variants/s9/dr74k4dr7k4dr9k40w2k4n2/"><circle cx="428.9" cy="97.0" r="4" fill="#3465a4"><title>Llewellen of Wales</title></circle></a><a href="/variants/s10/k4w1r4k2g2r3k22r2k2r2/"><circle cx="364.1" cy="90.9" r="4" fill="#3465a4"><title>Valdres Kvam and Vang District Tartan</title></circle></a><a href="/variants/s10/dy36k3r6k3dy10r5dy3lo4k1dy2~x2/"><circle cx="433.2" cy="90.6" r="4" fill="#3465a4"><title>Mead Hunting (Personal)</title></circle></a><a href="/variants/s11/dr9db1dr2db3dr28k12lb1dr6lb1db6r1~x2/"><circle cx="395.3" cy="103.0" r="4" fill="#3465a4"><title>New York Caledonian Club Dress</title></circle></a><a href="/variants/s9/dr12g6k1g2k1g1k6dr24w2~x2/"><circle cx="370.1" cy="116.9" r="4" fill="#3465a4"><title>Stuart/Stewart of Bute Hunting</title></circle></a><a href="/variants/s11/r9db1r2db3r28k12lb1r6lb1db6ri1~x2~r1807033-ri2109032/"><circle cx="352.7" cy="81.6" r="4" fill="#3465a4"><title>New York Caledonian Club Dress</title></circle></a><circle cx="417.1" cy="94.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

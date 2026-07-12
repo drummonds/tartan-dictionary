@@ -1,6 +1,11 @@
 ---
 title: "Organic"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Organic"
+  url: "/tartans/o/or/organic/"
 ---
 This is the **Organic** sett — one scale-free proportion (`yi25dp3yi8dp13y8lr2g11yi2dp3`), colour order pattern
 [BGGYGBGBG](/stripes/bggygbgbg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y7db32dp4db4dp8db4dp8g32y3~x2/"><circle cx="263.0" cy="211.7" r="4" fill="#3465a4"><title>Children 1st (Corporate)</title></circle></a><a href="/variants/s10/ly3dg17t3dg3t3do5t18dr2t8dr2~x2/"><circle cx="302.8" cy="214.0" r="4" fill="#3465a4"><title>Donegal, County</title></circle></a><a href="/variants/s7/dr4db15w2n15g30dr2g4~x2/"><circle cx="294.0" cy="204.5" r="4" fill="#3465a4"><title>Sinclair Green (Personal)</title></circle></a><a href="/variants/s10/w2t4dy3dt3dy3dt20dy3t16dt8lb2~x2~t2102222-dt1102249/"><circle cx="309.9" cy="205.2" r="4" fill="#3465a4"><title>Sverker</title></circle></a><a href="/variants/s9/n16y1n2y1n2db6w4dy1dg6~x2/"><circle cx="281.7" cy="158.7" r="4" fill="#3465a4"><title>Nickel Lodge Centennial</title></circle></a><a href="/variants/s8/w5t32n5g6n5dr16n39ly5~x2/"><circle cx="269.5" cy="221.1" r="4" fill="#3465a4"><title>Washington DC (Fashion)</title></circle></a><a href="/variants/s10/dy9n4dy2n4dy2n30dy9n4lb14lo2~x2/"><circle cx="359.3" cy="192.6" r="4" fill="#3465a4"><title>Hanna of Leith (yellow line)</title></circle></a><a href="/variants/s9/n18y1n2y1n2db6w4dy1g6~x2/"><circle cx="310.8" cy="153.0" r="4" fill="#3465a4"><title>Nickel Lodge Centennial Corporate Tartan</title></circle></a><a href="/variants/s7/g3dy32g4lb3g18dp18lo3~x2/"><circle cx="246.7" cy="210.7" r="4" fill="#3465a4"><title>Wcwm 9275-1410</title></circle></a><a href="/variants/s7/dt4t28dt11w2dt2g14y2~x2/"><circle cx="308.9" cy="212.2" r="4" fill="#3465a4"><title>Rhode Island, State of</title></circle></a><circle cx="284.3" cy="207.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

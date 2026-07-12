@@ -1,6 +1,11 @@
 ---
 title: "Auburn University (Alabama)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Auburn University"
+  url: "/tartans/a/au/auburn-university/"
 ---
 This is the **Auburn University (Alabama)** sett — one scale-free proportion (`db3o3db24o30db3o2`), colour order pattern
 [BRBRBR](/stripes/brbrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db2o28g13o2db13o2~x4/"><circle cx="359.1" cy="217.0" r="4" fill="#3465a4"><title>Edinchat</title></circle></a><a href="/variants/s6/o15r5o30db32o4y3~x2/"><circle cx="339.7" cy="215.1" r="4" fill="#3465a4"><title>Cameron, hunting</title></circle></a><a href="/variants/s5/db16o2db16o19r4~x3/"><circle cx="341.9" cy="258.1" r="4" fill="#3465a4"><title>Unidentified 17</title></circle></a><a href="/variants/s6/dp6o2dp29o29dp2o6~x2/"><circle cx="432.9" cy="227.7" r="4" fill="#3465a4"><title>Harmony, 11</title></circle></a><a href="/variants/s5/lb15do15lb15do80r6/"><circle cx="454.8" cy="200.3" r="4" fill="#3465a4"><title>Coca Cola (Corporate)</title></circle></a><a href="/variants/s6/db2r7db2r7db22y2~x2/"><circle cx="397.6" cy="205.4" r="4" fill="#3465a4"><title>MacQueen variant</title></circle></a><a href="/variants/s6/o11db1o3dbi1db9r1~x4~db0805267-dbi1604274/"><circle cx="318.6" cy="194.1" r="4" fill="#3465a4"><title>Dege, of Saville Row</title></circle></a><a href="/variants/s6/db48r18db6r13y4r14~x2/"><circle cx="346.9" cy="211.9" r="4" fill="#3465a4"><title>Butler</title></circle></a><a href="/variants/s7/db4r1db18r18db1r1w1~x2/"><circle cx="373.1" cy="165.5" r="4" fill="#3465a4"><title>St. Mildreds Check (School)</title></circle></a><a href="/variants/s9/db3dy1db14r14dy1r1dy1r1db2~x4/"><circle cx="349.0" cy="164.7" r="4" fill="#3465a4"><title>Breckon</title></circle></a><circle cx="415.5" cy="212.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

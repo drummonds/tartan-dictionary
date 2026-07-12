@@ -1,6 +1,11 @@
 ---
 title: "Sweetheart, The"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Sweetheart, The"
+  url: "/tartans/s/sw/sweetheart-the/"
 ---
 This is the **Sweetheart, The** sett — one scale-free proportion (`dr6n5dr23k20m6k3o4k10dr14r45k7r6`), colour order pattern
 [BBBKRKRKBRKR](/stripes/bbbkrkrkbrkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr6lb5dr23k20rii6k3r4k10dr14ri45k7ri6~rii2806019-r1807033-ri2109032/"><circle cx="130.4" cy="109.0" r="4" fill="#3465a4"><title>Sweetheart (Fashion)</title></circle></a><a href="/variants/s11/ri16r3k12dy10k3ri3y3k3db2ri2w1~x2~ri2109032-r1807008/"><circle cx="111.0" cy="98.9" r="4" fill="#3465a4"><title>Colville (Personal)</title></circle></a><a href="/variants/s11/db6y1r18k6r4k4dp8dg1dp8k1db5~x2~db1003265-dp1206332/"><circle cx="140.3" cy="119.0" r="4" fill="#3465a4"><title>Bute Heather, Autumn</title></circle></a><a href="/variants/s11/r2db2k3y3r3k3dy10k12dr3r16w1~x2/"><circle cx="108.0" cy="97.9" r="4" fill="#3465a4"><title>Unnamed 18th century plaid (Carlisle Museum)</title></circle></a><a href="/variants/s10/y2dp16k1r5k1o8k1r5k16g2~x4/"><circle cx="120.2" cy="111.8" r="4" fill="#3465a4"><title>Tribal #2</title></circle></a><a href="/variants/s11/lb3k1dr12k1dr1k2dr1k6r12k1lo1~x4/"><circle cx="144.0" cy="118.8" r="4" fill="#3465a4"><title>McCandlish, Red (Name)</title></circle></a><a href="/variants/s10/y2dp16k1r5k1lo8k1r5k16lg2~x4/"><circle cx="102.5" cy="106.2" r="4" fill="#3465a4"><title>Tribal</title></circle></a><a href="/variants/s14/y2r11k3r4k7y2k3dp4k3dp11k3dg1g1y1~x2~y2505139-g2408144/"><circle cx="93.4" cy="124.2" r="4" fill="#3465a4"><title>King, Garry (Personal)</title></circle></a><a href="/variants/s14/k20r6k4r6dg15w2g5w2dg15r30k4r5lb2r6~x2/"><circle cx="145.0" cy="100.5" r="4" fill="#3465a4"><title>Drummond - 1739 Lord John (Artefact)</title></circle></a><a href="/variants/s14/db12r30db2lb2k8lb2k4ly2k4dg15r8k2r4lb2~x2/"><circle cx="148.0" cy="89.0" r="4" fill="#3465a4"><title>Brown of Castledean (Artefact)</title></circle></a><circle cx="134.6" cy="109.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

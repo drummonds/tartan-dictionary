@@ -1,6 +1,11 @@
 ---
 title: "Ferster, James Carney"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Ferster, James Carney"
+  url: "/tartans/f/fe/ferster-james-carney-2/"
 ---
 This is the **Ferster, James Carney** sett — one scale-free proportion (`k16w3lr4dp35b12`), colour order pattern
 [BBYWKK](/stripes/bbywkk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/t11db5g4w3r3k16db28t2~x2/"><circle cx="167.9" cy="135.2" r="4" fill="#3465a4"><title>Scottish Italian</title></circle></a><a href="/variants/s8/dg4lb2db18r2k4r6lb1w1~x4/"><circle cx="193.3" cy="109.2" r="4" fill="#3465a4"><title>Glenn</title></circle></a><a href="/variants/s8/r2lb5k4y1k4db16k3g2~x4/"><circle cx="160.0" cy="124.6" r="4" fill="#3465a4"><title>Arundel County (Dalgleish)</title></circle></a><a href="/variants/s9/w3db22k2r3k2r5g7b2k2~x2/"><circle cx="156.1" cy="119.3" r="4" fill="#3465a4"><title>Edinburgh</title></circle></a><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="230.0" cy="140.2" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s8/w1dp3g6k1db12ly1db2ly1~x4/"><circle cx="212.0" cy="135.2" r="4" fill="#3465a4"><title>Lambert, Patrice (Personal)</title></circle></a><a href="/variants/s6/t12db35lb4w3k11dr5~x2/"><circle cx="196.9" cy="157.0" r="4" fill="#3465a4"><title>Ferster, James Carney (Personal)</title></circle></a><a href="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/"><circle cx="251.3" cy="147.5" r="4" fill="#3465a4"><title>Shearer (2016)</title></circle></a><a href="/variants/s9/w8db50k4r8k6r12g17dp7k4/"><circle cx="141.2" cy="120.1" r="4" fill="#3465a4"><title>Edinburgh</title></circle></a><a href="/variants/s8/y1db2y1db12k1g6dp3w1~x4/"><circle cx="226.7" cy="139.9" r="4" fill="#3465a4"><title>Lambert, Patrice (Personal)</title></circle></a><circle cx="188.9" cy="148.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

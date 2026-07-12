@@ -1,6 +1,15 @@
 ---
 title: "YMCA Corporate Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan YMCA"
+  url: "/clan/ymca/"
+- name: "YMCA"
+  url: "/families/ymca/"
+- name: "YMCA"
+  url: "/tartans/y/ym/ymca/"
 ---
 This is the **YMCA Corporate Tartan** sett — one scale-free proportion (`k4w1k54w1k4w1k8w1`), colour order pattern
 [KWKKKKWKWKW](/stripes/kwkkkkwkwkw/). It is recorded as a single **variant**, below.

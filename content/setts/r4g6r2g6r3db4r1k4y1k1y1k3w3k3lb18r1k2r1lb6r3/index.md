@@ -1,6 +1,15 @@
 ---
 title: "Anderson Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Anderson"
+  url: "/clan/anderson/"
+- name: "Anderson"
+  url: "/families/anderson/"
+- name: "Anderson"
+  url: "/tartans/a/an/anderson-16/"
 ---
 This is the **Anderson Family Tartan** sett — one scale-free proportion (`r4g6r2g6r3db4r1k4y1k1y1k3w3k3lb18r1k2r1lb6r3`), colour order pattern
 [RGRGRBRKGKGKWKWRKRWR](/stripes/rgrgrbrkgkgkwkwrkrwr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/r3g6k1r2k1g6db4r1k4y1k1y1k3w3k3lb18k1r2k1lb6r3~x2/"><circle cx="59.3" cy="57.6" r="4" fill="#3465a4"><title>Anderson P</title></circle></a><a href="/variants/s22/o6lb12k2r3k2lb40k6w6k6y3k3y3k12r3db12r3o14k2r3k2o14r5/"><circle cx="60.8" cy="48.9" r="4" fill="#3465a4"><title>Anderson 1</title></circle></a><a href="/variants/s22/dy6lb12k2r3k2lb40k6w6k6y3k3y3k12r3db12r3dy14k2r3k2dy14r5/"><circle cx="58.2" cy="49.0" r="4" fill="#3465a4"><title>Anderson (Paton)</title></circle></a><a href="/variants/s22/r3g6k1r2k1g6r2db5r2k2y2k2y2k3w3k3lb14k1r2k1lb6r3~x2/"><circle cx="14.0" cy="83.6" r="4" fill="#3465a4"><title>Anderson Variant Clan Tartan</title></circle></a><a href="/variants/s24/r4g6r1g2r3g2r1g6r3db2r1k2y1k1y1k2w2k2lb18r1k1r1lb3r2~x2/"><circle cx="72.9" cy="49.4" r="4" fill="#3465a4"><title>Anderson (MacGregor-Hastie #4)</title></circle></a><a href="/variants/s24/r3g6r1db1r2db1r1g6r2db4r1k4y1k2y1k2w3db4lb14r1db1r1lb4r3~x2/"><circle cx="19.5" cy="75.0" r="4" fill="#3465a4"><title>Anderson (STS)</title></circle></a><a href="/variants/s20/r8lb10r4lb14r8db10r5k9y4k4y4k7w8k8g36r2k4r2g8r6/"><circle cx="25.4" cy="78.8" r="4" fill="#3465a4"><title>Anderson of Kinnedar, hunting</title></circle></a><a href="/variants/s9/w37k4db12g12w2lr2r23k4r6~x2~lr2805035-r1506019/"><circle cx="75.7" cy="88.4" r="4" fill="#3465a4"><title>Hebridean Arisaid Red (Dance)</title></circle></a><a href="/variants/s20/r4lb5r2lb7r4db5r3k5dy2k3dy2k4w4k4g18r1k2r1g4r3~x2/"><circle cx="19.7" cy="80.9" r="4" fill="#3465a4"><title>Anderson of Kinneddar Hunting</title></circle></a><a href="/variants/s19/k3r1g2r2w20db3w3r7k2r2k2r2k7g2k2g2k2g8y3~x2/"><circle cx="66.0" cy="70.0" r="4" fill="#3465a4"><title>Princess Beatrice, dress</title></circle></a><circle cx="57.8" cy="66.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

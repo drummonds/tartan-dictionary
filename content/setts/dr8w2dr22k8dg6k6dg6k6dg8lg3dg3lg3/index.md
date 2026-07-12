@@ -1,6 +1,15 @@
 ---
 title: "Wcwm 1712"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Wcwm"
+  url: "/clan/wcwm/"
+- name: "Wcwm"
+  url: "/families/wcwm/"
+- name: "Wcwm 1712"
+  url: "/tartans/w/wc/wcwm-1712/"
 ---
 This is the **Wcwm 1712** sett — one scale-free proportion (`dr8w2dr22k8dg6k6dg6k6dg8lg3dg3lg3`), colour order pattern
 [BWBKGKGKGYGY](/stripes/bwbkgkgkgygy/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r8ly2r22k10dg6k6dg10k6dg10dgi3dg3dgi4~x2~dg1303152-dgi1605139/"><circle cx="113.4" cy="162.2" r="4" fill="#3465a4"><title>Iona</title></circle></a><a href="/variants/s13/dp11k1dr1k1dr1k7g8k1g8k7dp8k1r1~x4/"><circle cx="130.0" cy="146.0" r="4" fill="#3465a4"><title>Red Hackle (Military)</title></circle></a><a href="/variants/s8/k3r9k14o3k14dg24k2o3~x2~o2402028/"><circle cx="122.5" cy="152.7" r="4" fill="#3465a4"><title>Cavan Irish County Tartan</title></circle></a><a href="/variants/s13/do24g5n2k14dr2k3g3k3n14do6k4do3g2~x2/"><circle cx="176.6" cy="142.6" r="4" fill="#3465a4"><title>Berwick (Fashion)</title></circle></a><a href="/variants/s15/n12k2n2k2n2k12dr12k1dy2k1dr12k12n12k1r2~x2/"><circle cx="159.4" cy="139.1" r="4" fill="#3465a4"><title>Flaumandrum</title></circle></a><a href="/variants/s10/k4dy6ly3dy10dt14r6k18r6dt4r2~x2/"><circle cx="93.7" cy="182.3" r="4" fill="#3465a4"><title>Tupper, Sir Charles</title></circle></a><a href="/variants/s9/lb1k1dr10g10k5db5dr10k1lb1~x4/"><circle cx="180.9" cy="171.7" r="4" fill="#3465a4"><title>Graham of Montrose Red</title></circle></a><a href="/variants/s11/o6k3dg3k6dr2k2dr2k6dg3o14dy2~x2/"><circle cx="141.0" cy="173.3" r="4" fill="#3465a4"><title>Fountain of the Strong</title></circle></a><a href="/variants/s10/o4k16oi5n8oi2dp2oi2dp2n8k3~x2~oi2500000-n1900000/"><circle cx="118.1" cy="168.7" r="4" fill="#3465a4"><title>Ryukoku University Heian JHS (Corp)</title></circle></a><a href="/variants/s11/do10dr4do4dr4do20k20dr3g20dr4g4ly4~x2~do1402055-g2203152/"><circle cx="132.4" cy="188.8" r="4" fill="#3465a4"><title>Cameron of Erracht (WCWM)</title></circle></a><circle cx="140.2" cy="163.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

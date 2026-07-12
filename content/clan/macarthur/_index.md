@@ -1,8 +1,11 @@
 ---
 title: "Clan MacArthur"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
-*A clan defined by its tartans — the dictionary holds no separate clan history for it, only the cloth that carries its name.*
+Green and blue clan sett sharing the MacDonald, Lord of the Isles form, reflecting the MacArthurs' hereditary piper links.
 
 ## Tartan
 

@@ -1,6 +1,15 @@
 ---
 title: "Kildonan Brown (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Kildonan"
+  url: "/clan/kildonan/"
+- name: "Kildonan"
+  url: "/families/kildonan/"
+- name: "Kildonan"
+  url: "/tartans/k/ki/kildonan-3/"
 ---
 This is the **Kildonan Brown (Fashion)** sett — one scale-free proportion (`dy22do3dy3do3dy3do9lb28do3lb6`), colour order pattern
 [GBGBGBWBW](/stripes/gbgbgbwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db3y2db30y19ly14y2ly3~x2/"><circle cx="295.5" cy="208.6" r="4" fill="#3465a4"><title>Bannockbane Brown #2</title></circle></a><a href="/variants/s10/dr18ly2b6ly2b4ly2b12ly3dr4g2~x2/"><circle cx="249.2" cy="206.9" r="4" fill="#3465a4"><title>Unnamed</title></circle></a><a href="/variants/s10/lb4dp2lb6dp2lb10dp30g10dp2g9dp2~x2/"><circle cx="311.0" cy="185.5" r="4" fill="#3465a4"><title>Lang</title></circle></a><a href="/variants/s8/n9do1n1do1n1do7w7do2~x4/"><circle cx="261.5" cy="241.6" r="4" fill="#3465a4"><title>Grey Watch, Dress</title></circle></a><a href="/variants/s8/g1lb4dy12lb3dy6lb12g1lb1~x4/"><circle cx="328.7" cy="221.0" r="4" fill="#3465a4"><title>O'Neill Pipe Band 1970 (Corporate)</title></circle></a><a href="/variants/s6/g4lb31g7dr14g11dr3~x2/"><circle cx="279.4" cy="246.2" r="4" fill="#3465a4"><title>Gleneagles USA (Dalgleish)</title></circle></a><a href="/variants/s8/r17db2r2db13r2db2g17db2~x2/"><circle cx="236.5" cy="215.3" r="4" fill="#3465a4"><title>Red Remony Trade Tartan</title></circle></a><a href="/variants/s10/dg5dr2dg2lr34dg18dr4dg4lr4dg4dr4~x2/"><circle cx="318.0" cy="168.1" r="4" fill="#3465a4"><title>Buccleuch Dress (Fashion)</title></circle></a><a href="/variants/s7/g22dp22g3dp11w3dp4w3~x2/"><circle cx="319.8" cy="240.4" r="4" fill="#3465a4"><title>O'Long (Personal)</title></circle></a><a href="/variants/s12/db3dy14g2dy2g2dy3g6w18db3dy2db2dy2~x2/"><circle cx="186.0" cy="181.4" r="4" fill="#3465a4"><title>Raibert Check</title></circle></a><circle cx="268.3" cy="212.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

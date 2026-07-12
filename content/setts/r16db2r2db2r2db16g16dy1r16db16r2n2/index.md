@@ -1,6 +1,11 @@
 ---
 title: "Army Medical Services"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Army Medical Services"
+  url: "/tartans/a/ar/army-medical-services/"
 ---
 This is the **Army Medical Services** sett — one scale-free proportion (`r16db2r2db2r2db16g16dy1r16db16r2n2`), colour order pattern
 [BRBRGGBRBRBR](/stripes/brbrggbrbrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db16r1db1r1g12r16w2r16g12db12r1db1~x2/"><circle cx="218.1" cy="163.7" r="4" fill="#3465a4"><title>Fraser of Lovat Clan Tartan</title></circle></a><a href="/variants/s10/db5lb2db11g2db2g6r17y9db1r1~x2/"><circle cx="188.7" cy="158.3" r="4" fill="#3465a4"><title>Clarks No.1</title></circle></a><a href="/variants/s14/y4dr23r4dr2r4lb19w4lb19r4dr2r4dr23y4dr2~x2~r2108022/"><circle cx="206.5" cy="145.4" r="4" fill="#3465a4"><title>Scottish Institute of Sport</title></circle></a><a href="/variants/s13/b4r4db44w6db5o4db3o8db3o16b4r22w4/"><circle cx="216.3" cy="128.8" r="4" fill="#3465a4"><title>Largs</title></circle></a><a href="/variants/s12/o4w2o2r3o19b6db3b2db2b2db15o3~x2/"><circle cx="232.4" cy="161.2" r="4" fill="#3465a4"><title>Scotch, House Cailean</title></circle></a><a href="/variants/s15/lb3ly8r2ly8db11r2ly4ri4r27db1r2db2r2db13r2~x2~r1706009-ri2109032/"><circle cx="222.5" cy="100.8" r="4" fill="#3465a4"><title>Strathdon (District?)</title></circle></a><a href="/variants/s14/n3dg19r2dg2r2db10r17dg2r2dg2r3lb2r3lb3~x2/"><circle cx="208.5" cy="147.9" r="4" fill="#3465a4"><title>Manx Heritage</title></circle></a><a href="/variants/s15/lb3r24db4r8g32r4db4r8g4r4db32r8g4r4lb2~x2/"><circle cx="236.6" cy="141.7" r="4" fill="#3465a4"><title>MacIntyre (of Gatehouse)</title></circle></a><a href="/variants/s9/g5dr1r4db2r20g12db16r4dr1~x2/"><circle cx="260.8" cy="163.7" r="4" fill="#3465a4"><title>Diana Princess of Wales</title></circle></a><a href="/variants/s16/dt4lr4db7lr4dt3lr22dbi8dt8dbi8dt8dbi8dt8dbi8dt8lr34r4~x2~db1404245-dbi1406275/"><circle cx="189.4" cy="153.1" r="4" fill="#3465a4"><title>Perry Golf</title></circle></a><circle cx="228.2" cy="148.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

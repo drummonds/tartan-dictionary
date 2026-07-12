@@ -1,6 +1,11 @@
 ---
 title: "Wilson's No.231"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Wilson's No.231"
+  url: "/tartans/w/wi/wilson-s-no-231/"
 ---
 This is the **Wilson's No.231** sett — one scale-free proportion (`dp8k9y2dg10k2dg10y2k9dp8dg2`), colour order pattern
 [BKGGKGGKBG](/stripes/bkggkggkbg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dp17k18w2g17k3g17w2k18dp17g3~x2~dp1607327-g2203152/"><circle cx="128.2" cy="195.4" r="4" fill="#3465a4"><title>Wilson's No.076</title></circle></a><a href="/variants/s10/dp9k11lb2g9k3g9lb2k11dp9k3~x2~dp1607327/"><circle cx="117.9" cy="224.0" r="4" fill="#3465a4"><title>Scott, Sir Walter</title></circle></a><a href="/variants/s10/dg12k14db11r3db3r3db11k14dg12y3~x2~dg1605139/"><circle cx="86.0" cy="227.3" r="4" fill="#3465a4"><title>Wilson's No.112 (Blue)</title></circle></a><a href="/variants/s10/dg8k9db7r2db2r2db7k9dg8t3~x2~t2503227/"><circle cx="88.4" cy="237.4" r="4" fill="#3465a4"><title>Wellington (Wilson)</title></circle></a><a href="/variants/s12/dp12k12dg12k2dg12k11dg12k2dg12k12dp12y3~x2~dp1607327-dg1605139/"><circle cx="142.2" cy="233.2" r="4" fill="#3465a4"><title>Wilson's No.157 #2</title></circle></a><a href="/variants/s12/dp12k13dg12y2dg12k13dg12y2dg12k13dp12k2~x2~dp1607327-dg1605139/"><circle cx="142.8" cy="227.7" r="4" fill="#3465a4"><title>Wilson's No.064</title></circle></a><a href="/variants/s9/db10r7db31k25dg23k8db7r8ly5~x2/"><circle cx="122.0" cy="202.0" r="4" fill="#3465a4"><title>MacAllum of Berwick (Clan?)</title></circle></a><a href="/variants/s6/r8dg20k20db20k3r8~x2/"><circle cx="104.7" cy="243.2" r="4" fill="#3465a4"><title>Atholl Highlanders (Military)</title></circle></a><a href="/variants/s9/db10r7db31k25dg23k8db7k8y5~x2/"><circle cx="151.8" cy="209.9" r="4" fill="#3465a4"><title>MacCallum of Berwick</title></circle></a><a href="/variants/s11/lo2k1dr6k2db7k2db7k2dr7k1lb2~x4/"><circle cx="129.8" cy="189.4" r="4" fill="#3465a4"><title>Mount Isla</title></circle></a><circle cx="138.1" cy="235.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

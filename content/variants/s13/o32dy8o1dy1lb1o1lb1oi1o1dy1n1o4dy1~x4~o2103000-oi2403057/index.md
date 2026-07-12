@@ -73,7 +73,7 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/n110o3lr14w1dp10w1lr6o3dp4n2~x2~n1700000-lr2800000/"><circle cx="574.8" cy="85.9" r="4" fill="#3465a4"><title>Vetoclock</title></circle></a><a href="/variants/s10/n110lp3o14w1dp10w1o6lp3dp4n2~x2~n1900000-o2500000/"><circle cx="602.7" cy="98.4" r="4" fill="#3465a4"><title>Vetoclock</title></circle></a><a href="/variants/s9/n44do4n1k1n4y4k1db4do4~x2/"><circle cx="556.8" cy="96.1" r="4" fill="#3465a4"><title>Fermanagh (1990)</title></circle></a><circle cx="573.5" cy="94.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 

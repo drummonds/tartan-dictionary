@@ -1,6 +1,15 @@
 ---
 title: "MacNab 1"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacNab"
+  url: "/clan/macnab/"
+- name: "MacNab"
+  url: "/families/macnab/"
+- name: "MacNab 1"
+  url: "/tartans/m/ma/macnab-1/"
 ---
 This is the **MacNab 1** sett — one scale-free proportion (`g3b3g19b18r19b3`), colour order pattern
 [BRBGBG](/stripes/brbgbg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r5t25w5t3dg25t3~x2/"><circle cx="268.8" cy="224.9" r="4" fill="#3465a4"><title>Thayer USA</title></circle></a><a href="/variants/s6/db14g21db4r21db14y2~x2/"><circle cx="221.3" cy="239.9" r="4" fill="#3465a4"><title>Kilgour</title></circle></a><a href="/variants/s6/r8b1g4b1g1lb2~x2/"><circle cx="277.0" cy="222.7" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s7/r1dy7g7db7g7db7r1~x8/"><circle cx="194.2" cy="266.9" r="4" fill="#3465a4"><title>Tennant (Yules)</title></circle></a><a href="/variants/s7/r1do7g7db7g7db7r1~x4/"><circle cx="194.5" cy="266.7" r="4" fill="#3465a4"><title>Tennant</title></circle></a><a href="/variants/s6/db9r3db1g9r3db1~x2/"><circle cx="252.2" cy="238.3" r="4" fill="#3465a4"><title>Logan #5</title></circle></a><a href="/variants/s7/r6db2r2db21g20r4g4~x2/"><circle cx="259.0" cy="216.7" r="4" fill="#3465a4"><title>Robertson of Struan</title></circle></a><a href="/variants/s5/g2b10o15g10b2~x4/"><circle cx="303.1" cy="296.5" r="4" fill="#3465a4"><title>Harmony, 6</title></circle></a><a href="/variants/s7/db9r3db1r3g9r3db1~x2/"><circle cx="228.4" cy="231.9" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s5/db2g4y1db1r2~x12/"><circle cx="183.2" cy="294.2" r="4" fill="#3465a4"><title>Creek Indian Nation</title></circle></a><circle cx="250.2" cy="270.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

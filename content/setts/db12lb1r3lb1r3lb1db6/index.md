@@ -1,6 +1,11 @@
 ---
 title: "BC Corps of Commissionaires, The"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "BC Corps of Commissionaires, The"
+  url: "/tartans/b/bc/bc-corps-of-commissionaires-the/"
 ---
 This is the **BC Corps of Commissionaires, The** sett — one scale-free proportion (`db12lb1r3lb1r3lb1db6`), colour order pattern
 [BWRWRWB](/stripes/bwrwrwb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w2db15r3g3r3db1~x8/"><circle cx="325.4" cy="171.3" r="4" fill="#3465a4"><title>Lothian Buses (Corporate?)</title></circle></a><a href="/variants/s6/db35w4db10dr3r3dr3~x4/"><circle cx="475.9" cy="177.9" r="4" fill="#3465a4"><title>Steffen, Markus (Personal)</title></circle></a><a href="/variants/s6/db35w4db10r3ri3r3~x4~r1706009-ri2109032/"><circle cx="467.2" cy="171.8" r="4" fill="#3465a4"><title>Steffen, Morris (Personal)</title></circle></a><a href="/variants/s8/db32r3db3r4w3r5db4r7~x2/"><circle cx="391.4" cy="175.9" r="4" fill="#3465a4"><title>Edinburgh TIC (Corporate)</title></circle></a><a href="/variants/s6/db2r7db2r7db22y2~x2/"><circle cx="397.6" cy="205.4" r="4" fill="#3465a4"><title>MacQueen variant</title></circle></a><a href="/variants/s8/db33w7db5r2db5w2r13db3~x2/"><circle cx="384.0" cy="164.1" r="4" fill="#3465a4"><title>Americana - 1978 (Fashion)</title></circle></a><a href="/variants/s9/db12y1r16db1r1db14r3db14y1~x4/"><circle cx="411.7" cy="182.1" r="4" fill="#3465a4"><title>Orlando Fire Department (Corporate)</title></circle></a><a href="/variants/s5/db13lb3db1r3lb1~x6/"><circle cx="405.9" cy="200.5" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><a href="/variants/s4/db60y6db11r25~x2/"><circle cx="431.5" cy="216.5" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums (Corp</title></circle></a><a href="/variants/s7/db11w1r12db6r1db6w1~x4/"><circle cx="355.3" cy="206.6" r="4" fill="#3465a4"><title>Coronation (1936) #2</title></circle></a><circle cx="403.5" cy="201.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

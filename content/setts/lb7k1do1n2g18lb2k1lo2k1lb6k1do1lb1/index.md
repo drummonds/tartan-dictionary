@@ -1,6 +1,13 @@
 ---
 title: "Wcwm 972-1"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Wcwm"
+  url: "/clan/wcwm/"
+- name: "Wcwm 972-1"
+  url: "/tartans/w/wc/wcwm-972-1/"
 ---
 This is the **Wcwm 972-1** sett — one scale-free proportion (`lb7k1do1n2g18lb2k1lo2k1lb6k1do1lb1`), colour order pattern
 [WBKWKYKWGBBKW](/stripes/wbkwkykwgbbkw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g3lb3g5r4g28db8w3db3w24r2k2~x2/"><circle cx="149.4" cy="111.8" r="4" fill="#3465a4"><title>Downie Dress</title></circle></a><a href="/variants/s8/g22r3w1g2r3lb16k3dy2~x4/"><circle cx="163.1" cy="86.3" r="4" fill="#3465a4"><title>Stirling University #2</title></circle></a><a href="/variants/s14/y3lb2k1lb24k2lb2k2lb2k2g8dp2g8k1w2~x2/"><circle cx="202.9" cy="68.5" r="4" fill="#3465a4"><title>Alexander-Johnstone (Personal)</title></circle></a><a href="/variants/s12/w4k1r2k1g9k2t24k2r6k2g12y2~x2/"><circle cx="145.0" cy="92.3" r="4" fill="#3465a4"><title>Tait #2</title></circle></a><a href="/variants/s13/k2db2w2db3w38g2b12g3db4g30db2g6w2~x2/"><circle cx="184.3" cy="101.6" r="4" fill="#3465a4"><title>Crieff Turquoise (Dance)</title></circle></a><a href="/variants/s13/dg55ly20w2ly3k2ly3w2ly3db18k2ly4y2ly3~x2/"><circle cx="215.7" cy="58.4" r="4" fill="#3465a4"><title>Knox (Personal)</title></circle></a><a href="/variants/s11/dr2dg20y1dg1k2lb1y1lb22w1lb1w1~x4/"><circle cx="219.0" cy="69.3" r="4" fill="#3465a4"><title>Unidentified (Tony Murray Collection</title></circle></a><a href="/variants/s8/g22r3k1g2r3lb16k3y2~x4/"><circle cx="207.7" cy="110.4" r="4" fill="#3465a4"><title>Stirling, University of Corporate Univ Tartan</title></circle></a><a href="/variants/s11/db16w3db1y4g24r1g3r4g3r1lb8~x2/"><circle cx="211.1" cy="113.5" r="4" fill="#3465a4"><title>Currie</title></circle></a><a href="/variants/s9/g3dp2g25k6r2k6lb20k1w2~x2/"><circle cx="160.2" cy="94.9" r="4" fill="#3465a4"><title>Birch (Name)</title></circle></a><circle cx="181.4" cy="91.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

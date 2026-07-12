@@ -1,6 +1,11 @@
 ---
 title: "Campbell of Lochlane"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Campbell"
+  url: "/clan/campbell/"
 ---
 A family of [Clan Campbell](/clan/campbell/).
 

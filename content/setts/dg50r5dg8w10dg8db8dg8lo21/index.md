@@ -1,6 +1,11 @@
 ---
 title: "St. Patrick's Krewe (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "St. Patrick's Krewe"
+  url: "/tartans/s/st/st-patrick-s-krewe-2/"
 ---
 This is the **St. Patrick's Krewe (Corporate)** sett — one scale-free proportion (`dg50r5dg8w10dg8db8dg8lo21`), colour order pattern
 [GRGWGBGY](/stripes/grgwgbgy/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dg50r5dg8w10dg8db8dg8y21~x2/"><circle cx="314.8" cy="179.1" r="4" fill="#3465a4"><title>St Patrick's Krewe</title></circle></a><a href="/variants/s8/dg3w5dg3db6dg5db1dg12r1~x2/"><circle cx="316.9" cy="199.2" r="4" fill="#3465a4"><title>Hasegawa (Akasaka) (Personal)</title></circle></a><a href="/variants/s7/dg3w1dg12r6dg3k3dg2~x4~dg1806142/"><circle cx="334.3" cy="186.5" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/variants/s8/g10r1g1r2g8db10g1ly1~x4/"><circle cx="325.0" cy="200.8" r="4" fill="#3465a4"><title>Glen Esk</title></circle></a><a href="/variants/s8/g8k2g13r4g12dp22g5y3~x2/"><circle cx="256.7" cy="185.0" r="4" fill="#3465a4"><title>Taylor Family Tartan</title></circle></a><a href="/variants/s8/g8k2g13r4g12db22g5ly3~x2/"><circle cx="245.0" cy="185.9" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/variants/s9/db3g4db24g6w3g4r3g8ly3~x2/"><circle cx="221.2" cy="181.9" r="4" fill="#3465a4"><title>Scottish Borders Tourist Board (Corp</title></circle></a><a href="/variants/s8/y1g1r1g6k6g6w1g1~x4/"><circle cx="230.6" cy="186.6" r="4" fill="#3465a4"><title>Vermont</title></circle></a><a href="/variants/s7/dr3g20k20g20lo2g2lo2~x2/"><circle cx="277.2" cy="183.3" r="4" fill="#3465a4"><title>Paton (Personal)</title></circle></a><a href="/variants/s7/b6dg14r9db7r9dg54ly6~dg1304144-db1003265-ly3608101/"><circle cx="345.3" cy="180.6" r="4" fill="#3465a4"><title>Tulloch Homes</title></circle></a><circle cx="292.3" cy="170.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

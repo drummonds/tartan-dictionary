@@ -1,6 +1,15 @@
 ---
 title: "Buchanan, hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Buchanan"
+  url: "/clan/buchanan/"
+- name: "Buchanan"
+  url: "/families/buchanan/"
+- name: "Buchanan, hunting"
+  url: "/tartans/b/bu/buchanan-hunting-4/"
 ---
 This is the **Buchanan, hunting** sett — one scale-free proportion (`o12g6o6y1o6g6k6g4k6g6o6lb1`), colour order pattern
 [RGRGRGKGKGRW](/stripes/rgrgrgkgkgrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/o8r1o8g8k8db8o8r2~x2/"><circle cx="144.1" cy="221.6" r="4" fill="#3465a4"><title>MacDuff, hunting</title></circle></a><a href="/variants/s9/db1o9g5o1k5o1g5o9w1~x2/"><circle cx="223.2" cy="176.1" r="4" fill="#3465a4"><title>Duchess of York</title></circle></a><a href="/variants/s11/dp3dg6k9g11w1g11w1g11k9dg6dp3~x4/"><circle cx="145.7" cy="182.9" r="4" fill="#3465a4"><title>Hibernian F.C.</title></circle></a><a href="/variants/s7/ly30w4ly20g20k20lo3k6~x2~ly2503076/"><circle cx="168.1" cy="190.7" r="4" fill="#3465a4"><title>St Andrews Bay</title></circle></a><a href="/variants/s11/g14dr1g14dr7lb1dr7lb1dr7k5dp3lb1~x4/"><circle cx="212.3" cy="155.8" r="4" fill="#3465a4"><title>Hynde (Sir John) (Artefact)</title></circle></a><a href="/variants/s9/g6lr2g10k3dr1k3lo10lr2lo6~x4/"><circle cx="123.5" cy="182.6" r="4" fill="#3465a4"><title>Eire</title></circle></a><a href="/variants/s12/dy6g6dy6y1dy6g6k6g4k6g6dy6lb1~x4/"><circle cx="109.7" cy="235.5" r="4" fill="#3465a4"><title>Buchanan Hunting (Scott Adie)</title></circle></a><a href="/variants/s12/dy6g6dy6y1dy6g6k6g4k6g6dy6lb1~x2/"><circle cx="109.7" cy="235.5" r="4" fill="#3465a4"><title>Buchanan Hunting Clan Tartan</title></circle></a><a href="/variants/s8/g14dp11y3k5y3dp11g14ly2~x2~dp1607327/"><circle cx="165.1" cy="211.5" r="4" fill="#3465a4"><title>Wilson's No.124</title></circle></a><a href="/variants/s10/dy9k2dy2r2g6k1y1k1g6r3~x2/"><circle cx="141.6" cy="177.9" r="4" fill="#3465a4"><title>MacAart Family Tartan</title></circle></a><circle cx="162.3" cy="188.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

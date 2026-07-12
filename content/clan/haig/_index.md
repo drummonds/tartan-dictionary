@@ -1,6 +1,9 @@
 ---
 title: "Clan Haig"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 **Territory:** Bemersyde / Scottish Borders
 

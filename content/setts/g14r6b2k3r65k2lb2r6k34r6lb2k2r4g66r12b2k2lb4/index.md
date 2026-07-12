@@ -1,6 +1,15 @@
 ---
 title: "Stewart of Ardshiel"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Stewart"
+  url: "/clan/stewart/"
+- name: "Stewart of Ardshiel"
+  url: "/families/stewart-of-ardshiel/"
+- name: "Stewart of Ardshiel"
+  url: "/tartans/s/st/stewart-of-ardshiel/"
 ---
 This is the **Stewart of Ardshiel** sett — one scale-free proportion (`g14r6b2k3r65k2lb2r6k34r6lb2k2r4g66r12b2k2lb4`), colour order pattern
 [GRBKRKWRKRWKRGRBKW](/stripes/grbkrkwrkrwkrgrbkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/dg14r6ri2k3r65k2lb2r6k34r6lb2k2r4dg66r12ri2k2lb4~r2109032-ri2806019/"><circle cx="221.7" cy="17.4" r="4" fill="#3465a4"><title>Stuart/Stewart of Ardshiel</title></circle></a><a href="/variants/s18/g4r4o1k1r19k1lb1r2db5r2lb1k1r2g24r5o1k1lb3~x2/"><circle cx="211.3" cy="52.4" r="4" fill="#3465a4"><title>Dundas (Red)</title></circle></a><a href="/variants/s17/g4r3lb1dp1r35dp1lb1r3dp16r3lb1dp1r2g35r7k1lb2~x2/"><circle cx="272.3" cy="50.9" r="4" fill="#3465a4"><title>Unidentified #14</title></circle></a><a href="/variants/s18/o8k24n1k1n1k1n1k1n8k1n1k1n1k1n1o20y1w1~x2/"><circle cx="209.0" cy="52.1" r="4" fill="#3465a4"><title>Read Dress, Peter (Personal)</title></circle></a><a href="/variants/s18/g4r4b1k1r19k1lb1r2db5r2lb1k1r2g24r5b1k1lb3~x2/"><circle cx="209.5" cy="52.1" r="4" fill="#3465a4"><title>Dundas, (Red)</title></circle></a><a href="/variants/s14/r6y60db12y6k12y2k2w2k2g18r18k3r4w2~x2/"><circle cx="206.1" cy="57.2" r="4" fill="#3465a4"><title>Victoria (Yellow)</title></circle></a><a href="/variants/s13/r40k2w1ly40k3w2k3r5db22r3w1k3r7~x2/"><circle cx="209.6" cy="53.5" r="4" fill="#3465a4"><title>K9 (Artefact)</title></circle></a><a href="/variants/s19/dr60w2lb5k2w2k2lb5w2k2g12k2w2dr5r5g2r5dr5g10w2~x2/"><circle cx="246.1" cy="19.6" r="4" fill="#3465a4"><title>McBain</title></circle></a><a href="/variants/s19/dr60w2lb5k2w2k2lb5w2k2g12k2w2dr5r5g2r5dr5w2g10~x2/"><circle cx="246.1" cy="19.6" r="4" fill="#3465a4"><title>MacBean (Lord Lyon version)</title></circle></a><a href="/variants/s13/dg2r36dg11k5w1dg1y1k1w1k1dg16r5w1~x2/"><circle cx="289.9" cy="53.2" r="4" fill="#3465a4"><title>Campagna Center (Corporate)</title></circle></a><circle cx="215.0" cy="42.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

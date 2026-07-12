@@ -1,6 +1,11 @@
 ---
 title: "Declaration of Scottish Independence, Arbroath 1320"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Declaration of Scottish Independence, Arbroath 1320"
+  url: "/tartans/d/de/declaration-of-scottish-independence-arbroath-1320/"
 ---
 This is the **Declaration of Scottish Independence, Arbroath 1320** sett — one scale-free proportion (`w20t43db2t6db2t4db4t2db6t2db14dr20k7y7r4y3r2y20r13`), colour order pattern
 [RGRGRGKBBBBBBBBBBBW](/stripes/rgrgrgkbbbbbbbbbbbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/w4k1r5db3r8g8k1y3k1lb4db27lb4k1y3k1g8r8db3~x2/"><circle cx="106.2" cy="51.4" r="4" fill="#3465a4"><title>Moon (Georgia, USA)</title></circle></a><a href="/variants/s22/dy6lb12k2r3k2lb40k6w6k6y3k3y3k12r3db12r3dy14k2r3k2dy14r5/"><circle cx="58.2" cy="49.0" r="4" fill="#3465a4"><title>Anderson (Paton)</title></circle></a><a href="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3lb18r1k2r1lb6r3~x2/"><circle cx="57.8" cy="66.3" r="4" fill="#3465a4"><title>Anderson Family Tartan</title></circle></a><a href="/variants/s22/o6lb12k2r3k2lb40k6w6k6y3k3y3k12r3db12r3o14k2r3k2o14r5/"><circle cx="60.8" cy="48.9" r="4" fill="#3465a4"><title>Anderson 1</title></circle></a><a href="/variants/s21/r3g6k1r2k1g6db4r1k4y1k1y1k3w3k3lb18k1r2k1lb6r3~x2/"><circle cx="59.3" cy="57.6" r="4" fill="#3465a4"><title>Anderson P</title></circle></a><a href="/variants/s24/db18ly4k5ly1k1w1k2g8r6k1r3w1r3k1r6g8k2w1k1ly1k5ly4db18lb2~x4/"><circle cx="68.0" cy="53.9" r="4" fill="#3465a4"><title>Bethune Name Tartan</title></circle></a><a href="/variants/s22/r3g6k1r2k1g6r2db5r2k2y2k2y2k3w3k3b14k1r2k1b6r3~x2/"><circle cx="22.3" cy="86.8" r="4" fill="#3465a4"><title>Anderson 11</title></circle></a><a href="/variants/s24/r3g6r1db1r2db1r1g6r2db4r1k4y1k2y1k2w3db4lb14r1db1r1lb4r3~x2/"><circle cx="19.5" cy="75.0" r="4" fill="#3465a4"><title>Anderson (STS)</title></circle></a><a href="/variants/s21/r4g7k1r2k1g7dp5r2k5y2k2y2k3w3dp3db16k1r2k1db6r4~x2/"><circle cx="32.8" cy="82.3" r="4" fill="#3465a4"><title>Anderson (W L Anderson, Stirling)</title></circle></a><a href="/variants/s13/lb2db18ly4k5ly1k1w1k2g8r6k1r3w1~x4/"><circle cx="76.2" cy="75.8" r="4" fill="#3465a4"><title>Bethune (Personal)</title></circle></a><circle cx="82.0" cy="69.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

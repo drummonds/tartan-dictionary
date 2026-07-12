@@ -1,6 +1,13 @@
 ---
 title: "Hebridean Heather (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hebridean"
+  url: "/clan/hebridean/"
+- name: "Hebridean Heather"
+  url: "/tartans/h/he/hebridean-heather-2/"
 ---
 This is the **Hebridean Heather (Fashion)** sett — one scale-free proportion (`n4db2n7dt30n8dt7r5db1w2`), colour order pattern
 [BBBBBBRBW](/stripes/bbbbbbrbw/). It is recorded as **2 variants** — the same
@@ -23,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/n4db2n7dt30n8dt7r5db1w2~x2~n1900000-w3600000/"><circle cx="402.2" cy="148.5" r="4" fill="#3465a4"><title>Hebridean Heather Fashion Tartan</title></circle></a><a href="/variants/s9/o4dg2o7dt30o8dt7g5dg1w2~x2~o2600000-dt1501240/"><circle cx="376.5" cy="139.3" r="4" fill="#3465a4"><title>Inchforth (Personal)</title></circle></a><a href="/variants/s10/dy6w1dy24db6g2db1g2db1g12r1~x2/"><circle cx="343.2" cy="132.8" r="4" fill="#3465a4"><title>Chisholm Hunting Clan Tartan</title></circle></a><a href="/variants/s12/db15dy2db2r2db6dg30db6r2db2dy2db15w2~x2~db1204274-dg1605139/"><circle cx="346.2" cy="153.0" r="4" fill="#3465a4"><title>Hydesville Tower</title></circle></a><a href="/variants/s8/o13dg16g4dp4g4dp34y1dp1~x2/"><circle cx="349.5" cy="138.6" r="4" fill="#3465a4"><title>Heather Mead (Personal)</title></circle></a><a href="/variants/s8/dp10lb1dg2k2dg18r1n45k1~x2/"><circle cx="391.7" cy="91.6" r="4" fill="#3465a4"><title>Highland Burn (Fashion)</title></circle></a><a href="/variants/s7/w3r2db31dg30y2dg2y1~x2/"><circle cx="342.4" cy="140.6" r="4" fill="#3465a4"><title>Caig (Personal)</title></circle></a><a href="/variants/s7/dg30db6r2db2dy2db15w2~x2/"><circle cx="358.0" cy="179.1" r="4" fill="#3465a4"><title>Hydesville Tower (Corporate)</title></circle></a><a href="/variants/s9/do8o4w2o4do1o12g9do24r4~x2~do1400000-o2600000/"><circle cx="305.0" cy="164.3" r="4" fill="#3465a4"><title>Willsher Wedding (Personal)</title></circle></a><a href="/variants/s9/n18y1n2y1n2db6w4o1g6~x2/"><circle cx="293.1" cy="140.4" r="4" fill="#3465a4"><title>Nickel Lodge, Centennial</title></circle></a><circle cx="385.0" cy="142.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Poulter, Green (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Poulter"
+  url: "/clan/poulter/"
+- name: "Poulter"
+  url: "/families/poulter/"
+- name: "Poulter"
+  url: "/tartans/p/po/poulter-2/"
 ---
 This is the **Poulter, Green (Corporate)** sett — one scale-free proportion (`o25k4o4k4o4k23g23y4g23k23o23k4o4`), colour order pattern
 [RKRKGGGKRKRKR](/stripes/rkrkgggkrkrkr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/do12k2do2k2do2k10g12k3g12k10do12k2do2~x2/"><circle cx="159.5" cy="212.7" r="4" fill="#3465a4"><title>Brown Watch (Fashion)</title></circle></a><a href="/variants/s13/o11k1o1k1o1k8g8k1g8k8o8k1o1~x2/"><circle cx="172.6" cy="169.1" r="4" fill="#3465a4"><title>Brown, Watch</title></circle></a><a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1~x2/"><circle cx="133.0" cy="158.4" r="4" fill="#3465a4"><title>Cumming (d)</title></circle></a><a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1/"><circle cx="133.0" cy="158.4" r="4" fill="#3465a4"><title>Cumming</title></circle></a><a href="/variants/s10/r3k6r3k6g6k1w1k1g6r1~x2/"><circle cx="127.6" cy="201.2" r="4" fill="#3465a4"><title>MacDiarmid #3</title></circle></a><a href="/variants/s13/lr25k4lr4k4lr4k23g23y4g23k23lr23k4lr4~x2/"><circle cx="107.5" cy="183.9" r="4" fill="#3465a4"><title>Poulter Green Corporate Tartan</title></circle></a><a href="/variants/s16/g7k2g7y1k2y1k10y3r10y3k10y1g11k2g3k2~x2/"><circle cx="132.7" cy="156.2" r="4" fill="#3465a4"><title>Blackburn Appalachian Hunting</title></circle></a><a href="/variants/s10/r4k6lb1g7k2g7lb1k6r4g2~x4/"><circle cx="119.3" cy="208.4" r="4" fill="#3465a4"><title>Walker James</title></circle></a><a href="/variants/s13/ly18k3ly3k3ly3k13dg16k4dg16k13ly16k3ly3~x2/"><circle cx="128.5" cy="203.2" r="4" fill="#3465a4"><title>Campbell Collegiate (Corporate)</title></circle></a><a href="/variants/s15/o8w1o1dp1o1k7g7k1g3k1g7k7o7k1dp3~x2/"><circle cx="78.6" cy="157.8" r="4" fill="#3465a4"><title>Black Scottish National Tartan</title></circle></a><circle cx="119.3" cy="187.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

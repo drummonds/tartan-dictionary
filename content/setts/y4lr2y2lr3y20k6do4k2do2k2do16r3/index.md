@@ -1,6 +1,11 @@
 ---
 title: "Scotch House 'Dorcas' (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Scotch House 'Dorcas'"
+  url: "/tartans/s/sc/scotch-house-dorcas/"
 ---
 This is the **Scotch House 'Dorcas' (Fashion)** sett — one scale-free proportion (`y4lr2y2lr3y20k6do4k2do2k2do16r3`), colour order pattern
 [GYGYGKBKBKBR](/stripes/gygygkbkbkbr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/y4w2y2w3y20k6do4k2do2k2do16r3~x2/"><circle cx="159.4" cy="138.8" r="4" fill="#3465a4"><title>Dorcas</title></circle></a><a href="/variants/s14/k2g2r3dp18r2g6r4y2dp6r3g18r3k2g2~x2/"><circle cx="160.9" cy="139.6" r="4" fill="#3465a4"><title>MacIntyre and Glenorchy</title></circle></a><a href="/variants/s11/dy2k10n2k2n2k3n10o16y2o2y2~x2/"><circle cx="132.6" cy="159.0" r="4" fill="#3465a4"><title>Dryburgh</title></circle></a><a href="/variants/s10/g6k2g3k2g6db8r20y2r3g2~x2/"><circle cx="180.6" cy="149.5" r="4" fill="#3465a4"><title>Connolly Dress</title></circle></a><a href="/variants/s12/y14lo1y1lo1y2k3y3k3doi3do1doi9lo1~x4~doi1402055-do1103038/"><circle cx="228.2" cy="127.5" r="4" fill="#3465a4"><title>Glen Nevis #2 (Personal)</title></circle></a><a href="/variants/s12/k10r26k2r4k2r26k3dg36k3g30k3y2~y2400000/"><circle cx="160.2" cy="113.7" r="4" fill="#3465a4"><title>Pope Welsh Name Tartan</title></circle></a><a href="/variants/s12/o22w2o2w2o4k5o5k5n5dr2n13w2~x2/"><circle cx="194.9" cy="134.4" r="4" fill="#3465a4"><title>Glen Nevis</title></circle></a><a href="/variants/s14/w3k2dg18r2db8r18dg2r2dg2r2db2r18dg18k2~x2/"><circle cx="193.0" cy="138.3" r="4" fill="#3465a4"><title>MacGuire (Personal)</title></circle></a><a href="/variants/s11/r10dg3y3w1k2w1y3dg12w2r3w1~x4/"><circle cx="151.5" cy="146.3" r="4" fill="#3465a4"><title>Unnamed C18th - Pr Ch Ed Plaid?</title></circle></a><a href="/variants/s15/ri7b5r5ri31k9r4b3ri5b3r4g30ri4b3r5ri5~x2~ri2008029-r1506028/"><circle cx="184.2" cy="127.9" r="4" fill="#3465a4"><title>MacDougall 3</title></circle></a><circle cx="173.1" cy="142.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

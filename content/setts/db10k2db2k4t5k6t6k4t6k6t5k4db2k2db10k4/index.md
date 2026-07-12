@@ -1,6 +1,15 @@
 ---
 title: "Saul (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Saul"
+  url: "/clan/saul/"
+- name: "Saul"
+  url: "/families/saul/"
+- name: "Saul"
+  url: "/tartans/s/sa/saul-2/"
 ---
 This is the **Saul (Personal)** sett — one scale-free proportion (`db10k2db2k4t5k6t6k4t6k6t5k4db2k2db10k4`), colour order pattern
 [BKBKBKBKBKBKBKBK](/stripes/bkbkbkbkbkbkbkbk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k4lb4db14k15lb4k15lb4db7lb4db10lb4~x2/"><circle cx="134.9" cy="242.5" r="4" fill="#3465a4"><title>Clark (Clerke/Clergy/Priest)</title></circle></a><a href="/variants/s17/db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1~x2/"><circle cx="109.4" cy="200.7" r="4" fill="#3465a4"><title>Arbuthnott</title></circle></a><a href="/variants/s17/db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1/"><circle cx="109.4" cy="200.7" r="4" fill="#3465a4"><title>Arbuthnott</title></circle></a><a href="/variants/s9/k4db10k2db2k4t5k6t6k4~x4/"><circle cx="168.5" cy="252.9" r="4" fill="#3465a4"><title>Saul (Personal)</title></circle></a><a href="/variants/s13/db14k3db3k3db3k16g16k3g16k16db16k3db3~x2/"><circle cx="152.7" cy="215.9" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/variants/s20/db1g1db6k6g1k6g1db2g1db3g1db3g1db2g1k6g1k6db6g1~x4~db1406275/"><circle cx="187.3" cy="187.2" r="4" fill="#3465a4"><title>Cargill Clan/Family Tartan</title></circle></a><a href="/variants/s15/b11k2b4k2b4k11db11k2lb4k2db11k11b11k2b4~x2/"><circle cx="120.7" cy="200.7" r="4" fill="#3465a4"><title>William Murdoch, (Scottish Gas)</title></circle></a><a href="/variants/s13/db12k2db2k2db2k10g12k3g12k10db11k2db2~x2/"><circle cx="147.2" cy="212.3" r="4" fill="#3465a4"><title>Campbell Clan Tartan</title></circle></a><a href="/variants/s15/b12k2b2k2b2k10r2k10t12k3t12k10b11k2b2~x2/"><circle cx="130.5" cy="184.8" r="4" fill="#3465a4"><title>Mundigl</title></circle></a><a href="/variants/s13/db3k1db1k1db1k4g4w1g4k4db4k1db1/"><circle cx="101.0" cy="222.2" r="4" fill="#3465a4"><title>Lamont</title></circle></a><circle cx="142.5" cy="235.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

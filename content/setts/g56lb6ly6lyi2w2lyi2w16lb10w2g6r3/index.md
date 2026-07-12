@@ -1,6 +1,15 @@
 ---
 title: "McAleavy (2014)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan McAleavy"
+  url: "/clan/mcaleavy/"
+- name: "McAleavy"
+  url: "/families/mcaleavy/"
+- name: "McAleavy"
+  url: "/tartans/m/mc/mcaleavy-2/"
 ---
 This is the **McAleavy (2014)** sett — one scale-free proportion (`g56lb6ly6lyi2w2lyi2w16lb10w2g6r3`), colour order pattern
 [GWYYWYWWWGR](/stripes/gwyywywwwgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g56n6ly6y2w2y2w16n10w2g6r3~x2/"><circle cx="318.0" cy="97.0" r="4" fill="#3465a4"><title>McAleavy (2014)</title></circle></a><a href="/variants/s9/g60db1ly5k1r15k1w15k1g15~x2/"><circle cx="353.2" cy="59.3" r="4" fill="#3465a4"><title>Pellicci, Michael (Personal)</title></circle></a><a href="/variants/s9/g60db1y5k1r15k1w15k1g15~x2/"><circle cx="356.4" cy="60.1" r="4" fill="#3465a4"><title>Michael Pellicci (Personal)</title></circle></a><a href="/variants/s15/db4w8lo3db1g1w1g32lo2w1g1n8r1g2n2w2~x2/"><circle cx="280.1" cy="66.6" r="4" fill="#3465a4"><title>Thomas McGurran</title></circle></a><a href="/variants/s12/y2g16lb2w2lb2w2lb6g7r2w1lb1dp1~x6/"><circle cx="265.7" cy="133.6" r="4" fill="#3465a4"><title>Fredericton #2</title></circle></a><a href="/variants/s12/y2g16lb2w2lb2w2lb6g7r2w1lb1dp1~x2/"><circle cx="265.7" cy="133.6" r="4" fill="#3465a4"><title>Fredericton</title></circle></a><a href="/variants/s8/w2g5lb10g20ri1dy2r2dy1~x2~ri2109032-r1807033/"><circle cx="316.1" cy="137.1" r="4" fill="#3465a4"><title>Muskoka (District)</title></circle></a><a href="/variants/s11/g1w1g39r2w3t13w3dr2r1dr2w1~x2/"><circle cx="379.4" cy="89.7" r="4" fill="#3465a4"><title>Schuster (Perosnal)</title></circle></a><a href="/variants/s11/g1w1g39r2w3b13w3dy2r1dy2w1~x2/"><circle cx="366.2" cy="83.8" r="4" fill="#3465a4"><title>Schuster (Bavaria) (Personal), Benedikt</title></circle></a><a href="/variants/s8/w4g10lb24g42r3dy4dr4y2/"><circle cx="290.5" cy="123.8" r="4" fill="#3465a4"><title>Muskoka Canadian Tartan</title></circle></a><circle cx="314.5" cy="96.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

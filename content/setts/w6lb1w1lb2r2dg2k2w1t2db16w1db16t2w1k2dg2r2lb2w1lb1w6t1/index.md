@@ -1,6 +1,15 @@
 ---
 title: "Arctic (District)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Arctic"
+  url: "/clan/arctic/"
+- name: "Arctic"
+  url: "/families/arctic/"
+- name: "Arctic"
+  url: "/tartans/a/ar/arctic-2/"
 ---
 This is the **Arctic (District)** sett — one scale-free proportion (`w6lb1w1lb2r2dg2k2w1t2db16w1db16t2w1k2dg2r2lb2w1lb1w6t1`), colour order pattern
 [BWWWWRGKWBBWBBWKGRWWWW](/stripes/bwwwwrgkwbbwbbwkgrwwww/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/t1w6lb1w1lb2r2dg2k2w1t2db16w1~x4/"><circle cx="131.0" cy="71.8" r="4" fill="#3465a4"><title>Arctic</title></circle></a><a href="/variants/s18/db2b4r2w26db3w2db3k10b3db2b3g9db1k1db21b3db2r2~x2/"><circle cx="111.2" cy="60.8" r="4" fill="#3465a4"><title>Cooper, dress</title></circle></a><a href="/variants/s16/r3db14k12lb24k1w3k1lb24k12db2k2db2k2db8y1r3~x2/"><circle cx="147.6" cy="73.3" r="4" fill="#3465a4"><title>Royal Scottish Country Dance Society</title></circle></a><a href="/variants/s25/r1k1w8dg1db1dg1db1dg1db1dg1db8w1db2w1db8dg1db1dg1db1dg1db1dg1w8k1lo1~x4/"><circle cx="121.2" cy="88.5" r="4" fill="#3465a4"><title>Recovery Dress</title></circle></a><a href="/variants/s19/ly6lb2dy2lb1k1lb1y4db2y2lb17k2db3k8db3k2db17k2db2y2~x2/"><circle cx="97.6" cy="80.4" r="4" fill="#3465a4"><title>Ferrari (Coldrerio)</title></circle></a><a href="/variants/s16/r1w1db8lb12y1lb1k2w3k6db1lb1y1lb1db1w1r1~x6/"><circle cx="95.0" cy="95.0" r="4" fill="#3465a4"><title>Buchanan, John &amp; Isabella</title></circle></a><a href="/variants/s15/db62ly3k3r15db18w3ly28n12k3n5ly5n5db6k12w8/"><circle cx="159.6" cy="73.5" r="4" fill="#3465a4"><title>Clare County Crest (Fashion)</title></circle></a><a href="/variants/s19/ly6db2lo2db1k1db1lyi4lb2lyi2db17k2lb3k8lb3k2lb17k2lb2lyi2~x2~ly3104101-lyi3407090/"><circle cx="93.6" cy="80.5" r="4" fill="#3465a4"><title>Ferrari (Name)</title></circle></a><a href="/variants/s12/db4dr1k3ly1k1lr1k1dbi8lb12dr1lb2k1~x4~db1106275-dbi1406275/"><circle cx="99.6" cy="96.9" r="4" fill="#3465a4"><title>MacLean (Dress)</title></circle></a><a href="/variants/s17/db24g2db12k2w2k3dp2k3t4k3dp2k3w2k2r12g2t24~x2/"><circle cx="87.2" cy="83.1" r="4" fill="#3465a4"><title>Selkirk, New (District)</title></circle></a><circle cx="120.8" cy="49.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

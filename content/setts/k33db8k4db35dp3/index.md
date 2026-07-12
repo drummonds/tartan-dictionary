@@ -1,6 +1,11 @@
 ---
 title: "Fenston/Morris (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Fenston/Morris"
+  url: "/tartans/f/fe/fenston-morris/"
 ---
 This is the **Fenston/Morris (Personal)** sett — one scale-free proportion (`k33db8k4db35dp3`), colour order pattern
 [BBKBK](/stripes/bbkbk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k15db4k15db28r2~x2/"><circle cx="328.8" cy="220.6" r="4" fill="#3465a4"><title>MacKay (Blue) #2</title></circle></a><a href="/variants/s5/k30db6k6db41lb2~x2/"><circle cx="374.8" cy="191.9" r="4" fill="#3465a4"><title>Williams (New York) (Personal)</title></circle></a><a href="/variants/s5/k9db3k28db25w2~x2/"><circle cx="336.3" cy="207.4" r="4" fill="#3465a4"><title>Press &amp; Journal</title></circle></a><a href="/variants/s4/k34db13k7db14~x2/"><circle cx="378.2" cy="301.8" r="4" fill="#3465a4"><title>Auchincloss (Personal)</title></circle></a><a href="/variants/s6/db9k9r3db9k9y1~x4/"><circle cx="219.9" cy="235.7" r="4" fill="#3465a4"><title>Old Brigade</title></circle></a><a href="/variants/s6/db5k2db14k14db2lp2~x2/"><circle cx="302.8" cy="225.9" r="4" fill="#3465a4"><title>Royal Scotsman Train (Corporate)</title></circle></a><a href="/variants/s6/db8k39db8k39db87r6/"><circle cx="362.9" cy="198.1" r="4" fill="#3465a4"><title>Largan (?)</title></circle></a><a href="/variants/s6/lb5k22db4k4db26k4~x2/"><circle cx="258.0" cy="224.1" r="4" fill="#3465a4"><title>Slanj, The</title></circle></a><a href="/variants/s4/k3db23k17r2~x2/"><circle cx="327.3" cy="226.8" r="4" fill="#3465a4"><title>Wellington Variation</title></circle></a><a href="/variants/s6/db2k6db2k6db16r1~x2/"><circle cx="393.6" cy="194.2" r="4" fill="#3465a4"><title>MacKay V</title></circle></a><circle cx="360.4" cy="224.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

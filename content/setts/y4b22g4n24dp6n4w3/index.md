@@ -1,6 +1,15 @@
 ---
 title: "Deeside Plaid (Taobh Dhi) (District)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Deeside"
+  url: "/clan/deeside/"
+- name: "Deeside"
+  url: "/families/deeside/"
+- name: "Deeside"
+  url: "/tartans/d/de/deeside/"
 ---
 This is the **Deeside Plaid (Taobh Dhi) (District)** sett — one scale-free proportion (`y4b22g4n24dp6n4w3`), colour order pattern
 [GBGBBBW](/stripes/gbgbbbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y1b5g1n7dp2n1w1~x4/"><circle cx="274.2" cy="231.8" r="4" fill="#3465a4"><title>Deeside</title></circle></a><a href="/variants/s7/y1db5g1n7dp2n1w1~x4/"><circle cx="242.2" cy="219.6" r="4" fill="#3465a4"><title>Deeside District Tartan</title></circle></a><a href="/variants/s8/n12g4dp4g4n31dt3db12w4~x2/"><circle cx="336.9" cy="194.9" r="4" fill="#3465a4"><title>Yes Scotland (Fashion)</title></circle></a><a href="/variants/s7/r3n20y2n20o20lb20r3~x2~n1900000-o2500000/"><circle cx="294.7" cy="239.2" r="4" fill="#3465a4"><title>Brodie Silver Clan Tartan</title></circle></a><a href="/variants/s7/w3lb2b4lb14g2t14lo2~x4~lb3300000-t2405244/"><circle cx="247.0" cy="234.5" r="4" fill="#3465a4"><title>Seaside (Fashion)</title></circle></a><a href="/variants/s6/db30y3o11y3n33r6~x2/"><circle cx="270.5" cy="219.6" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/variants/s8/w5t32n5g6n5dr16n39ly5~x2/"><circle cx="269.5" cy="221.1" r="4" fill="#3465a4"><title>Washington DC (Fashion)</title></circle></a><a href="/variants/s8/db34dy9ly3dy9n30r3n11r5/"><circle cx="261.4" cy="204.9" r="4" fill="#3465a4"><title>Ballantyne (Personal) STWR</title></circle></a><a href="/variants/s7/dr1n5dt3db11dt3n5lo1~x8/"><circle cx="320.8" cy="259.7" r="4" fill="#3465a4"><title>Newmill</title></circle></a><a href="/variants/s7/w3lb2b4lb14t2ti14lo2~x4~lb3300000-t1903246-ti2405244/"><circle cx="281.7" cy="233.7" r="4" fill="#3465a4"><title>Seaside</title></circle></a><circle cx="284.8" cy="231.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

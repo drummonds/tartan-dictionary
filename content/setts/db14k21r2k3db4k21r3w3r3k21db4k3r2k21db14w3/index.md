@@ -1,6 +1,11 @@
 ---
 title: "Royal Naval Association"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Royal Naval Association"
+  url: "/tartans/r/ro/royal-naval-association/"
 ---
 This is the **Royal Naval Association** sett — one scale-free proportion (`db14k21r2k3db4k21r3w3r3k21db4k3r2k21db14w3`), colour order pattern
 [BKRKBKRWRKBKRKBW](/stripes/bkrkbkrwrkbkrkbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g12k40db4lb4db4k28db7k8db7k8db10r4/"><circle cx="269.9" cy="140.3" r="4" fill="#3465a4"><title>Pride of Wales (Fashion)</title></circle></a><a href="/variants/s12/k17n2k3g2k3g2k24db8g4db4g3db8~x2/"><circle cx="284.7" cy="146.9" r="4" fill="#3465a4"><title>Kells Irish Pubs</title></circle></a><a href="/variants/s22/k40db4lb4db4k28db7k8db7k8db10r4db10k8db7k8db7k28db4lb4db4k40g12/"><circle cx="293.9" cy="117.5" r="4" fill="#3465a4"><title>Pride (Wales)</title></circle></a><a href="/variants/s11/k7n2lb2n2k13n2k2lb2n13k26lp2~x2/"><circle cx="326.5" cy="130.5" r="4" fill="#3465a4"><title>Pride of Scotland Platinum Fashion Tartan</title></circle></a><a href="/variants/s13/w1y2k8dp6k15y1k1w1k15dp5w8y1w1~x2/"><circle cx="256.5" cy="120.5" r="4" fill="#3465a4"><title>Freger</title></circle></a><a href="/variants/s15/db32k6db6k6db6k32db33k4y8k4db33k32db34k4w8/"><circle cx="273.8" cy="168.5" r="4" fill="#3465a4"><title>Fleming /Frisken/Flanders</title></circle></a><a href="/variants/s22/y2w15dp10k23y2k23dp10k15y2w2y2k15dp10k23y2k2w2k23dp10w15y2w2~x2/"><circle cx="217.4" cy="123.4" r="4" fill="#3465a4"><title>Freger (Corporate)</title></circle></a><a href="/variants/s11/k1w1db8k9w1k9w1db2w1k4w1~x2/"><circle cx="281.6" cy="169.5" r="4" fill="#3465a4"><title>Clergy (Mackinlay)</title></circle></a><a href="/variants/s11/k1y1dp7k8y1k8y1dp2y1k4y1~x4/"><circle cx="306.6" cy="182.7" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s15/db2k4db9k4y4k3y2k5db4k3db18w2db2w2db2~x2/"><circle cx="240.5" cy="151.7" r="4" fill="#3465a4"><title>Skarpathiotakis, George (Personal)</title></circle></a><circle cx="282.1" cy="138.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Whitson #2"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Whitson"
+  url: "/clan/whitson/"
+- name: "Whitson"
+  url: "/families/whitson/"
+- name: "Whitson"
+  url: "/tartans/w/wh/whitson/"
 ---
 This is the **Whitson #2** sett — one scale-free proportion (`w4k1g18k17db13r1db3r1`), colour order pattern
 [RBRBKGKW](/stripes/rbrbkgkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w4k1g19y1k19db13r2db4r2~x2/"><circle cx="103.4" cy="116.1" r="4" fill="#3465a4"><title>Whitson Family Tartan</title></circle></a><a href="/variants/s9/r7db2g5k24db2g10db28g10w3~x2/"><circle cx="132.3" cy="149.9" r="4" fill="#3465a4"><title>Colgan (Personal)</title></circle></a><a href="/variants/s10/r6db2g5db18g10db2k28db2g10lo3~x2/"><circle cx="127.6" cy="144.4" r="4" fill="#3465a4"><title>Ofally, County</title></circle></a><a href="/variants/s11/lb3g3k4g14k4g3k14db18r1db4r2~x2/"><circle cx="125.8" cy="134.1" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/variants/s8/r6db3r3db32k30g30y3r3~x2/"><circle cx="121.9" cy="160.7" r="4" fill="#3465a4"><title>MacDonald of Borrodale (Clan)</title></circle></a><a href="/variants/s8/r5db3r3db29k29g29w4r4~x2/"><circle cx="102.5" cy="165.9" r="4" fill="#3465a4"><title>Borrodale</title></circle></a><a href="/variants/s6/k2g12k12r1db12w2~x2/"><circle cx="121.5" cy="180.7" r="4" fill="#3465a4"><title>Russell Clan Tartan</title></circle></a><a href="/variants/s6/k2g12k12r1db12w2/"><circle cx="121.5" cy="180.7" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><a href="/variants/s8/g3r1g18k20r1db18lb1g2~x4/"><circle cx="166.2" cy="130.7" r="4" fill="#3465a4"><title>Lochaber #2</title></circle></a><a href="/variants/s7/y2k6g33k33db33r3w2~x2/"><circle cx="133.9" cy="137.8" r="4" fill="#3465a4"><title>MacNeil - 1840 (Chief's sett)</title></circle></a><circle cx="124.2" cy="138.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

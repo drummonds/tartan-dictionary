@@ -6,16 +6,16 @@ background: /bg/clans.png
 127 clans and families beginning with H. [Back to the A–Z](/families/).
 
 <ul class="clan-grid">
-<li><a class="tartan" href="/families/hackett/"><img src="/variants/s8/k20ly4r4ly20g20w5g2dg2~x2~g1903114-dg1806142/sett.png" alt="Hackett" width="140"><br><strong>Hackett</strong></a></li>
+<li><a class="tartan" href="/families/hackett/"><img src="/variants/s7/k20w4r4dg20w5dg2g2~x2~dg1806142-g2408144/sett.png" alt="Hackett" width="140"><br><strong>Hackett</strong></a></li>
 <li><a class="tartan" href="/variants/s7/r2db4lb18n2lb2n41w2~x2/"><strong>Haddrell</strong></a></li>
 <li><a class="tartan" href="/clan/haig/"><img src="/variants/s5/k1w1k1w1t1~x12/sett.png" alt="Haig" width="140"><br><strong>Haig</strong></a><div class="clan-territory">clan</div></li>
 <li><a class="tartan" href="/variants/s9/b4t3b6k2db12g2db2g24lb2~x2~b1813263-t2508259-db1208266-lb3105255/"><strong>Halcrow Howell</strong></a></li>
 <li><a class="tartan" href="/families/hall/"><img src="/variants/s11/g6r3db6r3g12r3db6r3g12r3y2~x2/sett.png" alt="Hall" width="140"><br><strong>Hall</strong></a></li>
 <li><a class="tartan" href="/families/halliday/"><img src="/variants/s15/g1w1k1w1k1w1k1w1k1w1g1w1k1w1m1~x8~g2408144-m2110326/sett.png" alt="Halliday" width="140"><br><strong>Halliday</strong></a></li>
 <li><a class="tartan" href="/families/hallingdal/"><img src="/variants/s12/r2dy1k2r13k2r2k2r2k12r2dy1g2~x2/sett.png" alt="Hallingdal" width="140"><br><strong>Hallingdal</strong></a></li>
-<li><a class="tartan" href="/families/hamburg/"><img src="/variants/s14/db3r3dt24lb24k2lb3r2lb3k2lb24dt24r3db3w2~x2~lb3203246/sett.png" alt="Hamburg" width="140"><br><strong>Hamburg</strong></a></li>
+<li><a class="tartan" href="/families/hamburg/"><img src="/variants/s11/db3k2lb3r2lb3k2lb24dt24r3db3w2~x2/sett.png" alt="Hamburg" width="140"><br><strong>Hamburg</strong></a></li>
 <li><a class="tartan" href="/families/hami/"><img src="/variants/s6/b1o4b1o4b2w1~x4~b2104245-o2106028-w3602083/sett.png" alt="Hami" width="140"><br><strong>Hami</strong></a></li>
-<li><a class="tartan" href="/families/hamilton/"><img src="/variants/s5/db11g2db15g18w2~x2/sett.png" alt="Hamilton" width="140"><br><strong>Hamilton</strong></a></li>
+<li><a class="tartan" href="/families/hamilton/"><img src="/variants/s5/db8g2db8g15lb2~x4/sett.png" alt="Hamilton" width="140"><br><strong>Hamilton</strong></a></li>
 <li><a class="tartan" href="/families/hamilton-of-brandon/"><img src="/variants/s6/ly16k7w1g7k1dy3~x4/sett.png" alt="Hamilton of Brandon" width="140"><br><strong>Hamilton of Brandon</strong></a></li>
 <li><a class="tartan" href="/families/hamilton-of-clayton/"><img src="/variants/s10/g3w3g18db14r5db14r5db14g21w3~x2/sett.png" alt="Hamilton of Clayton" width="140"><br><strong>Hamilton of Clayton</strong></a></li>
 <li><a class="tartan" href="/variants/s12/k2y2g2k2g17k2r2k2r17k2r5g2~x2/"><strong>Hampson</strong></a></li>
@@ -34,10 +34,10 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/harden/"><img src="/variants/s24/r14lb8k9y1k2w2k2g10r15k4r12w2r12k4r15g10k2w2k2y1k9lb8r14k2~x2/sett.png" alt="Harden" width="140"><br><strong>Harden</strong></a></li>
 <li><a class="tartan" href="/families/hardie/"><img src="/variants/s10/dg9w2dg24db37r3db37dg24w2dg9o4~x2~db1103284/sett.png" alt="Hardie" width="140"><br><strong>Hardie</strong></a></li>
 <li><a class="tartan" href="/families/harding/"><img src="/variants/s8/dg30dt2n7r14n7r7w1dt14~x2/sett.png" alt="Harding" width="140"><br><strong>Harding</strong></a></li>
-<li><a class="tartan" href="/families/harkness/"><img src="/variants/s10/g10t2w2t16g6y2g4r2g3t6~x4/sett.png" alt="Harkness" width="140"><br><strong>Harkness</strong></a></li>
+<li><a class="tartan" href="/families/harkness/"><img src="/variants/s10/g21db4w4db32g12y4g8r4g6db12/sett.png" alt="Harkness" width="140"><br><strong>Harkness</strong></a></li>
 <li><a class="tartan" href="/variants/s8/g2k3y1k3g2db8g16k1~x4/"><strong>Harley , Robert</strong></a></li>
 <li><a class="tartan" href="/families/harmer/"><img src="/variants/s12/dg36ly8k9ly24dg4ly12dg4ly24k9ly8dg36dr4/sett.png" alt="Harmer" width="140"><br><strong>Harmer</strong></a></li>
-<li><a class="tartan" href="/families/harmon/"><img src="/variants/s18/k2g6dy2g2dy2g19db2dr2db2g2dg4k2dg11dr2dg2dr2dg6dy2~x2/sett.png" alt="Harmon" width="140"><br><strong>Harmon</strong></a></li>
+<li><a class="tartan" href="/families/harmon/"><img src="/variants/s18/k2r6y2r2y2r19db2g2db2r2dr4k2dr11g2dr2g2dr6y2~x2/sett.png" alt="Harmon" width="140"><br><strong>Harmon</strong></a></li>
 <li><a class="tartan" href="/families/harmon-of-plenderleith/"><img src="/variants/s18/k2t6dy2t2dy2t19dr2g2dr2t2db4k2db11g2db2g2db6dy2~x2/sett.png" alt="Harmon of Plenderleith" width="140"><br><strong>Harmon of Plenderleith</strong></a></li>
 <li><a class="tartan" href="/families/harmony/"><img src="/variants/s12/db11ti3db4lr3db3ly4db3dbi13t34dg3t4db3~x2~db1204274-ti2503227-dbi1406275-t2405244/sett.png" alt="Harmony" width="140"><br><strong>Harmony</strong></a></li>
 <li><a class="tartan" href="/families/harris/"><img src="/variants/s11/lo1n8lb2k15lb20dr1lb1dr1lb8n3lb1~x2/sett.png" alt="Harris" width="140"><br><strong>Harris</strong></a></li>
@@ -60,7 +60,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/haymarket/"><img src="/variants/s9/g2db8g2k5w12lo1db1w1dr1~x4/sett.png" alt="Haymarket" width="140"><br><strong>Haymarket</strong></a></li>
 <li><a class="tartan" href="/families/healy/"><img src="/variants/s20/db2lb2t7r4y8db4t10lb2db2t9db2lb2t10db4y8r4t7lb2db2y2~x4~lb3203246-t2105244/sett.png" alt="Healy" width="140"><br><strong>Healy</strong></a></li>
 <li><a class="tartan" href="/families/heather/"><img src="/variants/s9/db4lb3n30lb3dp16lb3dp10dpi48g4~x2~dp1105325-dpi1507327/sett.png" alt="Heather" width="140"><br><strong>Heather</strong></a></li>
-<li><a class="tartan" href="/families/hebridean/"><img src="/variants/s11/db25dbi2r25g10r4db25r2g2r25g2r2~x2~db0805267-dbi1604274/sett.png" alt="Hebridean" width="140"><br><strong>Hebridean</strong></a></li>
+<li><a class="tartan" href="/families/hebridean/"><img src="/variants/s7/db10r1db10r2db10r1g2~x2/sett.png" alt="Hebridean" width="140"><br><strong>Hebridean</strong></a></li>
 <li><a class="tartan" href="/families/hebrides/"><img src="/variants/s8/db7r3g7r1g7r3db7lb1~x2/sett.png" alt="Hebrides" width="140"><br><strong>Hebrides</strong></a></li>
 <li><a class="tartan" href="/families/heddle/"><img src="/variants/s13/dp8db24k2db2dp8db2k2db4dy2db4k2dp12w3~x2/sett.png" alt="Heddle" width="140"><br><strong>Heddle</strong></a></li>
 <li><a class="tartan" href="/families/hek/"><img src="/variants/s9/db1w2t12k2db2k2dp15db2y1~x2/sett.png" alt="Hek" width="140"><br><strong>Hek</strong></a></li>
@@ -79,13 +79,13 @@ background: /bg/clans.png
 <li><a class="tartan" href="/variants/s7/r30db12k3g12y2g3w2~x2/"><strong>Hewitt</strong></a></li>
 <li><a class="tartan" href="/variants/s15/g3k1g1r12g1r1g1k4g1lb2g15k1g1k1g3~x4/"><strong>Hickey</strong></a></li>
 <li><a class="tartan" href="/families/hickory/"><img src="/variants/s10/db4dy30do2dy2do14y2do2y1do6g3~x2/sett.png" alt="Hickory" width="140"><br><strong>Hickory</strong></a></li>
-<li><a class="tartan" href="/families/highfield/"><img src="/variants/s11/db10k2g2dr2g2k2do2k2dy4k1y2~x4/sett.png" alt="Highfield" width="140"><br><strong>Highfield</strong></a></li>
+<li><a class="tartan" href="/families/highfield/"><img src="/variants/s11/db10k2g2r2g2k2r2k2r4k1g2~x4/sett.png" alt="Highfield" width="140"><br><strong>Highfield</strong></a></li>
 <li><a class="tartan" href="/families/highland/"><img src="/variants/s18/g13db5y3lb6y3db5n6g28w2g28n6db5y3lb6y3db5g13dp4~x2/sett.png" alt="Highland" width="140"><br><strong>Highland</strong></a></li>
 <li><a class="tartan" href="/families/hill/"><img src="/variants/s9/k4r2k28db31y1db2y1db2w3~x2/sett.png" alt="Hill" width="140"><br><strong>Hill</strong></a></li>
 <li><a class="tartan" href="/families/hill-of-banchory-primary/"><img src="/variants/s7/db1y6db8r1db8g6y1~x4/sett.png" alt="Hill of Banchory Primary" width="140"><br><strong>Hill of Banchory Primary</strong></a></li>
 <li><a class="tartan" href="/families/hinnigan/"><img src="/variants/s14/db4y14k14g4db16g4y8g4db16g4k14y14db4t3~x2/sett.png" alt="Hinnigan" width="140"><br><strong>Hinnigan</strong></a></li>
 <li><a class="tartan" href="/variants/s4/ly28dr24dg55dp19~x2/"><strong>Hirstwood</strong></a></li>
-<li><a class="tartan" href="/families/hislop/"><img src="/variants/s34/db3k2db1k2db3lo1g3k2g2k6g2k6g2k2g24dr2g4dr2g24k2g2k6g2k6g2k2g3lo1db3k2db1k2db3g2~x2/sett.png" alt="Hislop" width="140"><br><strong>Hislop</strong></a></li>
+<li><a class="tartan" href="/families/hislop/"><img src="/variants/s8/r2k8y1k8g8db8k2w2~x2/sett.png" alt="Hislop" width="140"><br><strong>Hislop</strong></a></li>
 <li><a class="tartan" href="/variants/s14/r4k2r2k2r2k2dr8k6dr2g2db9g2k21w4~x2/"><strong>Hitchens, William Henry</strong></a></li>
 <li><a class="tartan" href="/families/hoban/"><img src="/variants/s16/lp9k3lp4k9g15k9db11w2db11k9g15k9lp4k3lp9y3~x4/sett.png" alt="Hoban" width="140"><br><strong>Hoban</strong></a></li>
 <li><a class="tartan" href="/variants/s7/k23r27db3r5w3k14y6~x2/"><strong>Hoffman Texas German</strong></a></li>
@@ -115,7 +115,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/variants/s15/n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2/"><strong>Howells</strong></a></li>
 <li><a class="tartan" href="/variants/s9/db5r19k2g8r3g18k2g9k2~x2/"><strong>Hubbard</strong></a></li>
 <li><a class="tartan" href="/families/hudson/"><img src="/variants/s11/db4lb2k2db12lb4dr6k6dr28k2lb2dr3~x2/sett.png" alt="Hudson" width="140"><br><strong>Hudson</strong></a></li>
-<li><a class="tartan" href="/families/hueg/"><img src="/variants/s8/db17dg5db5dg17db4dg17k6dg5~x2/sett.png" alt="Hueg" width="140"><br><strong>Hueg</strong></a></li>
+<li><a class="tartan" href="/families/hueg/"><img src="/variants/s10/db17g5db5g17db4g17k2dy2k2g5~x2/sett.png" alt="Hueg" width="140"><br><strong>Hueg</strong></a></li>
 <li><a class="tartan" href="/families/hughes/"><img src="/variants/s7/g20dg14db9y2db9k1w2~x4/sett.png" alt="Hughes" width="140"><br><strong>Hughes</strong></a></li>
 <li><a class="tartan" href="/families/hughes-of-wales/"><img src="/variants/s20/db34dbi20db4dbi8db6r2db5dbi2db3g4db3dbi2db5r2db6dbi8db4dbi20db34g4~db1204274-dbi1404245/sett.png" alt="Hughes of Wales" width="140"><br><strong>Hughes of Wales</strong></a></li>
 <li><a class="tartan" href="/variants/s9/k3g3k20r2k2r2db20g3db3~x2/"><strong>Hume or Home</strong></a></li>

@@ -1,6 +1,15 @@
 ---
 title: "MacLean of Duart, dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Maclean"
+  url: "/clan/maclean/"
+- name: "MacLean of Duart"
+  url: "/families/maclean-of-duart/"
+- name: "MacLean of Duart, dress"
+  url: "/tartans/m/ma/maclean-of-duart-dress-6/"
 ---
 This is the **MacLean of Duart, dress** sett — one scale-free proportion (`n12b2o4y2o3w3o3w19r30n2r4o2`), colour order pattern
 [BBRGRWRWRBRR](/stripes/bbrgrwrwrbrr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/yi12n2dy4y2dy3w3dy3w19r30yi2r4dy2~x2~yi2400000-n1700000/"><circle cx="180.3" cy="111.3" r="4" fill="#3465a4"><title>MacLean of Duart Dress #3</title></circle></a><a href="/variants/s12/n12o2dy4ly2dy3w3dy3w19r30o2r4dy2~x2~n1900000-o2500000/"><circle cx="172.2" cy="108.1" r="4" fill="#3465a4"><title>MacLean of Duart Dress</title></circle></a><a href="/variants/s12/wi10w2ri3y2ri2w2ri2n14r22wi2r6ri2~x2~wi3600000-ri2109032/"><circle cx="202.6" cy="139.7" r="4" fill="#3465a4"><title>Shotts &amp; Dykehead (Corporate)</title></circle></a><a href="/variants/s13/lb6dg2lb2dg5r20ri2r2ri25dr2ri2dr4ly10r2~x2~r1706009-ri2607041/"><circle cx="175.0" cy="127.8" r="4" fill="#3465a4"><title>Strathtay (District?)</title></circle></a><a href="/variants/s17/dp3o15n3o3r1o1r1o1r1o1r1o1r1o1r12w15dp3~x2/"><circle cx="191.4" cy="107.8" r="4" fill="#3465a4"><title>Purple Thistle</title></circle></a><a href="/variants/s16/r39dr3w2g14w2y4r4dr2r4y4w2lb12dr6r6y7w2~x2/"><circle cx="240.5" cy="93.4" r="4" fill="#3465a4"><title>North West Mounted Police Corporate Tartan</title></circle></a><a href="/variants/s16/r25do3w2ly25w3y5r4do2r4y5w3db4do5r6w1db1~x2/"><circle cx="197.2" cy="85.7" r="4" fill="#3465a4"><title>MacGlashan Clan Tartan</title></circle></a><a href="/variants/s12/r64lb16dp18y4dp4w4dp18g32r14lb4r14w3~x2/"><circle cx="236.3" cy="111.0" r="4" fill="#3465a4"><title>Wilson's No 4</title></circle></a><a href="/variants/s9/lb4g3lb9db14ly8db2r35ri2r3~x2~r2109032-ri2806019/"><circle cx="230.1" cy="118.1" r="4" fill="#3465a4"><title>Hogeboom (Personal)</title></circle></a><a href="/variants/s16/ri39r3w2g14w2y4ri4r2ri4y4w2lb12r6ri6y7w2~x2~ri2008029-r1506028/"><circle cx="244.1" cy="93.6" r="4" fill="#3465a4"><title>North West, Mounted Police</title></circle></a><circle cx="196.2" cy="115.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

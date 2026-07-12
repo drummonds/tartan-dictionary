@@ -1,6 +1,15 @@
 ---
 title: "Elliott"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Elliott"
+  url: "/clan/elliott/"
+- name: "Elliott"
+  url: "/families/elliott/"
+- name: "Elliott"
+  url: "/tartans/e/el/elliott/"
 ---
 This is the **Elliott** sett — one scale-free proportion (`db16r4db3dp1`), colour order pattern
 [BBRB](/stripes/bbrb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db16dr4db3r1~x2/"><circle cx="626.0" cy="244.8" r="4" fill="#3465a4"><title>Elliot</title></circle></a><a href="/variants/s4/db16dr4db3r1~x6/"><circle cx="626.0" cy="244.8" r="4" fill="#3465a4"><title>Elliot Clan Tartan</title></circle></a><a href="/variants/s4/db140r11db14y11/"><circle cx="626.0" cy="216.7" r="4" fill="#3465a4"><title>Gem</title></circle></a><a href="/variants/s4/db32r3db4y3~x2/"><circle cx="619.1" cy="225.6" r="4" fill="#3465a4"><title>MacLaine of Lochbuie</title></circle></a><a href="/variants/s4/db102r11db14w11/"><circle cx="535.7" cy="216.1" r="4" fill="#3465a4"><title>Westfield (Corporate?)</title></circle></a><a href="/variants/s4/db1lb1db8r1~x2/"><circle cx="532.5" cy="229.7" r="4" fill="#3465a4"><title>Lochaber #3</title></circle></a><a href="/variants/s4/db60y6db11r25~x2/"><circle cx="431.5" cy="216.5" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums (Corp</title></circle></a><a href="/variants/s5/db32r3db4k1y3/"><circle cx="589.6" cy="135.3" r="4" fill="#3465a4"><title>MacLaine of Lochbuie Hunting</title></circle></a><a href="/variants/s5/db32r3db4k1y3~x2/"><circle cx="589.6" cy="135.3" r="4" fill="#3465a4"><title>MacLaine of Lochbuie Hunting Clan Tartan</title></circle></a><a href="/variants/s5/dy1db9dy2db9r1~x4/"><circle cx="620.8" cy="268.4" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Blue</title></circle></a><circle cx="559.1" cy="220.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

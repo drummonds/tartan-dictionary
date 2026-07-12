@@ -1,6 +1,15 @@
 ---
 title: "Kerr (Clan)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Kerr"
+  url: "/clan/kerr/"
+- name: "Kerr"
+  url: "/families/kerr/"
+- name: "Kerr"
+  url: "/tartans/k/ke/kerr/"
 ---
 This is the **Kerr (Clan)** sett — one scale-free proportion (`g20k1g2k1g3k14dr28k1dr2k4`), colour order pattern
 [GKGKGKBKBK](/stripes/gkgkgkbkbk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g20k1g2k1g3k14r28k1r2k4~x2/"><circle cx="231.9" cy="114.2" r="4" fill="#3465a4"><title>Kerr</title></circle></a><a href="/variants/s9/g22k1g2k1g3k8r20k1r6~x2/"><circle cx="248.6" cy="137.9" r="4" fill="#3465a4"><title>Stewart of Athol Clan Tartan</title></circle></a><a href="/variants/s9/g22k1g2k1g3k8r20k1r3~x4/"><circle cx="255.7" cy="133.4" r="4" fill="#3465a4"><title>Stewart of Atholl (Clan)</title></circle></a><a href="/variants/s9/g24k3g2k3g4k4r20k3r6~x2/"><circle cx="224.9" cy="165.2" r="4" fill="#3465a4"><title>Alma College (Corporate)</title></circle></a><a href="/variants/s10/g20k1g2k1g3k14db28k1db2k4~x2/"><circle cx="244.9" cy="129.2" r="4" fill="#3465a4"><title>Kerr Hunting</title></circle></a><a href="/variants/s10/y3k1g22k20dp20g2dp2g2dp2g3~x4/"><circle cx="200.5" cy="127.1" r="4" fill="#3465a4"><title>Urbino (Fashion)</title></circle></a><a href="/variants/s10/db4dy30k2dy2k14ly2k2ly1k6ly3~x2/"><circle cx="287.3" cy="102.3" r="4" fill="#3465a4"><title>Hickory</title></circle></a><a href="/variants/s10/dg9k2dg2g13k2g2dy1dg13k26dy2~x2/"><circle cx="238.2" cy="130.8" r="4" fill="#3465a4"><title>Pride of Ireland Fashion Tartan</title></circle></a><a href="/variants/s11/k9o2k2n2o18n2k2r1k20n33r2~x2~o2500000-n1900000/"><circle cx="225.4" cy="97.4" r="4" fill="#3465a4"><title>Pride of Scotland Silver</title></circle></a><a href="/variants/s10/w6k1g29k23dp27g3dp3g3dp3g4~x2/"><circle cx="194.6" cy="117.4" r="4" fill="#3465a4"><title>Rennie Family Tartan</title></circle></a><circle cx="252.6" cy="126.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

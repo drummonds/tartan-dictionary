@@ -1,6 +1,11 @@
 ---
 title: "Suntan (Masai Shuka) (District?)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Suntan"
+  url: "/tartans/s/su/suntan/"
 ---
 This is the **Suntan (Masai Shuka) (District?)** sett — one scale-free proportion (`k3r11db3w1db3w1`), colour order pattern
 [KRBWBW](/stripes/krbwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/w3db12k12r20g2~x2/"><circle cx="140.6" cy="189.5" r="4" fill="#3465a4"><title>Baillie of Polkemett</title></circle></a><a href="/variants/s5/y2r15k7db8y2~x4/"><circle cx="179.9" cy="213.2" r="4" fill="#3465a4"><title>Aberdeen University Corporate Tartan</title></circle></a><a href="/variants/s5/dy4r27k12db15dy4~x2/"><circle cx="177.7" cy="220.7" r="4" fill="#3465a4"><title>Aberdeen University (1992)</title></circle></a><a href="/variants/s6/k4db32r30db2w5k2~x2/"><circle cx="242.3" cy="147.9" r="4" fill="#3465a4"><title>Masai Shuka 17 (Artefact)</title></circle></a><a href="/variants/s6/r32db6k6g6w18k3/"><circle cx="160.8" cy="161.4" r="4" fill="#3465a4"><title>Rose Dress White Dress Clan Tartan</title></circle></a><a href="/variants/s5/db4y4r33k30w2~x2/"><circle cx="218.6" cy="143.2" r="4" fill="#3465a4"><title>Wormeck (2013) Germany</title></circle></a><a href="/variants/s6/r3db15r3g8r20k2~x2/"><circle cx="248.3" cy="191.0" r="4" fill="#3465a4"><title>Finnigan (Estimated threadcount)</title></circle></a><a href="/variants/s6/r36lb3r5k21db24k3~x2~db1406275/"><circle cx="207.3" cy="176.6" r="4" fill="#3465a4"><title>Graham of Menteith (Red)</title></circle></a><a href="/variants/s6/db1r12k6y1k6db1~x4/"><circle cx="227.4" cy="167.1" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/variants/s6/k3n28k3r22k8w3~x2/"><circle cx="193.9" cy="182.5" r="4" fill="#3465a4"><title>Henkel (Corporate)</title></circle></a><circle cx="226.4" cy="167.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

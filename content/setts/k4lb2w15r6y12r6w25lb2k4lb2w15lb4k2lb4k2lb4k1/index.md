@@ -1,6 +1,15 @@
 ---
 title: "Beck Dress (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Beck"
+  url: "/clan/beck/"
+- name: "Beck"
+  url: "/families/beck/"
+- name: "Beck Dress"
+  url: "/tartans/b/be/beck-dress/"
 ---
 This is the **Beck Dress (Personal)** sett — one scale-free proportion (`k4lb2w15r6y12r6w25lb2k4lb2w15lb4k2lb4k2lb4k1`), colour order pattern
 [KWKWKWWWKWWRGRWWK](/stripes/kwkwkwwwkwwrgrwwk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/k4lb2w15r6w25lb2k4lb2w15lb4k2lb4k2lb4k2~x2/"><circle cx="243.0" cy="122.0" r="4" fill="#3465a4"><title>Beck Dress (Personal)</title></circle></a><a href="/variants/s17/k2w2lb15r6y12r6lb25w2k4w2lb15w4k2w4k2w4k1~x2/"><circle cx="203.6" cy="86.8" r="4" fill="#3465a4"><title>Beck (Personal)</title></circle></a><a href="/variants/s16/k6g4k1w16lb1w4lb6w1lb6w4lb1w16k1g4k6y1~x2/"><circle cx="184.5" cy="109.3" r="4" fill="#3465a4"><title>Henderson Dress #1</title></circle></a><a href="/variants/s15/w16ly1k2ly1w16g2k1g2r22w4db3w4db3w4db3~x2/"><circle cx="206.9" cy="71.5" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield Cer. (Dis )</title></circle></a><a href="/variants/s15/w16dy1k2dy1w16g2k1g2r22w4db3w4db3w4db3~x2/"><circle cx="205.6" cy="70.9" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield Ceremonial</title></circle></a><a href="/variants/s13/w9r5w29k10y2k3w3k3g12r6k3r3w2~x2/"><circle cx="160.7" cy="110.6" r="4" fill="#3465a4"><title>Hay, or Stewart</title></circle></a><a href="/variants/s13/w9r5w29k10y2k3w3k3dg12r6k3r3w2~x2/"><circle cx="160.6" cy="109.0" r="4" fill="#3465a4"><title>Hay or Stewart</title></circle></a><a href="/variants/s14/dy4lb1dy2lb1dy2lb16k1g8dy8r8k1lb24k1w4~x2/"><circle cx="209.9" cy="77.2" r="4" fill="#3465a4"><title>Ethiopia</title></circle></a><a href="/variants/s11/dg4r2k1w30r10dg14r4dg5w2dg5r4~x2/"><circle cx="193.5" cy="80.3" r="4" fill="#3465a4"><title>Scott Dress</title></circle></a><a href="/variants/s14/r2w24lb3w3k6y1k1w1k1g8r4k1r2w1~x2/"><circle cx="185.8" cy="53.9" r="4" fill="#3465a4"><title>Stewart Victoria Royal Family Tartan</title></circle></a><circle cx="183.6" cy="85.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

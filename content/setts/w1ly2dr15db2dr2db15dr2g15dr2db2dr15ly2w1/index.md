@@ -1,6 +1,15 @@
 ---
 title: "Robbie (Commemorative)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Robbie"
+  url: "/clan/robbie/"
+- name: "Robbie"
+  url: "/families/robbie/"
+- name: "Robbie"
+  url: "/tartans/r/ro/robbie/"
 ---
 This is the **Robbie (Commemorative)** sett — one scale-free proportion (`w1ly2dr15db2dr2db15dr2g15dr2db2dr15ly2w1`), colour order pattern
 [WYBBBBBGBBBYW](/stripes/wybbbbbgbbbyw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w1dy2dr15db2dr2db15dr2g15dr2db2dr15dy2w1~x2/"><circle cx="292.7" cy="163.5" r="4" fill="#3465a4"><title>Robbie (Stirling) (Personal)</title></circle></a><a href="/variants/s10/db28dr26w2db5w2dr26g28dr5w2dr5~x2/"><circle cx="293.3" cy="194.8" r="4" fill="#3465a4"><title>Glenfinnan (Clan?)</title></circle></a><a href="/variants/s8/dr3lb2g18lo2g18dp34dr3dp3~x2/"><circle cx="302.1" cy="172.2" r="4" fill="#3465a4"><title>Singh</title></circle></a><a href="/variants/s9/g4y9g3db4g3w3dr32g4y3~x2~db1208266/"><circle cx="285.9" cy="169.6" r="4" fill="#3465a4"><title>Antrim County, Crest Range</title></circle></a><a href="/variants/s8/w4db38g6dr2g6dr38ly2dr3~x2/"><circle cx="300.2" cy="158.5" r="4" fill="#3465a4"><title>21st Century (Fashion)</title></circle></a><a href="/variants/s8/dr5y2dr35g6dr2g6db38w4~x2/"><circle cx="301.9" cy="164.0" r="4" fill="#3465a4"><title>Scotland 2000</title></circle></a><a href="/variants/s10/g18dp3db10dbi2db10dp20g20dp3y2db2~x2~dp1607327-db0805267-dbi1307262/"><circle cx="225.5" cy="201.0" r="4" fill="#3465a4"><title>Glasgow Cathedral Corporate Tartan</title></circle></a><a href="/variants/s8/w4db38g6dr2g6dr36y2dr3~x2/"><circle cx="301.0" cy="161.5" r="4" fill="#3465a4"><title>Scotland 2000</title></circle></a><a href="/variants/s11/w3dr30dg3db3dr3dy3db8lb3dy3db3w3~x2/"><circle cx="262.3" cy="142.1" r="4" fill="#3465a4"><title>Lansdowne Course, Blairgowrie Golf Club</title></circle></a><a href="/variants/s10/lb1dr1g1dr11db6dr1g14dr1g1lb1~x4/"><circle cx="292.0" cy="178.1" r="4" fill="#3465a4"><title>Glen Tilt #1</title></circle></a><circle cx="270.1" cy="156.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

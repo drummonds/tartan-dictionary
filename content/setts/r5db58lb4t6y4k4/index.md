@@ -1,6 +1,11 @@
 ---
 title: "Kendle (2013)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Kendle"
+  url: "/tartans/k/ke/kendle/"
 ---
 This is the **Kendle (2013)** sett — one scale-free proportion (`r5db58lb4t6y4k4`), colour order pattern
 [KGBWBR](/stripes/kgbwbr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r5db58lb4n6y4k4~x2~db1406275-n2203265/"><circle cx="411.7" cy="119.1" r="4" fill="#3465a4"><title>Kendle (2013)</title></circle></a><a href="/variants/s5/ki61w4k11db5dr5~x2~ki0604259/"><circle cx="417.4" cy="150.1" r="4" fill="#3465a4"><title>Edinburgh Crystal</title></circle></a><a href="/variants/s5/db46k6g9dy9r4/"><circle cx="337.8" cy="177.1" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="279.2" cy="129.2" r="4" fill="#3465a4"><title>Marion (Personal)</title></circle></a><a href="/variants/s4/r2k6db33w2~x4/"><circle cx="458.3" cy="161.8" r="4" fill="#3465a4"><title>McCallie</title></circle></a><a href="/variants/s4/db14k3dr3w1~x2/"><circle cx="384.3" cy="193.1" r="4" fill="#3465a4"><title>Bacon, Blue</title></circle></a><a href="/variants/s5/db19r2w2r2k2~x4/"><circle cx="374.8" cy="164.9" r="4" fill="#3465a4"><title>Laing of Archiestown</title></circle></a><a href="/variants/s8/k1db24r1lo1y1g1dbi1dp1~x7~db0906265-dbi1208266/"><circle cx="446.6" cy="45.9" r="4" fill="#3465a4"><title>Way of the Rainbow</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="403.7" cy="109.5" r="4" fill="#3465a4"><title>Pool, Robert David (Personal)</title></circle></a><a href="/variants/s4/db31k8dp4w2~x4/"><circle cx="409.9" cy="186.0" r="4" fill="#3465a4"><title>Osborne, Luke Alexander (Personal)</title></circle></a><circle cx="395.0" cy="115.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

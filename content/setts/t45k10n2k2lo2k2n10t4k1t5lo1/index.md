@@ -1,6 +1,13 @@
 ---
 title: "Skye, Isle of"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Skye"
+  url: "/clan/skye/"
+- name: "Skye, Isle of"
+  url: "/tartans/s/sk/skye-isle-of/"
 ---
 This is the **Skye, Isle of** sett — one scale-free proportion (`t45k10n2k2lo2k2n10t4k1t5lo1`), colour order pattern
 [BKBKYKBBKBYBKBBKYKBK](/stripes/bkbkykbbkbybkbbkykbk/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db50k12o2k2w2k2o12db7k7w2~x2~o2500000/"><circle cx="224.1" cy="77.6" r="4" fill="#3465a4"><title>Skye</title></circle></a><a href="/variants/s14/g3lb2g3r4g15k2g2k2g3db35k2db2k1db2~x2/"><circle cx="277.4" cy="61.9" r="4" fill="#3465a4"><title>Prestoungrange (Personal)</title></circle></a><a href="/variants/s14/db116k4g22ri7db3ri7k26db7g3db7g66db4ri7r4~ri2406019-r2109032/"><circle cx="267.5" cy="59.0" r="4" fill="#3465a4"><title>Cooper Family Tartan</title></circle></a><a href="/variants/s14/g3b2g3r4g15k2g2k2g3db35k2db2k1db2~x2/"><circle cx="282.1" cy="63.4" r="4" fill="#3465a4"><title>Prestoungrange/Dolphinstoun/Wills</title></circle></a><a href="/variants/s18/db60ly2db2ly2db5k15db5g20r2k3r2g20db5k15g5db20ly2g4~x2/"><circle cx="249.4" cy="66.6" r="4" fill="#3465a4"><title>Whitworth (Name)</title></circle></a><a href="/variants/s14/db116k4g22b7db3b7k26db7g3db7g66db4b7r4/"><circle cx="276.1" cy="64.6" r="4" fill="#3465a4"><title>Cooper</title></circle></a><a href="/variants/s17/db28k1db1k1db3k12g24y1g1y2g1y1g24k12db18k1db4/"><circle cx="219.2" cy="98.6" r="4" fill="#3465a4"><title>Gordon VS</title></circle></a><a href="/variants/s17/db28k1db1k1db3k12g24y1g1y2g1y1g24k12db18k1db4~x2/"><circle cx="219.2" cy="98.6" r="4" fill="#3465a4"><title>Gordon Old Clan/Family Tartan</title></circle></a><a href="/variants/s15/k30n33k1ly1k1n8k1ly2k1n3k1ly3w2k1ly7~x2/"><circle cx="259.2" cy="63.8" r="4" fill="#3465a4"><title>Black Onyx</title></circle></a><a href="/variants/s16/db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12/"><circle cx="230.5" cy="42.6" r="4" fill="#3465a4"><title>Livingston, dress</title></circle></a><circle cx="287.6" cy="52.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

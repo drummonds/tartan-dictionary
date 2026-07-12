@@ -1,6 +1,15 @@
 ---
 title: "MacKintosh Dress (Scott Adie)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Mackintosh (Clan Chattan)"
+  url: "/clan/mackintosh/"
+- name: "MacKintosh"
+  url: "/families/mackintosh/"
+- name: "MacKintosh Dress"
+  url: "/tartans/m/ma/mackintosh-dress/"
 ---
 This is the **MacKintosh Dress (Scott Adie)** sett — one scale-free proportion (`r3w8db4dg14r4db2`), colour order pattern
 [BRGBWR](/stripes/brgbwr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r3w8db4g14r4db2~x2/"><circle cx="163.4" cy="236.5" r="4" fill="#3465a4"><title>MacIntosh Dress Clan Tartan</title></circle></a><a href="/variants/s5/db9r12dg9db5w2~x4/"><circle cx="170.0" cy="275.4" r="4" fill="#3465a4"><title>Battle of Prestonpans (1745) Herit</title></circle></a><a href="/variants/s6/db13w13db4ly2g8r3~x2/"><circle cx="128.6" cy="230.0" r="4" fill="#3465a4"><title>Unidentified (Winterbottom)</title></circle></a><a href="/variants/s6/dr1n6k1w3k3dr1~x8/"><circle cx="132.1" cy="219.5" r="4" fill="#3465a4"><title>Thompson Grey Dress</title></circle></a><a href="/variants/s6/r10dy60db13w24db24dy8/"><circle cx="222.0" cy="222.0" r="4" fill="#3465a4"><title>Bronte House Check</title></circle></a><a href="/variants/s6/lb1dr6db1lb3k3lb1~x8/"><circle cx="156.7" cy="223.6" r="4" fill="#3465a4"><title>MacTavish #2</title></circle></a><a href="/variants/s6/w5lb34k24lb4dr24lb4~x2/"><circle cx="175.6" cy="205.3" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/variants/s7/r3db15w13dy6db2dy2r2~x2/"><circle cx="161.5" cy="204.5" r="4" fill="#3465a4"><title>Thompson Navy Trade Tartan</title></circle></a><a href="/variants/s7/r3db15w13o6db2o2r2~x2/"><circle cx="164.9" cy="204.5" r="4" fill="#3465a4"><title>Thom(p)son, Navy</title></circle></a><a href="/variants/s6/db3r2g5r8db12w3~x2/"><circle cx="193.9" cy="242.5" r="4" fill="#3465a4"><title>Edinburgh Bus Company (Corporate)</title></circle></a><circle cx="157.6" cy="230.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

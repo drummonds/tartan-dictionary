@@ -1,6 +1,11 @@
 ---
 title: "Mens Bigi"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Mens Bigi"
+  url: "/tartans/m/me/mens-bigi/"
 ---
 This is the **Mens Bigi** sett — one scale-free proportion (`lo4k17dr1k4dr2k4dr33w3`), colour order pattern
 [WBKBKBKY](/stripes/wbkbkbky/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k3r1k30r28k1r1w3~x2/"><circle cx="318.3" cy="109.4" r="4" fill="#3465a4"><title>Cunningham</title></circle></a><a href="/variants/s10/y4k30dr30k2dr2y2k2dr5w5g2~x2/"><circle cx="222.8" cy="109.3" r="4" fill="#3465a4"><title>Haileybury Pipe Band (Corporate)</title></circle></a><a href="/variants/s10/y4k30dr30k2dr2y2k2dr5w5g2~x2~g2408144/"><circle cx="222.0" cy="109.1" r="4" fill="#3465a4"><title>Haileybury Pipe Band Corporate Tartan</title></circle></a><a href="/variants/s6/k4w2k28r30k1r3~x2/"><circle cx="313.5" cy="126.9" r="4" fill="#3465a4"><title>Ramsay of Dalhousie</title></circle></a><a href="/variants/s7/k3r1k30r28db1r1w3~x2/"><circle cx="292.6" cy="96.5" r="4" fill="#3465a4"><title>Cunningham (VS) Clan Tartan</title></circle></a><a href="/variants/s9/y1k3r24k3r3k24r3k3w1~x2/"><circle cx="295.1" cy="97.4" r="4" fill="#3465a4"><title>Maciver of Strathendry Castle Dress (Personal)</title></circle></a><a href="/variants/s9/y1r6k1r1k16r1k1r6w1~x2/"><circle cx="280.3" cy="111.0" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s8/dg5k1r2k4r36k23w4y2~x2/"><circle cx="257.6" cy="74.0" r="4" fill="#3465a4"><title>Aberdeen F.C.</title></circle></a><a href="/variants/s8/r2k1r12k2r3k26dy14ri2~x4~r1807016-ri2610034/"><circle cx="268.3" cy="124.7" r="4" fill="#3465a4"><title>Booth (Fashion)</title></circle></a><a href="/variants/s9/w2k3r10k5r3k5r15k35w1~x2/"><circle cx="353.0" cy="100.8" r="4" fill="#3465a4"><title>Bertea, A H (Personal)</title></circle></a><circle cx="315.0" cy="104.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

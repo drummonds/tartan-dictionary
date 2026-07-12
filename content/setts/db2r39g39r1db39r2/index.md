@@ -1,6 +1,15 @@
 ---
 title: "Mar"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Mar"
+  url: "/clan/mar/"
+- name: "Mar"
+  url: "/families/mar/"
+- name: "Mar"
+  url: "/tartans/m/ma/mar-2/"
 ---
 This is the **Mar** sett — one scale-free proportion (`db2r39g39r1db39r2`), colour order pattern
 [BRGRBR](/stripes/brgrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db2r24g24r1db24r2~x2/"><circle cx="260.9" cy="192.9" r="4" fill="#3465a4"><title>Mar Dress</title></circle></a><a href="/variants/s6/r60db20r8g45r8db2~x2/"><circle cx="360.9" cy="177.8" r="4" fill="#3465a4"><title>Caledonian</title></circle></a><a href="/variants/s7/db1r5g18r4db9r10w1~x4/"><circle cx="243.5" cy="187.5" r="4" fill="#3465a4"><title>MacKintosh Geddes</title></circle></a><a href="/variants/s6/y2db1r16db16r1g2~x2/"><circle cx="307.8" cy="172.8" r="4" fill="#3465a4"><title>Galloway Dress District Tartan</title></circle></a><a href="/variants/s7/db9r3db1r3g9r3db1~x2/"><circle cx="228.4" cy="231.9" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s7/db8r3db1r3g14r3db1~x4/"><circle cx="269.9" cy="204.1" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s7/r6db2r2db21g20r4g4~x2/"><circle cx="259.0" cy="216.7" r="4" fill="#3465a4"><title>Robertson of Struan</title></circle></a><a href="/variants/s5/db1r14g7db7r1~x4/"><circle cx="310.0" cy="219.5" r="4" fill="#3465a4"><title>Fraser of Boblainy, Hugh (Personal)</title></circle></a><a href="/variants/s6/r2db12r2g12r24w1~x2/"><circle cx="321.6" cy="165.8" r="4" fill="#3465a4"><title>Fraser (1745)</title></circle></a><a href="/variants/s6/r2db12r2dg12r24w1~x2/"><circle cx="327.0" cy="165.1" r="4" fill="#3465a4"><title>Fraser</title></circle></a><circle cx="276.7" cy="171.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Rosalyn (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Rosalyn"
+  url: "/tartans/r/ro/rosalyn/"
 ---
 This is the **Rosalyn (Fashion)** sett — one scale-free proportion (`k16g50k2ly16k2dg4k2ly16k2lo50k16r16k2ly4k2r16k16t1k2r4k2t16`), colour order pattern
 [BKRKBKRKYKRKYKYKGKYKGK](/stripes/bkrkbkrkykrkykykgkykgk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s22/k8dg25k1ly8k1g2k1ly8k1lo25k8r8k1ly2k1r8k8db8k1r2k1db8~x2/"><circle cx="25.7" cy="44.0" r="4" fill="#3465a4"><title>Rosalyn</title></circle></a><a href="/variants/s24/k4w2k2w1lb6r6g6w1g27w1db4lb4dy3w1dy3lb4db4w1r36db3lb2w1lb2db3~x2/"><circle cx="126.4" cy="14.0" r="4" fill="#3465a4"><title>Ross Wedding Dress</title></circle></a><a href="/variants/s20/g7w1t7w2t6w3t5w4t4w5t3w6t2w7t1w8r31dr31k10g4~x2/"><circle cx="73.5" cy="56.8" r="4" fill="#3465a4"><title>Gallacher, (Name)</title></circle></a><a href="/variants/s16/lb8lo8r6k6b28lo12r6k2r6lo12g28lb2k4r54dr1lb2~x2~lb3300000-r1607033-b2603265/"><circle cx="159.4" cy="32.1" r="4" fill="#3465a4"><title>Finzean's Fancy</title></circle></a><a href="/variants/s24/k4w2k2w1lb6r6g6w1g27w1db4lb4o3w1o3lb4db4w1r36db3lb2w1lb2db3~x2/"><circle cx="129.4" cy="14.3" r="4" fill="#3465a4"><title>Ross, Wedding dress</title></circle></a><a href="/variants/s23/w2r3k2r8g16k2w2k2ly1k10t6r32t6k10ly1k2w2k2g16r8k2r3w1~x4/"><circle cx="136.7" cy="38.6" r="4" fill="#3465a4"><title>Stewart</title></circle></a><a href="/variants/s19/k13r2g9db5lb3r2k4y2k2y2k3w4k3db2r22lb1k3g4lb2~x2/"><circle cx="68.2" cy="52.9" r="4" fill="#3465a4"><title>Anderson of Ardbrake</title></circle></a><a href="/variants/s16/w5y8ri6k6lb28y12ri6k2ri6y12g28w2k4ri54r1w2~x2~ri2008029-r1707016/"><circle cx="166.9" cy="30.8" r="4" fill="#3465a4"><title>Finzean, Fancy</title></circle></a><a href="/variants/s24/k4lb2k2lb1lg6o6dg6lb1dg27lb1db4lg4do3lb1do3lg4db4lb1o36db3lg2lb1lg2db3~x4/"><circle cx="134.9" cy="20.6" r="4" fill="#3465a4"><title>Wedding Dress:1766</title></circle></a><a href="/variants/s28/o36lbi1lb6lbi1db8r4k4r24k4o8lbi1lb6lbi1lo18o6k4o6lo18lbi1lb6lbi1lo8k4o24k4o4db8lbi4~x2~lbi3200000-lb3103284/"><circle cx="124.0" cy="27.6" r="4" fill="#3465a4"><title>Kinross #2</title></circle></a><circle cx="60.4" cy="14.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

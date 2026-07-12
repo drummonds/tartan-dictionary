@@ -1,6 +1,11 @@
 ---
 title: "Walkers Shortbread (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Walkers Shortbread"
+  url: "/tartans/w/wa/walkers-shortbread-2/"
 ---
 This is the **Walkers Shortbread (Corporate)** sett — one scale-free proportion (`r5k1r2k2r16lb2r2k9r2k2r2k13r2k2r4`), colour order pattern
 [RKRKRKRKRWRKRKR](/stripes/rkrkrkrkrwrkrkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k11r2k11r20w2r20k7r1k7r1k7r11w1~x2/"><circle cx="287.4" cy="130.8" r="4" fill="#3465a4"><title>Westwood MacBrick (Fashion)</title></circle></a><a href="/variants/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/"><circle cx="286.0" cy="103.6" r="4" fill="#3465a4"><title>Hebrides #12</title></circle></a><a href="/variants/s10/k9r4k2r4k2r30k9r4k14lo2~x2/"><circle cx="293.6" cy="136.8" r="4" fill="#3465a4"><title>Hanna of Falkirk (Clan?)</title></circle></a><a href="/variants/s21/k4r3k3r4k22r4k3r3dg4r3k3r44k30r10dg10r40dg30r27k10r14dg3~x2/"><circle cx="269.0" cy="114.1" r="4" fill="#3465a4"><title>Murray of Tullibardine - Artefact</title></circle></a><a href="/variants/s14/k15r2k1r2k1r4lo1k1r14k1r2k1r1k10~x4/"><circle cx="297.0" cy="110.4" r="4" fill="#3465a4"><title>Johnnie Walker (1985)</title></circle></a><a href="/variants/s14/k15r2k1r2k1r4b1k1r14k1r2k1r1k10~x4/"><circle cx="297.9" cy="110.9" r="4" fill="#3465a4"><title>Johnnie Walker</title></circle></a><a href="/variants/s15/r5k1r2k2r16lb2r2k9r2g2r2g13r2k2r4~x2/"><circle cx="239.0" cy="113.0" r="4" fill="#3465a4"><title>Unidentified No 3 #2</title></circle></a><a href="/variants/s12/r2y1k2r13k2r2k2r2k12r2y1g2~x2/"><circle cx="241.3" cy="118.2" r="4" fill="#3465a4"><title>Hallingdal District Tartan</title></circle></a><a href="/variants/s12/y4k2r7k15r3k3r3k7r28dg7r6dg2/"><circle cx="252.9" cy="124.8" r="4" fill="#3465a4"><title>Walker</title></circle></a><a href="/variants/s10/r4k4r3k8w3r3k20r40w2r4/"><circle cx="332.1" cy="108.6" r="4" fill="#3465a4"><title>University of South Carolina (Corp)</title></circle></a><circle cx="284.4" cy="120.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

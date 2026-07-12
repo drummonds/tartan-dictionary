@@ -1,6 +1,11 @@
 ---
 title: "MacDonald of Lochmaddy"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDonald"
+  url: "/clan/macdonald/"
 ---
 A family of [Clan MacDonald](/clan/macdonald/).
 

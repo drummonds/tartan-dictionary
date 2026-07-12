@@ -1,6 +1,11 @@
 ---
 title: "Tartan Army Whisky"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Tartan Army Whisky"
+  url: "/tartans/t/ta/tartan-army-whisky/"
 ---
 This is the **Tartan Army Whisky** sett — one scale-free proportion (`ri26g5dg7r2do9lr1lo1dg4`), colour order pattern
 [GYYBRGGR](/stripes/gyybrggr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r26g5dg7dr2do9lo1loi1dg4~x2~lo2706066-loi2905070/"><circle cx="266.7" cy="109.2" r="4" fill="#3465a4"><title>Tartan Army Whisky</title></circle></a><a href="/variants/s9/g9y2g6r35db6lb1dr20db5lb2~x2~r2109032-db1004274/"><circle cx="250.4" cy="108.5" r="4" fill="#3465a4"><title>Telfer Name Tartan</title></circle></a><a href="/variants/s9/g9y2g6r35db6lb1dr20db5lb2~x2/"><circle cx="240.4" cy="104.9" r="4" fill="#3465a4"><title>Telfer (Name)</title></circle></a><a href="/variants/s7/dr5dg8do13o21y34lr55dg3/"><circle cx="215.4" cy="163.2" r="4" fill="#3465a4"><title>Canadian Shield (Personal)</title></circle></a><a href="/variants/s11/y3o24db4o8w2o2g10r12oi2r5w2~x2~o1604043-oi2102055/"><circle cx="214.7" cy="137.9" r="4" fill="#3465a4"><title>Unidentified 31</title></circle></a><a href="/variants/s9/g9dy2g6r35db6lb1dr20db5lb2~x2/"><circle cx="239.7" cy="104.6" r="4" fill="#3465a4"><title>Telfer</title></circle></a><a href="/variants/s11/r40dg2r2dp2r2g2r2dr5dg20y2dp20~x2/"><circle cx="285.4" cy="106.3" r="4" fill="#3465a4"><title>Cadden-Phillips (Personal)</title></circle></a><a href="/variants/s8/w3o1r29o16g23db3g3y2~x2/"><circle cx="246.5" cy="132.9" r="4" fill="#3465a4"><title>Etienne, Paschal Tache Sir...</title></circle></a><a href="/variants/s9/dg18g2db5r45dbi3db18dbi3r5w2~dg1806142-g2408144-db1204274-dbi1406275/"><circle cx="278.8" cy="113.0" r="4" fill="#3465a4"><title>MacNiven Family Tartan</title></circle></a><a href="/variants/s12/o3n20r1n4r2n2r4n2r5g2dr20w3~x2~o2500000-n1900000/"><circle cx="260.4" cy="125.3" r="4" fill="#3465a4"><title>Ryutokukan High School (Corporate)</title></circle></a><circle cx="274.5" cy="112.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

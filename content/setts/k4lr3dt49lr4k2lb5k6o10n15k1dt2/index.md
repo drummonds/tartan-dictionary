@@ -1,6 +1,11 @@
 ---
 title: "Misty Isle (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Misty Isle"
+  url: "/tartans/m/mi/misty-isle/"
 ---
 This is the **Misty Isle (Fashion)** sett — one scale-free proportion (`k4lr3dt49lr4k2lb5k6o10n15k1dt2`), colour order pattern
 [BKBRKWKYBYK](/stripes/bkbrkwkybyk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dy9lb2r1lb2dy3k9dg3dy1n35k3n2~x2/"><circle cx="282.2" cy="63.0" r="4" fill="#3465a4"><title>Donohoe Grey, Peter</title></circle></a><a href="/variants/s12/r10db4r3db6w3db4w3db40dg73k4db2ly6/"><circle cx="265.8" cy="59.2" r="4" fill="#3465a4"><title>Johnston, Diana Dress (Personal)</title></circle></a><a href="/variants/s11/do9lb2r1lb2do3k9dg3do1n35k3n2~x2/"><circle cx="283.1" cy="63.0" r="4" fill="#3465a4"><title>Donohoe Grey, Peter (Commemorative)</title></circle></a><a href="/variants/s9/n47lo1k27o4dg5lo1o8t1k1~x2~n1900000-o2500000/"><circle cx="262.5" cy="55.2" r="4" fill="#3465a4"><title>Brighton Mac Dermott (Fashion)</title></circle></a><a href="/variants/s11/dg50dgi6dg3k6g1dgi6k5lb5k18lb3g1~x2~dgi1806142-g2408144/"><circle cx="291.3" cy="66.6" r="4" fill="#3465a4"><title>Undiscovered Scotland (Corporate)</title></circle></a><a href="/variants/s11/db80lo1k4lo4k4lo4k22g36db4t6lb2/"><circle cx="257.0" cy="45.3" r="4" fill="#3465a4"><title>Swedish #2</title></circle></a><a href="/variants/s11/dy49ly3dy6k7t21r4k16g12k1dy12k3~x2/"><circle cx="246.1" cy="71.2" r="4" fill="#3465a4"><title>State Seal of South Dakota (Fashion)</title></circle></a><a href="/variants/s10/k45r4k4n4ly16n76db8ly6db2w4/"><circle cx="216.3" cy="54.6" r="4" fill="#3465a4"><title>Highland Gathering (Fashion?)</title></circle></a><a href="/variants/s11/db80lo1k4lo4k4lo4k22g36db4b6lb2/"><circle cx="257.3" cy="45.1" r="4" fill="#3465a4"><title>Swedish District Tartan</title></circle></a><a href="/variants/s11/db60k15g10r2g10r2g10r2g10k1y4~x2/"><circle cx="272.1" cy="67.6" r="4" fill="#3465a4"><title>Muir/Moore</title></circle></a><circle cx="257.6" cy="50.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

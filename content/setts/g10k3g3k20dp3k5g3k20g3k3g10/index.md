@@ -1,6 +1,11 @@
 ---
 title: "Pike Personal Weavers Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Pike Personal Weavers"
+  url: "/tartans/p/pi/pike-personal-weavers/"
 ---
 This is the **Pike Personal Weavers Tartan** sett — one scale-free proportion (`g10k3g3k20dp3k5g3k20g3k3g10`), colour order pattern
 [GKGKGKBKGKGKGKBKGKGK](/stripes/gkgkgkbkgkgkgkbkgkgk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dg5k2dg2k2dg2k12r2k12dg6k2dg2~x2/"><circle cx="339.5" cy="208.8" r="4" fill="#3465a4"><title>MacLoughlin of Ardmarnoch (Personal)</title></circle></a><a href="/variants/s11/dg10k3dg3k20dp3k5g3k20dg3k3dg10~x2~dg1806142-g2408144/"><circle cx="278.7" cy="182.4" r="4" fill="#3465a4"><title>Pike (Personal)</title></circle></a><a href="/variants/s10/k4g12k3g4k3g3k36g3k2y3~x2/"><circle cx="367.6" cy="123.6" r="4" fill="#3465a4"><title>Reagan (Personal)</title></circle></a><a href="/variants/s10/k3g2k20r2k12g2k4g2k6g2~x2/"><circle cx="456.0" cy="160.8" r="4" fill="#3465a4"><title>Renwick</title></circle></a><a href="/variants/s10/dg18k3dg3k3dg3k21g2k21dg21k4~x2~dg1806142-g2408144/"><circle cx="283.4" cy="185.7" r="4" fill="#3465a4"><title>Guildry of Stirling</title></circle></a><a href="/variants/s14/g11db1k1g2k12y1k12g2k2g11k2g2k12y1~x4/"><circle cx="262.9" cy="141.7" r="4" fill="#3465a4"><title>Hopetoun Rejected design</title></circle></a><a href="/variants/s13/g20k3g3k3g3k18g21r4g21k18g19k2r4~x2/"><circle cx="285.4" cy="178.3" r="4" fill="#3465a4"><title>Moncrieffe Athol</title></circle></a><a href="/variants/s14/y20k19y8k3y3k3y3k40y5k10y15k40y3k3~x2/"><circle cx="385.1" cy="127.9" r="4" fill="#3465a4"><title>Justus Yellow &amp; Black (Personal)</title></circle></a><a href="/variants/s13/k5g1k3b2g10k3g4k28b2k2g1k4b1~x2/"><circle cx="386.1" cy="95.3" r="4" fill="#3465a4"><title>McCarthy</title></circle></a><a href="/variants/s9/db5k9g7k3g7k3g7k25g3~x2/"><circle cx="273.9" cy="193.6" r="4" fill="#3465a4"><title>Menez Du</title></circle></a><circle cx="328.4" cy="161.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

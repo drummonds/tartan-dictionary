@@ -1,6 +1,15 @@
 ---
 title: "Callum, Blue (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Callum"
+  url: "/clan/callum/"
+- name: "Callum"
+  url: "/families/callum/"
+- name: "Callum"
+  url: "/tartans/c/ca/callum-3/"
 ---
 This is the **Callum, Blue (Fashion)** sett — one scale-free proportion (`dr3g16db2g2db2g3db6o20lr3o2lr2o3`), colour order pattern
 [BGBGBGBRYRYR](/stripes/bgbgbgbryryr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr4g20db2g2db2g3db6o26w3o2w2o4~x2/"><circle cx="244.2" cy="149.8" r="4" fill="#3465a4"><title>Dorcas (Fashion)</title></circle></a><a href="/variants/s11/r6db3y3o32db24g32y3g3y3g3y6/"><circle cx="205.2" cy="177.9" r="4" fill="#3465a4"><title>Bonnie Brae Corporate Tartan</title></circle></a><a href="/variants/s11/dr5r2y24lb2y2lb2y6lb8dr6lb8ly4~x2/"><circle cx="254.6" cy="168.7" r="4" fill="#3465a4"><title>Tasmanian</title></circle></a><a href="/variants/s15/g16dy1g2dy1g2dy12r12dy1y2dy1r12dy12g12dy1w2~x2/"><circle cx="210.1" cy="147.4" r="4" fill="#3465a4"><title>Prince Edward Island District Tartan</title></circle></a><a href="/variants/s9/g4r1db2r1g10dy5r3dy10y1~x4/"><circle cx="235.3" cy="200.5" r="4" fill="#3465a4"><title>Moncton, City of</title></circle></a><a href="/variants/s11/do6y4do3db2do5db2do3db2g15r3db2~x2/"><circle cx="193.5" cy="204.5" r="4" fill="#3465a4"><title>Limerick</title></circle></a><a href="/variants/s12/dr3dy16db2dy2db2dy3db6o20lr3o2lr2o3~x2/"><circle cx="235.1" cy="166.6" r="4" fill="#3465a4"><title>Callum, Brown (Fashion)</title></circle></a><a href="/variants/s9/g25r2w2db2w2r13dy28db2r3~x2/"><circle cx="202.8" cy="152.8" r="4" fill="#3465a4"><title>Brousseau (Personal)</title></circle></a><a href="/variants/s11/r2dg3dy18r2dy2r21g6dg2g2dg24lo2~x2~dy1502083-lo2706076/"><circle cx="232.7" cy="167.8" r="4" fill="#3465a4"><title>Methven</title></circle></a><a href="/variants/s10/g22r3db10t2db10r21g22r3y2db2~x2/"><circle cx="228.2" cy="179.3" r="4" fill="#3465a4"><title>Glasgow Cathedral 2000</title></circle></a><circle cx="228.8" cy="171.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

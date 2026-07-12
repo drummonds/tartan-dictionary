@@ -1,6 +1,11 @@
 ---
 title: "U.S. Coast Guard (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "U.S. Coast Guard"
+  url: "/tartans/u/u/u-s-coast-guard-2/"
 ---
 This is the **U.S. Coast Guard (Corporate)** sett — one scale-free proportion (`db6r1db6r5w5`), colour order pattern
 [BRBRW](/stripes/brbrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db6r1db6r9w1~x2/"><circle cx="315.6" cy="242.8" r="4" fill="#3465a4"><title>Hamilton</title></circle></a><a href="/variants/s5/db6r1db6r9w1~x4/"><circle cx="315.6" cy="242.8" r="4" fill="#3465a4"><title>Hamilton Red Clan Tartan</title></circle></a><a href="/variants/s5/db8r2db8r15w2~x4/"><circle cx="292.8" cy="248.0" r="4" fill="#3465a4"><title>Hamilton (Clan)</title></circle></a><a href="/variants/s5/db10g4w27db40r4~x2/"><circle cx="292.9" cy="209.4" r="4" fill="#3465a4"><title>Turnbull Dress, Bruce (Personal)</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2/"><circle cx="88.7" cy="259.3" r="4" fill="#3465a4"><title>Gandy of Myrton (Name)</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2~db1404245/"><circle cx="91.1" cy="261.4" r="4" fill="#3465a4"><title>Gandy of Myrton Clan/Family Tartan</title></circle></a><a href="/variants/s7/db7w1r7db4r2db4w2~x2/"><circle cx="274.8" cy="247.4" r="4" fill="#3465a4"><title>Coronation Commemorative Tartan</title></circle></a><a href="/variants/s7/db11w1r12db6r1db6w1~x4/"><circle cx="355.3" cy="206.6" r="4" fill="#3465a4"><title>Coronation (1936) #2</title></circle></a><a href="/variants/s7/db11w1r12db6r1db6w1~x2/"><circle cx="355.3" cy="206.6" r="4" fill="#3465a4"><title>Coronation</title></circle></a><a href="/variants/s6/r3w8db4dg14r4db2~x4/"><circle cx="157.6" cy="230.2" r="4" fill="#3465a4"><title>MacKintosh Dress (Scott Adie)</title></circle></a><circle cx="222.1" cy="288.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

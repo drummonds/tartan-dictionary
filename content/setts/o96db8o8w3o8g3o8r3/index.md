@@ -1,6 +1,15 @@
 ---
 title: "Burnett, of Leys hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Burnett"
+  url: "/clan/burnett/"
+- name: "Burnett of Leys"
+  url: "/families/burnett-of-leys/"
+- name: "Burnett of Leys Hunting"
+  url: "/tartans/b/bu/burnett-of-leys-hunting-2/"
 ---
 This is the **Burnett, of Leys hunting** sett — one scale-free proportion (`o96db8o8w3o8g3o8r3`), colour order pattern
 [RBRWRGRR](/stripes/rbrwrgrr/). It is recorded as a single **variant**, below.

@@ -1,6 +1,13 @@
 ---
 title: "West Lothian/Linlithgowshire"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan West"
+  url: "/clan/west/"
+- name: "West Lothian/Linlithgowshire"
+  url: "/tartans/w/we/west-lothian-linlithgowshire/"
 ---
 This is the **West Lothian/Linlithgowshire** sett — one scale-free proportion (`g40k8g4k8g4dr14b64lb9b3`), colour order pattern
 [BWBBGKGKG](/stripes/bwbbgkgkg/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g40k8g4k8g4dr14db64lb9db3/"><circle cx="212.9" cy="120.8" r="4" fill="#3465a4"><title>West Lothian</title></circle></a><a href="/variants/s11/lb4g4r1db24lb4k2g24r1db10lb4db2~x2/"><circle cx="226.8" cy="111.2" r="4" fill="#3465a4"><title>Coopers &amp; Lybrand</title></circle></a><a href="/variants/s9/db24y2k8g16k1g3k1g3r4~x2/"><circle cx="192.9" cy="119.7" r="4" fill="#3465a4"><title>Ogilvy Hunting</title></circle></a><a href="/variants/s11/lb4g4r1db18lb4k2g16r1db6lb4k2~x2/"><circle cx="164.8" cy="129.6" r="4" fill="#3465a4"><title>Coopers &amp; Lybrand</title></circle></a><a href="/variants/s8/db28y1db2k16g24k1g2r3~x2/"><circle cx="202.1" cy="117.2" r="4" fill="#3465a4"><title>Ogilvy VS</title></circle></a><a href="/variants/s10/db6r4db24w3k6g18y4g2y2g4~x2/"><circle cx="148.9" cy="136.2" r="4" fill="#3465a4"><title>Greene</title></circle></a><a href="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-lo2804072/"><circle cx="238.9" cy="142.1" r="4" fill="#3465a4"><title>Michigan, State of (District)</title></circle></a><a href="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-r1707033/"><circle cx="232.0" cy="139.6" r="4" fill="#3465a4"><title>Michigan State District Tartan</title></circle></a><a href="/variants/s9/db10y3db30y5k8g16r4g16r2~x2/"><circle cx="186.8" cy="161.4" r="4" fill="#3465a4"><title>MacMillan Hunting Clan Tartan</title></circle></a><a href="/variants/s7/dp6r2dp1g25db16k2db4~x2~dp1105325/"><circle cx="251.7" cy="139.6" r="4" fill="#3465a4"><title>Laurie Clan Tartan</title></circle></a><circle cx="215.3" cy="123.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

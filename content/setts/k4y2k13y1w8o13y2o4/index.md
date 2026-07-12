@@ -1,6 +1,13 @@
 ---
 title: "Bannockbane, Light Tan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Bannockbane"
+  url: "/clan/bannockbane/"
+- name: "Bannockbane, Light Tan"
+  url: "/tartans/b/ba/bannockbane-light-tan-2/"
 ---
 This is the **Bannockbane, Light Tan** sett — one scale-free proportion (`k4y2k13y1w8o13y2o4`), colour order pattern
 [KGKGWRGR](/stripes/kgkgwrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g3r20g16k22lo6k3g2~x2/"><circle cx="136.5" cy="182.7" r="4" fill="#3465a4"><title>Wcwm 1062</title></circle></a><a href="/variants/s9/db3k5r2g2r3g12r6k1r3~x4/"><circle cx="162.9" cy="174.5" r="4" fill="#3465a4"><title>Fulton (1999) (Name)</title></circle></a><a href="/variants/s7/w2k1g16k12r12k1w2~x2/"><circle cx="147.4" cy="156.5" r="4" fill="#3465a4"><title>Prince Edward Island District Tartan</title></circle></a><a href="/variants/s8/g1r9g3k3g3r1k9w1~x2/"><circle cx="155.9" cy="174.8" r="4" fill="#3465a4"><title>Manson Family Tartan</title></circle></a><a href="/variants/s6/dy2ly14k14ly1dr14ly2~x2/"><circle cx="162.5" cy="183.2" r="4" fill="#3465a4"><title>United Distillers</title></circle></a><a href="/variants/s7/dy3y18lo12k18lo2k2lo3~x2/"><circle cx="142.0" cy="189.3" r="4" fill="#3465a4"><title>Kinloch Anderson Check (Fashion)</title></circle></a><a href="/variants/s8/k4y2k13y1w8n13y2n4~x2/"><circle cx="138.6" cy="172.5" r="4" fill="#3465a4"><title>Bannockbane Grey #1</title></circle></a><a href="/variants/s9/k40w25k10y8k3y8k10r25w4~x2/"><circle cx="173.3" cy="156.1" r="4" fill="#3465a4"><title>Buchanan Old Dress Clan Tartan</title></circle></a><a href="/variants/s8/k4y2k13y1w8ly13y2ly4~x2/"><circle cx="130.5" cy="171.4" r="4" fill="#3465a4"><title>Bannockbane Light Tan</title></circle></a><a href="/variants/s6/g3r22lb5g10k10g2~x2/"><circle cx="178.8" cy="189.4" r="4" fill="#3465a4"><title>Strathspey, Check</title></circle></a><circle cx="136.7" cy="168.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

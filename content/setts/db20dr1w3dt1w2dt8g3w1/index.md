@@ -1,6 +1,11 @@
 ---
 title: "Kruenaegel and Schropp"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Kruenaegel and Schropp"
+  url: "/tartans/k/kr/kruenaegel-and-schropp/"
 ---
 This is the **Kruenaegel and Schropp** sett — one scale-free proportion (`db20dr1w3dt1w2dt8g3w1`), colour order pattern
 [BBWBWBGW](/stripes/bbwbwbgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db20m1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><circle cx="294.1" cy="142.5" r="4" fill="#3465a4"><title>Kruenaegel-Schropp Name Tartan</title></circle></a><a href="/variants/s8/t20dr1w3db1w2db8g3w1~x4/"><circle cx="305.6" cy="156.1" r="4" fill="#3465a4"><title>Kruenaegel and Schropp (Name)</title></circle></a><a href="/variants/s9/w3lg15db6dbi2db1dbi2db1dbi21y2~x2~db1004274-dbi1406275/"><circle cx="263.2" cy="146.4" r="4" fill="#3465a4"><title>Blue Knights, The</title></circle></a><a href="/variants/s7/dr1g4ly1g3dr4db15w1~x4/"><circle cx="303.5" cy="176.4" r="4" fill="#3465a4"><title>Bressuire (District)</title></circle></a><a href="/variants/s9/lb20lo2n5lb4db2n2db2n2dg1~x2/"><circle cx="378.5" cy="149.6" r="4" fill="#3465a4"><title>Boucherville Dress</title></circle></a><a href="/variants/s9/db60ly3db5lyi5db9do20ly4g32w4~x2~ly2503076-lyi2705081/"><circle cx="300.8" cy="146.3" r="4" fill="#3465a4"><title>State Seal of Ohio (Fashion)</title></circle></a><a href="/variants/s6/y21g26db62w2dg2w2/"><circle cx="344.3" cy="156.0" r="4" fill="#3465a4"><title>Nynashamn Whisky Society (Corporate)</title></circle></a><a href="/variants/s10/w5n38y3db11y1db11y3n4w5lo1~x2~n1700000-y2400000/"><circle cx="336.4" cy="119.1" r="4" fill="#3465a4"><title>Ballarat</title></circle></a><a href="/variants/s6/w15y2db5lr3n40db10~lr2800000-n2402249/"><circle cx="318.8" cy="176.4" r="4" fill="#3465a4"><title>Herriot (New Zealand) (Name)</title></circle></a><a href="/variants/s11/t45dy6t3dy6lb3dp5lb3dp5lb20t2lb3~x2/"><circle cx="346.4" cy="154.6" r="4" fill="#3465a4"><title>Dunn</title></circle></a><circle cx="314.6" cy="156.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

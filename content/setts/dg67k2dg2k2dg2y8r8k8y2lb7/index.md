@@ -1,6 +1,15 @@
 ---
 title: "Moran (French) (Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Moran"
+  url: "/clan/moran/"
+- name: "Moran"
+  url: "/families/moran/"
+- name: "Moran"
+  url: "/tartans/m/mo/moran-2/"
 ---
 This is the **Moran (French) (Name)** sett — one scale-free proportion (`dg67k2dg2k2dg2y8r8k8y2lb7`), colour order pattern
 [GKGKGGRKGW](/stripes/gkgkggrkgw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dg68k2dg2k2dg2dy8r8k8dy2db7~x2/"><circle cx="450.3" cy="88.5" r="4" fill="#3465a4"><title>Moran Family Ubique</title></circle></a><a href="/variants/s8/g44k2g2k2g3k12db10r3~x2/"><circle cx="334.2" cy="119.4" r="4" fill="#3465a4"><title>Celtic (New) Corporate Sport Tartan</title></circle></a><a href="/variants/s7/dg40k3w1k5r1k2ri10~x2~r2109032-ri2806019/"><circle cx="365.9" cy="78.9" r="4" fill="#3465a4"><title>Aviemore Highland (Corporate)</title></circle></a><a href="/variants/s10/y1k1b1g30k1g2k2g1b10w1~x2/"><circle cx="385.4" cy="81.1" r="4" fill="#3465a4"><title>Celtic F.C.</title></circle></a><a href="/variants/s10/y36dg4k1y2k1dg4k4dg60dr4dg4~x2/"><circle cx="442.0" cy="95.1" r="4" fill="#3465a4"><title>Orvis Sports Company (Corporate)</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/"><circle cx="371.1" cy="105.0" r="4" fill="#3465a4"><title>Green Rover, The</title></circle></a><a href="/variants/s9/dg115k15r8k4t8k4y8k4g8~x2/"><circle cx="386.0" cy="70.6" r="4" fill="#3465a4"><title>Granvert</title></circle></a><a href="/variants/s7/dg40k3w1k5r1k2ri10~x2~dg1605139-r2109032-ri2806019/"><circle cx="363.1" cy="80.2" r="4" fill="#3465a4"><title>Aviemore Highland</title></circle></a><a href="/variants/s12/dg6k6r1w1k6dg32k6r1w1k6dg6y2~x4/"><circle cx="339.2" cy="82.7" r="4" fill="#3465a4"><title>Schwarzen Keiler, Die</title></circle></a><a href="/variants/s7/r5k3r9dg56db4dg2w3/"><circle cx="419.6" cy="93.3" r="4" fill="#3465a4"><title>MTV</title></circle></a><circle cx="381.0" cy="66.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

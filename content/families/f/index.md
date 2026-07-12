@@ -48,7 +48,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/forrester/"><img src="/variants/s8/db16r14g16dy3g16r14db16w3~x2/sett.png" alt="Forrester" width="140"><br><strong>Forrester</strong></a></li>
 <li><a class="tartan" href="/families/forsyth/"><img src="/variants/s10/k23lb25r4lb25k23y2g25k4g25y2~x2/sett.png" alt="Forsyth" width="140"><br><strong>Forsyth</strong></a></li>
 <li><a class="tartan" href="/variants/s13/k4n4k1n4k1n8k1n4k8db2k1db14r2~x2/"><strong>Fowler</strong></a></li>
-<li><a class="tartan" href="/families/fox/"><img src="/variants/s8/r4k2g36k2t18y3t18k2~x2/sett.png" alt="Fox" width="140"><br><strong>Fox</strong></a></li>
+<li><a class="tartan" href="/families/fox/"><img src="/variants/s23/r7db6r3db4r3db11r18y3r18g10r7g15r7g15r18lb3r18db11r3db4r3db6r7~x2/sett.png" alt="Fox" width="140"><br><strong>Fox</strong></a></li>
 <li><a class="tartan" href="/families/frame/"><img src="/variants/s12/w4t14r1t1w1t1r1t14r14t1r1w1~x4/sett.png" alt="Frame" width="140"><br><strong>Frame</strong></a></li>
 <li><a class="tartan" href="/families/franconian/"><img src="/variants/s32/db22g7r5g4w5g4r5g5db22t5db4g4db4g22db4g4db4g4db22y5db5r5db22g4db4g4db4g22db4g4db4t5~x2/sett.png" alt="Franconian" width="140"><br><strong>Franconian</strong></a></li>
 <li><a class="tartan" href="/families/franklin/"><img src="/variants/s24/t3y5k1y2k1y5r3k2r3t6k1t1k1t6r3k2r3y5k1y2k1y5t3k2~x4/sett.png" alt="Franklin" width="140"><br><strong>Franklin</strong></a></li>

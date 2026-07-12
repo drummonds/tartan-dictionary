@@ -1,6 +1,11 @@
 ---
 title: "Unidentified #45"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified 11"
+  url: "/tartans/u/un/unidentified-11/"
 ---
 This is the **Unidentified #45** sett — one scale-free proportion (`k24g3r3k24r2k2r2`), colour order pattern
 [KGRKRKR](/stripes/kgrkrkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k4r4k20r1k20w4~x6/"><circle cx="469.1" cy="155.5" r="4" fill="#3465a4"><title>Lanoir</title></circle></a><a href="/variants/s7/r2k1r2k14w1k1w1~x8/"><circle cx="397.4" cy="129.0" r="4" fill="#3465a4"><title>White Stripes Hunting</title></circle></a><a href="/variants/s6/k31r2k10db1k1w1~x4/"><circle cx="604.6" cy="103.7" r="4" fill="#3465a4"><title>NewGeneration Alchemy (NGA) Inc</title></circle></a><a href="/variants/s5/k55r18k4r18k38/"><circle cx="406.5" cy="210.6" r="4" fill="#3465a4"><title>Unidentified Kirtle</title></circle></a><a href="/variants/s7/k24w1r6k21ly2k24g1~x2/"><circle cx="497.8" cy="122.0" r="4" fill="#3465a4"><title>Gourlay, George (Personal)</title></circle></a><a href="/variants/s7/k24w1r6k21y2k24g1~x2/"><circle cx="506.1" cy="124.3" r="4" fill="#3465a4"><title>Gourlay, George (Personal)</title></circle></a><a href="/variants/s6/k8y1k1r1k4db1~x12/"><circle cx="449.3" cy="180.8" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/variants/s7/dt4k2dt4k45n2k3n2~x2/"><circle cx="572.6" cy="133.4" r="4" fill="#3465a4"><title>STLTH</title></circle></a><a href="/variants/s6/k40dg15k10o2k10lo2~x2/"><circle cx="456.6" cy="156.6" r="4" fill="#3465a4"><title>Kalkofen (Name)</title></circle></a><a href="/variants/s7/n3k31w6k7n3k12w2~x2/"><circle cx="425.2" cy="154.8" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><circle cx="491.3" cy="158.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,8 +1,13 @@
 ---
 title: "Clan Sutherland"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 **Territory:** Sutherland · **1745 strength:** 700 men
+
+Dark Sutherland clan sett; 1618 letter ordered red and white lines removed for sept harmony.
 
 ## Tartan
 

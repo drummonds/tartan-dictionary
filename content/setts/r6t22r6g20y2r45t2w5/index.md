@@ -1,6 +1,15 @@
 ---
 title: "Elbrick Dress (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Elbrick"
+  url: "/clan/elbrick/"
+- name: "Elbrick"
+  url: "/families/elbrick/"
+- name: "Elbrick Dress"
+  url: "/tartans/e/el/elbrick-dress/"
 ---
 This is the **Elbrick Dress (Personal)** sett — one scale-free proportion (`r6t22r6g20y2r45t2w5`), colour order pattern
 [RBRGGRBW](/stripes/rbrggrbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r2db12r2g12r24w1~x2/"><circle cx="321.6" cy="165.8" r="4" fill="#3465a4"><title>Fraser (1745)</title></circle></a><a href="/variants/s8/r12t2w1t2r3g8r3t1~x4/"><circle cx="336.9" cy="190.3" r="4" fill="#3465a4"><title>Chisholm, The</title></circle></a><a href="/variants/s8/r12db2w1db2r3g8r3db1/"><circle cx="313.2" cy="180.6" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/variants/s8/r12db2w1db2r3g8r3db1~x2/"><circle cx="313.2" cy="180.6" r="4" fill="#3465a4"><title>Chisholm (Portrait) The.. Clan Tartan</title></circle></a><a href="/variants/s8/r36w1db3y1g16r8db3w5/"><circle cx="366.2" cy="104.1" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/variants/s8/r26n4r1dp2g1n4g14lb2~x2/"><circle cx="342.8" cy="136.3" r="4" fill="#3465a4"><title>Redpath, Robert A (Personal)</title></circle></a><a href="/variants/s8/r22db3y1g12r6db3lb3w1~x2/"><circle cx="298.5" cy="123.2" r="4" fill="#3465a4"><title>Drummond, (Fingask)</title></circle></a><a href="/variants/s10/t10r2w2r16g6r1g2r1g3r6~x4/"><circle cx="318.6" cy="170.3" r="4" fill="#3465a4"><title>Harkness Dress (Name)</title></circle></a><a href="/variants/s11/r5g9y2g9r5db9r28g3lb2r4db2~x2/"><circle cx="294.8" cy="147.3" r="4" fill="#3465a4"><title>Loch Creran</title></circle></a><a href="/variants/s8/r56w2db6w2g32r11db6w5/"><circle cx="348.5" cy="130.8" r="4" fill="#3465a4"><title>Spens Family Tartan</title></circle></a><circle cx="320.7" cy="146.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

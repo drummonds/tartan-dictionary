@@ -1,6 +1,11 @@
 ---
 title: "Adams (Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Adams"
+  url: "/tartans/a/ad/adams/"
 ---
 This is the **Adams (Name)** sett — one scale-free proportion (`dr4g4k2g17do5g5do17g6lb1db22dr2`), colour order pattern
 [BBWGBGBGKGB](/stripes/bbwgbgbgkgb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dr4g4k2g15do5g5do15g6w1db19dr2~x2/"><circle cx="175.3" cy="140.1" r="4" fill="#3465a4"><title>Adams</title></circle></a><a href="/variants/s13/y9k1dy31g30db36g3db3g3db36g30dy31k1w9~x2/"><circle cx="166.9" cy="107.8" r="4" fill="#3465a4"><title>Campbell, Brown (Personal)</title></circle></a><a href="/variants/s8/o8k2dy10dp30dy30g55k4lo6/"><circle cx="190.3" cy="123.3" r="4" fill="#3465a4"><title>Aberuchill</title></circle></a><a href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142-db1406275/"><circle cx="184.3" cy="133.8" r="4" fill="#3465a4"><title>Jones</title></circle></a><a href="/variants/s12/dg19w2dg5k4db21k4w2dg5w1y1w1do14~x2/"><circle cx="164.4" cy="111.5" r="4" fill="#3465a4"><title>Womack (2014)</title></circle></a><a href="/variants/s13/y9k1dr31g30db36g3db3g3db36g30dr31k1w9~x2/"><circle cx="163.3" cy="104.2" r="4" fill="#3465a4"><title>Campbell Brown Personal Tartan</title></circle></a><a href="/variants/s13/dg17r2dg2r5dg29r2db31k2g29r5g2r2g17~x2~db1204274/"><circle cx="182.7" cy="143.2" r="4" fill="#3465a4"><title>Barbecue Presbyterian Church</title></circle></a><a href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142/"><circle cx="180.4" cy="133.2" r="4" fill="#3465a4"><title>Jones (Name)</title></circle></a><a href="/variants/s7/g20dg14db9y2db9k1w2~x4/"><circle cx="170.3" cy="160.8" r="4" fill="#3465a4"><title>Hughes</title></circle></a><a href="/variants/s14/dy3y3dy12y1k1db12k1db12k1g12k1dy12lb3db2~x2/"><circle cx="153.8" cy="139.9" r="4" fill="#3465a4"><title>Balmaha</title></circle></a><circle cx="187.9" cy="131.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

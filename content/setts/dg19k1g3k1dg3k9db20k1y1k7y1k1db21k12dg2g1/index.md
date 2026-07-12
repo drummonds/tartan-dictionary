@@ -1,6 +1,11 @@
 ---
 title: "Hope-Vere/Weir (Modern)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Hope-Vere/Weir"
+  url: "/tartans/h/ho/hope-vere-weir-3/"
 ---
 This is the **Hope-Vere/Weir (Modern)** sett — one scale-free proportion (`dg19k1g3k1dg3k9db20k1y1k7y1k1db21k12dg2g1`), colour order pattern
 [GGKBKGKGKBKGKGKG](/stripes/ggkbkgkgkbkgkgkg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/dy2k1dg24k16db2k2db2k2db24k2db2k2db2k16dg24k1r2~x2/"><circle cx="244.9" cy="103.6" r="4" fill="#3465a4"><title>St. Mary's Help of... (School)</title></circle></a><a href="/variants/s14/db15k2db2k2db2k14dg18k1y2k1dg18k14db18r2~x2/"><circle cx="202.9" cy="141.9" r="4" fill="#3465a4"><title>Bonner (Name)</title></circle></a><a href="/variants/s14/db22r2db2r6db2r2db38k46r2dy42n2dy2n2dy15~x2/"><circle cx="215.2" cy="104.5" r="4" fill="#3465a4"><title>Applestone</title></circle></a><a href="/variants/s17/dg34db2k2db2dg34r3db34r2db34r3k33db2dg2db2dg2db2k33~x2/"><circle cx="226.1" cy="132.0" r="4" fill="#3465a4"><title>Lumsden Hunting (Clan)</title></circle></a><a href="/variants/s16/dr4k1db8k1dy3k2db4dy6db4w3k2db20k4dr21k1dy3~x2/"><circle cx="229.2" cy="111.5" r="4" fill="#3465a4"><title>Westmeath County, Crest Range</title></circle></a><a href="/variants/s13/y3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/"><circle cx="166.5" cy="131.2" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/variants/s20/k3db30k2db4k2db30k36dr30k2lb2k2dr30k36db30k2db4k2db30k3r2/"><circle cx="247.3" cy="110.5" r="4" fill="#3465a4"><title>Evans of Wales</title></circle></a><a href="/variants/s12/dg4dr1dg1dr3dg16k12dr1db27lb2db3lb1y2~x2/"><circle cx="231.0" cy="92.4" r="4" fill="#3465a4"><title>McGuirk (2013)</title></circle></a><a href="/variants/s14/dg6r4dg4r3dg4y2db14k4dg4k28dg18k2dg2k2~x2/"><circle cx="201.5" cy="128.9" r="4" fill="#3465a4"><title>Cypress Presbyterian Church</title></circle></a><a href="/variants/s11/r2k3db30k2db4k2db30k36dr30k2lb2/"><circle cx="254.9" cy="128.2" r="4" fill="#3465a4"><title>Evans (Welsh Name)</title></circle></a><circle cx="227.4" cy="111.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

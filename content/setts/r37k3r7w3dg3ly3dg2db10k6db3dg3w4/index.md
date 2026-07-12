@@ -1,6 +1,13 @@
 ---
 title: "Strathclyde Fire Services (Corporate"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Strathclyde"
+  url: "/clan/strathclyde/"
+- name: "Strathclyde Fire Services (Corporate"
+  url: "/tartans/s/st/strathclyde-fire-services-corporate/"
 ---
 This is the **Strathclyde Fire Services (Corporate** sett — one scale-free proportion (`r37k3r7w3dg3ly3dg2db10k6db3dg3w4`), colour order pattern
 [RKRWGYGBKBGW](/stripes/rkrwgygbkbgw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k3r24k4y1k2w1db4g6r3k1r2w1~x2/"><circle cx="248.6" cy="52.7" r="4" fill="#3465a4"><title>Stewart of Galloway</title></circle></a><a href="/variants/s12/k3r24k4ly1k2w1db4dg6r3k1r2w1~x4/"><circle cx="250.2" cy="52.0" r="4" fill="#3465a4"><title>Stewart of Galloway - 1842 (Clan)</title></circle></a><a href="/variants/s15/r3g1r2g1r18k4y1k2w1db4g6r3k1r2w1~x2/"><circle cx="233.1" cy="66.1" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #4</title></circle></a><a href="/variants/s14/w3r30k4dg2db17y3db2y3db17dg2k4r30w3r2~x2~dg1806142/"><circle cx="214.2" cy="86.2" r="4" fill="#3465a4"><title>Unidentified Lindley #4</title></circle></a><a href="/variants/s11/lb4k2db3r33g9y3r5db10r6g2k2~x2/"><circle cx="255.0" cy="93.1" r="4" fill="#3465a4"><title>MacArthur-Fox Dress</title></circle></a><a href="/variants/s13/r47g16k8w3y3r2y3w3db6k3r4y4w3~x2/"><circle cx="217.8" cy="54.5" r="4" fill="#3465a4"><title>MacGill Clan Tartan</title></circle></a><a href="/variants/s14/r20w6r100db15k10db15k40y5g54r15k5r15k6w8/"><circle cx="177.6" cy="72.5" r="4" fill="#3465a4"><title>Unidentified Bedspread</title></circle></a><a href="/variants/s11/r7k6r62k15r20n15ly10k16db10k3w6/"><circle cx="206.1" cy="85.0" r="4" fill="#3465a4"><title>Cork County Crest (Fashion)</title></circle></a><a href="/variants/s11/r64lb12k16y2k4w3dg32r8k4r3w2~x2/"><circle cx="227.4" cy="53.6" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x4/"><circle cx="261.0" cy="57.2" r="4" fill="#3465a4"><title>Royal Stewart Royal Family Tartan</title></circle></a><circle cx="216.0" cy="69.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

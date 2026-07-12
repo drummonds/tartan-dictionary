@@ -1,6 +1,11 @@
 ---
 title: "Tullis Russell"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Tullis Russell"
+  url: "/tartans/t/tu/tullis-russell/"
 ---
 This is the **Tullis Russell** sett — one scale-free proportion (`db9k16db9r7db4r9w2r2lb2r9db4r7`), colour order pattern
 [BKBRBRWRWRBR](/stripes/bkbrbrwrwrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/y3r3k5r2db9r7k1r3k1r7g7r2k2~x2/"><circle cx="139.9" cy="162.3" r="4" fill="#3465a4"><title>Prince Charles Edward (Edinburgh)</title></circle></a><a href="/variants/s9/k9r4k2r20n9r4db18r4w2~x2/"><circle cx="163.9" cy="157.4" r="4" fill="#3465a4"><title>Stephens Dress</title></circle></a><a href="/variants/s10/db12w4r12w5k4o12db20r4db5r4~x2/"><circle cx="122.9" cy="197.5" r="4" fill="#3465a4"><title>Commonwealth</title></circle></a><a href="/variants/s8/k8y4k16db10r19db10w2r6~x2/"><circle cx="101.1" cy="189.0" r="4" fill="#3465a4"><title>Sullivan of Braemar</title></circle></a><a href="/variants/s11/n12k2n12y2k12w1k12y2r12k2r12~x2/"><circle cx="118.5" cy="155.8" r="4" fill="#3465a4"><title>Wells Red, Greg (Personal)</title></circle></a><a href="/variants/s10/db36dbi15r25w5k6db35dbi15r7w5k6~db1004274-dbi1406275/"><circle cx="169.3" cy="182.1" r="4" fill="#3465a4"><title>Le Mirage (Corporate?)</title></circle></a><a href="/variants/s13/y8lb17dp5lb5dp5k10dp5lr5dp32k5dp5k4dp6~lb3201240-lr2800000/"><circle cx="188.4" cy="148.6" r="4" fill="#3465a4"><title>Life Goes On Foundation (Corporate)</title></circle></a><a href="/variants/s10/k11db14k4db14k12r13k3r3w2y2~x2/"><circle cx="119.1" cy="183.4" r="4" fill="#3465a4"><title>Huntley Fire Protection District</title></circle></a><a href="/variants/s12/r8g2r2g6r4k8db12w2r2w2db12k5~x2/"><circle cx="78.8" cy="180.5" r="4" fill="#3465a4"><title>Glengarry Highland Games</title></circle></a><a href="/variants/s12/r16g2r3g2r13ki12w2ki12r13k13r2y2~x2~ki0604259/"><circle cx="158.0" cy="141.5" r="4" fill="#3465a4"><title>Ikelman No. 6</title></circle></a><circle cx="137.0" cy="178.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

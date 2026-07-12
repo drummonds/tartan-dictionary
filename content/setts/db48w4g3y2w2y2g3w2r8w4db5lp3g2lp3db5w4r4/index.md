@@ -1,6 +1,11 @@
 ---
 title: "Cavalry 7th.. Regimental Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Cavalry 7th.. Regimental"
+  url: "/tartans/c/ca/cavalry-7th-regimental/"
 ---
 This is the **Cavalry 7th.. Regimental Tartan** sett — one scale-free proportion (`db48w4g3y2w2y2g3w2r8w4db5lp3g2lp3db5w4r4`), colour order pattern
 [BWGGWGGWRWBWGWBWR](/stripes/bwggwggwrwbwgwbwr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/db48w4g3y2w2y2g3w2r8w4db5b3g2b3db5w4r4/"><circle cx="273.3" cy="55.4" r="4" fill="#3465a4"><title>Cavalry, 7th..</title></circle></a><a href="/variants/s12/dbi4dp8dbi3dp2dbi64lb24r4db3lb4db3w8r4~dbi1003265-db0906265/"><circle cx="281.4" cy="64.2" r="4" fill="#3465a4"><title>Royal Navy</title></circle></a><a href="/variants/s14/y8lb8r8db2r3db2r3db3r2db3r2db52lb2w8/"><circle cx="319.9" cy="73.7" r="4" fill="#3465a4"><title>Kiltwalk</title></circle></a><a href="/variants/s12/db76w3r4w3g4w3dg8db19lb20db3lb8w10/"><circle cx="313.4" cy="81.5" r="4" fill="#3465a4"><title>Summerwood (School)</title></circle></a><a href="/variants/s15/db3r1db1r1db15w1db1r4db1w1db1lb15db1y1db3~x4/"><circle cx="264.5" cy="105.2" r="4" fill="#3465a4"><title>Federal Memorial</title></circle></a><a href="/variants/s12/db46r3db7do2y2do2w2do11ly6db2ly3w2~x2/"><circle cx="339.4" cy="77.3" r="4" fill="#3465a4"><title>Lady Diana Plaid Trade or Fancy Tartan</title></circle></a><a href="/variants/s12/db76w3r4w3g4w3dg8db20lt20db3lt8w10/"><circle cx="312.4" cy="83.1" r="4" fill="#3465a4"><title>Summerwood</title></circle></a><a href="/variants/s14/dp5g1db30lb2db4lb3db3lb4db2lb5db2t9db1w2~x2~db1003265-t2607245/"><circle cx="316.4" cy="86.9" r="4" fill="#3465a4"><title>Crombie, Harry (Personal)</title></circle></a><a href="/variants/s15/g3db1lb34db2w2db2y2db2r2dbi8r2g3db1lb2r2~x2~db1003265-dbi1208266/"><circle cx="256.7" cy="34.5" r="4" fill="#3465a4"><title>Australian Defence Force Academy, The</title></circle></a><a href="/variants/s17/dt31w2g2y1w1y1g2w1r5w2dt3b2g1b2dt3w2r2~x2/"><circle cx="309.8" cy="44.8" r="4" fill="#3465a4"><title>7th Cavalry (Military)</title></circle></a><circle cx="270.3" cy="53.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

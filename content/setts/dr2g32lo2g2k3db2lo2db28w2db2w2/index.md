@@ -1,6 +1,15 @@
 ---
 title: "Pringle Personal Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Pringle"
+  url: "/clan/pringle/"
+- name: "Pringle"
+  url: "/families/pringle/"
+- name: "Pringle"
+  url: "/tartans/p/pr/pringle/"
 ---
 This is the **Pringle Personal Tartan** sett — one scale-free proportion (`dr2g32lo2g2k3db2lo2db28w2db2w2`), colour order pattern
 [BGYGKBYBWBW](/stripes/bgygkbybwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dr2dg20y1dg1k2lb1y1lb22w1lb1w1~x4/"><circle cx="219.0" cy="69.3" r="4" fill="#3465a4"><title>Unidentified (Tony Murray Collection</title></circle></a><a href="/variants/s14/w2dg2r2dg16t2k13r2t2r2t32lb2k2t2w2~x2/"><circle cx="174.2" cy="78.7" r="4" fill="#3465a4"><title>Aberfeldy</title></circle></a><a href="/variants/s8/r3w6r2g32db36k2db4y2~x2/"><circle cx="218.7" cy="114.4" r="4" fill="#3465a4"><title>Canadian Centennial District Tartan</title></circle></a><a href="/variants/s12/r8g2k2ly2k2y2k2g18db2g2db29k3~x2/"><circle cx="167.4" cy="94.9" r="4" fill="#3465a4"><title>Cats Winter (Fashion)</title></circle></a><a href="/variants/s11/db38w2db2k10g2y2g22k3r3k3r3~x2/"><circle cx="185.5" cy="85.0" r="4" fill="#3465a4"><title>Hunnisett /Edinchip Corporate Tartan</title></circle></a><a href="/variants/s13/db18w1db1w1db4r4k1g12dy1g1dy1g1dy1~x4/"><circle cx="221.8" cy="82.3" r="4" fill="#3465a4"><title>Roach (2015)</title></circle></a><a href="/variants/s14/db6r3g3r3g36b6g6db40g3k3g3k3g8y6~x2/"><circle cx="208.0" cy="105.3" r="4" fill="#3465a4"><title>Princess Beatrice Hunting (MacKinlay strip)</title></circle></a><a href="/variants/s11/db10g6dp4dr2dp4k10db6k4db28g55w4/"><circle cx="216.7" cy="85.9" r="4" fill="#3465a4"><title>1314 (Corporate)</title></circle></a><a href="/variants/s10/r7g20ly2g4k5db4k2db20k3w1~x2/"><circle cx="139.0" cy="114.3" r="4" fill="#3465a4"><title>McMeeken (Name)</title></circle></a><a href="/variants/s10/r7g20y2g4k5db4k2db20k3w1~x2/"><circle cx="141.6" cy="114.7" r="4" fill="#3465a4"><title>McMeeken</title></circle></a><circle cx="203.0" cy="90.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

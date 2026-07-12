@@ -1,6 +1,11 @@
 ---
 title: "McClafferty"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "McClafferty"
+  url: "/tartans/m/mc/mcclafferty/"
 ---
 This is the **McClafferty** sett — one scale-free proportion (`dr3g10k12db3k2db2k2db30dr4w1`), colour order pattern
 [BGKBKBKBBW](/stripes/bgkbkbkbbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dp4db5dp3db50k15g3k5g32w2g3/"><circle cx="230.0" cy="103.4" r="4" fill="#3465a4"><title>Spirit of Morningside (Fashion)</title></circle></a><a href="/variants/s8/db64k11r2k4r2k4g32y4~x2/"><circle cx="281.1" cy="95.3" r="4" fill="#3465a4"><title>Sinclair-Brown</title></circle></a><a href="/variants/s11/dp4db2g2dp2g12dp2k2dp1k10db25w2~x2/"><circle cx="204.7" cy="103.9" r="4" fill="#3465a4"><title>O'Reilly Irish Fashion Tartan</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="299.1" cy="111.7" r="4" fill="#3465a4"><title>MacBeth (Fashion)</title></circle></a><a href="/variants/s8/k8y1k1db28k12g2k1lb2~x2/"><circle cx="301.3" cy="103.8" r="4" fill="#3465a4"><title>Weir Clan Tartan</title></circle></a><a href="/variants/s11/y4db5lb2db30k1db4k4db1k15r6w3~x2/"><circle cx="244.0" cy="71.5" r="4" fill="#3465a4"><title>Correctional Service Canada</title></circle></a><a href="/variants/s9/w3db1k14db2k1g6k1db30ly3~x2/"><circle cx="269.9" cy="86.5" r="4" fill="#3465a4"><title>Bro-Kerne</title></circle></a><a href="/variants/s9/r2k3db42k3y2k3g22k3r2~x2/"><circle cx="264.4" cy="101.2" r="4" fill="#3465a4"><title>Strachan (Name)</title></circle></a><a href="/variants/s11/r3g2k1g2db26k12db4g15k1db1y3~x2/"><circle cx="217.6" cy="100.5" r="4" fill="#3465a4"><title>King (Personal)</title></circle></a><a href="/variants/s10/y6db3k3db36k10n18db6k2g4k3~x2/"><circle cx="250.8" cy="128.5" r="4" fill="#3465a4"><title>Dinwiddie Hunting</title></circle></a><circle cx="269.1" cy="98.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Thistle of Scotland"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Thistle of Scotland"
+  url: "/tartans/t/th/thistle-of-scotland/"
 ---
 This is the **Thistle of Scotland** sett — one scale-free proportion (`o3db24k16dt3g2dt2g2dt28lb3`), colour order pattern
 [RBKBGBGBW](/stripes/rbkbgbgbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dp4db7dp2db25k19w2dg23k2dy3~x2/"><circle cx="178.6" cy="154.1" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><a href="/variants/s8/dy4w1dg12k3db16r1db1r1~x2/"><circle cx="240.9" cy="140.7" r="4" fill="#3465a4"><title>Purves (2014)</title></circle></a><a href="/variants/s9/dp4db40k15dg10dp2dg10dp2dg10w4~x2/"><circle cx="228.4" cy="140.9" r="4" fill="#3465a4"><title>Ebdon-Muir (Personal)</title></circle></a><a href="/variants/s9/dp4db40k15g10dp2g10dp2g10y4~x2~db0806265-k0700000/"><circle cx="214.5" cy="138.8" r="4" fill="#3465a4"><title>Ebdon Muir (Personal)</title></circle></a><a href="/variants/s7/dg3db12lb1k12dg13r2dg2~x2/"><circle cx="203.3" cy="183.4" r="4" fill="#3465a4"><title>MacPhedran/MacFadzean</title></circle></a><a href="/variants/s9/db4do5g19dp5do5k5do5db36w3~x2/"><circle cx="199.9" cy="140.7" r="4" fill="#3465a4"><title>Suzugamine (Corporate)</title></circle></a><a href="/variants/s9/dg28k2db3k11db3k2db17b4lb2~x2~db1108266-b1511266/"><circle cx="219.3" cy="155.1" r="4" fill="#3465a4"><title>West of Wells</title></circle></a><a href="/variants/s10/dbi4db3dr2db26k3dbi3g3dbi3g17ly3~x2~dbi1406275-db1204274/"><circle cx="203.0" cy="132.0" r="4" fill="#3465a4"><title>Boyle (Personal)</title></circle></a><a href="/variants/s9/db2r1dg26ly1k18db26y1r1db2~x2~ly3307090-y2602166/"><circle cx="238.4" cy="110.7" r="4" fill="#3465a4"><title>Robb (Personal) Personal Tartan</title></circle></a><a href="/variants/s9/db2r1dg26ly1k18db26y1r1db2~x2/"><circle cx="240.7" cy="111.4" r="4" fill="#3465a4"><title>Robb Hunting (Personal)</title></circle></a><circle cx="199.6" cy="141.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

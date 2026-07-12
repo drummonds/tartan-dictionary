@@ -1,6 +1,13 @@
 ---
 title: "MacLachlan W"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacLachlan"
+  url: "/clan/maclachlan/"
+- name: "MacLachlan W"
+  url: "/tartans/m/ma/maclachlan-w/"
 ---
 This is the **MacLachlan W** sett — one scale-free proportion (`r24w2y3g16k16w2y3`), colour order pattern
 [GWKGGWR](/stripes/gwkggwr/). It is recorded as **2 variants** — the same
@@ -23,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r24w2y3g16k16w2y3/"><circle cx="130.3" cy="157.3" r="4" fill="#3465a4"><title>MacLachlan W</title></circle></a><a href="/variants/s6/y3dy6g10k18r22w3~x2/"><circle cx="82.0" cy="181.6" r="4" fill="#3465a4"><title>Tyrolean (Fashion?)</title></circle></a><a href="/variants/s5/k7db3g28r28y3~x2/"><circle cx="190.8" cy="191.4" r="4" fill="#3465a4"><title>Turnbull Dress Clan Tartan</title></circle></a><a href="/variants/s5/k2db1g10r10ly1~x6/"><circle cx="206.9" cy="187.5" r="4" fill="#3465a4"><title>Turnbull Dress</title></circle></a><a href="/variants/s5/k5db4g24r21w3~x2/"><circle cx="175.2" cy="201.0" r="4" fill="#3465a4"><title>Sachie Hara Scottish Check (Personal)</title></circle></a><a href="/variants/s7/dr36w3lo4g24w24k3lo6~x2/"><circle cx="134.4" cy="167.9" r="4" fill="#3465a4"><title>MacLachlan Dress</title></circle></a><a href="/variants/s6/dr24lb4k4g4w13k2~x4/"><circle cx="176.9" cy="158.3" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><a href="/variants/s8/g28db3g3k10r2k10r20y4~x2/"><circle cx="147.0" cy="148.4" r="4" fill="#3465a4"><title>Garvock (2015)</title></circle></a><a href="/variants/s10/y22k11lo10k2g2k2lo10k11y7r2~x2/"><circle cx="121.2" cy="156.8" r="4" fill="#3465a4"><title>Project, Faith Inc (Corporate)</title></circle></a><a href="/variants/s10/r4g7y3g12k16lb5r20lb5k4lb2~x2/"><circle cx="81.1" cy="165.0" r="4" fill="#3465a4"><title>Unidentified Canadian Tartan</title></circle></a><circle cx="130.3" cy="157.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

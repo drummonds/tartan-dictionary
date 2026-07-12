@@ -1,6 +1,15 @@
 ---
 title: "Mission"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Mission"
+  url: "/clan/mission/"
+- name: "Mission"
+  url: "/families/mission/"
+- name: "Mission"
+  url: "/tartans/m/mi/mission/"
 ---
 This is the **Mission** sett — one scale-free proportion (`o2lb14k1g11k2lr2b2k1`), colour order pattern
 [KBYKGKWR](/stripes/kbykgkwr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k2lb25k2t8k2g28y2~x2/"><circle cx="196.7" cy="156.4" r="4" fill="#3465a4"><title>Presley of Lonmay</title></circle></a><a href="/variants/s8/lo2lb14k1g11k2r2gi2k1~x4~g2508144-gi2604158/"><circle cx="145.5" cy="128.1" r="4" fill="#3465a4"><title>Mission (District)</title></circle></a><a href="/variants/s8/dy2lb14k1dg11k2r2g2k1~x4~dg1806142-g2203152/"><circle cx="144.4" cy="125.2" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s11/g3lb3g5r4g28db8w3db3w24r2k2~x2/"><circle cx="149.4" cy="111.8" r="4" fill="#3465a4"><title>Downie Dress</title></circle></a><a href="/variants/s9/lb4k2g20lr2k13lr2t20lr2r2~x2~lb3203246-lr2800000/"><circle cx="86.3" cy="147.8" r="4" fill="#3465a4"><title>Stirling (Clan)</title></circle></a><a href="/variants/s6/k1y1db8g10lb7w1~x2/"><circle cx="118.7" cy="179.3" r="4" fill="#3465a4"><title>Porteous Family Tartan</title></circle></a><a href="/variants/s10/y4t25g3k3g3k3g13w24k2r3~x2/"><circle cx="83.0" cy="128.5" r="4" fill="#3465a4"><title>MacLeod Special Dress (Dance)</title></circle></a><a href="/variants/s9/lb34r3lb8db4lb8k24g34k2w6/"><circle cx="129.3" cy="123.8" r="4" fill="#3465a4"><title>Hogg Dress</title></circle></a><a href="/variants/s9/w3lb25dr3r3dr3r8g21dr3k2~x2/"><circle cx="134.8" cy="135.4" r="4" fill="#3465a4"><title>Dunedin (USA) (District)</title></circle></a><a href="/variants/s10/w4g3w19g8k1dr4k1b18k1lo2~x2/"><circle cx="135.7" cy="109.9" r="4" fill="#3465a4"><title>Alberta Dress</title></circle></a><circle cx="148.2" cy="128.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

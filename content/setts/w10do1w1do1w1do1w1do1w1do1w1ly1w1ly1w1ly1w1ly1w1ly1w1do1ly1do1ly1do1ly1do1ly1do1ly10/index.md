@@ -1,6 +1,15 @@
 ---
 title: "Wcwm 1131"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Wcwm"
+  url: "/clan/wcwm/"
+- name: "Wcwm"
+  url: "/families/wcwm/"
+- name: "Wcwm 1131"
+  url: "/tartans/w/wc/wcwm-1131/"
 ---
 This is the **Wcwm 1131** sett — one scale-free proportion (`w10do1w1do1w1do1w1do1w1do1w1ly1w1ly1w1ly1w1ly1w1ly1w1do1ly1do1ly1do1ly1do1ly1do1ly10`), colour order pattern
 [WBWBWBWBWBWYWYWYWYWYWBYBYBYBYBY](/stripes/wbwbwbwbwbwywywywywywbybybybyby/). It is recorded as a single **variant**, below.

@@ -1,6 +1,11 @@
 ---
 title: "Khalsa"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Khalsa"
+  url: "/tartans/k/kh/khalsa/"
 ---
 This is the **Khalsa** sett — one scale-free proportion (`db5w1db5w1db5w1db5w1db5w1lo5b1y5b1lo5y1k36w1b3w1k72w1`), colour order pattern
 [BWBWBWBWBWYBGBYGKWBWKW](/stripes/bwbwbwbwbwybgbygkwbwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s19/k3w1lb1r5lb1w1k1db1r1k1w1lb1k1db4k1lb1w4k40r3~x2/"><circle cx="333.6" cy="14.0" r="4" fill="#3465a4"><title>JCM Customs</title></circle></a><a href="/variants/s19/k3w1lb1r5lb1w1k1db1r1k1lb1w1k1db4k1lb1w4k40r3~x2/"><circle cx="333.6" cy="14.0" r="4" fill="#3465a4"><title>J.C.M. Customs</title></circle></a><a href="/variants/s12/k96db8k12dp3k3dp3k3g20r8k3r4w4~db1406275-dp1607327/"><circle cx="266.1" cy="14.0" r="4" fill="#3465a4"><title>Watt</title></circle></a><a href="/variants/s9/k76db1k2lb1g14dr5k13o1lo1~x2~db2006246-lb3200000/"><circle cx="363.3" cy="14.0" r="4" fill="#3465a4"><title>Royal Canadian Mounted Police Corporate Tartan</title></circle></a><a href="/variants/s20/w5k1db2k5y2r2y2k30g3w7k4w7g2k30y2r2y2k5db2k1~x2/"><circle cx="283.8" cy="25.9" r="4" fill="#3465a4"><title>Braddock Family (Personal)</title></circle></a><a href="/variants/s12/k36db4k6y1k1w1k1g8r4k1r2w1~x2/"><circle cx="342.2" cy="27.2" r="4" fill="#3465a4"><title>Stewart, Black ground</title></circle></a><a href="/variants/s18/db8k50y2k2dy2k24db8k2y2n1y2n8y2n8y2n1y2k2~x2~y2400000-n1700000/"><circle cx="350.0" cy="28.0" r="4" fill="#3465a4"><title>Quraysh</title></circle></a><a href="/variants/s14/k3y3k3y3k3y3k3y3k36w1k2db9r2db1~x2/"><circle cx="361.0" cy="44.1" r="4" fill="#3465a4"><title>Goldwire (2015)</title></circle></a><a href="/variants/s12/k96db8k12dp3k3dp3k3g20r8k3r4w4/"><circle cx="359.4" cy="28.9" r="4" fill="#3465a4"><title>Watt (Corporate/Name)</title></circle></a><a href="/variants/s23/k207db6k2db6k2db6k2db6k92dbi28k6w4dbi77db6k2dbi10k2dbi10k2dbi10k2r4dbi14~db0805267-dbi1604274/"><circle cx="385.5" cy="14.0" r="4" fill="#3465a4"><title>Unidentified Plaid 12</title></circle></a><circle cx="341.1" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Seller Sillar Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Seller"
+  url: "/clan/seller/"
+- name: "Seller"
+  url: "/families/seller/"
+- name: "Seller"
+  url: "/tartans/s/se/seller/"
 ---
 This is the **Seller Sillar Family Tartan** sett — one scale-free proportion (`dy63k4lb9y2db4y2db4dy11r8lb2r4w5`), colour order pattern
 [GKWGBGBGRWRW](/stripes/gkwgbgbgrwrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k10db13k3lb7k1ly20lyi3lb13r5ly47k3~x2~ly2503076-lyi2705081/"><circle cx="242.1" cy="60.5" r="4" fill="#3465a4"><title>State Seal of Georgia (Fashion)</title></circle></a><a href="/variants/s12/ki42lg3ki6o2ki2lr2ki2do10ly6k2ly4lr2~x2~ki0601120-o2305325-lr2902028/"><circle cx="274.3" cy="45.7" r="4" fill="#3465a4"><title>Wcwm 849-3</title></circle></a><a href="/variants/s12/n68t5k9lo3k3lb3k3n20dr9k3dr5lb4/"><circle cx="350.6" cy="71.1" r="4" fill="#3465a4"><title>British Caledonian Airways #2</title></circle></a><a href="/variants/s12/o63k4lb9y2db4y2db4o11r8lb2r4w5~x2/"><circle cx="340.0" cy="40.5" r="4" fill="#3465a4"><title>Seller, Sillar</title></circle></a><a href="/variants/s9/dy44y2k4dp2dy15r6k3lb3y2~x2/"><circle cx="328.8" cy="62.9" r="4" fill="#3465a4"><title>Inches of Perth</title></circle></a><a href="/variants/s11/ly24k7db1k1w1k1dy4dr3k1dr2ly1~x4~ly2503076/"><circle cx="250.1" cy="61.0" r="4" fill="#3465a4"><title>U.S. Customs &amp; Border Protection</title></circle></a><a href="/variants/s12/dr32db2k8lo1k2lb2k2g18dr10k2dr2lb2~x4/"><circle cx="261.9" cy="65.6" r="4" fill="#3465a4"><title>Stewart - Pr Ch Ed - Pendleton</title></circle></a><a href="/variants/s11/db64y3g12k3g12w3db15dbi4r21db3y2~db1204274-dbi1406275/"><circle cx="283.9" cy="57.1" r="4" fill="#3465a4"><title>Allison Family Tartan</title></circle></a><a href="/variants/s9/dg4w1db2y2k3db3w1dr22y1~x4/"><circle cx="299.5" cy="87.9" r="4" fill="#3465a4"><title>Town of Petawawa</title></circle></a><a href="/variants/s11/do9lb2r1lb2do3k9dg3do1n35k3n2~x2/"><circle cx="283.1" cy="63.0" r="4" fill="#3465a4"><title>Donohoe Grey, Peter (Commemorative)</title></circle></a><circle cx="311.6" cy="34.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

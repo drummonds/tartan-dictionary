@@ -1,6 +1,11 @@
 ---
 title: "Royal College of Physicians of Edinburgh"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Royal College of Physicians of Edinburgh"
+  url: "/tartans/r/ro/royal-college-of-physicians-of-edinburgh/"
 ---
 This is the **Royal College of Physicians of Edinburgh** sett — one scale-free proportion (`db28r4k14r4dg33y4`), colour order pattern
 [BRKRGG](/stripes/brkrgg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r5k12y2dg25y2db12lb5~x2/"><circle cx="138.3" cy="157.1" r="4" fill="#3465a4"><title>James</title></circle></a><a href="/variants/s5/k7lt3dg18db18w2~x2/"><circle cx="173.0" cy="217.8" r="4" fill="#3465a4"><title>Bhatti</title></circle></a><a href="/variants/s5/r3db22k11dg32ly3~x2/"><circle cx="229.3" cy="205.3" r="4" fill="#3465a4"><title>Cultoquhey Hotel Corporate Tartan</title></circle></a><a href="/variants/s7/r2k6y1dg12y1db6lr2~x4~db1305279-lr3200000/"><circle cx="148.1" cy="157.9" r="4" fill="#3465a4"><title>James (Personal)</title></circle></a><a href="/variants/s7/r2k6y1dg12y1db6lb2~x4/"><circle cx="145.6" cy="157.8" r="4" fill="#3465a4"><title>James (Personal)</title></circle></a><a href="/variants/s5/lg11db19dt38dr7k7~x2/"><circle cx="185.1" cy="236.8" r="4" fill="#3465a4"><title>Rose, Danny and Hanna (Personal)</title></circle></a><a href="/variants/s5/db31g2k20y2dg24~x2~g2408144-dg1806142/"><circle cx="193.4" cy="191.8" r="4" fill="#3465a4"><title>Landels (Personal)</title></circle></a><a href="/variants/s5/k1dg8r6db8k1~x4/"><circle cx="166.1" cy="232.1" r="4" fill="#3465a4"><title>Edinburgh Tattoo 50th (Commemorative</title></circle></a><a href="/variants/s6/dp2dg6k2db6k1r2~x4/"><circle cx="138.3" cy="236.3" r="4" fill="#3465a4"><title>MacCaughan or MacEachain (Personal)</title></circle></a><a href="/variants/s7/g17y2k14r2db9r2db10~x2/"><circle cx="111.3" cy="194.7" r="4" fill="#3465a4"><title>MacDonald (Flora.. )</title></circle></a><circle cx="183.4" cy="203.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

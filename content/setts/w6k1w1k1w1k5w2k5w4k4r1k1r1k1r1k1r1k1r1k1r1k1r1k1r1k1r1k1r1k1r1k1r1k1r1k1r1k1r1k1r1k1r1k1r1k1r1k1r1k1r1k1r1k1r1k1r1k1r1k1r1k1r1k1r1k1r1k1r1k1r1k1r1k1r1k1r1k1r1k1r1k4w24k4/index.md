@@ -1,6 +1,15 @@
 ---
 title: "Dunbar Plaid (Artefact)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Dunbar"
+  url: "/clan/dunbar/"
+- name: "Dunbar"
+  url: "/families/dunbar/"
+- name: "Dunbar"
+  url: "/tartans/d/du/dunbar-2/"
 ---
 This is the **Dunbar Plaid (Artefact)** sett — one scale-free proportion (`w6k1w1k1w1k5w2k5w4k4r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k4w24k4`), colour order pattern
 [KWKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKWKWKWKWKW](/stripes/kwkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkrkwkwkwkwkw/). It is recorded as a single **variant**, below.

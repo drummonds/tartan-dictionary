@@ -1,6 +1,15 @@
 ---
 title: "Clark Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Clark"
+  url: "/clan/clark/"
+- name: "Clark"
+  url: "/families/clark/"
+- name: "Clark"
+  url: "/tartans/c/cl/clark/"
 ---
 This is the **Clark Family Tartan** sett — one scale-free proportion (`k4w4db19k19w4k19w4db7w4db11w4`), colour order pattern
 [KWBKWKWBWBW](/stripes/kwbkwkwbwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k4lr4t29k29lr4k29lr4t6lr4t14lr4~x2~lr2800000-t2503227/"><circle cx="209.5" cy="186.7" r="4" fill="#3465a4"><title>Clergy (Corporate)</title></circle></a><a href="/variants/s11/db4w4db19k19w4k19w4db7w4db11w4~x2/"><circle cx="152.1" cy="218.8" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s11/k2lb2db10k10lb2k10lb2db3lb2db5lb2~x2/"><circle cx="176.1" cy="214.6" r="4" fill="#3465a4"><title>Clergy Blue Tartan</title></circle></a><a href="/variants/s11/w2lb7w2lb3w2k15w2k15lb15w2lb2~x2/"><circle cx="197.5" cy="184.3" r="4" fill="#3465a4"><title>Clark (Clan)</title></circle></a><a href="/variants/s11/k4lb4db14k15lb4k15lb4db7lb4db10lb4~x2/"><circle cx="134.9" cy="242.5" r="4" fill="#3465a4"><title>Clark (Clerke/Clergy/Priest)</title></circle></a><a href="/variants/s11/k1lb1db6k6lb1k6lb1db2lb1db3lb1~x2/"><circle cx="195.2" cy="203.6" r="4" fill="#3465a4"><title>Clergy (Smith)</title></circle></a><a href="/variants/s11/k1lb1db6k6lb1k6lb1db2lb1db3lb1~x4/"><circle cx="195.2" cy="203.6" r="4" fill="#3465a4"><title>Clergy (Smith)</title></circle></a><a href="/variants/s11/k1lb1db6k6lp1k6lb1db2lb1db3lb1~x2/"><circle cx="175.8" cy="189.9" r="4" fill="#3465a4"><title>Clergy &quot;Two Spirit&quot; (Personal)</title></circle></a><a href="/variants/s6/db2y1db7w1k7w2~x6/"><circle cx="178.8" cy="193.6" r="4" fill="#3465a4"><title>Hawick Rugby Club</title></circle></a><a href="/variants/s10/db4w1dy1k2db4dy2w1dy1w1dy1~x4/"><circle cx="131.4" cy="224.5" r="4" fill="#3465a4"><title>City of Pointe-Claire</title></circle></a><circle cx="154.5" cy="218.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Pienaar (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Pienaar"
+  url: "/tartans/p/pi/pienaar/"
 ---
 This is the **Pienaar (Personal)** sett — one scale-free proportion (`y3g6dg32r4y2r2dp7dg2w2`), colour order pattern
 [GGGRGRBGW](/stripes/gggrgrbgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r6dt4w2g27dt37y2~x2/"><circle cx="326.9" cy="173.0" r="4" fill="#3465a4"><title>Highlands of Durham (Corporate)</title></circle></a><a href="/variants/s7/b6dg14r9db7r9dg54ly6~dg1304144-db1003265-ly3608101/"><circle cx="345.3" cy="180.6" r="4" fill="#3465a4"><title>Tulloch Homes</title></circle></a><a href="/variants/s10/dg18k1dy3k1lr1dg1dr2k2dr2lr2~x4/"><circle cx="323.8" cy="110.8" r="4" fill="#3465a4"><title>Anthony Plaid Stewart</title></circle></a><a href="/variants/s7/g55dp7r24g12db4y3db4~x2/"><circle cx="364.6" cy="159.2" r="4" fill="#3465a4"><title>Crieff and Strathearn District Tartan</title></circle></a><a href="/variants/s8/t9w2dg30o6dr2o2dr2o6~x2/"><circle cx="307.1" cy="161.4" r="4" fill="#3465a4"><title>Ware/Warr (Name)</title></circle></a><a href="/variants/s8/dp4g4dg2w3g27dg30y1r3~x2/"><circle cx="282.6" cy="124.4" r="4" fill="#3465a4"><title>Hannigan of Dirleton</title></circle></a><a href="/variants/s8/dy62y7g7r3w3db13w3r5~x2/"><circle cx="338.1" cy="108.6" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/variants/s10/dy6w1dy24db6g2db1g2db1g12r1~x2/"><circle cx="343.2" cy="132.8" r="4" fill="#3465a4"><title>Chisholm Hunting Clan Tartan</title></circle></a><a href="/variants/s10/r8db8dg1db1dg27dp1y1dp3y3w1~x2/"><circle cx="314.6" cy="104.1" r="4" fill="#3465a4"><title>Holyoke St. Patrick's</title></circle></a><a href="/variants/s12/dy46lb3dy7g2r2g2w2g11lb6db2lb3r2~x2/"><circle cx="329.0" cy="78.9" r="4" fill="#3465a4"><title>Diana Hunting Plaid Tartan</title></circle></a><circle cx="309.8" cy="124.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

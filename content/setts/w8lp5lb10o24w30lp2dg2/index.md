@@ -1,6 +1,11 @@
 ---
 title: "Shiel, Magenta (Dance)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Shiel Magenta"
+  url: "/tartans/s/sh/shiel-magenta/"
 ---
 This is the **Shiel, Magenta (Dance)** sett — one scale-free proportion (`w8lp5lb10o24w30lp2dg2`), colour order pattern
 [GWWRWWW](/stripes/gwwrwww/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w8b5lb10o24w30b2dg2~x2/"><circle cx="252.6" cy="183.5" r="4" fill="#3465a4"><title>Shiel Magenta</title></circle></a><a href="/variants/s7/w8g5lb10dp24w30g2lp2~x2/"><circle cx="241.4" cy="185.7" r="4" fill="#3465a4"><title>Shiel, Purple (Dance)</title></circle></a><a href="/variants/s7/w8g5dp10lb24w30g2lp2~x2/"><circle cx="263.4" cy="194.3" r="4" fill="#3465a4"><title>Shiel, Purple V2 (Dance)</title></circle></a><a href="/variants/s7/w8dr5dp10r24w30dr2db2~x2/"><circle cx="219.7" cy="162.0" r="4" fill="#3465a4"><title>Shiel, Claret (Dance)</title></circle></a><a href="/variants/s7/w8ly3w22n22dr3r2w4~x2/"><circle cx="266.2" cy="182.4" r="4" fill="#3465a4"><title>Banff, White (Fashion)</title></circle></a><a href="/variants/s6/r1w12g6r8lb3y1~x4/"><circle cx="183.6" cy="199.0" r="4" fill="#3465a4"><title>MacLean, dress</title></circle></a><a href="/variants/s5/y15r9lb30w3db4~x2/"><circle cx="260.5" cy="215.1" r="4" fill="#3465a4"><title>S.I.D.E. (Corporate)</title></circle></a><a href="/variants/s7/w40dp5w6ly26n13w9dy3~x2~ly3307090-dy1603076/"><circle cx="301.8" cy="202.9" r="4" fill="#3465a4"><title>de Meuron Dress (Family)</title></circle></a><a href="/variants/s6/w8lb30g5w3db8r5/"><circle cx="246.9" cy="195.4" r="4" fill="#3465a4"><title>Roseberry</title></circle></a><a href="/variants/s8/db4w1db2w18g3w1r9y4~x4/"><circle cx="220.0" cy="142.9" r="4" fill="#3465a4"><title>Manitoba Dress (1958) (District)</title></circle></a><circle cx="266.2" cy="187.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Peter of Lee (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Peter"
+  url: "/clan/peter/"
+- name: "Peter of Lee"
+  url: "/families/peter-of-lee/"
+- name: "Peter of Lee"
+  url: "/tartans/p/pe/peter-of-lee-2/"
 ---
 This is the **Peter of Lee (Personal)** sett — one scale-free proportion (`r3g1k1g12t12k1t1k1`), colour order pattern
 [KBKBGKGR](/stripes/kbkbgkgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k1t1k1t12g12k1g1ly1~x4~t2105244/"><circle cx="266.9" cy="167.3" r="4" fill="#3465a4"><title>Banff Centennial</title></circle></a><a href="/variants/s8/w6g5k6g42db42k5db5k5/"><circle cx="191.4" cy="176.0" r="4" fill="#3465a4"><title>Ben Lomond Fashion Tartan</title></circle></a><a href="/variants/s8/k2lb2k2lb15g15k2g2w2~x4/"><circle cx="179.4" cy="181.0" r="4" fill="#3465a4"><title>Ben Lomond (Fashion)</title></circle></a><a href="/variants/s8/k1t1k1t7g8k1g1ly1~x4/"><circle cx="215.8" cy="190.1" r="4" fill="#3465a4"><title>Banff Centennial (Commemorative)</title></circle></a><a href="/variants/s8/dy4g3r2g36t30k3t3k3~x2/"><circle cx="290.5" cy="148.6" r="4" fill="#3465a4"><title>Chartered Accountants of Scotland</title></circle></a><a href="/variants/s7/db3r2db22k11g22r2g3~x2/"><circle cx="187.2" cy="184.4" r="4" fill="#3465a4"><title>Gammell (1978) (Personal)</title></circle></a><a href="/variants/s7/db2r2db21k11g21r2g2~x2/"><circle cx="182.4" cy="182.8" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db3r2db22k11g24o2g3~x2/"><circle cx="181.8" cy="167.0" r="4" fill="#3465a4"><title>MacThomas Clan Tartan</title></circle></a><a href="/variants/s8/t32k12t12g6r6g18k2y3~x2/"><circle cx="212.1" cy="165.3" r="4" fill="#3465a4"><title>Gillies (House of Edgar)</title></circle></a><a href="/variants/s8/k3db3k3db22g26k2db1y3~x2/"><circle cx="252.4" cy="133.4" r="4" fill="#3465a4"><title>Johnstone Clan Tartan</title></circle></a><circle cx="238.9" cy="171.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

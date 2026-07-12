@@ -1,6 +1,15 @@
 ---
 title: "MacDonald of Staffa (Smith's)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDonald"
+  url: "/clan/macdonald/"
+- name: "MacDonald of Staffa"
+  url: "/families/macdonald-of-staffa/"
+- name: "MacDonald of Staffa"
+  url: "/tartans/m/ma/macdonald-of-staffa/"
 ---
 This is the **MacDonald of Staffa (Smith's)** sett — one scale-free proportion (`r16g1r1g1r1g1r1g1r6g1db1g6k1r1g1r4g1r1db4r4w1r4g4w1g4r1g1r6g1r8w1`), colour order pattern
 [RGRGRGRGRGBGKRGRGRBRWRGWGRGRGRW](/stripes/rgrgrgrgrgbgkrgrgrbrwrgwgrgrgrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s31/r16g1r1g1r1g1r1g1r6g1db1g6db1r1g1r4g1r1db4r4w1r4g4w1g4r1g1r6g1r8w1~x2/"><circle cx="356.0" cy="103.0" r="4" fill="#3465a4"><title>MacDonald of Staffa #3</title></circle></a><a href="/variants/s29/r37g2r2g2r2g2r2g2r11k2g11r3g2r11g2r3db9r11w2r9g11w2g11r3g2r9g2r19w2/"><circle cx="335.9" cy="70.1" r="4" fill="#3465a4"><title>MacDonald of Staffa #4</title></circle></a><a href="/variants/s40/r24db4r22g4r4g4r4g4r4g4r20g4r4k2g22k2r4g4r22g4r4db22r21w4r21g19w2g19r5g4r22g4r5g4k4r5db4r5db4r19/"><circle cx="254.3" cy="92.3" r="4" fill="#3465a4"><title>MacDonald of Staffa Clan Tartan</title></circle></a><a href="/variants/s40/r30y5r27dg5r5dg5r5dg5r5dg5r25dg5r5k2dg28k2r5dg5r28dg5r5y28r26w5r26dg24w2dg24r7dg5r28dg5r7dg5k5r7y5r7y5r24~x2/"><circle cx="279.1" cy="86.3" r="4" fill="#3465a4"><title>Donald of Staffa's Sett</title></circle></a><a href="/variants/s28/r15db1r1db1r1db1r1db1r3g4r1db1r3db1r1k2r3y1r3g2w1g2r1db1r3db1r6y1~x2/"><circle cx="313.7" cy="55.9" r="4" fill="#3465a4"><title>MacDonald of Staffa</title></circle></a><a href="/variants/s28/r15db1r1db1r1db1r1db1r3g3r1db1r4db1r1k2r3y1r3g2w1g2r1db1r3db1r6y1~x2/"><circle cx="326.1" cy="55.3" r="4" fill="#3465a4"><title>MacDonald of Staffa</title></circle></a><a href="/variants/s30/r12g3y1r2y1g3r3db3r6lb1r1g8r1lb1r12lb1r1g8r1lb1r6g2r1lb1r2lb1r1g3y1r4~x4/"><circle cx="304.4" cy="114.6" r="4" fill="#3465a4"><title>MacAlister (Gourlay Steele Collection)</title></circle></a><a href="/variants/s23/r34y3r6y4r4y6r4y8r26y8r4y6r4y4r6y3r34k8n3k6n4k10n10/"><circle cx="295.9" cy="117.7" r="4" fill="#3465a4"><title>Starrett Company, L.S. (Corporate)</title></circle></a><a href="/variants/s18/r16g8r2g2w2g2r2g2w2g2r2g8r16k1r2g3r2k1~x2/"><circle cx="302.7" cy="111.2" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s41/db48r40k4r4g48r54db46r54dg14r4k4r4k4r48k4r4k4r4dg14r52db46r54dg60r4dg4r48db4r12db4r4db4r48k4r4dg60r48db4r4db4r4k7/"><circle cx="238.2" cy="69.8" r="4" fill="#3465a4"><title>MacKintosh #6</title></circle></a><circle cx="311.8" cy="72.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

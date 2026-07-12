@@ -1,6 +1,11 @@
 ---
 title: "Hunter of Hunterston"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hunter"
+  url: "/clan/hunter/"
 ---
 A family of [Clan Hunter](/clan/hunter/).
 

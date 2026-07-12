@@ -1,6 +1,11 @@
 ---
 title: "Tennessee State (US State)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Tennessee State"
+  url: "/tartans/t/te/tennessee-state/"
 ---
 This is the **Tennessee State (US State)** sett — one scale-free proportion (`r2db12w1db1g1r1g7db1g12w1`), colour order pattern
 [RBWBGRGBGW](/stripes/rbwbgrgbgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r2w1g18db12g1db3w1r2w1db2g2~x2/"><circle cx="276.4" cy="139.0" r="4" fill="#3465a4"><title>MacKirgan</title></circle></a><a href="/variants/s8/g40r3g4r3g12db32lo4r3~x2/"><circle cx="321.9" cy="177.5" r="4" fill="#3465a4"><title>US Marine Corps</title></circle></a><a href="/variants/s13/g27r2g3r3db3ly2db14r2db3ly3db3r2db14~x2/"><circle cx="258.2" cy="151.1" r="4" fill="#3465a4"><title>Crowne Plaza (Corporate)</title></circle></a><a href="/variants/s8/g28r2g2r2g8db24dy3r2~x2/"><circle cx="323.5" cy="175.9" r="4" fill="#3465a4"><title>Leatherneck U.S.Marine Corps Corporate Tartan</title></circle></a><a href="/variants/s8/g28r2g2r2g8db24y3r2~x2/"><circle cx="325.0" cy="176.6" r="4" fill="#3465a4"><title>Leatherneck, U.S.Marine Corps</title></circle></a><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4~g2408144/"><circle cx="246.8" cy="194.1" r="4" fill="#3465a4"><title>New Mexico, State of</title></circle></a><a href="/variants/s14/dy1r1dy2db11g5db1g8r1g8db1g5db11dy2r1~x4~g2408144/"><circle cx="240.0" cy="178.0" r="4" fill="#3465a4"><title>New Mexico District Tartan</title></circle></a><a href="/variants/s10/g11r4g4r7g41db11lb4db41r4db8/"><circle cx="258.5" cy="182.6" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #2</title></circle></a><a href="/variants/s9/g28r12g4db20y2db3y2db3g7~x2/"><circle cx="278.0" cy="182.2" r="4" fill="#3465a4"><title>Cork</title></circle></a><a href="/variants/s10/g11r4g4r7g41dy11lb4db41r4db8/"><circle cx="217.2" cy="171.2" r="4" fill="#3465a4"><title>Stewart of Appin Hunting Clan Tartan</title></circle></a><circle cx="285.5" cy="168.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

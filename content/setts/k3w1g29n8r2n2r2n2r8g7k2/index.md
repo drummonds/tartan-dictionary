@@ -1,6 +1,15 @@
 ---
 title: "Gray Hunting Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Gray"
+  url: "/clan/gray/"
+- name: "Gray"
+  url: "/families/gray/"
+- name: "Gray Hunting"
+  url: "/tartans/g/gr/gray-hunting/"
 ---
 This is the **Gray Hunting Family Tartan** sett — one scale-free proportion (`k3w1g29n8r2n2r2n2r8g7k2`), colour order pattern
 [KGRBRBRBGWK](/stripes/kgrbrbrbgwk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k3w1g29n8m2n2m2n2m8g7k2~x2/"><circle cx="284.8" cy="92.6" r="4" fill="#3465a4"><title>Gray Htg (Name)</title></circle></a><a href="/variants/s9/g32w1k3w1gi14g7k3dp3w1~x2~g1903114-gi2408144/"><circle cx="338.1" cy="100.0" r="4" fill="#3465a4"><title>Leach Htg #2 (Name)</title></circle></a><a href="/variants/s13/g44r4g2r2g2r4g12k12r2db10r4db4ly3~x2/"><circle cx="269.4" cy="87.9" r="4" fill="#3465a4"><title>Cochrane of Dundonald</title></circle></a><a href="/variants/s12/lb4dy1g1dr30g22k3g22dr30g1dy1lb4g2~x2/"><circle cx="289.9" cy="100.4" r="4" fill="#3465a4"><title>Connemarra Irish District Tartan</title></circle></a><a href="/variants/s9/g71k4r4db9r4db4r36db4w4~x2/"><circle cx="266.4" cy="109.3" r="4" fill="#3465a4"><title>Rattay</title></circle></a><a href="/variants/s9/g71k4r4db9r4db4r36db4w4/"><circle cx="266.4" cy="109.3" r="4" fill="#3465a4"><title>Rattray Family Tartan</title></circle></a><a href="/variants/s8/g18r1w2k1w2r1o6k2~x4/"><circle cx="255.6" cy="117.0" r="4" fill="#3465a4"><title>Humphries (Name)</title></circle></a><a href="/variants/s10/y7n2k2n41k12g22n6k2r4k2~x2/"><circle cx="244.8" cy="115.5" r="4" fill="#3465a4"><title>Dinwiddie</title></circle></a><a href="/variants/s11/ly10k2g3k2g40k2g3dr25g6ly10k1~x2/"><circle cx="277.2" cy="97.5" r="4" fill="#3465a4"><title>MacMillan Anc (Clans Originaux)</title></circle></a><a href="/variants/s10/dy4n2k2n42k13g25n6k2r4k2~x2/"><circle cx="248.0" cy="110.7" r="4" fill="#3465a4"><title>Dinwiddie Clan Tartan</title></circle></a><circle cx="289.9" cy="94.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

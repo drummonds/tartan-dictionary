@@ -1,6 +1,15 @@
 ---
 title: "Matheson Hunting (Red) Clan Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Matheson"
+  url: "/clan/matheson/"
+- name: "Matheson"
+  url: "/families/matheson/"
+- name: "Matheson Hunting"
+  url: "/tartans/m/ma/matheson-hunting-2/"
 ---
 This is the **Matheson Hunting (Red) Clan Tartan** sett — one scale-free proportion (`r8g3r1g1r1g22db8g3r1g1r1g3r6g1r1g1r2db6g5r3g4`), colour order pattern
 [GRGBRGRGRGRGRGBGRGRGR](/stripes/grgbrgrgrgrgrgbgrgrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/db4g2db1g2db1g22db6g2r2g2r2g2r4g2r2g2r2db6g4r2g4~x4/"><circle cx="350.7" cy="128.6" r="4" fill="#3465a4"><title>Matheson Hunting (Highland Society of London)</title></circle></a><a href="/variants/s21/g8r4g1r1g1r24db8g4r1g1r1g4r8g1r1g1r1db8g8r2g4/"><circle cx="307.4" cy="119.4" r="4" fill="#3465a4"><title>Matheson</title></circle></a><a href="/variants/s21/g8r4g1r1g1r24db8g4r1g1r1g4r8g1r1g1r1db8g8r2g4~x2/"><circle cx="307.4" cy="119.4" r="4" fill="#3465a4"><title>Matheson</title></circle></a><a href="/variants/s21/g8r4g1r1g1r14db8g4r1g1r1g4r8g1r1g1r1db8g8r2g4~x4/"><circle cx="248.8" cy="160.5" r="4" fill="#3465a4"><title>Matheson (Clan)</title></circle></a><a href="/variants/s12/lr12g3lr3dg4lr16g3lr3g3lr3g16dg52lr4~g1903114/"><circle cx="317.3" cy="135.5" r="4" fill="#3465a4"><title>Kelso</title></circle></a><a href="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4~g2203152/"><circle cx="348.5" cy="136.0" r="4" fill="#3465a4"><title>Seton Hunting</title></circle></a><a href="/variants/s21/dg8r4dg1r1dg1r24db8dg4r1dg1r1dg4r8dg1r1dg1r1db8dg8r2dg4~x2/"><circle cx="316.9" cy="118.6" r="4" fill="#3465a4"><title>Matheson Clan Tartan</title></circle></a><a href="/variants/s27/g18r2g18r18g2r4g2r18db18r2db18r18db1r1db2r1db1r18db1r1g2r1db1r18g18r2g18~x2/"><circle cx="277.2" cy="134.5" r="4" fill="#3465a4"><title>Ross (Clan)</title></circle></a><a href="/variants/s14/r60db2r2g63r2db2r2db20r2db2r54g2r2g40/"><circle cx="356.6" cy="120.9" r="4" fill="#3465a4"><title>Bruce - 1819 (Old)</title></circle></a><a href="/variants/s27/g18r2g18r18g2r4g2r18db18r2db18r18db1r1db2r1db1r18db1r1db2r1db1r18g18r2g18~x2/"><circle cx="275.8" cy="134.2" r="4" fill="#3465a4"><title>Ross Clan Tartan</title></circle></a><circle cx="332.1" cy="127.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

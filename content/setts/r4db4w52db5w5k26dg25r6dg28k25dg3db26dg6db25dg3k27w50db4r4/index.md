@@ -1,6 +1,15 @@
 ---
 title: "Lauder Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Lauder"
+  url: "/clan/lauder/"
+- name: "Lauder"
+  url: "/families/lauder/"
+- name: "Lauder Dress"
+  url: "/tartans/l/la/lauder-dress-2/"
 ---
 This is the **Lauder Dress** sett — one scale-free proportion (`r4db4w52db5w5k26dg25r6dg28k25dg3db26dg6db25dg3k27w50db4r4`), colour order pattern
 [RBWBWKGRGKGBGBGKWBR](/stripes/rbwbwkgrgkgbgbgkwbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s19/r4db4w52db5w5k26g25r6g28k25g3db26g6db25g3k27w50db4r4~x2/"><circle cx="79.4" cy="107.4" r="4" fill="#3465a4"><title>Lauder</title></circle></a><a href="/variants/s15/w16db3w3db3w3k16g13k1w3k1g13k16db16k1r3~x2/"><circle cx="77.8" cy="122.6" r="4" fill="#3465a4"><title>MacKenzie Dress #2</title></circle></a><a href="/variants/s18/dg4lb6k1dg2k1lb14k3w3k2dg2k2dg2db4dg2db6dg2db6dg3/"><circle cx="79.6" cy="127.3" r="4" fill="#3465a4"><title>Royal Canadian Air Force</title></circle></a><a href="/variants/s23/w2db1w12db2w2k8db8k2db2k2db8k8g8k1y2k1g8k8w2db2w12db1w2~x2/"><circle cx="56.2" cy="120.1" r="4" fill="#3465a4"><title>Gordon Dress (Original)</title></circle></a><a href="/variants/s21/w2db1w12db2w2k8db8k2db2k2db8k8g8y2g8k8w2db2w12db1w2~x2/"><circle cx="56.9" cy="129.5" r="4" fill="#3465a4"><title>Gordon Dress (Clan)</title></circle></a><a href="/variants/s18/dr4lb6k1dr2k1lb14k3w3k2dr2k2dr2db4dr2db6dr2db6dr3/"><circle cx="86.1" cy="125.7" r="4" fill="#3465a4"><title>Royal Canadian Air Force Regimental Tartan</title></circle></a><a href="/variants/s21/w4db4w60db5w5k30db27k5db30k27g4lb5g66lb5g4k30w5db5w57db4w4/"><circle cx="99.8" cy="91.9" r="4" fill="#3465a4"><title>Graham Dress</title></circle></a><a href="/variants/s22/k15w3db3w18db2r2db2w19db3w3k15w2g13r2g14w2k15db10k2db2k2db10/"><circle cx="56.0" cy="128.1" r="4" fill="#3465a4"><title>Colquhoun Dress Clan Tartan</title></circle></a><a href="/variants/s11/db10k2g2r2g2k2w2k2w4k1w2~x4/"><circle cx="34.1" cy="138.2" r="4" fill="#3465a4"><title>Highfield Dress</title></circle></a><a href="/variants/s15/ly4g3w25g4ly4k12db16k2w4k2db16k12g16k2ly4/"><circle cx="41.2" cy="136.4" r="4" fill="#3465a4"><title>Lochalsh (Fashion)</title></circle></a><circle cx="81.0" cy="105.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

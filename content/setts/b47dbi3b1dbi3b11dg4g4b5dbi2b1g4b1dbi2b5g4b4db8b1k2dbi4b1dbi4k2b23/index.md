@@ -1,6 +1,13 @@
 ---
 title: "Hebrides Inner"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hebrides"
+  url: "/clan/hebrides/"
+- name: "Hebrides Inner"
+  url: "/tartans/h/he/hebrides-inner/"
 ---
 This is the **Hebrides Inner** sett — one scale-free proportion (`b47dbi3b1dbi3b11dg4g4b5dbi2b1g4b1dbi2b5g4b4db8b1k2dbi4b1dbi4k2b23`), colour order pattern
 [BBBBBGGBBBGBBBGBBBKBBBKB](/stripes/bbbbbggbbbgbbbgbbbkbbbkb/). It is recorded as a single **variant**, below.

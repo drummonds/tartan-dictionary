@@ -1,6 +1,11 @@
 ---
 title: "Unidentified Silk scarf"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified Silk scarf"
+  url: "/tartans/u/un/unidentified-silk-scarf/"
 ---
 This is the **Unidentified Silk scarf** sett — one scale-free proportion (`w3ri10dy6y8lb8g32r8ri10r6w3`), colour order pattern
 [WRGGWGRRRW](/stripes/wrggwgrrrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w3r10o6y8lb8g32b8r10b6w3~x4/"><circle cx="127.6" cy="162.3" r="4" fill="#3465a4"><title>Unidentified, Silk scarf</title></circle></a><a href="/variants/s10/w2ri8dy5y6w5g21w6ri8r4w2~ri2209032-r2208029/"><circle cx="106.1" cy="171.4" r="4" fill="#3465a4"><title>Jacobite Silk sash</title></circle></a><a href="/variants/s10/w2r8o5y6w5g21w6r8b4w2/"><circle cx="112.1" cy="174.0" r="4" fill="#3465a4"><title>Jacobite, Silk sash</title></circle></a><a href="/variants/s9/w6lb36ly12g19dg6r6dg6r28dg4~g2408144-dg1806142/"><circle cx="119.1" cy="187.1" r="4" fill="#3465a4"><title>Derry Family (Personal)</title></circle></a><a href="/variants/s9/w6lb36y12g19dg6r6dg6r28dg4/"><circle cx="110.1" cy="182.5" r="4" fill="#3465a4"><title>Derry Family (Olney, Buckinghamshire) (Personal)</title></circle></a><a href="/variants/s9/y4r24dy19w3g23o13dy3n13dy3~x2~o2500000-n1900000/"><circle cx="94.1" cy="195.2" r="4" fill="#3465a4"><title>Teallach Family Tartan</title></circle></a><a href="/variants/s7/w3dg24r13g4ly11r8db2~x2~dg1806142-g2304202/"><circle cx="169.8" cy="184.7" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/variants/s10/k2ly12dr3ly3dr12g12n12y12g1lb2~x2~n1900000-y2302111/"><circle cx="52.9" cy="165.5" r="4" fill="#3465a4"><title>Auld Scotland Weavers Tartan</title></circle></a><a href="/variants/s15/w9o14do11o3oi11y7w1do3w1y7o7do3w2b2w2~x2~o2102055-oi2104058/"><circle cx="111.8" cy="156.1" r="4" fill="#3465a4"><title>Hudson Bay Company Artifact</title></circle></a><a href="/variants/s12/y9g7db3r28db4g7db5lb4db5dg7db3w6~x2~g1903114-dg1806142/"><circle cx="101.5" cy="148.1" r="4" fill="#3465a4"><title>Mayo County Crest (Fashion)</title></circle></a><circle cx="124.3" cy="157.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

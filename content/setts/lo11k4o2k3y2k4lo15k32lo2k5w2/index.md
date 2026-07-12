@@ -1,6 +1,13 @@
 ---
 title: "Livingston Football Club"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Livingston"
+  url: "/clan/livingston/"
+- name: "Livingston Football Club"
+  url: "/tartans/l/li/livingston-football-club/"
 ---
 This is the **Livingston Football Club** sett — one scale-free proportion (`lo11k4o2k3y2k4lo15k32lo2k5w2`), colour order pattern
 [WKYKYKGKRKY](/stripes/wkykykgkrky/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dp2r1k4lo2k12lo8k12lo2k4lo1w2~x4/"><circle cx="260.7" cy="128.0" r="4" fill="#3465a4"><title>Gary (Personal)</title></circle></a><a href="/variants/s9/k38lb2o24w2k16o6lb2k3lb5~x2/"><circle cx="284.8" cy="120.5" r="4" fill="#3465a4"><title>Universal Scientific Indust (Corp.)</title></circle></a><a href="/variants/s10/o1w2k5o3k1oi5k1oi11k1oi1~x4~o2102055-oi2104058/"><circle cx="243.5" cy="149.6" r="4" fill="#3465a4"><title>Braemar, or Blair Atholl</title></circle></a><a href="/variants/s10/o6k3w3k3w3k34o6g5o6k5~x2/"><circle cx="273.5" cy="126.4" r="4" fill="#3465a4"><title>Woodberry Forest School (Corporate)</title></circle></a><a href="/variants/s11/r9k3r9k2t4k4dp4k3dp2k32g6~x2/"><circle cx="245.5" cy="101.0" r="4" fill="#3465a4"><title>Brotherhood of Dirk (Corporate)</title></circle></a><a href="/variants/s12/w3y3r2y13k3y4k22y4k3y16dp2w3~x2/"><circle cx="204.4" cy="129.2" r="4" fill="#3465a4"><title>Loch Sween</title></circle></a><a href="/variants/s10/y2k2r2w8k14r1k1r1k1r1~x2/"><circle cx="235.9" cy="114.4" r="4" fill="#3465a4"><title>Barbecue Plaid (Fashion)</title></circle></a><a href="/variants/s11/db6w3r14k3y2k2w2k38w2k2y2~x2/"><circle cx="270.0" cy="74.1" r="4" fill="#3465a4"><title>Norwegian Night</title></circle></a><a href="/variants/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/"><circle cx="233.1" cy="75.5" r="4" fill="#3465a4"><title>MacKeever (Personal)</title></circle></a><a href="/variants/s11/r9k3r9k2b4k4dp4k3dp2k32g6~x2/"><circle cx="246.0" cy="100.7" r="4" fill="#3465a4"><title>Brotherhood of Dirk, The</title></circle></a><circle cx="259.7" cy="96.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

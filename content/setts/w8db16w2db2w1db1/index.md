@@ -1,6 +1,15 @@
 ---
 title: "Ikelman #1 (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ikelman"
+  url: "/clan/ikelman/"
+- name: "Ikelman"
+  url: "/families/ikelman/"
+- name: "Ikelman"
+  url: "/tartans/i/ik/ikelman-3/"
 ---
 This is the **Ikelman #1 (Personal)** sett — one scale-free proportion (`w8db16w2db2w1db1`), colour order pattern
 [BWBWBW](/stripes/bwbwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db6w2db29w29db2w6~x2/"><circle cx="376.1" cy="239.8" r="4" fill="#3465a4"><title>Erskine Royal Blue Dress Clan Tartan</title></circle></a><a href="/variants/s6/db1w1db5w5db1w1~x8/"><circle cx="333.3" cy="291.8" r="4" fill="#3465a4"><title>Erskine Blanket</title></circle></a><a href="/variants/s6/db3w16db4w3db12w2~x3/"><circle cx="355.0" cy="274.6" r="4" fill="#3465a4"><title>MacMugen</title></circle></a><a href="/variants/s6/y1b15w5b1w5b1~x4/"><circle cx="408.9" cy="210.7" r="4" fill="#3465a4"><title>Whitley (Personal)</title></circle></a><a href="/variants/s7/b13w13b30w13b11w2b8~x2/"><circle cx="465.6" cy="270.0" r="4" fill="#3465a4"><title>Jubilation Tartan</title></circle></a><a href="/variants/s6/t52db28w5db3w2db10~x2/"><circle cx="388.0" cy="181.2" r="4" fill="#3465a4"><title>St. Andrews, Earl of</title></circle></a><a href="/variants/s6/t52db28w3db2w2db10~x2/"><circle cx="440.8" cy="211.3" r="4" fill="#3465a4"><title>St Andrews Earl of Royal family Tartan</title></circle></a><a href="/variants/s6/b30w7b18w11b6y3~x2/"><circle cx="448.7" cy="253.3" r="4" fill="#3465a4"><title>Ochterlonie</title></circle></a><a href="/variants/s7/y2w21db16lb8db30w8db1~x2/"><circle cx="314.7" cy="175.6" r="4" fill="#3465a4"><title>Muir, John</title></circle></a><a href="/variants/s6/db40w8db25w14db8y4~x2/"><circle cx="421.8" cy="236.4" r="4" fill="#3465a4"><title>Auchterlonie (Personal)</title></circle></a><circle cx="440.0" cy="223.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Guthrie"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Guthrie"
+  url: "/clan/guthrie/"
+- name: "Guthrie"
+  url: "/families/guthrie/"
+- name: "Guthrie"
+  url: "/tartans/g/gu/guthrie/"
 ---
 This is the **Guthrie** sett — one scale-free proportion (`g12k12r1k1r1k12t12r1t12k12r1k1r1k12g12k1`), colour order pattern
 [GKRKRKBRBKRKRKGK](/stripes/gkrkrkbrbkrkrkgk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k36w3k10w3dg28dr6k18~x2~dg1804158/"><circle cx="206.6" cy="155.5" r="4" fill="#3465a4"><title>Wild Highlanders</title></circle></a><a href="/variants/s13/t4k7lyi3k3t34k17t4k5t4k7ly11t5lyi4~x2~lyi2705081-ly2503076/"><circle cx="203.6" cy="146.6" r="4" fill="#3465a4"><title>State Seal of Oregon (Fashion)</title></circle></a><a href="/variants/s11/k2r1dg10k10lb4k2lb2k2lb5k2lb2~x2/"><circle cx="154.4" cy="163.6" r="4" fill="#3465a4"><title>Bijral</title></circle></a><a href="/variants/s15/db38k6db6k6db6k40g38k4r9k4g38k40db38k6db6/"><circle cx="146.9" cy="158.4" r="4" fill="#3465a4"><title>Safeway</title></circle></a><a href="/variants/s15/db19k3db3k3db3k20g19k2r5k2g19k20db19k3db3~x2/"><circle cx="145.3" cy="158.7" r="4" fill="#3465a4"><title>Safeway</title></circle></a><a href="/variants/s9/k4g21k10r2k10db21k4db4k4~x2/"><circle cx="139.7" cy="162.7" r="4" fill="#3465a4"><title>Swallow Hotels</title></circle></a><a href="/variants/s16/g5k24g12k16g26w4g24w4g26k16ki4k4ki4k4ki28g3~ki0604259/"><circle cx="155.9" cy="160.8" r="4" fill="#3465a4"><title>O'Connor, Old</title></circle></a><a href="/variants/s16/dg5k12dg6k8dg13w2dg12w2dg13k8t2k2t2k2t14dg3~x2/"><circle cx="183.0" cy="185.8" r="4" fill="#3465a4"><title>O'Connor (Name)</title></circle></a><a href="/variants/s15/db18n16o11n20k7n7k11n7k7n35k52n71o7k7o12~n1900000-o2500000/"><circle cx="247.3" cy="147.4" r="4" fill="#3465a4"><title>CBS (Corporate)</title></circle></a><a href="/variants/s13/g56k6g7k6g7k35db45ly6db45k35g45k6g6/"><circle cx="153.9" cy="172.2" r="4" fill="#3465a4"><title>Dewar's Highlander</title></circle></a><circle cx="185.4" cy="142.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

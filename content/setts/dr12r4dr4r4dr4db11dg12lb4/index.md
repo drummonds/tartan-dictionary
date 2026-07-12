@@ -1,6 +1,15 @@
 ---
 title: "Akins Clan Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Akins"
+  url: "/clan/akins/"
+- name: "Akins"
+  url: "/families/akins/"
+- name: "Akins"
+  url: "/tartans/a/ak/akins/"
 ---
 This is the **Akins Clan Tartan** sett — one scale-free proportion (`dr12r4dr4r4dr4db11dg12lb4`), colour order pattern
 [BRBRBBGW](/stripes/brbrbbgw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr21r3dr3r3dr3db19g22lb3~x2/"><circle cx="180.6" cy="204.8" r="4" fill="#3465a4"><title>Akins Clan (Personal)</title></circle></a><a href="/variants/s8/dr21r3dr3r3dr3db19g22b3~x2/"><circle cx="189.8" cy="207.9" r="4" fill="#3465a4"><title>Akins</title></circle></a><a href="/variants/s8/r21ri3r3ri3r3db19g22lb3~x2~r1807008-ri2108022/"><circle cx="177.2" cy="198.1" r="4" fill="#3465a4"><title>Akins (Clan)</title></circle></a><a href="/variants/s6/r10dbi6g24db24r6y3~dbi1406275-db1004274/"><circle cx="163.3" cy="226.7" r="4" fill="#3465a4"><title>Canine All Dogs (Fashion)</title></circle></a><a href="/variants/s6/r1db3dr1g3dr5lb1~x4/"><circle cx="184.3" cy="250.2" r="4" fill="#3465a4"><title>Lanark (Fashion #1)</title></circle></a><a href="/variants/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4~r1606028-dr1004029/"><circle cx="46.8" cy="238.0" r="4" fill="#3465a4"><title>Isle of Arran (Personal)</title></circle></a><a href="/variants/s7/db4lr3db4lr3o3n11o3~x2/"><circle cx="172.5" cy="278.9" r="4" fill="#3465a4"><title>Stevens #2</title></circle></a><a href="/variants/s9/dy2n1dy1o3n3db3dy2r2db1~x4/"><circle cx="120.5" cy="302.5" r="4" fill="#3465a4"><title>Titanic</title></circle></a><a href="/variants/s7/n2r9db8dr4db8g2y2~x8/"><circle cx="181.0" cy="239.0" r="4" fill="#3465a4"><title>Feis An Eilein</title></circle></a><a href="/variants/s11/r10do10r4dg2r2do2r4dg12db12dg3db4~x2/"><circle cx="173.0" cy="236.6" r="4" fill="#3465a4"><title>Hueg (Munich) Hunting (Personal)</title></circle></a><circle cx="140.8" cy="274.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

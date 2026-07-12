@@ -1,6 +1,11 @@
 ---
 title: "Casely"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Casely"
+  url: "/clan/casely/"
 ---
 A family of [Clan Casely](/clan/casely/).
 

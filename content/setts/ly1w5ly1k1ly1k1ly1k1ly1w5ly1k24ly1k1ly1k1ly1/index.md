@@ -1,6 +1,11 @@
 ---
 title: "MacGuinness"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "MacGuinness"
+  url: "/tartans/m/ma/macguinness/"
 ---
 This is the **MacGuinness** sett — one scale-free proportion (`ly1w5ly1k1ly1k1ly1k1ly1w5ly1k24ly1k1ly1k1ly1`), colour order pattern
 [YKYKYKYWYKYKYKYWY](/stripes/ykykykywykykykywy/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x4/"><circle cx="273.8" cy="107.0" r="4" fill="#3465a4"><title>Thain Dress #1</title></circle></a><a href="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x2/"><circle cx="273.8" cy="107.0" r="4" fill="#3465a4"><title>Thain Dress Tartan</title></circle></a><a href="/variants/s21/w6k4w3k3w2k18n1y5n1k3y2n1k3y2n1k32n2w6k3w6k3~x2/"><circle cx="313.6" cy="51.9" r="4" fill="#3465a4"><title>Clutha</title></circle></a><a href="/variants/s14/w100k15w2k4y2k6w10k4y2k13w4k100w3k2/"><circle cx="336.2" cy="50.6" r="4" fill="#3465a4"><title>Unidentified Plaid #6</title></circle></a><a href="/variants/s14/w10k1w5k7w7r2w7k50w7k2w7k7w5k1~x2/"><circle cx="348.7" cy="70.9" r="4" fill="#3465a4"><title>Pars, Dress (Sports)</title></circle></a><a href="/variants/s16/y5k5w15k32w1k2y1k32w15k5w5db4y2k1w2db4~x2/"><circle cx="280.4" cy="72.0" r="4" fill="#3465a4"><title>Deudon (2015)</title></circle></a><a href="/variants/s15/k30n33k1ly1k1n8k1ly2k1n3k1ly3w2k1ly7~x2/"><circle cx="259.2" cy="63.8" r="4" fill="#3465a4"><title>Black Onyx</title></circle></a><a href="/variants/s11/n8k40dy2n2w2n2k9w5n2w5k2~x2/"><circle cx="323.9" cy="89.8" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><circle cx="324.9" cy="65.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

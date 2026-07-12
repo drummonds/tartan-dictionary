@@ -1,6 +1,13 @@
 ---
 title: "Inverness Fencibles"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Inverness"
+  url: "/clan/inverness/"
+- name: "Inverness Fencibles"
+  url: "/tartans/i/in/inverness-fencibles/"
 ---
 This is the **Inverness Fencibles** sett — one scale-free proportion (`db10r1db1r1g10r13g2r13g10db10r1db1`), colour order pattern
 [BRBGRGRGRBRBRBRGRGRGBR](/stripes/brbgrgrgrbrbrbrgrgrgbr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db16r1db1r1g12r16g2r16g12db12r1db1/"><circle cx="244.0" cy="179.2" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/variants/s12/db16r1db1r1g12r16g2r16g12db12r1db1~x2/"><circle cx="244.0" cy="179.2" r="4" fill="#3465a4"><title>Fraser, Stewart of Athol</title></circle></a><a href="/variants/s12/db28r3db3r3g20r30g4r30g20db22r3db3~x2/"><circle cx="235.3" cy="200.3" r="4" fill="#3465a4"><title>Fraser Stewart of Athol</title></circle></a><a href="/variants/s12/db20r2db2r2g19r18g2r18g19db19r2db2~x2/"><circle cx="210.9" cy="203.9" r="4" fill="#3465a4"><title>Fraser of Stratherrick</title></circle></a><a href="/variants/s23/db10r1db1r1g10r13g2r13g10db10r1db1r1db10g10r13g2r13g10r1db1r1db5~x4/"><circle cx="231.3" cy="165.7" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/variants/s21/g8r4g1r1g1r14db8g4r1g1r1g4r8g1r1g1r1db8g8r2g4~x4/"><circle cx="248.8" cy="160.5" r="4" fill="#3465a4"><title>Matheson (Clan)</title></circle></a><a href="/variants/s12/db16r1db1r1g12r16w2r16g12db12r1db1~x2/"><circle cx="218.1" cy="163.7" r="4" fill="#3465a4"><title>Fraser of Lovat Clan Tartan</title></circle></a><a href="/variants/s20/db18r2db18r18g2r4g2r18g18r2g18r2g18r18db1r1db2r1db1r18~x2/"><circle cx="273.4" cy="151.9" r="4" fill="#3465a4"><title>Ross</title></circle></a><a href="/variants/s27/g8r1g8r8db1r1db2r1db1r8db1r1db2r1db1r8db8r1db8r8g1r2g1r8g8r1g8~x2/"><circle cx="236.8" cy="173.3" r="4" fill="#3465a4"><title>Ross</title></circle></a><a href="/variants/s27/g18r2g18r18g2r4g2r18db18r2db18r18db1r1db2r1db1r18db1r1db2r1db1r18g18r2g18~x2/"><circle cx="275.8" cy="134.2" r="4" fill="#3465a4"><title>Ross Clan Tartan</title></circle></a><circle cx="241.2" cy="166.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Druid"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Druid"
+  url: "/clan/druid/"
+- name: "Druid"
+  url: "/families/druid/"
+- name: "Druid"
+  url: "/tartans/d/dr/druid-2/"
 ---
 This is the **Druid** sett — one scale-free proportion (`db3n2db3y2w4y2k8y2w4y2r8y2w20y2w62y2`), colour order pattern
 [BBBGWGKGWGRGWGWG](/stripes/bbbgwgkgwgrgwgwg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w102k3ly3k3w3k12db14g12w3r3~x2/"><circle cx="341.6" cy="39.7" r="4" fill="#3465a4"><title>Halford-Macleod, Miss Emma (Personal</title></circle></a><a href="/variants/s10/w102k3y3k3w3k12db14g12w3r3~x2/"><circle cx="337.0" cy="36.6" r="4" fill="#3465a4"><title>Miss Emma Halford-MacLeod</title></circle></a><a href="/variants/s15/dp3n2dp3y2w4g8y2w4y2r8y2w20y2w62y2/"><circle cx="401.4" cy="49.7" r="4" fill="#3465a4"><title>Druid (Corporate)</title></circle></a><a href="/variants/s12/w46n9w4k8w9r4w9dy2w2dy2w2dy1~x2/"><circle cx="401.1" cy="55.2" r="4" fill="#3465a4"><title>Old England House Check</title></circle></a><a href="/variants/s13/w50db6w2k6y2k3w2k3g6r6k2r2w2~x2/"><circle cx="263.9" cy="37.4" r="4" fill="#3465a4"><title>Stewart Dress (Artefact)</title></circle></a><a href="/variants/s12/w46r3w7do2y2do2w2do11o6b2o3w2~x2/"><circle cx="334.2" cy="71.2" r="4" fill="#3465a4"><title>Diana, Plaid dress</title></circle></a><a href="/variants/s9/w216k8dg24g24w4k4r45w8r12/"><circle cx="362.6" cy="47.8" r="4" fill="#3465a4"><title>Unidentified Arisaid</title></circle></a><a href="/variants/s9/w216k8dg24b24w4k4r45w8r12/"><circle cx="363.6" cy="47.2" r="4" fill="#3465a4"><title>Unidentified, Arisaid</title></circle></a><a href="/variants/s19/lb1dr3r3w26db3w3g14w36r3dr1r3w36db14w2g3w26dr3r3lb1~x2/"><circle cx="356.4" cy="59.2" r="4" fill="#3465a4"><title>McDougall, Miss Anne (Personal)</title></circle></a><a href="/variants/s15/r12w2k4w4k1w24r2w2r2w2lb1w1o3k2w12~x2/"><circle cx="295.4" cy="71.7" r="4" fill="#3465a4"><title>Ivanka Trump (Personal)</title></circle></a><circle cx="349.8" cy="24.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

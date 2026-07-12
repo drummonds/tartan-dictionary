@@ -1,6 +1,11 @@
 ---
 title: "Masai Shuka 07 (Artefact)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Masai Shuka 07"
+  url: "/tartans/m/ma/masai-shuka-07/"
 ---
 This is the **Masai Shuka 07 (Artefact)** sett — one scale-free proportion (`r75k15r4k15r4`), colour order pattern
 [RKRKR](/stripes/rkrkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r4k1r12k12r2~x2/"><circle cx="334.9" cy="204.0" r="4" fill="#3465a4"><title>Campbell of Armaddie</title></circle></a><a href="/variants/s5/r8k1r8k12r1~x2/"><circle cx="324.6" cy="209.9" r="4" fill="#3465a4"><title>MacLeod Black &amp; Red</title></circle></a><a href="/variants/s5/r4k1r24k22r2~x2/"><circle cx="361.8" cy="163.8" r="4" fill="#3465a4"><title>Campbell Red (artefact)</title></circle></a><a href="/variants/s7/r8w4r50k12r4k15o5~x2/"><circle cx="320.6" cy="137.1" r="4" fill="#3465a4"><title>Instakilt, Pink (Fashion)</title></circle></a><a href="/variants/s7/r8w4r50k12r4k15g5~x2/"><circle cx="317.9" cy="137.5" r="4" fill="#3465a4"><title>Instakilt, Red (Fashion)</title></circle></a><a href="/variants/s7/k2r1k2r14w1r1w1~x8/"><circle cx="418.1" cy="125.1" r="4" fill="#3465a4"><title>White Stripes Dress, (Corporate)</title></circle></a><a href="/variants/s5/r36k18r4k7w2~x2/"><circle cx="338.0" cy="161.0" r="4" fill="#3465a4"><title>Hopkins (Name)</title></circle></a><a href="/variants/s5/r41k19r7k9w3~x2/"><circle cx="327.8" cy="176.7" r="4" fill="#3465a4"><title>MacGregor, Black (Personal)</title></circle></a><a href="/variants/s5/dr20k3dr4w2k7~x2/"><circle cx="381.6" cy="201.7" r="4" fill="#3465a4"><title>Loevenstein Castle</title></circle></a><a href="/variants/s5/r27w3r6w2dg3~x4~r1506028/"><circle cx="521.1" cy="181.7" r="4" fill="#3465a4"><title>Martin Family, Robert N Personal Tartan</title></circle></a><circle cx="462.1" cy="154.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

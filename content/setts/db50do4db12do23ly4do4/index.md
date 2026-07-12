@@ -1,6 +1,11 @@
 ---
 title: "Sligo, County"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Sligo, County"
+  url: "/tartans/s/sl/sligo-county/"
 ---
 This is the **Sligo, County** sett — one scale-free proportion (`db50do4db12do23ly4do4`), colour order pattern
 [BBBBYB](/stripes/bbbbyb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/do14db14do14db40do3db2~x2/"><circle cx="626.0" cy="298.2" r="4" fill="#3465a4"><title>Atlin</title></circle></a><a href="/variants/s6/do15r5do30db32do4lo3~x2/"><circle cx="388.5" cy="235.9" r="4" fill="#3465a4"><title>Cameron Hunting (Clan)</title></circle></a><a href="/variants/s5/n9db3n1db11n1~x6/"><circle cx="524.9" cy="307.0" r="4" fill="#3465a4"><title>MacCallum, High School</title></circle></a><a href="/variants/s9/n37db4n7db4n9db40lb2db4n2/"><circle cx="491.0" cy="220.1" r="4" fill="#3465a4"><title>Edwards</title></circle></a><a href="/variants/s6/n42db2n2db17lo8y4~x2~db1208266-lo2706076/"><circle cx="432.3" cy="196.7" r="4" fill="#3465a4"><title>Connecticut State Police PB (Cor.)</title></circle></a><a href="/variants/s7/db12lb1dr3lb1dr3lb1db6~x4/"><circle cx="468.4" cy="237.4" r="4" fill="#3465a4"><title>BC Corps of Commissionaires</title></circle></a><a href="/variants/s6/db13b1db3b6y1b1~x4/"><circle cx="513.5" cy="245.4" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/variants/s6/lo3dy33db24dy2db2dy2~x2/"><circle cx="478.9" cy="226.0" r="4" fill="#3465a4"><title>Keepers of the Quaich (Corporate)</title></circle></a><circle cx="524.1" cy="257.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

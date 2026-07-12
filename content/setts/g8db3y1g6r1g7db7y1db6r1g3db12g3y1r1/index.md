@@ -1,6 +1,11 @@
 ---
 title: "Platt Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Platt"
+  url: "/tartans/p/pl/platt/"
 ---
 This is the **Platt Family Tartan** sett — one scale-free proportion (`g8db3y1g6r1g7db7y1db6r1g3db12g3y1r1`), colour order pattern
 [GBGGRGBGBRGBGGR](/stripes/gbggrgbgbrgbggr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/g16db6y2g12r2g14db14y1db12r2g6db24g6y2r2~x2/"><circle cx="289.6" cy="157.4" r="4" fill="#3465a4"><title>Platt</title></circle></a><a href="/variants/s14/dy1r1dy2db11g5db1g8r1g8db1g5db11dy2r1~x4~g2408144/"><circle cx="240.0" cy="178.0" r="4" fill="#3465a4"><title>New Mexico District Tartan</title></circle></a><a href="/variants/s10/g11r4g4r7g41db11lb4db41r4db8/"><circle cx="258.5" cy="182.6" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #2</title></circle></a><a href="/variants/s10/g8r3g3r5g26db7lb3db28r3db6~x2/"><circle cx="250.1" cy="189.0" r="4" fill="#3465a4"><title>Stewart of Appin Htg (error)</title></circle></a><a href="/variants/s11/r1g8db2g2db6g1db6g2db2g8y1~x4/"><circle cx="297.6" cy="216.0" r="4" fill="#3465a4"><title>Bruce of Crionaich (Personal)</title></circle></a><a href="/variants/s13/g27r2g3r3db3ly2db14r2db3ly3db3r2db14~x2/"><circle cx="258.2" cy="151.1" r="4" fill="#3465a4"><title>Crowne Plaza (Corporate)</title></circle></a><a href="/variants/s9/dp4db18r2db2r2db9g20db3g4~x2~dp1607327-r1606028/"><circle cx="296.9" cy="200.8" r="4" fill="#3465a4"><title>St. Andrews New Golf Club</title></circle></a><a href="/variants/s20/g4r2g14w2db14r2db14g14db2g5db2g14db14r2db14w2g14r2g4lo3~x2~db1406275/"><circle cx="223.1" cy="180.0" r="4" fill="#3465a4"><title>Hunter of Hunterston</title></circle></a><a href="/variants/s10/g21db4w4db32g12y4g8r4g6db12/"><circle cx="223.8" cy="196.4" r="4" fill="#3465a4"><title>Harkness Hunting</title></circle></a><a href="/variants/s16/db24g4db3g4db24g6w3g4r3g8ly3g8r3g4w3g6~x2/"><circle cx="211.7" cy="162.0" r="4" fill="#3465a4"><title>Scottish Borders Tourist Board</title></circle></a><circle cx="264.6" cy="184.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

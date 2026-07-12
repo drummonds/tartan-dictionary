@@ -1,6 +1,13 @@
 ---
 title: "Cameron Boyle, The (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cameron"
+  url: "/clan/cameron/"
+- name: "Cameron Boyle, The"
+  url: "/tartans/c/ca/cameron-boyle-the/"
 ---
 This is the **Cameron Boyle, The (Personal)** sett — one scale-free proportion (`g5db20g2db2g2db2g25dr2g2dr17k8g2w2`), colour order pattern
 [GBGBGBGBGBKGW](/stripes/gbgbgbgbgbkgw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g5db20g20db2g2db2g25r2g2r17k8g2w2~x2/"><circle cx="209.0" cy="131.5" r="4" fill="#3465a4"><title>Boyle, Cameron (Personal)</title></circle></a><a href="/variants/s15/g16r2g2r1g3r1g2r2g12k12r1db16r2db8y2~x2/"><circle cx="168.9" cy="117.9" r="4" fill="#3465a4"><title>Cochrane Clan Tartan</title></circle></a><a href="/variants/s15/g16r2g2r1g3r1g2r2g12k12r1db16r2db8y2/"><circle cx="168.9" cy="117.9" r="4" fill="#3465a4"><title>Cochrane</title></circle></a><a href="/variants/s10/t5dr3t30k6w4k6dg24dr4dg6dr3/"><circle cx="158.8" cy="157.9" r="4" fill="#3465a4"><title>Law Society of Scotland</title></circle></a><a href="/variants/s11/g6k2g24k10db2o2db2o2db10k2lb3~x2/"><circle cx="178.8" cy="134.0" r="4" fill="#3465a4"><title>Scottish Rugby Union (City of Nagasaki)</title></circle></a><a href="/variants/s10/dp4lb2dp2lb8k3dp8dg3dp4dg24g2~x2~dg1806142-g2408144/"><circle cx="206.1" cy="146.4" r="4" fill="#3465a4"><title>Jones Htg (Name)</title></circle></a><a href="/variants/s15/g30y2g5y2g4k15db29r2db29k15g5y2g4y2g17~x2/"><circle cx="167.7" cy="128.0" r="4" fill="#3465a4"><title>Unidentified B'gowrie Unknown Tartan</title></circle></a><a href="/variants/s15/r1g11k4db2k1db1k1db14k1db1k1db2k4g11w1~x4/"><circle cx="168.3" cy="114.9" r="4" fill="#3465a4"><title>MacKenzie</title></circle></a><a href="/variants/s13/db10g5db5g60db13g10dbi67g5k5g5k5g13y10~db1106275-dbi1204274/"><circle cx="226.2" cy="125.6" r="4" fill="#3465a4"><title>Princess Beatrice Hunting</title></circle></a><a href="/variants/s14/k2g2r3db18r2g6r4lb1db6r3g18r3k2g2~x2/"><circle cx="176.6" cy="113.4" r="4" fill="#3465a4"><title>Glen Orchy #2 or MacIntyre</title></circle></a><circle cx="180.5" cy="131.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Caledonian Society of P.E.I. (Corp)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Caledonian Society of P.E.I."
+  url: "/tartans/c/ca/caledonian-society-of-p-e-i/"
 ---
 This is the **Caledonian Society of P.E.I. (Corp)** sett — one scale-free proportion (`r14db4r2db2r4db2r2db14k4db4k15g20k2y4r2k1w4`), colour order pattern
 [RBRBRBRBKBKGKGRKW](/stripes/rbrbrbrbkbkgkgrkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/db14k4db4k15g20k2lb4r2k1w4r14db4r2db2r4db2r2~x2/"><circle cx="64.5" cy="87.9" r="4" fill="#3465a4"><title>Caledonian Society of Prince Edward Island</title></circle></a><a href="/variants/s13/r4g22k16y2k3w3k2db20r8k2r4k1w2~x2/"><circle cx="76.1" cy="88.2" r="4" fill="#3465a4"><title>Galt Sir Alexander.. Family Tartan</title></circle></a><a href="/variants/s24/r24db6k8g6r1g6r2g3k1y2k1g1r1g2r1g7k9db11k1w2k1db11k9db8~x2/"><circle cx="87.6" cy="65.9" r="4" fill="#3465a4"><title>MacDonald of Prince Edward Island</title></circle></a><a href="/variants/s17/k3w4k3r18db1n18k1g18w1db18r1n18g1r18k3w4k3~x2/"><circle cx="78.8" cy="94.3" r="4" fill="#3465a4"><title>Brinkie's Brae (Personal)</title></circle></a><a href="/variants/s12/r18t13k16lo3k3lb5k3dg32k2r15t5r15~x2~t2503227-lb3200000/"><circle cx="63.9" cy="94.9" r="4" fill="#3465a4"><title>Wilson's No.090</title></circle></a><a href="/variants/s13/r2db18lo4k5lo1k1w1k2g8r6k1r3w1~x4/"><circle cx="100.5" cy="88.3" r="4" fill="#3465a4"><title>Beaton (Name)</title></circle></a><a href="/variants/s15/db2k2db8k8g12k1w2k1g12k8r3lb3r14lb2r2~x2/"><circle cx="60.5" cy="117.2" r="4" fill="#3465a4"><title>Unidentified - C20th</title></circle></a><a href="/variants/s20/g4k3dr1k3dr2k2dr4k1dr4g3k2lo2k2dr2k6db6lb14k3lb3dr3~x2/"><circle cx="54.0" cy="108.8" r="4" fill="#3465a4"><title>Quadra</title></circle></a><a href="/variants/s13/dr4g20k16ly2k3lr3k2db18dr6k2dr4k1lr2~x4/"><circle cx="92.4" cy="100.4" r="4" fill="#3465a4"><title>Galt, Alexander, Sir</title></circle></a><a href="/variants/s11/k9r2g3r2k15r2g3r2t20k1lb6~x2~t2503227-lb3200000/"><circle cx="97.6" cy="89.6" r="4" fill="#3465a4"><title>Royal Scottish Pipe Band Association</title></circle></a><circle cx="65.5" cy="87.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

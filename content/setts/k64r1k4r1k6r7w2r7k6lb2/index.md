@@ -1,6 +1,15 @@
 ---
 title: "Noordermeer (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Noordermeer"
+  url: "/clan/noordermeer/"
+- name: "Noordermeer"
+  url: "/families/noordermeer/"
+- name: "Noordermeer"
+  url: "/tartans/n/no/noordermeer-2/"
 ---
 This is the **Noordermeer (Personal)** sett — one scale-free proportion (`k64r1k4r1k6r7w2r7k6lb2`), colour order pattern
 [KRKRKRWRKW](/stripes/krkrkrwrkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r4k16w4k16r4k42r20k83r2/"><circle cx="507.6" cy="96.5" r="4" fill="#3465a4"><title>Brand Ambassador</title></circle></a><a href="/variants/s9/r2k8w2k8r2k21r10k42r1~x2/"><circle cx="509.2" cy="95.7" r="4" fill="#3465a4"><title>Brand Ambassador (Corporate)</title></circle></a><a href="/variants/s13/k61w1k1r2k1w1k16w1r4k2r6k1y4~x2/"><circle cx="502.4" cy="23.5" r="4" fill="#3465a4"><title>Coeur D'Alene Firefighters Richard Gaines Memorial</title></circle></a><a href="/variants/s10/k85r6k1w3k3w3k1r6k6y1~x2/"><circle cx="525.5" cy="29.4" r="4" fill="#3465a4"><title>Ambassador</title></circle></a><a href="/variants/s10/r7k3r3k22r3k3r3k37dy2k4~x2/"><circle cx="471.3" cy="118.9" r="4" fill="#3465a4"><title>Maier (Personal)</title></circle></a><a href="/variants/s8/k94r3k6r3k8r15k2y3~x2/"><circle cx="545.2" cy="70.6" r="4" fill="#3465a4"><title>Royal Army Physical Training Corps Association (Scotland)</title></circle></a><a href="/variants/s9/k93dr2k4w2k8n8k2n16w2~x2/"><circle cx="494.9" cy="57.4" r="4" fill="#3465a4"><title>Wcwm 1669-3</title></circle></a><a href="/variants/s12/dr40k1dr3k1w3k4w3k1dr3k1dr40k4~x2/"><circle cx="557.6" cy="75.0" r="4" fill="#3465a4"><title>Salt Lake County District Tartan</title></circle></a><a href="/variants/s10/w2k2dp8k10dp8k64w2k8y1k1~x2/"><circle cx="517.3" cy="55.2" r="4" fill="#3465a4"><title>Payne of Wallins Creek (Personal)</title></circle></a><a href="/variants/s8/k59r3k6r3k8r15k2dy3~x2/"><circle cx="468.9" cy="99.2" r="4" fill="#3465a4"><title>Royal Army PTC Assoc. (Military)</title></circle></a><circle cx="494.4" cy="40.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Kerr of Ardgowan Clergy"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Kerr"
+  url: "/clan/kerr/"
 ---
 A family of [Clan Kerr](/clan/kerr/).
 

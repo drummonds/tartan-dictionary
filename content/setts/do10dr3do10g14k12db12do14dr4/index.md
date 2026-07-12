@@ -1,6 +1,15 @@
 ---
 title: "Wcwm 1310"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Wcwm"
+  url: "/clan/wcwm/"
+- name: "Wcwm"
+  url: "/families/wcwm/"
+- name: "Wcwm 1310"
+  url: "/tartans/w/wc/wcwm-1310/"
 ---
 This is the **Wcwm 1310** sett — one scale-free proportion (`do10dr3do10g14k12db12do14dr4`), colour order pattern
 [BBBGKBBB](/stripes/bbbgkbbb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/do10r2do10g17k12db9do9r2~x2/"><circle cx="140.8" cy="218.1" r="4" fill="#3465a4"><title>MacDuff Hunting</title></circle></a><a href="/variants/s8/o8r1o8g8k8db8o8r2~x2/"><circle cx="144.1" cy="221.6" r="4" fill="#3465a4"><title>MacDuff, hunting</title></circle></a><a href="/variants/s7/o7r3o9g15db19o14r4~x2/"><circle cx="211.5" cy="262.0" r="4" fill="#3465a4"><title>Dorward</title></circle></a><a href="/variants/s7/r1do7db7k7g7do7r1~x4/"><circle cx="124.0" cy="232.6" r="4" fill="#3465a4"><title>Tennant</title></circle></a><a href="/variants/s7/r1do7g7k7t7do7r1~x4/"><circle cx="111.0" cy="230.3" r="4" fill="#3465a4"><title>Tennant (Clan)</title></circle></a><a href="/variants/s10/db8k3db18g6k8g6o12r5o12r3~x2/"><circle cx="76.8" cy="213.6" r="4" fill="#3465a4"><title>Longford</title></circle></a><a href="/variants/s8/dy8r1dy8g8k8db8dy8r2~x2/"><circle cx="170.3" cy="232.8" r="4" fill="#3465a4"><title>MacDuff Hunting Clan Tartan</title></circle></a><a href="/variants/s6/dy2lr1dy5k4do5o1~x4~do1402055/"><circle cx="137.5" cy="235.7" r="4" fill="#3465a4"><title>Huntly #3</title></circle></a><a href="/variants/s7/db2dg4r1dg4k4db4ly1~x8/"><circle cx="123.9" cy="259.1" r="4" fill="#3465a4"><title>Isle of Gigha (District)</title></circle></a><a href="/variants/s10/dr5db1dr3db1dr5db4g3k3g3lo2~x4/"><circle cx="118.4" cy="234.5" r="4" fill="#3465a4"><title>MacGaugh (Name)</title></circle></a><circle cx="143.0" cy="265.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

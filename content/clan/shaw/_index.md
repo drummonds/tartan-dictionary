@@ -1,8 +1,11 @@
 ---
 title: "Clan Shaw"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
-*A clan defined by its tartans — the dictionary holds no separate clan history for it, only the cloth that carries its name.*
+Shaw clan sett, published by McIan c.1845 from a Black Watch–derived error; later superseded by a Mackintosh/Clan Chattan–based design.
 
 ## Tartan
 

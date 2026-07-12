@@ -1,6 +1,11 @@
 ---
 title: "St Andrew's College"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "St Andrew's College"
+  url: "/tartans/s/st/st-andrew-s-college/"
 ---
 This is the **St Andrew's College** sett — one scale-free proportion (`db18w2db2r3db21k28dy1k1g2`), colour order pattern
 [BWBRBKGKG](/stripes/bwbrbkgkg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k4ly2k34db10lb4db4dp4db23w3~x2/"><circle cx="196.4" cy="97.6" r="4" fill="#3465a4"><title>Heirloom Dark Alba</title></circle></a><a href="/variants/s9/w3db2y1db2y1db31k28r2k2~x2/"><circle cx="281.7" cy="80.4" r="4" fill="#3465a4"><title>Hill (Name)</title></circle></a><a href="/variants/s9/k4r2k28db31y1db2y1db2w3~x2/"><circle cx="276.4" cy="83.3" r="4" fill="#3465a4"><title>Hill</title></circle></a><a href="/variants/s10/k17db24g3db3w3db3r3db24k17w1~x2/"><circle cx="278.8" cy="122.4" r="4" fill="#3465a4"><title>Al-Fadhli (Personal)</title></circle></a><a href="/variants/s11/y4db5lb2db30k1db4k4db1k15r6w3~x2/"><circle cx="244.0" cy="71.5" r="4" fill="#3465a4"><title>Correctional Service Canada</title></circle></a><a href="/variants/s10/db3dg3db24k34w1k34db24r3db3w3~x2/"><circle cx="294.8" cy="105.7" r="4" fill="#3465a4"><title>Al-Fadhli (Personal)</title></circle></a><a href="/variants/s8/db6dbi4k37g6dbi80n4k4ly4~db1106275-dbi1406275/"><circle cx="309.1" cy="96.4" r="4" fill="#3465a4"><title>Law Enforcement Officers' Memorial</title></circle></a><a href="/variants/s8/k8y1k1db28k12g2k1lb2~x2/"><circle cx="301.3" cy="103.8" r="4" fill="#3465a4"><title>Weir Clan Tartan</title></circle></a><a href="/variants/s10/r3w2r2db2r2db24k28r2k3y1~x2/"><circle cx="240.6" cy="78.9" r="4" fill="#3465a4"><title>Locky</title></circle></a><a href="/variants/s10/k10n4k34db3g3db3g3db26o2lb3~x2~n2002249-db1004274/"><circle cx="233.8" cy="106.7" r="4" fill="#3465a4"><title>Dugan (Personal)</title></circle></a><circle cx="274.8" cy="91.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

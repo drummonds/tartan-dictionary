@@ -1,6 +1,11 @@
 ---
 title: "Scottish Lion Name Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Scottish Lion"
+  url: "/tartans/s/sc/scottish-lion/"
 ---
 This is the **Scottish Lion Name Tartan** sett — one scale-free proportion (`k4db16lb2db16dr4dp7dg21dr3dg4do3`), colour order pattern
 [BGBGBBBWBK](/stripes/bgbgbbbwbk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dr4db16lb2db16r4dp7dg21r3dg4do3~x2~dr1305012-r1606028/"><circle cx="249.7" cy="189.9" r="4" fill="#3465a4"><title>Scottish Lion (Corporate)</title></circle></a><a href="/variants/s7/db3b2db21k12dg24r1ly3~x2~db0806265-k0700000/"><circle cx="237.3" cy="150.2" r="4" fill="#3465a4"><title>Nova Scotia Int. Tattoo (Corporate)</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2~db1406275/"><circle cx="312.1" cy="211.0" r="4" fill="#3465a4"><title>Hutchesons' Grammar School</title></circle></a><a href="/variants/s10/db45dp6n6dp30dg6dp6dg30k4r4k3/"><circle cx="240.0" cy="159.0" r="4" fill="#3465a4"><title>Dalgliesh, Ewen (Personal)</title></circle></a><a href="/variants/s11/db13w2dt38k13dt8k8dp17dg2dp17k4db11/"><circle cx="201.7" cy="155.8" r="4" fill="#3465a4"><title>Bute Heather (Fashion)</title></circle></a><a href="/variants/s8/dy4w1dg12k3db16r1db1r1~x2/"><circle cx="240.9" cy="140.7" r="4" fill="#3465a4"><title>Purves (2014)</title></circle></a><a href="/variants/s9/dg3y2dr10dg10db20dg12r3db10w2~x2/"><circle cx="230.0" cy="203.5" r="4" fill="#3465a4"><title>Patel (2013)</title></circle></a><a href="/variants/s11/db22r3db2n3k14dg20dy2dg20k14db11do6~x2/"><circle cx="146.3" cy="166.2" r="4" fill="#3465a4"><title>Wisconsin</title></circle></a><a href="/variants/s11/dg10m2dg2o4dg16dp16o2b18y2b8o3~x2/"><circle cx="179.5" cy="187.6" r="4" fill="#3465a4"><title>Commonwealth Games 1998</title></circle></a><a href="/variants/s9/dg24lb4dg3db11dp8db37k3db2r4~x2/"><circle cx="304.9" cy="138.9" r="4" fill="#3465a4"><title>Stewmann (Personal)</title></circle></a><circle cx="224.0" cy="176.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

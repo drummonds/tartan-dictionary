@@ -1,8 +1,11 @@
 ---
 title: "Clan Casely"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
-*A clan defined by its tartans — the dictionary holds no separate clan history for it, only the cloth that carries its name.*
+Designed by Harry Lindley for Gordon Casely's family, accredited 1993; chiefly sett.
 
 ## Tartan
 

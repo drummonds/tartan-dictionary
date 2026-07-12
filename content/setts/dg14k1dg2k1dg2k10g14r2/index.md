@@ -1,6 +1,11 @@
 ---
 title: "Manor (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Manor"
+  url: "/tartans/m/ma/manor/"
 ---
 This is the **Manor (Corporate)** sett — one scale-free proportion (`dg14k1dg2k1dg2k10g14r2`), colour order pattern
 [GKGKGKGR](/stripes/gkgkgkgr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr8g2dr12k6dr3db3g24k2~x2/"><circle cx="227.3" cy="176.6" r="4" fill="#3465a4"><title>McInery (Personal)</title></circle></a><a href="/variants/s7/g5k2g28k10dy26db4g4~x2/"><circle cx="241.5" cy="181.4" r="4" fill="#3465a4"><title>John Telfar Dunbar/Hunting Tartan</title></circle></a><a href="/variants/s10/dg9k2dg2g13k2g2dy1dg13k26dy2~x2/"><circle cx="238.2" cy="130.8" r="4" fill="#3465a4"><title>Pride of Ireland Fashion Tartan</title></circle></a><a href="/variants/s7/r4k4dt24k24g24k2r3~x2/"><circle cx="156.6" cy="182.6" r="4" fill="#3465a4"><title>Black Watch (Coarse Kilt)</title></circle></a><a href="/variants/s7/r2k1g15k7dy15k1y2~x2/"><circle cx="166.9" cy="157.1" r="4" fill="#3465a4"><title>Unidentified 20th Centuary</title></circle></a><a href="/variants/s11/dr6g3k3n24g4k10g4dr2g24dr6g2~x2/"><circle cx="204.9" cy="166.3" r="4" fill="#3465a4"><title>MacNeish Htg</title></circle></a><a href="/variants/s10/g5k2g17y2k5y2b5k17g2y4~x2/"><circle cx="158.8" cy="175.6" r="4" fill="#3465a4"><title>Antrim</title></circle></a><a href="/variants/s9/g12k1g1k1g1r5ki10k1ki2~x4~r2109032-ki0700000/"><circle cx="195.7" cy="153.2" r="4" fill="#3465a4"><title>Lindsay (Crimson version) (Clan?)</title></circle></a><a href="/variants/s7/y3k22g4dg18g31r3g3/"><circle cx="182.1" cy="175.5" r="4" fill="#3465a4"><title>MacSween Hunting (Lochs, Isle of Lewis) (Personal)</title></circle></a><a href="/variants/s8/g12k1g2dr1g2k10db10lo1~x4/"><circle cx="164.8" cy="159.2" r="4" fill="#3465a4"><title>Guelph, City Of</title></circle></a><circle cx="198.8" cy="170.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

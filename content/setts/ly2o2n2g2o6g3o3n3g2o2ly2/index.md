@@ -1,6 +1,11 @@
 ---
 title: "Callanish (District)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Callanish"
+  url: "/tartans/c/ca/callanish/"
 ---
 This is the **Callanish (District)** sett — one scale-free proportion (`ly2o2n2g2o6g3o3n3g2o2ly2`), colour order pattern
 [YRBGRGRBGRY](/stripes/yrbgrgrbgry/). It is recorded as a single **variant**, below.

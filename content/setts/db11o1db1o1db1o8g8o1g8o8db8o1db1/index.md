@@ -1,6 +1,11 @@
 ---
 title: "Tyneside, Scottish"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Tyneside, Scottish"
+  url: "/tartans/t/ty/tyneside-scottish-4/"
 ---
 This is the **Tyneside, Scottish** sett — one scale-free proportion (`db11o1db1o1db1o8g8o1g8o8db8o1db1`), colour order pattern
 [BRBRBRGRGRBRB](/stripes/brbrbrgrgrbrb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db11do1db1do1db1do8g8do1g8do8db8do1db1~x2/"><circle cx="294.3" cy="228.8" r="4" fill="#3465a4"><title>Tyneside Scottish District Tartan</title></circle></a><a href="/variants/s13/db21g2db3g2db2g14o15g4o15g14db14g2db3~x2/"><circle cx="241.4" cy="212.8" r="4" fill="#3465a4"><title>Montmorency</title></circle></a><a href="/variants/s12/db20r2db2r2g19r18g2r18g19db19r2db2~x2/"><circle cx="210.9" cy="203.9" r="4" fill="#3465a4"><title>Fraser of Stratherrick</title></circle></a><a href="/variants/s10/db4o7y3o12g15o5db20o5g4o2~x2/"><circle cx="236.0" cy="217.1" r="4" fill="#3465a4"><title>Tupper., Sir Charles..</title></circle></a><a href="/variants/s16/db1r1g6db8r1g1r1db8r6g1db1g1r6g6r1db1~x4/"><circle cx="214.4" cy="192.5" r="4" fill="#3465a4"><title>Crieff Hydro Hotel</title></circle></a><a href="/variants/s15/y2db3o3db4g16db3o3db4g3db3o16db4g3db3y2~x2/"><circle cx="205.8" cy="198.3" r="4" fill="#3465a4"><title>Kerry</title></circle></a><a href="/variants/s15/o8g20db15o6g4o8db4o6g20o8db6o4b2o4db6/"><circle cx="214.7" cy="210.3" r="4" fill="#3465a4"><title>Unidentified, Fragment</title></circle></a><a href="/variants/s9/g10r1g1r1g1r4db12r1db2~x2/"><circle cx="272.2" cy="187.1" r="4" fill="#3465a4"><title>Unidentified Portrait</title></circle></a><a href="/variants/s10/db10r2g2r6g16r1g2r1g3r6~x4~r1807033/"><circle cx="304.4" cy="189.8" r="4" fill="#3465a4"><title>Nithsdale</title></circle></a><a href="/variants/s11/db3o14g14o2db14o2db14o2g14o14r3~x2/"><circle cx="190.9" cy="230.9" r="4" fill="#3465a4"><title>Buchanan, hunting</title></circle></a><circle cx="247.1" cy="204.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

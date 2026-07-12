@@ -1,6 +1,11 @@
 ---
 title: "Scotland's Charity Air Ambulance"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Scotland's Charity Air Ambulance"
+  url: "/tartans/s/sc/scotland-s-charity-air-ambulance/"
 ---
 This is the **Scotland's Charity Air Ambulance** sett — one scale-free proportion (`w2db27k1g3k1n10k1r24w2`), colour order pattern
 [WBKGKBKRW](/stripes/wbkgkbkrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb4y1r28db24k5lb5k3~x4/"><circle cx="207.8" cy="117.0" r="4" fill="#3465a4"><title>McKnight #2 (Personal)</title></circle></a><a href="/variants/s7/dbi4y1r28db25k10dbi5k3~x2~dbi1605267-db1003265/"><circle cx="202.1" cy="128.1" r="4" fill="#3465a4"><title>McKnight (Personal)</title></circle></a><a href="/variants/s8/n3r14w1k2g2k16db20n1~x2/"><circle cx="139.1" cy="113.8" r="4" fill="#3465a4"><title>Vinther, Niels Christian (Personal)</title></circle></a><a href="/variants/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2~t2003246/"><circle cx="169.7" cy="76.6" r="4" fill="#3465a4"><title>Clinton Wedding</title></circle></a><a href="/variants/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2/"><circle cx="168.2" cy="76.6" r="4" fill="#3465a4"><title>Clinton Wedding (Personal)</title></circle></a><a href="/variants/s11/k6r2db18lo2g2lo2g10r20db2lb1db6~x2/"><circle cx="141.7" cy="102.3" r="4" fill="#3465a4"><title>Aberdeen Asset Management (Corp)</title></circle></a><a href="/variants/s9/k2y1k2y8r29n9db24w2db2~x2/"><circle cx="187.5" cy="91.8" r="4" fill="#3465a4"><title>Lermontov</title></circle></a><a href="/variants/s11/dg15r25dg4k2ly1db1ly1k2dg4db12w1~x2/"><circle cx="182.5" cy="84.3" r="4" fill="#3465a4"><title>Livingstone - Australia (Personal)</title></circle></a><a href="/variants/s9/k2dy1k2dy8r29n9db24w2db2~x2~db1204274/"><circle cx="195.8" cy="93.1" r="4" fill="#3465a4"><title>Lermontov Family Tartan</title></circle></a><a href="/variants/s9/db26dg11r8k2r2w2r4w1r15~x2/"><circle cx="213.8" cy="113.1" r="4" fill="#3465a4"><title>Royal Scottish Assurance</title></circle></a><circle cx="187.8" cy="84.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

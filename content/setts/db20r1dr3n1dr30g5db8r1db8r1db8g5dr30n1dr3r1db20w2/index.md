@@ -1,6 +1,11 @@
 ---
 title: "Guild, The"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Guild, The"
+  url: "/tartans/g/gu/guild-the/"
 ---
 This is the **Guild, The** sett — one scale-free proportion (`db20r1dr3n1dr30g5db8r1db8r1db8g5dr30n1dr3r1db20w2`), colour order pattern
 [BRBBBGBRBRBGBBBRBW](/stripes/brbbbgbrbrbgbbbrbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/dg5r4m1db36r4dg15r8y1db15r4dg36r4ri1db5y1~x2~r2109032-ri2806019/"><circle cx="287.3" cy="93.2" r="4" fill="#3465a4"><title>Glen Orchy (Fashion)</title></circle></a><a href="/variants/s12/n45g3db7r2db7g3n4w2dp36w2n11db4/"><circle cx="312.5" cy="117.1" r="4" fill="#3465a4"><title>Scottish Parliament (Official)</title></circle></a><a href="/variants/s15/n2dt1t2dt2r1t12dt2r1dr10dt28t1dt3t2dt3w1~x2~dt1102249-t2308259/"><circle cx="337.8" cy="84.9" r="4" fill="#3465a4"><title>Northfield Academy</title></circle></a><a href="/variants/s20/dp40g2dp2g2dp2g2dp3g16db15m3db15g16dp3g2dp2g2dp2g2dp40w4~x2~dp1105325-g2203152/"><circle cx="328.9" cy="102.7" r="4" fill="#3465a4"><title>Solway Spirit</title></circle></a><a href="/variants/s22/r9db3dg12r2db40r2dg20db2r18db2w2db2r18db2dg20r2db40r2dg12db3r9y2~x2/"><circle cx="245.7" cy="106.8" r="4" fill="#3465a4"><title>Kormylo (Personal)</title></circle></a><a href="/variants/s12/p1dr1p1dr6dg26mi14dr20lb1dr1lb1dr2m1~x2~p2312307-mi2506332/"><circle cx="271.3" cy="101.2" r="4" fill="#3465a4"><title>Scobie (Blackford)</title></circle></a><a href="/variants/s17/db67dy5g10r5y2r5g10dy5db4dy5g10r5n2r5dy5g10db24/"><circle cx="303.5" cy="69.8" r="4" fill="#3465a4"><title>Indianapolis MPD Emerald Society</title></circle></a><a href="/variants/s14/w2dp2n3g5n13dp2n2dp2n2dp33o2dp1n4w1~x2/"><circle cx="375.9" cy="88.6" r="4" fill="#3465a4"><title>Scottish Bakers</title></circle></a><a href="/variants/s10/db5n4r6ly1r9dbi35db5ly1db12w1~x2~db1004274-dbi1406275-w3600000/"><circle cx="300.9" cy="108.2" r="4" fill="#3465a4"><title>University of Dundee</title></circle></a><a href="/variants/s12/dt36r3dt1r2dt3r6db1r2db35w1db1ly2~x2/"><circle cx="340.9" cy="63.6" r="4" fill="#3465a4"><title>Kirkcaldy Tartan Army</title></circle></a><circle cx="315.2" cy="97.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

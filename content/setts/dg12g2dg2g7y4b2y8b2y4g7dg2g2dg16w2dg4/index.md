@@ -1,6 +1,15 @@
 ---
 title: "Confessore"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Confessore"
+  url: "/clan/confessore/"
+- name: "Confessore"
+  url: "/families/confessore/"
+- name: "Confessore"
+  url: "/tartans/c/co/confessore-2/"
 ---
 This is the **Confessore** sett — one scale-free proportion (`dg12g2dg2g7y4b2y8b2y4g7dg2g2dg16w2dg4`), colour order pattern
 [GGGGGBGBGGGGGWG](/stripes/gggggbgbgggggwg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/dg12g2dg2g7y4r2y8r2y4g7dg2g2dg16w2dg4~x2/"><circle cx="239.2" cy="194.5" r="4" fill="#3465a4"><title>Confessore Family Tartan</title></circle></a><a href="/variants/s14/y3dy3dg2dy6g7dg2y3dg2ly3dg5y3b3y20dy2~x2~ly2705081/"><circle cx="284.6" cy="187.6" r="4" fill="#3465a4"><title>Stewart Camel (Lochcarron)</title></circle></a><a href="/variants/s12/do9t3do4y3do3y4do3dy11g30ti3g4do3~x2~t2304245-ti2607245/"><circle cx="264.6" cy="180.6" r="4" fill="#3465a4"><title>Harmony 2</title></circle></a><a href="/variants/s11/g3n16dy11n2ly11n2ly11n2dy11n16w3~x2~dy1502083-ly2806085/"><circle cx="272.1" cy="241.3" r="4" fill="#3465a4"><title>Harmony 14</title></circle></a><a href="/variants/s11/dg12n4dr4db4dr4n4dg18g5dg5g5db4~x2/"><circle cx="303.6" cy="270.0" r="4" fill="#3465a4"><title>Ralston Personal Tartan</title></circle></a><a href="/variants/s14/do22g26dr4g26do22dy3do3dy3do3dy31do3dy3do3dy3~x2/"><circle cx="323.3" cy="225.3" r="4" fill="#3465a4"><title>Devarr</title></circle></a><a href="/variants/s10/g30dp3g3dp3g3dp10dg10y20lp2dg5~x2~dg1803133-y2302138/"><circle cx="303.5" cy="205.7" r="4" fill="#3465a4"><title>Roddy's Highland Spirit (Fashion)</title></circle></a><a href="/variants/s12/dg11lb3dg4y3dg3y4dg3dy13g3lb3g4dg3~x2/"><circle cx="204.6" cy="252.0" r="4" fill="#3465a4"><title>Harmony 2 &amp; 3</title></circle></a><a href="/variants/s10/do26dt28g26dt8y3dt8g26dt28do26dr6~x2/"><circle cx="279.5" cy="268.6" r="4" fill="#3465a4"><title>House of Bruar</title></circle></a><a href="/variants/s13/g5dp1g1dp1g1dg3g3dg1g3dg3ly3lyi1ly1~x4~g1903114-lyi2706114/"><circle cx="233.7" cy="247.9" r="4" fill="#3465a4"><title>Balmoral Hotel Edinburgh</title></circle></a><circle cx="298.7" cy="222.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

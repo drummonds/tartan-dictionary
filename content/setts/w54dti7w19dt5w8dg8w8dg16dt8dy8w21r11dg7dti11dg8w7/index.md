@@ -1,6 +1,11 @@
 ---
 title: "Beckett Beaumont"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Beckett Beaumont"
+  url: "/tartans/b/be/beckett-beaumont/"
 ---
 This is the **Beckett Beaumont** sett — one scale-free proportion (`w54dti7w19dt5w8dg8w8dg16dt8dy8w21r11dg7dti11dg8w7`), colour order pattern
 [WBWBWGWGBGWRGBGW](/stripes/wbwbwgwgbgwrgbgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/w54dt7w19k5w8dgi8w8dgi16k8dg8w21r11dgi7dt11dgi8w7~x2~dgi1803133-dg1401060/"><circle cx="181.0" cy="115.9" r="4" fill="#3465a4"><title>Beckett Beaumont Artifact Tartan</title></circle></a><a href="/variants/s16/w54dt7w19k5w8dg8w8dg16k8dy8w21r11dg7dt11dg8w7~x2~dt1502194-k0700000/"><circle cx="180.7" cy="115.9" r="4" fill="#3465a4"><title>Beckett Beaumont (Corporate)</title></circle></a><a href="/variants/s19/lb1r3ri3w20db3w3g12w18ri3r1ri3w18db12w3g3w20ri3r3lb1~x2~r1707016-ri2008029/"><circle cx="257.0" cy="91.7" r="4" fill="#3465a4"><title>MacLeod, Arisaid</title></circle></a><a href="/variants/s19/lb1r3ri3w20db3w3g12w18ri3r1ri3w18db12w3g3w20ri3r3lb1~x2~r1707016-ri2209032/"><circle cx="258.1" cy="91.9" r="4" fill="#3465a4"><title>McDougall, Miss Anne (Personal)</title></circle></a><a href="/variants/s13/y4db5y4db5w8r2w24g2w8db5y4db5y4~x2/"><circle cx="212.5" cy="157.1" r="4" fill="#3465a4"><title>Aelfleda Arisaid (Personal)</title></circle></a><a href="/variants/s13/y4db5y4db5w8dg2w24r2w8db5y4db5y4~x2/"><circle cx="211.7" cy="156.5" r="4" fill="#3465a4"><title>Aelfleda Arisaid (Personal)</title></circle></a><a href="/variants/s11/r1ly8dy2ly2db6w1db6ly2dy2ly8o1~x4/"><circle cx="182.5" cy="167.4" r="4" fill="#3465a4"><title>MacKessog</title></circle></a><a href="/variants/s10/w3k1w20dp1db6g6o3g1o1g2~x4/"><circle cx="200.0" cy="73.8" r="4" fill="#3465a4"><title>Scotland the Brave Dress (Dance)</title></circle></a><a href="/variants/s11/r1w8g2ly2db6w1db6ly2g2w8o1~x4/"><circle cx="129.4" cy="169.3" r="4" fill="#3465a4"><title>MacKessog Wedding (Fashion)</title></circle></a><a href="/variants/s16/k6g4k1w16lb1w4lb6w1lb6w4lb1w16k1g4k6y1~x2/"><circle cx="184.5" cy="109.3" r="4" fill="#3465a4"><title>Henderson Dress #1</title></circle></a><circle cx="208.9" cy="131.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

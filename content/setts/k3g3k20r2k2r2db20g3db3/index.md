@@ -1,6 +1,11 @@
 ---
 title: "Hume or Home Clan Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Hume or Home"
+  url: "/tartans/h/hu/hume-or-home/"
 ---
 This is the **Hume or Home Clan Tartan** sett — one scale-free proportion (`k3g3k20r2k2r2db20g3db3`), colour order pattern
 [BGBRKRKGK](/stripes/bgbrkrkgk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k30r3k3r3k6db32dg3db3~x2/"><circle cx="272.6" cy="160.3" r="4" fill="#3465a4"><title>Holmes (Clan?)</title></circle></a><a href="/variants/s8/k8r1k1r1k4db11y1db2~x6/"><circle cx="253.1" cy="168.3" r="4" fill="#3465a4"><title>Rutherford</title></circle></a><a href="/variants/s8/y3k12db1g5db12r1k2r1~x4/"><circle cx="157.2" cy="152.8" r="4" fill="#3465a4"><title>Sandberg of Greenock (Personal)</title></circle></a><a href="/variants/s7/k1r1k18g12db18g1db1~x2/"><circle cx="199.0" cy="153.5" r="4" fill="#3465a4"><title>Meoni (Personal)</title></circle></a><a href="/variants/s11/k14lb3k3w4k3lb3k14db4k4db30k4~x2/"><circle cx="220.6" cy="146.0" r="4" fill="#3465a4"><title>Scottish Jewish Community</title></circle></a><a href="/variants/s9/db28k3db6k3db6k20dy28k3w6~x2/"><circle cx="180.3" cy="181.6" r="4" fill="#3465a4"><title>Forbes #5</title></circle></a><a href="/variants/s12/k1w1k8dg1k1db8dg8k1db1k8w1k1~x6/"><circle cx="214.1" cy="161.2" r="4" fill="#3465a4"><title>Chess (Universal)</title></circle></a><a href="/variants/s11/k15lb3k3w4k3lb3k15db4k4db30k4~x2/"><circle cx="225.5" cy="146.1" r="4" fill="#3465a4"><title>Shalom (Fashion)</title></circle></a><a href="/variants/s11/k15lb3k3w4k3lb3k15db4k4db30k4~x2~db1406275/"><circle cx="224.4" cy="144.6" r="4" fill="#3465a4"><title>Shalom</title></circle></a><a href="/variants/s9/k1g8k9r1k1r1k9db8r1~x6/"><circle cx="207.2" cy="173.2" r="4" fill="#3465a4"><title>Guthrie Family Tartan</title></circle></a><circle cx="218.6" cy="156.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

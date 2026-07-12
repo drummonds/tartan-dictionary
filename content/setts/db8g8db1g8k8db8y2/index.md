@@ -1,6 +1,15 @@
 ---
 title: "MacKay"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Mackay"
+  url: "/clan/mackay/"
+- name: "MacKay"
+  url: "/families/mackay/"
+- name: "MacKay"
+  url: "/tartans/m/ma/mackay-4/"
 ---
 This is the **MacKay** sett — one scale-free proportion (`db8g8db1g8k8db8y2`), colour order pattern
 [BGBGKBG](/stripes/bgbgkbg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db3r1db10k8g10r1g3~x4/"><circle cx="156.0" cy="203.5" r="4" fill="#3465a4"><title>Blair Clan Tartan</title></circle></a><a href="/variants/s6/r1t7k4t1dg7t1~x4/"><circle cx="193.3" cy="224.2" r="4" fill="#3465a4"><title>Flower of Scotland Commemorative Tartan</title></circle></a><a href="/variants/s6/r1t7k4t1dg7t1~x2/"><circle cx="193.3" cy="224.2" r="4" fill="#3465a4"><title>Flower of Scotland MINI Tartan</title></circle></a><a href="/variants/s6/db4g18db3k17db18o4~x2/"><circle cx="151.3" cy="237.6" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/variants/s6/db4g18db3k17db18dp4~x2/"><circle cx="157.2" cy="239.4" r="4" fill="#3465a4"><title>Scottish Airports (Corporate)</title></circle></a><a href="/variants/s8/db12k4g12ly1g12k4db8r3~x2/"><circle cx="162.6" cy="192.4" r="4" fill="#3465a4"><title>Art Pewter Silver</title></circle></a><a href="/variants/s7/t10k3t10k14r2g14k4~x2/"><circle cx="120.8" cy="227.8" r="4" fill="#3465a4"><title>Fletcher #2</title></circle></a><a href="/variants/s7/db16g14w2g14k13db12k4~x2/"><circle cx="132.0" cy="242.7" r="4" fill="#3465a4"><title>MacNeil of Colonsay (Clan)</title></circle></a><a href="/variants/s6/g3db1g8db7k3dy1~x2/"><circle cx="214.8" cy="223.6" r="4" fill="#3465a4"><title>Trafalgar (Fashion)</title></circle></a><a href="/variants/s6/g3db1g8db7k3y1~x2/"><circle cx="213.4" cy="223.3" r="4" fill="#3465a4"><title>Trafalger Trade Tartan</title></circle></a><circle cx="149.6" cy="243.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

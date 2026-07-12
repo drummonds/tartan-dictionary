@@ -1,6 +1,15 @@
 ---
 title: "Burnett"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Burnett"
+  url: "/clan/burnett/"
+- name: "Burnett"
+  url: "/families/burnett/"
+- name: "Burnett"
+  url: "/tartans/b/bu/burnett/"
 ---
 This is the **Burnett** sett — one scale-free proportion (`r4g14ly3g14r4g3r29y4`), colour order pattern
 [GRGRGYGR](/stripes/grgrgygr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k1r9g2r2g4w1g4r1~x2/"><circle cx="258.8" cy="184.8" r="4" fill="#3465a4"><title>Comyn</title></circle></a><a href="/variants/s8/r2g6y1g6r3g2r16lb1~x4/"><circle cx="383.4" cy="175.4" r="4" fill="#3465a4"><title>Burnett of Leys Family Tartan</title></circle></a><a href="/variants/s8/r2g6y1g6r3g2r16db1~x4/"><circle cx="379.8" cy="174.2" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/variants/s8/r3g19dy3g19r3g3r21lb3~x2/"><circle cx="323.7" cy="220.1" r="4" fill="#3465a4"><title>Burnett of Powis (Personal)</title></circle></a><a href="/variants/s6/r1g3r1g3r8y1~x8/"><circle cx="396.6" cy="238.5" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/variants/s6/r1g6r1g6r15y1~x2/"><circle cx="412.7" cy="205.0" r="4" fill="#3465a4"><title>Cameron Clan D</title></circle></a><a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x4/"><circle cx="368.4" cy="165.1" r="4" fill="#3465a4"><title>MacPhie/Macfie</title></circle></a><a href="/variants/s9/y1r12g2r1g16r1g2r12w1/"><circle cx="368.4" cy="165.1" r="4" fill="#3465a4"><title>MacFie</title></circle></a><a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x2/"><circle cx="368.4" cy="165.1" r="4" fill="#3465a4"><title>MacPhee MacFie Clan Tartan</title></circle></a><a href="/variants/s7/ri2r1ri10r2g10w1g2~x2~ri2008029-r1506028/"><circle cx="283.1" cy="203.5" r="4" fill="#3465a4"><title>Lennox</title></circle></a><circle cx="324.8" cy="205.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

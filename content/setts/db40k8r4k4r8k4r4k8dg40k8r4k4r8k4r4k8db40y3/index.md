@@ -1,6 +1,15 @@
 ---
 title: "Griffiths of Llangynin (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Griffiths"
+  url: "/clan/griffiths/"
+- name: "Griffiths of Llangynin"
+  url: "/families/griffiths-of-llangynin/"
+- name: "Griffiths of Llangynin"
+  url: "/tartans/g/gr/griffiths-of-llangynin-2/"
 ---
 This is the **Griffiths of Llangynin (Personal)** sett — one scale-free proportion (`db40k8r4k4r8k4r4k8dg40k8r4k4r8k4r4k8db40y3`), colour order pattern
 [BKRKRKRKGKRKRKRKBG](/stripes/bkrkrkrkgkrkrkrkbg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13~x2/"><circle cx="145.1" cy="137.2" r="4" fill="#3465a4"><title>Unnamed C20th - Unregistered Error</title></circle></a><a href="/variants/s10/r12ly2db3k3db30k20dr6k10ly2dr4~x2/"><circle cx="175.7" cy="114.1" r="4" fill="#3465a4"><title>KPMG</title></circle></a><a href="/variants/s16/dr4k1db8k1dy3k2db4dy6db4w3k2db20k4dr21k1dy3~x2/"><circle cx="229.2" cy="111.5" r="4" fill="#3465a4"><title>Westmeath County, Crest Range</title></circle></a><a href="/variants/s12/dg10w2dg18k3dg3k3dg3k18dp24k3dp3ly3~x2/"><circle cx="173.7" cy="144.8" r="4" fill="#3465a4"><title>Bell's Whisky (SA)</title></circle></a><a href="/variants/s14/dg6r4dg4r3dg4y2db14k4dg4k28dg18k2dg2k2~x2/"><circle cx="201.5" cy="128.9" r="4" fill="#3465a4"><title>Cypress Presbyterian Church</title></circle></a><a href="/variants/s13/dg16k5dg4k8dg44k40dg4db52r10db4r4db10w6/"><circle cx="155.2" cy="134.7" r="4" fill="#3465a4"><title>MacNeil of Colonsay (Highland Society of London)</title></circle></a><a href="/variants/s15/n12k2n2k2n2k12dr12k1dy2k1dr12k12n12k1r2~x2/"><circle cx="159.4" cy="139.1" r="4" fill="#3465a4"><title>Flaumandrum</title></circle></a><a href="/variants/s14/db22r2db2r6db2r2db38k46r2dy42n2dy2n2dy15~x2/"><circle cx="215.2" cy="104.5" r="4" fill="#3465a4"><title>Applestone</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12dg16r1k1y2~x2/"><circle cx="154.0" cy="133.0" r="4" fill="#3465a4"><title>MacLennan (Clan)</title></circle></a><a href="/variants/s16/db11k4db4w2db4k4db11dr26k4w3k4w2k14dg10db16dg6~x2/"><circle cx="137.9" cy="142.5" r="4" fill="#3465a4"><title>Stuart-Houghton Family Tartan</title></circle></a><circle cx="179.2" cy="109.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

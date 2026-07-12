@@ -1,6 +1,11 @@
 ---
 title: "Institute of Directors (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Institute of Directors"
+  url: "/tartans/i/in/institute-of-directors/"
 ---
 This is the **Institute of Directors (Corporate)** sett — one scale-free proportion (`dp50w4dp12b4dp10b8dp4b6dp4b10k12b5k42b6k12b10dp4b6dp4b8dp10b4dp12w4`), colour order pattern
 [BWBBBBBBBBKBKBKBBBBBBBBW](/stripes/bwbbbbbbbbkbkbkbbbbbbbbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/db2r2k2lb3k4lb5k6db20r2lb4r2db20k6lb5k4lb3k2r2~x2~db1406275/"><circle cx="170.4" cy="127.9" r="4" fill="#3465a4"><title>Scottish Knights Templar Militi Templi Scotia</title></circle></a><a href="/variants/s17/dp20t12dp12k5r2k5r2dp4k2t3k2t3k2dp4k5r2k5~x2/"><circle cx="190.2" cy="144.6" r="4" fill="#3465a4"><title>Burns, Virginia (Personal)</title></circle></a><a href="/variants/s20/dbi30k9db5w4db2r2db2w4db5k9dbi30k9db3w2db6r2db6w2db3k9~x2~dbi1406275-db1106275/"><circle cx="169.9" cy="100.0" r="4" fill="#3465a4"><title>Rangers F. C. Dress Corporate Tartan</title></circle></a><a href="/variants/s20/db14k7db21k2db2k2db2k4db7r25w2r2k3r16db9r2k4r2k4r2~x2/"><circle cx="189.0" cy="114.5" r="4" fill="#3465a4"><title>Club World (Corporate)</title></circle></a><a href="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2~db1406275/"><circle cx="167.6" cy="94.7" r="4" fill="#3465a4"><title>Scottish Knights Templar St. Andrews</title></circle></a><a href="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2~db1406275/"><circle cx="218.1" cy="106.1" r="4" fill="#3465a4"><title>Scottish Knights Templar International</title></circle></a><a href="/variants/s13/dp50lr4dp12b4dp10b8dp4b6dp4b10k12b5k42/"><circle cx="244.0" cy="137.5" r="4" fill="#3465a4"><title>Institute of Directors (Scotland)</title></circle></a><a href="/variants/s21/db22k2db4k2db4k8w2k2w2k10r5y2r5k10w2k2w2k8db18k2db4~x2/"><circle cx="162.4" cy="111.3" r="4" fill="#3465a4"><title>Tartan Army</title></circle></a><a href="/variants/s14/k32b12db5r2k2r2db42r2k2r2db5b12k32db4~x2~db1608288/"><circle cx="228.0" cy="103.7" r="4" fill="#3465a4"><title>Longniddry Dress Lavender Fancy Tartan</title></circle></a><a href="/variants/s10/r12ly2db3k3db30k20dr6k10ly2dr4~x2/"><circle cx="175.7" cy="114.1" r="4" fill="#3465a4"><title>KPMG</title></circle></a><circle cx="200.4" cy="113.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Wilson's, No 120"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Wilson's, No 120"
+  url: "/tartans/w/wi/wilson-s-no-120/"
 ---
 This is the **Wilson's, No 120** sett — one scale-free proportion (`k12g12w2g12k12dp12r3`), colour order pattern
 [KGWGKBR](/stripes/kgwgkbr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k11g12w2g12k12dp12r3~x2/"><circle cx="86.2" cy="230.7" r="4" fill="#3465a4"><title>Cunningham / Wilson's No 120</title></circle></a><a href="/variants/s7/k6g6w1g6k6dp6b1~x4/"><circle cx="97.5" cy="230.6" r="4" fill="#3465a4"><title>Wilson's, No 233</title></circle></a><a href="/variants/s7/k6g6w1g6k6dp6k1~x4/"><circle cx="122.9" cy="237.6" r="4" fill="#3465a4"><title>Wilson's, No 64 or Abercrombie</title></circle></a><a href="/variants/s7/dp9k7g5r4g7k1y1~x2/"><circle cx="105.4" cy="204.0" r="4" fill="#3465a4"><title>MacLaren #2</title></circle></a><a href="/variants/s7/k6g6y1g6k6dp6k1~x4/"><circle cx="129.3" cy="239.3" r="4" fill="#3465a4"><title>Abercrombie (Wilsons No 2/64)</title></circle></a><a href="/variants/s7/k11g12k2g12k12dp12w3~x2/"><circle cx="114.0" cy="245.2" r="4" fill="#3465a4"><title>Wilson's No 97</title></circle></a><a href="/variants/s7/k13g12lb2g12k13dp12k2~x2/"><circle cx="135.9" cy="234.1" r="4" fill="#3465a4"><title>MacLaggan</title></circle></a><a href="/variants/s6/k3r1g5k3w1dp3~x2/"><circle cx="73.2" cy="207.0" r="4" fill="#3465a4"><title>Wilson's No.194</title></circle></a><a href="/variants/s7/db14g18k3g18dr20k14lo3~x2/"><circle cx="108.6" cy="229.4" r="4" fill="#3465a4"><title>Scottish Parliament (unofficial)</title></circle></a><a href="/variants/s5/dp11lb2k10g10y3~x2/"><circle cx="73.4" cy="223.9" r="4" fill="#3465a4"><title>Wilson's No.217</title></circle></a><circle cx="85.2" cy="230.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

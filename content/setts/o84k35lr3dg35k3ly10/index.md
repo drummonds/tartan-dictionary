@@ -1,6 +1,11 @@
 ---
 title: "Brandon (Manitoba)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Brandon"
+  url: "/tartans/b/br/brandon/"
 ---
 This is the **Brandon (Manitoba)** sett — one scale-free proportion (`o84k35lr3dg35k3ly10`), colour order pattern
 [RKYGKY](/stripes/rkygky/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y70k30w3g30k3y10/"><circle cx="286.2" cy="154.1" r="4" fill="#3465a4"><title>Jacobite #2</title></circle></a><a href="/variants/s8/g18r1w2k1w2r1o6k2~x4/"><circle cx="255.6" cy="117.0" r="4" fill="#3465a4"><title>Humphries (Name)</title></circle></a><a href="/variants/s6/y83k35w3g35k3ly10~y2405105-ly3307090/"><circle cx="233.2" cy="132.8" r="4" fill="#3465a4"><title>Brandon, Manitoba</title></circle></a><a href="/variants/s6/dy83k35w3g35k3y10/"><circle cx="258.1" cy="137.1" r="4" fill="#3465a4"><title>Brandon Manitoba Trade Tartan</title></circle></a><a href="/variants/s6/r25k7r3g13y1k2~x4/"><circle cx="291.8" cy="135.2" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/variants/s6/r25k7r3g13lb1k2~x4/"><circle cx="290.0" cy="134.6" r="4" fill="#3465a4"><title>MacPhail Red Clan Tartan</title></circle></a><a href="/variants/s6/g55k17r9k11y2k4~x2/"><circle cx="295.0" cy="132.5" r="4" fill="#3465a4"><title>Moran (Name)</title></circle></a><a href="/variants/s6/r10w2k10w10o35k5~x2/"><circle cx="218.5" cy="156.4" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><a href="/variants/s6/k1g6k1g6r16db1~x2/"><circle cx="299.3" cy="160.5" r="4" fill="#3465a4"><title>Denny Hunting Clan Tartan</title></circle></a><a href="/variants/s8/g28r3k28db8lb1g8r2k3~x2/"><circle cx="210.8" cy="112.7" r="4" fill="#3465a4"><title>Stansbury (2014)</title></circle></a><circle cx="242.8" cy="127.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

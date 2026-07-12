@@ -1,6 +1,15 @@
 ---
 title: "Lochcarron Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Lochcarron"
+  url: "/clan/lochcarron/"
+- name: "Lochcarron"
+  url: "/families/lochcarron/"
+- name: "Lochcarron Dress"
+  url: "/tartans/l/lo/lochcarron-dress/"
 ---
 This is the **Lochcarron Dress** sett — one scale-free proportion (`r3db10t3db2t2db2r3k5r2k5r22dg2r3dg2`), colour order pattern
 [GRGRKRKRBBBBBR](/stripes/grgrkrkrbbbbbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k3r4db2r20db20r2g2r6g10r6w2r3k2~x2/"><circle cx="201.4" cy="126.8" r="4" fill="#3465a4"><title>Cameron of Locheil (Bonner collection)</title></circle></a><a href="/variants/s10/dy4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="187.8" cy="122.5" r="4" fill="#3465a4"><title>Golfing Stewart (Fashion)</title></circle></a><a href="/variants/s10/y4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="186.8" cy="122.4" r="4" fill="#3465a4"><title>Royal &amp; Ancient/Golfing Stewart</title></circle></a><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x4/"><circle cx="224.4" cy="119.2" r="4" fill="#3465a4"><title>Hepburn (Clan)</title></circle></a><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x2/"><circle cx="224.4" cy="119.2" r="4" fill="#3465a4"><title>Hepburn Family Tartan</title></circle></a><a href="/variants/s12/k3db2g2db22r4g3r3g2r22k2r2y2~x2/"><circle cx="210.6" cy="114.1" r="4" fill="#3465a4"><title>Harris, Jeffrey S (Personal)</title></circle></a><a href="/variants/s10/b4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="186.2" cy="122.4" r="4" fill="#3465a4"><title>Golfers</title></circle></a><a href="/variants/s12/k2db2g2db22r4g3r3g2r22k2r2ly2~x2/"><circle cx="214.2" cy="111.8" r="4" fill="#3465a4"><title>Harris, Jeffrey S (Personal)</title></circle></a><a href="/variants/s14/w3r30k4dg2db17y3db2y3db17dg2k4r30w3r2~x2~dg1806142/"><circle cx="214.2" cy="86.2" r="4" fill="#3465a4"><title>Unidentified Lindley #4</title></circle></a><a href="/variants/s15/r2g4k2dp25g4dp4ly2dp2w2dp5g3r7k2r3w2~x2/"><circle cx="204.2" cy="86.7" r="4" fill="#3465a4"><title>Hueg Scottish Blue Thistle (Personal</title></circle></a><circle cx="206.0" cy="112.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

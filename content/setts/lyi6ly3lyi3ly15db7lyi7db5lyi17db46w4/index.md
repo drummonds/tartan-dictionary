@@ -1,6 +1,15 @@
 ---
 title: "Rhys (Welsh Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Rhys"
+  url: "/clan/rhys/"
+- name: "Rhys"
+  url: "/families/rhys/"
+- name: "Rhys"
+  url: "/tartans/r/rh/rhys/"
 ---
 This is the **Rhys (Welsh Name)** sett — one scale-free proportion (`lyi6ly3lyi3ly15db7lyi7db5lyi17db46w4`), colour order pattern
 [WBYBYBYYYY](/stripes/wbybybyyyy/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dt42lb2lbi2lb2dt5db12lbi32dt4~x2~lb3103284-lbi3200000/"><circle cx="338.4" cy="178.8" r="4" fill="#3465a4"><title>Longniddry Blue (Dance)</title></circle></a><a href="/variants/s8/lo12db2lo2db30dt2db2dt13lb4~x2/"><circle cx="321.3" cy="192.7" r="4" fill="#3465a4"><title>Highlands School (North Carolina)</title></circle></a><a href="/variants/s12/w4db2lo8db2n2db2n2db23lo10db2lo7db2~x2/"><circle cx="299.5" cy="181.1" r="4" fill="#3465a4"><title>Auld Lang Syne Brown Tartan</title></circle></a><a href="/variants/s10/db29dr3w10db2w2ly10db5w2db4ly2~x2/"><circle cx="331.9" cy="173.8" r="4" fill="#3465a4"><title>Stewart Navy Clan Tartan</title></circle></a><a href="/variants/s9/dr15t2ly1t10w1t2w1t2ly1~x4/"><circle cx="336.7" cy="185.9" r="4" fill="#3465a4"><title>Rafferty (Estimated threadcount)</title></circle></a><a href="/variants/s8/db42lb2lbi2lb2db5dbi12lbi32db4~x2~db1204274-lb3103284-lbi3200000-dbi1404245/"><circle cx="342.0" cy="176.9" r="4" fill="#3465a4"><title>Longniddry Eildon Blue Dress Fancy Tartan</title></circle></a><a href="/variants/s10/dbi6ly3dbi3ly15db7dbi7db5dbi17db46w4~dbi1204274-db0705267/"><circle cx="318.7" cy="181.1" r="4" fill="#3465a4"><title>Rhys Welsh Name Tartan</title></circle></a><a href="/variants/s12/lr12dr3lr3db4lr16ly3lr3ly3lr3ly16db52lr4/"><circle cx="303.2" cy="154.3" r="4" fill="#3465a4"><title>Carsaig</title></circle></a><a href="/variants/s8/db42lb2w2lb2db5dbi12w32db4~x2~db0805267-dbi1405255/"><circle cx="310.9" cy="168.7" r="4" fill="#3465a4"><title>Eildon (1980)</title></circle></a><a href="/variants/s7/db3y2db30y19ly14y2ly3~x2/"><circle cx="295.5" cy="208.6" r="4" fill="#3465a4"><title>Bannockbane Brown #2</title></circle></a><circle cx="306.8" cy="178.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

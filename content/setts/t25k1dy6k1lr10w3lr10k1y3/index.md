@@ -1,6 +1,11 @@
 ---
 title: "O'Rourke (Name?)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "O'Rourke"
+  url: "/tartans/o/o/o-rourke/"
 ---
 This is the **O'Rourke (Name?)** sett — one scale-free proportion (`t25k1dy6k1lr10w3lr10k1y3`), colour order pattern
 [BKGKYWYKG](/stripes/bkgkywykg/). It is recorded as **2 variants** — the same
@@ -23,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/t25k1dy6k1lr10w3lr10k1y3~x4~t2503227-lr2800000/"><circle cx="227.5" cy="118.7" r="4" fill="#3465a4"><title>O'Rourke (Name?)</title></circle></a><a href="/variants/s13/n19o4t2n10o22k1g3k1o3w1t5o1k3~x2~n1900000-o2500000/"><circle cx="258.7" cy="117.1" r="4" fill="#3465a4"><title>Giants Causeway (District)</title></circle></a><a href="/variants/s10/b24w2b6g9r6b3r6g35k2ly2~x2/"><circle cx="236.8" cy="124.4" r="4" fill="#3465a4"><title>O'Donohue Personal)</title></circle></a><a href="/variants/s10/lb30t1lb1t16g5r5ly2t2dy15t1~x2~ly3307090-dy1603076/"><circle cx="243.1" cy="118.2" r="4" fill="#3465a4"><title>Lyon, Jeffrey M (Hunting) (Personal)</title></circle></a><a href="/variants/s9/lo2n28k2w2k2t26n3t5lo2~x2/"><circle cx="294.8" cy="155.4" r="4" fill="#3465a4"><title>Clyde (WCWM Fashion)</title></circle></a><a href="/variants/s9/do8o4w2o4do1o12g9do24r4~x2~do1400000-o2600000/"><circle cx="305.0" cy="164.3" r="4" fill="#3465a4"><title>Willsher Wedding (Personal)</title></circle></a><a href="/variants/s8/w3k1r4g20k3t30w4r2~x2/"><circle cx="237.0" cy="115.8" r="4" fill="#3465a4"><title>Scottish Prison Service (Corporate)</title></circle></a><a href="/variants/s13/o2w3k1t9k1lr6g1lr3g1lr19k2w7o1~x2~t2503227-lr2800000/"><circle cx="220.6" cy="102.4" r="4" fill="#3465a4"><title>Cahaba Memorial (Commemorative)</title></circle></a><a href="/variants/s14/t18k1r1w1r4db4t4g4r1g1r1g1r1g1~x4~t2502222-db1406275/"><circle cx="267.3" cy="91.5" r="4" fill="#3465a4"><title>Hill 70</title></circle></a><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><circle cx="227.1" cy="116.8" r="4" fill="#3465a4"><title>Caskie</title></circle></a><circle cx="238.0" cy="122.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

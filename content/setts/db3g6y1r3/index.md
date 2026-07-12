@@ -1,6 +1,11 @@
 ---
 title: "Delroeux, John Michael (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Delroeux, John Michael"
+  url: "/tartans/d/de/delroeux-john-michael/"
 ---
 This is the **Delroeux, John Michael (Personal)** sett — one scale-free proportion (`db3g6y1r3`), colour order pattern
 [BGGR](/stripes/bggr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db3g6ly1r3~x10/"><circle cx="216.5" cy="282.9" r="4" fill="#3465a4"><title>Delroeux (Personal)</title></circle></a><a href="/variants/s3/g7lb2r4~x2/"><circle cx="289.7" cy="341.2" r="4" fill="#3465a4"><title>Wilson's, No 208</title></circle></a><a href="/variants/s3/g7lb2r4~x2~r2109032/"><circle cx="257.9" cy="328.1" r="4" fill="#3465a4"><title>Wilson's No.208</title></circle></a><a href="/variants/s4/db21g34r14w6~x2/"><circle cx="195.1" cy="279.9" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/variants/s4/g15r3dr11lb2~x2/"><circle cx="273.0" cy="259.8" r="4" fill="#3465a4"><title>MacNab WI 2</title></circle></a><a href="/variants/s4/g15r3dr11lb2/"><circle cx="273.0" cy="259.8" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><a href="/variants/s3/db5g6r1~x4/"><circle cx="289.9" cy="311.5" r="4" fill="#3465a4"><title>Wilson's No 84, Ferguson</title></circle></a><a href="/variants/s4/g21db34r14w6~x2/"><circle cx="195.3" cy="277.9" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/variants/s5/r13y13g13db22w4~x2/"><circle cx="107.7" cy="274.9" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><a href="/variants/s3/db13r2g13~x2/"><circle cx="266.3" cy="274.3" r="4" fill="#3465a4"><title>Wilson's No.062</title></circle></a><circle cx="226.7" cy="285.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

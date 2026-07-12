@@ -1,6 +1,15 @@
 ---
 title: "MacGregor #2"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacGregor (Clan Gregor)"
+  url: "/clan/macgregor/"
+- name: "MacGregor"
+  url: "/families/macgregor/"
+- name: "MacGregor"
+  url: "/tartans/m/ma/macgregor-2/"
 ---
 This is the **MacGregor #2** sett — one scale-free proportion (`r39g6r2g3w1`), colour order pattern
 [RGRGW](/stripes/rgrgw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r57dg21r8dg8k1w3~x2/"><circle cx="440.7" cy="103.2" r="4" fill="#3465a4"><title>MacGregor - 1800 (Clan)</title></circle></a><a href="/variants/s4/r38g2r5g16/"><circle cx="526.5" cy="224.7" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles</title></circle></a><a href="/variants/s4/r38g2r5g16~x2/"><circle cx="526.5" cy="224.7" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles</title></circle></a><a href="/variants/s4/r36g2r5g16~x2/"><circle cx="516.1" cy="228.7" r="4" fill="#3465a4"><title>MacDonald of Sleat Clan Tartan</title></circle></a><a href="/variants/s4/r36dg2r5dg16~x2/"><circle cx="503.4" cy="221.0" r="4" fill="#3465a4"><title>MacDonald of Sleat - 1810 (Clan)</title></circle></a><a href="/variants/s5/r27w3r6w2dg3~x4/"><circle cx="540.3" cy="182.4" r="4" fill="#3465a4"><title>Martin, Robert N (Personal)</title></circle></a><a href="/variants/s5/r27w3r6w2dg3~x4~r1506028/"><circle cx="521.1" cy="181.7" r="4" fill="#3465a4"><title>Martin Family, Robert N Personal Tartan</title></circle></a><a href="/variants/s6/r65g16r4dp4r4w5~x2/"><circle cx="499.1" cy="151.0" r="4" fill="#3465a4"><title>Howard, Vincent (Personal)</title></circle></a><a href="/variants/s6/r72k8r4g16r7n2~x2/"><circle cx="494.0" cy="100.1" r="4" fill="#3465a4"><title>MacAndrew Dress (Name)</title></circle></a><a href="/variants/s5/r35w3r8y2g11~x2/"><circle cx="485.8" cy="180.1" r="4" fill="#3465a4"><title>Highlands at Wyomissing, The</title></circle></a><circle cx="624.8" cy="141.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

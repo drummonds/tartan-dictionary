@@ -1,6 +1,11 @@
 ---
 title: "Baillie of Polkemmet"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Baillie"
+  url: "/clan/baillie/"
 ---
 A family of [Clan Baillie](/clan/baillie/).
 

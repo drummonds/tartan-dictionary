@@ -1,6 +1,15 @@
 ---
 title: "Gordon #2"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Gordon (Duke of Gordon)"
+  url: "/clan/gordon/"
+- name: "Gordon"
+  url: "/families/gordon/"
+- name: "Gordon 3"
+  url: "/tartans/g/go/gordon-3/"
 ---
 This is the **Gordon #2** sett — one scale-free proportion (`db56k6db6k6db6k44g44y4g5y8`), colour order pattern
 [BKBKBKGGGG](/stripes/bkbkbkgggg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db20k3db3k3db3k16g2y3g12r2~x2/"><circle cx="155.7" cy="155.9" r="4" fill="#3465a4"><title>Barnes</title></circle></a><a href="/variants/s10/db20k3db3k3db3k16g3lo3g12dr2~x2/"><circle cx="148.1" cy="157.4" r="4" fill="#3465a4"><title>Barnes Hunting (Personal)</title></circle></a><a href="/variants/s9/db14k2db2k2db2k7g7w1g14~x2/"><circle cx="192.2" cy="170.1" r="4" fill="#3465a4"><title>Abercrombie D</title></circle></a><a href="/variants/s9/db14k2db2k2db2k7g7w1g14/"><circle cx="192.2" cy="170.1" r="4" fill="#3465a4"><title>Abercrombie D</title></circle></a><a href="/variants/s10/db24k2db2r2db2k20g16y2g2y3~x2/"><circle cx="158.9" cy="138.0" r="4" fill="#3465a4"><title>Watson (Name)</title></circle></a><a href="/variants/s10/db32g2db2g14k2g14k2g2k15r2~x2/"><circle cx="201.4" cy="142.5" r="4" fill="#3465a4"><title>Dunedin Chapter</title></circle></a><a href="/variants/s13/db8k1db1k1db1k8y1g14y1k8db8k1db1~x2/"><circle cx="171.4" cy="142.8" r="4" fill="#3465a4"><title>Black from Cumnock (Personal)</title></circle></a><a href="/variants/s13/db8k1db1k1db1k8y1g14y1k8db8k1db1/"><circle cx="171.4" cy="142.8" r="4" fill="#3465a4"><title>Breadalbane Fencibles</title></circle></a><a href="/variants/s13/db8k1db1k1db1k8y1g13y1k8db9k1db1/"><circle cx="176.4" cy="146.9" r="4" fill="#3465a4"><title>Breadalbane Fencibles</title></circle></a><a href="/variants/s13/db8k1db1k1db1k8r1g14r1k8db9k1db1~x4/"><circle cx="171.4" cy="139.1" r="4" fill="#3465a4"><title>Riddoch</title></circle></a><circle cx="179.6" cy="150.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

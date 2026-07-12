@@ -1,6 +1,15 @@
 ---
 title: "Dabney Grey (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Dabney"
+  url: "/clan/dabney/"
+- name: "Dabney"
+  url: "/families/dabney/"
+- name: "Dabney"
+  url: "/tartans/d/da/dabney/"
 ---
 This is the **Dabney Grey (Personal)** sett — one scale-free proportion (`r2lb2r1lb24o1n3k3lb3o12lb4r1`), colour order pattern
 [RWRWKBRWRWR](/stripes/rwrwkbrwrwr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lb4dr2lb7n30lb8n7r5k1w2~x2/"><circle cx="315.4" cy="100.0" r="4" fill="#3465a4"><title>Hebridean Fire</title></circle></a><a href="/variants/s11/k1y1k1y1k1y1n46lb17n4lb16r1~x2/"><circle cx="371.8" cy="66.9" r="4" fill="#3465a4"><title>Saunders (Personal)</title></circle></a><a href="/variants/s9/w50o4b2k2b2o4b10o15lb2~x2/"><circle cx="290.7" cy="93.5" r="4" fill="#3465a4"><title>Australian, dress</title></circle></a><a href="/variants/s11/lb50db14g2db2lb2db2n10t6k2t3lb2~x2/"><circle cx="290.3" cy="73.0" r="4" fill="#3465a4"><title>Blue Dunnett (Fashion)</title></circle></a><a href="/variants/s13/k1y1k1y1k1y1k1y1n46lb17n4lb16r1~x2/"><circle cx="356.0" cy="52.8" r="4" fill="#3465a4"><title>Saunders (Personal)</title></circle></a><a href="/variants/s11/lr64db18lb2db3lr2db3t14b8k2b4lr2~x2~lb3005267-b2409265/"><circle cx="287.3" cy="55.7" r="4" fill="#3465a4"><title>Bennet Dress (Fashion)</title></circle></a><a href="/variants/s12/lb14k3lb28g6db4lb2db2lb14r12g3r4lb4~x2/"><circle cx="314.0" cy="141.1" r="4" fill="#3465a4"><title>Grant of Achnarrow Error 1983</title></circle></a><a href="/variants/s14/lb18k1r1w1r4db4lb4g4r1g1r1g1r1g1~x4/"><circle cx="225.8" cy="76.3" r="4" fill="#3465a4"><title>Hill 70</title></circle></a><a href="/variants/s8/lb42k2w2k2lb5b12w32lb4~x2/"><circle cx="312.5" cy="152.8" r="4" fill="#3465a4"><title>Longniddry, dress (Turquoise)</title></circle></a><a href="/variants/s12/lb38r1lb2r2lb2r6y4r10db8lb11r3y1~x2/"><circle cx="388.6" cy="100.8" r="4" fill="#3465a4"><title>Spirit of Dunkeld</title></circle></a><circle cx="334.2" cy="105.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

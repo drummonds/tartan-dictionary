@@ -1,6 +1,15 @@
 ---
 title: "MacPherson #8"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacPherson"
+  url: "/clan/macpherson/"
+- name: "MacPherson"
+  url: "/families/macpherson/"
+- name: "MacPherson 7"
+  url: "/tartans/m/ma/macpherson-7/"
 ---
 This is the **MacPherson #8** sett — one scale-free proportion (`r14g3r14g13y2k14db6k2db2k2db6r9w2k2r2`), colour order pattern
 [RGRGGKBKBKBRWKR](/stripes/rgrggkbkbkbrwkr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r18lb5r18g24y3k19lb10k3lb3k3lb10r18w4k5r5~x2/"><circle cx="79.8" cy="138.6" r="4" fill="#3465a4"><title>MacPherson #5</title></circle></a><a href="/variants/s16/w3k12r2k2r2k2r12y2r3db6r3k2g10k2r3w2/"><circle cx="61.0" cy="135.0" r="4" fill="#3465a4"><title>Innes D</title></circle></a><a href="/variants/s15/r14lb3r12g16y2k11lb7k2lb2k2lb7r12w3k3r4~x2/"><circle cx="91.2" cy="138.7" r="4" fill="#3465a4"><title>Kidd</title></circle></a><a href="/variants/s16/w7k24r4k4r4k4r24y4r6db12r6k4g20k4r6w4/"><circle cx="58.2" cy="135.7" r="4" fill="#3465a4"><title>Innes</title></circle></a><a href="/variants/s15/r6db1r6g8y1k6db4k1db2k1db4r4w1k1r1~x2/"><circle cx="73.8" cy="139.7" r="4" fill="#3465a4"><title>MacPherson Clan Tartan</title></circle></a><a href="/variants/s13/r8db2k1db3k4y1k1w1k1g8r6w1r6~x4/"><circle cx="129.0" cy="137.7" r="4" fill="#3465a4"><title>Christie Family Tartan</title></circle></a><a href="/variants/s15/r6db2r6g10y1k10db6k1db2k1db6r6w2k2r2~x2/"><circle cx="58.0" cy="135.3" r="4" fill="#3465a4"><title>MacPherson #7</title></circle></a><a href="/variants/s13/g8k1ly1r1w1db8k1r4k1r4k1r4k1~x2~db1406275/"><circle cx="89.7" cy="132.1" r="4" fill="#3465a4"><title>Norwich No.158</title></circle></a><a href="/variants/s13/db8k1r4k1r4k1r4k1g8k1y1r1w1~x2/"><circle cx="88.9" cy="132.3" r="4" fill="#3465a4"><title>Unidentified No 158 Silk Fragment</title></circle></a><a href="/variants/s16/db2r2k1dg4k1r1db2r1y1r6dg1r1dg1r1dg6lb1~x4/"><circle cx="119.6" cy="148.2" r="4" fill="#3465a4"><title>MacInnes (MacGregor Hastie) (Clan)</title></circle></a><circle cx="96.9" cy="136.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Royal Army of Oman"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Royal Army of Oman"
+  url: "/tartans/r/ro/royal-army-of-oman/"
 ---
 This is the **Royal Army of Oman** sett — one scale-free proportion (`dg6w3dg15r3dg15y3k10dg21r3k3r3dg3`), colour order pattern
 [GRKRGKGGRGWG](/stripes/grkrgkggrgwg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dg5w3dg15r3dg15y3k10dg19db3k3db3dg3~x2/"><circle cx="283.5" cy="166.5" r="4" fill="#3465a4"><title>Forfar Farmington</title></circle></a><a href="/variants/s9/k3dg14k8dg8dr3dg4lo3dg24w3~x2/"><circle cx="336.8" cy="172.1" r="4" fill="#3465a4"><title>MacStumer Hunting</title></circle></a><a href="/variants/s10/dg12lr5k11dg42k3dg42k11lr5dg12r8~x2/"><circle cx="382.5" cy="158.3" r="4" fill="#3465a4"><title>Sir Billi</title></circle></a><a href="/variants/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/"><circle cx="266.8" cy="135.7" r="4" fill="#3465a4"><title>Ronald, Clan (Clan)</title></circle></a><a href="/variants/s8/dg21dy10dg20k3dg10r3dg10w3~x2/"><circle cx="415.9" cy="219.2" r="4" fill="#3465a4"><title>Hanby (Personal)</title></circle></a><a href="/variants/s11/dg10k3dg3k20dp3k5g3k20dg3k3dg10~x2~dg1806142-g2408144/"><circle cx="278.7" cy="182.4" r="4" fill="#3465a4"><title>Pike (Personal)</title></circle></a><a href="/variants/s9/dr1n6k1n1k2n1k1n6dy1~x8/"><circle cx="357.8" cy="193.8" r="4" fill="#3465a4"><title>Modowny</title></circle></a><a href="/variants/s9/dr1n6k1n1k2n1k1n6ly1~x8/"><circle cx="343.5" cy="189.5" r="4" fill="#3465a4"><title>Modowny (Fashion)</title></circle></a><a href="/variants/s7/dg3w1dg12r6dg3k3dg2~x4~dg1806142/"><circle cx="334.3" cy="186.5" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/variants/s9/r1n6k1n1k2n1k1n6ly1~x8/"><circle cx="341.2" cy="188.2" r="4" fill="#3465a4"><title>Mowdowny (Fashion)</title></circle></a><circle cx="300.9" cy="167.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

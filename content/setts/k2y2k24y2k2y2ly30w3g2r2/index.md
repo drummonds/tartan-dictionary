@@ -1,6 +1,11 @@
 ---
 title: "Spotsylvania County Sheriff (Corp)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Spotsylvania County Sheriff"
+  url: "/tartans/s/sp/spotsylvania-county-sheriff/"
 ---
 This is the **Spotsylvania County Sheriff (Corp)** sett — one scale-free proportion (`k2y2k24y2k2y2ly30w3g2r2`), colour order pattern
 [KGKGKGYWGR](/stripes/kgkgkgywgr/). It is recorded as **2 variants** — the same
@@ -23,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k2y2k24y2k2y2ly30w3g2r2~x2~ly2503076/"><circle cx="173.4" cy="85.8" r="4" fill="#3465a4"><title>Spotsylvania County Sheriff's Office</title></circle></a><a href="/variants/s11/r3g24k4y2k3db2k6r4k2r3w2~x2/"><circle cx="146.8" cy="103.8" r="4" fill="#3465a4"><title>King George VI Royal Family Tartan</title></circle></a><a href="/variants/s12/k8r2k3y2k2w3k2o10g26r2g3k2~x2/"><circle cx="148.2" cy="97.2" r="4" fill="#3465a4"><title>Tara, Murphy</title></circle></a><a href="/variants/s8/k3r1k18w1ly18g1ly1w2~x4/"><circle cx="214.8" cy="104.7" r="4" fill="#3465a4"><title>Dunlop Hunting</title></circle></a><a href="/variants/s11/ly24k7db1k1w1k1dy4dr3k1dr2ly1~x4/"><circle cx="231.1" cy="57.1" r="4" fill="#3465a4"><title>U.S. Customs &amp; Border Protection (C</title></circle></a><a href="/variants/s11/dy27w2dy3y4dy3w2dy5k13lb2w26g3~x2/"><circle cx="141.7" cy="106.1" r="4" fill="#3465a4"><title>MacKellar Dress Clan Tartan</title></circle></a><a href="/variants/s11/dy32r2y3k3r2dy3y3dy3ly3dy3ly32~x2/"><circle cx="228.5" cy="99.8" r="4" fill="#3465a4"><title>Glen Talloch</title></circle></a><a href="/variants/s11/dy27w2dy3y4dy3w2dy5k13lb2w26dg3~x2/"><circle cx="141.9" cy="105.9" r="4" fill="#3465a4"><title>MacKellar Dress</title></circle></a><a href="/variants/s11/ly32n4dr2k8dr3w2dr3k8dr2n4dr30~x2/"><circle cx="176.4" cy="109.9" r="4" fill="#3465a4"><title>Varenne</title></circle></a><a href="/variants/s12/w5k4r4g5r39k10db2k2db2k2g22ly5~x2/"><circle cx="159.9" cy="76.6" r="4" fill="#3465a4"><title>Boyd (Clan)</title></circle></a><circle cx="163.4" cy="84.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

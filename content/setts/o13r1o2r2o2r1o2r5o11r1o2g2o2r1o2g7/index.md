@@ -1,6 +1,15 @@
 ---
 title: "Sarna"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Sarna"
+  url: "/clan/sarna/"
+- name: "Sarna"
+  url: "/families/sarna/"
+- name: "Sarna"
+  url: "/tartans/s/sa/sarna/"
 ---
 This is the **Sarna** sett — one scale-free proportion (`o13r1o2r2o2r1o2r5o11r1o2g2o2r1o2g7`), colour order pattern
 [GRRRGRRRRRRRRRRR](/stripes/grrrgrrrrrrrrrrr/). It is recorded as a single **variant**, below.

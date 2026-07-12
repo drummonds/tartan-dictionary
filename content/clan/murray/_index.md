@@ -1,8 +1,11 @@
 ---
 title: "Clan Murray"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
-*A clan defined by its tartans — the dictionary holds no separate clan history for it, only the cloth that carries its name.*
+Simplified version of Murray of Atholl, with red stripe added by Lord Murray to the Black Watch sett.
 
 ## Tartan
 

@@ -1,6 +1,11 @@
 ---
 title: "Holehouse, Dag (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Holehouse, Dag"
+  url: "/tartans/h/ho/holehouse-dag/"
 ---
 This is the **Holehouse, Dag (Personal)** sett — one scale-free proportion (`g22dy40n8k9o1`), colour order pattern
 [GGBKR](/stripes/ggbkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db6k17y4dg51dy3g4~x2~dg1806142-g2203152/"><circle cx="303.2" cy="133.4" r="4" fill="#3465a4"><title>U.S. Army (Military)</title></circle></a><a href="/variants/s7/dg42y1k23dr7w1db4y3~x2/"><circle cx="311.0" cy="96.1" r="4" fill="#3465a4"><title>Henschke, Felix (Personal)</title></circle></a><a href="/variants/s4/dy22dp1g22r4~x4/"><circle cx="341.1" cy="222.4" r="4" fill="#3465a4"><title>McWilliams Hunting (2014)</title></circle></a><a href="/variants/s6/db12k17y4dg51ly3g4~x2~y2203076-ly3307090/"><circle cx="285.8" cy="141.2" r="4" fill="#3465a4"><title>US Army Regimental Tartan</title></circle></a><a href="/variants/s5/g68k22n28dr3n12~x2/"><circle cx="284.5" cy="184.1" r="4" fill="#3465a4"><title>Herbage of Laggan (Personal)</title></circle></a><a href="/variants/s5/g25k8n10r1n3~x4/"><circle cx="296.7" cy="173.9" r="4" fill="#3465a4"><title>Herbage Family Tartan</title></circle></a><a href="/variants/s4/dg43k14b14r2~x2/"><circle cx="337.7" cy="191.9" r="4" fill="#3465a4"><title>St. Andrews International Golf Club</title></circle></a><a href="/variants/s6/k8r2k13y2dg48db6~x2/"><circle cx="376.4" cy="136.5" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/variants/s6/k8r2k13dy2dg48db6~x2/"><circle cx="387.8" cy="140.4" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/variants/s6/dy83k35w3g35k3y10/"><circle cx="258.1" cy="137.1" r="4" fill="#3465a4"><title>Brandon Manitoba Trade Tartan</title></circle></a><circle cx="298.3" cy="150.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

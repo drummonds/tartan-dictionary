@@ -1,6 +1,13 @@
 ---
 title: "Crieff Hydro Hotel"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Crieff"
+  url: "/clan/crieff/"
+- name: "Crieff Hydro Hotel"
+  url: "/tartans/c/cr/crieff-hydro-hotel/"
 ---
 This is the **Crieff Hydro Hotel** sett — one scale-free proportion (`db1r1g6db8r1g1r1db8r6g1db1g1r6g6r1db1`), colour order pattern
 [BRGBRGRBRGBGRGRB](/stripes/brgbrgrbrgbgrgrb/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db20r2db2r2g19r18g2r18g19db19r2db2~x2/"><circle cx="210.9" cy="203.9" r="4" fill="#3465a4"><title>Fraser of Stratherrick</title></circle></a><a href="/variants/s13/db16r4db4r4db4r29g27r4g27r29db26r4db4~x2/"><circle cx="222.0" cy="210.3" r="4" fill="#3465a4"><title>Black Watch (Band Plaid)</title></circle></a><a href="/variants/s12/db28r3db3r3g20r30g4r30g20db22r3db3~x2/"><circle cx="235.3" cy="200.3" r="4" fill="#3465a4"><title>Fraser Stewart of Athol</title></circle></a><a href="/variants/s15/lb2r3db3r5g14r3db2r5g2r3db14r5g3r3lb2~x2/"><circle cx="183.7" cy="189.3" r="4" fill="#3465a4"><title>Glen Orchy #1</title></circle></a><a href="/variants/s12/db16r2db2r2g14r13w2r13g14db14r2db2~x2/"><circle cx="177.2" cy="201.3" r="4" fill="#3465a4"><title>Fraser of Lovat</title></circle></a><a href="/variants/s16/r3g11r3db2lb2db11r2g2r2db11lb2db2r3g11r3db2~x2/"><circle cx="172.4" cy="198.8" r="4" fill="#3465a4"><title>Hebrides #6</title></circle></a><a href="/variants/s12/db20r2db2r2dg19r18dg2r18dg19db19r2db2~x2/"><circle cx="232.4" cy="207.7" r="4" fill="#3465a4"><title>Fraser - 1800</title></circle></a><a href="/variants/s13/db11o1db1o1db1o8g8o1g8o8db8o1db1~x2/"><circle cx="247.1" cy="204.0" r="4" fill="#3465a4"><title>Tyneside, Scottish</title></circle></a><a href="/variants/s15/lb1r1db1r2g8r1db1r2g1r1db8r2g1r1lb1~x4/"><circle cx="173.4" cy="168.1" r="4" fill="#3465a4"><title>MacIntyre of Glenorchy Clan Tartan</title></circle></a><a href="/variants/s14/g6r2g2r18db9r3g3r3db9r3g24r2g2r4~x2/"><circle cx="260.0" cy="175.7" r="4" fill="#3465a4"><title>Stewart of Urrard Clan Tartan</title></circle></a><circle cx="214.4" cy="192.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

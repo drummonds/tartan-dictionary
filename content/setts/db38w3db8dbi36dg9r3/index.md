@@ -1,6 +1,15 @@
 ---
 title: "Waters of Georgian Bay (District)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Waters"
+  url: "/clan/waters/"
+- name: "Waters of Georgian Bay"
+  url: "/families/waters-of-georgian-bay/"
+- name: "Waters of Georgian Bay"
+  url: "/tartans/w/wa/waters-of-georgian-bay/"
 ---
 This is the **Waters of Georgian Bay (District)** sett — one scale-free proportion (`db38w3db8dbi36dg9r3`), colour order pattern
 [BWBBGR](/stripes/bwbbgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db4b1dg14db14dr1~x4~db0906265-b1611266/"><circle cx="476.9" cy="266.0" r="4" fill="#3465a4"><title>Wcwm 1255-1</title></circle></a><a href="/variants/s5/dr1dbi8k6db10lo1~x4~dbi1404245-db1204274/"><circle cx="219.3" cy="226.6" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/variants/s8/r3db4w2db33dbi32db2r4w3~db1404245-dbi1406275/"><circle cx="355.7" cy="179.6" r="4" fill="#3465a4"><title>BABC</title></circle></a><a href="/variants/s8/r3db4w2db33dbi32db2r4w3~x2~db1404245-dbi1406275/"><circle cx="355.7" cy="179.6" r="4" fill="#3465a4"><title>B.A.B.C. (Corporate)</title></circle></a><a href="/variants/s7/db2b2r1b16w1db20r2~x2~db1406275/"><circle cx="403.8" cy="182.6" r="4" fill="#3465a4"><title>British American School of Charlotte</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2~db1406275/"><circle cx="312.1" cy="211.0" r="4" fill="#3465a4"><title>Hutchesons' Grammar School</title></circle></a><a href="/variants/s6/db4w1db17dr28dp17r2~x2/"><circle cx="365.8" cy="199.4" r="4" fill="#3465a4"><title>Sail Chalmadale (Fashion)</title></circle></a><a href="/variants/s5/db4r1db18n18lb1~x4/"><circle cx="416.0" cy="217.3" r="4" fill="#3465a4"><title>Ardee (Corporate)</title></circle></a><a href="/variants/s6/db4w1db17dr28dp17r2~x2~r1908022/"><circle cx="374.7" cy="202.7" r="4" fill="#3465a4"><title>Sail Chalmadale</title></circle></a><a href="/variants/s8/ly3dbi24db4dbi4db20g4dp4ly2~x2~dbi1706275-db1404245/"><circle cx="330.6" cy="216.4" r="4" fill="#3465a4"><title>Blue Peter</title></circle></a><circle cx="359.3" cy="219.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

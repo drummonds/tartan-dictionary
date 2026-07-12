@@ -1,6 +1,13 @@
 ---
 title: "MacDonald from Rawtenstall (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDonald"
+  url: "/clan/macdonald/"
+- name: "MacDonald from Rawtenstall"
+  url: "/tartans/m/ma/macdonald-from-rawtenstall/"
 ---
 This is the **MacDonald from Rawtenstall (Personal)** sett — one scale-free proportion (`lb7w2dr7w4lb50w2k2r2`), colour order pattern
 [RKWWWBWW](/stripes/rkwwwbww/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y2dy4r4lb21w1lb1ri1~x4~r2109032-ri2307033/"><circle cx="368.8" cy="115.7" r="4" fill="#3465a4"><title>Edinburgh Fire (Corporate)</title></circle></a><a href="/variants/s8/lb70db5lb3lr5lb3w5lb3k5~x2/"><circle cx="490.7" cy="93.3" r="4" fill="#3465a4"><title>Wyckoff, Ann Grainger Phillips Commemorative Tartan</title></circle></a><a href="/variants/s6/db23w8lb2k5w44db4~x2/"><circle cx="316.7" cy="148.3" r="4" fill="#3465a4"><title>WaterAid</title></circle></a><a href="/variants/s5/lb65r27w2lb4dy5~x2/"><circle cx="470.2" cy="160.2" r="4" fill="#3465a4"><title>Perry Arisaid (Personal)</title></circle></a><a href="/variants/s9/w216k8dg24b24w4k4r45w8r12/"><circle cx="363.6" cy="47.2" r="4" fill="#3465a4"><title>Unidentified, Arisaid</title></circle></a><a href="/variants/s6/k2w1n8dr1lb28dr2~x2/"><circle cx="383.9" cy="110.8" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><a href="/variants/s6/k2w1g5dr1lb18r2~x2/"><circle cx="294.0" cy="115.1" r="4" fill="#3465a4"><title>Norris (1998)</title></circle></a><a href="/variants/s9/w120k2db4g3w2k2r8w2r3~x2/"><circle cx="540.4" cy="31.2" r="4" fill="#3465a4"><title>Unnamed C18th - Blanket Pattern</title></circle></a><a href="/variants/s10/w102k3y3k3w3k12db14g12w3r3~x2/"><circle cx="337.0" cy="36.6" r="4" fill="#3465a4"><title>Miss Emma Halford-MacLeod</title></circle></a><a href="/variants/s10/w102k3ly3k3w3k12db14g12w3r3~x2/"><circle cx="341.6" cy="39.7" r="4" fill="#3465a4"><title>Halford-Macleod, Miss Emma (Personal</title></circle></a><circle cx="441.6" cy="88.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Dalrymple of Castleton #2"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Dalrymple"
+  url: "/clan/dalrymple/"
+- name: "Dalrymple of Castleton"
+  url: "/families/dalrymple-of-castleton/"
+- name: "Dalrymple of Castleton"
+  url: "/tartans/d/da/dalrymple-of-castleton/"
 ---
 This is the **Dalrymple of Castleton #2** sett — one scale-free proportion (`y2r15y2dr2y2k14y2g10w1g6w1g10y2r7g10w1`), colour order pattern
 [GRGBGKGGWGWGGRGW](/stripes/grgbgkggwgwggrgw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/r5k3g22k3y3dp7r7k2dp4w2dp4r7k2r7y3k3g22k2~x2/"><circle cx="117.0" cy="106.6" r="4" fill="#3465a4"><title>Derbyshire</title></circle></a><a href="/variants/s14/g12y3g6dr19k1r8k2lb4k2g19k1dr19k1r9~x2~r2806019/"><circle cx="138.7" cy="109.8" r="4" fill="#3465a4"><title>Golden Broom</title></circle></a><a href="/variants/s17/k8w1r2g16r8g8r11y2g2lo1g2w2r10y2r2k1w4~x2/"><circle cx="133.7" cy="99.5" r="4" fill="#3465a4"><title>Pernel (Personal)</title></circle></a><a href="/variants/s14/g12y3g6dr19k1r8k2lb4k2g19k1dr19k1r9~x2/"><circle cx="146.2" cy="110.7" r="4" fill="#3465a4"><title>Golden Broom (Corporate)</title></circle></a><a href="/variants/s12/r2lb6r1dy14r1dy14r1k6g10ly1g2ly2~x2/"><circle cx="162.9" cy="117.2" r="4" fill="#3465a4"><title>Ogg of Tarragann Hunting (Personal)</title></circle></a><a href="/variants/s14/ly10w2dy1w2n10ly8dy2k17dy2ly7n19k3y1k1~x2/"><circle cx="102.6" cy="97.4" r="4" fill="#3465a4"><title>Scottish Wildcat</title></circle></a><a href="/variants/s14/dr27g20k7w3ly3dr2ly3w3ly6dp6k2dr3ly4dp3~x2/"><circle cx="97.6" cy="103.2" r="4" fill="#3465a4"><title>Roman (Personal)</title></circle></a><a href="/variants/s12/k8ly2n18ly3k8ly18dp4w3ly12r1ly2k2~x2/"><circle cx="140.7" cy="105.0" r="4" fill="#3465a4"><title>McMillen Memorial, Hugh E. (Personal</title></circle></a><a href="/variants/s14/g12y3g6dr19k1r8k2t4k2g19k1dr19k1r9~x2/"><circle cx="152.4" cy="113.1" r="4" fill="#3465a4"><title>Golden Broom #2</title></circle></a><a href="/variants/s14/y3k3dg2k6g7dg2y3dg2ly3dg5y3b3y20k2~x2~ly2705081/"><circle cx="156.9" cy="129.7" r="4" fill="#3465a4"><title>Stewart Camel Fashion Tartan</title></circle></a><circle cx="129.0" cy="112.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

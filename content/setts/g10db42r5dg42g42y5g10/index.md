@@ -1,6 +1,11 @@
 ---
 title: "New Mexico"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "New Mexico"
+  url: "/tartans/n/ne/new-mexico/"
 ---
 This is the **New Mexico** sett — one scale-free proportion (`g10db42r5dg42g42y5g10`), colour order pattern
 [GBRGGGG](/stripes/gbrgggg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g10dp42r5dg42g42ly5g6~g2408144-dg1806142/"><circle cx="200.4" cy="217.7" r="4" fill="#3465a4"><title>New Mexico (Fashion)</title></circle></a><a href="/variants/s6/dg9g1b2g1db4r1~x12~dg1806142-g2408144/"><circle cx="283.4" cy="215.1" r="4" fill="#3465a4"><title>Gorman, George (Personal)</title></circle></a><a href="/variants/s9/b3db3b12db26g26r3g26db28w3~b2603265-db1404245/"><circle cx="250.1" cy="213.6" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s6/db30y3dy11y3g33r6~x2/"><circle cx="216.9" cy="207.6" r="4" fill="#3465a4"><title>Balfour Hunting</title></circle></a><a href="/variants/s11/r3dg28g19dg3db19dg3db19dg3g19dg28w3~x2/"><circle cx="230.9" cy="206.4" r="4" fill="#3465a4"><title>Boys Brigade</title></circle></a><a href="/variants/s8/g28db9dg18w3dg18db9g28r3~x2/"><circle cx="240.6" cy="226.4" r="4" fill="#3465a4"><title>Simple Technology</title></circle></a><a href="/variants/s7/g32o7g7o16db32y3o8~x2/"><circle cx="234.6" cy="229.2" r="4" fill="#3465a4"><title>Strange Of Balcaskie</title></circle></a><a href="/variants/s9/r2db12dg2g11dg4db5g2dg24w2~x2/"><circle cx="265.0" cy="183.0" r="4" fill="#3465a4"><title>Fraser Gathering, Green (1997)</title></circle></a><a href="/variants/s8/g1lr1g6db5dg6r1dg1lo1~x4~dg1605139/"><circle cx="143.9" cy="213.9" r="4" fill="#3465a4"><title>Vermont District USA Tartan</title></circle></a><a href="/variants/s5/r3g28db9dg18w3~x2/"><circle cx="230.4" cy="225.9" r="4" fill="#3465a4"><title>Simple Technology (Corporate)</title></circle></a><circle cx="219.0" cy="227.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

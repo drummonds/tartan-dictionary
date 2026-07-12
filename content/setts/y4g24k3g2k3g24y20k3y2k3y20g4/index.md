@@ -1,6 +1,11 @@
 ---
 title: "Meredith of Wales"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Meredith"
+  url: "/tartans/m/me/meredith/"
 ---
 This is the **Meredith of Wales** sett — one scale-free proportion (`y4g24k3g2k3g24y20k3y2k3y20g4`), colour order pattern
 [GGKGKGGKGKGG](/stripes/ggkgkggkgkgg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy10g1k1g1k1g11dy18g1k1g10~x4/"><circle cx="346.2" cy="168.4" r="4" fill="#3465a4"><title>Donachie of Brockloch Ancient Hunting</title></circle></a><a href="/variants/s9/y24k2y3k2y3k8g24k2g5~x2/"><circle cx="239.3" cy="178.8" r="4" fill="#3465a4"><title>Jamaican National</title></circle></a><a href="/variants/s6/g12k2g2dg9g4k2~x4~dg1605139/"><circle cx="269.9" cy="241.6" r="4" fill="#3465a4"><title>Campbell-Simpson (Personal)</title></circle></a><a href="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4/"><circle cx="351.3" cy="158.0" r="4" fill="#3465a4"><title>Seton Htg (Clan)</title></circle></a><a href="/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1~x2/"><circle cx="252.3" cy="135.3" r="4" fill="#3465a4"><title>MacMillan Old Clan Tartan</title></circle></a><a href="/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1/"><circle cx="252.3" cy="135.3" r="4" fill="#3465a4"><title>MacMillan Ancient</title></circle></a><a href="/variants/s14/dg2g4dg2g2dg1g2dg3k2dg2k2dg12r1dg2r1~x2~dg1806142-g2408144/"><circle cx="332.3" cy="161.7" r="4" fill="#3465a4"><title>Ross Hunting Clan Tartan</title></circle></a><a href="/variants/s12/r3g8r2g18dr5g3do3g3do16g3do3g3~x2/"><circle cx="318.2" cy="202.4" r="4" fill="#3465a4"><title>Dublin</title></circle></a><a href="/variants/s12/g7k3g53k3g8k3dr24g8ly18k3ly18k3~x2/"><circle cx="235.7" cy="130.4" r="4" fill="#3465a4"><title>MacMillan - 1847 (Clan)</title></circle></a><circle cx="301.4" cy="188.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

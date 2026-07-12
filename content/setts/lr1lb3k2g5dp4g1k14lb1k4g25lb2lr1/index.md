@@ -1,6 +1,13 @@
 ---
 title: "Walker, Gauvin (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Walker"
+  url: "/clan/walker/"
+- name: "Walker, Gauvin"
+  url: "/tartans/w/wa/walker-gauvin-2/"
 ---
 This is the **Walker, Gauvin (Personal)** sett — one scale-free proportion (`lr1lb3k2g5dp4g1k14lb1k4g25lb2lr1`), colour order pattern
 [YWGKWKGBGKWY](/stripes/ywgkwkgbgkwy/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g4k2g28r4g4k18g4lp4g4lp7k1w3~x2/"><circle cx="228.9" cy="93.1" r="4" fill="#3465a4"><title>Moss</title></circle></a><a href="/variants/s9/w4g30k1g1k1g3k12db10r3~x2/"><circle cx="240.2" cy="95.8" r="4" fill="#3465a4"><title>MacDonald of The Isles</title></circle></a><a href="/variants/s9/w4g30k1g1k1g3k12db10r3/"><circle cx="240.2" cy="95.8" r="4" fill="#3465a4"><title>MacDonnald of ye Ylis</title></circle></a><a href="/variants/s9/r4db15k18g3k2g2k2g44y4~x2/"><circle cx="243.5" cy="108.4" r="4" fill="#3465a4"><title>Sarafilovic (Corporate)</title></circle></a><a href="/variants/s16/db15k18g3k2g2k2g44y4g44k2g2k2g3k18db15r4~x2/"><circle cx="244.1" cy="88.2" r="4" fill="#3465a4"><title>Sarafilovic</title></circle></a><a href="/variants/s12/dr6g1lb2g24k3g3k3g3k8db8lb2db4~x2/"><circle cx="193.8" cy="106.6" r="4" fill="#3465a4"><title>Kerby/Kirby</title></circle></a><a href="/variants/s11/g28k1g1k6w1k6dp1k1dp4r3dp14~x4/"><circle cx="216.3" cy="86.2" r="4" fill="#3465a4"><title>New Hampshire</title></circle></a><a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3/"><circle cx="187.9" cy="102.6" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2/"><circle cx="187.9" cy="102.6" r="4" fill="#3465a4"><title>Sutherland (Clan)</title></circle></a><a href="/variants/s9/k2t8k6g35k8ly2w2k2ly2~x2/"><circle cx="232.6" cy="110.9" r="4" fill="#3465a4"><title>160th SOAR(A) Night Stalkers (Mil.)</title></circle></a><circle cx="223.3" cy="86.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

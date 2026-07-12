@@ -1,6 +1,15 @@
 ---
 title: "Ashers of Nairn"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ashers"
+  url: "/clan/ashers/"
+- name: "Ashers of Nairn"
+  url: "/families/ashers-of-nairn/"
+- name: "Ashers of Nairn"
+  url: "/tartans/a/as/ashers-of-nairn-2/"
 ---
 This is the **Ashers of Nairn** sett — one scale-free proportion (`y4k3w3k44y4k22n22w3k3y4`), colour order pattern
 [GKWBKGKWKG](/stripes/gkwbkgkwkg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k7n2lb2n2k13n2k2lb2n13k26lp2~x2/"><circle cx="326.5" cy="130.5" r="4" fill="#3465a4"><title>Pride of Scotland Platinum Fashion Tartan</title></circle></a><a href="/variants/s10/o6k3w3k3w3k34o6g5o6k5~x2/"><circle cx="273.5" cy="126.4" r="4" fill="#3465a4"><title>Woodberry Forest School (Corporate)</title></circle></a><a href="/variants/s9/ly8k7r3k7r3k38w2k3ly6~x2/"><circle cx="361.1" cy="105.8" r="4" fill="#3465a4"><title>Bunnahabhain</title></circle></a><a href="/variants/s11/n8k40dy2n2w2n2k9w5n2w5k2~x2/"><circle cx="323.9" cy="89.8" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><a href="/variants/s9/k38lb2o24w2k16o6lb2k3lb5~x2/"><circle cx="284.8" cy="120.5" r="4" fill="#3465a4"><title>Universal Scientific Indust (Corp.)</title></circle></a><a href="/variants/s10/r8k79n4k4lb4k6n22k6r16k6/"><circle cx="341.2" cy="95.3" r="4" fill="#3465a4"><title>King Robert the Bruce Memorial, The</title></circle></a><a href="/variants/s11/k40n8o2n2w2n2k9w5n2w5k2~x2/"><circle cx="316.4" cy="84.9" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><a href="/variants/s10/k4w1r4k2g2r3g2k20r2k2~x2/"><circle cx="337.7" cy="98.0" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang #3</title></circle></a><a href="/variants/s10/ly2k3w3k44ly4k22lb22w3k3ly2/"><circle cx="334.8" cy="105.0" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/variants/s13/w1y2k8dp6k15y1k1w1k15dp5w8y1w1~x2/"><circle cx="256.5" cy="120.5" r="4" fill="#3465a4"><title>Freger</title></circle></a><circle cx="309.8" cy="123.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

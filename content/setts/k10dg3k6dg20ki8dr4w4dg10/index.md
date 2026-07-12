@@ -1,6 +1,15 @@
 ---
 title: "BlackRock (Symmetrical)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan BlackRock"
+  url: "/clan/blackrock/"
+- name: "BlackRock"
+  url: "/families/blackrock/"
+- name: "BlackRock"
+  url: "/tartans/b/bl/blackrock-2/"
 ---
 This is the **BlackRock (Symmetrical)** sett — one scale-free proportion (`k10dg3k6dg20ki8dr4w4dg10`), colour order pattern
 [GWBKGKGK](/stripes/gwbkgkgk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg15k8db15k8dg23ki8w3~x2~db1003265-ki0503265/"><circle cx="198.3" cy="233.5" r="4" fill="#3465a4"><title>Marchant</title></circle></a><a href="/variants/s6/dr2dg12k3dg2t8dg2~x2/"><circle cx="286.0" cy="236.4" r="4" fill="#3465a4"><title>Wcwm 1045</title></circle></a><a href="/variants/s9/g3db8g3k4g9y2db2y2r2~x2/"><circle cx="127.4" cy="220.9" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/variants/s9/g3db8g3k4g9y2db2y2r2/"><circle cx="127.4" cy="220.9" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/variants/s9/g3db9g3k4g8y2db2y2r2/"><circle cx="116.9" cy="221.2" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/variants/s11/dg14k8dg21k2ly5k2dg21k11db18k2dr5~x2/"><circle cx="230.7" cy="179.9" r="4" fill="#3465a4"><title>de Vere-Austin (Clan)</title></circle></a><a href="/variants/s10/db19dg7db7lb2dg20k9dg6k4dg10w3~x2/"><circle cx="215.6" cy="188.6" r="4" fill="#3465a4"><title>O'Connell, William Benedict (Personal)</title></circle></a><a href="/variants/s8/dg24k4dg6r4dg6k19dt22w5~x2/"><circle cx="146.3" cy="208.8" r="4" fill="#3465a4"><title>MacRae Hunting</title></circle></a><a href="/variants/s11/ki16k2lb2k4dg16r2ki15k6lb2ki3lb4~x2~ki0700000-k0504259/"><circle cx="196.9" cy="170.2" r="4" fill="#3465a4"><title>Scottish Tartans Authority</title></circle></a><a href="/variants/s7/dg7dp3w1g2dg1k2dp1~x8/"><circle cx="184.6" cy="196.6" r="4" fill="#3465a4"><title>Lindley-Highfield Name Tartan</title></circle></a><circle cx="214.5" cy="220.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

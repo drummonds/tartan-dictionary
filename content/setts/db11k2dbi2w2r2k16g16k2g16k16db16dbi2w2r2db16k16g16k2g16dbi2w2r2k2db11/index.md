@@ -1,6 +1,11 @@
 ---
 title: "Scottish American Military (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Scottish American Military"
+  url: "/tartans/s/sc/scottish-american-military/"
 ---
 This is the **Scottish American Military (Fashion)** sett — one scale-free proportion (`db11k2dbi2w2r2k16g16k2g16k16db16dbi2w2r2db16k16g16k2g16dbi2w2r2k2db11`), colour order pattern
 [BKBWRKGKGKBBWRBKGKGBWRKB](/stripes/bkbwrkgkgkbbwrbkgkgbwrkb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s25/db11k2r2w2b2k16g16k2g16k16db16r2w2b2db16k16g16k2g16k16r2w2b2k2db11~x2~db1108266-b1813263/"><circle cx="62.4" cy="123.2" r="4" fill="#3465a4"><title>Scottish American Military</title></circle></a><a href="/variants/s14/t8k1t1k1t1k5g6k1g6k5db3t1dr1t1~x4~t2405244/"><circle cx="83.2" cy="136.8" r="4" fill="#3465a4"><title>Gemmell Clan/Family Tartan</title></circle></a><a href="/variants/s17/db12k2g2k2g2k2db13dr6k10dr6g13k2lo2k2lb2k2g12~x2/"><circle cx="59.2" cy="148.7" r="4" fill="#3465a4"><title>Cunningham Hunting</title></circle></a><a href="/variants/s20/y5g2y2g15k9db2k2db2k2db9g5db9k2db2k2db2k9g15k2w4~x2/"><circle cx="89.3" cy="147.3" r="4" fill="#3465a4"><title>Fyvie</title></circle></a><a href="/variants/s23/db16k16g2k2g2k2g16k2g2k2g2k16y16k2db2r2k2y16k16db16k2w3k2~x2/"><circle cx="91.1" cy="110.3" r="4" fill="#3465a4"><title>Ferrazza in Guidonia, Rome (Personal)</title></circle></a><a href="/variants/s18/dp47k6r6k6dp6k19g19k6g19y6g19k6g19k19dp6k6w6k6~x2/"><circle cx="70.9" cy="132.5" r="4" fill="#3465a4"><title>Unidentified fragment</title></circle></a><a href="/variants/s23/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/"><circle cx="75.8" cy="106.2" r="4" fill="#3465a4"><title>Ferrazza (Personal)</title></circle></a><a href="/variants/s22/db12k2db3k2db3k16g8dr2g8k2w2g8dr2g8k16dr2db8dr3db2dr2db3w2~x2/"><circle cx="81.8" cy="140.9" r="4" fill="#3465a4"><title>Rankin (Dalgleish) #2</title></circle></a><a href="/variants/s24/k1t8k8g8w2g8k8t1k1t1k1t8k1t1k1t1k8g8y2g8k8t8k1t1~x2~w4000000/"><circle cx="94.6" cy="142.1" r="4" fill="#3465a4"><title>Campbell of Argyll (no guards)</title></circle></a><a href="/variants/s17/db10k1g1k1g1k1db10r3k10r3g10k1y1k1w1k1g10/"><circle cx="89.5" cy="112.7" r="4" fill="#3465a4"><title>MacNicol Hunting</title></circle></a><circle cx="66.0" cy="126.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

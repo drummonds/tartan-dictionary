@@ -1,6 +1,15 @@
 ---
 title: "Boucherville (Tartan de..)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Boucherville"
+  url: "/clan/boucherville/"
+- name: "Boucherville"
+  url: "/families/boucherville/"
+- name: "Boucherville"
+  url: "/tartans/b/bo/boucherville/"
 ---
 This is the **Boucherville (Tartan de..)** sett — one scale-free proportion (`dg20y2n5w4dg2n2dg2n2b6`), colour order pattern
 [BBGBGWBGG](/stripes/bbgbgwbgg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g20y2n5w4g2n2g2n2db6~x2/"><circle cx="303.3" cy="194.1" r="4" fill="#3465a4"><title>Boucherville (Tartan de..) District Tartan</title></circle></a><a href="/variants/s10/y2w1db4w1db1y1dg12y1dg2y1~x4/"><circle cx="323.4" cy="175.7" r="4" fill="#3465a4"><title>Henry, David G (Personal)</title></circle></a><a href="/variants/s9/g28dr12g4db20lo2db3lo2db3g7~x2/"><circle cx="296.6" cy="196.5" r="4" fill="#3465a4"><title>Cork Irish County Tartan</title></circle></a><a href="/variants/s10/ly3dg17t3dg3t3do5t18dr2t8dr2~x2/"><circle cx="302.8" cy="214.0" r="4" fill="#3465a4"><title>Donegal, County</title></circle></a><a href="/variants/s7/dr1g4ly1g3dr4db15w1~x4/"><circle cx="303.5" cy="176.4" r="4" fill="#3465a4"><title>Bressuire (District)</title></circle></a><a href="/variants/s9/n16y1n2y1n2db6w4dy1dg6~x2/"><circle cx="281.7" cy="158.7" r="4" fill="#3465a4"><title>Nickel Lodge Centennial</title></circle></a><a href="/variants/s10/dg14w2db3g7dg2g7db3w2dg14lb2~x4/"><circle cx="256.1" cy="214.4" r="4" fill="#3465a4"><title>Manx Ellan Vannin</title></circle></a><a href="/variants/s8/dr3lb2g18lo2g18dp34dr3dp3~x2/"><circle cx="302.1" cy="172.2" r="4" fill="#3465a4"><title>Singh</title></circle></a><a href="/variants/s12/dr3g3db3g14db3g3db3lb5db18y2db8y2~x2/"><circle cx="273.4" cy="193.8" r="4" fill="#3465a4"><title>California Burns (Personal)</title></circle></a><a href="/variants/s10/g18dp3db10dbi2db10dp20g20dp3y2db2~x2~db0805267-dbi1307262/"><circle cx="230.4" cy="204.4" r="4" fill="#3465a4"><title>Glasgow Cathedral</title></circle></a><circle cx="292.5" cy="184.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

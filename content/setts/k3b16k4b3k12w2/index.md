@@ -1,6 +1,15 @@
 ---
 title: "MacMugen"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacMugen"
+  url: "/clan/macmugen/"
+- name: "MacMugen"
+  url: "/families/macmugen/"
+- name: "MacMugen"
+  url: "/tartans/m/ma/macmugen-2/"
 ---
 This is the **MacMugen** sett — one scale-free proportion (`k3b16k4b3k12w2`), colour order pattern
 [KBKBKW](/stripes/kbkbkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3w2k18b18k2b3~x4/"><circle cx="267.1" cy="196.4" r="4" fill="#3465a4"><title>Swan</title></circle></a><a href="/variants/s6/k6db17k6db17k27w3~x2/"><circle cx="282.6" cy="230.5" r="4" fill="#3465a4"><title>Swan, Brian E</title></circle></a><a href="/variants/s6/k3w2k18t18k2t3~x4/"><circle cx="263.0" cy="198.9" r="4" fill="#3465a4"><title>Swan (Name)</title></circle></a><a href="/variants/s6/k4y1k20t20k1t4~x4/"><circle cx="299.7" cy="165.7" r="4" fill="#3465a4"><title>Oakleigh (Corporate)</title></circle></a><a href="/variants/s6/lb5k22db4k4db26k4~x2/"><circle cx="258.0" cy="224.1" r="4" fill="#3465a4"><title>Slanj, The</title></circle></a><a href="/variants/s6/o4k28t3k3t25k3~x2/"><circle cx="267.0" cy="190.1" r="4" fill="#3465a4"><title>Slanj (Corporate)</title></circle></a><a href="/variants/s7/k1db12k12b1k12db12w1~x4/"><circle cx="284.0" cy="197.3" r="4" fill="#3465a4"><title>Marchmont</title></circle></a><a href="/variants/s8/n15k14t1y2t1k14n15k2~x4~n1802249-t2503227/"><circle cx="261.8" cy="173.3" r="4" fill="#3465a4"><title>South African Air Force</title></circle></a><a href="/variants/s7/k2db9k2db9k13w1k2~x4/"><circle cx="303.4" cy="194.4" r="4" fill="#3465a4"><title>Swan 2015, Brian E (Personal)</title></circle></a><a href="/variants/s6/w4k26lb26k2lb5w2~x2/"><circle cx="255.2" cy="182.1" r="4" fill="#3465a4"><title>Indian Pipe Band (Corporate)</title></circle></a><circle cx="243.3" cy="214.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

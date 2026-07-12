@@ -1,8 +1,11 @@
 ---
 title: "Clan Scott"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
-*A clan defined by its tartans — the dictionary holds no separate clan history for it, only the cloth that carries its name.*
+Clan tartan, also called Green Scott; chief is the Duke of Buccleuch and Queensberry, based in Selkirk.
 
 ## Tartan
 

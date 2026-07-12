@@ -1,6 +1,13 @@
 ---
 title: "Meeson Formal"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Meeson"
+  url: "/clan/meeson/"
+- name: "Meeson Formal"
+  url: "/tartans/m/me/meeson-formal/"
 ---
 This is the **Meeson Formal** sett — one scale-free proportion (`lb26n10db19dr6dy2t9`), colour order pattern
 [BGBBBW](/stripes/bgbbbw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db13y2r4g2lb8w2~x6/"><circle cx="143.6" cy="201.1" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><a href="/variants/s6/g4w28db14y2lb17g4~x2/"><circle cx="198.8" cy="204.0" r="4" fill="#3465a4"><title>Allanton Dress (Fashion)</title></circle></a><a href="/variants/s8/g6dp14t22db6ly16w1db6t6~x2/"><circle cx="178.1" cy="184.0" r="4" fill="#3465a4"><title>Scotia (Fashion)</title></circle></a><a href="/variants/s7/r3db20t20g2lr4lb17w3~x2~t2405244-lr2800000-lb3401240/"><circle cx="101.3" cy="178.2" r="4" fill="#3465a4"><title>Silversea (Corporate)</title></circle></a><a href="/variants/s7/y4db4lb5dbi24y2db24w4~x2~db1204274-dbi1406275/"><circle cx="269.3" cy="203.7" r="4" fill="#3465a4"><title>Mina Perhonen Japanese Corporate Tartan</title></circle></a><a href="/variants/s8/g6dp14t22db6ly16w1db6t6~x2~g2408144/"><circle cx="176.5" cy="183.6" r="4" fill="#3465a4"><title>Scotia</title></circle></a><a href="/variants/s6/dr4do27ly6n19t38w4~x2/"><circle cx="242.7" cy="239.8" r="4" fill="#3465a4"><title>State Seal of Michigan (Fashion)</title></circle></a><a href="/variants/s8/db1lb12b6w1dy3db14t18w1~x2/"><circle cx="189.1" cy="177.7" r="4" fill="#3465a4"><title>Ancient Gathering</title></circle></a><a href="/variants/s8/db1lb12dp6w1y3db14dbi18w1~x2~db1004274-dbi1404245/"><circle cx="179.2" cy="169.4" r="4" fill="#3465a4"><title>Ancient Gathering</title></circle></a><a href="/variants/s5/dp10db10g10w1dy1~x6/"><circle cx="202.8" cy="247.6" r="4" fill="#3465a4"><title>Edelstein (Personal)</title></circle></a><circle cx="185.4" cy="218.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

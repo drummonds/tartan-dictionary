@@ -1,6 +1,15 @@
 ---
 title: "Cheape of Torosay (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cheape"
+  url: "/clan/cheape/"
+- name: "Cheape of Torosay"
+  url: "/families/cheape-of-torosay/"
+- name: "Cheape of Torosay"
+  url: "/tartans/c/ch/cheape-of-torosay/"
 ---
 This is the **Cheape of Torosay (Personal)** sett — one scale-free proportion (`db8k1db1k1db1k7g6lb1g6k7db7k1lb1`), colour order pattern
 [BKBKBKGWGKBKW](/stripes/bkbkbkgwgkbkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db9k1db1k1db1k7g8y2g8k7db8k1r2~x2/"><circle cx="107.5" cy="163.8" r="4" fill="#3465a4"><title>MacLeod of Gesto</title></circle></a><a href="/variants/s13/g4k1g1k1g1k8db8r1db8k8g8k1g1~x8/"><circle cx="147.2" cy="174.9" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/variants/s12/db5k1db1k1db1k4g5y1g5k4db6k1~x4/"><circle cx="130.9" cy="207.0" r="4" fill="#3465a4"><title>Gordon</title></circle></a><a href="/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3~x2/"><circle cx="128.3" cy="168.1" r="4" fill="#3465a4"><title>Murray of Atholl #3</title></circle></a><a href="/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3/"><circle cx="128.3" cy="168.1" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/variants/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/"><circle cx="139.2" cy="172.2" r="4" fill="#3465a4"><title>Lorne, Louise of</title></circle></a><a href="/variants/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="133.4" cy="173.2" r="4" fill="#3465a4"><title>Stephenson Hunting</title></circle></a><a href="/variants/s13/g8k1g1k1g1k8db8r1db8k8g8k1g1~x2/"><circle cx="135.3" cy="177.6" r="4" fill="#3465a4"><title>Urquhart Clan Tartan</title></circle></a><a href="/variants/s13/g8k1g1k1g1k8db8dr1db8k8g8k1g1~x2/"><circle cx="136.9" cy="178.4" r="4" fill="#3465a4"><title>Urquhart (Logan)</title></circle></a><a href="/variants/s13/db1k1db6k6g6k1w1k1g6k6db6k1db1~x8/"><circle cx="126.5" cy="192.5" r="4" fill="#3465a4"><title>Forbes</title></circle></a><circle cx="136.3" cy="180.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Dupplin Check"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Dupplin Check"
+  url: "/tartans/d/du/dupplin-check/"
 ---
 This is the **Dupplin Check** sett — one scale-free proportion (`do1w1k1w1do1w1k1w1o1`), colour order pattern
 [BWKWBWKWR](/stripes/bwkwbwkwr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/o4w4k3w4k4w4k4w4~x2/"><circle cx="87.0" cy="366.0" r="4" fill="#3465a4"><title>Glen Feshie Check</title></circle></a><a href="/variants/s9/k1w1k1w1k1w1k1w1o1~x6/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Dupplin (Estate Check)</title></circle></a><a href="/variants/s10/w2k2w2k2w2k2w1o1g1o1~x4/"><circle cx="69.7" cy="295.1" r="4" fill="#3465a4"><title>Robert, Burns check</title></circle></a><a href="/variants/s15/g1w1k1w1k1w1k1w1k1w1g1w1k1w1m1~x8~g2408144-m2110326/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Halliday</title></circle></a><a href="/variants/s15/dp1w1k1w1g1w1k1w1k1w1k1w1k1w1g1~x8/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Halliday (Name)</title></circle></a><a href="/variants/s9/do1lb1k1lb1do1lb1k1lb1db1~x6/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Strathspey (Estate Check)</title></circle></a><a href="/variants/s10/n4w4do4w4n4w4do4w4r1n4~x4/"><circle cx="115.4" cy="298.7" r="4" fill="#3465a4"><title>Brook (Check)</title></circle></a><a href="/variants/s5/k1w1k1w1t1~x12/"><circle cx="52.8" cy="366.0" r="4" fill="#3465a4"><title>Haig Check (Estate Check)</title></circle></a><a href="/variants/s7/r1w1g1w1db1w1g1~x8/"><circle cx="17.6" cy="366.0" r="4" fill="#3465a4"><title>Lochwood (Estate Check)</title></circle></a><a href="/variants/s7/k1r1w1k1w1k1db1~x16/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Border Bell</title></circle></a><circle cx="14.0" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Unidentified Cant #14"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified Cant"
+  url: "/tartans/u/un/unidentified-cant-8/"
 ---
 This is the **Unidentified Cant #14** sett — one scale-free proportion (`db80r56dg3r56dg88r64db3r4dg3r4db3r64`), colour order pattern
 [BRGRGRBRGRBR](/stripes/brgrgrbrgrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r28g2r5g2r28db3r3g24r3db24r3db3~x2/"><circle cx="328.6" cy="165.8" r="4" fill="#3465a4"><title>Robertson #5</title></circle></a><a href="/variants/s13/dg2r3db2r48dg60r21dg2r21db60r48db2r3dg2/"><circle cx="350.5" cy="130.9" r="4" fill="#3465a4"><title>Fraser, Isabella (Artefact)</title></circle></a><a href="/variants/s13/g2r3db2r48db60r21g2r21g60r48db2r3g2~x2/"><circle cx="341.9" cy="130.7" r="4" fill="#3465a4"><title>Fraser, Wedding dress</title></circle></a><a href="/variants/s13/r3g1r15db2r2db15r2g15r2db2r15g1r3~x2/"><circle cx="319.7" cy="159.8" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/variants/s13/r5g2r30db3r3db30r3g30r3db3r30g2r5~x2/"><circle cx="319.3" cy="154.9" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/variants/s13/r5g2r30db3r3db30r3g30r3db3r30g2r5/"><circle cx="319.3" cy="154.9" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/variants/s13/r3g3r35db3r3db35r3g35r3db3r35g3r3~x2/"><circle cx="303.3" cy="160.5" r="4" fill="#3465a4"><title>Robertson 1819</title></circle></a><a href="/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x4/"><circle cx="376.9" cy="159.8" r="4" fill="#3465a4"><title>MacColl</title></circle></a><a href="/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x2/"><circle cx="376.9" cy="159.8" r="4" fill="#3465a4"><title>MacColl Clan Tartan</title></circle></a><a href="/variants/s13/r6db2r2g24r2g2r2db8r34db2r2db1r6~x2/"><circle cx="396.7" cy="109.8" r="4" fill="#3465a4"><title>Grant of Glenmoriston (Clan)</title></circle></a><circle cx="373.4" cy="144.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

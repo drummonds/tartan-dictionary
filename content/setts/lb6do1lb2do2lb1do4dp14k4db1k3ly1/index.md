@@ -1,6 +1,13 @@
 ---
 title: "Wcwm 1873-4"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Wcwm"
+  url: "/clan/wcwm/"
+- name: "Wcwm 1873-4"
+  url: "/tartans/w/wc/wcwm-1873-4/"
 ---
 This is the **Wcwm 1873-4** sett — one scale-free proportion (`lb6do1lb2do2lb1do4dp14k4db1k3ly1`), colour order pattern
 [WBWBWBBKBKY](/stripes/wbwbwbbkbky/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r17k5w4k6y5db31k5g6w3~x2/"><circle cx="102.3" cy="134.4" r="4" fill="#3465a4"><title>Dean/Dundas (Melbourne, Australia) (Personal)</title></circle></a><a href="/variants/s9/r17k5w4k6ly5db31k5g6w3~x2/"><circle cx="98.3" cy="133.4" r="4" fill="#3465a4"><title>Dean/Dundas (Personal)</title></circle></a><a href="/variants/s10/db4dy3db22n6w2k6w2r26k3r4~x2/"><circle cx="145.1" cy="113.3" r="4" fill="#3465a4"><title>Asman, Dress (Name)</title></circle></a><a href="/variants/s10/w2r5k2ly3k4db28r4dg14k4w2~x2/"><circle cx="145.4" cy="110.0" r="4" fill="#3465a4"><title>Loch Lomond &amp; the Trossachs (Fashion</title></circle></a><a href="/variants/s11/k6r2db18lo2g2lo2g10r20db2lb1db6~x2/"><circle cx="141.7" cy="102.3" r="4" fill="#3465a4"><title>Aberdeen Asset Management (Corp)</title></circle></a><a href="/variants/s13/db23r6db6k10y3k2w2k2g11r12k2r10w2~x2/"><circle cx="78.7" cy="125.1" r="4" fill="#3465a4"><title>Prince Albert</title></circle></a><a href="/variants/s9/w8db50k4r8k6r12g17dp7k4/"><circle cx="141.2" cy="120.1" r="4" fill="#3465a4"><title>Edinburgh</title></circle></a><a href="/variants/s13/r2db18lo4k5lo1k1w1k2g8r6k1r3w1~x4/"><circle cx="100.5" cy="88.3" r="4" fill="#3465a4"><title>Beaton (Name)</title></circle></a><a href="/variants/s8/n3r14w1k2g2k16db20n1~x2/"><circle cx="139.1" cy="113.8" r="4" fill="#3465a4"><title>Vinther, Niels Christian (Personal)</title></circle></a><a href="/variants/s8/ly3db3k2db18k26r21g2lb3~x2/"><circle cx="121.8" cy="126.1" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><circle cx="121.9" cy="114.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

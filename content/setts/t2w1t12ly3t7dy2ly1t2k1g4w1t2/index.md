@@ -1,6 +1,15 @@
 ---
 title: "Fife (Mann)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Fife"
+  url: "/clan/fife/"
+- name: "Fife"
+  url: "/families/fife/"
+- name: "Fife"
+  url: "/tartans/f/fi/fife-3/"
 ---
 This is the **Fife (Mann)** sett — one scale-free proportion (`t2w1t12ly3t7dy2ly1t2k1g4w1t2`), colour order pattern
 [BWBYBGYBKGWB](/stripes/bwbybgybkgwb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dp8g8w3g8dp8w3t40r3k3t40w3~x2/"><circle cx="303.2" cy="121.2" r="4" fill="#3465a4"><title>World Peace (Fashion)</title></circle></a><a href="/variants/s12/t48dp4t8lr2t4r3t4dg14dr7t2dr4r2~x2/"><circle cx="398.0" cy="105.1" r="4" fill="#3465a4"><title>Louth, County</title></circle></a><a href="/variants/s12/t38dp4t8w2t4w3t4dg14r7t2r4w2~x2/"><circle cx="341.1" cy="125.6" r="4" fill="#3465a4"><title>Louth Irish County Tartan</title></circle></a><a href="/variants/s11/t27w2t15ly1t1ly1t15k2w2g16r1~x2/"><circle cx="423.8" cy="118.0" r="4" fill="#3465a4"><title>Quigley of Knockcroghery Htg (Per.)</title></circle></a><a href="/variants/s9/n55t8w8t8g5n8ly4w4k4~x2/"><circle cx="309.7" cy="121.2" r="4" fill="#3465a4"><title>Ofsharick, Matthew (Personal)</title></circle></a><a href="/variants/s14/t34g10t5r2k8dy2w3dy2k8r2t5g10t28k3~x2/"><circle cx="247.6" cy="99.4" r="4" fill="#3465a4"><title>Lambert Dress (Personal)</title></circle></a><a href="/variants/s9/g40dbi8g8lp8db5lp13k9g40r4~dbi1406275-db1204274/"><circle cx="273.8" cy="151.8" r="4" fill="#3465a4"><title>Vorwerk, The</title></circle></a><a href="/variants/s11/b27w2b15y1b1y1b15k2w2g16r1~x2/"><circle cx="398.1" cy="102.3" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Hunting) (Personal)</title></circle></a><a href="/variants/s8/t130k9t21ly8t21w8t35r70/"><circle cx="385.1" cy="145.9" r="4" fill="#3465a4"><title>Maud, Mary</title></circle></a><a href="/variants/s10/t33w2r3w2db14ri3g15t20r2t3~x2~r2109032-ri2806019/"><circle cx="318.0" cy="151.9" r="4" fill="#3465a4"><title>Kansai St Andrews Society (Corp)</title></circle></a><circle cx="316.8" cy="141.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

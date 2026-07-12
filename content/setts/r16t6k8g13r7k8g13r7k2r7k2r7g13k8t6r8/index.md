@@ -1,6 +1,15 @@
 ---
 title: "MacDuff"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDuff"
+  url: "/clan/macduff/"
+- name: "MacDuff"
+  url: "/families/macduff/"
+- name: "MacDuff"
+  url: "/tartans/m/ma/macduff-4/"
 ---
 This is the **MacDuff** sett — one scale-free proportion (`r16t6k8g13r7k8g13r7k2r7k2r7g13k8t6r8`), colour order pattern
 [RBKGRKGRKRKRGKBR](/stripes/rbkgrkgrkrkrgkbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r12g16r3g16r3g16r4db16r5k9r12g3r12~x2/"><circle cx="139.0" cy="217.9" r="4" fill="#3465a4"><title>Grant of Monymusk</title></circle></a><a href="/variants/s13/db4k1db5k4g8r4g8k4r3db3r12db2r4~x4/"><circle cx="126.5" cy="177.5" r="4" fill="#3465a4"><title>Murray of Atholl, Red Dress</title></circle></a><a href="/variants/s15/r5k5r3g16r3g3r3k10r3b5r12k5r3k3r5~x2/"><circle cx="132.6" cy="184.0" r="4" fill="#3465a4"><title>Grant of Ballindalloch</title></circle></a><a href="/variants/s24/t3y5k1y2k1y5r3k2r3t6k1t1k1t6r3k2r3y5k1y2k1y5t3k2~x4/"><circle cx="93.5" cy="185.5" r="4" fill="#3465a4"><title>Franklin</title></circle></a><a href="/variants/s12/k18y17k2y17k9r17w2r17k9g18k10g18~x2/"><circle cx="53.5" cy="195.4" r="4" fill="#3465a4"><title>Buchanan #7</title></circle></a><a href="/variants/s10/g14k5db2r21g18k4db18r9k2r12/"><circle cx="153.5" cy="187.6" r="4" fill="#3465a4"><title>Ruben Delanghe (Personal)</title></circle></a><a href="/variants/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/"><circle cx="108.9" cy="184.2" r="4" fill="#3465a4"><title>Unidentified Sample #2</title></circle></a><a href="/variants/s12/g4db9r9g9k2r2k2g9r9db8g4r2~x4/"><circle cx="114.4" cy="227.3" r="4" fill="#3465a4"><title>Stewart/Stuart C18th - Cf 1314 &amp; 4454</title></circle></a><a href="/variants/s13/k2db3lo5k1lo2k1lo5dr3k2dr3db6k1db1~x4/"><circle cx="85.1" cy="200.3" r="4" fill="#3465a4"><title>Franklin (District)</title></circle></a><a href="/variants/s10/r4k6lb1g7k2g7lb1k6r4g2~x4/"><circle cx="119.3" cy="208.4" r="4" fill="#3465a4"><title>Walker James</title></circle></a><circle cx="104.0" cy="198.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

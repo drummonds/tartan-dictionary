@@ -1,6 +1,11 @@
 ---
 title: "Wilson's, No 30"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Wilson's, No 30"
+  url: "/tartans/w/wi/wilson-s-no-30/"
 ---
 This is the **Wilson's, No 30** sett — one scale-free proportion (`k16db2lb2db4g16y2k15db6lb2k3lb4`), colour order pattern
 [KBWBGGKBWKW](/stripes/kbwbggkbwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k16db2lb2db4g16r2k15db6lb2k3lb4~x2/"><circle cx="145.2" cy="155.2" r="4" fill="#3465a4"><title>Wilson's No.060</title></circle></a><a href="/variants/s11/k16g2lb2db4g16y2k15db6lb2k3lb4~x2/"><circle cx="114.6" cy="135.6" r="4" fill="#3465a4"><title>Wilson's No.030</title></circle></a><a href="/variants/s11/dp3k2n6k2n2k18g13lb2g2k6dp2~x2/"><circle cx="175.4" cy="147.7" r="4" fill="#3465a4"><title>Dama Resort (Fashion)</title></circle></a><a href="/variants/s12/k8dp1k1w1k2dp8k8g8k1y1k2g8~x2/"><circle cx="150.8" cy="160.4" r="4" fill="#3465a4"><title>Unidentified #32</title></circle></a><a href="/variants/s12/w4k2t9k3dp3k3dp3k23g10k2dp6w2~x2/"><circle cx="155.3" cy="128.4" r="4" fill="#3465a4"><title>Auld Lang Syne, Blue (Fashion)</title></circle></a><a href="/variants/s13/y1k1g7k8db7k1db2k1db7k8g7k1w1~x4/"><circle cx="122.4" cy="165.8" r="4" fill="#3465a4"><title>Campbell of Loudoun (Clan)</title></circle></a><a href="/variants/s14/g1k1g8k8db8r1db8k8g1k1g1k1g3w1~x2/"><circle cx="124.1" cy="152.0" r="4" fill="#3465a4"><title>Urquhart (Brydone)</title></circle></a><a href="/variants/s14/db29k15g5r5g8k4y4k4g8r5g5k15db7k15~x2/"><circle cx="119.5" cy="167.4" r="4" fill="#3465a4"><title>MacLellan Clan Tartan</title></circle></a><a href="/variants/s12/w4k2db9k3b3k3b3k25g10k2b6w2~x2/"><circle cx="167.3" cy="121.8" r="4" fill="#3465a4"><title>Auld Lang Syne Blue Fashion Tartan</title></circle></a><a href="/variants/s12/r1db6k1db1k8g1k8dp2g1k1g6lo1~x4/"><circle cx="152.3" cy="138.0" r="4" fill="#3465a4"><title>van der Watt Personal)</title></circle></a><circle cx="148.7" cy="158.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Stuart/Stewart Black #3"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Stewart"
+  url: "/clan/stewart/"
+- name: "Stewart"
+  url: "/families/stewart/"
+- name: "Stewart"
+  url: "/tartans/s/st/stewart-14/"
 ---
 This is the **Stuart/Stewart Black #3** sett — one scale-free proportion (`db20lb6k8y2k4w4k4g13r7k4r3w2`), colour order pattern
 [BWKGKWKGRKRW](/stripes/bwkgkwkgrkrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/lb2db18ly4k5ly1k1w1k2g8r6k1r3w1~x4/"><circle cx="76.2" cy="75.8" r="4" fill="#3465a4"><title>Bethune (Personal)</title></circle></a><a href="/variants/s15/g18w2db16w2lb6k16w2r8w2db9ri9k6ri9g6lb6~x2~r1707016-ri2008029/"><circle cx="14.0" cy="137.8" r="4" fill="#3465a4"><title>Gordon, Red</title></circle></a><a href="/variants/s15/g18w2db16w2lb6k16w2r8w2db9ri9k6ri9g6lb6~x2~r1707016-ri2209032/"><circle cx="14.0" cy="137.1" r="4" fill="#3465a4"><title>Gordon Red</title></circle></a><a href="/variants/s10/r24g22k2w6k2y2k15lb6b6w2~x2/"><circle cx="39.6" cy="116.0" r="4" fill="#3465a4"><title>Bruce of Kinnaird</title></circle></a><a href="/variants/s16/dp16w2b7w2k14lb6w2dp15w2g17lb6g6r8k6r8k2~x2/"><circle cx="14.0" cy="129.9" r="4" fill="#3465a4"><title>Gordon, Red</title></circle></a><a href="/variants/s8/r5lb1db10w2k10g10k1y3~x4~lb3203246/"><circle cx="26.7" cy="128.8" r="4" fill="#3465a4"><title>Culloden 1746 Artefact Tartan</title></circle></a><a href="/variants/s12/k3lb14r11db3k10w2k10db3dg6r3b14db3~x2~r2308029-dg1704158/"><circle cx="14.0" cy="156.5" r="4" fill="#3465a4"><title>Cascade Summers, (The Resort at the Mountain)</title></circle></a><a href="/variants/s10/dt24k24ki2w6ki2y2ki16lb5r6w2~x2~dt1501240-k0504259-ki0700000/"><circle cx="54.3" cy="117.1" r="4" fill="#3465a4"><title>Scotland's International - Home</title></circle></a><a href="/variants/s12/r3k2dp12w2dp12k12g12lo2g12k2r1db2~x2/"><circle cx="69.7" cy="121.6" r="4" fill="#3465a4"><title>Rust (Personal)</title></circle></a><a href="/variants/s12/r3k2dp12w2dp12k12g12y2g12k2r1lb2~x2/"><circle cx="70.5" cy="122.5" r="4" fill="#3465a4"><title>Rust Personal Tartan</title></circle></a><circle cx="14.0" cy="127.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

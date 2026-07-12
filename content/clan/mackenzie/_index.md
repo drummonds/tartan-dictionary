@@ -1,6 +1,9 @@
 ---
 title: "Clan MacKenzie"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 **Territory:** Kintail, Ross & Lewis · **1745 strength:** 2000 men
 

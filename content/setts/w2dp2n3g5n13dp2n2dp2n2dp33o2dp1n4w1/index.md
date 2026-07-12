@@ -1,6 +1,11 @@
 ---
 title: "Scottish Bakers"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Scottish Bakers"
+  url: "/tartans/s/sc/scottish-bakers/"
 ---
 This is the **Scottish Bakers** sett — one scale-free proportion (`w2dp2n3g5n13dp2n2dp2n2dp33o2dp1n4w1`), colour order pattern
 [WBBGBBBBBBRBBW](/stripes/wbbgbbbbbbrbbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dp52g14o2dg3dp2dg3g6lb6dg2lb6dp2~x2~g1903114-dg1806142/"><circle cx="358.3" cy="96.9" r="4" fill="#3465a4"><title>Nance (2002)</title></circle></a><a href="/variants/s20/dp40g2dp2g2dp2g2dp3g16db15m3db15g16dp3g2dp2g2dp2g2dp40w4~x2~dp1105325-g2203152/"><circle cx="328.9" cy="102.7" r="4" fill="#3465a4"><title>Solway Spirit</title></circle></a><a href="/variants/s12/dt36r3dt1r2dt3r6db1r2db35w1db1ly2~x2/"><circle cx="340.9" cy="63.6" r="4" fill="#3465a4"><title>Kirkcaldy Tartan Army</title></circle></a><a href="/variants/s11/w4dp40g2dp2g2dp2g2dp3g16db15m3~x2/"><circle cx="300.3" cy="117.5" r="4" fill="#3465a4"><title>Solway Spirit (District)</title></circle></a><a href="/variants/s15/n2dt1t2dt2r1t12dt2r1dr10dt28t1dt3t2dt3w1~x2~dt1102249-t2308259/"><circle cx="337.8" cy="84.9" r="4" fill="#3465a4"><title>Northfield Academy</title></circle></a><a href="/variants/s13/r6ri1db2r2g40r6db13lb1r48g2r4ri1g4~x2~r1807008-ri2406019/"><circle cx="352.0" cy="71.7" r="4" fill="#3465a4"><title>MacDonald of Glencoe Artifact Tartan</title></circle></a><a href="/variants/s13/ri2w1db36ri1db2r3w1r3w1r3w1r10ly2~x2~ri2109032-r1707008/"><circle cx="366.0" cy="62.9" r="4" fill="#3465a4"><title>ESPRAS (Corporate)</title></circle></a><a href="/variants/s13/n19do2r1dr3w1dr1w1dr1do6n3dr1do3w1~x4/"><circle cx="335.0" cy="124.0" r="4" fill="#3465a4"><title>Leando Hunting (Personal)</title></circle></a><a href="/variants/s12/db5g9r3db18dr80y3dr40db18r3g9db5w2~x2/"><circle cx="409.4" cy="84.8" r="4" fill="#3465a4"><title>Roseline</title></circle></a><a href="/variants/s12/n45g3db7r2db7g3n4w2dp36w2n11db4/"><circle cx="312.5" cy="117.1" r="4" fill="#3465a4"><title>Scottish Parliament (Official)</title></circle></a><circle cx="375.9" cy="88.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

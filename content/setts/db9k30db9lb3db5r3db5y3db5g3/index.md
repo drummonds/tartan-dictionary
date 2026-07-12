@@ -1,6 +1,11 @@
 ---
 title: "Fed. of Circles & Solitaries (Corp.)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Fed. of Circles & Solitaries"
+  url: "/tartans/f/fe/fed-of-circles-solitaries/"
 ---
 This is the **Fed. of Circles & Solitaries (Corp.)** sett — one scale-free proportion (`db9k30db9lb3db5r3db5y3db5g3`), colour order pattern
 [BKBWBRBGBG](/stripes/bkbwbrbgbg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db13k14g6k14db14w1r1y1g1db3~x2/"><circle cx="189.4" cy="135.3" r="4" fill="#3465a4"><title>Scotshill</title></circle></a><a href="/variants/s11/k3b2k12dg4db19r3db19dg4k12b2y3~x2/"><circle cx="187.8" cy="154.0" r="4" fill="#3465a4"><title>Loch Lomond Millennium</title></circle></a><a href="/variants/s11/k20lb2k8db2k2db2k2db10dr5g5db15~x2/"><circle cx="201.6" cy="160.4" r="4" fill="#3465a4"><title>Lawtie (Personal)</title></circle></a><a href="/variants/s11/dr1db15k2ly1k1t1k5dr4k1dr2w1~x4/"><circle cx="199.9" cy="101.9" r="4" fill="#3465a4"><title>Glen Stewart</title></circle></a><a href="/variants/s11/db12r4db64k64g7w7lo7k64db64r4db12/"><circle cx="229.7" cy="117.0" r="4" fill="#3465a4"><title>Sandhu (Name)</title></circle></a><a href="/variants/s8/k37r4db30n7k10w5n10y7~x2~n1700000-y2400000/"><circle cx="134.2" cy="153.5" r="4" fill="#3465a4"><title>Yates</title></circle></a><a href="/variants/s11/db4y2db24k2db5r3k14g14w3r3db3~x2/"><circle cx="157.6" cy="123.1" r="4" fill="#3465a4"><title>Czech National (District)</title></circle></a><a href="/variants/s11/db5dr2db8y2dr3k9dr2db18k9dbi4w2~x2~db1406275-dbi1706275/"><circle cx="186.5" cy="156.0" r="4" fill="#3465a4"><title>Royal Gourock Yacht Club, The</title></circle></a><a href="/variants/s6/y4lb8dp4k53db54w4/"><circle cx="199.7" cy="139.5" r="4" fill="#3465a4"><title>Pipers' Trail, The</title></circle></a><a href="/variants/s9/w1db12k9dg1k1dg5lb1dg3lo1~x4/"><circle cx="139.4" cy="135.6" r="4" fill="#3465a4"><title>St. Andrews Golf Club (Corporate)</title></circle></a><circle cx="187.4" cy="134.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

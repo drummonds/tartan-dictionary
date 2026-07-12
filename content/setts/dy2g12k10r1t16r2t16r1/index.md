@@ -1,6 +1,15 @@
 ---
 title: "MacWilliam"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacWilliam"
+  url: "/clan/macwilliam/"
+- name: "MacWilliam"
+  url: "/families/macwilliam/"
+- name: "MacWilliam"
+  url: "/tartans/m/ma/macwilliam-3/"
 ---
 This is the **MacWilliam** sett — one scale-free proportion (`dy2g12k10r1t16r2t16r1`), colour order pattern
 [GGKRBRBR](/stripes/ggkrbrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g2k1g12dr4g3db9lb2~x4/"><circle cx="232.3" cy="182.1" r="4" fill="#3465a4"><title>Lee (Personal)</title></circle></a><a href="/variants/s6/k3g36db28r2db2y3~x2/"><circle cx="278.6" cy="150.6" r="4" fill="#3465a4"><title>Carmichael Family Tartan</title></circle></a><a href="/variants/s6/k5g32db32r3db3y3~x2/"><circle cx="231.6" cy="174.9" r="4" fill="#3465a4"><title>Carmichael</title></circle></a><a href="/variants/s8/t32k12t12g6r6g18k2y3~x2/"><circle cx="212.1" cy="165.3" r="4" fill="#3465a4"><title>Gillies (House of Edgar)</title></circle></a><a href="/variants/s8/g45w2r3k15r3db15r3db15~x2/"><circle cx="203.3" cy="123.9" r="4" fill="#3465a4"><title>MacNeil 3</title></circle></a><a href="/variants/s6/k4t24k2dg13t2k3~x4~t2405244-dg1806142/"><circle cx="242.0" cy="162.7" r="4" fill="#3465a4"><title>Vance (Family Association) Corporate Family Tartan</title></circle></a><a href="/variants/s8/g8k2g13r4g12db22g5ly3~x2/"><circle cx="245.0" cy="185.9" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/variants/s8/g13dp1g1dp1g3db5k4y2~x2/"><circle cx="253.1" cy="154.5" r="4" fill="#3465a4"><title>Carrick Hunting District Tartan</title></circle></a><a href="/variants/s8/db12k4g12ly1g12k4db8r3~x2/"><circle cx="162.6" cy="192.4" r="4" fill="#3465a4"><title>Art Pewter Silver</title></circle></a><a href="/variants/s7/k2dbi2g16db2y1db13w2~x2~dbi1406275-db1204274/"><circle cx="199.3" cy="138.0" r="4" fill="#3465a4"><title>Wishart Hunting Family Tartan</title></circle></a><circle cx="230.1" cy="157.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

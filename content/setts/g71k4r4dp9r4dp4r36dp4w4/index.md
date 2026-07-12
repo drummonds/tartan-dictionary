@@ -1,6 +1,13 @@
 ---
 title: "Rattray"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Rattray"
+  url: "/clan/rattray/"
+- name: "Rattray"
+  url: "/tartans/r/ra/rattray/"
 ---
 This is the **Rattray** sett — one scale-free proportion (`g71k4r4dp9r4dp4r36dp4w4`), colour order pattern
 [GKRBRBRBW](/stripes/gkrbrbrbw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g71k4r4db9r4db4r36db4w4/"><circle cx="266.4" cy="109.3" r="4" fill="#3465a4"><title>Rattray Family Tartan</title></circle></a><a href="/variants/s9/g71k4r4db9r4db4r36db4w4~x2/"><circle cx="266.4" cy="109.3" r="4" fill="#3465a4"><title>Rattay</title></circle></a><a href="/variants/s11/dy32r2y3k3r2dy3y3dy3ly3dy3ly32~x2/"><circle cx="228.5" cy="99.8" r="4" fill="#3465a4"><title>Glen Talloch</title></circle></a><a href="/variants/s8/k2r2k1r18g24k1g2lo2~x2/"><circle cx="298.5" cy="118.2" r="4" fill="#3465a4"><title>Gleneil (Spoof)</title></circle></a><a href="/variants/s10/o24lb2lo7lb3k2n4k2lb1o4lb1~x2/"><circle cx="305.7" cy="101.8" r="4" fill="#3465a4"><title>VeMMA</title></circle></a><a href="/variants/s12/y14lo1y1lo1y2k3y3k3doi3do1doi9lo1~x4~doi1402055-do1103038/"><circle cx="228.2" cy="127.5" r="4" fill="#3465a4"><title>Glen Nevis #2 (Personal)</title></circle></a><a href="/variants/s8/k2r2k2r24g31k1g2y2~x2/"><circle cx="315.1" cy="107.4" r="4" fill="#3465a4"><title>Gleneil</title></circle></a><a href="/variants/s13/dr5r2k3dr4g43dr6k7lb2dr47g2dr3r2g4~x2/"><circle cx="288.6" cy="82.2" r="4" fill="#3465a4"><title>Glen Coe (District)</title></circle></a><a href="/variants/s11/k3w1g29n8m2n2m2n2m8g7k2~x2/"><circle cx="284.8" cy="92.6" r="4" fill="#3465a4"><title>Gray Htg (Name)</title></circle></a><a href="/variants/s11/k3w1g29n8r2n2r2n2r8g7k2~x2/"><circle cx="289.9" cy="94.8" r="4" fill="#3465a4"><title>Gray Hunting Family Tartan</title></circle></a><circle cx="270.6" cy="109.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

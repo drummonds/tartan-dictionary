@@ -1,6 +1,11 @@
 ---
 title: "STLTH"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "STLTH"
+  url: "/tartans/s/st/stlth/"
 ---
 This is the **STLTH** sett — one scale-free proportion (`dt4k2dt4k45n2k3n2`), colour order pattern
 [BKBKBKB](/stripes/bkbkbkb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k36y5k1y1n5k12~x2/"><circle cx="522.6" cy="121.9" r="4" fill="#3465a4"><title>Merola (2016)</title></circle></a><a href="/variants/s6/k31r2k10db1k1w1~x4/"><circle cx="604.6" cy="103.7" r="4" fill="#3465a4"><title>NewGeneration Alchemy (NGA) Inc</title></circle></a><a href="/variants/s9/k21dp2n1k1n1dp2k6db2n1~x4/"><circle cx="485.3" cy="115.5" r="4" fill="#3465a4"><title>Clan Inebriated</title></circle></a><a href="/variants/s6/k99r5k4r3k2g1~x2/"><circle cx="626.0" cy="85.6" r="4" fill="#3465a4"><title>Allt Dubh (Black Burn)</title></circle></a><a href="/variants/s7/k24g3r3k24r2k2r2/"><circle cx="491.3" cy="158.2" r="4" fill="#3465a4"><title>Unidentified #45</title></circle></a><a href="/variants/s9/k100dp8n4k4n4dp8k25db10n4/"><circle cx="510.0" cy="106.0" r="4" fill="#3465a4"><title>CI (Corporate)</title></circle></a><a href="/variants/s6/k120b4k12dt36dg3k6/"><circle cx="539.5" cy="117.8" r="4" fill="#3465a4"><title>Scottish Football Association (Corp)</title></circle></a><a href="/variants/s6/k40dg15k10o2k10lo2~x2/"><circle cx="456.6" cy="156.6" r="4" fill="#3465a4"><title>Kalkofen (Name)</title></circle></a><a href="/variants/s9/k75dp6n2k2n2dp6k12db2n2~x2/"><circle cx="580.1" cy="82.9" r="4" fill="#3465a4"><title>Clan Inebriated (Corporate)</title></circle></a><a href="/variants/s9/k25w1n3w1k31n3k31w2r9~x2~n1700000/"><circle cx="471.5" cy="104.0" r="4" fill="#3465a4"><title>Savannah Harley Davidson</title></circle></a><circle cx="572.6" cy="133.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

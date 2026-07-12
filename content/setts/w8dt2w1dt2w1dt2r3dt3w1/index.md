@@ -1,6 +1,11 @@
 ---
 title: "Canadian Winter Games 1987"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Canadian Winter Games 1987"
+  url: "/tartans/c/ca/canadian-winter-games-1987/"
 ---
 This is the **Canadian Winter Games 1987** sett — one scale-free proportion (`w8dt2w1dt2w1dt2r3dt3w1`), colour order pattern
 [WBRBWBWBW](/stripes/wbrbwbwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w16db3w2db3w2db3r5db6w2~x4/"><circle cx="262.9" cy="203.9" r="4" fill="#3465a4"><title>Jeux Canada Games '87 (Corporate)</title></circle></a><a href="/variants/s7/w5r3w26dt21w3dt8y3~x2/"><circle cx="250.9" cy="204.0" r="4" fill="#3465a4"><title>MacPherson Dress, Blue (Dance)</title></circle></a><a href="/variants/s11/dg6w4dg3w4dg2w7dg2w2dg5r15w2~x2/"><circle cx="175.2" cy="210.3" r="4" fill="#3465a4"><title>Prince George</title></circle></a><a href="/variants/s11/g6w4g3w4g2w7g2w2g5r15w2~x2/"><circle cx="192.2" cy="219.6" r="4" fill="#3465a4"><title>Prince George (Royal)</title></circle></a><a href="/variants/s6/w5k20w2r5w20r2~x2/"><circle cx="239.9" cy="198.4" r="4" fill="#3465a4"><title>Gangs of New York Fashion Check Tartan</title></circle></a><a href="/variants/s8/r1dg1lp1lb7dg7lp1dg1lp1~x6/"><circle cx="225.4" cy="197.1" r="4" fill="#3465a4"><title>Beck-McSorley</title></circle></a><a href="/variants/s12/t15w13dy6t2dy2r2dy2t2dy6w13t15r3~x4~r2109032/"><circle cx="178.2" cy="200.1" r="4" fill="#3465a4"><title>Thompson (Pendleton)</title></circle></a><a href="/variants/s9/w2r1w2g6w10r6w2g1w2~x4/"><circle cx="303.4" cy="214.2" r="4" fill="#3465a4"><title>O'Neill Pipe Band 1999 (Corporate)</title></circle></a><a href="/variants/s13/r3dg8db5w3dg20w3db5w3db5w22db3w8r3~x2/"><circle cx="161.6" cy="178.6" r="4" fill="#3465a4"><title>MacDonald, Flora (Dance)</title></circle></a><a href="/variants/s8/lb30r3lb3r3lb12dt30n3dt5~x2/"><circle cx="285.0" cy="190.6" r="4" fill="#3465a4"><title>Dama Classic</title></circle></a><circle cx="236.6" cy="214.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

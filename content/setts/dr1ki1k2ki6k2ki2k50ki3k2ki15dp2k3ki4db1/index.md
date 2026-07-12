@@ -1,6 +1,11 @@
 ---
 title: "Bowcutt, David (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Bowcutt, David"
+  url: "/tartans/b/bo/bowcutt-david/"
 ---
 This is the **Bowcutt, David (Personal)** sett — one scale-free proportion (`dr1ki1k2ki6k2ki2k50ki3k2ki15dp2k3ki4db1`), colour order pattern
 [BKKBKKKKKKKKKB](/stripes/bkkbkkkkkkkkkb/). It is recorded as a single **variant**, below.

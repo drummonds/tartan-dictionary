@@ -1,6 +1,11 @@
 ---
 title: "Sir Billi"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Sir Billi"
+  url: "/tartans/s/si/sir-billi/"
 ---
 This is the **Sir Billi** sett — one scale-free proportion (`dg12lr5k11dg42k3dg42k11lr5dg12r8`), colour order pattern
 [GYKGKGKYGR](/stripes/gykgkgkygr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w2dg12k3dg3k16dg3k3dg12ly2~x2/"><circle cx="254.6" cy="188.6" r="4" fill="#3465a4"><title>MacIver Hunting</title></circle></a><a href="/variants/s9/k3dg14k8dg8dr3dg4lo3dg24w3~x2/"><circle cx="336.8" cy="172.1" r="4" fill="#3465a4"><title>MacStumer Hunting</title></circle></a><a href="/variants/s12/dg6w3dg15r3dg15y3k10dg21r3k3r3dg3~x2/"><circle cx="300.9" cy="167.3" r="4" fill="#3465a4"><title>Royal Army of Oman</title></circle></a><a href="/variants/s6/r8dg12lr5k11dg42k3~x2/"><circle cx="356.1" cy="170.3" r="4" fill="#3465a4"><title>Sir Billi (Corporate)</title></circle></a><a href="/variants/s10/g5k2g30r2k10g5k2g5k10r2~x2/"><circle cx="318.9" cy="148.5" r="4" fill="#3465a4"><title>MacArthur-Fox 2000 (Personal)</title></circle></a><a href="/variants/s10/k8g4r1k2g16dy1k8g2k2g4~x4/"><circle cx="263.3" cy="146.2" r="4" fill="#3465a4"><title>Manitoba Cue Sports</title></circle></a><a href="/variants/s8/k2w2db8k4dg33r2dg16w2~x2/"><circle cx="384.2" cy="130.8" r="4" fill="#3465a4"><title>Sarros, Terrence (USA) (Personal)</title></circle></a><a href="/variants/s7/k4dy2r2dy2k2dy15ly2~x4~r2806019-ly2705081/"><circle cx="399.5" cy="160.2" r="4" fill="#3465a4"><title>Welsh National #2</title></circle></a><a href="/variants/s9/db3n44k9n10k9n10k9n44r3~x2/"><circle cx="435.0" cy="153.3" r="4" fill="#3465a4"><title>VersaCold/Atlas (Corporate)</title></circle></a><a href="/variants/s9/dr12g6k1g2k1g1k6dr24w2~x2/"><circle cx="370.1" cy="116.9" r="4" fill="#3465a4"><title>Stuart/Stewart of Bute Hunting</title></circle></a><circle cx="382.5" cy="158.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

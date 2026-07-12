@@ -1,6 +1,15 @@
 ---
 title: "Paton (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Paton"
+  url: "/clan/paton/"
+- name: "Paton"
+  url: "/families/paton/"
+- name: "Paton"
+  url: "/tartans/p/pa/paton/"
 ---
 This is the **Paton (Personal)** sett — one scale-free proportion (`dr3g20k20g20lo2g2lo2`), colour order pattern
 [BGKGYGY](/stripes/bgkgygy/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r3g24k28g19y3g3y3~x2/"><circle cx="247.7" cy="186.2" r="4" fill="#3465a4"><title>Paton Family Tartan</title></circle></a><a href="/variants/s7/ly1dg11k6dg3ly1dg1ly1~x4/"><circle cx="334.2" cy="184.0" r="4" fill="#3465a4"><title>Angle, Green (Fashion)</title></circle></a><a href="/variants/s9/y3g27k5g5k32g5k5g27w3~x2/"><circle cx="261.1" cy="166.4" r="4" fill="#3465a4"><title>MacIver hunting</title></circle></a><a href="/variants/s5/g3dr1k14g14lo1~x4/"><circle cx="263.4" cy="181.5" r="4" fill="#3465a4"><title>Wcwm 1255</title></circle></a><a href="/variants/s7/g24r4g3k14g5r2g10~x2/"><circle cx="341.1" cy="195.0" r="4" fill="#3465a4"><title>Northcroft (Personal)</title></circle></a><a href="/variants/s7/g20dp2g3dp2g14k18g4~x2/"><circle cx="321.6" cy="202.8" r="4" fill="#3465a4"><title>Pringle, James (Fashion)</title></circle></a><a href="/variants/s8/y1g1r1g6k6g6w1g1~x4/"><circle cx="230.6" cy="186.6" r="4" fill="#3465a4"><title>Vermont</title></circle></a><a href="/variants/s6/r1g15k8g1k8g1~x2/"><circle cx="280.1" cy="183.9" r="4" fill="#3465a4"><title>Gunn VS</title></circle></a><a href="/variants/s6/r1g15k8g1k8g1~x4/"><circle cx="280.1" cy="183.9" r="4" fill="#3465a4"><title>Gunn VS</title></circle></a><a href="/variants/s6/r1k6g6ly1g6ly1~x6/"><circle cx="221.9" cy="221.6" r="4" fill="#3465a4"><title>Moore Caledonian (Personal)</title></circle></a><circle cx="277.2" cy="183.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

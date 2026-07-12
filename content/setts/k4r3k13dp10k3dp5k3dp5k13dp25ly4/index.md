@@ -1,6 +1,13 @@
 ---
 title: "Caledonian Orient (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Caledonian"
+  url: "/clan/caledonian/"
+- name: "Caledonian Orient"
+  url: "/tartans/c/ca/caledonian-orient/"
 ---
 This is the **Caledonian Orient (Corporate)** sett — one scale-free proportion (`k4r3k13dp10k3dp5k3dp5k13dp25ly4`), colour order pattern
 [KRKBKBKBKBY](/stripes/krkbkbkbkby/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k4r3k13dp10k3dp5k3dp5k13dp25y4~x2/"><circle cx="272.2" cy="179.1" r="4" fill="#3465a4"><title>Caledonian Oriental Airlines (Corporate)</title></circle></a><a href="/variants/s12/g5k4dp28k4r5k4r5k4dp28k4g5k4~x2/"><circle cx="264.6" cy="157.4" r="4" fill="#3465a4"><title>Wilson's No.007 Or Eglinton</title></circle></a><a href="/variants/s7/k4r5k4dp28k4g5k4~x2/"><circle cx="254.1" cy="175.5" r="4" fill="#3465a4"><title>Montgomrie/Montgomery of Eglinton</title></circle></a><a href="/variants/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/"><circle cx="251.1" cy="167.6" r="4" fill="#3465a4"><title>Ibrox</title></circle></a><a href="/variants/s11/k1y1dp7k8y1k8y1dp2y1k4y1~x4/"><circle cx="306.6" cy="182.7" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s9/db4y2db17k2r4k2db3k11db3~x2/"><circle cx="278.7" cy="177.1" r="4" fill="#3465a4"><title>Stone of Destiny</title></circle></a><a href="/variants/s8/k7r2k2ki6y1ki1y1ki4~x4~ki0604259/"><circle cx="217.3" cy="206.5" r="4" fill="#3465a4"><title>Printing Industries of America</title></circle></a><a href="/variants/s8/k21db3k12r2db12k2db12w2~x2/"><circle cx="269.4" cy="182.1" r="4" fill="#3465a4"><title>Inverness Caledonian Thistle Football Club</title></circle></a><a href="/variants/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/"><circle cx="218.4" cy="200.2" r="4" fill="#3465a4"><title>Process Safety Solutions Ltd</title></circle></a><a href="/variants/s9/k36r3db3r3k8db24r18y3r3~x2/"><circle cx="203.2" cy="147.8" r="4" fill="#3465a4"><title>Girl Guiding Scotland (Corporate)</title></circle></a><circle cx="253.6" cy="173.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

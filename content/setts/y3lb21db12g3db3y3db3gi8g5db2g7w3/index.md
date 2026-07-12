@@ -1,6 +1,11 @@
 ---
 title: "Holroyd, John (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Holroyd, John"
+  url: "/tartans/h/ho/holroyd-john-2/"
 ---
 This is the **Holroyd, John (Personal)** sett — one scale-free proportion (`y3lb21db12g3db3y3db3gi8g5db2g7w3`), colour order pattern
 [GWBGBGBGGBGW](/stripes/gwbgbgbggbgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w3g7db2g5dbi8db3ly3db3g3db12lb21ly3~x2~db1204274-dbi1406275/"><circle cx="115.9" cy="173.9" r="4" fill="#3465a4"><title>Holroyd, John (Personal</title></circle></a><a href="/variants/s10/ly7g11db4lb31db4g11dy4db14w3db4~x2/"><circle cx="141.0" cy="179.9" r="4" fill="#3465a4"><title>State Seal of Nebraska (Fashion)</title></circle></a><a href="/variants/s10/do3db2g19db6g2db6ly14w2dp4w2~x2/"><circle cx="142.3" cy="179.4" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society Commemorative Tartan</title></circle></a><a href="/variants/s12/db4ly4db26t5db5t8ly10g8dg5g5dg22n3~x2/"><circle cx="140.9" cy="192.0" r="4" fill="#3465a4"><title>State Seal of Montana (Fashion)</title></circle></a><a href="/variants/s9/r5w1db10g10w1y1g2lb2w1~x2/"><circle cx="150.6" cy="167.1" r="4" fill="#3465a4"><title>Mary, Queen of Scots</title></circle></a><a href="/variants/s13/ly3g4n14dp3n2dp18lb16g14n2dp3lb3n2lr1~x2/"><circle cx="162.7" cy="152.0" r="4" fill="#3465a4"><title>Enable (Corporate)</title></circle></a><a href="/variants/s11/dt2y10dg4lp5dg2lp3dg2lp5dg4dt15lr2~x2~y2302166-dg1806142/"><circle cx="156.4" cy="215.3" r="4" fill="#3465a4"><title>Elwyn Glen (Corporate)</title></circle></a><a href="/variants/s10/ly10db24ly5db13ly24db5g52db5dbi18w8~db1004274-dbi1406275/"><circle cx="150.7" cy="197.3" r="4" fill="#3465a4"><title>Leitrem County Crest (Fashion)</title></circle></a><a href="/variants/s9/dbi16db7ly4db2ly16db2g24db8lb11~x2~dbi1406275-db1004274/"><circle cx="124.9" cy="211.8" r="4" fill="#3465a4"><title>Wicklow County Crest (Fashion)</title></circle></a><a href="/variants/s16/db6ly2db2ly2db2do6g8do1w2do1g8dy2do4db8ly2db2~x2/"><circle cx="123.0" cy="188.7" r="4" fill="#3465a4"><title>Forbes of Druminnor Artifact Tartan</title></circle></a><circle cx="119.3" cy="175.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

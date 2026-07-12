@@ -1,6 +1,15 @@
 ---
 title: "MacDiarmid Clan Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDiarmid"
+  url: "/clan/macdiarmid/"
+- name: "MacDiarmid"
+  url: "/families/macdiarmid/"
+- name: "MacDiarmid"
+  url: "/tartans/m/ma/macdiarmid/"
 ---
 This is the **MacDiarmid Clan Tartan** sett — one scale-free proportion (`k12r2k28g12k1w3k1g12r4`), colour order pattern
 [KRKGKWKGR](/stripes/krkgkwkgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k12r2k28dg12k1w3k1dg12r4~x2/"><circle cx="295.9" cy="120.6" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><a href="/variants/s9/k6dg55g6k85g4k4dg12k2w5~dg1806142-g2408144/"><circle cx="317.0" cy="85.2" r="4" fill="#3465a4"><title>Dropkick Murphys</title></circle></a><a href="/variants/s10/k37g27w2k4r6k4w2g27k37y2~x2/"><circle cx="245.3" cy="118.3" r="4" fill="#3465a4"><title>Highlands of Durham #2</title></circle></a><a href="/variants/s8/dr4g4k1w2k1g18k32r4~x2/"><circle cx="253.6" cy="89.4" r="4" fill="#3465a4"><title>Hot Boontjie</title></circle></a><a href="/variants/s8/k83r16g56k2w5k2g56r5~x2/"><circle cx="268.2" cy="108.2" r="4" fill="#3465a4"><title>MacDiarmid #2</title></circle></a><a href="/variants/s8/g6k16w1k16g8k4g12r2~x2/"><circle cx="255.7" cy="174.3" r="4" fill="#3465a4"><title>MacAulay Hunting</title></circle></a><a href="/variants/s8/k22g5k2g5k11g33k2r4~x2/"><circle cx="276.2" cy="160.4" r="4" fill="#3465a4"><title>MacArthur-Fox 1993 (Personal)</title></circle></a><a href="/variants/s8/g3k6r2k6g3k2g16k1~x4/"><circle cx="290.4" cy="166.8" r="4" fill="#3465a4"><title>Glenbarr</title></circle></a><a href="/variants/s11/k8g1k20g1k4g1k3g4w2g24dy3~x2/"><circle cx="261.3" cy="110.6" r="4" fill="#3465a4"><title>Malone (2016)</title></circle></a><a href="/variants/s10/k7g6ly3k12dr19k12g62k62g12dr7/"><circle cx="233.4" cy="129.1" r="4" fill="#3465a4"><title>Danareth (Corporate)</title></circle></a><circle cx="272.1" cy="116.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

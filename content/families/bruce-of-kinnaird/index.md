@@ -1,6 +1,11 @@
 ---
 title: "Bruce of Kinnaird"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Bruce"
+  url: "/clan/bruce/"
 ---
 A family of [Clan Bruce](/clan/bruce/).
 

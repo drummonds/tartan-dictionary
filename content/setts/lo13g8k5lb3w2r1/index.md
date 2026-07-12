@@ -1,6 +1,15 @@
 ---
 title: "Ball Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ball"
+  url: "/clan/ball/"
+- name: "Ball"
+  url: "/families/ball/"
+- name: "Ball Hunting"
+  url: "/tartans/b/ba/ball-hunting/"
 ---
 This is the **Ball Hunting** sett — one scale-free proportion (`lo13g8k5lb3w2r1`), colour order pattern
 [RWWKGY](/stripes/rwwkgy/). It is recorded as **2 variants** — the same
@@ -23,6 +32,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lo13g8k5lb3w2r1~x4~lb3203246/"><circle cx="121.9" cy="161.9" r="4" fill="#3465a4"><title>Ball Hunting</title></circle></a><a href="/variants/s5/g37k22w4r15y3~x2/"><circle cx="172.3" cy="182.2" r="4" fill="#3465a4"><title>Oakley (2015)</title></circle></a><a href="/variants/s6/t6dp5k2g18r28w2~x2/"><circle cx="209.1" cy="148.3" r="4" fill="#3465a4"><title>Dundhuin Ladies (Personal)</title></circle></a><a href="/variants/s7/lg2r20g2dt15k2lg19lb2~x2/"><circle cx="121.2" cy="159.7" r="4" fill="#3465a4"><title>Wallace Memorial Centenary</title></circle></a><a href="/variants/s6/lo13t8r5k3w2g1~x4~r2109032/"><circle cx="134.4" cy="160.6" r="4" fill="#3465a4"><title>Ball</title></circle></a><a href="/variants/s6/lo13t8r5k3w2g1~x4/"><circle cx="134.8" cy="160.5" r="4" fill="#3465a4"><title>Ball (Name)</title></circle></a><a href="/variants/s7/o17n5db2w12db2y4g7~x2/"><circle cx="125.5" cy="200.6" r="4" fill="#3465a4"><title>Ontario, Northern</title></circle></a><a href="/variants/s5/k5db4g24r21w3~x2/"><circle cx="175.2" cy="201.0" r="4" fill="#3465a4"><title>Sachie Hara Scottish Check (Personal)</title></circle></a><a href="/variants/s7/dr36w3lo4g24w24k3lo6~x2/"><circle cx="134.4" cy="167.9" r="4" fill="#3465a4"><title>MacLachlan Dress</title></circle></a><a href="/variants/s6/g11w11k3y3dg36lo7~x2/"><circle cx="182.0" cy="151.7" r="4" fill="#3465a4"><title>Driver, RC</title></circle></a><circle cx="122.6" cy="161.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

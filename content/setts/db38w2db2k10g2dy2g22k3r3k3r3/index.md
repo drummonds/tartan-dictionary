@@ -1,6 +1,11 @@
 ---
 title: "Hunnisett/Edinchip (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Hunnisett/Edinchip"
+  url: "/tartans/h/hu/hunnisett-edinchip-2/"
 ---
 This is the **Hunnisett/Edinchip (Personal)** sett — one scale-free proportion (`db38w2db2k10g2dy2g22k3r3k3r3`), colour order pattern
 [BWBKGGGKRKRKRKGGGKBW](/stripes/bwbkgggkrkrkrkgggkbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s23/k3dy2k6g3k3g21db18r1db2r1db2r3db2r1db2r1db18g21k3g3k6lr2k3~x2/"><circle cx="140.0" cy="63.5" r="4" fill="#3465a4"><title>Wood (Clan)</title></circle></a><a href="/variants/s17/db12k1g1k1g1k1db9dr2k18dr2g9k1lo1k1lb1k1g12~x2/"><circle cx="124.2" cy="82.8" r="4" fill="#3465a4"><title>Nicolson Green Hunting</title></circle></a><a href="/variants/s15/w3db3r1db3r1db15r1db2g15y1g2k20y1k2y2~x2/"><circle cx="115.3" cy="77.3" r="4" fill="#3465a4"><title>Joseph Linn Family (Monohon 2012) (Personal)</title></circle></a><a href="/variants/s15/w3db3r1db3r1db15r1db2g15ly1g2k20ly1k2ly2~x2/"><circle cx="112.5" cy="77.4" r="4" fill="#3465a4"><title>Linn (Personal)</title></circle></a><a href="/variants/s15/w3db3k1db3k1db15k1db2g15y1g2k20y1k2y2~x2/"><circle cx="115.9" cy="78.4" r="4" fill="#3465a4"><title>Joseph Linn Family (Monohon) Name Tartan</title></circle></a><a href="/variants/s11/g20k1n1k1g20k10n2k2r2db20w1~x2~db1406275/"><circle cx="164.2" cy="76.3" r="4" fill="#3465a4"><title>Storrie</title></circle></a><a href="/variants/s18/dg2ly2dg2ly2dg2ly2dg18k1dg2k5db2k1db19w2db2w2db2w2~x2/"><circle cx="162.5" cy="83.2" r="4" fill="#3465a4"><title>Scottish Islamic (Corporate)</title></circle></a><a href="/variants/s18/g3dg2g2dg16g2dg2g2dg2g4n4k2n2k2n2k24r2k2w3~x2~g2203152-dg1806142/"><circle cx="119.1" cy="83.8" r="4" fill="#3465a4"><title>Barkway (Name)</title></circle></a><a href="/variants/s23/k3dy2k6g3k3g21db18r2db2r2db2r3db2r2db2r2db18g21k3g3k6lr2k3~x2/"><circle cx="107.5" cy="91.8" r="4" fill="#3465a4"><title>Wood Clan/Family Tartan</title></circle></a><a href="/variants/s18/w1k2g10db1g2db1g2k2db15o1db2o1db2o1db2o15k1ly1~x2~o1904043/"><circle cx="156.5" cy="84.5" r="4" fill="#3465a4"><title>Daniel Melrose Family Tartan</title></circle></a><circle cx="121.2" cy="63.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

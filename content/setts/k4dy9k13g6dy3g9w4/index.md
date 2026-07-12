@@ -1,6 +1,15 @@
 ---
 title: "Ramsay Hunting Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ramsay"
+  url: "/clan/ramsay/"
+- name: "Ramsay"
+  url: "/families/ramsay/"
+- name: "Ramsay Hunting"
+  url: "/tartans/r/ra/ramsay-hunting/"
 ---
 This is the **Ramsay Hunting Family Tartan** sett — one scale-free proportion (`k4dy9k13g6dy3g9w4`), colour order pattern
 [KGKGGGW](/stripes/kgkgggw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y8g16k6g6k6g6k16dr21k5/"><circle cx="103.4" cy="239.8" r="4" fill="#3465a4"><title>Martin Family Tartan</title></circle></a><a href="/variants/s7/k4lo9k13g6lo3g9w4~x2/"><circle cx="74.1" cy="252.6" r="4" fill="#3465a4"><title>Ramsay (Orange)</title></circle></a><a href="/variants/s7/k4b9k13g6b3g9w4~x2/"><circle cx="77.9" cy="256.0" r="4" fill="#3465a4"><title>Ramsay, Red</title></circle></a><a href="/variants/s9/k1db3k3g3r1g3k3g1r1~x2/"><circle cx="76.0" cy="260.1" r="4" fill="#3465a4"><title>Unidentified No 30</title></circle></a><a href="/variants/s9/lo4g10k3g3k3g3k9dr11k3~x4/"><circle cx="94.3" cy="236.9" r="4" fill="#3465a4"><title>Martin</title></circle></a><a href="/variants/s7/k11g12k2g12k12dp12w3~x2/"><circle cx="114.0" cy="245.2" r="4" fill="#3465a4"><title>Wilson's No 97</title></circle></a><a href="/variants/s6/k2g10lb2k9dp8g2~x2/"><circle cx="120.6" cy="238.6" r="4" fill="#3465a4"><title>Lennie Family Tartan</title></circle></a><a href="/variants/s7/k4g4y1g4k4db4k1~x2/"><circle cx="106.8" cy="264.6" r="4" fill="#3465a4"><title>MacKay Coat</title></circle></a><a href="/variants/s7/k6g6w1g6k6dp6k1~x4/"><circle cx="122.9" cy="237.6" r="4" fill="#3465a4"><title>Wilson's, No 64 or Abercrombie</title></circle></a><a href="/variants/s7/k9g9ly2g9k9db9k3~x2/"><circle cx="108.7" cy="261.3" r="4" fill="#3465a4"><title>Campbell of Breadalbane (Clan)</title></circle></a><circle cx="81.9" cy="255.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

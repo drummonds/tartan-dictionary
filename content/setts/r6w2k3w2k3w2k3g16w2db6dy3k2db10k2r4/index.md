@@ -1,6 +1,11 @@
 ---
 title: "Webb (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Webb"
+  url: "/tartans/w/we/webb/"
 ---
 This is the **Webb (Personal)** sett — one scale-free proportion (`r6w2k3w2k3w2k3g16w2db6dy3k2db10k2r4`), colour order pattern
 [KBKGBWGKWKWKWRWKWKWKGWBGKBKR](/stripes/kbkgbwgkwkwkwrwkwkwkgwbgkbkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s31/y4k3w2k2dg12b2dg12b2dg12k2w2k3y2k3b4k3y2k3w2k2g12b2g12b26k2w2k3y2k3b4k3~x2/"><circle cx="46.8" cy="81.5" r="4" fill="#3465a4"><title>Hawick</title></circle></a><a href="/variants/s20/lb3k3dy1k1dy1k1dy1k1dy3lb2k1y1k1dy1k2db2w7k1w2dy1~x2/"><circle cx="17.0" cy="132.4" r="4" fill="#3465a4"><title>Unidentified #18</title></circle></a><a href="/variants/s26/r5k3db10k3g20k3r5k3db5k3r5db5k3db5r5k3db5k3r5k3g20k3db10k3r5w3~x2/"><circle cx="41.6" cy="139.0" r="4" fill="#3465a4"><title>Schneidersohne Centenary</title></circle></a><a href="/variants/s22/k2r2k20r2g11r11lb2t11r2g19ly5g19r2t11lb2r11g11r2k20r2k2lb2~x2~r1506019-g2203152-lb3103284-t2503227-ly3307090/"><circle cx="74.6" cy="113.3" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/variants/s21/oi16r2oi2r2oi2k16dg2b2dg2b2dg10r2o10b2o2b2o2k16oi15r2oi2~x2~oi2600000-b2409265/"><circle cx="61.9" cy="108.1" r="4" fill="#3465a4"><title>Cherry Valley New York</title></circle></a><a href="/variants/s24/r12db6k8g6r1g6r2g3k1y2k1g1r1g2r1g7k9db11k1w2k1db11k9db8~x2/"><circle cx="65.3" cy="108.7" r="4" fill="#3465a4"><title>MacDonald of Pr Edward Island Tartan</title></circle></a><a href="/variants/s22/db4k3g17k17db15k3r4k3db15k17w3db4w25db3w6db3w25db4w3k17g17k3~x2/"><circle cx="39.1" cy="134.0" r="4" fill="#3465a4"><title>Argyle Dress</title></circle></a><a href="/variants/s24/db11k2dbi2w2r2k16g16k2g16k16db16dbi2w2r2db16k16g16k2g16dbi2w2r2k2db11~x2~db1404245-dbi1406275/"><circle cx="66.0" cy="126.2" r="4" fill="#3465a4"><title>Scottish American Military (Fashion)</title></circle></a><a href="/variants/s25/r8g8r2k14r2k2lb2r2k14r2g8r8lb2db8r2g14y2g2y3g2y2g14r2db8lb2~x2/"><circle cx="49.7" cy="122.3" r="4" fill="#3465a4"><title>Gordonstoun (1957)</title></circle></a><a href="/variants/s22/k15w3db3w18db2r2db2w19db3w3k15w2g13r2g14w2k15db10k2db2k2db10/"><circle cx="56.0" cy="128.1" r="4" fill="#3465a4"><title>Colquhoun Dress Clan Tartan</title></circle></a><circle cx="14.0" cy="108.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

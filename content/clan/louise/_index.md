@@ -1,8 +1,11 @@
 ---
 title: "Clan Louise"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
-*A clan defined by its tartans — the dictionary holds no separate clan history for it, only the cloth that carries its name.*
+Created for the 1871 wedding of the Marquis of Lorne to Princess Louise; companion to the Lorne sett.
 
 ## Tartan
 

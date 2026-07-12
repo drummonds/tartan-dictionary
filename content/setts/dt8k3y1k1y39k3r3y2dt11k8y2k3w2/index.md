@@ -1,6 +1,11 @@
 ---
 title: "Afghanistan Memorial"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Afghanistan Memorial"
+  url: "/tartans/a/af/afghanistan-memorial-2/"
 ---
 This is the **Afghanistan Memorial** sett — one scale-free proportion (`dt8k3y1k1y39k3r3y2dt11k8y2k3w2`), colour order pattern
 [BKGKGKRGBKGKW](/stripes/bkgkgkrgbkgkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dr5r2k3dr4g43dr6k7lb2dr47g2dr3r2g4~x2/"><circle cx="288.6" cy="82.2" r="4" fill="#3465a4"><title>Glen Coe (District)</title></circle></a><a href="/variants/s13/y30k2g2k2g2lb3k1lb2k1lb1g12lo2k6~x4/"><circle cx="229.0" cy="71.2" r="4" fill="#3465a4"><title>Lomond (1983)</title></circle></a><a href="/variants/s12/dr32db2k8lo1k2lb2k2g18dr10k2dr2lb2~x4/"><circle cx="261.9" cy="65.6" r="4" fill="#3465a4"><title>Stewart - Pr Ch Ed - Pendleton</title></circle></a><a href="/variants/s11/g28k1g1k6w1k6dp1k1dp4r3dp14~x4/"><circle cx="216.3" cy="86.2" r="4" fill="#3465a4"><title>New Hampshire</title></circle></a><a href="/variants/s12/lb4dy1g1dr30g22k3g22dr30g1dy1lb4g2~x2/"><circle cx="289.9" cy="100.4" r="4" fill="#3465a4"><title>Connemarra Irish District Tartan</title></circle></a><a href="/variants/s14/dg42k2dg12w2r3k2r3w2k2dp12k4r3w4k3~x2/"><circle cx="267.9" cy="75.2" r="4" fill="#3465a4"><title>MacFarlane Hunting (MacGregor Hastie)</title></circle></a><a href="/variants/s11/ly24k7db1k1w1k1dy4dr3k1dr2ly1~x4~ly2503076/"><circle cx="250.1" cy="61.0" r="4" fill="#3465a4"><title>U.S. Customs &amp; Border Protection</title></circle></a><a href="/variants/s10/g8dr6k4dr64n1k28dr6g40dr6k4~x2/"><circle cx="303.9" cy="93.7" r="4" fill="#3465a4"><title>Laporte</title></circle></a><a href="/variants/s15/r4g3k11n3db3n30k1w4k1g3k3g3k3n12r2~x2/"><circle cx="228.4" cy="59.5" r="4" fill="#3465a4"><title>Trew 40th (Personal)</title></circle></a><a href="/variants/s18/g14r6b2k3r65k2lb2r6k34r6lb2k2r4g66r12b2k2lb4/"><circle cx="215.0" cy="42.5" r="4" fill="#3465a4"><title>Stewart of Ardshiel</title></circle></a><circle cx="269.4" cy="57.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Fiona"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Fiona"
+  url: "/tartans/f/fi/fiona/"
 ---
 This is the **Fiona** sett — one scale-free proportion (`w16n2w2ly2w2n24wi2ly1wi1ly1wi12n1ly2`), colour order pattern
 [WBWYWBWYWYWBY](/stripes/wbwywbwywywby/). It is recorded as a single **variant**, below.

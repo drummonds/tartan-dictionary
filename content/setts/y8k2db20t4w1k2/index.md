@@ -1,6 +1,11 @@
 ---
 title: "Solberg-Bell (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Solberg-Bell"
+  url: "/tartans/s/so/solberg-bell/"
 ---
 This is the **Solberg-Bell (Personal)** sett — one scale-free proportion (`y8k2db20t4w1k2`), colour order pattern
 [GKBBWK](/stripes/gkbbwk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/ly8k2db20lb4w1k2~x4/"><circle cx="247.0" cy="134.8" r="4" fill="#3465a4"><title>Solberg-Bell</title></circle></a><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="230.0" cy="140.2" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s5/k5w2y36b47r3~x2/"><circle cx="309.8" cy="153.7" r="4" fill="#3465a4"><title>Cornish, National Day</title></circle></a><a href="/variants/s8/lb2dbi19k4dbi4k4g9db2k1~x4~dbi1404245-db1106275/"><circle cx="246.1" cy="142.4" r="4" fill="#3465a4"><title>Dollar Academy (1999)</title></circle></a><a href="/variants/s6/lb12g16k12g24dp75y4/"><circle cx="261.1" cy="145.2" r="4" fill="#3465a4"><title>Widows Sons Scotland Dress</title></circle></a><a href="/variants/s7/dp6r2dp1g25db16k2db4~x2~dp1105325/"><circle cx="251.7" cy="139.6" r="4" fill="#3465a4"><title>Laurie Clan Tartan</title></circle></a><a href="/variants/s7/db50g26k9g4lb2dr2g10~x2/"><circle cx="272.1" cy="131.0" r="4" fill="#3465a4"><title>Java Saint Andrew Society Hunting</title></circle></a><a href="/variants/s6/lb3k3lb3k3n15dr1~x4/"><circle cx="267.3" cy="165.3" r="4" fill="#3465a4"><title>Tiree Grey</title></circle></a><a href="/variants/s7/dp6dy2dp1g25db16k2db4~x2~dp1105325/"><circle cx="256.8" cy="142.1" r="4" fill="#3465a4"><title>Lawrie Clan Tartan</title></circle></a><a href="/variants/s7/dp6y2dp1g25db16k2db4~x2~dp1105325/"><circle cx="255.3" cy="141.7" r="4" fill="#3465a4"><title>Lowry Clan Tartan</title></circle></a><circle cx="283.5" cy="145.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "College of New Caledonia"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "College of New Caledonia"
+  url: "/tartans/c/co/college-of-new-caledonia-2/"
 ---
 This is the **College of New Caledonia** sett — one scale-free proportion (`db52lo23y6dg5w1r1`), colour order pattern
 [BYGGWR](/stripes/byggwr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db50g25ly3lb8r1w1r1~x2/"><circle cx="333.7" cy="88.8" r="4" fill="#3465a4"><title>Wells (2014)</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="403.7" cy="109.5" r="4" fill="#3465a4"><title>Pool, Robert David (Personal)</title></circle></a><a href="/variants/s6/g20dr10y2db100w1lg10~g2208144-lg3105139/"><circle cx="463.8" cy="104.7" r="4" fill="#3465a4"><title>Ravetta, Phil (Fife)</title></circle></a><a href="/variants/s8/r2w1r5g5lo1g10db40y2~x2/"><circle cx="360.7" cy="82.1" r="4" fill="#3465a4"><title>St. Andrew Quebec City (Corporate)</title></circle></a><a href="/variants/s6/dt60w11r5db5k1y4~x2/"><circle cx="387.9" cy="66.6" r="4" fill="#3465a4"><title>Christie (London) Hunting</title></circle></a><a href="/variants/s6/w2db45g9r1n9dr1~x2/"><circle cx="430.0" cy="101.2" r="4" fill="#3465a4"><title>Wilton (Name)</title></circle></a><a href="/variants/s7/db50g25y3n8r1w1r1~x2/"><circle cx="362.9" cy="98.2" r="4" fill="#3465a4"><title>Wells (2014)</title></circle></a><a href="/variants/s5/db25r1g1n9w4~x2/"><circle cx="366.5" cy="149.2" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><a href="/variants/s8/ly16r4ly4dy2db56r18dbi1db7~x2~ly3307090-dbi1106275/"><circle cx="345.7" cy="89.6" r="4" fill="#3465a4"><title>Union Memorial Tartan (Military)</title></circle></a><a href="/variants/s7/db60w2r10dg6w4r15y10~x2/"><circle cx="325.0" cy="118.9" r="4" fill="#3465a4"><title>Iberia Dress, Blue (Fashion)</title></circle></a><circle cx="342.1" cy="94.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

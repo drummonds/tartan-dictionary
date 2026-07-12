@@ -1,6 +1,11 @@
 ---
 title: "Morris of Wales"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Morris"
+  url: "/clan/morris/"
 ---
 A family of [Clan Morris](/clan/morris/).
 

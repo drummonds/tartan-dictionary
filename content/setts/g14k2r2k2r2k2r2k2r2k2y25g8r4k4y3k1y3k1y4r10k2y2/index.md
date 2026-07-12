@@ -1,6 +1,11 @@
 ---
 title: "New Brunswick"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "New Brunswick"
+  url: "/tartans/n/ne/new-brunswick/"
 ---
 This is the **New Brunswick** sett — one scale-free proportion (`g14k2r2k2r2k2r2k2r2k2y25g8r4k4y3k1y3k1y4r10k2y2`), colour order pattern
 [GKRGKGKGKRGGKRKRKRKRKG](/stripes/gkrgkgkgkrggkrkrkrkrkg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r47dg14k5y2k3dg7k3y2k5dg14~x2/"><circle cx="214.6" cy="86.6" r="4" fill="#3465a4"><title>Harbor Club</title></circle></a><a href="/variants/s22/ly3g30r7g2r1g8r1g2r7g16k18lb8r14g8r1g1r7g1r1g8r27ly3~x2/"><circle cx="207.6" cy="75.3" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s16/r4k1y3k1r20k4g9r3g9k4lb3k1g7k2r6y2~x2/"><circle cx="169.4" cy="102.6" r="4" fill="#3465a4"><title>Brown-Wells (Personal)</title></circle></a><a href="/variants/s18/g14r6b2k3r65k2lb2r6k34r6lb2k2r4g66r12b2k2lb4/"><circle cx="215.0" cy="42.5" r="4" fill="#3465a4"><title>Stewart of Ardshiel</title></circle></a><a href="/variants/s12/do22w2k3w1k1w1k1w7o5k1o2w1~x4/"><circle cx="140.1" cy="70.2" r="4" fill="#3465a4"><title>Waverley Check</title></circle></a><a href="/variants/s15/k3ly8do2ly8dt11do2ly4dr4do27dt1do2dt2do2dt13do3~x2/"><circle cx="216.3" cy="102.2" r="4" fill="#3465a4"><title>Strathdon District Tartan</title></circle></a><a href="/variants/s12/k10r26k2r4k2r26k3dg36k3g30k3y2~y2400000/"><circle cx="160.2" cy="113.7" r="4" fill="#3465a4"><title>Pope Welsh Name Tartan</title></circle></a><a href="/variants/s19/r1k3g2k2n2k1n3k1n2r3k1g16k1n18y1g1n2k2r1~x2/"><circle cx="207.7" cy="82.7" r="4" fill="#3465a4"><title>Craig Family Tartan</title></circle></a><a href="/variants/s17/k2t2r32g32k24t18r32t2k2t2r32t18k24g32r32t2k1~x2/"><circle cx="191.7" cy="106.0" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/variants/s29/dt13r6dt2r6w1g26r2dt26w1r26w1dt6r2g2r2dt13r2g2r2dt6w1r26w1dt26g26w1r6dt2r6~x2/"><circle cx="241.2" cy="96.8" r="4" fill="#3465a4"><title>Unnamed C18/19th - Antigonish (A) #2</title></circle></a><circle cx="183.5" cy="84.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

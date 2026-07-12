@@ -48,7 +48,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/derry/"><img src="/variants/s9/w6lb36y12g19dg6r6dg6r28dg4/sett.png" alt="Derry" width="140"><br><strong>Derry</strong></a></li>
 <li><a class="tartan" href="/variants/s16/y5k5w15k32w1k2y1k32w15k5w5db4y2k1w2db4~x2/"><strong>Deudon</strong></a></li>
 <li><a class="tartan" href="/families/devarr/"><img src="/variants/s14/do22g26dr4g26do22dy3do3dy3do3dy31do3dy3do3dy3~x2/sett.png" alt="Devarr" width="140"><br><strong>Devarr</strong></a></li>
-<li><a class="tartan" href="/families/devon/"><img src="/variants/s14/db24g4dg2g8dg2g4db12g3r22dy3lb8g3r22dy6~x2/sett.png" alt="Devon" width="140"><br><strong>Devon</strong></a></li>
+<li><a class="tartan" href="/families/devon/"><img src="/variants/s7/n5g4lr1g4dy4dg4y1~x4~g1903114-dg1405139/sett.png" alt="Devon" width="140"><br><strong>Devon</strong></a></li>
 <li><a class="tartan" href="/families/dewar/"><img src="/variants/s6/dg1r1dg7r4ri7r1~x4~dg1806142-r1807008-ri2109032/sett.png" alt="Dewar" width="140"><br><strong>Dewar</strong></a></li>
 <li><a class="tartan" href="/variants/s6/dg30dr2dg8dr1dg5w2/"><strong>Dewi Sant</strong></a></li>
 <li><a class="tartan" href="/families/diana/"><img src="/variants/s12/dy46lb3dy7g2r2g2w2g11lb6db2lb3r2~x2/sett.png" alt="Diana" width="140"><br><strong>Diana</strong></a></li>
@@ -56,7 +56,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/dickie/"><img src="/variants/s8/dg8o2dg12k6dg3db6o24k4~x2~dg1806142-o2208036/sett.png" alt="Dickie" width="140"><br><strong>Dickie</strong></a></li>
 <li><a class="tartan" href="/families/dickson/"><img src="/variants/s15/db8lb8db6g8db14k14db8k14y4db60g4r4g4db13w4/sett.png" alt="Dickson" width="140"><br><strong>Dickson</strong></a></li>
 <li><a class="tartan" href="/families/digital/"><img src="/variants/s10/b6k3b10o5b2o2b2o2b7w2~x2/sett.png" alt="Digital" width="140"><br><strong>Digital</strong></a></li>
-<li><a class="tartan" href="/families/dinwiddie/"><img src="/variants/s10/y6db3k3db36k10n18db6k2g4k3~x2/sett.png" alt="Dinwiddie" width="140"><br><strong>Dinwiddie</strong></a></li>
+<li><a class="tartan" href="/families/dinwiddie/"><img src="/variants/s10/y7n2k2n41k12g22n6k2r4k2~x2/sett.png" alt="Dinwiddie" width="140"><br><strong>Dinwiddie</strong></a></li>
 <li><a class="tartan" href="/variants/s10/dy12n2k2n42k13g25n6k2r4k10~x2/"><strong>Dinwoodie</strong></a></li>
 <li><a class="tartan" href="/variants/s12/o3dt1dp3dr8dg4dr3dg17dp11db6dp4db21dt1~x2/"><strong>Doane</strong></a></li>
 <li><a class="tartan" href="/families/dobson/"><img src="/variants/s6/g15y1dy2db5k4dg5~x6/sett.png" alt="Dobson" width="140"><br><strong>Dobson</strong></a></li>
@@ -79,7 +79,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/doune/"><img src="/variants/s9/n10lb11k2lb3k2lb2k8n40w4~x2/sett.png" alt="Doune" width="140"><br><strong>Doune</strong></a></li>
 <li><a class="tartan" href="/variants/s22/db14g2db2g14k2g14k2g2k9r2k8y2k9g2k2g14k2g14db2g2db14w2~x2/"><strong>Dow</strong></a></li>
 <li><a class="tartan" href="/variants/s22/b14dg2b2dg14k2dg14k2dg2k9r2k8ly2k9dg2k2dg14k2dg14b2dg2b14w2~x2/"><strong>Dow-Aerlift</strong></a></li>
-<li><a class="tartan" href="/families/downie/"><img src="/variants/s11/g3lb3g5r4g28db8w3db3w24r2k2~x2/sett.png" alt="Downie" width="140"><br><strong>Downie</strong></a></li>
+<li><a class="tartan" href="/families/downie/"><img src="/variants/s10/lb24k2r2lb2db12g28r4g5lb3g3~x2/sett.png" alt="Downie" width="140"><br><strong>Downie</strong></a></li>
 <li><a class="tartan" href="/families/downs/"><img src="/variants/s8/db10y2dg2w1dg18r1k45r2~x2/sett.png" alt="Downs" width="140"><br><strong>Downs</strong></a></li>
 <li><a class="tartan" href="/variants/s15/dg38k3dg3k3db6n1k2r2k2n1db6k3db3k3db19~x2/"><strong>Doyel</strong></a></li>
 <li><a class="tartan" href="/families/doyle/"><img src="/variants/s7/g24r9g4dg19y2dg6g7~x2/sett.png" alt="Doyle" width="140"><br><strong>Doyle</strong></a></li>
@@ -89,14 +89,14 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/druid/"><img src="/variants/s16/db3n2db3y2w4y2k8y2w4y2r8y2w20y2w62y2/sett.png" alt="Druid" width="140"><br><strong>Druid</strong></a></li>
 <li><a class="tartan" href="/families/drummond/"><img src="/variants/s12/db24r7g7r39db4r2db2r5g42r7db6r7~x2/sett.png" alt="Drummond" width="140"><br><strong>Drummond</strong></a></li>
 <li><a class="tartan" href="/families/drummond-of-megginch/"><img src="/variants/s15/r26db2r6db6r126lb6r6db38r6dg6r6dg130r19db6r18~r2109032-db0906265-lb3203246-dg1405139/sett.png" alt="Drummond of Megginch" width="140"><br><strong>Drummond of Megginch</strong></a></li>
-<li><a class="tartan" href="/families/drummond-of-perth/"><img src="/variants/s9/r40y1k2n1w15r5k5n5w1~x2/sett.png" alt="Drummond of Perth" width="140"><br><strong>Drummond of Perth</strong></a></li>
+<li><a class="tartan" href="/families/drummond-of-perth/"><img src="/variants/s9/r36w1db3y1g16r8db3lb2w1/sett.png" alt="Drummond of Perth" width="140"><br><strong>Drummond of Perth</strong></a></li>
 <li><a class="tartan" href="/families/drummond-of-strathallan/"><img src="/variants/s82/db3y3g5w3g5y3k5r5w3r5k3y8g5y8k3r3k3r3k3r3k3y8g5y8k3r5w3r5k5y3g5w3g5y3db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3y8g5y3g5y8k13w1db3w1k13r5w3r5w3r5k3y3g13k3g13k3g13y3k3r5w3r5w3r5k3y3g5w3~x2/sett.png" alt="Drummond of Strathallan" width="140"><br><strong>Drummond of Strathallan</strong></a></li>
 <li><a class="tartan" href="/families/dryburgh/"><img src="/variants/s11/dy2k10n2k2n2k3n10o16y2o2y2~x2/sett.png" alt="Dryburgh" width="140"><br><strong>Dryburgh</strong></a></li>
 <li><a class="tartan" href="/families/dryer/"><img src="/variants/s27/db15k1db1k1db1k7dr8k1y3k1dr8k7db8k5db8k7dr8k1y3k1dr8k7db1k1db1k1db9~x4~db1406275/sett.png" alt="Dryer" width="140"><br><strong>Dryer</strong></a></li>
 <li><a class="tartan" href="/variants/s11/dg42k10lr2k2r2k2dg10r6k2r3dg2~x2/"><strong>Dryfe</strong></a></li>
 <li><a class="tartan" href="/families/duffy/"><img src="/variants/s7/g8dg60w1k33g9y4g4~x2/sett.png" alt="Duffy" width="140"><br><strong>Duffy</strong></a></li>
 <li><a class="tartan" href="/families/duminiak/"><img src="/variants/s6/n47w6r24w3db5y3~x2/sett.png" alt="Duminiak" width="140"><br><strong>Duminiak</strong></a></li>
-<li><a class="tartan" href="/families/dunbar/"><img src="/variants/s6/g4k2g28k8dg21g3~x2/sett.png" alt="Dunbar" width="140"><br><strong>Dunbar</strong></a></li>
+<li><a class="tartan" href="/families/dunbar/"><img src="/variants/s6/k4r26k4w2k13y4~x2/sett.png" alt="Dunbar" width="140"><br><strong>Dunbar</strong></a></li>
 <li><a class="tartan" href="/families/dunbar-of-pitgaveny/"><img src="/variants/s4/n19w1n19r1~x2/sett.png" alt="Dunbar of Pitgaveny" width="140"><br><strong>Dunbar of Pitgaveny</strong></a></li>
 <li><a class="tartan" href="/families/dunbarton/"><img src="/variants/s11/ly30r2ly2k5ly3y2ly3y22ly3k2ly3~x2~ly3307090-y2203076/sett.png" alt="Dunbarton" width="140"><br><strong>Dunbarton</strong></a></li>
 <li><a class="tartan" href="/families/dunbartonshire/"><img src="/variants/s9/g11k2g1dr4db1dr4db13lb2db1~x4/sett.png" alt="Dunbartonshire" width="140"><br><strong>Dunbartonshire</strong></a></li>
@@ -105,10 +105,10 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/duncan-of-sketraw/"><img src="/variants/s17/r2k6g2k2g14k1y2k1t5r1t5k1w2k1g14k1t2~x2/sett.png" alt="Duncan of Sketraw" width="140"><br><strong>Duncan of Sketraw</strong></a></li>
 <li><a class="tartan" href="/families/dundas/"><img src="/variants/s7/db9r24g24k24db24y2db9/sett.png" alt="Dundas" width="140"><br><strong>Dundas</strong></a></li>
 <li><a class="tartan" href="/families/dundee/"><img src="/variants/s10/g3lr2g3dr1g6dr3g3dr1g3lr2~x4/sett.png" alt="Dundee" width="140"><br><strong>Dundee</strong></a></li>
-<li><a class="tartan" href="/families/dundhuin/"><img src="/variants/s5/dg62y17ly12n8o8~x2/sett.png" alt="Dundhuin" width="140"><br><strong>Dundhuin</strong></a></li>
+<li><a class="tartan" href="/families/dundhuin/"><img src="/variants/s6/lr6o5k2y18r28w2~x2/sett.png" alt="Dundhuin" width="140"><br><strong>Dundhuin</strong></a></li>
 <li><a class="tartan" href="/families/dunedin/"><img src="/variants/s9/k3r3g21r8ri3r3k3lb25w3~x2~r2109032-ri2806019/sett.png" alt="Dunedin" width="140"><br><strong>Dunedin</strong></a></li>
 <li><a class="tartan" href="/families/dunkeld/"><img src="/variants/s15/ly2dy2w12dy2ly2k6dr8k1w2k1dr8k6do8k1ly2~x2/sett.png" alt="Dunkeld" width="140"><br><strong>Dunkeld</strong></a></li>
-<li><a class="tartan" href="/families/dunlop/"><img src="/variants/s8/k3r1k18w1ly18g1ly1w2~x4/sett.png" alt="Dunlop" width="140"><br><strong>Dunlop</strong></a></li>
+<li><a class="tartan" href="/families/dunlop/"><img src="/variants/s8/k3r1k30w1db28r1db1w3~x2/sett.png" alt="Dunlop" width="140"><br><strong>Dunlop</strong></a></li>
 <li><a class="tartan" href="/families/dunn/"><img src="/variants/s11/db6k2dp14k5dp14k3dt4k6dt24w2dp6~x2~db1106275-dt1001300/sett.png" alt="Dunn" width="140"><br><strong>Dunn</strong></a></li>
 <li><a class="tartan" href="/families/dunoon/"><img src="/variants/s4/w2g13b13w2~x6/sett.png" alt="Dunoon" width="140"><br><strong>Dunoon</strong></a></li>
 <li><a class="tartan" href="/families/durie/"><img src="/variants/s9/db12dr1db1dr1db1dr4g12y1g2~x4/sett.png" alt="Durie" width="140"><br><strong>Durie</strong></a></li>

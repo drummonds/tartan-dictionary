@@ -1,6 +1,15 @@
 ---
 title: "MacWilliam"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacWilliam"
+  url: "/clan/macwilliam/"
+- name: "MacWilliam"
+  url: "/families/macwilliam/"
+- name: "MacWilliam"
+  url: "/tartans/m/ma/macwilliam/"
 ---
 This is the **MacWilliam** sett — one scale-free proportion (`r10dbi24r4k30g36db5`), colour order pattern
 [BGKRBR](/stripes/bgkrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k4t21dy10y4k20r6t3~x2/"><circle cx="108.7" cy="195.6" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><a href="/variants/s7/dp9k7g5r4g7k1y1~x2/"><circle cx="105.4" cy="204.0" r="4" fill="#3465a4"><title>MacLaren #2</title></circle></a><a href="/variants/s7/r2k1db8k8g8k1y2~x2/"><circle cx="101.8" cy="190.8" r="4" fill="#3465a4"><title>Campbell of Cawdor Clan Tartan</title></circle></a><a href="/variants/s7/r2k9g12db8r1db1w1~x4/"><circle cx="128.1" cy="164.1" r="4" fill="#3465a4"><title>Genet, Citizen (Commem)</title></circle></a><a href="/variants/s7/g17y2k14r2db9r2db10~x2/"><circle cx="111.3" cy="194.7" r="4" fill="#3465a4"><title>MacDonald (Flora.. )</title></circle></a><a href="/variants/s6/r1g14k14r2db14lb1~x2/"><circle cx="125.4" cy="171.5" r="4" fill="#3465a4"><title>Wilson's No.221</title></circle></a><a href="/variants/s7/dp6k3dp21k23w3g24r3~x2/"><circle cx="115.3" cy="187.1" r="4" fill="#3465a4"><title>Colquhoun #3</title></circle></a><a href="/variants/s6/o3k17dt11o2oi20w2~x2~dt1600000-oi2500000/"><circle cx="128.8" cy="181.1" r="4" fill="#3465a4"><title>Commonwealth Games Council (Corp.)</title></circle></a><a href="/variants/s8/k18db12k5g4r6g12k2ly4~x2/"><circle cx="109.1" cy="187.5" r="4" fill="#3465a4"><title>MacLeish</title></circle></a><a href="/variants/s6/r5g18y2k14lb5k4~x2/"><circle cx="119.0" cy="189.8" r="4" fill="#3465a4"><title>Dahlonega (District)</title></circle></a><circle cx="100.1" cy="199.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

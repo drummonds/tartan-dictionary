@@ -1,6 +1,11 @@
 ---
 title: "Scott of Buccleuch"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Scott"
+  url: "/clan/scott/"
 ---
 A family of [Clan Scott](/clan/scott/).
 

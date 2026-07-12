@@ -1,6 +1,15 @@
 ---
 title: "Robb Dress (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Robb"
+  url: "/clan/robb/"
+- name: "Robb"
+  url: "/families/robb/"
+- name: "Robb Dress"
+  url: "/tartans/r/ro/robb-dress/"
 ---
 This is the **Robb Dress (Personal)** sett — one scale-free proportion (`dp2r1dg26r18dp26y1r1dp2`), colour order pattern
 [BRGBRGRB](/stripes/brgbrgrb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg28r4dp25r22dg27r4dp2~x2/"><circle cx="326.4" cy="230.3" r="4" fill="#3465a4"><title>Glasgow, Ciity of (District)</title></circle></a><a href="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r2208029-ri2209032/"><circle cx="243.4" cy="196.5" r="4" fill="#3465a4"><title>Logan Light</title></circle></a><a href="/variants/s8/dg28r4dp25w5r22dg27r4dp2~x2/"><circle cx="263.2" cy="196.4" r="4" fill="#3465a4"><title>New Glasgow (Canada)</title></circle></a><a href="/variants/s7/dp8r3y1r3dg14r3y1~x4/"><circle cx="285.8" cy="196.8" r="4" fill="#3465a4"><title>Logan - 1819 (with yellow)</title></circle></a><a href="/variants/s10/r4n4dt2n24lb1dt14n2r18n4dt3~x4/"><circle cx="348.3" cy="171.0" r="4" fill="#3465a4"><title>Marshall</title></circle></a><a href="/variants/s8/o13dg16g4dp4g4dp34y1dp1~x2/"><circle cx="349.5" cy="138.6" r="4" fill="#3465a4"><title>Heather Mead (Personal)</title></circle></a><a href="/variants/s7/dp9b4dp1b4dg15r4dp1~x2/"><circle cx="273.0" cy="207.6" r="4" fill="#3465a4"><title>Logan, Light</title></circle></a><a href="/variants/s9/ri4r2ri1dg16r2ri11r1ri1r2~x2~ri2109032-r2109013/"><circle cx="336.5" cy="177.5" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang</title></circle></a><a href="/variants/s9/g5dr1r4db2r20g12db16r4dr1~x2/"><circle cx="260.8" cy="163.7" r="4" fill="#3465a4"><title>Diana Princess of Wales</title></circle></a><a href="/variants/s9/dg20db2dg2db2dg2db8r24db2r3~x2/"><circle cx="291.2" cy="184.2" r="4" fill="#3465a4"><title>Lindsay Clan Tartan</title></circle></a><circle cx="318.0" cy="156.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

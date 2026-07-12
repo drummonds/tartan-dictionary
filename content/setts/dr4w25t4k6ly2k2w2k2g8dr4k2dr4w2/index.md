@@ -1,6 +1,11 @@
 ---
 title: "Hay-Stewart"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Hay-Stewart"
+  url: "/tartans/h/ha/hay-stewart/"
 ---
 This is the **Hay-Stewart** sett — one scale-free proportion (`dr4w25t4k6ly2k2w2k2g8dr4k2dr4w2`), colour order pattern
 [BWBKYKWKGBKBWBKBGKWKYKBW](/stripes/bwbkykwkgbkbwbkbgkwkykbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w15db2k3y1k1w1k1g3r4k1r1w1~x2/"><circle cx="169.9" cy="79.1" r="4" fill="#3465a4"><title>Stewart Dress MINI Tartan</title></circle></a><a href="/variants/s14/w9r5w29db3k10ly2k3w3k3g12r6k3r3w2~x2/"><circle cx="132.1" cy="93.5" r="4" fill="#3465a4"><title>Hay - Stewart (Fashion)</title></circle></a><a href="/variants/s13/w9r5w29k10y2k3w3k3g12r6k3r3w2~x2/"><circle cx="160.7" cy="110.6" r="4" fill="#3465a4"><title>Hay, or Stewart</title></circle></a><a href="/variants/s13/w9r5w29k10y2k3w3k3dg12r6k3r3w2~x2/"><circle cx="160.6" cy="109.0" r="4" fill="#3465a4"><title>Hay or Stewart</title></circle></a><a href="/variants/s14/dr2w24t3w3k6lo1k1w1k1g8dr4k1dr2w1~x4/"><circle cx="186.0" cy="57.2" r="4" fill="#3465a4"><title>Stewart Victoria (Royal)</title></circle></a><a href="/variants/s21/r3g6k1r2k1g6db5r1k3y1k1y1k3w3k3w18k1r2k1w6r3/"><circle cx="88.5" cy="68.0" r="4" fill="#3465a4"><title>Anderson P</title></circle></a><a href="/variants/s31/k2lo2k3w2k2g16dr2w24dr2g16k2w2k3lo2k4db4k4lo2k3w2k2db12w24dr2g12k2w2k3lo2k4db2~x2/"><circle cx="60.5" cy="70.4" r="4" fill="#3465a4"><title>Hawick Dress (District)</title></circle></a><a href="/variants/s22/g3lo19w2db3w3db6w2db3w2y4db14y4w2db3w2db6w3db3w2lo19g3k2~x2~w4000000/"><circle cx="85.1" cy="103.6" r="4" fill="#3465a4"><title>Unidentified Lindley #3</title></circle></a><a href="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3w18r1k2r1w6r3~x2/"><circle cx="85.9" cy="76.3" r="4" fill="#3465a4"><title>Anderson</title></circle></a><a href="/variants/s16/db20g5k5w22db5w22k2y2k2r6g4w4g3r4k2y2~x2/"><circle cx="107.2" cy="102.6" r="4" fill="#3465a4"><title>Gayre Arisaidh Clan Tartan</title></circle></a><circle cx="107.6" cy="75.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

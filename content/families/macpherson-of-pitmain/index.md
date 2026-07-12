@@ -1,6 +1,11 @@
 ---
 title: "MacPherson of Pitmain"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacPherson"
+  url: "/clan/macpherson/"
 ---
 A family of [Clan MacPherson](/clan/macpherson/).
 

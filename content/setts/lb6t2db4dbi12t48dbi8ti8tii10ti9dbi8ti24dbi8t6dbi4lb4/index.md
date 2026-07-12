@@ -1,6 +1,11 @@
 ---
 title: "Ferring Pharmaceuticals"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Ferring Pharmaceuticals"
+  url: "/tartans/f/fe/ferring-pharmaceuticals/"
 ---
 This is the **Ferring Pharmaceuticals** sett — one scale-free proportion (`lb6t2db4dbi12t48dbi8ti8tii10ti9dbi8ti24dbi8t6dbi4lb4`), colour order pattern
 [WBBBBBBBBBBBBBW](/stripes/wbbbbbbbbbbbbbw/). It is recorded as a single **variant**, below.

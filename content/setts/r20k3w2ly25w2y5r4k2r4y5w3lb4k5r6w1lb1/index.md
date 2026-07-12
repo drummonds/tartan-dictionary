@@ -1,6 +1,15 @@
 ---
 title: "MacGlashan #3"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacGlashan"
+  url: "/clan/macglashan/"
+- name: "MacGlashan"
+  url: "/families/macglashan/"
+- name: "MacGlashan"
+  url: "/tartans/m/ma/macglashan-4/"
 ---
 This is the **MacGlashan #3** sett — one scale-free proportion (`r20k3w2ly25w2y5r4k2r4y5w3lb4k5r6w1lb1`), colour order pattern
 [RKWYWGRKRGWWKRWW](/stripes/rkwywgrkrgwwkrww/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/w4y10r8k7n28w3y6r5k2r5y6w3g30w2k3r50w2~x2/"><circle cx="164.4" cy="65.5" r="4" fill="#3465a4"><title>Chattan</title></circle></a><a href="/variants/s16/r24k1w1dg6w1y2r2k1r2y2w1lb6k2r3y3w1~x2/"><circle cx="148.0" cy="27.3" r="4" fill="#3465a4"><title>Hong Kong Police Pipe Band</title></circle></a><a href="/variants/s16/r25do3w2ly25w3y5r4do2r4y5w3db4do5r6w1db1~x2/"><circle cx="197.2" cy="85.7" r="4" fill="#3465a4"><title>MacGlashan Clan Tartan</title></circle></a><a href="/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k8r60w2/"><circle cx="154.4" cy="54.2" r="4" fill="#3465a4"><title>Chattan, Chief</title></circle></a><a href="/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k4r60w2~x2/"><circle cx="165.2" cy="53.8" r="4" fill="#3465a4"><title>Chattan, Chief of Clan</title></circle></a><a href="/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k4r60w2/"><circle cx="165.2" cy="53.8" r="4" fill="#3465a4"><title>Chattan Chief Clan Tartan</title></circle></a><a href="/variants/s11/lb8k4y1k2w3k2g12r24lb2r3k2~x2/"><circle cx="164.3" cy="79.2" r="4" fill="#3465a4"><title>MacLean of Duart #2</title></circle></a><a href="/variants/s12/g9r52lb13k16y2k3w4k3g23r15g7y3~x2/"><circle cx="181.8" cy="79.7" r="4" fill="#3465a4"><title>Stewart of Galloway Clan Tartan</title></circle></a><a href="/variants/s13/r28g10k7w2y2r1y2w2db5k2r2y2w3~x4/"><circle cx="183.1" cy="53.7" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/variants/s10/w3r28k1n5k1y3g8r5w21k2~x2/"><circle cx="185.2" cy="79.3" r="4" fill="#3465a4"><title>Cape Breton Polish Society</title></circle></a><circle cx="134.3" cy="66.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

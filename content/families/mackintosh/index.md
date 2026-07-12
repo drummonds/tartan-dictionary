@@ -1,6 +1,11 @@
 ---
 title: "MacKintosh"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Mackintosh (Clan Chattan)"
+  url: "/clan/mackintosh/"
 ---
 A family of [Clan Mackintosh (Clan Chattan)](/clan/mackintosh/).
 
@@ -9,7 +14,7 @@ A family of [Clan Mackintosh (Clan Chattan)](/clan/mackintosh/).
 ## Tartans
 
 <ul class="clan-grid">
-<li><a class="tartan" href="/tartans/m/ma/mackintosh-hunting/"><img src="/variants/s7/y2g12db6r3g12r4db1~x2/sett.png" alt="MacKintosh Hunting" width="140"><br><strong>MacKintosh Hunting (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/m/ma/mackintosh-5/"><img src="/variants/s36/dp7w1dp7w1dp24w1dp2lb2w1lb2dp2w1dg10g3w1dp4lb2w1r3w1lb2dp3w1g3dg10w1dp2lb2w1lb2dp2w1dp6r16k2r2~x2/sett.png" alt="Mackintosh" width="140"><br><strong>Mackintosh (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/m/ma/mackintosh-4/"><img src="/variants/s6/r16db6r2dg6r2db1~x2/sett.png" alt="MacKintosh" width="140"><br><strong>MacKintosh (5)</strong></a></li>
 <li><a class="tartan" href="/tartans/m/ma/mackintosh-3/"><img src="/variants/s6/r68db18r9g34r9db3~x2/sett.png" alt="MacKintosh 3" width="140"><br><strong>MacKintosh 3 (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/m/ma/mackintosh-2/"><img src="/variants/s6/r48db2r3g28r4db2~x2/sett.png" alt="MacKintosh 2" width="140"><br><strong>MacKintosh 2 (1)</strong></a></li>
@@ -21,5 +26,5 @@ A family of [Clan Mackintosh (Clan Chattan)](/clan/mackintosh/).
 <li><a class="tartan" href="/tartans/m/ma/mackintosh-8/"><img src="/variants/s16/r94k3w2g21w3y3r5k2r5y3w3n21k7r7y8w4~x2/sett.png" alt="MacKintosh 8" width="140"><br><strong>MacKintosh 8 (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/m/ma/mackintosh-dress-2/"><img src="/variants/s6/r3w33dp8dg18r9g3~x2/sett.png" alt="MacKintosh Dress" width="140"><br><strong>MacKintosh Dress (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/m/ma/mackintosh-dress/"><img src="/variants/s6/r3w8db4dg14r4db2~x4/sett.png" alt="MacKintosh Dress" width="140"><br><strong>MacKintosh Dress (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/m/ma/mackintosh-5/"><img src="/variants/s36/dp7w1dp7w1dp24w1dp2lb2w1lb2dp2w1dg10g3w1dp4lb2w1r3w1lb2dp3w1g3dg10w1dp2lb2w1lb2dp2w1dp6r16k2r2~x2/sett.png" alt="Mackintosh" width="140"><br><strong>Mackintosh (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/m/ma/mackintosh-hunting/"><img src="/variants/s7/y2g12db6r3g12r4db1~x2/sett.png" alt="MacKintosh Hunting" width="140"><br><strong>MacKintosh Hunting (2)</strong></a></li>
 </ul>

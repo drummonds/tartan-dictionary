@@ -1,6 +1,15 @@
 ---
 title: "Hardie"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hardie"
+  url: "/clan/hardie/"
+- name: "Hardie"
+  url: "/families/hardie/"
+- name: "Hardie"
+  url: "/tartans/h/ha/hardie/"
 ---
 This is the **Hardie** sett — one scale-free proportion (`dg9w2dg24db37r3db37dg24w2dg9o4`), colour order pattern
 [GWGBRBGWGR](/stripes/gwgbrbgwgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dbi2db16dg14r3dg14k3dg14ly3dg14db16dbi2~x2~dbi1406275-db1204274/"><circle cx="297.5" cy="204.5" r="4" fill="#3465a4"><title>Pendleton Hunting</title></circle></a><a href="/variants/s12/dg32w3dg32db32r3db32dg32dp3dg32db32r3db32~x2/"><circle cx="352.3" cy="234.2" r="4" fill="#3465a4"><title>Love Htg (Personal)</title></circle></a><a href="/variants/s12/db5dg2db2dg2db2dbi5dg2dbi1lb1dbi1dg10r3~x4~db1204274-dbi1404245/"><circle cx="298.7" cy="212.9" r="4" fill="#3465a4"><title>Richards Welsh Name Tartan</title></circle></a><a href="/variants/s8/dg8do2dg13db4dg12n22dg5ly3~x2/"><circle cx="379.6" cy="241.9" r="4" fill="#3465a4"><title>Scottish Pup</title></circle></a><a href="/variants/s9/n4db2n7dt30n8dt7r5db1w2~x2~n1900000-w3600000/"><circle cx="402.2" cy="148.5" r="4" fill="#3465a4"><title>Hebridean Heather Fashion Tartan</title></circle></a><a href="/variants/s13/dr3r1db1dr1dg13dr3db4lb1dr16dg2dr2r1dg3~x2/"><circle cx="388.7" cy="165.2" r="4" fill="#3465a4"><title>MacDonald of Glencoe</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2~db1406275/"><circle cx="312.1" cy="211.0" r="4" fill="#3465a4"><title>Hutchesons' Grammar School</title></circle></a><a href="/variants/s8/dt14o1dt1o1dt6n14w1n1~x4/"><circle cx="412.0" cy="199.6" r="4" fill="#3465a4"><title>Corrie</title></circle></a><a href="/variants/s12/db3r1dbi12dg2dbi2db4dbi2dg2dbi2dg9db1ly2~x4~db1204274-dbi1406275/"><circle cx="303.9" cy="195.1" r="4" fill="#3465a4"><title>St. Andrew's Soc. of Philadelphia (C</title></circle></a><a href="/variants/s13/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2~db1104274/"><circle cx="347.5" cy="193.4" r="4" fill="#3465a4"><title>Great Dane, The</title></circle></a><circle cx="381.8" cy="190.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

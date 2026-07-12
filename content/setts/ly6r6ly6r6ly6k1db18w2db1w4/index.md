@@ -1,6 +1,11 @@
 ---
 title: "Catalunya Escocia"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Catalunya Escocia"
+  url: "/tartans/c/ca/catalunya-escocia/"
 ---
 This is the **Catalunya Escocia** sett — one scale-free proportion (`ly6r6ly6r6ly6k1db18w2db1w4`), colour order pattern
 [WBWBKYRYRY](/stripes/wbwbkyryry/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y6r6y6r6y6k1db18w2db1w4~x2/"><circle cx="144.9" cy="141.3" r="4" fill="#3465a4"><title>Catalunya Escocia</title></circle></a><a href="/variants/s10/r5k1r5g9k7w3db3w15db1r2~x2/"><circle cx="95.8" cy="139.7" r="4" fill="#3465a4"><title>MacDuff, dress</title></circle></a><a href="/variants/s15/db4w2r6k1db12g4w2r6db1r6w2g8r2w16r4~x2/"><circle cx="99.1" cy="126.1" r="4" fill="#3465a4"><title>MacFarlane Dress Clan Tartan</title></circle></a><a href="/variants/s8/r4w2r1w18dp18o18g3o4~x2/"><circle cx="156.1" cy="153.9" r="4" fill="#3465a4"><title>Gigha Lilac Fashion Tartan</title></circle></a><a href="/variants/s11/r16k6r14g22k16db16w10r6w45k4r4/"><circle cx="79.4" cy="148.3" r="4" fill="#3465a4"><title>MacDuff Dress #4</title></circle></a><a href="/variants/s10/lo12k3t24r12t24k32w44t4w8t4/"><circle cx="100.8" cy="150.5" r="4" fill="#3465a4"><title>Gillies Dress Blue</title></circle></a><a href="/variants/s15/db4w2r6k1db12dg4db2r6db1r6w2dg8r2w16r4~x2/"><circle cx="97.4" cy="123.9" r="4" fill="#3465a4"><title>MacFarlane Dress</title></circle></a><a href="/variants/s10/db5lb2db11g2db2g6r17ly9db1r1~x2/"><circle cx="167.2" cy="151.6" r="4" fill="#3465a4"><title>Clarks No. 1 (Fashion)</title></circle></a><a href="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/"><circle cx="106.3" cy="162.7" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><a href="/variants/s11/lo2db2w2r1w2db10w1k2lo10w1lo2~x4/"><circle cx="152.0" cy="142.2" r="4" fill="#3465a4"><title>Bear Baars (Personal)</title></circle></a><circle cx="133.5" cy="140.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

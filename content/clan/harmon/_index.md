@@ -1,12 +1,15 @@
 ---
 title: "Clan Harmon"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
-*A clan defined by its tartans — the dictionary holds no separate clan history for it, only the cloth that carries its name.*
+Designed by Mr Harmon in 2006 for a family lacking any existing Harmon tartan or clan affiliation.
 
 ## Tartan
 
-<a class="tartan" href="/variants/s18/k2g6dy2g2dy2g19db2dr2db2g2dg4k2dg11dr2dg2dr2dg6dy2~x2/"><img src="/variants/s18/k2g6dy2g2dy2g19db2dr2db2g2dg4k2dg11dr2dg2dr2dg6dy2~x2/sett.png" alt="Harmon Hunting" width="240"><br>Harmon Hunting</a>
+<a class="tartan" href="/variants/s18/k2r6y2r2y2r19db2g2db2r2dr4k2dr11g2dr2g2dr6y2~x2/"><img src="/variants/s18/k2r6y2r2y2r19db2g2db2r2dr4k2dr11g2dr2g2dr6y2~x2/sett.png" alt="Harmon (Personal)" width="240"><br>Harmon (Personal)</a>
 
 ## Families
 

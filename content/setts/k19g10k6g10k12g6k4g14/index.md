@@ -1,6 +1,15 @@
 ---
 title: "Menzies Green"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Menzies"
+  url: "/clan/menzies/"
+- name: "Menzies"
+  url: "/families/menzies/"
+- name: "Menzies"
+  url: "/tartans/m/me/menzies-3/"
 ---
 This is the **Menzies Green** sett — one scale-free proportion (`k19g10k6g10k12g6k4g14`), colour order pattern
 [GKGKGKGK](/stripes/gkgkgkgk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db5k9g7k3g7k3g7k25g3~x2/"><circle cx="273.9" cy="193.6" r="4" fill="#3465a4"><title>Menez Du</title></circle></a><a href="/variants/s8/dg3k6w2k6dg2k2dg16k2~x2/"><circle cx="290.2" cy="199.6" r="4" fill="#3465a4"><title>MacLean of Duart Hunting</title></circle></a><a href="/variants/s8/k1db5k4g3k1g3k6g1~x4/"><circle cx="201.2" cy="237.5" r="4" fill="#3465a4"><title>Keith McCormick (Personal)</title></circle></a><a href="/variants/s10/dg18k3dg3k3dg3k21g2k21dg21k4~x2~dg1806142-g2408144/"><circle cx="283.4" cy="185.7" r="4" fill="#3465a4"><title>Guildry of Stirling</title></circle></a><a href="/variants/s7/k3g4k1g4k3db4k1~x2/"><circle cx="129.3" cy="278.1" r="4" fill="#3465a4"><title>Unidentified No 63</title></circle></a><a href="/variants/s10/g7k12g12k9dr3k9g20k16g7t3~x2/"><circle cx="177.7" cy="221.6" r="4" fill="#3465a4"><title>Holman (Personal)</title></circle></a><a href="/variants/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="219.3" cy="188.3" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/variants/s8/g5k15g5k15g19r2g13lb4~x2/"><circle cx="218.3" cy="204.1" r="4" fill="#3465a4"><title>Strath Hallidale (Fashion)</title></circle></a><a href="/variants/s6/dg8k8ly1k8dg8k1~x4~dg1806142/"><circle cx="249.3" cy="242.0" r="4" fill="#3465a4"><title>Wallace Hunting</title></circle></a><a href="/variants/s12/g4k4g4k1g4k4g4k1g4k4g4ly1~x2/"><circle cx="224.4" cy="262.3" r="4" fill="#3465a4"><title>Norwich No.039 (Mackinlay)</title></circle></a><circle cx="227.9" cy="277.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

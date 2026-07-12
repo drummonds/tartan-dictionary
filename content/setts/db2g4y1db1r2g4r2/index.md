@@ -1,6 +1,11 @@
 ---
 title: "Creek Indian Nation (District)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Creek Indian Nation"
+  url: "/tartans/c/cr/creek-indian-nation/"
 ---
 This is the **Creek Indian Nation (District)** sett — one scale-free proportion (`db2g4y1db1r2g4r2`), colour order pattern
 [BGGBRGR](/stripes/bggbrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db6r15g41r15db20g41lb6/"><circle cx="280.1" cy="242.4" r="4" fill="#3465a4"><title>Bean Hunting</title></circle></a><a href="/variants/s7/g25r4db24r21g25r3db4~x2/"><circle cx="256.1" cy="247.5" r="4" fill="#3465a4"><title>Glasgow #2</title></circle></a><a href="/variants/s5/db2g4y1db1r2~x12/"><circle cx="183.2" cy="294.2" r="4" fill="#3465a4"><title>Creek Indian Nation</title></circle></a><a href="/variants/s6/r1o4g3o1db3o1~x2/"><circle cx="227.1" cy="285.2" r="4" fill="#3465a4"><title>Fraser Hunting</title></circle></a><a href="/variants/s7/db6r3g2r3g12r3g2~x2/"><circle cx="279.3" cy="250.7" r="4" fill="#3465a4"><title>Skene Clan Tartan</title></circle></a><a href="/variants/s11/g6r3db6r3g12r3db6r3g12r3y2~x2/"><circle cx="235.8" cy="233.4" r="4" fill="#3465a4"><title>Hall (1994)</title></circle></a><a href="/variants/s5/r2g17r8db8y2~x4/"><circle cx="248.6" cy="240.7" r="4" fill="#3465a4"><title>British Hills</title></circle></a><a href="/variants/s7/r5g20r5g20db24g6y4/"><circle cx="273.9" cy="249.4" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting) Clan/Family Tartan</title></circle></a><a href="/variants/s8/r10g14r3db14r10g14r3db4~x2/"><circle cx="192.5" cy="278.8" r="4" fill="#3465a4"><title>Glasgow District Tartan</title></circle></a><a href="/variants/s8/r5g12db4dbi4db22g18db4r5~db0805267-dbi1604274/"><circle cx="187.0" cy="233.4" r="4" fill="#3465a4"><title>Daks, Navy</title></circle></a><circle cx="219.0" cy="282.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

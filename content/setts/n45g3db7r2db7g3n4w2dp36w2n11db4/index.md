@@ -1,6 +1,11 @@
 ---
 title: "Scottish Parliament (Official)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Scottish Parliament"
+  url: "/tartans/s/sc/scottish-parliament-2/"
 ---
 This is the **Scottish Parliament (Official)** sett — one scale-free proportion (`n45g3db7r2db7g3n4w2dp36w2n11db4`), colour order pattern
 [BBWBWBGBRBGB](/stripes/bbwbwbgbrbgb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db5n4r6ly1r9dbi35db5ly1db12w1~x2~db1004274-dbi1406275-w3600000/"><circle cx="300.9" cy="108.2" r="4" fill="#3465a4"><title>University of Dundee</title></circle></a><a href="/variants/s10/db5n4r6ly1r9dbi35db5ly1db12w1~x2~db1004274-dbi1406275/"><circle cx="298.4" cy="107.3" r="4" fill="#3465a4"><title>University of Dundee (Corporate)</title></circle></a><a href="/variants/s12/p1dr1p1dr6dg26mi14dr20lb1dr1lb1dr2m1~x2~p2312307-mi2506332/"><circle cx="271.3" cy="101.2" r="4" fill="#3465a4"><title>Scobie (Blackford)</title></circle></a><a href="/variants/s18/db20r1dr3n1dr30g5db8r1db8r1db8g5dr30n1dr3r1db20w2~x2/"><circle cx="315.2" cy="97.3" r="4" fill="#3465a4"><title>Guild, The</title></circle></a><a href="/variants/s12/n52g3w3db3y3db2r3db12g8db2g6y4/"><circle cx="343.9" cy="104.2" r="4" fill="#3465a4"><title>Barcelona English School</title></circle></a><a href="/variants/s12/n52g3w3db3y3db2r3db12g8db2g6y4~x2/"><circle cx="343.9" cy="104.2" r="4" fill="#3465a4"><title>Barcelona English School (School)</title></circle></a><a href="/variants/s11/dp4dg2dp24dg8db2r2db2y2db10dp2w3~x2/"><circle cx="277.5" cy="145.5" r="4" fill="#3465a4"><title>McCartney (Day)</title></circle></a><a href="/variants/s15/dg5r4m1db36r4dg15r8y1db15r4dg36r4ri1db5y1~x2~r2109032-ri2806019/"><circle cx="287.3" cy="93.2" r="4" fill="#3465a4"><title>Glen Orchy (Fashion)</title></circle></a><a href="/variants/s15/n2dt1t2dt2r1t12dt2r1dr10dt28t1dt3t2dt3w1~x2~dt1102249-t2308259/"><circle cx="337.8" cy="84.9" r="4" fill="#3465a4"><title>Northfield Academy</title></circle></a><a href="/variants/s10/r8db8dg1db1dg27dp1y1dp3y3w1~x2/"><circle cx="314.6" cy="104.1" r="4" fill="#3465a4"><title>Holyoke St. Patrick's</title></circle></a><circle cx="312.5" cy="117.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

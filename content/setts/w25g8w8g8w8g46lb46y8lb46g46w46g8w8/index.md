@@ -1,6 +1,13 @@
 ---
 title: "Poulter SG 096 (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Poulter"
+  url: "/clan/poulter/"
+- name: "Poulter SG 096"
+  url: "/tartans/p/po/poulter-sg-096/"
 ---
 This is the **Poulter SG 096 (Fashion)** sett — one scale-free proportion (`w25g8w8g8w8g46lb46y8lb46g46w46g8w8`), colour order pattern
 [WGWGWGWGWGWGW](/stripes/wgwgwgwgwgwgw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w69dg14w13dg14w13dg69db72ly13db72dg69w68dg14w13/"><circle cx="145.7" cy="227.1" r="4" fill="#3465a4"><title>Poulter Hoylake</title></circle></a><a href="/variants/s13/w35g7w7g7w7g35db36ly7db36g35w35g7w7/"><circle cx="146.4" cy="236.1" r="4" fill="#3465a4"><title>Poulter Hoylake</title></circle></a><a href="/variants/s13/n11dt2n2dt2n2dt12lb12dt2lb12dt12n11dt2n2~x2/"><circle cx="256.6" cy="262.9" r="4" fill="#3465a4"><title>Scottish Scouts (1922) (Corporate)</title></circle></a><a href="/variants/s13/g69w14g13w14g13lb69w72dp13w72lb69g68w14g13/"><circle cx="190.9" cy="243.6" r="4" fill="#3465a4"><title>Poulter Millicent</title></circle></a><a href="/variants/s13/g36w7g7w7g7lb36w35dp7w36lb35g34w7g7/"><circle cx="184.0" cy="247.4" r="4" fill="#3465a4"><title>Poulter Millicent</title></circle></a><a href="/variants/s7/lb47g6t13dy20g6t6g28~x2/"><circle cx="225.9" cy="251.2" r="4" fill="#3465a4"><title>State Seal of North Carolina (Fash.)</title></circle></a><a href="/variants/s10/g5lb5t1lb1y1lb1t1lb5g5w1~x4~lb3200000-t2503227/"><circle cx="287.1" cy="261.7" r="4" fill="#3465a4"><title>MacGiboney Clan Tartan</title></circle></a><circle cx="216.0" cy="247.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

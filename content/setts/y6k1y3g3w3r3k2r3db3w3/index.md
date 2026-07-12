@@ -1,6 +1,13 @@
 ---
 title: "Williams Lake Canadian District Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Williams"
+  url: "/clan/williams/"
+- name: "Williams Lake"
+  url: "/tartans/w/wi/williams-lake/"
 ---
 This is the **Williams Lake Canadian District Tartan** sett — one scale-free proportion (`y6k1y3g3w3r3k2r3db3w3`), colour order pattern
 [GKGGWRKRBWBRKRWGGK](/stripes/gkggwrkrbwbrkrwggk/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y6k1y3g3w3dr3k2dr3db3w3~x2/"><circle cx="14.0" cy="199.7" r="4" fill="#3465a4"><title>Williams Lake, City of</title></circle></a><a href="/variants/s20/r6w3r8t7k4ly2k2lb4w8k5w8lb4k2ly2k4t7r8w3r6k4~x3~t2405244-ly3307090-lb3203246/"><circle cx="14.0" cy="188.4" r="4" fill="#3465a4"><title>Hewett</title></circle></a><a href="/variants/s13/lb10dr3lb10k7ly5w2ly5w2ly5k7dg10dr3dg7~x2/"><circle cx="14.0" cy="199.9" r="4" fill="#3465a4"><title>Redgate (Name)</title></circle></a><a href="/variants/s13/lb4k4db4k4g4w1g4w1db3r4db3r4w1~x4~db1404245/"><circle cx="14.0" cy="222.9" r="4" fill="#3465a4"><title>Stanners (Personal)</title></circle></a><a href="/variants/s18/w2db2dg8k2db6dg5r5ly5r4w2r4ly5r5dg5db6k2r10ly2~x2/"><circle cx="26.1" cy="181.6" r="4" fill="#3465a4"><title>Kutztown (Berks County, PA)</title></circle></a><a href="/variants/s18/w2lb2dg8k2lb6dg5r5ly5r4w2r4ly5r5dg5lb6k2r10ly2~x2/"><circle cx="27.1" cy="182.4" r="4" fill="#3465a4"><title>Kutztown (Berks Co., PA) (District)</title></circle></a><a href="/variants/s13/lb4k4db4k4g4w1g4w1db3r4db3r4w1~x4/"><circle cx="14.0" cy="221.5" r="4" fill="#3465a4"><title>Stanners (Personal)</title></circle></a><a href="/variants/s14/g10k6t10y4t10k3g10k3g10k3r10w4r10k6~x2/"><circle cx="14.0" cy="221.1" r="4" fill="#3465a4"><title>Scandinavian</title></circle></a><a href="/variants/s13/r6k2r12g10k3w2k3y2k8w4db6w12r4/"><circle cx="14.0" cy="166.6" r="4" fill="#3465a4"><title>Victoria (Patons)</title></circle></a><a href="/variants/s18/g6k1lb3k1y6k1y6k1lb3k1r6w1r6k1lb3k1g6lb3~x4/"><circle cx="14.0" cy="160.7" r="4" fill="#3465a4"><title>Buchanan Old Clan Tartan</title></circle></a><circle cx="14.0" cy="196.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

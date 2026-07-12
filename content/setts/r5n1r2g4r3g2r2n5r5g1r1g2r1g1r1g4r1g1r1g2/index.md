@@ -1,6 +1,13 @@
 ---
 title: "MacIntosh Old Ancient Artifact Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacIntosh"
+  url: "/clan/macintosh/"
+- name: "MacIntosh Old"
+  url: "/tartans/m/ma/macintosh-old/"
 ---
 This is the **MacIntosh Old Ancient Artifact Tartan** sett — one scale-free proportion (`r5n1r2g4r3g2r2n5r5g1r1g2r1g1r1g4r1g1r1g2`), colour order pattern
 [GRGRGRGRGRGRBRGRGRBR](/stripes/grgrgrgrgrgrbrgrgrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/r5n1r2dg4r3dg2r2n5r5dg1r1dg2r1dg1r1dg4r1dg1r1dg2~x2/"><circle cx="270.0" cy="226.5" r="4" fill="#3465a4"><title>MacIntosh Ancient</title></circle></a><a href="/variants/s20/r8g2r2g6r1g6r2g2r8y1r8g2r2g6r1g6r2g2r8w1~x4/"><circle cx="315.1" cy="189.8" r="4" fill="#3465a4"><title>Bruce (VS) Clan Tartan</title></circle></a><a href="/variants/s13/r8g10r2g10r9g3r4g4r10y3r3g10r3~x2/"><circle cx="292.2" cy="261.5" r="4" fill="#3465a4"><title>MacRurie/MacRory</title></circle></a><a href="/variants/s13/r10g12r3g12r12g4r5g5r12y4r5g12r4~x2/"><circle cx="286.4" cy="274.9" r="4" fill="#3465a4"><title>MacRurie MacRory Tartan</title></circle></a><a href="/variants/s26/r1g6r6ri6r1ri6r6g1r1g1r1g1r1g6r1g1r1g1r6ri6r1ri6r6g6r1g1~x8~r1707016-ri2109032/"><circle cx="262.8" cy="207.0" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s17/r3g3r18g6r4t3w3t18r6g18w3g3r4t6r18g3r3~x2/"><circle cx="228.1" cy="194.1" r="4" fill="#3465a4"><title>Reid of Straloch (Personal)</title></circle></a><a href="/variants/s16/r9g10w2g2y2g10r9g5r9g10y2g2w2g10r9g5~x2/"><circle cx="269.6" cy="234.8" r="4" fill="#3465a4"><title>Wilson's No.169</title></circle></a><a href="/variants/s13/r12g14r4g14r4g14r4db8r5db8r12g3r12/"><circle cx="222.2" cy="261.6" r="4" fill="#3465a4"><title>Grant of Monymusk</title></circle></a><a href="/variants/s13/r12g14r4g14r4g14r4db8r5db8r12g3r12~x2/"><circle cx="222.2" cy="261.6" r="4" fill="#3465a4"><title>Grant of Monymusk</title></circle></a><a href="/variants/s11/y1r4g1r1g3r1g3r1g1r4w1~x2/"><circle cx="266.2" cy="243.7" r="4" fill="#3465a4"><title>Bruce</title></circle></a><circle cx="283.2" cy="235.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Kildare County, Crest Range"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Kildare County, Crest Range"
+  url: "/tartans/k/ki/kildare-county-crest-range/"
 ---
 This is the **Kildare County, Crest Range** sett — one scale-free proportion (`y40k5g48k5dr20k5n14k10w4dr28n10`), colour order pattern
 [BBWKBKBKGKG](/stripes/bbwkbkbkgkg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/ly40k5g48k5dr20k5lb14k10w4dr28lb10/"><circle cx="45.2" cy="138.2" r="4" fill="#3465a4"><title>Kildare County Crest (Fashion)</title></circle></a><a href="/variants/s13/g16k1db12k1n12k1r10y7k1y7k2n1k4~x2/"><circle cx="59.0" cy="127.6" r="4" fill="#3465a4"><title>Ville de Beauport</title></circle></a><a href="/variants/s11/n26k6dy32dg14dy11k19w2ly16dg11n19k2/"><circle cx="82.6" cy="157.7" r="4" fill="#3465a4"><title>Teddy Bear 111th Anniversary</title></circle></a><a href="/variants/s11/dy30k6dy6r6lo6o14k4o3n14k6n16~x2/"><circle cx="107.4" cy="160.7" r="4" fill="#3465a4"><title>Bracken (WCWM)</title></circle></a><a href="/variants/s13/y1k1r8db1r1g8k1db8y1g1y8k1w1~x6/"><circle cx="64.0" cy="137.9" r="4" fill="#3465a4"><title>Robieson Playfield</title></circle></a><a href="/variants/s14/db2y2db3y8g4db4g3db8r12g7r3g2k1w1~x2/"><circle cx="90.3" cy="148.7" r="4" fill="#3465a4"><title>Jones-MacGregor (Name)</title></circle></a><a href="/variants/s13/k4dg10ly4dg10k4g20dg5k2ly6k2r10k2w4~x2/"><circle cx="41.6" cy="144.1" r="4" fill="#3465a4"><title>Donegal County Crest (Fashion)</title></circle></a><a href="/variants/s14/dt20g20o3k4o3k4o30k4o3k4o3g20dt20y4~x2/"><circle cx="124.5" cy="157.0" r="4" fill="#3465a4"><title>Sikh Clan/Family Tartan</title></circle></a><a href="/variants/s12/y5g19r2t11lb2r11g11r2k20r2k2lb2~x2~t2503227-lb3103284/"><circle cx="73.4" cy="134.5" r="4" fill="#3465a4"><title>Gordonstoun (Corporate)</title></circle></a><a href="/variants/s10/k3r9k5do9o3do9k5g24k2o3~x2/"><circle cx="115.7" cy="154.5" r="4" fill="#3465a4"><title>Cavan</title></circle></a><circle cx="82.1" cy="149.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

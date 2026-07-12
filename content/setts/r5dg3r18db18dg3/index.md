@@ -1,6 +1,11 @@
 ---
 title: "Wotherspoon"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Wotherspoon"
+  url: "/tartans/w/wo/wotherspoon/"
 ---
 This is the **Wotherspoon** sett — one scale-free proportion (`r5dg3r18db18dg3`), colour order pattern
 [GBRGR](/stripes/gbrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r12g8r54db45g6/"><circle cx="321.4" cy="231.2" r="4" fill="#3465a4"><title>Wotherspoon Family Tartan</title></circle></a><a href="/variants/s4/r15g7db7r1~x4/"><circle cx="321.8" cy="236.0" r="4" fill="#3465a4"><title>Hugh Fraser of Boblainy</title></circle></a><a href="/variants/s5/db1r14g7db7r1~x4/"><circle cx="310.0" cy="219.5" r="4" fill="#3465a4"><title>Fraser of Boblainy, Hugh (Personal)</title></circle></a><a href="/variants/s5/r4dg4r1db4r4~x4/"><circle cx="250.4" cy="316.3" r="4" fill="#3465a4"><title>Gow Clan Tartan</title></circle></a><a href="/variants/s5/r9db1g2db5w1~x12/"><circle cx="273.7" cy="213.8" r="4" fill="#3465a4"><title>McIntosh, Georgina (Personal)</title></circle></a><a href="/variants/s5/db15w2r20db2r4~x2/"><circle cx="349.1" cy="218.8" r="4" fill="#3465a4"><title>Masai Shuka 25 (Artefact)</title></circle></a><a href="/variants/s5/dy3dg8db12r24w3~x2/"><circle cx="227.8" cy="212.9" r="4" fill="#3465a4"><title>McGill University</title></circle></a><a href="/variants/s6/g3r2db22r22db2w3~x2/"><circle cx="274.4" cy="186.4" r="4" fill="#3465a4"><title>Galloway Red</title></circle></a><a href="/variants/s6/db3r2g5r8db12w3~x2/"><circle cx="193.9" cy="242.5" r="4" fill="#3465a4"><title>Edinburgh Bus Company (Corporate)</title></circle></a><a href="/variants/s5/n7r1dt6r8lb1~x8/"><circle cx="255.7" cy="259.7" r="4" fill="#3465a4"><title>Callum (Buchan) (Name)</title></circle></a><circle cx="292.7" cy="254.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

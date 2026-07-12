@@ -1,6 +1,11 @@
 ---
 title: "State Seal of Michigan (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "State Seal of Michigan"
+  url: "/tartans/s/st/state-seal-of-michigan/"
 ---
 This is the **State Seal of Michigan (Fashion)** sett — one scale-free proportion (`dr4do27ly6n19t38w4`), colour order pattern
 [BBYBBW](/stripes/bbybbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db1n8w1db4dr8w1~x6/"><circle cx="253.9" cy="259.8" r="4" fill="#3465a4"><title>Little's Chauffeur Drive</title></circle></a><a href="/variants/s7/dy17n5db2w12db2y4g7~x2/"><circle cx="119.8" cy="206.7" r="4" fill="#3465a4"><title>Ontario Northern Canadian District Tartan</title></circle></a><a href="/variants/s6/lb26n10db19dr6dy2t9~x2~db1404245-t2105244/"><circle cx="185.4" cy="218.3" r="4" fill="#3465a4"><title>Meeson Formal</title></circle></a><a href="/variants/s5/dr7y3g28db28w3~x2/"><circle cx="238.4" cy="230.4" r="4" fill="#3465a4"><title>Turnbull Hunting</title></circle></a><a href="/variants/s6/lb2db20n2dt15dr9lb2~x2/"><circle cx="308.3" cy="254.1" r="4" fill="#3465a4"><title>Open Championship (1998)</title></circle></a><a href="/variants/s7/y1db5g1n7dp2n1w1~x4/"><circle cx="242.2" cy="219.6" r="4" fill="#3465a4"><title>Deeside District Tartan</title></circle></a><a href="/variants/s7/db4w1n12lr12o4lb1w2~x4~n1900000-lr2800000/"><circle cx="192.4" cy="192.2" r="4" fill="#3465a4"><title>Ontex</title></circle></a><a href="/variants/s7/y1b5g1n7dp2n1w1~x4/"><circle cx="274.2" cy="231.8" r="4" fill="#3465a4"><title>Deeside</title></circle></a><a href="/variants/s6/dr2do22g22do3db12y2~x2/"><circle cx="276.8" cy="233.5" r="4" fill="#3465a4"><title>Lisbon</title></circle></a><a href="/variants/s8/w5t32n5g6n5dr16n39ly5~x2/"><circle cx="269.5" cy="221.1" r="4" fill="#3465a4"><title>Washington DC (Fashion)</title></circle></a><circle cx="242.7" cy="239.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,13 @@
 ---
 title: "Selkirk High School"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Selkirk"
+  url: "/clan/selkirk/"
+- name: "Selkirk High School"
+  url: "/tartans/s/se/selkirk-high-school/"
 ---
 This is the **Selkirk High School** sett — one scale-free proportion (`o18k18y1r2t2r2y1o18t2o18y1r2t2r2y1k18o18w3`), colour order pattern
 [RKGRBRGRBRGRBRGKRW](/stripes/rkgrbrgrbrgrbrgkrw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/o40k10n2k2lr2k3dr8o6k2o8lr2~x2/"><circle cx="241.2" cy="66.8" r="4" fill="#3465a4"><title>Islay</title></circle></a><a href="/variants/s15/r3g1r2g1r18k4y1k2w1db4g6r3k1r2w1~x2/"><circle cx="233.1" cy="66.1" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #4</title></circle></a><a href="/variants/s15/r6k2r2k4r2k2r6g18r2y1r2k1r10w1r2~x4/"><circle cx="237.1" cy="93.1" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s15/dg10r3k2r3dg10r8k2y1b1y1k2r20dg4r8w1~x2/"><circle cx="257.6" cy="84.0" r="4" fill="#3465a4"><title>Livingstone (Australia) Official</title></circle></a><a href="/variants/s10/w3o18k18y1r2t2r2y1o18t2~x2/"><circle cx="223.9" cy="95.2" r="4" fill="#3465a4"><title>Selkirk High (Corporate)</title></circle></a><a href="/variants/s14/r20w6r100db15k10db15k40y5g54r15k5r15k6w8/"><circle cx="177.6" cy="72.5" r="4" fill="#3465a4"><title>Unidentified Bedspread</title></circle></a><a href="/variants/s13/o19k2r1dy3w1dy1w1dy1k6o3dy1o3w1~x4/"><circle cx="276.8" cy="77.5" r="4" fill="#3465a4"><title>Leando (Coldingham) Hunting (Personal)</title></circle></a><a href="/variants/s23/k1y1k2g1k1g10db8r10g2r10g2r30g2r10g2r10db8g10k1g1k2w1k1~x2/"><circle cx="252.3" cy="39.1" r="4" fill="#3465a4"><title>Wood Dress</title></circle></a><a href="/variants/s15/r31g3r2g2r3g2r2g3r15k15g2k15g3k3w2~x2/"><circle cx="208.0" cy="86.4" r="4" fill="#3465a4"><title>Moir (Loch Insh) (Personal)</title></circle></a><a href="/variants/s17/g2r20k2r2g3r2k18r3w1g3r20k2r2k18r2g2y1~x2/"><circle cx="228.8" cy="70.9" r="4" fill="#3465a4"><title>Unidentified Scarlett #8</title></circle></a><circle cx="226.1" cy="74.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

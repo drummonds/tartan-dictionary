@@ -1,6 +1,11 @@
 ---
 title: "Englehart, City of"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "City of Englehart"
+  url: "/tartans/c/ci/city-of-englehart/"
 ---
 This is the **Englehart, City of** sett — one scale-free proportion (`g27r9b2y14`), colour order pattern
 [GBRG](/stripes/gbrg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/g53r13db2y22~x2/"><circle cx="455.5" cy="232.1" r="4" fill="#3465a4"><title>Englehart Commemorative Tartan</title></circle></a><a href="/variants/s4/y30g30r1db16~x2/"><circle cx="312.2" cy="238.9" r="4" fill="#3465a4"><title>Barber Family 2011 (Personal)</title></circle></a><a href="/variants/s4/g72r25y8w5/"><circle cx="423.3" cy="219.7" r="4" fill="#3465a4"><title>Sugell (Name?)</title></circle></a><a href="/variants/s4/y22dp1g22r4~x4/"><circle cx="450.8" cy="264.0" r="4" fill="#3465a4"><title>McWilliams (2014)</title></circle></a><a href="/variants/s4/dy22dp1g22r4~x4/"><circle cx="341.1" cy="222.4" r="4" fill="#3465a4"><title>McWilliams Hunting (2014)</title></circle></a><a href="/variants/s6/y9g18b9r1w1db1~x4/"><circle cx="301.8" cy="188.4" r="4" fill="#3465a4"><title>COG USA, THE</title></circle></a><a href="/variants/s4/g56dy13y13n5~x2/"><circle cx="505.0" cy="280.8" r="4" fill="#3465a4"><title>Colonial Marine (Aliens Legacy)</title></circle></a><a href="/variants/s5/ly5g33dg33r6w2~x2~g1903114-dg1405151/"><circle cx="316.5" cy="214.8" r="4" fill="#3465a4"><title>Symington</title></circle></a><a href="/variants/s4/r1g8o8w1~x2/"><circle cx="333.9" cy="271.7" r="4" fill="#3465a4"><title>MacKinnon, hunting</title></circle></a><a href="/variants/s5/dy46dg23t23r4y4~x2/"><circle cx="314.9" cy="240.5" r="4" fill="#3465a4"><title>McMoosie Htg (Fashion)</title></circle></a><circle cx="384.1" cy="269.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,13 @@
 ---
 title: "Leinster Ancestry (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Leinster"
+  url: "/clan/leinster/"
+- name: "Leinster Ancestry"
+  url: "/tartans/l/le/leinster-ancestry/"
 ---
 This is the **Leinster Ancestry (Fashion)** sett — one scale-free proportion (`k4dg33k18dy10g19dy3dg15k1ly3`), colour order pattern
 [KGKGGGGKY](/stripes/kgkggggky/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k4dg33k18dy10g19dy3dg15k1y3~x2/"><circle cx="246.8" cy="140.4" r="4" fill="#3465a4"><title>Leinster Ancestry</title></circle></a><a href="/variants/s8/dg14k1dg2k1dg2k10g14r2/"><circle cx="198.8" cy="170.7" r="4" fill="#3465a4"><title>Manor (Corporate)</title></circle></a><a href="/variants/s6/dy83k35w3g35k3y10/"><circle cx="258.1" cy="137.1" r="4" fill="#3465a4"><title>Brandon Manitoba Trade Tartan</title></circle></a><a href="/variants/s9/dg23r7g25y5dg17k5y1w1r1~x2/"><circle cx="234.0" cy="124.8" r="4" fill="#3465a4"><title>Cates Hunting</title></circle></a><a href="/variants/s10/dg9k2dg2g13k2g2dy1dg13k26dy2~x2/"><circle cx="238.2" cy="130.8" r="4" fill="#3465a4"><title>Pride of Ireland Fashion Tartan</title></circle></a><a href="/variants/s10/dy12n2k2n42k13g25n6k2r4k10~x2/"><circle cx="195.1" cy="123.3" r="4" fill="#3465a4"><title>Dinwoodie (Name)</title></circle></a><a href="/variants/s6/k5dg25k10g15y1g5~x2/"><circle cx="229.9" cy="177.9" r="4" fill="#3465a4"><title>Delaware Fine Spirits Guild (Corp)</title></circle></a><a href="/variants/s7/g8dg60w1k33g9y4g4~x2/"><circle cx="299.1" cy="101.1" r="4" fill="#3465a4"><title>Duffy</title></circle></a><a href="/variants/s5/g22dy40n8k9o1~x2~n1900000-o2500000/"><circle cx="298.3" cy="150.4" r="4" fill="#3465a4"><title>Holehouse, Dag (Personal)</title></circle></a><a href="/variants/s8/dg28r3k28db8lb1dg8r2k3~x2/"><circle cx="260.9" cy="124.2" r="4" fill="#3465a4"><title>Stansbury</title></circle></a><circle cx="234.3" cy="136.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

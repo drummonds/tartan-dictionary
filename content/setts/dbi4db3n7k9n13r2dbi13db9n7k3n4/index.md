@@ -1,6 +1,11 @@
 ---
 title: "Paul Henry (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Paul Henry"
+  url: "/tartans/p/pa/paul-henry/"
 ---
 This is the **Paul Henry (Personal)** sett — one scale-free proportion (`dbi4db3n7k9n13r2dbi13db9n7k3n4`), colour order pattern
 [BBBKBRBBBKB](/stripes/bbbkbrbbbkb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db18k3db5k3db18dg6k5dg6o12r5o12r3~x2~o2504058/"><circle cx="132.5" cy="192.0" r="4" fill="#3465a4"><title>Longford Irish County Tartan</title></circle></a><a href="/variants/s6/dp2r1dp5k4db5lb1~x4/"><circle cx="134.6" cy="231.5" r="4" fill="#3465a4"><title>Kintore</title></circle></a><a href="/variants/s9/db10r7db31k25dg23k8db7k8y5~x2/"><circle cx="151.8" cy="209.9" r="4" fill="#3465a4"><title>MacCallum of Berwick</title></circle></a><a href="/variants/s10/db5k3db18dg6k6dg6dy12r5dy12r3~x2/"><circle cx="140.4" cy="228.6" r="4" fill="#3465a4"><title>Longford, County</title></circle></a><a href="/variants/s10/b13dg19k2dg7k2dg7k2db18r2b13~x2/"><circle cx="185.6" cy="191.2" r="4" fill="#3465a4"><title>South Australia</title></circle></a><a href="/variants/s12/dg24k24db24k5db8r5db8k5db24k24dg24y5~x2~db1204274/"><circle cx="149.8" cy="225.0" r="4" fill="#3465a4"><title>Heritage</title></circle></a><a href="/variants/s11/lo2k1dr6k2db7k2db7k2dr7k1lb2~x4/"><circle cx="129.8" cy="189.4" r="4" fill="#3465a4"><title>Mount Isla</title></circle></a><a href="/variants/s12/db3dr2db13k9dy3k2dy14k2dy3k9db15w3~x2/"><circle cx="157.9" cy="180.2" r="4" fill="#3465a4"><title>McWilliams Dress (2014)</title></circle></a><a href="/variants/s12/dr15db3dr3db19g6o6ly6db19dr3db3dr15o13~x4/"><circle cx="182.7" cy="214.1" r="4" fill="#3465a4"><title>Maple Leaf Blue</title></circle></a><a href="/variants/s12/dg16k16db4dg3db12lo2db12dg3db4k16dg16dr4~x2/"><circle cx="165.2" cy="202.6" r="4" fill="#3465a4"><title>Junior Chamber International</title></circle></a><circle cx="164.5" cy="220.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

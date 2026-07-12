@@ -1,6 +1,11 @@
 ---
 title: "Unidentified Plaid #5"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified Plaid 9"
+  url: "/tartans/u/un/unidentified-plaid-9/"
 ---
 This is the **Unidentified Plaid #5** sett — one scale-free proportion (`db26dg6db26r2dg26w1r6db2r6db13`), colour order pattern
 [BGBRGWRBRB](/stripes/bgbrgwrbrb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db57y2db10dg4db4dg9r12db4r4lr2~x2/"><circle cx="452.1" cy="106.2" r="4" fill="#3465a4"><title>Unidentified #64</title></circle></a><a href="/variants/s9/db12ly1g16db1g1db14g3db14r2~x4/"><circle cx="382.6" cy="183.7" r="4" fill="#3465a4"><title>Orlando, City of (District)</title></circle></a><a href="/variants/s8/db3r3g18db16w2db26r3g3~x2/"><circle cx="339.8" cy="183.9" r="4" fill="#3465a4"><title>MacHardy Clan Tartan</title></circle></a><a href="/variants/s7/db2y1db18g7r7db1g1~x2/"><circle cx="339.6" cy="166.5" r="4" fill="#3465a4"><title>Unnamed C20th - USA</title></circle></a><a href="/variants/s8/db22y2db1y2db10r2g11r6~x2/"><circle cx="346.9" cy="164.3" r="4" fill="#3465a4"><title>Katsushika Corporate Tartan</title></circle></a><a href="/variants/s8/db26r2t16db23t16r2w2y1~x2~db1003265-t2304245/"><circle cx="342.0" cy="156.1" r="4" fill="#3465a4"><title>Boxing Scotland</title></circle></a><a href="/variants/s10/db15g7y3g7db40g7y3g7db15r5~x2~db1406275/"><circle cx="394.7" cy="184.4" r="4" fill="#3465a4"><title>Wheadon</title></circle></a><a href="/variants/s7/g23db3k8db4g4db56dy8/"><circle cx="352.2" cy="155.0" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/variants/s7/db120g9r7y12g33y33db26/"><circle cx="373.5" cy="177.1" r="4" fill="#3465a4"><title>Supporter.com</title></circle></a><a href="/variants/s8/db32w1db1y2db1r1db4dg16~x4/"><circle cx="488.2" cy="133.0" r="4" fill="#3465a4"><title>Royal Agricultural Winter Fair</title></circle></a><circle cx="393.8" cy="170.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Westgaard of Kileughterco"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Westgaard"
+  url: "/clan/westgaard/"
 ---
 A family of [Clan Westgaard](/clan/westgaard/).
 

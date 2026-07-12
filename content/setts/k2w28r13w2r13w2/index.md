@@ -1,6 +1,15 @@
 ---
 title: "Buchanan #5"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Buchanan"
+  url: "/clan/buchanan/"
+- name: "Buchanan"
+  url: "/families/buchanan/"
+- name: "Buchanan 4"
+  url: "/tartans/b/bu/buchanan-4/"
 ---
 This is the **Buchanan #5** sett — one scale-free proportion (`k2w28r13w2r13w2`), colour order pattern
 [KWRWRW](/stripes/kwrwrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r8w3r28w32k3w4~x2/"><circle cx="296.2" cy="193.9" r="4" fill="#3465a4"><title>Ailsa, Pink (Dance)</title></circle></a><a href="/variants/s7/w5k2w30r24w3r8db3~x2/"><circle cx="281.8" cy="158.4" r="4" fill="#3465a4"><title>Arduaine, Red (Dance)</title></circle></a><a href="/variants/s7/w4k2w25r21w3r8y3~x2/"><circle cx="267.3" cy="170.4" r="4" fill="#3465a4"><title>MacPherson Dress Burgandy Clan Tartan</title></circle></a><a href="/variants/s6/w2r4w2r4w9k1~x2/"><circle cx="305.4" cy="219.0" r="4" fill="#3465a4"><title>Buchanan VS</title></circle></a><a href="/variants/s7/w4k2w25dr21w3dr8y3~x2/"><circle cx="246.1" cy="168.9" r="4" fill="#3465a4"><title>MacPherson Dress Burgundy (Dance)</title></circle></a><a href="/variants/s6/w8dr14w8dr14w35k4~x2/"><circle cx="299.7" cy="218.0" r="4" fill="#3465a4"><title>Clayton Dress (Dance)</title></circle></a><a href="/variants/s6/w5k20w2r5w20r2~x2/"><circle cx="239.9" cy="198.4" r="4" fill="#3465a4"><title>Gangs of New York Fashion Check Tartan</title></circle></a><a href="/variants/s6/k4lb28r6w12r12w3~x2/"><circle cx="201.4" cy="206.9" r="4" fill="#3465a4"><title>Thompson, D.C. (Personal)</title></circle></a><a href="/variants/s8/k1r1w1r15w15r1w1k1~x4/"><circle cx="286.5" cy="131.9" r="4" fill="#3465a4"><title>Bundy, Dress Red (Personal Dance)</title></circle></a><a href="/variants/s7/w30k1r7dg7r8w1r2~x4/"><circle cx="297.5" cy="112.0" r="4" fill="#3465a4"><title>MMK 1777</title></circle></a><circle cx="318.4" cy="183.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

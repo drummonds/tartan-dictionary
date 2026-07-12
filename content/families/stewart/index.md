@@ -1,6 +1,11 @@
 ---
 title: "Stewart"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Stewart"
+  url: "/clan/stewart/"
 ---
 A family of [Clan Stewart](/clan/stewart/).
 
@@ -9,10 +14,9 @@ A family of [Clan Stewart](/clan/stewart/).
 ## Tartans
 
 <ul class="clan-grid">
-<li><a class="tartan" href="/tartans/s/st/stewart-hunting-3/"><img src="/variants/s26/db9dg4db9k3db3k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27y4dg27k8db3k3db3k3~dg1605139/sett.png" alt="Stewart Hunting" width="140"><br><strong>Stewart Hunting (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/st/stewart-4/"><img src="/variants/s28/db14k12db3dg26k6ly2k2db2k2dg8r4k2r4lb2r4k2r4dg8k2db2k2ly2k6dg26db3k12db14k4~x2~dg1405139/sett.png" alt="Stewart" width="140"><br><strong>Stewart (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/st/stewart-2/"><img src="/variants/s9/lb44db2lb4db2lb6k16r40db2o11/sett.png" alt="Stewart" width="140"><br><strong>Stewart (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/st/stewart-13/"><img src="/variants/s23/w2r3k2r8g16k2w2k2ly1k10t6r32t6k10ly1k2w2k2g16r8k2r3w1~x4/sett.png" alt="Stewart" width="140"><br><strong>Stewart (1)</strong></a></li>
-<li><a class="tartan" href="/tartans/s/st/stewart-4/"><img src="/variants/s28/db14k12db3dg26k6ly2k2db2k2dg8r4k2r4lb2r4k2r4dg8k2db2k2ly2k6dg26db3k12db14k4~x2~dg1405139/sett.png" alt="Stewart" width="140"><br><strong>Stewart (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/st/stewart-6/"><img src="/variants/s7/r2g4db8r9g9k2r2~x2/sett.png" alt="Stewart" width="140"><br><strong>Stewart (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/st/stewart-10/"><img src="/variants/s13/dr2g13t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/sett.png" alt="Stewart" width="140"><br><strong>Stewart (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/st/stewart-5/"><img src="/variants/s24/db4w2db2w1lb5lo5g5w1g20w1db4lb4dy3w1dy3lb4db4w1lo30db2lb2w1lb2db2~x2/sett.png" alt="Stewart" width="140"><br><strong>Stewart (1)</strong></a></li>
@@ -28,6 +32,7 @@ A family of [Clan Stewart](/clan/stewart/).
 <li><a class="tartan" href="/tartans/s/st/stewart-dress-4/"><img src="/variants/s11/lb52k12dr3k3lb3k3do10n8k3n3lb3~x2~do1400000/sett.png" alt="Stewart Dress" width="140"><br><strong>Stewart Dress (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/st/stewart-dress-2/"><img src="/variants/s10/w55dp12ly2dp3w2g10dpi9dp2dpi6w2~x2~dp1105325-dpi1607327/sett.png" alt="Stewart Dress" width="140"><br><strong>Stewart Dress (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/st/stewart-grey-dress/"><img src="/variants/s11/w30n5k6n2k2w2k13n5k2n2w2~x2/sett.png" alt="Stewart Grey Dress" width="140"><br><strong>Stewart Grey Dress (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/st/stewart-hunting-3/"><img src="/variants/s26/db9dg4db9k3db3k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27y4dg27k8db3k3db3k3~dg1605139/sett.png" alt="Stewart Hunting" width="140"><br><strong>Stewart Hunting (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/st/stewart-hunting/"><img src="/variants/s27/g2db7k1db1k1db1k3g11r2g11k3g2k6g2k6g2k3g11y2g11k3db1k1db1k1db7g2~x2/sett.png" alt="Stewart Hunting" width="140"><br><strong>Stewart Hunting (3)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/st/stewart-mourning/"><img src="/variants/s11/k40n3k5n2k2n2k2n6k4w2k4~x2/sett.png" alt="Stewart Mourning" width="140"><br><strong>Stewart Mourning (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/s/st/stewart-dress-7/"><img src="/variants/s15/w20r4w4r7w132k26db26y6db6w9g83r30k5r7w4/sett.png" alt="Stewart dress" width="140"><br><strong>Stewart dress (1)</strong></a></li>

@@ -1,6 +1,11 @@
 ---
 title: "Asheville Firefighters, The"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Asheville Firefighters, The"
+  url: "/tartans/a/as/asheville-firefighters-the/"
 ---
 This is the **Asheville Firefighters, The** sett — one scale-free proportion (`k17g48y4r10db12g4`), colour order pattern
 [GBRGGK](/stripes/gbrggk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/ly3g24dt11g3k10g3w2~x2/"><circle cx="219.4" cy="166.2" r="4" fill="#3465a4"><title>Cornish Brewery, Green</title></circle></a><a href="/variants/s7/lo10w4dg30k22dg27n4lb2~x2/"><circle cx="227.7" cy="149.4" r="4" fill="#3465a4"><title>Aggreko Shepherd (Personal)</title></circle></a><a href="/variants/s5/r3db22k11g32ly3~x2/"><circle cx="184.0" cy="194.9" r="4" fill="#3465a4"><title>Cultoquhey (Corporate)</title></circle></a><a href="/variants/s5/r3db22k11g32y3~x2/"><circle cx="188.9" cy="195.9" r="4" fill="#3465a4"><title>Cultoquhey Hotel</title></circle></a><a href="/variants/s6/r1g1k1g9db9w1~x6/"><circle cx="214.7" cy="177.5" r="4" fill="#3465a4"><title>Irving of Bonshaw Tower</title></circle></a><a href="/variants/s9/k2r2k4ly3dg24k2dg16t17r2~x2/"><circle cx="257.9" cy="150.9" r="4" fill="#3465a4"><title>Shanahan (Corporate)</title></circle></a><a href="/variants/s6/g15y2k30g32r3w2~x2/"><circle cx="255.4" cy="154.9" r="4" fill="#3465a4"><title>Merwe</title></circle></a><a href="/variants/s7/k4g16db11r16g25y2lb3~x2/"><circle cx="209.4" cy="171.0" r="4" fill="#3465a4"><title>Mayo</title></circle></a><a href="/variants/s5/g37k22w4r15y3~x2/"><circle cx="172.3" cy="182.2" r="4" fill="#3465a4"><title>Oakley (2015)</title></circle></a><a href="/variants/s6/g3db8g3k4g15r2~x2/"><circle cx="269.4" cy="215.9" r="4" fill="#3465a4"><title>Lauder (Family)</title></circle></a><circle cx="233.1" cy="167.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

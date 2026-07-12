@@ -1,6 +1,15 @@
 ---
 title: "MacSporran Clan Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacSporran"
+  url: "/clan/macsporran/"
+- name: "MacSporran"
+  url: "/families/macsporran/"
+- name: "MacSporran"
+  url: "/tartans/m/ma/macsporran/"
 ---
 This is the **MacSporran Clan Tartan** sett — one scale-free proportion (`db17r3db4r5db20r3k20g20r5g4r3k3y11`), colour order pattern
 [BRBRBRKGRGRKG](/stripes/brbrbrkgrgrkg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db16r2db3r4db18r2k16dg16r4dg3r2k2ly10~x2/"><circle cx="111.4" cy="152.6" r="4" fill="#3465a4"><title>MacSporran</title></circle></a><a href="/variants/s12/db10dp2db3r4db14r2k14g14r4g3dp2g10~x2/"><circle cx="89.7" cy="181.3" r="4" fill="#3465a4"><title>MacDonald of Dunyveg Family Tartan</title></circle></a><a href="/variants/s13/db3r1db1r2db6r1k6g6r2g1r1g2y1~x6/"><circle cx="70.9" cy="175.1" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/variants/s13/db3r1db1r2db6r1k6g6r2g1r1g2y1~x2/"><circle cx="70.9" cy="175.1" r="4" fill="#3465a4"><title>Carnegie Family Tartan</title></circle></a><a href="/variants/s12/r6k20y4dy10t21k4t21dy10y4k20r6t3~x2/"><circle cx="87.9" cy="181.4" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><a href="/variants/s12/w2k1dg8r2dg8k6db10r4k2r2k1w2~x2/"><circle cx="84.4" cy="157.0" r="4" fill="#3465a4"><title>Hargis (Name)</title></circle></a><a href="/variants/s13/lg12k2r2k2r2k12dg11y2dg11k12lg11k2r2~x2~lg3101240-k0700000/"><circle cx="97.6" cy="178.1" r="4" fill="#3465a4"><title>92nd Regiment Drummers' Plaid (Mil.)</title></circle></a><a href="/variants/s13/db2dr2db12k5dg12dr2dg2dr2dg12k5w14dr2w2~x2/"><circle cx="74.5" cy="163.5" r="4" fill="#3465a4"><title>Blair Dress</title></circle></a><a href="/variants/s12/db11r2db2r4db15r2k15g15r4g2r2g11~x2/"><circle cx="113.6" cy="184.9" r="4" fill="#3465a4"><title>MacDonald #2</title></circle></a><a href="/variants/s12/db8r2db2r3db12r2k12g12r3g2r2g8/"><circle cx="100.9" cy="196.3" r="4" fill="#3465a4"><title>MacDonald MINI Design Tartan</title></circle></a><circle cx="85.9" cy="170.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

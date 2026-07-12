@@ -1,6 +1,15 @@
 ---
 title: "Holden Brown (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Holden"
+  url: "/clan/holden/"
+- name: "Holden"
+  url: "/families/holden/"
+- name: "Holden"
+  url: "/tartans/h/ho/holden-2/"
 ---
 This is the **Holden Brown (Corporate)** sett — one scale-free proportion (`w13k3w3k3w3k15dy18r3`), colour order pattern
 [RGKWKWKW](/stripes/rgkwkwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w13k3w3k3w3k15ly18r3~x2/"><circle cx="111.3" cy="202.4" r="4" fill="#3465a4"><title>Holden Beige (Corporate)</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/"><circle cx="105.6" cy="196.4" r="4" fill="#3465a4"><title>Aberlour</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2/"><circle cx="105.1" cy="196.9" r="4" fill="#3465a4"><title>Aberlour (Corporate)</title></circle></a><a href="/variants/s6/dr1n6k1w3k3dr1~x8/"><circle cx="132.1" cy="219.5" r="4" fill="#3465a4"><title>Thompson Grey Dress</title></circle></a><a href="/variants/s9/g6db11w8k4w8k4w8k27w4~x2/"><circle cx="149.9" cy="196.9" r="4" fill="#3465a4"><title>Breton District Tartan</title></circle></a><a href="/variants/s6/w23db6w6r5k35r10~x2/"><circle cx="142.5" cy="198.4" r="4" fill="#3465a4"><title>Meg Merrilees Fancy Tartan</title></circle></a><a href="/variants/s10/lb10k3w3k3w3k3lb10r6k15r3~x2/"><circle cx="110.7" cy="201.0" r="4" fill="#3465a4"><title>Edinburgh, City of</title></circle></a><a href="/variants/s8/w2r7g7k7r2g2k2w1~x5/"><circle cx="86.3" cy="203.5" r="4" fill="#3465a4"><title>Al Suwaidi of Abu Dhabi (Personal)</title></circle></a><a href="/variants/s6/w23lb6w6r5k35r10~x2/"><circle cx="142.4" cy="198.6" r="4" fill="#3465a4"><title>Merrilees</title></circle></a><a href="/variants/s9/g6db11lr8k4lr8k4lr8k27lr4~x2/"><circle cx="156.1" cy="192.1" r="4" fill="#3465a4"><title>Brittany National (District)</title></circle></a><circle cx="107.5" cy="196.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

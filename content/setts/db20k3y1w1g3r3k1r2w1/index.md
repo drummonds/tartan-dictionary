@@ -1,6 +1,13 @@
 ---
 title: "Stewart Blue MINI Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Stewart"
+  url: "/clan/stewart/"
+- name: "Stewart Blue MINI"
+  url: "/tartans/s/st/stewart-blue-mini/"
 ---
 This is the **Stewart Blue MINI Tartan** sett — one scale-free proportion (`db20k3y1w1g3r3k1r2w1`), colour order pattern
 [BKGWGRKRW](/stripes/bkgwgrkrw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db40y4k3w2k3w2k3g10r6k2r4w2~x2/"><circle cx="200.1" cy="65.8" r="4" fill="#3465a4"><title>MacBeth Clan Tartan</title></circle></a><a href="/variants/s12/db36y4k6y1k1w1k1g8r6k1r3w1~x2/"><circle cx="250.6" cy="41.6" r="4" fill="#3465a4"><title>MacBeth, MacLulich</title></circle></a><a href="/variants/s11/db90k10y2k4w2k4t14r12k2r5w4/"><circle cx="322.1" cy="29.4" r="4" fill="#3465a4"><title>Lanyard Blue (Fashion)</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="279.2" cy="129.2" r="4" fill="#3465a4"><title>Marion (Personal)</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="299.1" cy="111.7" r="4" fill="#3465a4"><title>MacBeth (Fashion)</title></circle></a><a href="/variants/s8/dg4lb2db18r2k4r6lb1w1~x4/"><circle cx="193.3" cy="109.2" r="4" fill="#3465a4"><title>Glenn</title></circle></a><a href="/variants/s12/db36y4k5w1k1w1k2g8r6k1r3w1~x4/"><circle cx="246.2" cy="40.6" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s12/db36y4k6w1k1w1k1g8r6k1r3w1~x2/"><circle cx="246.4" cy="40.3" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s12/db36y4k6w1k1w1k1g8r6k1r3w1/"><circle cx="246.4" cy="40.3" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s9/r2k3db42k3y2k3g22k3r2~x2~db1406275/"><circle cx="268.3" cy="100.9" r="4" fill="#3465a4"><title>Strachan Family Tartan</title></circle></a><circle cx="260.4" cy="78.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

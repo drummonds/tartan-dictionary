@@ -1,6 +1,11 @@
 ---
 title: "Gaffney (2016)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Gaffney"
+  url: "/tartans/g/ga/gaffney/"
 ---
 This is the **Gaffney (2016)** sett — one scale-free proportion (`y1r2k4r14g8r2g3y1g3r2g8r13k2r2k2r1y1`), colour order pattern
 [GRKRGRGGGRGRKRKRG](/stripes/grkrgrgggrgrkrkrg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r5k1r2k2r16lb2r2k9r2g2r2g13r2k2r4~x2/"><circle cx="239.0" cy="113.0" r="4" fill="#3465a4"><title>Unidentified No 3 #2</title></circle></a><a href="/variants/s15/r16k6r6g46r6g5r6k12r6lb6r48k6r6k6r16/"><circle cx="249.5" cy="130.6" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/variants/s18/r16g8r2g2w2g2r2g2w2g2r2g8r16k1r2g3r2k1~x2/"><circle cx="302.7" cy="111.2" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s7/r4g21r4k7r34lo3r4~x2/"><circle cx="280.0" cy="144.7" r="4" fill="#3465a4"><title>Kirk</title></circle></a><a href="/variants/s15/r6k2r2k4r2k2r6g18r2y1r2k1r10w1r2~x4/"><circle cx="237.1" cy="93.1" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/"><circle cx="233.6" cy="164.3" r="4" fill="#3465a4"><title>MacQuarrie Ancient</title></circle></a><a href="/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8~w4000000-dp1607327/"><circle cx="206.9" cy="123.1" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/variants/s12/r8g1r8g16r4k2lb1k4r8g1r8k1~x2/"><circle cx="285.1" cy="138.6" r="4" fill="#3465a4"><title>MacLeod and MacNicol</title></circle></a><a href="/variants/s10/k10lb1k1r10lb1k1lb1r10g6r2~x4/"><circle cx="237.8" cy="126.3" r="4" fill="#3465a4"><title>Unidentified (Scolpaig)</title></circle></a><a href="/variants/s20/k2loi4lo5o2lo1k1lo2k12lo2k1lo2o6loi7o3lo12o1lo4o1lo12loi1~x2~loi2905070-lo2706066/"><circle cx="207.8" cy="132.5" r="4" fill="#3465a4"><title>Highland Aircraft</title></circle></a><circle cx="248.0" cy="121.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

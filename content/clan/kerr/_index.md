@@ -1,12 +1,15 @@
 ---
 title: "Clan Kerr"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
-*A clan defined by its tartans — the dictionary holds no separate clan history for it, only the cloth that carries its name.*
+Border clan of supposed Viking-French descent; sett first appeared in the doubtful Vestiarium Scoticum.
 
 ## Tartan
 
-<a class="tartan" href="/variants/s10/g16k2g2k2g4k10t19k2t2k3~x2/"><img src="/variants/s10/g16k2g2k2g4k10t19k2t2k3~x2/sett.png" alt="Kerr Hunting" width="240"><br>Kerr Hunting</a>
+<a class="tartan" href="/variants/s10/g20k1g2k1g3k14r28k1r2k4~x2/"><img src="/variants/s10/g20k1g2k1g3k14r28k1r2k4~x2/sett.png" alt="Kerr" width="240"><br>Kerr</a>
 
 ## Families
 

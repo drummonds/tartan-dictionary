@@ -1,6 +1,15 @@
 ---
 title: "Franklin"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Franklin"
+  url: "/clan/franklin/"
+- name: "Franklin"
+  url: "/families/franklin/"
+- name: "Franklin"
+  url: "/tartans/f/fr/franklin/"
 ---
 This is the **Franklin** sett — one scale-free proportion (`t3y5k1y2k1y5r3k2r3t6k1t1k1t6r3k2r3y5k1y2k1y5t3k2`), colour order pattern
 [BGKGKGRKRBKBKBRKRGKGKGBK](/stripes/bgkgkgrkrbkbkbrkrgkgkgbk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/r16t6k8g13r7k8g13r7k2r7k2r7g13k8t6r8~x4/"><circle cx="104.0" cy="198.8" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/variants/s35/db6g6k3g3k3g3k3g15r9g6db3k9db3g6r9g15k3g3k3g3k3g6o9db3o3db3o3db3o6db10o3db3o3db3o3~x2/"><circle cx="56.6" cy="160.6" r="4" fill="#3465a4"><title>Unidentified &quot;Old tartan&quot;</title></circle></a><a href="/variants/s22/k9r3k3lb11k3g11k3g3k3g11k3lb11k3r3k9r3k3g11k3lb11k3lb3~x2/"><circle cx="54.9" cy="193.6" r="4" fill="#3465a4"><title>Ellenee</title></circle></a><a href="/variants/s12/g4db9r9g9k2r2k2g9r9db8g4r2~x4/"><circle cx="114.4" cy="227.3" r="4" fill="#3465a4"><title>Stewart/Stuart C18th - Cf 1314 &amp; 4454</title></circle></a><a href="/variants/s13/r12g16r3g16r3g16r4db16r5k9r12g3r12~x2/"><circle cx="139.0" cy="217.9" r="4" fill="#3465a4"><title>Grant of Monymusk</title></circle></a><a href="/variants/s11/db10k2g2r2g2k2r2k2r4k1g2~x4/"><circle cx="93.4" cy="149.0" r="4" fill="#3465a4"><title>Highfield</title></circle></a><a href="/variants/s23/k1r1g8r1k6lb1r6g6r1k8r1lb1k1r1k8r1g6r6lb1k6r1g8r1~x4/"><circle cx="114.2" cy="142.5" r="4" fill="#3465a4"><title>Cumming Hunting</title></circle></a><a href="/variants/s18/db8o3db3o3db3o3db4g4k3g3k3g3k3g13r8g4db3k6~x2/"><circle cx="48.4" cy="197.3" r="4" fill="#3465a4"><title>Glasgow, Celtic Society</title></circle></a><a href="/variants/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/"><circle cx="108.9" cy="184.2" r="4" fill="#3465a4"><title>Unidentified Sample #2</title></circle></a><a href="/variants/s23/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1~x2/"><circle cx="116.6" cy="143.1" r="4" fill="#3465a4"><title>Cumming Comyn Buchan Clan Tartan</title></circle></a><circle cx="93.5" cy="185.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

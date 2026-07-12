@@ -1,6 +1,15 @@
 ---
 title: "Connel"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Connel"
+  url: "/clan/connel/"
+- name: "Connel"
+  url: "/families/connel/"
+- name: "Connel"
+  url: "/tartans/c/co/connel-2/"
 ---
 This is the **Connel** sett — one scale-free proportion (`r8k8y1k8r8w1`), colour order pattern
 [RKGKRW](/stripes/rkgkrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r8k8lo1k8r8db1~x4~db1406275/"><circle cx="211.2" cy="210.1" r="4" fill="#3465a4"><title>Skinner Family Tartan</title></circle></a><a href="/variants/s7/k23r27db3r5w3k14y6~x2/"><circle cx="178.6" cy="165.4" r="4" fill="#3465a4"><title>Hoffman Texas German</title></circle></a><a href="/variants/s6/k2r16k8ly1k8r2~x4/"><circle cx="282.2" cy="169.7" r="4" fill="#3465a4"><title>Brodie (Clan)</title></circle></a><a href="/variants/s6/k2r16k8y1k8r2/"><circle cx="284.4" cy="170.2" r="4" fill="#3465a4"><title>Brodie Dress</title></circle></a><a href="/variants/s6/k2r16k8y1k8r2~x2/"><circle cx="284.4" cy="170.2" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/variants/s6/k3r15k11y2k4r3~x2/"><circle cx="244.0" cy="205.6" r="4" fill="#3465a4"><title>Brodie (Clan)</title></circle></a><a href="/variants/s6/k2r6k2r6k12y1~x4/"><circle cx="289.8" cy="186.6" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><a href="/variants/s6/k2r6k2r6k12y1~x2/"><circle cx="289.8" cy="186.6" r="4" fill="#3465a4"><title>MacQueen Clan Tartan</title></circle></a><a href="/variants/s6/db1r12k6y1k6db1~x4/"><circle cx="227.4" cy="167.1" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/variants/s4/k1r8k8y1~x6/"><circle cx="263.0" cy="218.1" r="4" fill="#3465a4"><title>Wallace</title></circle></a><circle cx="209.4" cy="210.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

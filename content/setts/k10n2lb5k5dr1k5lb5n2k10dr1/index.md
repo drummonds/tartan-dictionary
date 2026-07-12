@@ -1,6 +1,15 @@
 ---
 title: "Callaway Corporate Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Callaway"
+  url: "/clan/callaway/"
+- name: "Callaway"
+  url: "/families/callaway/"
+- name: "Callaway"
+  url: "/tartans/c/ca/callaway-3/"
 ---
 This is the **Callaway Corporate Tartan** sett — one scale-free proportion (`k10n2lb5k5dr1k5lb5n2k10dr1`), colour order pattern
 [BKBWKBKWBK](/stripes/bkbwkbkwbk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k1w1db8k9w1k9w1db2w1k4w1~x2/"><circle cx="281.6" cy="169.5" r="4" fill="#3465a4"><title>Clergy (Mackinlay)</title></circle></a><a href="/variants/s10/k17y2k2y2k9lb11k2lb11k20y2~x2/"><circle cx="293.6" cy="173.0" r="4" fill="#3465a4"><title>Coppa Romana (Switzerland)</title></circle></a><a href="/variants/s10/k18lb9k18lr2k2lr2k18ly9k18lr2/"><circle cx="343.0" cy="174.4" r="4" fill="#3465a4"><title>London Fog Black 2 (fashion)</title></circle></a><a href="/variants/s10/k17ly2k2ly2k9lb11k2lb11k20ly2~x2/"><circle cx="298.2" cy="177.2" r="4" fill="#3465a4"><title>Coppa Romana (Corporate)</title></circle></a><a href="/variants/s7/k16w15k4db12k22r2k6~x2/"><circle cx="242.4" cy="187.0" r="4" fill="#3465a4"><title>Sanley-Cantamessa (Personal)</title></circle></a><a href="/variants/s6/dr1k10n2lb5k5dr1~x4/"><circle cx="275.6" cy="187.3" r="4" fill="#3465a4"><title>Callaway (Corporate)</title></circle></a><a href="/variants/s7/k14r2k4lb3k12r8k1~x2/"><circle cx="353.7" cy="174.1" r="4" fill="#3465a4"><title>Punky Princess (Fashion)</title></circle></a><a href="/variants/s7/k16g15k4lb12k22w2k6~x2/"><circle cx="243.9" cy="191.0" r="4" fill="#3465a4"><title>Frame (Edinburgh) (Personal)</title></circle></a><a href="/variants/s8/k5w5k5t11k3n17k30t3~x2/"><circle cx="226.5" cy="171.5" r="4" fill="#3465a4"><title>Australian Police</title></circle></a><a href="/variants/s11/dp2r1k4y2k12y8k12y2k4y1w2~x2/"><circle cx="271.8" cy="133.1" r="4" fill="#3465a4"><title>Gary Personal Tartan</title></circle></a><circle cx="272.3" cy="176.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

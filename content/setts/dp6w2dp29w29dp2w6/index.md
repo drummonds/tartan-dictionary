@@ -1,6 +1,15 @@
 ---
 title: "Erskine Purple (Dance) Fashion Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Erskine"
+  url: "/clan/erskine/"
+- name: "Erskine"
+  url: "/families/erskine/"
+- name: "Erskine"
+  url: "/tartans/e/er/erskine-4/"
 ---
 This is the **Erskine Purple (Dance) Fashion Tartan** sett — one scale-free proportion (`dp6w2dp29w29dp2w6`), colour order pattern
 [BWBWBW](/stripes/bwbwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dp2w1dp9w9dp1w2~x6/"><circle cx="362.2" cy="257.8" r="4" fill="#3465a4"><title>Erskine Purple (Dance)</title></circle></a><a href="/variants/s8/w3db1w30db1dp28w1dp1w3~x2/"><circle cx="400.5" cy="152.3" r="4" fill="#3465a4"><title>Dunlop Dress</title></circle></a><a href="/variants/s6/dr5w2dr25w25dr2w5~x2/"><circle cx="375.5" cy="240.8" r="4" fill="#3465a4"><title>Erskine Dress Burgandy Clan Tartan</title></circle></a><a href="/variants/s6/db6w2db29w29db2w6~x2/"><circle cx="376.1" cy="239.8" r="4" fill="#3465a4"><title>Erskine Royal Blue Dress Clan Tartan</title></circle></a><a href="/variants/s8/dp42db2w2db2dp5lb12w32dp4~x2/"><circle cx="321.5" cy="164.9" r="4" fill="#3465a4"><title>Longniddry Dress District Tartan</title></circle></a><a href="/variants/s8/dp42lb2w2lb2dp5t12w32dp4~x2~lb3103284-t2405244/"><circle cx="323.7" cy="166.7" r="4" fill="#3465a4"><title>Longniddry Purple</title></circle></a><a href="/variants/s8/dp42db2w2db2dp5b12w32dp4~x2/"><circle cx="322.9" cy="165.4" r="4" fill="#3465a4"><title>Longniddry, dress</title></circle></a><a href="/variants/s8/dp42lb2w2lb2dp5t12w32dp4~x2~dp1607327-lb3103284-t2405244/"><circle cx="335.7" cy="167.8" r="4" fill="#3465a4"><title>Longniddry Dress (Dance)</title></circle></a><a href="/variants/s5/w32dr12db12w2db3~x2/"><circle cx="342.8" cy="228.7" r="4" fill="#3465a4"><title>Fraser Arisaid Red (Dance)</title></circle></a><a href="/variants/s4/w4dp31w35lb4~x2/"><circle cx="342.0" cy="271.4" r="4" fill="#3465a4"><title>Lewis, Magenta (Dance)</title></circle></a><circle cx="381.4" cy="234.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

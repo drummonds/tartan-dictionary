@@ -1,6 +1,15 @@
 ---
 title: "MacGlashan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacGlashan"
+  url: "/clan/macglashan/"
+- name: "MacGlashan"
+  url: "/families/macglashan/"
+- name: "MacGlashan"
+  url: "/tartans/m/ma/macglashan-3/"
 ---
 This is the **MacGlashan** sett — one scale-free proportion (`r25do3w2o25w3y5r4do2r4y5w3db4do5r6w1db1`), colour order pattern
 [BWRBBWGRBRGWRWBR](/stripes/bwrbbwgrbrgwrwbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/r25do3w2ly25w3y5r4do2r4y5w3db4do5r6w1db1~x2/"><circle cx="197.2" cy="85.7" r="4" fill="#3465a4"><title>MacGlashan Clan Tartan</title></circle></a><a href="/variants/s16/ri39r3w2g14w2y4ri4r2ri4y4w2lb12r6ri6y7w2~x2~ri2008029-r1506028/"><circle cx="244.1" cy="93.6" r="4" fill="#3465a4"><title>North West, Mounted Police</title></circle></a><a href="/variants/s16/r39dr3w2g14w2y4r4dr2r4y4w2lb12dr6r6y7w2~x2/"><circle cx="240.5" cy="93.4" r="4" fill="#3465a4"><title>North West Mounted Police Corporate Tartan</title></circle></a><a href="/variants/s24/lb1r4ri2rii2g27rii4g2rii4dp10r3ri2rii2ri2r3g10rii10g10rii2dp2rii26r3ri2rii3lb1~x2~r2109013-ri2208029-rii2209032/"><circle cx="232.3" cy="75.2" r="4" fill="#3465a4"><title>MacDougall (Wilson)</title></circle></a><a href="/variants/s16/ri6dr4r2ri3g34dr3r2ri4r2dr3dp8lb2ri40dr4r2ri6~x2~ri2209032-r2208029/"><circle cx="273.7" cy="84.8" r="4" fill="#3465a4"><title>MacDougall #9</title></circle></a><a href="/variants/s13/lb6dg2lb2dg5r20ri2r2ri25dr2ri2dr4ly10r2~x2~r1706009-ri2607041/"><circle cx="175.0" cy="127.8" r="4" fill="#3465a4"><title>Strathtay (District?)</title></circle></a><a href="/variants/s16/ri6r4b2ri3g34r3b2ri4b2r3dp8lb2ri40r4b2ri6~x2~ri2008029-r1506028/"><circle cx="281.5" cy="89.3" r="4" fill="#3465a4"><title>MacDougall 4</title></circle></a><a href="/variants/s24/lb1r5ri2rii3g24rii5g2rii5db11r3ri2rii2ri2r3g11rii11g11rii2db2rii25r3ri2rii5lb1~x2~r1707016-ri2208029-rii2209032/"><circle cx="220.8" cy="83.2" r="4" fill="#3465a4"><title>MacDougall #2</title></circle></a><a href="/variants/s24/y1ri4rii2r2g27r4g2r4dp10ri3rii2r2rii2ri3g10r10g10r2dp2r26ri3rii2r3y1~x2~ri2307033-rii2806019-r2109032/"><circle cx="239.9" cy="79.3" r="4" fill="#3465a4"><title>MacDougall - 1819 (Clan)</title></circle></a><a href="/variants/s17/lb4dp8w2g32w2r8ri4dp2ri4r8w2dp16r65w2dp8lb4w2~x2~w3600000-r2109032-ri2406019/"><circle cx="264.8" cy="54.2" r="4" fill="#3465a4"><title>Birral/Burrell</title></circle></a><circle cx="234.1" cy="96.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

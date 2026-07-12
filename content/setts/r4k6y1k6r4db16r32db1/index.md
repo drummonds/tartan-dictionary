@@ -1,6 +1,15 @@
 ---
 title: "Leslie Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Leslie"
+  url: "/clan/leslie/"
+- name: "Leslie"
+  url: "/families/leslie/"
+- name: "Leslie Dress"
+  url: "/tartans/l/le/leslie-dress/"
 ---
 This is the **Leslie Dress** sett — one scale-free proportion (`r4k6y1k6r4db16r32db1`), colour order pattern
 [BRBRKGKR](/stripes/brbrkgkr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r4k6y1k6r4db16r32k1~x2/"><circle cx="316.4" cy="101.5" r="4" fill="#3465a4"><title>Leslie Clan Tartan</title></circle></a><a href="/variants/s8/r11w1r32k8db6k1db16k1~x2/"><circle cx="317.6" cy="110.2" r="4" fill="#3465a4"><title>Ostermeier (2015)</title></circle></a><a href="/variants/s8/r2k3y1k3r2db8r16k1~x4/"><circle cx="281.1" cy="130.9" r="4" fill="#3465a4"><title>Leslie Red (VS) (Clan)</title></circle></a><a href="/variants/s8/r1k3lb2k28r30k1r2lb1~x2/"><circle cx="316.4" cy="99.4" r="4" fill="#3465a4"><title>Las Vegas Fire Fighters</title></circle></a><a href="/variants/s6/r80db30k3dp2db30k12/"><circle cx="317.3" cy="119.1" r="4" fill="#3465a4"><title>Double Elvis Gallery</title></circle></a><a href="/variants/s6/r40db15k2dp1db15k6~x2/"><circle cx="313.6" cy="119.9" r="4" fill="#3465a4"><title>Double Elvis Gallery (Corporate)</title></circle></a><a href="/variants/s10/r60db8r4k11w2k11w2k11db1r4~x2~db0906265-k0503265/"><circle cx="358.0" cy="57.4" r="4" fill="#3465a4"><title>Robberstad #2</title></circle></a><a href="/variants/s8/r50y8k2w2k2y8k22r3~x2/"><circle cx="297.1" cy="99.7" r="4" fill="#3465a4"><title>FIRES Center of Excelence</title></circle></a><a href="/variants/s7/r27db4k4db4k4lb6y1~x4/"><circle cx="271.4" cy="102.4" r="4" fill="#3465a4"><title>MacLeay</title></circle></a><a href="/variants/s10/r25k1y2k1y2k1r10db18w2db12~x2/"><circle cx="260.7" cy="100.2" r="4" fill="#3465a4"><title>Richardson</title></circle></a><circle cx="319.9" cy="103.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Rankine"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Rankine"
+  url: "/tartans/r/ra/rankine/"
 ---
 This is the **Rankine** sett — one scale-free proportion (`db15k1db1k1db1k12g9r1g9k1w1k1g9r1g9k12r1db9r2db1r1db6w1`), colour order pattern
 [BKBKBKGRGKWKGRGKRBRBRBW](/stripes/bkbkbkgrgkwkgrgkrbrbrbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/ly2db8r3db16r1k16g16r3g1r1g8r1g1r3g16k16r1db16r3db8ly1~x4/"><circle cx="114.9" cy="107.8" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/variants/s19/db12k1g2k1g2k1db12r2k12y1k12r2g12k1db2k1db2k1g12~x2/"><circle cx="120.8" cy="116.6" r="4" fill="#3465a4"><title>Ochiltree Family Tartan</title></circle></a><a href="/variants/s29/db1k1db8k8g8k1y4k1g8k8db1k1db1k1db16k1db1k1db1k8g8k1w4k1g8k8db8k1db1/"><circle cx="115.9" cy="94.9" r="4" fill="#3465a4"><title>Campbell of Argyll</title></circle></a><a href="/variants/s19/db12k1g2k1g2k1db12dr2k12ly1k12dr2g12k1db2k1db2k1g12~x4/"><circle cx="125.4" cy="119.5" r="4" fill="#3465a4"><title>Ochiltree (Name)</title></circle></a><a href="/variants/s21/r10db6r3db3r3db28k22g28r2k2ly4k2r2g28k22db28r3db3r3db6r5~x2/"><circle cx="115.2" cy="105.0" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s22/db12k2db3k2db3k16g8dr2g8k2w2g8dr2g8k16dr2db8dr3db2dr2db3w2~x2/"><circle cx="81.8" cy="140.9" r="4" fill="#3465a4"><title>Rankin (Dalgleish) #2</title></circle></a><a href="/variants/s17/db12k1g2k1g2k1db12dr2k25dr2g12k1db2k1db2k1g12~x4/"><circle cx="120.9" cy="115.8" r="4" fill="#3465a4"><title>O'Connor / Ochiltree</title></circle></a><a href="/variants/s27/r2db14k8g2k1g2k1g4k1g2k1g2db4g2db4g2k1g2k1g4k1g2k1g2k8db14y2~x2/"><circle cx="153.5" cy="97.5" r="4" fill="#3465a4"><title>Duchess of Albany Family Tartan</title></circle></a><a href="/variants/s10/db24k2db2r2db2k20g16y2g2y3~x2~db1406275/"><circle cx="134.1" cy="111.1" r="4" fill="#3465a4"><title>Watson</title></circle></a><a href="/variants/s16/r4k2db16k16g16ly4g16k16db1k1db1k1db1k1db8r2~x2/"><circle cx="123.9" cy="112.1" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><circle cx="119.4" cy="101.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

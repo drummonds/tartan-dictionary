@@ -1,6 +1,11 @@
 ---
 title: "Britten-Norman"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Britten-Norman"
+  url: "/tartans/b/br/britten-norman/"
 ---
 This is the **Britten-Norman** sett — one scale-free proportion (`db28w1db2w1db3w1db2w2db2w2db25k10w1k2lb2k20r1k2lr3k2r1k20lb2k1w1k10`), colour order pattern
 [BWBWBWBWBWBKWKWKRKYKRKWKWK](/stripes/bwbwbwbwbwbkwkwkrkykrkwkwk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s25/db4k1dy2k1db3k1db2k2db2k4db2k2db2k1db3r1db4k19dp1k2dp3k4db4k1w2~x2/"><circle cx="240.9" cy="65.0" r="4" fill="#3465a4"><title>Arnold (California)</title></circle></a><a href="/variants/s15/k23db1g1r3db2r1db12y1k1w1k6db4g2k2g3~x2/"><circle cx="228.0" cy="61.4" r="4" fill="#3465a4"><title>Astrobiology</title></circle></a><a href="/variants/s17/g18k1lb3k1g3k8db18k1lo1k5lo1k1db18k8g2k1lb2~x2/"><circle cx="172.9" cy="70.2" r="4" fill="#3465a4"><title>Weir</title></circle></a><a href="/variants/s20/k64db64r4db12r4db64k64lo7w7g7k64db64r4db12r4db64k64g7w7lo7/"><circle cx="204.5" cy="95.6" r="4" fill="#3465a4"><title>Sandhu (Personal)</title></circle></a><a href="/variants/s17/k3db2g2db26b1db1b1db1b1db1b3lb2k10db3g14k3r3~x2/"><circle cx="185.9" cy="55.5" r="4" fill="#3465a4"><title>St Lawrence</title></circle></a><a href="/variants/s9/k4ly2k34db10lb4db4dp4db23w3~x2/"><circle cx="196.4" cy="97.6" r="4" fill="#3465a4"><title>Heirloom Dark Alba</title></circle></a><a href="/variants/s27/k18db5ly3k1w3k1ly3db5dg8w1k36db5k1w1k1db3w1ly3w1db3k1w1k1db5k18dg8w1~x2/"><circle cx="257.4" cy="26.8" r="4" fill="#3465a4"><title>MacPerl (Personal)</title></circle></a><a href="/variants/s17/k3db2g2db26t1db1t1db1t1db1t3ti2k10db3g14k3r3~x2~t2405244-ti2503227/"><circle cx="187.6" cy="56.6" r="4" fill="#3465a4"><title>St Lawrence District Tartan</title></circle></a><a href="/variants/s17/k3db2g2db26t1db1t1db1t1db1t3lg2k10db3g14k3r3~x2/"><circle cx="184.2" cy="56.0" r="4" fill="#3465a4"><title>St. Lawrence</title></circle></a><a href="/variants/s18/db60ly2db2ly2db5k15db5g20r2k3r2g20db5k15g5db20ly2g4~x2/"><circle cx="249.4" cy="66.6" r="4" fill="#3465a4"><title>Whitworth (Name)</title></circle></a><circle cx="204.8" cy="28.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

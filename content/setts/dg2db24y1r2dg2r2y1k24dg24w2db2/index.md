@@ -1,6 +1,15 @@
 ---
 title: "Smithsonian (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Smithsonian"
+  url: "/clan/smithsonian/"
+- name: "Smithsonian"
+  url: "/families/smithsonian/"
+- name: "Smithsonian"
+  url: "/tartans/s/sm/smithsonian-2/"
 ---
 This is the **Smithsonian (Corporate)** sett — one scale-free proportion (`dg2db24y1r2dg2r2y1k24dg24w2db2`), colour order pattern
 [BWGKGRGRGBG](/stripes/bwgkgrgrgbg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dg2db24ly1r2dg2r2ly1k24dg24w2db2~x2~dg1802166-db1204274-ly3307090/"><circle cx="161.7" cy="87.8" r="4" fill="#3465a4"><title>Smithsonian (Corporate) American Corporate Tartan</title></circle></a><a href="/variants/s12/dg4r1dg1r3dg16k12r1db27lb2db3lb1y2~x2/"><circle cx="209.2" cy="82.9" r="4" fill="#3465a4"><title>McGuirk (2013)</title></circle></a><a href="/variants/s13/db36m2k3lb2k8lb2k3m2dg11g6dg4g4dg20~x2/"><circle cx="166.2" cy="103.7" r="4" fill="#3465a4"><title>Carson of Rusco (Personal)</title></circle></a><a href="/variants/s11/db2r2db2r2db20k24g12y1k2g2lb2~x2/"><circle cx="160.4" cy="85.1" r="4" fill="#3465a4"><title>Unidentified #7</title></circle></a><a href="/variants/s12/dg19w2dg5k4db21k4w2dg5w1y1w1dr14~x2/"><circle cx="160.5" cy="108.6" r="4" fill="#3465a4"><title>Womack (2014)</title></circle></a><a href="/variants/s11/dg10y2k2dg2k13dg2k2dg1dp13db24w2~x2/"><circle cx="167.5" cy="108.9" r="4" fill="#3465a4"><title>Lang of Sherbrooke (Personal)</title></circle></a><a href="/variants/s12/dg19w2dg5k4db21k4w2dg5w1y1w1do14~x2/"><circle cx="164.4" cy="111.5" r="4" fill="#3465a4"><title>Womack (2014)</title></circle></a><a href="/variants/s9/dg22lo2dg4dp3dg4k20db20k1w3~x2/"><circle cx="172.8" cy="121.8" r="4" fill="#3465a4"><title>National Wedding (Fashion)</title></circle></a><a href="/variants/s13/k2dp4o4dp3g20dp5k4dp3k7dp3k3db35w2~x2/"><circle cx="153.8" cy="96.0" r="4" fill="#3465a4"><title>Spirit of Bannockburn (Fashion)</title></circle></a><a href="/variants/s9/db2r1dg26ly1k18db26y1r1db2~x2~ly3307090-y2602166/"><circle cx="238.4" cy="110.7" r="4" fill="#3465a4"><title>Robb (Personal) Personal Tartan</title></circle></a><circle cx="174.9" cy="93.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

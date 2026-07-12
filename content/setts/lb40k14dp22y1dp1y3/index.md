@@ -1,6 +1,11 @@
 ---
 title: "British Energy Corporate Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "British Energy"
+  url: "/tartans/b/br/british-energy/"
 ---
 This is the **British Energy Corporate Tartan** sett — one scale-free proportion (`lb40k14dp22y1dp1y3`), colour order pattern
 [GBGBKW](/stripes/gbgbkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/b40k14dp22y1dp1y3~x2/"><circle cx="302.8" cy="132.1" r="4" fill="#3465a4"><title>British Energy</title></circle></a><a href="/variants/s8/b8r11b28r4k17o1k7r2~x2/"><circle cx="228.9" cy="132.4" r="4" fill="#3465a4"><title>Kilbranan Sound (Personal)</title></circle></a><a href="/variants/s7/db26w28db14y3k1y2k1~x2/"><circle cx="276.5" cy="127.3" r="4" fill="#3465a4"><title>Gothenburg/Goteborg</title></circle></a><a href="/variants/s10/w8k1w40dp1k16db16w6db3dp3db6~x2/"><circle cx="268.8" cy="95.5" r="4" fill="#3465a4"><title>Lochnagar Dress fashion Tartan</title></circle></a><a href="/variants/s9/lb60k6lb8k2lb8w2dr12k49ly4/"><circle cx="250.3" cy="90.0" r="4" fill="#3465a4"><title>Motherwell Football Club. Modern</title></circle></a><a href="/variants/s6/t18k2t4k6dp12lo1~x2/"><circle cx="261.1" cy="175.4" r="4" fill="#3465a4"><title>Joker, The</title></circle></a><a href="/variants/s7/k4ly4lb32ly1k32ly4k2~x4/"><circle cx="270.1" cy="121.0" r="4" fill="#3465a4"><title>Gleneagles Gold (Dalgleish)</title></circle></a><a href="/variants/s8/db3r2db30r1w18o30r2o3~x2/"><circle cx="229.1" cy="133.3" r="4" fill="#3465a4"><title>Bannockbane Navy</title></circle></a><a href="/variants/s5/k5w7k5n20db1~x4/"><circle cx="252.2" cy="168.8" r="4" fill="#3465a4"><title>Burberry Grey (Original)</title></circle></a><a href="/variants/s9/db5w4r1db26r25w1r8w5k1~x2/"><circle cx="261.6" cy="117.1" r="4" fill="#3465a4"><title>Boring and Dull</title></circle></a><circle cx="266.9" cy="120.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Wilson's No.117"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Wilson's No.117"
+  url: "/tartans/w/wi/wilson-s-no-117/"
 ---
 This is the **Wilson's No.117** sett — one scale-free proportion (`r4g4w2lb12r5lb12w2k5ly2k5lb4w2dp5w4dp5w2lb4k5ly2k5w2lb12r5lb12w2g4r4g4`), colour order pattern
 [GRGWWRWWKYKWWBWBWWKYKWWRWWGR](/stripes/grgwwrwwkykwwbwbwwkykwwrwwgr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s23/w4k4w4k2lb12dp2lb12r9lb2y6lb2db11lb2w6lb2g9lb12dp2lb12k2w4k4w4~x2/"><circle cx="39.7" cy="125.5" r="4" fill="#3465a4"><title>Liberty, Egal'ty, Fratern'ty and Progress Blue Lodge</title></circle></a><a href="/variants/s32/dg12t3k2t3k2t3k2t3w12dp2dg2dp2w4g2w4k2w4g2w4dp2dg2dp2w12t3k2t3k2t3k2t3dg12r3~x2~dg1806142-g2408144/"><circle cx="14.0" cy="110.3" r="4" fill="#3465a4"><title>Kennedy Dress</title></circle></a><a href="/variants/s34/g3r3g3lb3yi13lb5yi3lb5k9g3lb3g3yi6lb3k3lb16y3lb3g3lb3r3lb16k3lb3yi6g3lb3g3k9lb5yi3lb5yi13lb3~x2~yi2404144/"><circle cx="79.2" cy="136.4" r="4" fill="#3465a4"><title>Shipley, Ian (Personal)</title></circle></a><a href="/variants/s17/db4ly2db4lb6w2k2lb6w2k2lb13ly3k4ly3k8db6w2r4~x2/"><circle cx="29.0" cy="158.4" r="4" fill="#3465a4"><title>Clauwaert (Personal)</title></circle></a><a href="/variants/s16/dr3k8w2k3w2k2w6b3w6dy2w2dy3w2dy4ly10w3~x2/"><circle cx="30.1" cy="173.1" r="4" fill="#3465a4"><title>Clanedin/Commonwealth</title></circle></a><a href="/variants/s17/r3k8w2k3w2k2w6db3w6k2w2o3w2o4y2o10w3~x2/"><circle cx="32.2" cy="163.4" r="4" fill="#3465a4"><title>Clanedin</title></circle></a><a href="/variants/s24/k2y2k2g9k7w2k3w12k2w4k2w12k3w2k7db7r2db3r2db7k7g9k2lb2~x2/"><circle cx="14.0" cy="125.4" r="4" fill="#3465a4"><title>Malcolm, dress</title></circle></a><a href="/variants/s28/db8w21db8w7k2w3y3w3k12w2r8y3k3y3k3y3k3y3k3y3r8w2k12w3y3w3k2w7~x2/"><circle cx="23.3" cy="98.0" r="4" fill="#3465a4"><title>Znaimer (Canada)</title></circle></a><a href="/variants/s24/g16r2g4b2g4r2g16db2g3db2g3db10w2lb12k2lb5k2lb12w2db10g3db2g3db2~x2~g2104115-r2008022-db0906265-lb3200000/"><circle cx="104.0" cy="113.2" r="4" fill="#3465a4"><title>O'Sullivan, McCragh</title></circle></a><a href="/variants/s24/k7g9k2ly2k2y2k2g9k7db7r2db3r2db7k7w2k2w11k2w3k2w11k2w2~x4/"><circle cx="14.0" cy="128.0" r="4" fill="#3465a4"><title>Malcolm Dress</title></circle></a><circle cx="31.2" cy="129.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Harmon of Plenderleith"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Harmon"
+  url: "/clan/harmon/"
 ---
 A family of [Clan Harmon](/clan/harmon/).
 

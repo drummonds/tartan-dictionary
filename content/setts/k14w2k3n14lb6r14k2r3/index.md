@@ -1,6 +1,11 @@
 ---
 title: "Raytheon"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Raytheon"
+  url: "/tartans/r/ra/raytheon/"
 ---
 This is the **Raytheon** sett — one scale-free proportion (`k14w2k3n14lb6r14k2r3`), colour order pattern
 [KWKBWRKR](/stripes/kwkbwrkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r4do6o3do10k14t6r18t6k4t2~x2/"><circle cx="90.2" cy="180.6" r="4" fill="#3465a4"><title>Cartier, Sir George Etienne</title></circle></a><a href="/variants/s10/r4g6y3g12k14db5r20db5k4db2~x2/"><circle cx="93.4" cy="167.0" r="4" fill="#3465a4"><title>Sir George Etienne-Cartier Canada Tartan</title></circle></a><a href="/variants/s8/n6w2k4dy12k4w2n6r3~x2/"><circle cx="72.0" cy="208.1" r="4" fill="#3465a4"><title>Strathblane</title></circle></a><a href="/variants/s12/r20g3r3g13r6k10db14w3r3w3db14k12~x2/"><circle cx="55.2" cy="179.2" r="4" fill="#3465a4"><title>Glengarry Highland Games</title></circle></a><a href="/variants/s10/o5k15lb5n9lb2dp2lb2dp2n9k3~x2/"><circle cx="87.4" cy="172.4" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior Corporate Tartan</title></circle></a><a href="/variants/s10/r4g7y3g12k16lb5r20lb5k4lb2~x2/"><circle cx="81.1" cy="165.0" r="4" fill="#3465a4"><title>Unidentified Canadian Tartan</title></circle></a><a href="/variants/s11/k14db22k5ly11k5y24k11ly11r54ly8k10/"><circle cx="78.1" cy="142.4" r="4" fill="#3465a4"><title>Derry County Crest (Fashion)</title></circle></a><a href="/variants/s9/db20b3db4r3db3k10g21k4r20~x2/"><circle cx="88.6" cy="181.9" r="4" fill="#3465a4"><title>Holland &amp; Sherry (Corporate)</title></circle></a><a href="/variants/s12/r4o14dg2o4dg2k6o3k6ki14r2ki4r4~x2~ki0604259/"><circle cx="84.0" cy="169.1" r="4" fill="#3465a4"><title>Kinloch Anderson Limited</title></circle></a><a href="/variants/s10/k1g8k4r1db8r1db1r8g1w1~x4/"><circle cx="90.4" cy="159.9" r="4" fill="#3465a4"><title>Rattray of Lude</title></circle></a><circle cx="84.9" cy="180.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

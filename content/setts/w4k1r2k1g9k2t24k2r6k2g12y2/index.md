@@ -1,6 +1,15 @@
 ---
 title: "Tait #2"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Tait"
+  url: "/clan/tait/"
+- name: "Tait"
+  url: "/families/tait/"
+- name: "Tait"
+  url: "/tartans/t/ta/tait/"
 ---
 This is the **Tait #2** sett — one scale-free proportion (`w4k1r2k1g9k2t24k2r6k2g12y2`), colour order pattern
 [GGKRKBKGKRKW](/stripes/ggkrkbkgkrkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/y4k1g10r2g10r4g10r2g10k16t28k1lb4~x2~t2503227-lb3103284/"><circle cx="149.5" cy="99.2" r="4" fill="#3465a4"><title>California State</title></circle></a><a href="/variants/s11/r4k2g25k2lb10k2g4k2db25k2y4~x2/"><circle cx="115.7" cy="116.3" r="4" fill="#3465a4"><title>Ayrton Family Tartan</title></circle></a><a href="/variants/s11/dy4k2db25k2g4k2lb10k2g25k2r4~x2/"><circle cx="115.9" cy="116.2" r="4" fill="#3465a4"><title>Ayrton (1979) (Personal)</title></circle></a><a href="/variants/s13/lo4k1g10r2g10r4g10r2g10k16t28k1lb4~x2~t2503227-lb3103284/"><circle cx="145.8" cy="97.6" r="4" fill="#3465a4"><title>California State American District Tartan</title></circle></a><a href="/variants/s9/g3dp2g25k6r2k6lb20k1w2~x2/"><circle cx="160.2" cy="94.9" r="4" fill="#3465a4"><title>Birch (Name)</title></circle></a><a href="/variants/s9/ly4k1g28k6dy18w4t41k1w3~x2/"><circle cx="186.2" cy="91.1" r="4" fill="#3465a4"><title>State Seal of Pennsylvania (Fashion)</title></circle></a><a href="/variants/s13/lb7k1do1n2g18lb2k1lo2k1lb6k1do1lb1~x4/"><circle cx="181.4" cy="91.1" r="4" fill="#3465a4"><title>Wcwm 972-1</title></circle></a><a href="/variants/s13/g18dr1g2dr2g16dr1k16n1k2dr2b20dr1w2~x4/"><circle cx="164.0" cy="94.4" r="4" fill="#3465a4"><title>Canadian Estate</title></circle></a><a href="/variants/s10/g9w9k2w2k2y2dg28g2db12g4~x2/"><circle cx="125.7" cy="121.8" r="4" fill="#3465a4"><title>Order of Saint Lazarus</title></circle></a><a href="/variants/s8/g22r3w1g2r3lb16k3dy2~x4/"><circle cx="163.1" cy="86.3" r="4" fill="#3465a4"><title>Stirling University #2</title></circle></a><circle cx="145.0" cy="92.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

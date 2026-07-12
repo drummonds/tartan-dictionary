@@ -1,6 +1,13 @@
 ---
 title: "Mowat, Sir Oliver"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Mowat"
+  url: "/clan/mowat/"
+- name: "Mowat, Sir Oliver"
+  url: "/tartans/m/mo/mowat-sir-oliver/"
 ---
 This is the **Mowat, Sir Oliver** sett — one scale-free proportion (`g6do2lr3do2lo3do2g6dr16g4do3g3do3g16do2lr3do2lo3do2dr4`), colour order pattern
 [BBYBYBGBGBGBGBYBYBG](/stripes/bbybybgbgbgbgbybybg/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/g9db2dg3db2dg5db2dg3lo3dg6lo3dg3db2dg5db2dg3db2g16dr3db2dr3g7~x2/"><circle cx="186.3" cy="194.9" r="4" fill="#3465a4"><title>Limerick Irish County Tartan</title></circle></a><a href="/variants/s8/db8lo1g12dr10y2dr6y2dr4~x4/"><circle cx="259.5" cy="197.9" r="4" fill="#3465a4"><title>Indiana 'Cardinal'</title></circle></a><a href="/variants/s11/do6ly4do3db2do5db2do3db2g14dr3db2~x2/"><circle cx="193.5" cy="220.5" r="4" fill="#3465a4"><title>Limerick, County</title></circle></a><a href="/variants/s12/dg19dr3dg3dr15ly13dr15dg3dr3dg19dy6ly6do6~x2/"><circle cx="201.6" cy="230.9" r="4" fill="#3465a4"><title>Maple Leaf</title></circle></a><a href="/variants/s17/lb3dg15n12ly1n1ly1n1ly1n1ly1n1ly1n1ly3lyi3ly15lb3~x2~ly2706114-lyi3104101/"><circle cx="244.4" cy="149.1" r="4" fill="#3465a4"><title>Green Thistle</title></circle></a><a href="/variants/s18/g18r3g3r15dg13r14g3r3g18dg5g2y5g3r2g3db5g2lb5~x2/"><circle cx="180.9" cy="156.9" r="4" fill="#3465a4"><title>Ben Murad (Personal)</title></circle></a><a href="/variants/s12/dr3g16db2g2db2g3db6o20lr3o2lr2o3~x2/"><circle cx="228.8" cy="171.1" r="4" fill="#3465a4"><title>Callum, Blue (Fashion)</title></circle></a><a href="/variants/s18/ly18do3ly3do3ly3do16g16w3g16do16ly17do3ly3do3ly17do16g16w3~x2/"><circle cx="166.6" cy="223.7" r="4" fill="#3465a4"><title>Lamont Heather</title></circle></a><a href="/variants/s13/dr3lb2dr3lb2dr14db6lb3db6g16dr6t6dr6lb3~x2/"><circle cx="191.0" cy="207.9" r="4" fill="#3465a4"><title>Ritchie</title></circle></a><a href="/variants/s17/dr3g3dr18g6dr4db3lb3db18dr6g18lb3g3dr3db4dr18g3dr3~x2/"><circle cx="252.6" cy="210.0" r="4" fill="#3465a4"><title>Reid Red Clan/Family Tartan</title></circle></a><circle cx="205.4" cy="181.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

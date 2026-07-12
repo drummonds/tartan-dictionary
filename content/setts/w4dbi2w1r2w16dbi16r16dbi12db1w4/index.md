@@ -1,6 +1,11 @@
 ---
 title: "Spirit of Russia, The"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Spirit of Russia, The"
+  url: "/tartans/s/sp/spirit-of-russia-the/"
 ---
 This is the **Spirit of Russia, The** sett — one scale-free proportion (`w4dbi2w1r2w16dbi16r16dbi12db1w4`), colour order pattern
 [WBBRBWRWBW](/stripes/wbbrbwrwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dy4db2r7db15r3db3r3db7w28r7w6r2/"><circle cx="187.6" cy="149.9" r="4" fill="#3465a4"><title>Walker Dress Family Tartan</title></circle></a><a href="/variants/s8/r20db2r2db2ly3db12w18db3~x2~ly2705081/"><circle cx="179.6" cy="183.9" r="4" fill="#3465a4"><title>Heriot</title></circle></a><a href="/variants/s7/db12w4db1w4r8w2r1~x4/"><circle cx="222.2" cy="205.2" r="4" fill="#3465a4"><title>Sunderland</title></circle></a><a href="/variants/s10/w4db2w1r2w16db16r16db12k1w4~x2/"><circle cx="181.5" cy="149.4" r="4" fill="#3465a4"><title>Spirit of Russia, The</title></circle></a><a href="/variants/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2/"><circle cx="160.3" cy="139.2" r="4" fill="#3465a4"><title>Walker, Dress (Name)</title></circle></a><a href="/variants/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2~r2109032/"><circle cx="160.0" cy="139.3" r="4" fill="#3465a4"><title>Walker, Dress (Personal)</title></circle></a><a href="/variants/s7/dp8db2dp24db5w26k2w8~x2/"><circle cx="222.8" cy="173.4" r="4" fill="#3465a4"><title>Lennox Purple Dress District Tartan</title></circle></a><a href="/variants/s8/o20db2o2db2ly3db12w18db3~x2/"><circle cx="178.1" cy="189.5" r="4" fill="#3465a4"><title>Heriot (Fashion)</title></circle></a><a href="/variants/s7/y2db3w6db15r24db3w2~x2/"><circle cx="247.2" cy="177.5" r="4" fill="#3465a4"><title>Fazzolettone (Fashion?)</title></circle></a><a href="/variants/s8/r6db2dp21w3dg19w26dg3w5~x2/"><circle cx="164.9" cy="168.7" r="4" fill="#3465a4"><title>Culloden Dress Old Tartan</title></circle></a><circle cx="210.1" cy="164.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

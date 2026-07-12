@@ -1,6 +1,15 @@
 ---
 title: "Christian Dress (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Christian"
+  url: "/clan/christian/"
+- name: "Christian"
+  url: "/families/christian/"
+- name: "Christian Dress"
+  url: "/tartans/c/ch/christian-dress/"
 ---
 This is the **Christian Dress (Personal)** sett — one scale-free proportion (`r3w2db27k19w27dp2y3`), colour order pattern
 [GBWKBWR](/stripes/gbwkbwr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb26db13k13w2g8k5r3lb3~x2/"><circle cx="106.2" cy="141.3" r="4" fill="#3465a4"><title>Moran (Coilessan) (Personal)</title></circle></a><a href="/variants/s7/r2db14k6g1w12g1w2~x4/"><circle cx="137.8" cy="150.1" r="4" fill="#3465a4"><title>Davidson (Wedding) (Personal)</title></circle></a><a href="/variants/s9/w3lb26db13k13w2g8k5r3lb3~x2/"><circle cx="95.1" cy="133.1" r="4" fill="#3465a4"><title>Moran (Virgin Islands) (Personal)</title></circle></a><a href="/variants/s7/db68k42w32r5w32dg4w6/"><circle cx="144.1" cy="154.0" r="4" fill="#3465a4"><title>Ferguson Dress #2</title></circle></a><a href="/variants/s9/dp4k2w3k2db30g9k4w20dy3~x2/"><circle cx="123.1" cy="114.1" r="4" fill="#3465a4"><title>Minnesota Dress</title></circle></a><a href="/variants/s9/dp4k2w3k2db30g9k4w20dy3~x2~g2408144/"><circle cx="122.5" cy="114.1" r="4" fill="#3465a4"><title>Minnesota Dress American District Tartan</title></circle></a><a href="/variants/s10/db28r3w3r3w3r3db14k12lb38y8/"><circle cx="117.9" cy="124.3" r="4" fill="#3465a4"><title>GYL (Personal)</title></circle></a><a href="/variants/s6/r2w12lb1k12b12k1~x2/"><circle cx="106.8" cy="170.4" r="4" fill="#3465a4"><title>Dutch, dress</title></circle></a><a href="/variants/s7/db35r2k16y2lb25w2lb6~x2/"><circle cx="151.0" cy="124.2" r="4" fill="#3465a4"><title>US Forces (Thurso) Regimental Tartan</title></circle></a><a href="/variants/s7/r3db25k6lb20y2lb2w3~x2/"><circle cx="155.2" cy="137.5" r="4" fill="#3465a4"><title>Madras College (Corporate)</title></circle></a><circle cx="111.1" cy="138.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

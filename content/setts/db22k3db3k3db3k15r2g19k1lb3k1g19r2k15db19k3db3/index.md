@@ -1,6 +1,15 @@
 ---
 title: "Sempill"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Sempill"
+  url: "/clan/sempill/"
+- name: "Sempill"
+  url: "/families/sempill/"
+- name: "Sempill"
+  url: "/tartans/s/se/sempill/"
 ---
 This is the **Sempill** sett — one scale-free proportion (`db22k3db3k3db3k15r2g19k1lb3k1g19r2k15db19k3db3`), colour order pattern
 [BKBKBKRGKWKGRKBKB](/stripes/bkbkbkrgkwkgrkbkb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/t22k3t3k3t3k15g19k1lb3k1g19r2k15t19k3t3~x2/"><circle cx="147.0" cy="109.5" r="4" fill="#3465a4"><title>Sempill (Clan)</title></circle></a><a href="/variants/s16/g19k1dg3k1g3k9db20k1y1k7y1k1db21k12g2dg1~x2~g2408144-dg1806142/"><circle cx="174.9" cy="97.0" r="4" fill="#3465a4"><title>Hope Vere Family Tartan</title></circle></a><a href="/variants/s14/db22g1db2g1db4k16ly1g16r2g16ly1k16db16g1~x2/"><circle cx="172.4" cy="116.9" r="4" fill="#3465a4"><title>Milne of Corstorphine #2 (Personal)</title></circle></a><a href="/variants/s13/db24k4db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="144.8" cy="115.2" r="4" fill="#3465a4"><title>Craigclowan School</title></circle></a><a href="/variants/s21/db18k2db4k20g10dr2g10k1lb3k1g10dr2g10k20dr1db14dr3db2dr2db4lb1~x2/"><circle cx="123.6" cy="102.6" r="4" fill="#3465a4"><title>Rankin (Dalgleish)</title></circle></a><a href="/variants/s15/db16k2db2k2db2k12g12y2k2y2g12k16db16k1w3~x2/"><circle cx="133.9" cy="126.6" r="4" fill="#3465a4"><title>Dyce #2</title></circle></a><a href="/variants/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/"><circle cx="136.5" cy="125.8" r="4" fill="#3465a4"><title>Campbell Red</title></circle></a><a href="/variants/s14/db20k2g3k2db20r3k20r2k20r3g30y3g1y2~x2/"><circle cx="151.0" cy="92.0" r="4" fill="#3465a4"><title>Glynn of Glynstewart (Personal)</title></circle></a><a href="/variants/s16/r4k2db16k16g16ly4g16k16db1k1db1k1db1k1db8r2~x2/"><circle cx="123.9" cy="112.1" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/variants/s14/db88k15g9r12g20k3y8k6g20r12g9k15db24k36/"><circle cx="183.5" cy="94.1" r="4" fill="#3465a4"><title>Gillies</title></circle></a><circle cx="152.2" cy="103.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

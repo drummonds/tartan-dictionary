@@ -1,6 +1,13 @@
 ---
 title: "Cumming LO"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cumming"
+  url: "/clan/cumming/"
+- name: "Cumming LO"
+  url: "/tartans/c/cu/cumming-lo/"
 ---
 This is the **Cumming LO** sett — one scale-free proportion (`r4w1r4g10y1k10w4k2w4`), colour order pattern
 [RWRGGKWKW](/stripes/rwrggkwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r4g7y3g12k16lb5r20lb5k4lb2~x2/"><circle cx="81.1" cy="165.0" r="4" fill="#3465a4"><title>Unidentified Canadian Tartan</title></circle></a><a href="/variants/s9/r4w1r4g10y1k10lb4k2lb4~x4/"><circle cx="51.9" cy="158.3" r="4" fill="#3465a4"><title>Comyn/Cumming</title></circle></a><a href="/variants/s12/k6g5k6do6w1do10k6w3dr1w12dr1w3~x4/"><circle cx="70.8" cy="156.6" r="4" fill="#3465a4"><title>Forbes - 1970 (WCWM #1)</title></circle></a><a href="/variants/s10/lr3ly2k4lo6k4ly15k4dg18k2ly3~x2/"><circle cx="87.9" cy="157.6" r="4" fill="#3465a4"><title>Fitzsimmons</title></circle></a><a href="/variants/s9/y1k1r8y4k6dg8w8k1y1~x4/"><circle cx="22.9" cy="175.9" r="4" fill="#3465a4"><title>Graham, Red Dress</title></circle></a><a href="/variants/s10/dr4k1dr4g8k6lb3db2lb11db1dr2~x4/"><circle cx="87.4" cy="165.8" r="4" fill="#3465a4"><title>MacDuff Dress #2</title></circle></a><a href="/variants/s10/dy3g2ly18k4dr15k4dy6k4ly2g3~x2/"><circle cx="87.9" cy="157.7" r="4" fill="#3465a4"><title>Fitzsimmons Red (Name)</title></circle></a><a href="/variants/s9/r4w1r4g10y1k10lb4k2lb4~x2~r1908029-y1904072/"><circle cx="53.0" cy="159.2" r="4" fill="#3465a4"><title>Cumming LO</title></circle></a><a href="/variants/s13/w18dr3w3dr10w26dr3k26g28dr10g3dr3g8lo6/"><circle cx="68.4" cy="151.5" r="4" fill="#3465a4"><title>Carnegie Dress #2 (Fashion)</title></circle></a><a href="/variants/s10/r4g6y3g12k14db5r20db5k4db2~x2/"><circle cx="93.4" cy="167.0" r="4" fill="#3465a4"><title>Sir George Etienne-Cartier Canada Tartan</title></circle></a><circle cx="65.5" cy="170.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

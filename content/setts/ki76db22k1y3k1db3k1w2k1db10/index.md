@@ -1,6 +1,11 @@
 ---
 title: "Canberra, City of District Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Canberra, City of"
+  url: "/tartans/c/ca/canberra-city-of/"
 ---
 This is the **Canberra, City of District Tartan** sett — one scale-free proportion (`ki76db22k1y3k1db3k1w2k1db10`), colour order pattern
 [BKWKBKGKBK](/stripes/bkwkbkgkbk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db54lb3k5lb1k2lb1k2g8dr8lb2~x2/"><circle cx="375.2" cy="52.2" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/variants/s7/db40dbi8ly3dbi6k3dbi6r4~x2~db1004274-dbi1406275/"><circle cx="370.7" cy="163.2" r="4" fill="#3465a4"><title>Edinburgh &amp; Lothian T.B. (Corporate)</title></circle></a><a href="/variants/s7/ki40db8o3db6k3db6r4~x2~ki0503265-db1003265/"><circle cx="374.1" cy="162.5" r="4" fill="#3465a4"><title>Edinburgh and Lothian Tourist Board</title></circle></a><a href="/variants/s10/dt76db22k1y3k1db3k1w2k1db10~x2/"><circle cx="506.2" cy="89.5" r="4" fill="#3465a4"><title>Canberra, City of</title></circle></a><a href="/variants/s14/dbi4k2dbi8db10dp6db40k16dbi8k2dbi4k2dbi66y2dbi1~x2~dbi1604274-db0805267/"><circle cx="385.9" cy="79.2" r="4" fill="#3465a4"><title>Payne</title></circle></a><a href="/variants/s9/db3n3db36dbi7k3dbi6g5k1y3~x2~db1106275-dbi1406275/"><circle cx="371.6" cy="93.8" r="4" fill="#3465a4"><title>Incorporation of Weavers (Glasgow)</title></circle></a><a href="/variants/s10/k46w1ki3lb4ki3db3ki2db11ki1lb2~x2~k0504259-ki0700000/"><circle cx="381.8" cy="65.4" r="4" fill="#3465a4"><title>Seacliff Academy</title></circle></a><a href="/variants/s10/db84dp1db1k2db2k30dp7db2g3lo2~x2/"><circle cx="447.9" cy="58.2" r="4" fill="#3465a4"><title>Ulster Scots (Fashion)</title></circle></a><a href="/variants/s14/r1k1db2k6db2k2db50k3db2k15dp2db3k4b1~x2~db1108266-b1511266/"><circle cx="430.7" cy="44.6" r="4" fill="#3465a4"><title>Bowcutt, David (Personal)</title></circle></a><circle cx="481.7" cy="77.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

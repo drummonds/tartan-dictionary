@@ -1,6 +1,11 @@
 ---
 title: "Highlands of Durham"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Highlands of Durham"
+  url: "/tartans/h/hi/highlands-of-durham/"
 ---
 This is the **Highlands of Durham** sett — one scale-free proportion (`dt37g27w2dt4r6dt4w2g27dt37y2`), colour order pattern
 [BGWBRBWGBG](/stripes/bgwbrbwgbg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r2db2g16y1db6r1y1r1db6y1g16y2~x2/"><circle cx="349.2" cy="157.7" r="4" fill="#3465a4"><title>Monroig, Eric (Personal)</title></circle></a><a href="/variants/s10/dy6w1dy24db6g2db1g2db1g12r1~x2/"><circle cx="343.2" cy="132.8" r="4" fill="#3465a4"><title>Chisholm Hunting Clan Tartan</title></circle></a><a href="/variants/s6/r6dt4w2g27dt37y2~x2/"><circle cx="326.9" cy="173.0" r="4" fill="#3465a4"><title>Highlands of Durham (Corporate)</title></circle></a><a href="/variants/s13/r2dg12g3dg2g2dg2g16lb4dg12w1g8dg14y2~x2/"><circle cx="283.9" cy="155.6" r="4" fill="#3465a4"><title>Field Gun Association</title></circle></a><a href="/variants/s7/g10r3g30n10w2db15r4~x2/"><circle cx="289.7" cy="189.5" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s8/g28r2g2r2g8db24y3r2~x2/"><circle cx="325.0" cy="176.6" r="4" fill="#3465a4"><title>Leatherneck, U.S.Marine Corps</title></circle></a><a href="/variants/s8/g28r2g2r2g8db24dy3r2~x2/"><circle cx="323.5" cy="175.9" r="4" fill="#3465a4"><title>Leatherneck U.S.Marine Corps Corporate Tartan</title></circle></a><a href="/variants/s8/g38w2g6db24o6db2o3db2~x2/"><circle cx="335.5" cy="164.1" r="4" fill="#3465a4"><title>MacAuliffe/McAucliffe</title></circle></a><a href="/variants/s9/g4lo1dt1lo1dt2g9r1dt6w1~x4/"><circle cx="256.8" cy="190.3" r="4" fill="#3465a4"><title>Casey of West Virginia (Personal)</title></circle></a><a href="/variants/s8/g10db1w1db1y1db6g8r1~x8/"><circle cx="328.5" cy="186.2" r="4" fill="#3465a4"><title>Marshall Field</title></circle></a><circle cx="339.6" cy="164.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

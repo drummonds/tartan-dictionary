@@ -1,6 +1,15 @@
 ---
 title: "MacDonald of Glenaladale - 1772 (Cla"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDonald"
+  url: "/clan/macdonald/"
+- name: "MacDonald of Glenaladale"
+  url: "/families/macdonald-of-glenaladale/"
+- name: "MacDonald of Glenaladale"
+  url: "/tartans/m/ma/macdonald-of-glenaladale-2/"
 ---
 This is the **MacDonald of Glenaladale - 1772 (Cla** sett — one scale-free proportion (`k5lb2r50k50r5w2r5g42r50k5w2`), colour order pattern
 [KWRKRWRGRKW](/stripes/kwrkrwrgrkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dr3lr1dr20k3lo2k2lo2k2lo6r3~x4/"><circle cx="253.0" cy="100.0" r="4" fill="#3465a4"><title>Motherwell F.C. Fir Park Dress (Spor</title></circle></a><a href="/variants/s10/g4r2k2r20lb1k7r2g10r3k2~x2/"><circle cx="250.6" cy="119.7" r="4" fill="#3465a4"><title>MacKillop (Scottish Tartan Society)</title></circle></a><a href="/variants/s15/r31g3r2g2r3g2r2g3r15k15g2k15g3k3w2~x2/"><circle cx="208.0" cy="86.4" r="4" fill="#3465a4"><title>Moir (Loch Insh) (Personal)</title></circle></a><a href="/variants/s15/r6k2r2k4r2k2r6g18r2y1r2k1r10w1r2~x4/"><circle cx="237.1" cy="93.1" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s10/g4r4k2r20lb1k7r2g10r3k2~x2/"><circle cx="257.9" cy="123.0" r="4" fill="#3465a4"><title>MacKillop Clan Tartan</title></circle></a><a href="/variants/s7/r27g4k4g4k4db6lo1~x4/"><circle cx="270.0" cy="102.9" r="4" fill="#3465a4"><title>MacLeay (Clan)</title></circle></a><a href="/variants/s8/dg5k1r2k4r36k23w4y2~x2/"><circle cx="257.6" cy="74.0" r="4" fill="#3465a4"><title>Aberdeen F.C.</title></circle></a><a href="/variants/s10/k5db5k2r47k18w2k5dg9db7w3~x2/"><circle cx="208.7" cy="83.1" r="4" fill="#3465a4"><title>Rikaco Holiday</title></circle></a><a href="/variants/s13/lo12k1lo1dr28lo4k8lr1do11k8lo32dr11lo6dr4~x2/"><circle cx="202.1" cy="91.0" r="4" fill="#3465a4"><title>Aboyne</title></circle></a><a href="/variants/s8/o5k1r2k4r36k23w4y2~x2/"><circle cx="258.4" cy="73.4" r="4" fill="#3465a4"><title>Aberdeen Football Club (1999)</title></circle></a><circle cx="232.0" cy="89.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

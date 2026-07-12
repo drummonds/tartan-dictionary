@@ -1,6 +1,11 @@
 ---
 title: "Heolbellva ha Materi (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Heolbellva ha Materi"
+  url: "/tartans/h/he/heolbellva-ha-materi/"
 ---
 This is the **Heolbellva ha Materi (Fashion)** sett — one scale-free proportion (`w91k1w6k2w5k3w4k4w3k5w2k6w1k7`), colour order pattern
 [KWKWKWKWKWKWKW](/stripes/kwkwkwkwkwkwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w11k1w1k1w1k8w8k1w8k8w8k1w1~x2/"><circle cx="332.8" cy="179.8" r="4" fill="#3465a4"><title>Black Watch Ground Colour</title></circle></a><a href="/variants/s14/w10k1w5k7w7r2w7k50w7k2w7k7w5k1~x2/"><circle cx="348.7" cy="70.9" r="4" fill="#3465a4"><title>Pars, Dress (Sports)</title></circle></a><circle cx="523.8" cy="53.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

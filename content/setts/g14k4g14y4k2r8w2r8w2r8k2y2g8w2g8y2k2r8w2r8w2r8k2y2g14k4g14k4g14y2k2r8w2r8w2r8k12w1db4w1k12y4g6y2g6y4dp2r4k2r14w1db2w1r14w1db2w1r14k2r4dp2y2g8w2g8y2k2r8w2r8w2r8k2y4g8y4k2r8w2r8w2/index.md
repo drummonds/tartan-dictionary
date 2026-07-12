@@ -1,6 +1,15 @@
 ---
 title: "Ogilvie - 1831 (Clan)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ogilvie"
+  url: "/clan/ogilvie/"
+- name: "Ogilvie"
+  url: "/families/ogilvie/"
+- name: "Ogilvie"
+  url: "/tartans/o/og/ogilvie-5/"
 ---
 This is the **Ogilvie - 1831 (Clan)** sett — one scale-free proportion (`g14k4g14y4k2r8w2r8w2r8k2y2g8w2g8y2k2r8w2r8w2r8k2y2g14k4g14k4g14y2k2r8w2r8w2r8k12w1db4w1k12y4g6y2g6y4dp2r4k2r14w1db2w1r14w1db2w1r14k2r4dp2y2g8w2g8y2k2r8w2r8w2r8k2y4g8y4k2r8w2r8w2`), colour order pattern
 [GKGGKRWRWRKGGWGGKRWRWRKGGKGKGGKRWRWRKWBWKGGGGGBRKRWBWRWBWRKRBGGWGGKRWRWRKGGGKRWRW](/stripes/gkggkrwrwrkggwggkrwrwrkggkgkggkrwrwrkwbwkgggggbrkrwbwrwbwrkrbggwggkrwrwrkgggkrwrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s78/r4w1k2y2dp4y2g6y2k2r2k2r2k2r2k2y4g8y4k2r8w2r8w2r8k2y2g8w2g8y2dp2r4k2r14w1db2w1r14w1db2w1r14k2r4dp2y4g6y2g6y4k12w1db4w1k12r8w2r8w2r8k2y2g14k4g14k4g14y2k2r8w2r8w2r8k2y2g8w2~x2/"><circle cx="42.0" cy="34.1" r="4" fill="#3465a4"><title>Ogilvie Clan Tartan</title></circle></a><a href="/variants/s92/g6k4g14ly4k2r8w2r8w2r8k2ly2g8w2g8ly2k2r8w2r8w2r8w1r8k2ly2g14k4g14k4g14ly2k2r8w1r8w1r8k12w1db4w1k12ly4g6ly2g6ly6g6ly4g2r4k2r14db2w2r14w2db2w2r14k2r4dp2ly2g8w2g8ly2k2r8w2r8k2ly4g8ly4k2r2k2r2k2r2k2ly2g6l-h7b5faa3442048204/"><circle cx="27.8" cy="32.2" r="4" fill="#3465a4"><title>Ogilvie</title></circle></a><a href="/variants/s75/g14k4g14y4k2r8w2r8w2r8k2y2g8w2g8y2k2r8w2r8w2r8k2y2g14k4g14k4g14y2k2r8w2r8w2r8k12w1db4w1k12y4g6y2g6y4dp2r4k2r14w1db2w1r14w1db2w1r14k2r4dp2y2g8w2g8y2k2r8w2r8w2r8k2y4g8~x2/"><circle cx="49.8" cy="42.8" r="4" fill="#3465a4"><title>Ogilvie 2</title></circle></a><a href="/variants/s63/o10y4k2y2k2y2k2y4r1y2r1y4k4y3r7y3r7y1k1y1b7y1k1y1r7y1k1y1r7y3r7y3k4y4k2y2k2y4k4y6k2y6k2y6k2y6k2y6k2y6k10y4o1w2o1y2o1w2o1y4k6y1w2~x2/"><circle cx="90.2" cy="82.4" r="4" fill="#3465a4"><title>Murray, Mungo</title></circle></a><a href="/variants/s65/r3k3r3k3y8g5y8k3r5w3r5k5y3g5w3g5y3db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3y8g5y3g5y8k13w1db3w1k13r5w3r5w3r5k3y3g13k3g13k3g13y3k3r5w3r5w3r5k3y3g5w3~x2/"><circle cx="14.0" cy="68.8" r="4" fill="#3465a4"><title>Drummond of Strathallan Clan Tartan</title></circle></a><a href="/variants/s82/db3y3g5w3g5y3k5r5w3r5k3y8g5y8k3r3k3r3k3r3k3y8g5y8k3r5w3r5k5y3g5w3g5y3db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3y8g5y3g5y8k13w1db3w1k13r5w3r5w3r5k3y3g13k3g13k3g13y3k3r5w3r5w3r5k3y3g5w3~x2/"><circle cx="14.0" cy="65.6" r="4" fill="#3465a4"><title>Drummond of Strathallan or Ogilvy</title></circle></a><a href="/variants/s66/r8lb2k15lb2t5lb2dg20g2dg4g2dg20g3ly3r2lb2r2ly3g3dg20lb2r32lb2dg20lb2t5lb2g4k15lb2t20lb2r8lb2r8lb2t20lb2k15g4lb2t5lb2dg20lb2r32lb2dg20g3ly3r2lb2r2ly3g3dg20g2dg4g2dg20lb2t5lb2k15lb2r8lb2~lb3200000-t2503-hc89951fb8ca95beb/"><circle cx="65.6" cy="30.5" r="4" fill="#3465a4"><title>Hunter</title></circle></a><circle cx="52.5" cy="39.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

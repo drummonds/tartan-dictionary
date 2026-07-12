@@ -1,6 +1,11 @@
 ---
 title: "Chalk, Robert (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Chalk, Robert"
+  url: "/tartans/c/ch/chalk-robert/"
 ---
 This is the **Chalk, Robert (Personal)** sett — one scale-free proportion (`dp2w5dp5ly11w5dg12lb1dg2lb26do2dp2`), colour order pattern
 [BBWGWGWYBWB](/stripes/bbwgwgwybwb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db2w5db5g11w5dg12lb1dg2lb26dg2db2~x2/"><circle cx="198.3" cy="140.7" r="4" fill="#3465a4"><title>Chalk (Personal)</title></circle></a><a href="/variants/s14/n3w20dr1db1dr1db3dr4db2dr4db2dr4db1g8dy1~x4/"><circle cx="161.1" cy="106.2" r="4" fill="#3465a4"><title>Cairn (Fashion)</title></circle></a><a href="/variants/s12/n12lb2do4y2do3w3do3ly20w29lb2w4do2~x2/"><circle cx="202.7" cy="138.1" r="4" fill="#3465a4"><title>MacLean of Duart (Reproduction Colours)</title></circle></a><a href="/variants/s9/n6db2n1w17n1db2n16ly27g2~x2/"><circle cx="244.6" cy="150.9" r="4" fill="#3465a4"><title>Rutlin (Personal)</title></circle></a><a href="/variants/s13/ly3g4n14dp3n2dp18lb16g14n2dp3lb3n2lr1~x2/"><circle cx="162.7" cy="152.0" r="4" fill="#3465a4"><title>Enable (Corporate)</title></circle></a><a href="/variants/s9/w3db19w1lb17y11g10w1db3w1~x2/"><circle cx="176.5" cy="170.4" r="4" fill="#3465a4"><title>Bird Family (Australia) (Personal)</title></circle></a><a href="/variants/s14/w4do1t32g5do4w4do4g5do5ly10do4ly4do23ly4~x2/"><circle cx="227.2" cy="125.9" r="4" fill="#3465a4"><title>State Seal of Oklahoma (Fashion)</title></circle></a><a href="/variants/s10/do3db2g19db6g2db6ly14w2dp4w2~x2/"><circle cx="142.3" cy="179.4" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society Commemorative Tartan</title></circle></a><a href="/variants/s11/lp66db2lo14db2ly5b8db12dg60g60lp2db25~dg1806142-g2304202/"><circle cx="158.1" cy="114.5" r="4" fill="#3465a4"><title>Dundee Carers' Centre</title></circle></a><a href="/variants/s13/lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7/"><circle cx="258.8" cy="144.4" r="4" fill="#3465a4"><title>Tom Morris (Official)</title></circle></a><circle cx="191.9" cy="131.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

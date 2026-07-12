@@ -1,6 +1,11 @@
 ---
 title: "St. John New Brunswick (District)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "St. John New Brunswick"
+  url: "/tartans/s/st/st-john-new-brunswick/"
 ---
 This is the **St. John New Brunswick (District)** sett — one scale-free proportion (`g1r2lg12r15w15g3w1g3w15r15lg3dy12lg1`), colour order pattern
 [GRYRWGWGWRYGY](/stripes/gryrwgwgwrygy/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/r6w2r25dy2w9lg2lgi4lg2w9lg2lgi15dy2lgi2dy4~x2~lg2809145-lgi3204144/"><circle cx="163.3" cy="140.2" r="4" fill="#3465a4"><title>Sakura (Japanese Four Seasons)</title></circle></a><a href="/variants/s13/g1r2t12r15w15g3w1g3w15r15t3dy12t1~x2/"><circle cx="136.1" cy="152.5" r="4" fill="#3465a4"><title>Saint John New Brunswick</title></circle></a><a href="/variants/s11/o35w4o3y7o3w4o7do15n4w36n5~x2/"><circle cx="191.3" cy="149.3" r="4" fill="#3465a4"><title>MacKellar, dress</title></circle></a><a href="/variants/s17/r16do4w6r6w20do15g4o15w1do3w1o5r6g4w3db3w3~x2/"><circle cx="100.0" cy="112.1" r="4" fill="#3465a4"><title>Jacobite, dress</title></circle></a><a href="/variants/s15/w5db2w1g8w1db2r2w1r2db2w1lo8w1db2w5~x2/"><circle cx="108.6" cy="172.9" r="4" fill="#3465a4"><title>Wombles Corporate Tartan</title></circle></a><a href="/variants/s10/w2ri8dy5y6w5g21w6ri8r4w2~ri2209032-r2208029/"><circle cx="106.1" cy="171.4" r="4" fill="#3465a4"><title>Jacobite Silk sash</title></circle></a><a href="/variants/s8/r4w2r1w18dp18o18g3o4~x2/"><circle cx="156.1" cy="153.9" r="4" fill="#3465a4"><title>Gigha Lilac Fashion Tartan</title></circle></a><a href="/variants/s17/r16do4w6r6w20do15g4dy15w1do3w1dy5r6g4w3db3w3~x2/"><circle cx="95.5" cy="113.1" r="4" fill="#3465a4"><title>Jacobite Dress General Tartan</title></circle></a><a href="/variants/s10/w2r8o5y6w5g21w6r8b4w2/"><circle cx="112.1" cy="174.0" r="4" fill="#3465a4"><title>Jacobite, Silk sash</title></circle></a><a href="/variants/s12/g6y5w1g2w1g5w1g2w1r15db2w1~x2/"><circle cx="204.7" cy="144.7" r="4" fill="#3465a4"><title>Dunblane District Tartan</title></circle></a><circle cx="135.4" cy="153.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

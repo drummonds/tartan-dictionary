@@ -1,6 +1,11 @@
 ---
 title: "Royal Delight"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Royal Delight"
+  url: "/tartans/r/ro/royal-delight/"
 ---
 This is the **Royal Delight** sett — one scale-free proportion (`dr3dp2db18dpi3dp2dpi3db18dp3dpi12dp12dpi3`), colour order pattern
 [BBBBBBBBBBB](/stripes/bbbbbbbbbbb/). It is recorded as a single **variant**, below.

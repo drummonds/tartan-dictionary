@@ -1,6 +1,13 @@
 ---
 title: "Washington County Sheriff’s Office (Oregon)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Washington"
+  url: "/clan/washington/"
+- name: "Washington County Sheriff’s Office"
+  url: "/tartans/w/wa/washington-county-sheriff-s-office/"
 ---
 This is the **Washington County Sheriff’s Office (Oregon)** sett — one scale-free proportion (`lb6k6lb6db3w1k39dy3k3`), colour order pattern
 [KGKWBWKW](/stripes/kgkwbwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb6k6lb6t3w1k39ly3k3~x2/"><circle cx="386.1" cy="70.7" r="4" fill="#3465a4"><title>Washington County Sheriff's Office</title></circle></a><a href="/variants/s8/w3k9y1lb3dp9lb1k40dp2~x2/"><circle cx="403.0" cy="66.5" r="4" fill="#3465a4"><title>Parkin (Personal)</title></circle></a><a href="/variants/s11/db6k20r3t2k20ly2k25ly1r2ly1t6~x2/"><circle cx="373.0" cy="91.6" r="4" fill="#3465a4"><title>Martinez (2014)</title></circle></a><a href="/variants/s8/db8r1k6r1ly8r1k45ly1~x2/"><circle cx="416.1" cy="66.6" r="4" fill="#3465a4"><title>degli Uberti, Baron of Cartsburn (P)</title></circle></a><a href="/variants/s11/r5k1w3k6n5k2ly3k45n4k2ly3~x2/"><circle cx="381.3" cy="34.9" r="4" fill="#3465a4"><title>Williams Dress (Personal)</title></circle></a><a href="/variants/s11/r5k1w3k6n5k2y3k45n4k2y3~x2/"><circle cx="387.7" cy="36.1" r="4" fill="#3465a4"><title>Williams Dress (Carolinas) (Personal)</title></circle></a><a href="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/"><circle cx="425.8" cy="81.8" r="4" fill="#3465a4"><title>Capco</title></circle></a><a href="/variants/s8/t10lb2k2t1k6lb1k45lo2~x2/"><circle cx="464.8" cy="69.0" r="4" fill="#3465a4"><title>Marine Harvest Scotland (Corporate)</title></circle></a><a href="/variants/s8/db10lb2k2db1k6lb1k45lo2~x2/"><circle cx="485.3" cy="73.6" r="4" fill="#3465a4"><title>Marine Harvest (Scotland)</title></circle></a><a href="/variants/s8/k50t2k13w1k13t5g15r2~x2/"><circle cx="419.3" cy="72.5" r="4" fill="#3465a4"><title>Center (Name)</title></circle></a><circle cx="384.8" cy="67.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

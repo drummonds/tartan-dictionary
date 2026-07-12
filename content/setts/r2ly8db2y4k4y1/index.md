@@ -1,6 +1,15 @@
 ---
 title: "Thompson (J.C.'s Fancy) (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Thompson"
+  url: "/clan/thompson/"
+- name: "Thompson"
+  url: "/families/thompson/"
+- name: "Thompson"
+  url: "/tartans/t/th/thompson-2/"
 ---
 This is the **Thompson (J.C.'s Fancy) (Personal)** sett — one scale-free proportion (`r2ly8db2y4k4y1`), colour order pattern
 [GKGBYR](/stripes/gkgbyr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k5r2dy7ly18dy2w2~x4/"><circle cx="183.5" cy="166.0" r="4" fill="#3465a4"><title>Shepherd, Derek (Piping)</title></circle></a><a href="/variants/s6/g36lb4g8k29r24w7~x2/"><circle cx="123.0" cy="194.1" r="4" fill="#3465a4"><title>Entre Rios Province (Provisional</title></circle></a><a href="/variants/s6/r2ly1r5k4g5w1~x4/"><circle cx="94.0" cy="223.3" r="4" fill="#3465a4"><title>Aboyne II (Fashion)</title></circle></a><a href="/variants/s5/k5db4g24r21w3~x2/"><circle cx="175.2" cy="201.0" r="4" fill="#3465a4"><title>Sachie Hara Scottish Check (Personal)</title></circle></a><a href="/variants/s9/g6lr2g10k3dr1k3lo10lr2lo6~x4/"><circle cx="123.5" cy="182.6" r="4" fill="#3465a4"><title>Eire</title></circle></a><a href="/variants/s9/g13y16w4y4r4y4k20y8r8~x2/"><circle cx="91.8" cy="208.1" r="4" fill="#3465a4"><title>Cawte of Middlebanknock (Personal)</title></circle></a><a href="/variants/s6/w5k26ly26lb7k3r3~x2/"><circle cx="139.3" cy="172.3" r="4" fill="#3465a4"><title>Cornish National (District)</title></circle></a><a href="/variants/s5/y32k21r16lr6dt4~x2/"><circle cx="134.5" cy="206.8" r="4" fill="#3465a4"><title>Scottish American Athletic Assoc (Co</title></circle></a><a href="/variants/s8/g5lg5y26k4y6r5k15w4~x2/"><circle cx="122.0" cy="164.5" r="4" fill="#3465a4"><title>Cornish Christophers (Personal)</title></circle></a><a href="/variants/s5/y32k21r16lr6dt4~x2~r1706028/"><circle cx="139.3" cy="209.8" r="4" fill="#3465a4"><title>Scottish American Athletic Assoc</title></circle></a><circle cx="102.6" cy="201.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

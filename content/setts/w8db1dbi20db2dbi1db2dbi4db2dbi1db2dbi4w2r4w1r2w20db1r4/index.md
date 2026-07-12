@@ -1,6 +1,11 @@
 ---
 title: "Florida"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Florida"
+  url: "/tartans/f/fl/florida/"
 ---
 This is the **Florida** sett — one scale-free proportion (`w8db1dbi20db2dbi1db2dbi4db2dbi1db2dbi4w2r4w1r2w20db1r4`), colour order pattern
 [RBWRWRWBBBBBBBBBBW](/stripes/rbwrwrwbbbbbbbbbbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/w2db1w14db2w1db7t7r1t7db7r1dy2r16dy2r2db7w1db2w14db1w2~x2/"><circle cx="129.0" cy="113.0" r="4" fill="#3465a4"><title>New Providence Presbyterian Church</title></circle></a><a href="/variants/s12/dy4db2r7db15r3db3r3db7w28r7w6r2/"><circle cx="187.6" cy="149.9" r="4" fill="#3465a4"><title>Walker Dress Family Tartan</title></circle></a><a href="/variants/s13/w4lb1db1w22lb2w2db12r2dg16r4lb1r4db2~x2/"><circle cx="165.6" cy="108.1" r="4" fill="#3465a4"><title>MacGillivray Dress, Janice (Personal</title></circle></a><a href="/variants/s13/w4r21db4dy16db4dy8db4dy4w3db6w49r3w4/"><circle cx="225.0" cy="125.3" r="4" fill="#3465a4"><title>Largs Dress District Tartan</title></circle></a><a href="/variants/s10/w55dg12r2dg3w2dgi10dp9dg2dp6w2~x2~dgi1806142-dp1607327/"><circle cx="195.3" cy="72.7" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/variants/s12/w6r2w24db12dbi3db2dbi2db2dbi12ly1dbi1ly3~x2~db1404245-dbi1606275/"><circle cx="214.5" cy="118.3" r="4" fill="#3465a4"><title>Payeur, Francois (Personal)</title></circle></a><a href="/variants/s14/w4db1dbi12db1r8w8db8w2db1w2db24ly4db1r2~x2~db1404245-dbi1406275/"><circle cx="219.4" cy="110.2" r="4" fill="#3465a4"><title>Submariners (Unofficial)</title></circle></a><a href="/variants/s13/db4r3lb23db16w5lb3r2lb3w5lb11db2r1db4~x2/"><circle cx="261.4" cy="136.8" r="4" fill="#3465a4"><title>Illinois St Andrews Society Corporate Tartan</title></circle></a><a href="/variants/s13/r2w7db3w3db3w3db3w1db12dbi14r1dbi1r2~x2~db1404245-dbi1406275/"><circle cx="179.4" cy="135.7" r="4" fill="#3465a4"><title>Hogmany Plaid</title></circle></a><a href="/variants/s12/k2lo2b16lo2k2lo2lb2lo2lb15lo1k2lo2~x2/"><circle cx="174.5" cy="129.1" r="4" fill="#3465a4"><title>Independence</title></circle></a><circle cx="207.2" cy="109.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

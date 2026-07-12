@@ -1,6 +1,11 @@
 ---
 title: "Bavidge"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Bavidge"
+  url: "/tartans/b/ba/bavidge/"
 ---
 This is the **Bavidge** sett — one scale-free proportion (`db92k14db18dbi5db5dbi5db5dg32b16k5b7y8`), colour order pattern
 [BKBBBBBGBKBG](/stripes/bkbbbbbgbkbg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db92k14db18t5db5t5db5g32dp16k5dp7y8/"><circle cx="291.9" cy="99.6" r="4" fill="#3465a4"><title>Bavidge (Personal)</title></circle></a><a href="/variants/s12/db92k14db18t5db5t5db5g32dp16k5dp7y8~db1406275-dp1607327/"><circle cx="295.0" cy="98.4" r="4" fill="#3465a4"><title>Bavidge (Personal)</title></circle></a><a href="/variants/s11/dbi19k4dbi4db1dbi1db1dbi1dg5b3k1b4~x6~dbi1003265-dg1304144/"><circle cx="347.8" cy="132.5" r="4" fill="#3465a4"><title>Spirit of Scotland</title></circle></a><a href="/variants/s13/k1ri1db14lo1db1r1db1r2db1dg6db1dg1db1~x4~ri2109032-r1807033/"><circle cx="327.5" cy="101.2" r="4" fill="#3465a4"><title>Merchant Company, The</title></circle></a><a href="/variants/s9/dg24lb4dg3db11dp8db37k3db2r4~x2/"><circle cx="304.9" cy="138.9" r="4" fill="#3465a4"><title>Stewmann (Personal)</title></circle></a><a href="/variants/s9/dg24lb4dg3db11dp8db37k3db2o4~x2/"><circle cx="310.8" cy="141.7" r="4" fill="#3465a4"><title>Stewmann (2009) (Personal)</title></circle></a><a href="/variants/s10/db42dp4db16dg10k2r6k2dg10k3w4~x2/"><circle cx="295.2" cy="103.0" r="4" fill="#3465a4"><title>Mount Dora</title></circle></a><a href="/variants/s10/db6y3k2y5dbi30g2k4g2dbi6db4~x2~db1204274-dbi1406275/"><circle cx="323.5" cy="137.1" r="4" fill="#3465a4"><title>St. Andrews University (Corporate)</title></circle></a><a href="/variants/s15/db6y2dbi24db4dbi8db6dbi6db8dbi3db10k14db4r3db34w4~db1003265-dbi1605267/"><circle cx="279.8" cy="124.8" r="4" fill="#3465a4"><title>MatchPoint</title></circle></a><a href="/variants/s13/g2k3db30k2db4k2db30k3dg30k3dbi30k2lb2~g2203152-db1106275-dg1806142-dbi1204274/"><circle cx="235.9" cy="122.6" r="4" fill="#3465a4"><title>Davies (Welsh Name)</title></circle></a><circle cx="315.0" cy="106.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Royal Agricultural Winter Fair"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Royal Agricultural Winter Fair"
+  url: "/tartans/r/ro/royal-agricultural-winter-fair/"
 ---
 This is the **Royal Agricultural Winter Fair** sett — one scale-free proportion (`db32w1db1y2db1r1db4dg16`), colour order pattern
 [BWBGBRBG](/stripes/bwbgbrbg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db57y2db10dg4db4dg9r12db4r4lr2~x2/"><circle cx="452.1" cy="106.2" r="4" fill="#3465a4"><title>Unidentified #64</title></circle></a><a href="/variants/s7/dg30db6r2db2dy2db15w2~x2/"><circle cx="358.0" cy="179.1" r="4" fill="#3465a4"><title>Hydesville Tower (Corporate)</title></circle></a><a href="/variants/s6/dt45db7w3db27r1db7~x2/"><circle cx="461.0" cy="181.4" r="4" fill="#3465a4"><title>U.S. Navy/Edzell (Military)</title></circle></a><a href="/variants/s9/dbi7db5lr6db5r7db2dbi2db70lr2~dbi1406275-db1404245/"><circle cx="567.2" cy="113.4" r="4" fill="#3465a4"><title>United States Trade sett Tartan</title></circle></a><a href="/variants/s9/k10db3k3db32g1db1g1db2n2~x2/"><circle cx="462.5" cy="104.2" r="4" fill="#3465a4"><title>Orman (Midlothian) (Personal)</title></circle></a><a href="/variants/s6/dbi55db18w3db2r2db6~x2~dbi1604274-db0805267/"><circle cx="477.2" cy="161.5" r="4" fill="#3465a4"><title>S.C.O.T.S.</title></circle></a><a href="/variants/s10/db51t4db7o2db2g2db2dg10db13w2~x2~db1406275/"><circle cx="549.6" cy="110.6" r="4" fill="#3465a4"><title>Visit Scotland</title></circle></a><a href="/variants/s10/db51t4db7o2db2g2db2dg10db13w2~x2/"><circle cx="533.9" cy="107.7" r="4" fill="#3465a4"><title>Visit Scotland Corporate)</title></circle></a><a href="/variants/s11/db46y1dy5y1g5y1dp5y1db16r1y4~x2/"><circle cx="502.1" cy="77.0" r="4" fill="#3465a4"><title>Craven County</title></circle></a><a href="/variants/s9/r1db2n1dt3n19db3lo1db2lo1~x4~db1007262-n1703284-dt1103265/"><circle cx="429.6" cy="144.0" r="4" fill="#3465a4"><title>Pagus Wasia District Tartan</title></circle></a><circle cx="488.2" cy="133.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

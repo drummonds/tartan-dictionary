@@ -1,6 +1,11 @@
 ---
 title: "Cascade Summers"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Cascade Summers"
+  url: "/tartans/c/ca/cascade-summers/"
 ---
 This is the **Cascade Summers** sett — one scale-free proportion (`k3lb13m11t3k10w2k10t3g6m3lg13t3`), colour order pattern
 [BYRGBKWKBRWK](/stripes/byrgbkwkbrwk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k3lb14r11db3k10w2k10db3dg6r3b14db3~x2~r2308029-dg1704158/"><circle cx="14.0" cy="156.5" r="4" fill="#3465a4"><title>Cascade Summers, (The Resort at the Mountain)</title></circle></a><a href="/variants/s15/g18w2db16w2lb6k16w2r8w2db9ri9k6ri9g6lb6~x2~r1707016-ri2209032/"><circle cx="14.0" cy="137.1" r="4" fill="#3465a4"><title>Gordon Red</title></circle></a><a href="/variants/s12/k5g15dy8g15k5r4db8lb5w3lb5db8r4~x2/"><circle cx="14.0" cy="183.8" r="4" fill="#3465a4"><title>Anderson (Blackwood) (Personal)</title></circle></a><a href="/variants/s15/g18w2db16w2lb6k16w2r8w2db9ri9k6ri9g6lb6~x2~r1707016-ri2008029/"><circle cx="14.0" cy="137.8" r="4" fill="#3465a4"><title>Gordon, Red</title></circle></a><a href="/variants/s17/db4dy2db4n6w2k2n6w2k2n13ly3k4ly3k8db6w2r4~x2/"><circle cx="23.0" cy="147.5" r="4" fill="#3465a4"><title>Clauweart</title></circle></a><a href="/variants/s8/r5lb2b14w2k13y13k2ly3~x2~y2405105-ly3307090/"><circle cx="21.8" cy="158.9" r="4" fill="#3465a4"><title>Culloden, Gold</title></circle></a><a href="/variants/s14/w3lb2w7lb2w2k7g8k1w2k1g8k7db7r2~x2/"><circle cx="14.0" cy="158.4" r="4" fill="#3465a4"><title>MacKenzie Dress</title></circle></a><a href="/variants/s16/dp16w2b7w2k14lb6w2dp15w2g17lb6g6r8k6r8k2~x2/"><circle cx="14.0" cy="129.9" r="4" fill="#3465a4"><title>Gordon, Red</title></circle></a><a href="/variants/s15/lg4k12r2k2r2k2w12y2w3t6k3g12k2w3r2~x3/"><circle cx="14.0" cy="130.8" r="4" fill="#3465a4"><title>Innes Dress (Dance)</title></circle></a><a href="/variants/s16/lb4k12r2k2r2k2w12y2w3db6w3k2g12k2w3r2~x2/"><circle cx="14.0" cy="125.9" r="4" fill="#3465a4"><title>Innes Dress Clan Tartan</title></circle></a><circle cx="14.0" cy="162.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

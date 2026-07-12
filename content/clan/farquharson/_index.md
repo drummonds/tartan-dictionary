@@ -1,6 +1,9 @@
 ---
 title: "Clan Farquharson"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 **Territory:** Mar (Aberdeenshire) · **1745 strength:** 500 men
 

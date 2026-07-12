@@ -1,6 +1,11 @@
 ---
 title: "Bell's Whisky (SA)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Bell's Whisky"
+  url: "/tartans/b/be/bell-s-whisky-2/"
 ---
 This is the **Bell's Whisky (SA)** sett — one scale-free proportion (`dg10w2dg18k3dg3k3dg3k18dp24k3dp3ly3`), colour order pattern
 [GWGKGKGKBKBY](/stripes/gwgkgkgkbkby/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13~x2/"><circle cx="145.1" cy="137.2" r="4" fill="#3465a4"><title>Unnamed C20th - Unregistered Error</title></circle></a><a href="/variants/s14/dg6r4dg4r3dg4y2db14k4dg4k28dg18k2dg2k2~x2/"><circle cx="201.5" cy="128.9" r="4" fill="#3465a4"><title>Cypress Presbyterian Church</title></circle></a><a href="/variants/s13/do24g5n2k14dr2k3g3k3n14do6k4do3g2~x2/"><circle cx="176.6" cy="142.6" r="4" fill="#3465a4"><title>Berwick (Fashion)</title></circle></a><a href="/variants/s13/dg16k5dg4k8dg44k40dg4db52r10db4r4db10w6/"><circle cx="155.2" cy="134.7" r="4" fill="#3465a4"><title>MacNeil of Colonsay (Highland Society of London)</title></circle></a><a href="/variants/s15/n12k2n2k2n2k12dr12k1dy2k1dr12k12n12k1r2~x2/"><circle cx="159.4" cy="139.1" r="4" fill="#3465a4"><title>Flaumandrum</title></circle></a><a href="/variants/s13/dp11k1dr1k1dr1k7g8k1g8k7dp8k1r1~x4/"><circle cx="130.0" cy="146.0" r="4" fill="#3465a4"><title>Red Hackle (Military)</title></circle></a><a href="/variants/s9/dg14k2dg4r2dg4k14dp15k1w3~x2/"><circle cx="166.9" cy="152.9" r="4" fill="#3465a4"><title>MacRae Hunting #2</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12dg16r1k1y2~x2/"><circle cx="154.0" cy="133.0" r="4" fill="#3465a4"><title>MacLennan (Clan)</title></circle></a><a href="/variants/s10/dg40k8r4k4r8k4r4k8db40y3~x2/"><circle cx="170.8" cy="138.4" r="4" fill="#3465a4"><title>Griffiths of Llangynin (Personal)</title></circle></a><a href="/variants/s13/y2k2dg2y2dg3y1dg10k18dg3db2dg3db10w2~x2/"><circle cx="166.1" cy="122.4" r="4" fill="#3465a4"><title>O'Doherty (Glasgow) (Personal)</title></circle></a><circle cx="173.7" cy="144.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

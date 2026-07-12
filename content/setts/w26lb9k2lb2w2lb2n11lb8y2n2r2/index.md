@@ -1,6 +1,11 @@
 ---
 title: "Manchester Blues Dress (Comm)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Manchester Blues Dress"
+  url: "/tartans/m/ma/manchester-blues-dress-2/"
 ---
 This is the **Manchester Blues Dress (Comm)** sett — one scale-free proportion (`w26lb9k2lb2w2lb2n11lb8y2n2r2`), colour order pattern
 [RBGWBWWWKWW](/stripes/rbgwbwwwkww/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/lb26w9k2w2lb2w2n11w8y2n2dr2~x2/"><circle cx="189.9" cy="129.7" r="4" fill="#3465a4"><title>Manchester Blues Modern</title></circle></a><a href="/variants/s11/lb26w9k2w2lb2w2n11w8y2n2r2~x2/"><circle cx="195.1" cy="131.1" r="4" fill="#3465a4"><title>Manchester Blues Modern</title></circle></a><a href="/variants/s10/dr2w1dr1w13lb12ly2k2lb2k1y1~x4/"><circle cx="147.0" cy="114.4" r="4" fill="#3465a4"><title>Jong Nederland Born Union (Corp)</title></circle></a><a href="/variants/s11/w26lb9k2lb2w2lb2lr11lb8ly2lr2dr2~x2/"><circle cx="220.9" cy="139.9" r="4" fill="#3465a4"><title>Manchester Blues Dress</title></circle></a><a href="/variants/s13/w1r1t8lb1k1w8k1lo8lb1lo1t8lb1lo1~x6/"><circle cx="131.3" cy="144.3" r="4" fill="#3465a4"><title>Robieson (Personal)</title></circle></a><a href="/variants/s10/w8g6w44db10lb6k3lb4k3lb34w4/"><circle cx="219.8" cy="135.9" r="4" fill="#3465a4"><title>Elsa Dance</title></circle></a><a href="/variants/s11/dr2o9lb4w2n22w2lb4w22n2w8dr2~x2~o2500000-n1900000/"><circle cx="205.2" cy="161.9" r="4" fill="#3465a4"><title>MacRae Grey (Fashion)</title></circle></a><a href="/variants/s7/r9w25k7w45lb60dg4ly5/"><circle cx="220.7" cy="153.9" r="4" fill="#3465a4"><title>Ch. Supt. Everett and Mrs Julene Summerfield Dress</title></circle></a><a href="/variants/s14/t14lb2ly2lb2t25k6w17r3w3r3w3r3w3r3~x2/"><circle cx="154.8" cy="113.1" r="4" fill="#3465a4"><title>Letang (Personal)</title></circle></a><a href="/variants/s7/r9w27k7w45lb60dg4lo5/"><circle cx="223.5" cy="154.4" r="4" fill="#3465a4"><title>Ch. Supt. Everett and Mrs Julene Sum</title></circle></a><circle cx="188.8" cy="129.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

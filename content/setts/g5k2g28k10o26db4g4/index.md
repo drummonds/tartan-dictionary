@@ -1,6 +1,11 @@
 ---
 title: "John Telfar, Dunbar hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "John Telfar, Dunbar hunting"
+  url: "/tartans/j/jo/john-telfar-dunbar-hunting-2/"
 ---
 This is the **John Telfar, Dunbar hunting** sett — one scale-free proportion (`g5k2g28k10o26db4g4`), colour order pattern
 [GBRKGKG](/stripes/gbrkgkg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g5k2g28k10dy26db4g4~x2/"><circle cx="241.5" cy="181.4" r="4" fill="#3465a4"><title>John Telfar Dunbar/Hunting Tartan</title></circle></a><a href="/variants/s8/dr3k2dr3g12dr3w1dr1g1~x4/"><circle cx="267.2" cy="167.9" r="4" fill="#3465a4"><title>MacCall/McCall</title></circle></a><a href="/variants/s7/g6lo2g32k8w6lo20g5~x2/"><circle cx="257.4" cy="170.9" r="4" fill="#3465a4"><title>Pollock (Name)</title></circle></a><a href="/variants/s8/dr8g2dr12k6dr3db3g24k2~x2/"><circle cx="227.3" cy="176.6" r="4" fill="#3465a4"><title>McInery (Personal)</title></circle></a><a href="/variants/s8/w6g5r5g45k4o24k4g5~x2/"><circle cx="264.2" cy="150.2" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><a href="/variants/s9/r16k3r16g44k3g8k3y20k4~x2/"><circle cx="219.1" cy="158.4" r="4" fill="#3465a4"><title>MacMillan, Society of Glasgow</title></circle></a><a href="/variants/s6/k4r5k2y21g8k2~x2/"><circle cx="230.7" cy="181.9" r="4" fill="#3465a4"><title>MacDuck (Corporate)</title></circle></a><a href="/variants/s8/g36k2g2k2g3k12lb10r20~x2/"><circle cx="216.5" cy="143.6" r="4" fill="#3465a4"><title>Georgia, State of</title></circle></a><a href="/variants/s8/t5k1g3k1t3k1g10r3~x2/"><circle cx="227.1" cy="197.3" r="4" fill="#3465a4"><title>Ayrton 1979 No. 2 (Personal)</title></circle></a><a href="/variants/s6/y70k30w3g30k3y10/"><circle cx="286.2" cy="154.1" r="4" fill="#3465a4"><title>Jacobite #2</title></circle></a><circle cx="234.8" cy="177.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

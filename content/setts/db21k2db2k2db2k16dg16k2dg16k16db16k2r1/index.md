@@ -1,6 +1,13 @@
 ---
 title: "Black Watch/Isetan Men's"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Black"
+  url: "/clan/black/"
+- name: "Black Watch/Isetan Men's"
+  url: "/tartans/b/bl/black-watch-isetan-men-s/"
 ---
 This is the **Black Watch/Isetan Men's** sett — one scale-free proportion (`db21k2db2k2db2k16dg16k2dg16k16db16k2r1`), colour order pattern
 [BKBKBKGKGKBKR](/stripes/bkbkbkgkgkbkr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db16k2db2k2db2k12dg13k2dg13k12db12k2r1~x2/"><circle cx="225.5" cy="171.4" r="4" fill="#3465a4"><title>Black Watch/Isetan Men's</title></circle></a><a href="/variants/s13/db24k2db2k2db2k20dg20dy3dg20k20db24k2dr4~x2/"><circle cx="211.2" cy="169.8" r="4" fill="#3465a4"><title>Loudoun's Highlanders - 1747 #2 (Mil</title></circle></a><a href="/variants/s13/db11k1db1k1db1k8dg8k1dg8k8db8k1db1~x2/"><circle cx="253.4" cy="197.2" r="4" fill="#3465a4"><title>Black Watch Regimental Tartan</title></circle></a><a href="/variants/s13/k11ki1k1ki1k1ki8g8ki1g8ki8k8ki1k1~x4~k0504259-ki0700000/"><circle cx="212.2" cy="184.5" r="4" fill="#3465a4"><title>Royal Regiment of Scotland (Mltry)</title></circle></a><a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x4~db1406275-k0700000/"><circle cx="227.4" cy="191.0" r="4" fill="#3465a4"><title>Black Watch (Military)</title></circle></a><a href="/variants/s15/db12k2db2k2db2k12dg12k1w2k1dg12k12db12k1r2~x2/"><circle cx="162.3" cy="145.6" r="4" fill="#3465a4"><title>MacKenzie - 1780 (Clan) as 78th</title></circle></a><a href="/variants/s15/db17k3db3k3db3k17dg17k2w3k2dg17k17db17k2r3~x2/"><circle cx="150.4" cy="160.7" r="4" fill="#3465a4"><title>Cumbernauld District Tartan</title></circle></a><a href="/variants/s15/db16k3db3k3db3k16dg14k2r3k2dg14k16db14k2r3~x2/"><circle cx="183.1" cy="181.6" r="4" fill="#3465a4"><title>77th Regiment</title></circle></a><a href="/variants/s15/db11k3db3k3db3k9dg9k1dy3k1dg9k9db9k1w3~x2/"><circle cx="135.5" cy="165.7" r="4" fill="#3465a4"><title>Glengoyne Distillery Corporate Tartan</title></circle></a><a href="/variants/s17/dg34db2k2db2dg34r3db34r2db34r3k33db2dg2db2dg2db2k33~x2/"><circle cx="226.1" cy="132.0" r="4" fill="#3465a4"><title>Lumsden Hunting (Clan)</title></circle></a><circle cx="242.0" cy="156.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

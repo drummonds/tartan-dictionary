@@ -1,6 +1,11 @@
 ---
 title: "Torridon, Saphire (Dance)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Torridon Saphire"
+  url: "/tartans/t/to/torridon-saphire/"
 ---
 This is the **Torridon, Saphire (Dance)** sett — one scale-free proportion (`y3db2k2db30w30dbi2w3`), colour order pattern
 [GBKBWBW](/stripes/gbkbwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/t3db2k2db28w30db2w3~x2/"><circle cx="253.0" cy="145.2" r="4" fill="#3465a4"><title>Cunningham, Dress Blue (Dance)</title></circle></a><a href="/variants/s7/w2db1w20db20k1db1lb2~x4/"><circle cx="266.9" cy="132.3" r="4" fill="#3465a4"><title>Cunningham, Dress Blue (Dance) Fashion Tartan</title></circle></a><a href="/variants/s7/db35r2k16y2lb25w2lb6~x2/"><circle cx="151.0" cy="124.2" r="4" fill="#3465a4"><title>US Forces (Thurso) Regimental Tartan</title></circle></a><a href="/variants/s8/y4db24lb5g2db3k5lb33r2~x2/"><circle cx="213.3" cy="115.6" r="4" fill="#3465a4"><title>Los Angeles</title></circle></a><a href="/variants/s10/w3db2k4db2w2db26r4w30r2w3~x2/"><circle cx="240.6" cy="123.3" r="4" fill="#3465a4"><title>Harris, Royal Blue (Dance)</title></circle></a><a href="/variants/s8/dbi42lb2w2lb2dbi5k12w32db4~x2~dbi1404245-db1106275/"><circle cx="210.0" cy="117.0" r="4" fill="#3465a4"><title>Comrie, Navy Blue (Dance)</title></circle></a><a href="/variants/s6/lb20w2lb5k2db10r3~x2/"><circle cx="262.4" cy="171.4" r="4" fill="#3465a4"><title>St. Christopher's School (Corporate)</title></circle></a><a href="/variants/s7/db2r1db16k5g2w11g1~x4/"><circle cx="189.7" cy="139.2" r="4" fill="#3465a4"><title>Sinclair dress</title></circle></a><a href="/variants/s10/db8r3db34b3k9w31r5w3r3w8~x2/"><circle cx="150.8" cy="136.6" r="4" fill="#3465a4"><title>Stewart of Appin, dress</title></circle></a><a href="/variants/s6/k6w49db50dp6dbi8ly4~db1204274-dbi1406275/"><circle cx="158.5" cy="145.1" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><circle cx="226.5" cy="129.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

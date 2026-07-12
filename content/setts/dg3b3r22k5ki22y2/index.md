@@ -1,6 +1,11 @@
 ---
 title: "Clan MacLeod Society of Scotland, Centenary"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacLeod Society of Scotland, Centenary"
+  url: "/tartans/c/cl/clan-macleod-society-of-scotland-centenary/"
 ---
 This is the **Clan MacLeod Society of Scotland, Centenary** sett — one scale-free proportion (`dg3b3r22k5ki22y2`), colour order pattern
 [GBRKKG](/stripes/gbrkkg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg3g3r22k5db22dy2~x2~dg1806142-g2408144/"><circle cx="164.6" cy="152.4" r="4" fill="#3465a4"><title>MacLeod Society of Scotland</title></circle></a><a href="/variants/s7/dg3g3r22k5db22dy2w2~x2~dg1806142-g2408144/"><circle cx="130.5" cy="124.3" r="4" fill="#3465a4"><title>MacLeod Soc. of Scotland, (Comm)</title></circle></a><a href="/variants/s5/w3db12k12r20g2~x2/"><circle cx="140.6" cy="189.5" r="4" fill="#3465a4"><title>Baillie of Polkemett</title></circle></a><a href="/variants/s5/w3t12k12r20g2~x2/"><circle cx="138.2" cy="191.4" r="4" fill="#3465a4"><title>Baillie of Polkemmet Red</title></circle></a><a href="/variants/s5/db15k20n12r34lb3~x2/"><circle cx="149.3" cy="199.6" r="4" fill="#3465a4"><title>McCurdy-Stribbling (Personal)</title></circle></a><a href="/variants/s5/k3r11db26dy11lo3~x2/"><circle cx="212.5" cy="199.6" r="4" fill="#3465a4"><title>Novotel, The</title></circle></a><a href="/variants/s6/g3dbi8r11db3k2dp2~x4~dbi1406275-db1404245/"><circle cx="127.4" cy="206.7" r="4" fill="#3465a4"><title>Nicolson of Tiree &amp; Coll (Clan)</title></circle></a><a href="/variants/s5/db4y4r33k30w2~x2/"><circle cx="218.6" cy="143.2" r="4" fill="#3465a4"><title>Wormeck (2013) Germany</title></circle></a><a href="/variants/s7/y3r3lo2r20k16lb24w2~x2/"><circle cx="109.5" cy="138.9" r="4" fill="#3465a4"><title>Oor Wullie (DC Thomson)</title></circle></a><a href="/variants/s8/db18k5r26k5g25k5db18y2~x2~db1204274/"><circle cx="124.7" cy="170.6" r="4" fill="#3465a4"><title>St. Clement of Rome School</title></circle></a><circle cx="153.0" cy="145.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

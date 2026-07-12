@@ -1,6 +1,15 @@
 ---
 title: "Clergy (Logan) (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Clergy"
+  url: "/clan/clergy/"
+- name: "Clergy"
+  url: "/families/clergy/"
+- name: "Clergy"
+  url: "/tartans/c/cl/clergy-9/"
 ---
 This is the **Clergy (Logan) (Corporate)** sett — one scale-free proportion (`k5lb1n4lb1k26lb1k10n5k2n5k10lb1n4lb1k5lb1k5lb1n4lb1k10n5k2n5k10lb1k26lb1n4lb1k5lb1`), colour order pattern
 [KWBWKWKBKBKWBWKWKWBWKBKBKWKWBWKW](/stripes/kwbwkwkbkbkwbwkwkwbwkbkbkwkwbwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1~x2/"><circle cx="377.1" cy="91.8" r="4" fill="#3465a4"><title>Clergy 5</title></circle></a><a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1/"><circle cx="377.1" cy="91.8" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/variants/s11/k40n3k5n2k2n2k2n6k4w2k4~x2/"><circle cx="396.9" cy="78.0" r="4" fill="#3465a4"><title>Stewart/Stuart Mourning</title></circle></a><a href="/variants/s17/w1k5w1y4w1k26w1k10y5k2y5k10w1y4w1k5w1/"><circle cx="370.6" cy="88.6" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/variants/s36/k4n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k12n4k12n4/"><circle cx="363.3" cy="103.4" r="4" fill="#3465a4"><title>MacKay, Marled</title></circle></a><a href="/variants/s14/y20k19y8k3y3k3y3k40y5k10y15k40y3k3~x2/"><circle cx="385.1" cy="127.9" r="4" fill="#3465a4"><title>Justus Yellow &amp; Black (Personal)</title></circle></a><a href="/variants/s22/r4k2r11k14r2w2k2r2k10w4k50w4k10r2k2w2r2k14r11k2r4w2~x2/"><circle cx="352.4" cy="62.9" r="4" fill="#3465a4"><title>Knights Templar Dress</title></circle></a><a href="/variants/s25/k6dr5k5dr5k5dr5k12w2k2w2k12dr5k38dr21k6dr21w2k12w2k12dr3w2dr3w2k6/"><circle cx="306.8" cy="100.2" r="4" fill="#3465a4"><title>Amstartan</title></circle></a><a href="/variants/s10/k40dp2k6t2k2t2k10dp4w2dp5~x2/"><circle cx="394.7" cy="76.0" r="4" fill="#3465a4"><title>Ironside (Personal)</title></circle></a><a href="/variants/s17/w2k10w2o8w1k52w2k20o10k4o10k20w2o8w2k10w1~x2/"><circle cx="397.6" cy="59.8" r="4" fill="#3465a4"><title>Clergy</title></circle></a><circle cx="377.2" cy="72.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Murray of Elibank Clan Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Murray"
+  url: "/clan/murray/"
+- name: "Murray of Elibank"
+  url: "/families/murray-of-elibank/"
+- name: "Murray of Elibank"
+  url: "/tartans/m/mu/murray-of-elibank-2/"
 ---
 This is the **Murray of Elibank Clan Tartan** sett — one scale-free proportion (`db56k6g24k6db8k21y6k21db8k6g24k6db56`), colour order pattern
 [BKGKBKGKBKGKB](/stripes/bkgkbkgkbkgkb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db2k4db9k4y4k3y2k5db4k3db18w2db2w2db2~x2/"><circle cx="240.5" cy="151.7" r="4" fill="#3465a4"><title>Skarpathiotakis, George (Personal)</title></circle></a><a href="/variants/s10/k3db2y3k2y5db18g3k3g2db3~x2~db1204274/"><circle cx="251.4" cy="167.8" r="4" fill="#3465a4"><title>St Andrews University Corporate Tartan</title></circle></a><a href="/variants/s12/k1w1k8dg1k1db8dg8k1db1k8w1k1~x6/"><circle cx="214.1" cy="161.2" r="4" fill="#3465a4"><title>Chess (Universal)</title></circle></a><a href="/variants/s19/k16db4ly2k2db4ly6db4k2ly2db16k3db3k3db3k3db16ly2k2db3~x2/"><circle cx="223.6" cy="146.0" r="4" fill="#3465a4"><title>Longniddry (Fashion?)</title></circle></a><a href="/variants/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/"><circle cx="251.1" cy="167.6" r="4" fill="#3465a4"><title>Ibrox</title></circle></a><a href="/variants/s13/k1w1k8dg1k1db8k1dg8k1db1k8w1k1~x6/"><circle cx="220.8" cy="155.4" r="4" fill="#3465a4"><title>Chess</title></circle></a><a href="/variants/s11/k15lb3k3w4k3lb3k15db4k4db30k4~x2/"><circle cx="225.5" cy="146.1" r="4" fill="#3465a4"><title>Shalom (Fashion)</title></circle></a><a href="/variants/s11/k14lb3k3w4k3lb3k14db4k4db30k4~x2/"><circle cx="220.6" cy="146.0" r="4" fill="#3465a4"><title>Scottish Jewish Community</title></circle></a><a href="/variants/s11/dr2db8k1g2k1g4k1g2k1db8lo2~x2/"><circle cx="189.0" cy="165.7" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/variants/s11/r2db8k1g2k1g4k1g2k1db8y2~x2/"><circle cx="194.4" cy="167.2" r="4" fill="#3465a4"><title>MacCainsh Family Tartan</title></circle></a><circle cx="233.1" cy="165.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

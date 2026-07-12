@@ -1,6 +1,11 @@
 ---
 title: "Tyrolean (Fashion?)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Tyrolean"
+  url: "/tartans/t/ty/tyrolean/"
 ---
 This is the **Tyrolean (Fashion?)** sett — one scale-free proportion (`y3dy6g10k18r22w3`), colour order pattern
 [GGGKRW](/stripes/gggkrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r24w2y3g16k16w2y3~x2/"><circle cx="130.3" cy="157.3" r="4" fill="#3465a4"><title>MacLachlan Old Clan Tartan</title></circle></a><a href="/variants/s7/r24w2y3g16k16w2y3/"><circle cx="130.3" cy="157.3" r="4" fill="#3465a4"><title>MacLachlan W</title></circle></a><a href="/variants/s6/g36lb4g8k29r24w7~x2/"><circle cx="123.0" cy="194.1" r="4" fill="#3465a4"><title>Entre Rios Province (Provisional</title></circle></a><a href="/variants/s9/k2r8db2k2r2k6o2g6y1~x2/"><circle cx="65.9" cy="165.7" r="4" fill="#3465a4"><title>Craigmoor</title></circle></a><a href="/variants/s6/n2dg2r9k9g2y2~x4~dg1204144-g2408144/"><circle cx="77.4" cy="194.7" r="4" fill="#3465a4"><title>Wolves Wod Kindred</title></circle></a><a href="/variants/s6/r2ly1r5k4g5w1~x4/"><circle cx="94.0" cy="223.3" r="4" fill="#3465a4"><title>Aboyne II (Fashion)</title></circle></a><a href="/variants/s9/k2r8db2k2r2k6dy2g6y1~x2/"><circle cx="66.8" cy="166.3" r="4" fill="#3465a4"><title>Craigmoor Tartan</title></circle></a><a href="/variants/s7/o4y2o21do11w2k20r3~x2/"><circle cx="135.5" cy="149.2" r="4" fill="#3465a4"><title>Barbour</title></circle></a><a href="/variants/s7/o4y2o21dy11w2k20r3~x2/"><circle cx="135.0" cy="149.5" r="4" fill="#3465a4"><title>Barbour - Classic</title></circle></a><a href="/variants/s7/k20y4db13w4g30w4r13~x2/"><circle cx="57.8" cy="179.8" r="4" fill="#3465a4"><title>South Africa 1994 (Fashion)</title></circle></a><circle cx="82.0" cy="181.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

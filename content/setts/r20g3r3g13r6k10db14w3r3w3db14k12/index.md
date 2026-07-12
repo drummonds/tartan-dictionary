@@ -1,6 +1,11 @@
 ---
 title: "Glengarry Highland Games"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Glengarry Highland Games"
+  url: "/tartans/g/gl/glengarry-highland-games/"
 ---
 This is the **Glengarry Highland Games** sett — one scale-free proportion (`r20g3r3g13r6k10db14w3r3w3db14k12`), colour order pattern
 [KBWRWBKRGRGR](/stripes/kbwrwbkrgrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r8g2r2g6r4k8db12w2r2w2db12k5~x2/"><circle cx="78.8" cy="180.5" r="4" fill="#3465a4"><title>Glengarry Highland Games</title></circle></a><a href="/variants/s12/db2r4k7r8g10k4y2k8db4r4db14r2~x2/"><circle cx="60.1" cy="184.4" r="4" fill="#3465a4"><title>Unidentified pattern</title></circle></a><a href="/variants/s10/o5k15lb5n9lb2dp2lb2dp2n9k3~x2/"><circle cx="87.4" cy="172.4" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior Corporate Tartan</title></circle></a><a href="/variants/s9/k20w3lb20k3r3dg20r10w3k20~x2/"><circle cx="33.9" cy="156.3" r="4" fill="#3465a4"><title>Soutar/Souter</title></circle></a><a href="/variants/s12/r4o14dg2o4dg2k6o3k6ki14r2ki4r4~x2~ki0604259/"><circle cx="84.0" cy="169.1" r="4" fill="#3465a4"><title>Kinloch Anderson Limited</title></circle></a><a href="/variants/s13/db3r1db1r2db6r1k6g6r2g1r1g2y1~x2/"><circle cx="70.9" cy="175.1" r="4" fill="#3465a4"><title>Carnegie Family Tartan</title></circle></a><a href="/variants/s13/db3r1db1r2db6r1k6g6r2g1r1g2y1~x6/"><circle cx="70.9" cy="175.1" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/variants/s9/db20b3db4r3db3k10g21k4r20~x2/"><circle cx="88.6" cy="181.9" r="4" fill="#3465a4"><title>Holland &amp; Sherry (Corporate)</title></circle></a><a href="/variants/s11/r10k10r4g2r2k2r4g12db12g3db4~x2/"><circle cx="86.7" cy="202.4" r="4" fill="#3465a4"><title>Hueg (Personal)</title></circle></a><a href="/variants/s10/r4do6o3do10k14t6r18t6k4t2~x2/"><circle cx="90.2" cy="180.6" r="4" fill="#3465a4"><title>Cartier, Sir George Etienne</title></circle></a><circle cx="55.2" cy="179.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Northfield Academy"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Northfield Academy"
+  url: "/tartans/n/no/northfield-academy-2/"
 ---
 This is the **Northfield Academy** sett — one scale-free proportion (`n2dt1t2dt2r1t12dt2r1dr10dt28t1dt3t2dt3w1`), colour order pattern
 [BBBBRBBRBBBBBBW](/stripes/bbbbrbbrbbbbbbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/db67dy5g10r5y2r5g10dy5db4dy5g10r5n2r5dy5g10db24/"><circle cx="303.5" cy="69.8" r="4" fill="#3465a4"><title>Indianapolis MPD Emerald Society</title></circle></a><a href="/variants/s12/dbi40r2dbi7db5o2db3w2db10n6dbi2n4w2~x2~dbi1604274-db0805267/"><circle cx="351.9" cy="110.3" r="4" fill="#3465a4"><title>Plymouth/Armada 400, Armada</title></circle></a><a href="/variants/s12/db46r3db7do2y2do2w2do11o6db2o3w2~x2/"><circle cx="365.8" cy="84.6" r="4" fill="#3465a4"><title>Lady Diana, Plaid</title></circle></a><a href="/variants/s12/dt36r3dt1r2dt3r6db1r2db35w1db1ly2~x2/"><circle cx="340.9" cy="63.6" r="4" fill="#3465a4"><title>Kirkcaldy Tartan Army</title></circle></a><a href="/variants/s14/db40g10lo1g5r5w1r2w1r5g5lo1g10db40y2~x2~db1406275/"><circle cx="373.3" cy="67.5" r="4" fill="#3465a4"><title>St. Andrew Quebec City</title></circle></a><a href="/variants/s18/dg10b8dg46b3dg3b55r4b5w4b5y4b55dg3b3dg46b8dg10db10~x2/"><circle cx="310.8" cy="112.4" r="4" fill="#3465a4"><title>Lorne, Marquis of</title></circle></a><a href="/variants/s20/dp40g2dp2g2dp2g2dp3g16db15m3db15g16dp3g2dp2g2dp2g2dp40w4~x2~dp1105325-g2203152/"><circle cx="328.9" cy="102.7" r="4" fill="#3465a4"><title>Solway Spirit</title></circle></a><a href="/variants/s12/n45g3db7r2db7g3n4w2dp36w2n11db4/"><circle cx="312.5" cy="117.1" r="4" fill="#3465a4"><title>Scottish Parliament (Official)</title></circle></a><a href="/variants/s12/db54y9db16y2dp3w3dp3r27db13y3g5w2/"><circle cx="321.1" cy="90.5" r="4" fill="#3465a4"><title>Queens University of Ontario Corporate Tartan</title></circle></a><a href="/variants/s12/db54dy9db16dy2dp3w3dp3dr27db13dy3g5w2~x2/"><circle cx="388.9" cy="122.2" r="4" fill="#3465a4"><title>Queens University Kingston Ontario</title></circle></a><circle cx="337.8" cy="84.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

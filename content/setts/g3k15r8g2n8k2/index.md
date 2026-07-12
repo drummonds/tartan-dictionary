@@ -1,6 +1,15 @@
 ---
 title: "Thompson Black (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Thompson"
+  url: "/clan/thompson/"
+- name: "Thompson"
+  url: "/families/thompson/"
+- name: "Thompson"
+  url: "/tartans/t/th/thompson-5/"
 ---
 This is the **Thompson Black (Fashion)** sett — one scale-free proportion (`g3k15r8g2n8k2`), colour order pattern
 [GKRGBK](/stripes/gkrgbk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g3k15dr8g2n8k2~x4/"><circle cx="183.7" cy="214.2" r="4" fill="#3465a4"><title>Lindsay Htg (Clan?)</title></circle></a><a href="/variants/s5/k4lb4k4n15dr2~x4/"><circle cx="227.7" cy="213.0" r="4" fill="#3465a4"><title>Oban Grey (Fashion)</title></circle></a><a href="/variants/s5/k4w3k4n9r1~x4/"><circle cx="163.7" cy="215.6" r="4" fill="#3465a4"><title>Oban Grey District Tartan</title></circle></a><a href="/variants/s6/k3y18g6r17k31g3~x2/"><circle cx="171.7" cy="188.0" r="4" fill="#3465a4"><title>MacMillan Varient (Unidentified)</title></circle></a><a href="/variants/s6/k3ly18g6dr17k31g3~x2/"><circle cx="163.1" cy="189.5" r="4" fill="#3465a4"><title>MacMillan - 2002 (Black - Unofficial</title></circle></a><a href="/variants/s6/do2o11do2k11do16w2~x4/"><circle cx="205.0" cy="209.4" r="4" fill="#3465a4"><title>Portrait, The</title></circle></a><a href="/variants/s7/ly3k9lb1k1dr6k2ly3~x4/"><circle cx="185.5" cy="189.2" r="4" fill="#3465a4"><title>LP Cover (Dance)</title></circle></a><a href="/variants/s6/k2g7lb1k6r4g2~x4/"><circle cx="140.0" cy="224.5" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><a href="/variants/s6/dr1n6k1w3k3dr1~x8/"><circle cx="132.1" cy="219.5" r="4" fill="#3465a4"><title>Thompson Grey Dress</title></circle></a><a href="/variants/s6/k4g5k2g5dr17db2~x2/"><circle cx="239.7" cy="200.9" r="4" fill="#3465a4"><title>Denny Hunting</title></circle></a><circle cx="164.8" cy="204.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

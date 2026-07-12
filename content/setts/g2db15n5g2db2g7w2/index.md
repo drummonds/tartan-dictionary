@@ -1,6 +1,11 @@
 ---
 title: "Chambers Bay"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Chambers Bay"
+  url: "/tartans/c/ch/chambers-bay/"
 ---
 This is the **Chambers Bay** sett — one scale-free proportion (`g2db15n5g2db2g7w2`), colour order pattern
 [GBBGBGW](/stripes/gbbgbgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db24g3db3g3lo2g18dr2~x2/"><circle cx="334.8" cy="206.6" r="4" fill="#3465a4"><title>Greenways Marketing Intl (Corporate)</title></circle></a><a href="/variants/s5/db11g2db15g18w2~x2/"><circle cx="341.3" cy="272.2" r="4" fill="#3465a4"><title>Hamilton Hunting</title></circle></a><a href="/variants/s6/r1db12g5db2g4lb1~x2/"><circle cx="332.1" cy="207.6" r="4" fill="#3465a4"><title>Connaught Green</title></circle></a><a href="/variants/s6/db5w3db36g38y5g5~x2/"><circle cx="316.0" cy="214.3" r="4" fill="#3465a4"><title>St. Andrew Society, Sao Paulo (Corp)</title></circle></a><a href="/variants/s6/db26dr6g16db8g3dr2~x2/"><circle cx="379.0" cy="244.4" r="4" fill="#3465a4"><title>Perthshire (New) District Tartan</title></circle></a><a href="/variants/s6/dr2g3db2g14db14lr2~x2/"><circle cx="288.9" cy="245.3" r="4" fill="#3465a4"><title>Irving of Bonshaw Tower (Personal)</title></circle></a><a href="/variants/s6/db3g11lb2db11b6g3~x2/"><circle cx="226.3" cy="286.4" r="4" fill="#3465a4"><title>Unnamed, No 29</title></circle></a><a href="/variants/s6/db3g11t2db11ti6g3~x2~t2304245-ti2607245/"><circle cx="226.0" cy="287.8" r="4" fill="#3465a4"><title>Unidentified No 29</title></circle></a><a href="/variants/s5/db8g2db8g15lb2~x4/"><circle cx="320.1" cy="283.8" r="4" fill="#3465a4"><title>Hamilton Green Hunting</title></circle></a><a href="/variants/s9/dp4db18dr2db2dr2db9g20db3g4~x2/"><circle cx="322.0" cy="216.8" r="4" fill="#3465a4"><title>St. Andrews New Golf Club (Corp)</title></circle></a><circle cx="277.8" cy="235.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

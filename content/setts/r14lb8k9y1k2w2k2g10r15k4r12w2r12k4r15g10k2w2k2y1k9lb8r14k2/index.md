@@ -1,6 +1,15 @@
 ---
 title: "Wilson's No.001"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Harden"
+  url: "/clan/harden/"
+- name: "Harden"
+  url: "/families/harden/"
+- name: "Harden"
+  url: "/tartans/h/ha/harden/"
 ---
 This is the **Wilson's No.001** sett — one scale-free proportion (`r14lb8k9y1k2w2k2g10r15k4r12w2r12k4r15g10k2w2k2y1k9lb8r14k2`), colour order pattern
 [KRWKGKWKGRKRWRKRGKWKGKWR](/stripes/krwkgkwkgrkrwrkrgkwkgkwr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s29/r2k2w2r22t8k2t2k2t8k12ly2g16r22t4r22t4r22g16ly2k12t8k2t2k2t8r22w1k1r1~x2/"><circle cx="170.9" cy="57.0" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/variants/s13/k2r14lb8k9y1k2w2k2g10r15k4r12w2~x2/"><circle cx="155.9" cy="111.6" r="4" fill="#3465a4"><title>Harden (Name)</title></circle></a><a href="/variants/s13/k1r14lb8k9y1k2w2k2g10r15k4r12w1~x2/"><circle cx="167.4" cy="107.7" r="4" fill="#3465a4"><title>Wilson's, No 1</title></circle></a><a href="/variants/s40/dg23r6dg23r25k2r2k5r2k2r26k2r2k5r2k2r26w3r12lb33r7lb33r12w3r26dg8r12dg4r26dg12r8dg12r12dg8g7dg8r12dg9w3dg16w2/"><circle cx="164.9" cy="65.2" r="4" fill="#3465a4"><title>Kinnoull (Clan)</title></circle></a><a href="/variants/s18/r9k1r3w5r6k5r4do8y4w1k1w1y4r6k1w2lb1w2~x2/"><circle cx="96.2" cy="128.0" r="4" fill="#3465a4"><title>Jacobite, Old sett</title></circle></a><a href="/variants/s14/r21lb9k2lb2k2lb9k18y3g21r13k3r13w2r13~x2/"><circle cx="124.7" cy="128.1" r="4" fill="#3465a4"><title>Caledonia No 155 District Tartan</title></circle></a><a href="/variants/s20/r4lb5r2lb7ri3r4ri3k4lo2k2lo2k4w4k4r18ri1k2ri1r4ri3~x2~r2109032-ri2308029/"><circle cx="113.8" cy="79.5" r="4" fill="#3465a4"><title>Anderson, Red (Fashion)</title></circle></a><a href="/variants/s15/r8w2r8n15y1k15n8k1g1k1n8r8w2k2r3~x2/"><circle cx="116.3" cy="80.4" r="4" fill="#3465a4"><title>Unidentified Scarlett #14</title></circle></a><a href="/variants/s38/dg24r33k2r2k5r2k2r26k2r2k5r2k2r26w3r12db33r7db33r12w3r26dg4r12dg4r26dg12r8dg12r12dg8g7dg8r12dg9w3dg16w2~x2~dg1806142-g2408144/"><circle cx="191.6" cy="65.3" r="4" fill="#3465a4"><title>Kinnoull (MacRae) Family Tartan</title></circle></a><a href="/variants/s15/r12lb2r12g8y1k6lb4k1lb1k1lb4r12w1k1r1~x2/"><circle cx="202.7" cy="100.4" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><circle cx="147.0" cy="91.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

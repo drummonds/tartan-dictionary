@@ -1,6 +1,11 @@
 ---
 title: "Round Table Sweden"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Round Table Sweden"
+  url: "/tartans/r/ro/round-table-sweden-2/"
 ---
 This is the **Round Table Sweden** sett — one scale-free proportion (`dr3dy15g4db6w2dr30db6y3`), colour order pattern
 [BGGBWBBG](/stripes/bggbwbbg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dr28y3dr3db3dr4dp8g10dpi15dp4~x2~dp1105325-dpi1607327/"><circle cx="293.5" cy="205.3" r="4" fill="#3465a4"><title>Loch Lomond (1999)</title></circle></a><a href="/variants/s10/w1dg1dr1dg14dr1db6dr11dg1dr1lb1~x4/"><circle cx="331.2" cy="180.9" r="4" fill="#3465a4"><title>Glen Tilt #1 (District)</title></circle></a><a href="/variants/s12/db4dr24dg2dr3dg19y2dr2db8dr2dg2w2dr2~x2/"><circle cx="345.4" cy="181.4" r="4" fill="#3465a4"><title>Michael from Appin (Personal)</title></circle></a><a href="/variants/s9/dg18g2db5dr45lb3db18lb3dr8lbi2~x2~dg1806142-g2408144-lb3103284-lbi3200000/"><circle cx="322.4" cy="140.8" r="4" fill="#3465a4"><title>MacNiven</title></circle></a><a href="/variants/s12/n20t4n12y2n4w3n4dr18do10n2do4w2~x2/"><circle cx="286.8" cy="191.9" r="4" fill="#3465a4"><title>Portree</title></circle></a><a href="/variants/s8/g7ly2g5dg37db6dr16db5t2~x2/"><circle cx="313.0" cy="173.3" r="4" fill="#3465a4"><title>Telfer Green (Name)</title></circle></a><a href="/variants/s6/dy11db2r4y1dp2n2~x4/"><circle cx="301.4" cy="194.9" r="4" fill="#3465a4"><title>Windy Meadows</title></circle></a><a href="/variants/s8/g7dy2g5dg37db6dr16db5b2~x2/"><circle cx="338.6" cy="181.7" r="4" fill="#3465a4"><title>Telfer Green</title></circle></a><a href="/variants/s9/dr26w1db10w1dg32dr11db8lb3w1~x2/"><circle cx="320.5" cy="161.4" r="4" fill="#3465a4"><title>Spens/Spence (Clan)</title></circle></a><a href="/variants/s11/b1db5dp6dg2dp1dg12dr1dg2dp1dr5ly1~x4/"><circle cx="316.0" cy="198.3" r="4" fill="#3465a4"><title>Telfer, Jamie (Name)</title></circle></a><circle cx="320.6" cy="179.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

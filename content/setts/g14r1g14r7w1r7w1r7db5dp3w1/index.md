@@ -1,6 +1,15 @@
 ---
 title: "Hynde Artifact Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hynde"
+  url: "/clan/hynde/"
+- name: "Hynde"
+  url: "/families/hynde/"
+- name: "Hynde"
+  url: "/tartans/h/hy/hynde/"
 ---
 This is the **Hynde Artifact Tartan** sett — one scale-free proportion (`g14r1g14r7w1r7w1r7db5dp3w1`), colour order pattern
 [GRGRWRWRBBW](/stripes/grgrwrwrbbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g14dr1g14dr7lb1dr7lb1dr7k5dp3lb1~x4/"><circle cx="212.3" cy="155.8" r="4" fill="#3465a4"><title>Hynde (Sir John) (Artefact)</title></circle></a><a href="/variants/s14/dr2r4g2db2r6g14r2db2g2r12g7dr2r5w1~x2/"><circle cx="253.2" cy="153.6" r="4" fill="#3465a4"><title>MacDonald of Staffa #5</title></circle></a><a href="/variants/s10/g22r3db10t2db10r21g22r3y2db2~x2/"><circle cx="228.2" cy="179.3" r="4" fill="#3465a4"><title>Glasgow Cathedral 2000</title></circle></a><a href="/variants/s11/dr5r2y24lb2y2lb2y6lb8dr6lb8ly4~x2/"><circle cx="254.6" cy="168.7" r="4" fill="#3465a4"><title>Tasmanian</title></circle></a><a href="/variants/s10/g6dg2g3dg2g6db8r20ly2r3g2~x2/"><circle cx="216.1" cy="169.2" r="4" fill="#3465a4"><title>Connolly Dress (Name)</title></circle></a><a href="/variants/s9/g12w1r1w4r1w1r8dy2r1~x4/"><circle cx="218.0" cy="169.6" r="4" fill="#3465a4"><title>Karibu (Corporate)</title></circle></a><a href="/variants/s9/g12w1r1w4r1w1r8y2r1~x4/"><circle cx="226.3" cy="172.7" r="4" fill="#3465a4"><title>Karibu</title></circle></a><a href="/variants/s14/r2ri4g2db2ri6g14ri2db2g2ri12g7r2ri5w1~x2~r1506028-ri2008029/"><circle cx="261.2" cy="156.0" r="4" fill="#3465a4"><title>MacDonald of Staffa 4</title></circle></a><a href="/variants/s14/dg2r3g2db2r6g16r2db4g2r16g8dg2r4w2/"><circle cx="219.0" cy="167.3" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/variants/s14/w2r4lb2g8r16g2db4r2g16r6db2g2r3lb2~x2/"><circle cx="218.1" cy="166.9" r="4" fill="#3465a4"><title>MacKinnon #2</title></circle></a><circle cx="233.0" cy="163.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

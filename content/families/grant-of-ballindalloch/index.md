@@ -1,6 +1,11 @@
 ---
 title: "Grant of Ballindalloch"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Grant"
+  url: "/clan/grant/"
 ---
 A family of [Clan Grant](/clan/grant/).
 

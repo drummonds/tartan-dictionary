@@ -1,6 +1,15 @@
 ---
 title: "Bethune"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Bethune"
+  url: "/clan/bethune/"
+- name: "Bethune"
+  url: "/families/bethune/"
+- name: "Bethune"
+  url: "/tartans/b/be/bethune/"
 ---
 This is the **Bethune** sett — one scale-free proportion (`b2db18y4k5y1k1w1k2g8k1r3w1`), colour order pattern
 [BBGKGKWKGKRW](/stripes/bbgkgkwkgkrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/lb2db18ly4k5ly1k1w1k2g8r6k1r3w1~x4/"><circle cx="76.2" cy="75.8" r="4" fill="#3465a4"><title>Bethune (Personal)</title></circle></a><a href="/variants/s13/g4r1ri1dg2r1ri1r1ri1k12g18db23w2k3~x2~r2109032-ri2806019/"><circle cx="112.3" cy="61.3" r="4" fill="#3465a4"><title>St. Andrews Grand (Fashion)</title></circle></a><a href="/variants/s10/k1dr4k1w3k1g7k2db16r2ly1~x2/"><circle cx="127.9" cy="90.7" r="4" fill="#3465a4"><title>Twempy</title></circle></a><a href="/variants/s9/dg32lb3lp3lb3dg2k20db17r3y4~x2/"><circle cx="135.9" cy="110.7" r="4" fill="#3465a4"><title>Colorado (District)</title></circle></a><a href="/variants/s11/w3db5lb2db9dp10k2dp5k2dg8g29w2~x2/"><circle cx="110.7" cy="106.7" r="4" fill="#3465a4"><title>Carnegie of Skibo (Corporate)</title></circle></a><a href="/variants/s11/w3db5lt2db9dp10k2dp5k5dg9g31w2~x2/"><circle cx="104.8" cy="105.0" r="4" fill="#3465a4"><title>Carnegie of Skibo Corporate Tartan</title></circle></a><a href="/variants/s9/dg32lb3p3lb3dg2k20db17r3y4~x2/"><circle cx="141.5" cy="112.1" r="4" fill="#3465a4"><title>Colorado American District Tartan</title></circle></a><a href="/variants/s13/k2dp4o4dp3g20dp5k4dp3k7dp3k3db35w2~x2/"><circle cx="153.8" cy="96.0" r="4" fill="#3465a4"><title>Spirit of Bannockburn (Fashion)</title></circle></a><a href="/variants/s14/db7k1r3k1db24k1w3k3dg3k3dg3g19k2w4~x2/"><circle cx="143.3" cy="73.1" r="4" fill="#3465a4"><title>Strathclyde, University of</title></circle></a><a href="/variants/s17/db24g2db12k2w2k3dp2k3t4k3dp2k3w2k2r12g2t24~x2/"><circle cx="87.2" cy="83.1" r="4" fill="#3465a4"><title>Selkirk, New (District)</title></circle></a><circle cx="114.2" cy="79.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

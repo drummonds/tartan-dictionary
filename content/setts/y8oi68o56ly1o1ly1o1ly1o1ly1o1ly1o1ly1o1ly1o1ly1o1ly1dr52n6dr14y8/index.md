@@ -1,6 +1,11 @@
 ---
 title: "Lehbrink No. 1 (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Lehbrink No. 1"
+  url: "/tartans/l/le/lehbrink-no-1/"
 ---
 This is the **Lehbrink No. 1 (Fashion)** sett — one scale-free proportion (`y8oi68o56ly1o1ly1o1ly1o1ly1o1ly1o1ly1o1ly1o1ly1o1ly1dr52n6dr14y8`), colour order pattern
 [GBBBYRYRYRYRYRYRYRYRYRRG](/stripes/gbbbyryryryryryryryryrrg/). It is recorded as a single **variant**, below.

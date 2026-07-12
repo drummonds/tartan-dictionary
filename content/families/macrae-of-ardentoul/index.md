@@ -1,6 +1,11 @@
 ---
 title: "MacRae of Ardentoul"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacRae"
+  url: "/clan/macrae/"
 ---
 A family of [Clan MacRae](/clan/macrae/).
 

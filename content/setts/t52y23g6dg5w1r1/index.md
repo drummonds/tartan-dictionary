@@ -1,6 +1,11 @@
 ---
 title: "College of New Caledonia (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "College of New Caledonia"
+  url: "/tartans/c/co/college-of-new-caledonia/"
 ---
 This is the **College of New Caledonia (Corporate)** sett — one scale-free proportion (`t52y23g6dg5w1r1`), colour order pattern
 [BGGGWR](/stripes/bgggwr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/g53r13db2y22~x2/"><circle cx="455.5" cy="232.1" r="4" fill="#3465a4"><title>Englehart Commemorative Tartan</title></circle></a><a href="/variants/s4/w4n28t48y3~x2~t2503227/"><circle cx="531.7" cy="281.4" r="4" fill="#3465a4"><title>MacKerrell of Hillhouse Dress Personal Tartan</title></circle></a><a href="/variants/s4/n44dg12db1r6~x2~r1406028/"><circle cx="607.1" cy="205.0" r="4" fill="#3465a4"><title>Heslop, William D Name Tartan</title></circle></a><a href="/variants/s4/n44dg12db1r6~x2/"><circle cx="580.7" cy="195.0" r="4" fill="#3465a4"><title>Heslop Lurdenlaw by Kelso</title></circle></a><a href="/variants/s6/y9g18b9r1w1db1~x4/"><circle cx="301.8" cy="188.4" r="4" fill="#3465a4"><title>COG USA, THE</title></circle></a><a href="/variants/s8/g7dy2g5dg37db6dr16db5b2~x2/"><circle cx="338.6" cy="181.7" r="4" fill="#3465a4"><title>Telfer Green</title></circle></a><a href="/variants/s6/dbi15db55w1dp5r2ly1~x2~dbi1406275-db1404245/"><circle cx="599.2" cy="145.9" r="4" fill="#3465a4"><title>Venters (Personal)</title></circle></a><a href="/variants/s9/o4dg2o7n30o8n7g5dg1w2~x2~o2500000-n1900000/"><circle cx="453.2" cy="167.2" r="4" fill="#3465a4"><title>Inchforth (Personal)</title></circle></a><circle cx="497.1" cy="155.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

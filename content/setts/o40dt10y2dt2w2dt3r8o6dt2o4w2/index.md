@@ -1,6 +1,15 @@
 ---
 title: "Cavalier, Red"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cavalier"
+  url: "/clan/cavalier/"
+- name: "Cavalier"
+  url: "/families/cavalier/"
+- name: "Cavalier"
+  url: "/tartans/c/ca/cavalier/"
 ---
 This is the **Cavalier, Red** sett — one scale-free proportion (`o40dt10y2dt2w2dt3r8o6dt2o4w2`), colour order pattern
 [RBGBWBRRBRW](/stripes/rbgbwbrrbrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/o40dt10y2dt2w2dt3g8o6dt2o4w2~x2/"><circle cx="395.3" cy="122.2" r="4" fill="#3465a4"><title>Cavalier, Brown</title></circle></a><a href="/variants/s17/r24y1db1r3g16r3db1y1r3db6r3y1db1r16g2dr2g2~x2~r1908029/"><circle cx="382.3" cy="99.5" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/variants/s15/r6y2db2r30dg2r2g4r2dg2r1dg20r1y2db2r4~x2~dg1806142-g2408144/"><circle cx="367.3" cy="85.5" r="4" fill="#3465a4"><title>All Ireland Red (Fashion)</title></circle></a><a href="/variants/s15/r6y2db2r30dg2r2g4r2dg2r1dg20r1y2db2r4~x2~db1204274-dg1806142-g2408144/"><circle cx="369.7" cy="86.1" r="4" fill="#3465a4"><title>All Ireland Red</title></circle></a><a href="/variants/s17/ri24y1db1ri3g16ri3db1y1ri3db6ri3y1db1ri16g2r2g2~x2~ri2008029-r1707016/"><circle cx="377.0" cy="96.6" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/variants/s10/o4g13o3db4o3db3o40db3o2lo4~x2/"><circle cx="454.8" cy="144.5" r="4" fill="#3465a4"><title>Galway Irish County Tartan</title></circle></a><a href="/variants/s17/r24y1db1r3g16r3db1y1r3db6r3y1db1r16g2ri2g2~x4~r2109032-ri2307033/"><circle cx="374.6" cy="95.6" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/variants/s17/ri24y1db1ri3g16ri3db1y1ri3db6ri3y1db1ri16g2r2g2~x2~ri2109032-r1807008/"><circle cx="373.9" cy="95.2" r="4" fill="#3465a4"><title>Munro Clan Tartan</title></circle></a><a href="/variants/s12/dy21r2w1ly3r2dy5r21ly1y1ly1r1dy8~x2~dy1603076-ly3307090/"><circle cx="361.4" cy="123.5" r="4" fill="#3465a4"><title>Glendronach Corporate Tartan</title></circle></a><a href="/variants/s10/r12w2r37t6g3t3r4t3g21r4~x2/"><circle cx="382.7" cy="148.3" r="4" fill="#3465a4"><title>Chisholm, The (MacGregor-Hastie)</title></circle></a><circle cx="397.4" cy="117.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

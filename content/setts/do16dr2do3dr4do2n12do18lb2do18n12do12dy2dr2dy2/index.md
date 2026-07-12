@@ -1,6 +1,15 @@
 ---
 title: "Allen - Northumbrian Hunting (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Allen"
+  url: "/clan/allen/"
+- name: "Allen"
+  url: "/families/allen/"
+- name: "Allen"
+  url: "/tartans/a/al/allen/"
 ---
 This is the **Allen - Northumbrian Hunting (Personal)** sett — one scale-free proportion (`do16dr2do3dr4do2n12do18lb2do18n12do12dy2dr2dy2`), colour order pattern
 [BBBBBBBWBBBGBG](/stripes/bbbbbbbwbbbgbg/). It is recorded as a single **variant**, below.

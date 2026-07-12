@@ -1,6 +1,11 @@
 ---
 title: "The Rhythms of Evelyn Glennie"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "The Rhythms of Evelyn Glennie"
+  url: "/tartans/t/th/the-rhythms-of-evelyn-glennie/"
 ---
 This is the **The Rhythms of Evelyn Glennie** sett — one scale-free proportion (`r25k4r2k3y2k2db3r2k3db2k2`), colour order pattern
 [KBKRBKGKRKR](/stripes/kbkrbkgkrkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r25k4r2k3dy2k2db3r2k3db2k2~x2/"><circle cx="295.3" cy="103.6" r="4" fill="#3465a4"><title>Glennie, The Rhythms of Evelyn</title></circle></a><a href="/variants/s9/n3k14r3k14lb3r32k2r6k2~x2/"><circle cx="267.3" cy="122.9" r="4" fill="#3465a4"><title>Gallmore (Fashion)</title></circle></a><a href="/variants/s10/k9r4k2r4k2r30k9r4k14lo2~x2/"><circle cx="293.6" cy="136.8" r="4" fill="#3465a4"><title>Hanna of Falkirk (Clan?)</title></circle></a><a href="/variants/s10/k6r4lb3r44k32r3k3lo3k2r3~x2/"><circle cx="294.0" cy="88.2" r="4" fill="#3465a4"><title>Smeaton 1985 (Name)</title></circle></a><a href="/variants/s9/lb6k2r32lo2k6lo2r4k2lb3~x2/"><circle cx="318.9" cy="105.2" r="4" fill="#3465a4"><title>Lantern, The</title></circle></a><a href="/variants/s13/ly3r2k7r2db7r18k2r2k2r18db7r2k2~x2/"><circle cx="265.8" cy="136.9" r="4" fill="#3465a4"><title>Brad Majors (Fashion)</title></circle></a><a href="/variants/s13/y3r2k7r2db7r18k2r2k2r18db7r2k2~x2/"><circle cx="270.4" cy="138.2" r="4" fill="#3465a4"><title>Brad Majors</title></circle></a><a href="/variants/s9/y1r12k2r2k16r2k2r12w1/"><circle cx="289.5" cy="125.1" r="4" fill="#3465a4"><title>MacIvor</title></circle></a><a href="/variants/s9/y1r12k2r2k16r2k2r12w1~x2/"><circle cx="289.5" cy="125.1" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s12/r2y1k2r13k2r2k2r2k12r2y1g2~x2/"><circle cx="241.3" cy="118.2" r="4" fill="#3465a4"><title>Hallingdal District Tartan</title></circle></a><circle cx="294.4" cy="103.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

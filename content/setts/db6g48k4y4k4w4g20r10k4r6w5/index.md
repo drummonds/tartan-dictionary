@@ -1,6 +1,11 @@
 ---
 title: "Steel (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Steel"
+  url: "/tartans/s/st/steel/"
 ---
 This is the **Steel (Personal)** sett — one scale-free proportion (`db6g48k4y4k4w4g20r10k4r6w5`), colour order pattern
 [BGKGKWGRKRW](/stripes/bgkgkwgrkrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y3g24k18r4g22r6k4r3w3~x2/"><circle cx="187.8" cy="165.7" r="4" fill="#3465a4"><title>Brown, George</title></circle></a><a href="/variants/s12/g30ly4k6lo2k2g4k2db5y4k2y3g2~x2/"><circle cx="220.7" cy="94.1" r="4" fill="#3465a4"><title>Bottle Green (Fashion)</title></circle></a><a href="/variants/s11/db3k1g13y1r1w1r6g3r1g3w1~x2/"><circle cx="242.0" cy="118.8" r="4" fill="#3465a4"><title>Canadian Caledonian Hunting Canadian Tartan</title></circle></a><a href="/variants/s12/g44db3k8y2k2w2k2g9r5k2r2w2~x2/"><circle cx="296.5" cy="60.8" r="4" fill="#3465a4"><title>Princess Mary Royal Family Tartan</title></circle></a><a href="/variants/s12/k2w1g2dy6g2db4g2k2g15r2g2k1~x4/"><circle cx="219.4" cy="107.6" r="4" fill="#3465a4"><title>MacClure Htg (Name)</title></circle></a><a href="/variants/s12/k2lr1g2dy6g2db4g2k2g15r2g2k1~x4/"><circle cx="223.5" cy="108.5" r="4" fill="#3465a4"><title>MacClure Hunting Clan/Family Tartan</title></circle></a><a href="/variants/s11/db3k1g16lo1dr1lb1dr6g3dr1g3lb1~x4/"><circle cx="286.7" cy="108.5" r="4" fill="#3465a4"><title>Canadian Caledonian Hunting</title></circle></a><a href="/variants/s11/k3g3y2g30k2g3r12g6lp6k3g3~x2/"><circle cx="287.8" cy="119.0" r="4" fill="#3465a4"><title>McAlifyfe (Personal)</title></circle></a><a href="/variants/s16/r2db2k3g25k2db3g4y2g2w2g6db2r7k2r3w2~x2/"><circle cx="199.3" cy="89.8" r="4" fill="#3465a4"><title>Hueg (Bavaria) Scottish Thistle (Personal)</title></circle></a><a href="/variants/s11/y24k8r4k6g76k8w14g4k9g12ly10/"><circle cx="203.0" cy="91.3" r="4" fill="#3465a4"><title>Offally County Crest (Fashion)</title></circle></a><circle cx="234.7" cy="109.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

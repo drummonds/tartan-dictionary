@@ -1,6 +1,15 @@
 ---
 title: "Stewart of Bute"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Stewart"
+  url: "/clan/stewart/"
+- name: "Stewart of Bute"
+  url: "/families/stewart-of-bute/"
+- name: "Stewart of Bute"
+  url: "/tartans/s/st/stewart-of-bute/"
 ---
 This is the **Stewart of Bute** sett — one scale-free proportion (`dg34k2t2k2dg34r3k34r2k34r3t33k2dg2k2dg2k2t33`), colour order pattern
 [BKGKGKBRKRKRGKBKGKBKGRKRKRBKGKGK](/stripes/bkgkgkbrkrkrgkbkgkbkgrkrkrbkgkgk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/g34k2t2k2g34r3k34r2k34r3t33k2g2k2g2k2t33~x2/"><circle cx="161.2" cy="80.8" r="4" fill="#3465a4"><title>Stewart of Bute - 1963 (Clan)</title></circle></a><a href="/variants/s17/g34k2db2k2g34r3k34r2k34r3db33k2g2k2g2k2db33/"><circle cx="163.3" cy="113.5" r="4" fill="#3465a4"><title>Stewart, Old - 1819 (Clan)</title></circle></a><a href="/variants/s17/g34k2db2k2g34r3k34r2k34r3db33k2g2k2g2k2db33~db1204274/"><circle cx="166.1" cy="113.4" r="4" fill="#3465a4"><title>Stewart/Stuart</title></circle></a><a href="/variants/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12~x2~db1406275/"><circle cx="135.4" cy="136.1" r="4" fill="#3465a4"><title>Stewart/Stuart of Appin</title></circle></a><a href="/variants/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12/"><circle cx="134.9" cy="136.9" r="4" fill="#3465a4"><title>Stewart Old</title></circle></a><a href="/variants/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12~x2/"><circle cx="134.9" cy="136.9" r="4" fill="#3465a4"><title>Stewart Old.. Clan Tartan</title></circle></a><a href="/variants/s11/db30k2db2k2db2k32g15r2g4r4g30~x2~db1406275/"><circle cx="170.8" cy="104.6" r="4" fill="#3465a4"><title>Scottish Tourist Board (1981)</title></circle></a><a href="/variants/s24/k2r2g27r2k6db2r6g6r2k24r2k2db2r2k24r2g6r6db2k6r2g27r2k2~x2/"><circle cx="166.4" cy="93.9" r="4" fill="#3465a4"><title>Cumming/Buchan Hunting</title></circle></a><a href="/variants/s21/r6g6r2k24r2k2db2r2k24r2db6k6r2g27r2k2r2g27r2k6db2~x2/"><circle cx="173.3" cy="102.6" r="4" fill="#3465a4"><title>Buchan (Clan)</title></circle></a><a href="/variants/s23/g20r2g4r6g32k32r2db32r6db3r2db20r2db3r6db32r2k32g32r6g4r2g10~x2/"><circle cx="139.0" cy="115.1" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><circle cx="169.0" cy="82.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Bunnahabhain"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Bunnahabhain"
+  url: "/tartans/b/bu/bunnahabhain/"
 ---
 This is the **Bunnahabhain** sett — one scale-free proportion (`ly8k7r3k7r3k38w2k3ly6`), colour order pattern
 [YKRKRKWKY](/stripes/ykrkrkwky/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k4w1r4k2g2r3g2k20r2k2~x2/"><circle cx="337.7" cy="98.0" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang #3</title></circle></a><a href="/variants/s10/y4k3w3k44y4k22n22w3k3y4/"><circle cx="309.8" cy="123.3" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/variants/s10/k4w1r4k2g2r3k22r2k2r2/"><circle cx="364.1" cy="90.9" r="4" fill="#3465a4"><title>Valdres Kvam and Vang District Tartan</title></circle></a><a href="/variants/s8/k21r1k1y1k1r1k3w3~x6/"><circle cx="460.4" cy="87.2" r="4" fill="#3465a4"><title>Black Country (District)</title></circle></a><a href="/variants/s10/y6k2y2r10k4r4k4r2k35y2~x2/"><circle cx="343.3" cy="114.8" r="4" fill="#3465a4"><title>Einigkeit</title></circle></a><a href="/variants/s8/k42lb2r3k5r16k8y2k3~x2/"><circle cx="390.9" cy="104.4" r="4" fill="#3465a4"><title>Highland Brewing Company (USA)</title></circle></a><a href="/variants/s8/k70lo5k3n4dp4n4k3lo12/"><circle cx="408.6" cy="89.9" r="4" fill="#3465a4"><title>State University of New York College at Buffalo</title></circle></a><a href="/variants/s10/ly2k3w3k44ly4k22lb22w3k3ly2/"><circle cx="334.8" cy="105.0" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="368.0" cy="144.3" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/variants/s10/k27w2k2w2k2w2k2w2k4r5~x4/"><circle cx="392.4" cy="113.7" r="4" fill="#3465a4"><title>Reiver Check</title></circle></a><circle cx="361.1" cy="105.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

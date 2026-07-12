@@ -1,6 +1,15 @@
 ---
 title: "Styrian"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Styrian"
+  url: "/clan/styrian/"
+- name: "Styrian"
+  url: "/families/styrian/"
+- name: "Styrian"
+  url: "/tartans/s/st/styrian-2/"
 ---
 This is the **Styrian** sett — one scale-free proportion (`o16dg29n19dgi8n19dg29o16r4`), colour order pattern
 [RGBGBGRR](/stripes/rgbgbgrr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g8n19dg29o16dr4~x2~n1900000-o2500000/"><circle cx="241.6" cy="282.0" r="4" fill="#3465a4"><title>Styrian (Fashion)</title></circle></a><a href="/variants/s7/r3dg20y2dg20n20b20r3~x2/"><circle cx="268.0" cy="231.7" r="4" fill="#3465a4"><title>Brodie, Silver</title></circle></a><a href="/variants/s12/dt22g4dt4g17dy17g17dt4g4dt22y8dy8r8~x2/"><circle cx="201.1" cy="246.8" r="4" fill="#3465a4"><title>Niagara Falls</title></circle></a><a href="/variants/s6/r4t19g10n10dy15y2~x2/"><circle cx="187.6" cy="249.4" r="4" fill="#3465a4"><title>Isle of Rona (District)</title></circle></a><a href="/variants/s5/r5db12g11n21y5~x2/"><circle cx="202.0" cy="296.4" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s8/n9dy9yi9r1y1dy9y1r1~x4~n1900000-yi2300000/"><circle cx="319.8" cy="235.3" r="4" fill="#3465a4"><title>Jardine (Clan)</title></circle></a><a href="/variants/s8/dg12dgi6r1dg6dgi4dp8dy2w2~x4~dg1403171-dgi1805151/"><circle cx="240.6" cy="211.5" r="4" fill="#3465a4"><title>Connelly Tartan</title></circle></a><circle cx="249.7" cy="276.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

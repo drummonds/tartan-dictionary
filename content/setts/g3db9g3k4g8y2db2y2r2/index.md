@@ -1,6 +1,11 @@
 ---
 title: "Maitland"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Maitland"
+  url: "/tartans/m/ma/maitland/"
 ---
 This is the **Maitland** sett — one scale-free proportion (`g3db9g3k4g8y2db2y2r2`), colour order pattern
 [GBGKGGBGR](/stripes/gbgkggbgr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g3db8g3k4g9y2db2y2r2~x2/"><circle cx="127.4" cy="220.9" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/variants/s9/g3db8g3k4g9y2db2y2r2/"><circle cx="127.4" cy="220.9" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/variants/s9/g16y3db9r3db9g6db3g3k3~x4/"><circle cx="174.7" cy="213.5" r="4" fill="#3465a4"><title>Blarney Castle</title></circle></a><a href="/variants/s6/y1g6k5g1db5g1~x2/"><circle cx="157.1" cy="231.9" r="4" fill="#3465a4"><title>MacKay (Bonner)</title></circle></a><a href="/variants/s8/g5r4g19k10g8w4db18r4~x2/"><circle cx="97.0" cy="197.8" r="4" fill="#3465a4"><title>CSCA</title></circle></a><a href="/variants/s6/r4g12k12g2db12g3~x2/"><circle cx="125.8" cy="238.4" r="4" fill="#3465a4"><title>Gunn - 1810 (Clan)</title></circle></a><a href="/variants/s12/g12r2g2r2k12db12y2db12k2g11r2g2~x2/"><circle cx="107.5" cy="179.5" r="4" fill="#3465a4"><title>Akins of Candler (Personal)</title></circle></a><a href="/variants/s8/g24k4g6r4g6k19db22w5~x2/"><circle cx="108.4" cy="198.8" r="4" fill="#3465a4"><title>MacRae, Ancient hunting</title></circle></a><a href="/variants/s8/y8g4db16g4k14y14db4t3~x2/"><circle cx="86.3" cy="222.7" r="4" fill="#3465a4"><title>Hinnigan (Personal)</title></circle></a><a href="/variants/s7/db5lb4db22k15g22r4g4~x2/"><circle cx="106.6" cy="210.9" r="4" fill="#3465a4"><title>Cairngorm #2</title></circle></a><circle cx="116.9" cy="221.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Drummond of Megginch - Child's Kilt (c.1890)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Drummond"
+  url: "/clan/drummond/"
+- name: "Drummond of Megginch"
+  url: "/families/drummond-of-megginch/"
+- name: "Drummond of Megginch"
+  url: "/tartans/d/dr/drummond-of-megginch/"
 ---
 This is the **Drummond of Megginch - Child's Kilt (c.1890)** sett — one scale-free proportion (`r6db2r3dg12r2dg2r2db4r2lb2r14db2r2db1r6`), colour order pattern
 [RBRBRWRBRGRGRBR](/stripes/rbrbrwrbrgrgrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r12db3r4db4r36lb6r4db18r4dg2r4dg36r4db4r8~r2109032-db0906265-lb3203246-dg1405139/"><circle cx="289.0" cy="127.8" r="4" fill="#3465a4"><title>Drummond of Megginch - 1969 Carpet</title></circle></a><a href="/variants/s15/r3db1r1g10r1g1r1db3r1lb1r12db1r1db1r3~x4/"><circle cx="320.9" cy="136.2" r="4" fill="#3465a4"><title>Grant D</title></circle></a><a href="/variants/s15/r3db1r1g10r1g1r1db3r1lb1r12db1r1db1r3~x2/"><circle cx="320.9" cy="136.2" r="4" fill="#3465a4"><title>Grant D</title></circle></a><a href="/variants/s15/r8db2r2db2r32lb2r2db8r2g2r2g27r2db2r2~x2/"><circle cx="326.3" cy="115.7" r="4" fill="#3465a4"><title>Grant (Official)</title></circle></a><a href="/variants/s15/r3db1r1g10r1g1r1db3r1w1r12db1r1db1r3~x2/"><circle cx="315.7" cy="134.5" r="4" fill="#3465a4"><title>Grant D</title></circle></a><a href="/variants/s13/r9db2r21lb2r2db8r2g2r2g17r2db2r8~x2/"><circle cx="320.7" cy="159.5" r="4" fill="#3465a4"><title>London Caledonian Commemorative Tartan</title></circle></a><a href="/variants/s13/db4r1db1r18db10r1g1r6g10r6w1r4db1~x2/"><circle cx="320.4" cy="138.6" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/variants/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/"><circle cx="341.4" cy="164.2" r="4" fill="#3465a4"><title>London Caledonian Games Association</title></circle></a><a href="/variants/s14/r12g1r1dy8r2dy1r1db3r1dy1r12g1r1g4~x2/"><circle cx="366.4" cy="148.2" r="4" fill="#3465a4"><title>MacColl #2</title></circle></a><a href="/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x4/"><circle cx="376.9" cy="159.8" r="4" fill="#3465a4"><title>MacColl</title></circle></a><circle cx="327.2" cy="149.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

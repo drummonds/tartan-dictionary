@@ -1,6 +1,15 @@
 ---
 title: "MacNeil 5"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacNeil"
+  url: "/clan/macneil/"
+- name: "MacNeil"
+  url: "/families/macneil/"
+- name: "MacNeil 5"
+  url: "/tartans/m/ma/macneil-5/"
 ---
 This is the **MacNeil 5** sett — one scale-free proportion (`y1k5g12k12db12w1`), colour order pattern
 [GKGKBW](/stripes/gkgkbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y1k1g9k9db8w1~x4/"><circle cx="121.1" cy="190.1" r="4" fill="#3465a4"><title>MacNeil 4</title></circle></a><a href="/variants/s5/k2g12k11db12w1~x2/"><circle cx="150.3" cy="214.7" r="4" fill="#3465a4"><title>MacKirdy Family Tartan</title></circle></a><a href="/variants/s6/w1db9k9g9k2w1~x4/"><circle cx="133.8" cy="206.4" r="4" fill="#3465a4"><title>MacNeil 1</title></circle></a><a href="/variants/s6/k2g12k12r1db12w2~x2/"><circle cx="121.5" cy="180.7" r="4" fill="#3465a4"><title>Russell Clan Tartan</title></circle></a><a href="/variants/s6/k2g12k12r1db12w2/"><circle cx="121.5" cy="180.7" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><a href="/variants/s6/lb1db11k11g11k2lb1~x2/"><circle cx="151.0" cy="197.7" r="4" fill="#3465a4"><title>Unidentified No 59</title></circle></a><a href="/variants/s6/y3k1g20k20db18lb3~x2/"><circle cx="137.3" cy="163.1" r="4" fill="#3465a4"><title>Smith</title></circle></a><a href="/variants/s6/ly3k1g20k20db18lb3~x2/"><circle cx="132.4" cy="161.7" r="4" fill="#3465a4"><title>Smith, Sir William (?)</title></circle></a><a href="/variants/s6/k14w3g42k36db40lb10/"><circle cx="119.4" cy="189.3" r="4" fill="#3465a4"><title>New York Firemen's Pipe Band Corporate Tartan</title></circle></a><a href="/variants/s6/k2y1g6k6db6w1~x4/"><circle cx="98.6" cy="219.1" r="4" fill="#3465a4"><title>Dyce Family Tartan</title></circle></a><circle cx="147.1" cy="187.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

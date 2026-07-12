@@ -1,6 +1,11 @@
 ---
 title: "Palatine Union (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Palatine Union"
+  url: "/tartans/p/pa/palatine-union/"
 ---
 This is the **Palatine Union (Personal)** sett — one scale-free proportion (`db13k3db3k3db3k10lb10w4r4w4lb10k10db14k3db3k3db14k10lb8w3r3w3lb8k10db13k3db3k3db13k10lb10w4r4w4lb10k10db3k3db3k3`), colour order pattern
 [BKBKBKWWRWWKBKBKBKWWRWWKBKBKBKWWRWWKBKBK](/stripes/bkbkbkwwrwwkbkbkbkwwrwwkbkbkbkwwrwwkbkbk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/db12k2db2k2r3k2lb6k2w2k2lb6k2y2k2db6k2r2~x2/"><circle cx="14.0" cy="124.4" r="4" fill="#3465a4"><title>Kilburnie</title></circle></a><a href="/variants/s26/db12w11r2w11db12dg11k2dg3k2dg11k8db2r2db2w2db11w2db2r2db2k8dg11k2dg3k2dg11~x2/"><circle cx="50.1" cy="149.0" r="4" fill="#3465a4"><title>Scottish National Dress District Tartan</title></circle></a><a href="/variants/s36/db6k2db6y4k2r3y2r3w2r3k2y2db3w2db3y2k2r3w2r3k2y2db6k2db6k2db6y2k2r3w2r3w2r3k6w1~x2/"><circle cx="15.7" cy="158.0" r="4" fill="#3465a4"><title>Ogilvie (Paton)</title></circle></a><a href="/variants/s29/dr2k1db8k6lb8k2lb2k2lb8k6g8k1dr2k1g8k6lb2k2lb2k2lb6k2lb2k2lb2k6db8k1dr2~x2/"><circle cx="57.5" cy="135.3" r="4" fill="#3465a4"><title>MacKinlay Dress</title></circle></a><a href="/variants/s36/db5k1db5y2k1r3w1r3w1r3k1y1db3w1db3y1k1r3w1r3w1r3k1y1db5k1db5k1db5y1k1r3w1r3w1r3~x4/"><circle cx="73.6" cy="146.2" r="4" fill="#3465a4"><title>Ogilvy</title></circle></a><a href="/variants/s40/r2g12k4db11r2db11k4db2k9db2k9db2k4db11dy2db11k4g12r2g2r2g12k4db11dy2db11k4db2k9db2k9db2k4db11r2db11k4g12r2g2~x2/"><circle cx="104.8" cy="142.9" r="4" fill="#3465a4"><title>Allen Personal Tartan</title></circle></a><a href="/variants/s25/db10k2db2k2db10k10w3db4w15db2w4db2w15db4w3k10g11k3g11k9db10k2db2k2db10~x2/"><circle cx="70.4" cy="158.1" r="4" fill="#3465a4"><title>Black Watch Dress Tartan</title></circle></a><a href="/variants/s35/k7g9k2ly2k2db2k2g9k7db7r2db3r2db7k7w2db2w11db2w3db2w11db2w2k7w2db2w11db2w3db2w11db2w2k7~x4/"><circle cx="14.8" cy="120.5" r="4" fill="#3465a4"><title>Malcolm Dress (Lochcarron 2005)</title></circle></a><a href="/variants/s32/w8k1m2k1w2k8dp8lb2dp1k2r1lb2dp8k8w8k2m1k2w8k8dp8lb1dp2k1dp2lb1dp8k8w2k2m1k2~m2209000-r1807008/"><circle cx="54.6" cy="98.4" r="4" fill="#3465a4"><title>McLosek (Personal)</title></circle></a><a href="/variants/s31/lri8k1lr2k1lri2k8dp8lb2dp1k2lb2dp8k8lri8k2lr1k2lri8k8dp8lb1dp2k1dp2lb1lri8k8lri2k2lr1k2~x2~lri3203019-lr2805035/"><circle cx="87.5" cy="120.8" r="4" fill="#3465a4"><title>McLosek (Personal)</title></circle></a><circle cx="22.0" cy="154.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

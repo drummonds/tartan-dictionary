@@ -1,6 +1,15 @@
 ---
 title: "MacGiboney/MacGibboney"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacGibboney"
+  url: "/clan/macgibboney/"
+- name: "MacGibboney"
+  url: "/families/macgibboney/"
+- name: "MacGibboney"
+  url: "/tartans/m/ma/macgibboney/"
 ---
 This is the **MacGiboney/MacGibboney** sett — one scale-free proportion (`k2dg4w2dg19k2n10k1y2k1n10k2db19w2db4k2`), colour order pattern
 [KBWBKBKGKBKGWGK](/stripes/kbwbkbkgkbkgwgk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/k2dg4w2dg19k2n10k1y2k1n10k2b19w2b4k2~x2/"><circle cx="109.5" cy="97.6" r="4" fill="#3465a4"><title>MacGiboney / MacGibboney</title></circle></a><a href="/variants/s13/db36m2k3lb2k8lb2k3m2dg11g6dg4g4dg20~x2/"><circle cx="166.2" cy="103.7" r="4" fill="#3465a4"><title>Carson of Rusco (Personal)</title></circle></a><a href="/variants/s13/db4g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2~x2~db1204274-dbi1406275/"><circle cx="109.3" cy="115.7" r="4" fill="#3465a4"><title>Clack (Personal)</title></circle></a><a href="/variants/s17/k2g2b1g2b1g2b1g12db4k3db3k3db3k3db4dp24r2~x2/"><circle cx="147.6" cy="69.9" r="4" fill="#3465a4"><title>Rendell, Charles (Personal)</title></circle></a><a href="/variants/s12/dg19w2dg5k4db21k4w2dg5w1y1w1do14~x2/"><circle cx="164.4" cy="111.5" r="4" fill="#3465a4"><title>Womack (2014)</title></circle></a><a href="/variants/s17/k2g2k1g2k1g2k1g12db4k3db3k3db3k3db4dp24r2~x2/"><circle cx="145.7" cy="68.9" r="4" fill="#3465a4"><title>Rendell, Charles</title></circle></a><a href="/variants/s14/dg3g15dg2g2k10dy2db12k1g2k1db12k10dg18r3~x2~dg1806142-g2203152/"><circle cx="89.9" cy="124.2" r="4" fill="#3465a4"><title>Leinster</title></circle></a><a href="/variants/s12/dg19w2dg5k4db21k4w2dg5w1y1w1dr14~x2/"><circle cx="160.5" cy="108.6" r="4" fill="#3465a4"><title>Womack (2014)</title></circle></a><a href="/variants/s13/k2dp4o4dp3g20dp5k4dp3k7dp3k3db35w2~x2/"><circle cx="153.8" cy="96.0" r="4" fill="#3465a4"><title>Spirit of Bannockburn (Fashion)</title></circle></a><a href="/variants/s13/dr4dg20k16lo2k3lb3k2t18dr6k2dr4k1lb2~x4~dg1405139-t1903246/"><circle cx="106.0" cy="104.8" r="4" fill="#3465a4"><title>Tilley, Sir Samuel Leonard</title></circle></a><circle cx="118.6" cy="100.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

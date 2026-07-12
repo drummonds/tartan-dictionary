@@ -1,6 +1,15 @@
 ---
 title: "Reid of Straloch (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Reid"
+  url: "/clan/reid/"
+- name: "Reid of Straloch"
+  url: "/families/reid-of-straloch/"
+- name: "Reid of Straloch"
+  url: "/tartans/r/re/reid-of-straloch/"
 ---
 This is the **Reid of Straloch (Personal)** sett — one scale-free proportion (`r1g1r6db2r1g1w1g6r2db6w1db1r1g2r6g1r1`), colour order pattern
 [RGRBRGWGRBWBRGRGR](/stripes/rgrbrgwgrbwbrgrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/r3g3r18g6r4t3w3t18r6g18w3g3r4t6r18g3r3~x2/"><circle cx="228.1" cy="194.1" r="4" fill="#3465a4"><title>Reid of Straloch (Personal)</title></circle></a><a href="/variants/s15/lb2r3db3r5g14r3db2r5g2r3db14r5g3r3lb2~x2/"><circle cx="183.7" cy="189.3" r="4" fill="#3465a4"><title>Glen Orchy #1</title></circle></a><a href="/variants/s15/r5db5r3g16r3g3r3db10r3lb5r12db5r3db3r5~x2/"><circle cx="183.2" cy="209.3" r="4" fill="#3465a4"><title>Grant of Ballindalloch Clan Tartan</title></circle></a><a href="/variants/s13/r2g2r12db10w3g10r2g2r2g10r12g2r2/"><circle cx="212.9" cy="202.3" r="4" fill="#3465a4"><title>Matheson N</title></circle></a><a href="/variants/s13/r2g2r12db10lb3g10r2g2r2g10r12g2r2~x2/"><circle cx="220.8" cy="204.8" r="4" fill="#3465a4"><title>Matheson (Logan 1831)</title></circle></a><a href="/variants/s13/r2g2r12db10lb3g10r2g2r2g10r12g2r2/"><circle cx="220.8" cy="204.8" r="4" fill="#3465a4"><title>Matheson N</title></circle></a><a href="/variants/s15/r5db3r3g16r3g3r3db5r3y5r12db5r3db3r5~x4/"><circle cx="217.4" cy="208.9" r="4" fill="#3465a4"><title>Grant of Ballindalloch (Personal)</title></circle></a><a href="/variants/s12/r1w1r6db3r1g6r1g6r6db1r1w1~x2/"><circle cx="226.4" cy="203.1" r="4" fill="#3465a4"><title>MacQuarrie SM</title></circle></a><a href="/variants/s14/r5g16r5db4w2db4r22db4w2db4r5g16r5db2~x4/"><circle cx="225.7" cy="169.4" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/variants/s12/r1lb1r6db3r1g6r1g6r6db1r1lb1~x2/"><circle cx="237.1" cy="206.5" r="4" fill="#3465a4"><title>MacQuarrie</title></circle></a><circle cx="196.9" cy="180.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

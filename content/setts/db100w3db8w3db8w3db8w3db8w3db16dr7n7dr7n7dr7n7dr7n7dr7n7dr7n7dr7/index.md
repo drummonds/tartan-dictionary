@@ -1,6 +1,11 @@
 ---
 title: "Old Glory (1824)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Old Glory"
+  url: "/tartans/o/ol/old-glory/"
 ---
 This is the **Old Glory (1824)** sett — one scale-free proportion (`db100w3db8w3db8w3db8w3db8w3db16dr7n7dr7n7dr7n7dr7n7dr7n7dr7n7dr7`), colour order pattern
 [BBBBBBBBBBBBBBWBWBWBWBWB](/stripes/bbbbbbbbbbbbbbwbwbwbwbwb/). It is recorded as a single **variant**, below.

@@ -1,6 +1,11 @@
 ---
 title: "Carnegie of Skibo"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Carnegie"
+  url: "/clan/carnegie/"
 ---
 A family of [Clan Carnegie](/clan/carnegie/).
 

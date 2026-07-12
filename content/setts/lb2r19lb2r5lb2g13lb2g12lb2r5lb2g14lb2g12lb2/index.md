@@ -1,6 +1,15 @@
 ---
 title: "Fraser of Castle Leathers, Major James"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Fraser"
+  url: "/clan/fraser/"
+- name: "Fraser of Castle Leathers, Major James"
+  url: "/families/fraser-of-castle-leathers-major-james/"
+- name: "Fraser of Castle Leathers, Major James"
+  url: "/tartans/f/fr/fraser-of-castle-leathers-major-james/"
 ---
 This is the **Fraser of Castle Leathers, Major James** sett — one scale-free proportion (`lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2`), colour order pattern
 [WGWGWRWGWGWRWRW](/stripes/wgwgwrwgwgwrwrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/w2r18w2r5w2g13w2g13w2r5w2g13w2g13w2~x2/"><circle cx="293.5" cy="198.9" r="4" fill="#3465a4"><title>Frazer Major Portrait Tartan</title></circle></a><a href="/variants/s7/db6r3g1r3g12r3g1~x4~db1204274/"><circle cx="320.1" cy="194.9" r="4" fill="#3465a4"><title>Skene #2</title></circle></a><a href="/variants/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/"><circle cx="357.9" cy="173.7" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/variants/s12/dr3lg8dr2lg18dp5lg3o3lg3o16lg3o3lg3~x2/"><circle cx="286.6" cy="194.1" r="4" fill="#3465a4"><title>Dublin Irish County Tartan</title></circle></a><a href="/variants/s14/g19dy3g19r3g19dy3g19r3g3r21lb3r21g3r3~x2/"><circle cx="323.0" cy="204.0" r="4" fill="#3465a4"><title>Burnett of Powis (Modern) (Personal)</title></circle></a><a href="/variants/s12/r6g28r6dp2r6dp19r6dp2r6g28r6dp2~x2~dp1607327/"><circle cx="302.7" cy="183.1" r="4" fill="#3465a4"><title>Wilson's No.119</title></circle></a><a href="/variants/s14/g14dy4db4dy27g3dy4ly5dy4g3dy27db4dy4g14ly5~x2~g2408144-dy1603076-db1406275-ly3307090/"><circle cx="352.3" cy="203.7" r="4" fill="#3465a4"><title>Invertere (Daks #2)</title></circle></a><a href="/variants/s11/db1r2g12r10db12r2g12r10g12r2db1~x4/"><circle cx="270.0" cy="211.1" r="4" fill="#3465a4"><title>Glasgow (Error)</title></circle></a><a href="/variants/s11/r3g22r3g4r5g4r5g4r5g2w2~x2/"><circle cx="384.9" cy="192.9" r="4" fill="#3465a4"><title>Princess Marina Royal Tartan</title></circle></a><a href="/variants/s11/g22r4g22r22g2r3g2r3g2r3y2~x2/"><circle cx="393.4" cy="190.9" r="4" fill="#3465a4"><title>MacRea / MacRae</title></circle></a><circle cx="319.2" cy="204.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

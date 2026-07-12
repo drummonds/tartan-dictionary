@@ -1,6 +1,11 @@
 ---
 title: "Walsh, Michael Edward (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Walsh, Michael Edward"
+  url: "/tartans/w/wa/walsh-michael-edward/"
 ---
 This is the **Walsh, Michael Edward (Personal)** sett — one scale-free proportion (`n56w30n8r10n3r20`), colour order pattern
 [BWBRBR](/stripes/bwbrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dy5r5lb11r1dy1~x4/"><circle cx="278.5" cy="227.2" r="4" fill="#3465a4"><title>O'Connor Dress (Fashion?)</title></circle></a><a href="/variants/s5/db1r14g7db7r1~x4/"><circle cx="310.0" cy="219.5" r="4" fill="#3465a4"><title>Fraser of Boblainy, Hugh (Personal)</title></circle></a><a href="/variants/s5/dy5r5lb11r1dy1~x4~r2806019-lb3203246/"><circle cx="278.7" cy="232.8" r="4" fill="#3465a4"><title>O'Connor Dress</title></circle></a><a href="/variants/s6/r60db20r8g45r8db2~x2/"><circle cx="360.9" cy="177.8" r="4" fill="#3465a4"><title>Caledonian</title></circle></a><a href="/variants/s6/r2db12r2g12r24w1~x2/"><circle cx="321.6" cy="165.8" r="4" fill="#3465a4"><title>Fraser (1745)</title></circle></a><a href="/variants/s7/r6g16r4db12r16w1r2~x2/"><circle cx="271.0" cy="192.4" r="4" fill="#3465a4"><title>MacQuarrie LO</title></circle></a><a href="/variants/s6/r1db6r1g6r12w1/"><circle cx="286.4" cy="193.0" r="4" fill="#3465a4"><title>Fraser VS</title></circle></a><a href="/variants/s6/r1db6r1g6r12w1~x2/"><circle cx="286.4" cy="193.0" r="4" fill="#3465a4"><title>Fraser VS</title></circle></a><a href="/variants/s7/r6g16r4db12r16lb1r2~x2/"><circle cx="274.5" cy="193.5" r="4" fill="#3465a4"><title>MacQuarrie #6</title></circle></a><a href="/variants/s6/db2r25g10r2db10r2~x2/"><circle cx="351.5" cy="200.3" r="4" fill="#3465a4"><title>Grant of Lurg Artifact Tartan</title></circle></a><circle cx="328.4" cy="201.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

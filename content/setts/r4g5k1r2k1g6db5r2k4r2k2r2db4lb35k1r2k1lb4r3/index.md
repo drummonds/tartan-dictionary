@@ -1,6 +1,15 @@
 ---
 title: "Taggart"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Taggart"
+  url: "/clan/taggart/"
+- name: "Taggart"
+  url: "/families/taggart/"
+- name: "Taggart"
+  url: "/tartans/t/ta/taggart/"
 ---
 This is the **Taggart** sett — one scale-free proportion (`r4g5k1r2k1g6db5r2k4r2k2r2db4lb35k1r2k1lb4r3`), colour order pattern
 [RGKRKGBRKRKRBWKRKWR](/stripes/rgkrkgbrkrkrbwkrkwr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s19/r4dg5k1r2k1dg6db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/"><circle cx="203.4" cy="33.0" r="4" fill="#3465a4"><title>Taggart (Name)</title></circle></a><a href="/variants/s17/r4k6r2k7db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/"><circle cx="192.6" cy="27.2" r="4" fill="#3465a4"><title>Taggart Name Tartan</title></circle></a><a href="/variants/s20/r8g16k1r4k1g16lb14r2k14y2k4y2k1w8lb52k1r4k1lb16r8~x2/"><circle cx="192.0" cy="23.5" r="4" fill="#3465a4"><title>Anderson Old (Makinlay)</title></circle></a><a href="/variants/s23/w2db2w53db2w2k15g15k2w3k2g15k15db14k2r3k2db14k15w2db2w53db2w2~x2/"><circle cx="185.0" cy="46.3" r="4" fill="#3465a4"><title>MacKenzie Dress #3</title></circle></a><a href="/variants/s26/lb24t3lb3k6lo1k1lb1k1g8dr4k1dr2lb1dr2k1dr4g8k1lb1k1lo1k6lb3t3lb24dr2~x4/"><circle cx="185.2" cy="37.4" r="4" fill="#3465a4"><title>Stewart Victoria</title></circle></a><a href="/variants/s11/lb32k10lo1k2lb1k2r7y3k1y3lb1~x4/"><circle cx="257.4" cy="58.4" r="4" fill="#3465a4"><title>Glen Coe #3</title></circle></a><a href="/variants/s15/w20r4w4r7w132k26db26y6db6w9g83r30k5r7w4/"><circle cx="176.7" cy="43.5" r="4" fill="#3465a4"><title>Stewart dress</title></circle></a><a href="/variants/s26/r16g2w24g2r6k6r6g2w66ly2k12ly2w12ly2k4ly4k4ly4k7r2k7r6g20r6g20r12/"><circle cx="144.7" cy="38.4" r="4" fill="#3465a4"><title>Anderson</title></circle></a><a href="/variants/s11/k1w31k4g8r1g2db7r4k1r4w1~x2/"><circle cx="218.1" cy="68.3" r="4" fill="#3465a4"><title>Hohenzollern (Personal)</title></circle></a><a href="/variants/s18/db2r4o2w28db3w2db3k10r3db2r3g9db1k1db21r4db2o2~x2/"><circle cx="105.4" cy="50.1" r="4" fill="#3465a4"><title>Cooper, dress</title></circle></a><circle cx="204.8" cy="34.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

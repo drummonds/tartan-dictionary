@@ -1,6 +1,11 @@
 ---
 title: "Unidentified Printing #3"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified Printing"
+  url: "/tartans/u/un/unidentified-printing-2/"
 ---
 This is the **Unidentified Printing #3** sett — one scale-free proportion (`dg2ly1dg6dr4r6k1r2`), colour order pattern
 [GYGBRKR](/stripes/gygbrkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k6db3dg20r20y3~x2/"><circle cx="168.9" cy="211.0" r="4" fill="#3465a4"><title>Douglas of Roxburgh</title></circle></a><a href="/variants/s9/r8o33y33k33r8db8y33db8r8/"><circle cx="101.2" cy="216.4" r="4" fill="#3465a4"><title>Jardine, of Castlemilk</title></circle></a><a href="/variants/s5/r39db22k11y22g5~x2/"><circle cx="141.9" cy="220.6" r="4" fill="#3465a4"><title>Abbink, Ingmar (Personal)</title></circle></a><a href="/variants/s9/r8dy33y33k33r8db8y33db8r8/"><circle cx="100.1" cy="216.5" r="4" fill="#3465a4"><title>Jardine of Castlemilk</title></circle></a><a href="/variants/s5/o12k4w2n6r3~x2/"><circle cx="154.6" cy="220.8" r="4" fill="#3465a4"><title>Strathblane</title></circle></a><a href="/variants/s9/dr6k1y1k2db2dr4o8k1r2~x4/"><circle cx="138.3" cy="169.2" r="4" fill="#3465a4"><title>Bicentenary (Commemorative)</title></circle></a><a href="/variants/s5/y32k21r16lr6dt4~x2~r1706028/"><circle cx="139.3" cy="209.8" r="4" fill="#3465a4"><title>Scottish American Athletic Assoc</title></circle></a><a href="/variants/s5/y32k21r16lr6dt4~x2/"><circle cx="134.5" cy="206.8" r="4" fill="#3465a4"><title>Scottish American Athletic Assoc (Co</title></circle></a><a href="/variants/s7/dg3n12y2k10o10y3o2~x2/"><circle cx="93.0" cy="215.4" r="4" fill="#3465a4"><title>Rothesay</title></circle></a><a href="/variants/s8/k10o24dr3o3dr24dg3o6k6~x2/"><circle cx="204.7" cy="188.2" r="4" fill="#3465a4"><title>Earle's Flame</title></circle></a><circle cx="150.0" cy="216.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

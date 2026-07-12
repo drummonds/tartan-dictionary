@@ -1,6 +1,15 @@
 ---
 title: "Slanj Dress (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Slanj"
+  url: "/clan/slanj/"
+- name: "Slanj"
+  url: "/families/slanj/"
+- name: "Slanj Dress"
+  url: "/tartans/s/sl/slanj-dress-2/"
 ---
 This is the **Slanj Dress (Corporate)** sett — one scale-free proportion (`k4db36k4db4k34b3k3w4`), colour order pattern
 [KBKBKBKW](/stripes/kbkbkbkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k2db9k2db9k13w1k2~x4/"><circle cx="303.4" cy="194.4" r="4" fill="#3465a4"><title>Swan 2015, Brian E (Personal)</title></circle></a><a href="/variants/s6/k3w2k18b18k2b3~x4/"><circle cx="267.1" cy="196.4" r="4" fill="#3465a4"><title>Swan</title></circle></a><a href="/variants/s8/k30r3k3r3k6db32dg3db3~x2/"><circle cx="272.6" cy="160.3" r="4" fill="#3465a4"><title>Holmes (Clan?)</title></circle></a><a href="/variants/s8/db15k14lb1y2lb1k14db15k2~x4/"><circle cx="276.6" cy="177.4" r="4" fill="#3465a4"><title>South African Air Force (Military)</title></circle></a><a href="/variants/s8/n15k14t1y2t1k14n15k2~x4~n1802249-t2503227/"><circle cx="261.8" cy="173.3" r="4" fill="#3465a4"><title>South African Air Force</title></circle></a><a href="/variants/s10/db50k12n2k2w2k2n12db7k7w2~x2/"><circle cx="335.5" cy="106.0" r="4" fill="#3465a4"><title>Skye (Fashion)</title></circle></a><a href="/variants/s8/db30r2db2r4db9k26w2k4~x2/"><circle cx="288.8" cy="150.4" r="4" fill="#3465a4"><title>Murdoch Celebration (Personal)</title></circle></a><a href="/variants/s6/lb5k22db4k4db26k4~x2/"><circle cx="258.0" cy="224.1" r="4" fill="#3465a4"><title>Slanj, The</title></circle></a><a href="/variants/s8/k8r1k1r1k4db11y1db2~x6/"><circle cx="253.1" cy="168.3" r="4" fill="#3465a4"><title>Rutherford</title></circle></a><a href="/variants/s9/db23k2db2k2db2k28dr2k4t2~x2/"><circle cx="344.9" cy="145.9" r="4" fill="#3465a4"><title>Trotter (Personal)</title></circle></a><circle cx="276.1" cy="152.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

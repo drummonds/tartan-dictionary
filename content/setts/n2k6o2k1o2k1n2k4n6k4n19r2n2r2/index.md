@@ -1,6 +1,13 @@
 ---
 title: "Lochcarron Mill"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Lochcarron"
+  url: "/clan/lochcarron/"
+- name: "Lochcarron Mill"
+  url: "/tartans/l/lo/lochcarron-mill/"
 ---
 This is the **Lochcarron Mill** sett — one scale-free proportion (`n2k6o2k1o2k1n2k4n6k4n19r2n2r2`), colour order pattern
 [BKRKRKBKBKBRBR](/stripes/bkrkrkbkbkbrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dr12g6k6g2k1g1k6dr24w2~x2/"><circle cx="300.5" cy="103.1" r="4" fill="#3465a4"><title>Hunter of Bute (Personal)</title></circle></a><a href="/variants/s9/dr22g11k2g4k2g6k16dr42lb6~x2/"><circle cx="304.2" cy="136.3" r="4" fill="#3465a4"><title>Stewart of Bute Hunting</title></circle></a><a href="/variants/s11/g17lb2ly2lb2k21lb2k3g30k2lb2k4~x2~g1903114-ly2706114/"><circle cx="268.0" cy="125.2" r="4" fill="#3465a4"><title>Fort William</title></circle></a><a href="/variants/s9/k3r1k3w5k5w3k5dy23r3~x2/"><circle cx="211.8" cy="93.6" r="4" fill="#3465a4"><title>Southdown</title></circle></a><a href="/variants/s15/db18n16o11n20k7n7k11n7k7n35k52n71o7k7o12~n1900000-o2500000/"><circle cx="247.3" cy="147.4" r="4" fill="#3465a4"><title>CBS (Corporate)</title></circle></a><a href="/variants/s12/ly4k2dr7k15dr3k3dr3k7dr28g7dr6g2~x2/"><circle cx="277.2" cy="142.6" r="4" fill="#3465a4"><title>Walker, Evening (Name)</title></circle></a><a href="/variants/s12/dy3k19n2k2n2k2n18k3db3k3n23r3~x2/"><circle cx="254.2" cy="126.0" r="4" fill="#3465a4"><title>MacInnes Homecoming</title></circle></a><a href="/variants/s12/k2lr1dr2g6dr2db4dr2k2dr15g2dr2k1~x4/"><circle cx="273.3" cy="119.8" r="4" fill="#3465a4"><title>MacClure Clan/Family Tartan</title></circle></a><a href="/variants/s12/r3n23k3db3k3n18k2n2k2n2k19ly3~x2/"><circle cx="248.9" cy="125.6" r="4" fill="#3465a4"><title>MacInnes Homecoming (Clan)</title></circle></a><a href="/variants/s14/dg42k2dg12w2r3k2r3w2k2dp12k4r3w4k3~x2/"><circle cx="267.9" cy="75.2" r="4" fill="#3465a4"><title>MacFarlane Hunting (MacGregor Hastie)</title></circle></a><circle cx="285.2" cy="109.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

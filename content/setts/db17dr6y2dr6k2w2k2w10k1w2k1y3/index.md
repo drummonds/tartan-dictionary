@@ -1,6 +1,11 @@
 ---
 title: "Chieftain, The"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Chieftain, The"
+  url: "/tartans/c/ch/chieftain-the/"
 ---
 This is the **Chieftain, The** sett — one scale-free proportion (`db17dr6y2dr6k2w2k2w10k1w2k1y3`), colour order pattern
 [BBGBKWKWKWKG](/stripes/bbgbkwkwkwkg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db10r2db2r4db12r2k14w13r4w2r2w4r1y3~x2/"><circle cx="81.9" cy="125.3" r="4" fill="#3465a4"><title>Carnegie #2</title></circle></a><a href="/variants/s10/r1k1w2k2w2k1w4k1db9y1~x4/"><circle cx="115.0" cy="143.7" r="4" fill="#3465a4"><title>Thom(p)son</title></circle></a><a href="/variants/s10/db4k4db23k12g10k1w23dp2w2dp4~x2/"><circle cx="107.9" cy="117.7" r="4" fill="#3465a4"><title>Baird Dress</title></circle></a><a href="/variants/s11/lb3k1n12k1n1k2n1k6lr12k1lo1~x4~lb3103284-lr2800000/"><circle cx="136.7" cy="131.0" r="4" fill="#3465a4"><title>McCandlish Dress, Grey (Name)</title></circle></a><a href="/variants/s13/g6lb12dp3w1dp6lb4w1lb4dp6w1k27g5w2~x2/"><circle cx="131.1" cy="88.3" r="4" fill="#3465a4"><title>Willox</title></circle></a><a href="/variants/s12/w6dg2w27k10db4k4db4k4db15r2db2r4~x2/"><circle cx="132.2" cy="123.1" r="4" fill="#3465a4"><title>Sutherland Dress, Old (Dance)</title></circle></a><a href="/variants/s12/b6k1lb20r2g3r2k15r2g3r2k6y3~x2/"><circle cx="97.9" cy="90.1" r="4" fill="#3465a4"><title>Royal Scottish Pipe Band Association</title></circle></a><a href="/variants/s9/n12k2n2k2n2k12lp12lb3w1~x2/"><circle cx="119.1" cy="149.8" r="4" fill="#3465a4"><title>de Franck, Matt (Personal)</title></circle></a><a href="/variants/s13/dg8r1dg2r2dg12w1k12r1lb12r2lb2r1lb8~x4/"><circle cx="110.7" cy="133.2" r="4" fill="#3465a4"><title>Boston Pipe Band, Greater</title></circle></a><a href="/variants/s11/dr2db6lr2db2k9lb30k9db5lr4db2dr2~x2/"><circle cx="157.5" cy="113.4" r="4" fill="#3465a4"><title>Rangers Dress (Sports)</title></circle></a><circle cx="104.0" cy="116.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

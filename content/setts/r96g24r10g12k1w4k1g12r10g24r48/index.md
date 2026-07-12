@@ -1,6 +1,15 @@
 ---
 title: "MacGregor"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacGregor (Clan Gregor)"
+  url: "/clan/macgregor/"
+- name: "MacGregor"
+  url: "/families/macgregor/"
+- name: "MacGregor"
+  url: "/tartans/m/ma/macgregor/"
 ---
 This is the **MacGregor** sett — one scale-free proportion (`r96g24r10g12k1w4k1g12r10g24r48`), colour order pattern
 [RGRGKWKGRGR](/stripes/rgrgkwkgrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r4g4w3g4r4g14r28k1r3g4~x2/"><circle cx="350.3" cy="114.9" r="4" fill="#3465a4"><title>Scott - 1842 (Clan)</title></circle></a><a href="/variants/s10/r64db16r1db1r12g16r8db2r2k1~x2/"><circle cx="465.4" cy="66.7" r="4" fill="#3465a4"><title>Moffat District District Tartan</title></circle></a><a href="/variants/s10/g6w1g12r4db4r2k4r32g1r2~x2/"><circle cx="328.6" cy="77.6" r="4" fill="#3465a4"><title>Seton Family Tartan</title></circle></a><a href="/variants/s9/r24t14ly2t3k2t6r38ly1lr2~x2/"><circle cx="431.5" cy="93.2" r="4" fill="#3465a4"><title>Uddingston Rugby Club Centenary (Cor</title></circle></a><a href="/variants/s9/r96db1g24db1r10db1g12k1w4~x2/"><circle cx="475.8" cy="52.6" r="4" fill="#3465a4"><title>MacAulay (MacGregor)</title></circle></a><a href="/variants/s12/r8g4r30lb6r2k1r2g6r8k1r4ly2~x2/"><circle cx="436.5" cy="78.9" r="4" fill="#3465a4"><title>Highland Queen</title></circle></a><a href="/variants/s12/r8g4r30db6r2k1r2g6r8k1r4y2~x2/"><circle cx="435.4" cy="78.2" r="4" fill="#3465a4"><title>Highland Queen (Corporate)</title></circle></a><a href="/variants/s9/r50db3g6db1r3db1g8k1lb3~x2/"><circle cx="458.2" cy="49.9" r="4" fill="#3465a4"><title>MacAulay of Ardincaple (Clan)</title></circle></a><a href="/variants/s15/r24g4r2g2r2g2r12g24r1k1r24k1r1k1r6~x2/"><circle cx="430.2" cy="107.6" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/variants/s6/r57dg21r8dg8k1w3~x2/"><circle cx="440.7" cy="103.2" r="4" fill="#3465a4"><title>MacGregor - 1800 (Clan)</title></circle></a><circle cx="456.7" cy="85.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Dunbarton Trade Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Dunbarton"
+  url: "/clan/dunbarton/"
+- name: "Dunbarton"
+  url: "/families/dunbarton/"
+- name: "Dunbarton"
+  url: "/tartans/d/du/dunbarton-2/"
 ---
 This is the **Dunbarton Trade Tartan** sett — one scale-free proportion (`y30r2y2k5y3dy2y3dy22y3k2y3`), colour order pattern
 [GKGGGGGKGRG](/stripes/gkgggggkgrg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y28k2y28k2y2k2dy29k2r2k2~x2/"><circle cx="340.6" cy="140.6" r="4" fill="#3465a4"><title>Ulster (Peat) (District</title></circle></a><a href="/variants/s10/o28k2o28k2o2k2do29k2r2k2~x2/"><circle cx="345.3" cy="136.8" r="4" fill="#3465a4"><title>Ulster</title></circle></a><a href="/variants/s8/y4r4k2r10g30y2g3r2~x2/"><circle cx="346.4" cy="152.5" r="4" fill="#3465a4"><title>Beard</title></circle></a><a href="/variants/s12/k1dr14g1dr1g6lbi2g6dr1g1dr14k1lb1~x4~lbi3200000-lb3103284/"><circle cx="325.7" cy="122.8" r="4" fill="#3465a4"><title>MacMaster Clan/Family Tartan</title></circle></a><a href="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4/"><circle cx="351.3" cy="158.0" r="4" fill="#3465a4"><title>Seton Htg (Clan)</title></circle></a><a href="/variants/s12/g13k1g13r1g1k1g1k1r13k1y1k1~x3/"><circle cx="299.6" cy="125.6" r="4" fill="#3465a4"><title>Ulster Red Irish District Tartan</title></circle></a><a href="/variants/s11/k3y3lo2y30k2y3m12y6mi6k3y3~x2~y2103114-lo2706066-m1907352-mi2506332/"><circle cx="326.0" cy="122.2" r="4" fill="#3465a4"><title>McAlifyfe (Personal)</title></circle></a><a href="/variants/s9/k2g7k1g9dy21n2dy1n1dy2~x2/"><circle cx="335.9" cy="144.2" r="4" fill="#3465a4"><title>Historic Scotland Corporate Tartan</title></circle></a><a href="/variants/s10/o15n1o2b2o2n1o3k8n10o3~x4/"><circle cx="278.4" cy="152.8" r="4" fill="#3465a4"><title>Annan</title></circle></a><a href="/variants/s8/k3dr48g6dr6g12y3g2k3~x2/"><circle cx="407.8" cy="116.3" r="4" fill="#3465a4"><title>Oakhall (Corporate)</title></circle></a><circle cx="345.0" cy="135.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

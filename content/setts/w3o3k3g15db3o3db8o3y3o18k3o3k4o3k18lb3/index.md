@@ -1,6 +1,15 @@
 ---
 title: "Innes, hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Innes,"
+  url: "/clan/innes/"
+- name: "Innes"
+  url: "/families/innes/"
+- name: "Innes, hunting"
+  url: "/tartans/i/in/innes-hunting-3/"
 ---
 This is the **Innes, hunting** sett — one scale-free proportion (`w3o3k3g15db3o3db8o3y3o18k3o3k4o3k18lb3`), colour order pattern
 [WKRKRKRGRBRBGKRW](/stripes/wkrkrkrgrbrbgkrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/w3dy3k3g15db3dy3db8dy3lo3dy18k3dy3k3dy3k18lb3~x2/"><circle cx="53.6" cy="128.8" r="4" fill="#3465a4"><title>Innes of Learney Htg (Personal)</title></circle></a><a href="/variants/s16/w3dy3k3g15db3dy3db8dy3y3dy18k3dy3k4dy3k18lb3~x2/"><circle cx="56.2" cy="131.7" r="4" fill="#3465a4"><title>Innes Hunting Clan Tartan</title></circle></a><a href="/variants/s12/dy3g2w2r2dy12k12g12r2g2t2g2y2~x2~w4000000-t2503227/"><circle cx="42.9" cy="117.7" r="4" fill="#3465a4"><title>Arizona American District Tartan</title></circle></a><a href="/variants/s12/y4g20r3db11lb3r11g11r3k20r3k3lb3~x2/"><circle cx="49.6" cy="154.8" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/variants/s21/r4g4r1k7r1k1lb1r1k7r1g4r4lb1db4r1g7y1g7r1db4lb1~x4/"><circle cx="49.5" cy="133.0" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/variants/s21/db6y1db1g1db1g1db1g5k1g1k1g1k1g1k1g6r5db2r2dbi1r5~x4~db0805267-dbi1604274/"><circle cx="74.4" cy="135.9" r="4" fill="#3465a4"><title>Recovery</title></circle></a><a href="/variants/s16/lb7k24r4k4r4k4r24y4r6db12r6k4g20k4r6w4/"><circle cx="43.7" cy="123.1" r="4" fill="#3465a4"><title>Innes (Seven colours) (Clan)</title></circle></a><a href="/variants/s16/lb7k24r4k4r4k4r24y4r6db12r6k4g20k4r6w4~x2/"><circle cx="43.7" cy="123.1" r="4" fill="#3465a4"><title>Innes</title></circle></a><a href="/variants/s16/lb3k12r2k2r2k2r12y2r3db6r3k2g10k2r3w2~x2/"><circle cx="46.3" cy="122.3" r="4" fill="#3465a4"><title>Innes D</title></circle></a><a href="/variants/s16/lb3k12r2k2r2k2r12y2r3db6r3k2g10k2r3w2/"><circle cx="46.3" cy="122.3" r="4" fill="#3465a4"><title>Innes D</title></circle></a><circle cx="41.2" cy="123.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

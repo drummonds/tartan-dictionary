@@ -1,6 +1,11 @@
 ---
 title: "MacIver of Strathendry"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacIver"
+  url: "/clan/maciver/"
 ---
 A family of [Clan MacIver](/clan/maciver/).
 

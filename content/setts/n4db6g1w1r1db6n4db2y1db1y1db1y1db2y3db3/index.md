@@ -1,6 +1,11 @@
 ---
 title: "de Baseggio (Golden Bones)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "de Baseggio"
+  url: "/tartans/d/de/de-baseggio-2/"
 ---
 This is the **de Baseggio (Golden Bones)** sett — one scale-free proportion (`n4db6g1w1r1db6n4db2y1db1y1db1y1db2y3db3`), colour order pattern
 [BBGWRBBBGBGBGBGB](/stripes/bbgwrbbbgbgbgbgb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/t4db6g1w1r1db6t4db2ly1db1ly1db1ly1db2ly3db3~x4/"><circle cx="198.8" cy="177.3" r="4" fill="#3465a4"><title>De Baseggio (Personal)</title></circle></a><a href="/variants/s16/g10db10r1db10n1db1n10db2n10db1n1db10r1db10g10w2~x2/"><circle cx="246.3" cy="182.5" r="4" fill="#3465a4"><title>American Soc of Travel Agents Corporate Tartan</title></circle></a><a href="/variants/s11/r1dy8ly2dy2db6w1db6dy2ly2dy8b1~x4/"><circle cx="223.1" cy="179.4" r="4" fill="#3465a4"><title>MacKessog Glebe (Commemorative)</title></circle></a><a href="/variants/s8/dbi4dg2w2dg4db10r2db12y3~x2~dbi1406275-db1204274/"><circle cx="260.9" cy="212.5" r="4" fill="#3465a4"><title>United Services Planning Assoc Corporate Tartan</title></circle></a><a href="/variants/s12/y7db5y25db26lb4db4r3db4g4db26y25db5~x2/"><circle cx="278.1" cy="183.7" r="4" fill="#3465a4"><title>O Savanao (District)</title></circle></a><a href="/variants/s8/dbi4dg2w2dg4db10r2db12y3~x2~dbi1604274-db0805267/"><circle cx="231.2" cy="203.4" r="4" fill="#3465a4"><title>United Services, Planning Association</title></circle></a><a href="/variants/s16/r3ly3db18dy15t16w3t16dy15t18ly3r3ly3t18dy15t16w3~x2~ly3307090-dy1603076/"><circle cx="205.7" cy="204.7" r="4" fill="#3465a4"><title>Hirter Karo (Corporate)</title></circle></a><a href="/variants/s9/db32r4db4dy4db9n9db4n16w7~x2/"><circle cx="275.6" cy="193.1" r="4" fill="#3465a4"><title>Nevada State American District Tartan</title></circle></a><a href="/variants/s12/y7db5y25db26lb4db4r3db4g4db26y25db5~x2~db1106275/"><circle cx="266.3" cy="177.6" r="4" fill="#3465a4"><title>O Savaaoo</title></circle></a><a href="/variants/s8/dg10w2dt3g2o14db26dg2db6~x2/"><circle cx="248.5" cy="135.3" r="4" fill="#3465a4"><title>Spirit of Fife</title></circle></a><circle cx="230.0" cy="184.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

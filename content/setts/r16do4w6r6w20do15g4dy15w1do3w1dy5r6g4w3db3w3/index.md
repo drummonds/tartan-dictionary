@@ -1,6 +1,15 @@
 ---
 title: "Jacobite Dress General Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Jacobite"
+  url: "/clan/jacobite/"
+- name: "Jacobite"
+  url: "/families/jacobite/"
+- name: "Jacobite Dress"
+  url: "/tartans/j/ja/jacobite-dress/"
 ---
 This is the **Jacobite Dress General Tartan** sett — one scale-free proportion (`r16do4w6r6w20do15g4dy15w1do3w1dy5r6g4w3db3w3`), colour order pattern
 [RBWRWBGGWBWGRGWBW](/stripes/rbwrwbggwbwgrgwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/r16do4w6r6w20do15g4o15w1do3w1o5r6g4w3db3w3~x2/"><circle cx="100.0" cy="112.1" r="4" fill="#3465a4"><title>Jacobite, dress</title></circle></a><a href="/variants/s9/r26lb7dp8y3r3w3g20dp10w2~x2/"><circle cx="107.9" cy="139.5" r="4" fill="#3465a4"><title>Wilson's No.227</title></circle></a><a href="/variants/s12/r14lb4dt6y1dt2w2dt2lg12r6dt2r2w1~x4~lg3003114/"><circle cx="124.2" cy="120.0" r="4" fill="#3465a4"><title>Stuart/Stewart - Prince Charles Edward</title></circle></a><a href="/variants/s14/lo2r15lo3dr2lo3k14lo2lb6w2lb6lo2r7lb10w1~x2/"><circle cx="77.8" cy="117.2" r="4" fill="#3465a4"><title>Dalrymple of Castleton</title></circle></a><a href="/variants/s13/w4r1w5dbi1w3db5y1db2w1db2n8r16dbi2~x4~dbi1406275-db1004274/"><circle cx="134.7" cy="117.7" r="4" fill="#3465a4"><title>Warden</title></circle></a><a href="/variants/s26/dg1r6g5r6dg1r1dg9dy3g3y3dg9r1dg1r6g5r6dg1r1w1r1w12g1w12r1w1r1~x4/"><circle cx="84.6" cy="109.7" r="4" fill="#3465a4"><title>Maple Leaf Dress District Tartan</title></circle></a><a href="/variants/s26/dg1r6g5r6dg1r1dg9o3dg3gi3dg9r1dg1r6g5r6dg1r1w1r1w12g1w12r1w1r1~x4~dg1104144-gi2104115/"><circle cx="84.1" cy="108.5" r="4" fill="#3465a4"><title>Maple Leaf, dress</title></circle></a><a href="/variants/s22/r14lb4r14g32dp18w4dp4ly4dp18lb16r64lb16dp18ly4dp4w4dp18g32r14lb4r14w3~r2109032-w4000000-ly3307090/"><circle cx="160.6" cy="96.6" r="4" fill="#3465a4"><title>Wilson's No.004</title></circle></a><a href="/variants/s13/dg1r16w1db2w2ly4w2ly4w2db2w1dg16lb1~x4/"><circle cx="132.1" cy="104.6" r="4" fill="#3465a4"><title>Gibbs/Gibson (Name)</title></circle></a><a href="/variants/s14/r2o3do9oi2do5oi4w1o1w1o1w12k2w2o2~x2~o2102055-oi2104058/"><circle cx="97.4" cy="122.3" r="4" fill="#3465a4"><title>Harrods</title></circle></a><circle cx="95.5" cy="113.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

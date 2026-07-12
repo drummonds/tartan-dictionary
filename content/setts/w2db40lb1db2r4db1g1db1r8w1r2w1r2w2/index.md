@@ -1,6 +1,11 @@
 ---
 title: "St. Andrew's Soc. of Singapore (Corp"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "St. Andrew's Soc. of Singapore (Corp"
+  url: "/tartans/s/st/st-andrew-s-soc-of-singapore-corp/"
 ---
 This is the **St. Andrew's Soc. of Singapore (Corp** sett — one scale-free proportion (`w2db40lb1db2r4db1g1db1r8w1r2w1r2w2`), colour order pattern
 [WBWBRBGBRWRWRW](/stripes/wbwbrbgbrwrwrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/ri2w1db36ri1db2r3w1r3w1r3w1r10ly2~x2~ri2109032-r1707008/"><circle cx="366.0" cy="62.9" r="4" fill="#3465a4"><title>ESPRAS (Corporate)</title></circle></a><a href="/variants/s10/db58w2db1w1db6g3r3g6r24y3~x2~g2408144/"><circle cx="379.8" cy="66.3" r="4" fill="#3465a4"><title>Chinese Scottish District Tartan</title></circle></a><a href="/variants/s10/db58w2db1w1db6g3r3g6r24y3~x2/"><circle cx="383.1" cy="67.2" r="4" fill="#3465a4"><title>Chinese Scottish (Corporate)</title></circle></a><a href="/variants/s12/w4db8w4lb8w2lb2w4db42r1y2r1db2~x2/"><circle cx="366.1" cy="59.0" r="4" fill="#3465a4"><title>StammBar</title></circle></a><a href="/variants/s14/y8lb8r8db2r3db2r3db3r2db3r2db52lb2w8/"><circle cx="319.9" cy="73.7" r="4" fill="#3465a4"><title>Kiltwalk</title></circle></a><a href="/variants/s15/w3db4w1db2g1db3r10db2r2db3g1db3r2db32r1~x2/"><circle cx="437.4" cy="78.1" r="4" fill="#3465a4"><title>International School of Aberdeen</title></circle></a><a href="/variants/s10/db42w5db1w1y9db1dg2w1db1r1~x4/"><circle cx="436.2" cy="63.5" r="4" fill="#3465a4"><title>Stratford (Ontario), City of</title></circle></a><a href="/variants/s11/r3w2db2lo1db39lo1db1ly2db1y15db1~x2/"><circle cx="387.2" cy="55.6" r="4" fill="#3465a4"><title>Bartlett from El Paso, Texas</title></circle></a><a href="/variants/s11/r3w2db2ly1db39ly1db1g2db1lyi15db1~x2~ly2705081-lyi3104101/"><circle cx="368.9" cy="51.9" r="4" fill="#3465a4"><title>Bartlett of El Paso (Name)</title></circle></a><a href="/variants/s9/db58y2r1lb4y2r2lb7r8y6~x2/"><circle cx="424.7" cy="81.7" r="4" fill="#3465a4"><title>Hybelius, J-A (Personal)</title></circle></a><circle cx="396.1" cy="42.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

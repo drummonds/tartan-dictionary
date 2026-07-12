@@ -1,6 +1,13 @@
 ---
 title: "Crieff High (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Crieff"
+  url: "/clan/crieff/"
+- name: "Crieff High"
+  url: "/tartans/c/cr/crieff-high/"
 ---
 This is the **Crieff High (Corporate)** sett — one scale-free proportion (`r5k1db2k1r3k1db35w1db2r3db3r2db3ly1db1r5`), colour order pattern
 [RBYBRBRBWBKRKBKR](/stripes/rbybrbrbwbkrkbkr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db1k6db2k8db2k2db52r2db2y8db2y6db2y2r1~x2/"><circle cx="395.1" cy="34.2" r="4" fill="#3465a4"><title>(3) Laing</title></circle></a><a href="/variants/s11/db74r6k12y3k3w3r16db8k3r4w3~x2/"><circle cx="319.5" cy="68.4" r="4" fill="#3465a4"><title>Suffolk County Police (Corporate)</title></circle></a><a href="/variants/s15/db25r3db3r2db4r2db3r3db18k16r1db16r3db8y2~x2/"><circle cx="400.2" cy="111.6" r="4" fill="#3465a4"><title>Dundonald</title></circle></a><a href="/variants/s13/k2n4db27ly3db12n2k2r7k2n1db1k2db2~x2/"><circle cx="331.0" cy="77.9" r="4" fill="#3465a4"><title>Brough from Orkney (Name)</title></circle></a><a href="/variants/s13/db50r2k3y2k3r2k3y2k3r2db3r12k2~x2/"><circle cx="347.2" cy="68.9" r="4" fill="#3465a4"><title>Leslie (J Cant)</title></circle></a><a href="/variants/s21/b124k4dr5k4dr20k4dr5k4dg12k4b22k4dg12k4dr5k4dr20k4dr5k4b124~x2/"><circle cx="408.6" cy="50.8" r="4" fill="#3465a4"><title>Wcwm 9275-1563</title></circle></a><a href="/variants/s17/db80k12y3k3w3db24k3db4w3db4k3db24w3k3y3k12db6~x2~db1406275/"><circle cx="433.4" cy="66.2" r="4" fill="#3465a4"><title>Suffolk County Police</title></circle></a><a href="/variants/s10/db108w6k10w3k3w3k3g12r12w4/"><circle cx="360.7" cy="50.2" r="4" fill="#3465a4"><title>Racing Stewart Corporate Tartan</title></circle></a><a href="/variants/s12/y4db55n4k4db2y2db2w5db3r2n2k2~x2/"><circle cx="396.8" cy="42.3" r="4" fill="#3465a4"><title>London '88</title></circle></a><a href="/variants/s14/db40lb2k4r3n6db2r16db2n6r3k4lb2db40lb6~x2/"><circle cx="315.4" cy="87.6" r="4" fill="#3465a4"><title>St. Leonards</title></circle></a><circle cx="390.0" cy="32.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

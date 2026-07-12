@@ -1,6 +1,11 @@
 ---
 title: "Russian Scottish (District)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Russian Scottish"
+  url: "/tartans/r/ru/russian-scottish/"
 ---
 This is the **Russian Scottish (District)** sett — one scale-free proportion (`w2db2w1db40r3ly1r10dg10r1`), colour order pattern
 [RGRYRBWBW](/stripes/rgryrbwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w3db2w2db40r3y1r10g10r1~x2/"><circle cx="340.4" cy="83.6" r="4" fill="#3465a4"><title>Russian Scottish</title></circle></a><a href="/variants/s8/t16r4t4dy2db56r18lb1db7~x2~t2405244-lb3200000/"><circle cx="383.1" cy="102.7" r="4" fill="#3465a4"><title>Union Memorial Tartan</title></circle></a><a href="/variants/s10/db58w2db1w1db6g3r3g6r24y3~x2/"><circle cx="383.1" cy="67.2" r="4" fill="#3465a4"><title>Chinese Scottish (Corporate)</title></circle></a><a href="/variants/s10/db58w2db1w1db6g3r3g6r24y3~x2~g2408144/"><circle cx="379.8" cy="66.3" r="4" fill="#3465a4"><title>Chinese Scottish District Tartan</title></circle></a><a href="/variants/s8/ly16r4ly4dy2db56r18dbi1db7~x2~ly3307090-dbi1106275/"><circle cx="345.7" cy="89.6" r="4" fill="#3465a4"><title>Union Memorial Tartan (Military)</title></circle></a><a href="/variants/s13/ri2w1db36ri1db2r3w1r3w1r3w1r10ly2~x2~ri2109032-r1707008/"><circle cx="366.0" cy="62.9" r="4" fill="#3465a4"><title>ESPRAS (Corporate)</title></circle></a><a href="/variants/s8/r2w1r5g5lo1g10db40y2~x2/"><circle cx="360.7" cy="82.1" r="4" fill="#3465a4"><title>St. Andrew Quebec City (Corporate)</title></circle></a><a href="/variants/s7/db60w2r10dg6w4r15y10~x2/"><circle cx="325.0" cy="118.9" r="4" fill="#3465a4"><title>Iberia Dress, Blue (Fashion)</title></circle></a><a href="/variants/s9/db58y2r1lb4y2r2lb7r8y6~x2/"><circle cx="424.7" cy="81.7" r="4" fill="#3465a4"><title>Hybelius, J-A (Personal)</title></circle></a><a href="/variants/s11/r3w2db2lo1db39lo1db1ly2db1y15db1~x2/"><circle cx="387.2" cy="55.6" r="4" fill="#3465a4"><title>Bartlett from El Paso, Texas</title></circle></a><circle cx="370.3" cy="84.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

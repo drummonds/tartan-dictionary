@@ -1,6 +1,13 @@
 ---
 title: "Edinburgh Zoo Panda, The"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Edinburgh"
+  url: "/clan/edinburgh/"
+- name: "Edinburgh Zoo Panda, The"
+  url: "/tartans/e/ed/edinburgh-zoo-panda-the/"
 ---
 This is the **Edinburgh Zoo Panda, The** sett — one scale-free proportion (`g4w28lb3w3k16lb4n10do4k14r2k2r3`), colour order pattern
 [GWWWKWBBKRKR](/stripes/gwwwkwbbkrkr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g4w28lb3w3k16lb4o10n4k14r2k2r3~o2500000-n1900000/"><circle cx="62.2" cy="92.8" r="4" fill="#3465a4"><title>Edinburgh Zoo Panda (Comm)</title></circle></a><a href="/variants/s13/lb2db18ly4k5ly1k1w1k2g8r6k1r3w1~x4/"><circle cx="76.2" cy="75.8" r="4" fill="#3465a4"><title>Bethune (Personal)</title></circle></a><a href="/variants/s12/b6k1lb20r2g3r2k15r2g3r2k6y3~x2/"><circle cx="97.9" cy="90.1" r="4" fill="#3465a4"><title>Royal Scottish Pipe Band Association</title></circle></a><a href="/variants/s16/w2k15n7lb7k1r1k1lr7k1w7k7n7lb7w1k1r1~x2/"><circle cx="65.8" cy="101.6" r="4" fill="#3465a4"><title>Borders (Personal)</title></circle></a><a href="/variants/s11/w4lb1y2lb13ri1k13dy1k1g1k1r2~x4~ri2406019-r2109032/"><circle cx="83.1" cy="69.6" r="4" fill="#3465a4"><title>Kungsholmen Snooker Corporate Sports Tartan</title></circle></a><a href="/variants/s10/r24g22k2w6k2y2k15lb6b6w2~x2/"><circle cx="39.6" cy="116.0" r="4" fill="#3465a4"><title>Bruce of Kinnaird</title></circle></a><a href="/variants/s11/w4db5r3db22ly4k3g17r7k2r7ly2~x2/"><circle cx="92.9" cy="132.0" r="4" fill="#3465a4"><title>Crozier/Crosser</title></circle></a><a href="/variants/s12/lb6k1t20r2g3r2k15r2g3r2k6ly3~x2~lb3200000-t2503227/"><circle cx="100.8" cy="92.4" r="4" fill="#3465a4"><title>Royal Scottish P.B. Assoc. (Corp.)</title></circle></a><a href="/variants/s13/w6db18k1g8w2k8w2ly8k1r8dy2k1dy4~x2/"><circle cx="16.0" cy="94.3" r="4" fill="#3465a4"><title>Mozambique</title></circle></a><a href="/variants/s13/r3w34k2n4k2y7k2y7k2n4k2dy34lb3~x2/"><circle cx="87.3" cy="64.9" r="4" fill="#3465a4"><title>Buchanan Dress Clan Tartan</title></circle></a><circle cx="62.2" cy="92.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

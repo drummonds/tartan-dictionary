@@ -1,6 +1,15 @@
 ---
 title: "IAPD (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan IAPD"
+  url: "/clan/iapd/"
+- name: "IAPD"
+  url: "/families/iapd/"
+- name: "IAPD"
+  url: "/tartans/i/ia/iapd/"
 ---
 This is the **IAPD (Corporate)** sett — one scale-free proportion (`k8w7k2w3k2w3k2w3k2w7g18o27w3`), colour order pattern
 [KWKWKWKWKWGRW](/stripes/kwkwkwkwkwgrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k8w7k2w3k2w3k2w3k2w7g18dp27w3~x2/"><circle cx="125.4" cy="135.8" r="4" fill="#3465a4"><title>IAPD</title></circle></a><a href="/variants/s15/ly4n12k12n4lb18n1ly1n1lb2n1ly2n1lb4n1ly4~x4/"><circle cx="159.3" cy="119.4" r="4" fill="#3465a4"><title>Ettrick (Fashion)</title></circle></a><a href="/variants/s12/k5lo4g25k14lo5k5w5k2w3g3k2lo5~x2/"><circle cx="134.7" cy="145.6" r="4" fill="#3465a4"><title>Heritage of Ireland (Fashion)</title></circle></a><a href="/variants/s13/w18dr3w3dr10w26dr3k26g28dr10g3dr3g8lo6/"><circle cx="68.4" cy="151.5" r="4" fill="#3465a4"><title>Carnegie Dress #2 (Fashion)</title></circle></a><a href="/variants/s12/db3o14g2o2g2o3g6w18db3o2db2o2~x2/"><circle cx="183.1" cy="171.6" r="4" fill="#3465a4"><title>Raibert, Check</title></circle></a><a href="/variants/s11/k7lb38g7k2g7k2g7ly21k3g4k3~x2/"><circle cx="158.5" cy="122.5" r="4" fill="#3465a4"><title>Chakraa (Fashion)</title></circle></a><a href="/variants/s9/k10w10k10ly32k2w2k2w2dr5~x2/"><circle cx="186.2" cy="137.0" r="4" fill="#3465a4"><title>Burberry (Counterfeit #4)</title></circle></a><a href="/variants/s11/lb3k1g12k1g1k2g1k6w12k1lo1~x4/"><circle cx="109.6" cy="127.7" r="4" fill="#3465a4"><title>McCandlish Arisaid, Green (Name)</title></circle></a><a href="/variants/s13/r4g20k16y2k3w3k2w18r6k2r4k1w2~x2/"><circle cx="89.8" cy="103.0" r="4" fill="#3465a4"><title>Palmer, Edward</title></circle></a><a href="/variants/s9/r3g2k1g20k9lb20k1lb2r3~x2/"><circle cx="174.5" cy="134.0" r="4" fill="#3465a4"><title>Ayrton</title></circle></a><circle cx="128.3" cy="138.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

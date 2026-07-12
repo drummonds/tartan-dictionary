@@ -1,6 +1,15 @@
 ---
 title: "McPeek (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan McPeek"
+  url: "/clan/mcpeek/"
+- name: "McPeek"
+  url: "/families/mcpeek/"
+- name: "McPeek"
+  url: "/tartans/m/mc/mcpeek/"
 ---
 This is the **McPeek (Fashion)** sett — one scale-free proportion (`r125k26lb20lo16`), colour order pattern
 [RKWY](/stripes/rkwy/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dg4lb4k2r15ly4~x4/"><circle cx="206.8" cy="191.1" r="4" fill="#3465a4"><title>Benedict (Personal)</title></circle></a><a href="/variants/s3/w9r20db2~x2/"><circle cx="383.0" cy="248.4" r="4" fill="#3465a4"><title>Masai Shuka 28 (Artefact)</title></circle></a><a href="/variants/s3/r63k16y5~x2/"><circle cx="425.4" cy="153.4" r="4" fill="#3465a4"><title>McPeek (Fictitious clan)</title></circle></a><a href="/variants/s4/y6k3r40w3~x2/"><circle cx="479.3" cy="161.6" r="4" fill="#3465a4"><title>Masai Shuka 18 (Artefact)</title></circle></a><a href="/variants/s3/r30k10y3~x4/"><circle cx="387.2" cy="215.6" r="4" fill="#3465a4"><title>Masai Shuka 20 (Artefact)</title></circle></a><a href="/variants/s4/y1k8r13g1~x6/"><circle cx="290.2" cy="176.6" r="4" fill="#3465a4"><title>Billy Apple® Red</title></circle></a><a href="/variants/s4/r80lb40k5lo6/"><circle cx="372.9" cy="183.4" r="4" fill="#3465a4"><title>Broberg (Scania) (Personal)</title></circle></a><a href="/variants/s4/dr80lb40k5dy6/"><circle cx="334.7" cy="176.3" r="4" fill="#3465a4"><title>Broberg (Scania) (Personal)</title></circle></a><a href="/variants/s5/r30g12k5w8r30/"><circle cx="339.7" cy="225.1" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s5/r12w1r2dg1b3~x4/"><circle cx="476.4" cy="184.3" r="4" fill="#3465a4"><title>Glenshee</title></circle></a><circle cx="341.8" cy="189.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

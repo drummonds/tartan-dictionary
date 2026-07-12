@@ -1,6 +1,11 @@
 ---
 title: "Lermontov Bicentenary"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Lermontov Bicentenary"
+  url: "/tartans/l/le/lermontov-bicentenary/"
 ---
 This is the **Lermontov Bicentenary** sett — one scale-free proportion (`dy5dr6k5dr6dy36db3dy2k1`), colour order pattern
 [GBKBGBGK](/stripes/gbkbgbgk/). It is recorded as a single **variant**, below.

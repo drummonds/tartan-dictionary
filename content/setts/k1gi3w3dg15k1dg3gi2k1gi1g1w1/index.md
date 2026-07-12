@@ -1,6 +1,11 @@
 ---
 title: "University of North Texas"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "University of North Texas"
+  url: "/tartans/u/un/university-of-north-texas/"
 ---
 This is the **University of North Texas** sett — one scale-free proportion (`k1gi3w3dg15k1dg3gi2k1gi1g1w1`), colour order pattern
 [KGWGKGGKGGW](/stripes/kgwgkggkggw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k1gi3w3g15k1g3gi2k1gi1lg1w1~x2~gi2408144-g2007139/"><circle cx="257.9" cy="118.5" r="4" fill="#3465a4"><title>University of North Texas</title></circle></a><a href="/variants/s9/k2t8k6g35k8ly2w2k2ly2~x2/"><circle cx="232.6" cy="110.9" r="4" fill="#3465a4"><title>160th SOAR(A) Night Stalkers (Mil.)</title></circle></a><a href="/variants/s7/g13k1r1k1t2k1ly4~x8/"><circle cx="256.3" cy="140.3" r="4" fill="#3465a4"><title>Alberta (Province)</title></circle></a><a href="/variants/s12/g30ly4k6lo2k2g4k2db5y4k2y3g2~x2/"><circle cx="220.7" cy="94.1" r="4" fill="#3465a4"><title>Bottle Green (Fashion)</title></circle></a><a href="/variants/s7/g12k1r1k1t2k1ly4~x8~r2806019-ly3106095/"><circle cx="241.0" cy="147.1" r="4" fill="#3465a4"><title>Alberta (District)</title></circle></a><a href="/variants/s10/db6dg24k1w2k1dg24g24w3k1w3~x2~dg1806142-g2408144/"><circle cx="283.1" cy="126.9" r="4" fill="#3465a4"><title>Montgomery, Stuart (Personal)</title></circle></a><a href="/variants/s8/w9dg2g2w3g18k2dg33lo2~x2/"><circle cx="225.1" cy="131.1" r="4" fill="#3465a4"><title>New World Irish (Fashion)</title></circle></a><a href="/variants/s7/g12k1r1k1lb2k1y4~x2/"><circle cx="248.7" cy="148.0" r="4" fill="#3465a4"><title>Alberta District Tartan</title></circle></a><a href="/variants/s8/g18r1w2k1w2r1o6k2~x4/"><circle cx="255.6" cy="117.0" r="4" fill="#3465a4"><title>Humphries (Name)</title></circle></a><a href="/variants/s13/g44r4g2r2g2r4g12k12r2db10r4db4ly3~x2/"><circle cx="269.4" cy="87.9" r="4" fill="#3465a4"><title>Cochrane of Dundonald</title></circle></a><circle cx="259.1" cy="117.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

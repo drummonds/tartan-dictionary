@@ -1,6 +1,15 @@
 ---
 title: "Balmoral"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Balmoral"
+  url: "/clan/balmoral/"
+- name: "Balmoral"
+  url: "/families/balmoral/"
+- name: "Balmoral"
+  url: "/tartans/b/ba/balmoral/"
 ---
 This is the **Balmoral** sett — one scale-free proportion (`n2r1n8b2k2n1b1n1b4n2k1n1r1`), colour order pattern
 [BRBBKBBBBBKBR](/stripes/brbbkbbbbbkbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k2g2b10g2b7g2b7g2b5g2r14b1g2~x2/"><circle cx="267.0" cy="161.2" r="4" fill="#3465a4"><title>Glen Affric, Fragment</title></circle></a><a href="/variants/s11/b8k5b8dg27b13dg3b13o27b8o3b3~x2/"><circle cx="229.1" cy="198.0" r="4" fill="#3465a4"><title>McCall/MacCall</title></circle></a><a href="/variants/s13/b9r5b47dg13k11b5dg5b5dg21b11k5b5r5/"><circle cx="268.0" cy="159.6" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/variants/s13/n2r1n8lp2k2n1lp1n1lp4n2k1n1r1~x2/"><circle cx="251.6" cy="166.4" r="4" fill="#3465a4"><title>Balmoral Royal Tartan</title></circle></a><a href="/variants/s13/n2r1n8o2k2n1o1n1o4n2k1n1r1~x4/"><circle cx="296.2" cy="180.4" r="4" fill="#3465a4"><title>Balmoral (Lavender) (Royal)</title></circle></a><a href="/variants/s13/b9r5b51dg13k13b5dg4b5dg23b11k5b5r5/"><circle cx="278.6" cy="144.2" r="4" fill="#3465a4"><title>Balmoral, Gillies</title></circle></a><a href="/variants/s14/lb4o4k4o18k3n36w3n36k3o18k4o4lb4o3~x2~o2500000-n1900000/"><circle cx="255.2" cy="131.4" r="4" fill="#3465a4"><title>Hebridean Granite</title></circle></a><a href="/variants/s13/db16g4k4n22db5n22k3r5g4n4g4r4k4~x2/"><circle cx="190.9" cy="167.7" r="4" fill="#3465a4"><title>Gayre Hunting Clan Tartan</title></circle></a><a href="/variants/s9/n22b9k4n14dr2n11k2n2k2~x2/"><circle cx="362.1" cy="165.1" r="4" fill="#3465a4"><title>Greyhound Grenadiers Pipe Band</title></circle></a><a href="/variants/s15/db18n16o11n20k7n7k11n7k7n35k52n71o7k7o12~n1900000-o2500000/"><circle cx="247.3" cy="147.4" r="4" fill="#3465a4"><title>CBS (Corporate)</title></circle></a><circle cx="288.8" cy="182.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

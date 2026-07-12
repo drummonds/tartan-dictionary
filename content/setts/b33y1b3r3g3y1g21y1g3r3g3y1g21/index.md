@@ -1,6 +1,15 @@
 ---
 title: "Terry"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Terry"
+  url: "/clan/terry/"
+- name: "Terry"
+  url: "/families/terry/"
+- name: "Terry"
+  url: "/tartans/t/te/terry/"
 ---
 This is the **Terry** sett — one scale-free proportion (`b33y1b3r3g3y1g21y1g3r3g3y1g21`), colour order pattern
 [BGBRGGGGGRGGG](/stripes/bgbrgggggrggg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y3g2k1g30t24k2t2k2~x2~t2105244/"><circle cx="347.0" cy="122.2" r="4" fill="#3465a4"><title>Johnston/Johnstone</title></circle></a><a href="/variants/s9/o4dg2o7dt30o8dt7g5dg1w2~x2~o2600000-dt1501240/"><circle cx="376.5" cy="139.3" r="4" fill="#3465a4"><title>Inchforth (Personal)</title></circle></a><a href="/variants/s8/t46r2t3r2t14g38k3g4~x2/"><circle cx="357.5" cy="146.8" r="4" fill="#3465a4"><title>Greenlaw, American</title></circle></a><a href="/variants/s12/r2db2g16y1db6r1y1r1db6y1g16y2~x2/"><circle cx="349.2" cy="157.7" r="4" fill="#3465a4"><title>Monroig, Eric (Personal)</title></circle></a><a href="/variants/s19/dg2t1b2g4b3g8b22dg1g4b2dg7b2g2b2dg2b4dg1g3t2~x2~dg1806142-g2408144/"><circle cx="373.7" cy="160.9" r="4" fill="#3465a4"><title>Wiregrass (District)</title></circle></a><circle cx="399.8" cy="133.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

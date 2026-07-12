@@ -1,6 +1,15 @@
 ---
 title: "Forrester/Foster Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Forrester"
+  url: "/clan/forrester/"
+- name: "Forrester"
+  url: "/families/forrester/"
+- name: "Forrester Hunting"
+  url: "/tartans/f/fo/forrester-hunting/"
 ---
 This is the **Forrester/Foster Hunting** sett — one scale-free proportion (`k3y2dg18w3dg13k3y4k3g18w3`), colour order pattern
 [KGGWGKGKGW](/stripes/kggwgkgkgw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k3y2dg18w3dg18k3y4k3g18w3~x2~dg1806142-g2408144/"><circle cx="183.2" cy="170.2" r="4" fill="#3465a4"><title>Forrester Hunting Clan Tartan</title></circle></a><a href="/variants/s10/k6y2g18w3g13k3y4k3db18w3~x2/"><circle cx="130.1" cy="167.2" r="4" fill="#3465a4"><title>Corstorphine Trial A</title></circle></a><a href="/variants/s10/k3y2g18w3g18k3y4k3b18w3~x2/"><circle cx="174.4" cy="165.0" r="4" fill="#3465a4"><title>Forrester / Foster, hunting</title></circle></a><a href="/variants/s11/dg1k1dg9k7dy1dg5g4w2g1w1dg1~x4~dg1806142-g2408144/"><circle cx="163.4" cy="157.0" r="4" fill="#3465a4"><title>Parkhead</title></circle></a><a href="/variants/s7/y17w7y6g43k5n6k13~x2/"><circle cx="162.2" cy="180.8" r="4" fill="#3465a4"><title>Keeling Dress</title></circle></a><a href="/variants/s12/dg12w2k5g24k4dg9k2g13k4dg13k2y3~x2/"><circle cx="163.8" cy="159.8" r="4" fill="#3465a4"><title>Handley (Personal)</title></circle></a><a href="/variants/s12/g8w2db3w2g16k10g3y6g1w3g1y6~x2/"><circle cx="169.1" cy="139.9" r="4" fill="#3465a4"><title>Green Bay, Wisconsin (District)</title></circle></a><a href="/variants/s12/k2g10n5g20n5y3n7k3n7k4n4w2~x2/"><circle cx="186.9" cy="175.4" r="4" fill="#3465a4"><title>Aceo</title></circle></a><a href="/variants/s7/g18k2b2k2lb3k2y6~x4/"><circle cx="213.2" cy="166.4" r="4" fill="#3465a4"><title>Alberta</title></circle></a><a href="/variants/s7/y3k22g4dg18g31r3g3/"><circle cx="182.1" cy="175.5" r="4" fill="#3465a4"><title>MacSween Hunting (Lochs, Isle of Lewis) (Personal)</title></circle></a><circle cx="159.4" cy="171.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

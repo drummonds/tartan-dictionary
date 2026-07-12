@@ -1,6 +1,11 @@
 ---
 title: "Sea Dog Bamse, Pride of Norway"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Sea Dog Bamse"
+  url: "/tartans/s/se/sea-dog-bamse/"
 ---
 This is the **Sea Dog Bamse, Pride of Norway** sett — one scale-free proportion (`db3ly2db32r28w2r2w2r2w3`), colour order pattern
 [BYBRWRWRW](/stripes/bybrwrwrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db24w3db4y6db4w3db15r52db6/"><circle cx="298.1" cy="145.5" r="4" fill="#3465a4"><title>Mercer, James (Personal)</title></circle></a><a href="/variants/s9/db16w2db3y4db3w2db10r35db4~x2/"><circle cx="299.2" cy="145.7" r="4" fill="#3465a4"><title>Mercer Personal Tartan</title></circle></a><a href="/variants/s9/db3dy1db14r14dy1r1dy1r1db2~x4/"><circle cx="349.0" cy="164.7" r="4" fill="#3465a4"><title>Breckon</title></circle></a><a href="/variants/s9/db6ly2db27r27ly2r2ly2r2db4~x2/"><circle cx="332.2" cy="164.5" r="4" fill="#3465a4"><title>New Breckon (Fashion?)</title></circle></a><a href="/variants/s8/ly3db8w3db34r34g4r4w2~x2/"><circle cx="263.1" cy="135.8" r="4" fill="#3465a4"><title>Manitoba Masonic (Corporate)</title></circle></a><a href="/variants/s8/y3db8w3db34r34dg4r4w2~x2/"><circle cx="268.9" cy="137.1" r="4" fill="#3465a4"><title>Manitoba Masonic</title></circle></a><a href="/variants/s7/r6w3r17db3r3db25r3~x2/"><circle cx="303.6" cy="204.0" r="4" fill="#3465a4"><title>Bon Accord</title></circle></a><a href="/variants/s9/r4y2r34db10g4db4lb4db23w3~x2/"><circle cx="234.1" cy="123.7" r="4" fill="#3465a4"><title>Heirloom Red Alba (Fashion)</title></circle></a><a href="/variants/s6/g1r1db16r16db1w1~x2/"><circle cx="326.5" cy="162.9" r="4" fill="#3465a4"><title>Galloway, dress</title></circle></a><a href="/variants/s13/db4r4db44w6db5o4db3o8db3o16db4r24w4/"><circle cx="264.1" cy="139.6" r="4" fill="#3465a4"><title>Largs (1981) (District)</title></circle></a><circle cx="291.5" cy="134.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

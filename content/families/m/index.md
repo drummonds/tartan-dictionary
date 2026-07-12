@@ -9,7 +9,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/variants/s8/n18k3g3r2w3db36k2y6~x2/"><strong>M'Kleod</strong></a></li>
 <li><a class="tartan" href="/families/macaart/"><img src="/variants/s10/dy9k2dy2dr2g6k1lo1k1g6dr3~x4/sett.png" alt="MacAart" width="140"><br><strong>MacAart</strong></a></li>
 <li><a class="tartan" href="/families/macalister/"><img src="/variants/s44/r8g1dg2r2lb1r1w1r1lb1r2dg3r1w1r6lb1r1dg12r1lb1r16lb1r1dg12r1lb1r6w1r1db4r1w1r2dg3g1r2g1dg3r3w1r1db2r1w1r8~x2/sett.png" alt="MacAlister" width="140"><br><strong>MacAlister</strong></a></li>
-<li><a class="tartan" href="/families/macalister-of-glenbarr/"><img src="/variants/s14/g20dy3g6dy6g6dy8db2dy2g20dy2db2dy46db3dy8~x2/sett.png" alt="MacAlister of Glenbarr" width="140"><br><strong>MacAlister of Glenbarr</strong></a></li>
+<li><a class="tartan" href="/families/macalister-of-glenbarr/"><img src="/variants/s14/g20r3g6r6g6r8dp2r2g20r2dp2r46dp3r8~x2/sett.png" alt="MacAlister of Glenbarr" width="140"><br><strong>MacAlister of Glenbarr</strong></a></li>
 <li><a class="tartan" href="/families/macalister-of-skye/"><img src="/variants/s9/dr4k5lo1dr26lb1k30lo1k1lo4~x2/sett.png" alt="MacAlister of Skye" width="140"><br><strong>MacAlister of Skye</strong></a></li>
 <li><a class="tartan" href="/families/macallan/"><img src="/variants/s13/db12r2db4r5db16r2k16dy2g16r5g4r2g12~x2/sett.png" alt="Macallan" width="140"><br><strong>Macallan</strong></a></li>
 <li><a class="tartan" href="/clan/macallum/"><img src="/variants/s9/db10r7db31k25dg23k8db7r8ly5~x2/sett.png" alt="MacAllum" width="140"><br><strong>MacAllum</strong></a><div class="clan-territory">clan</div></li>
@@ -24,7 +24,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/variants/s10/r4g4k2g31k10y3g5k11g6k3~x2/"><strong>MacArthur-Fox</strong></a></li>
 <li><a class="tartan" href="/variants/s11/lb4k2db3r33g9y3r5db10r6g2k2~x2/"><strong>MacArthur-Fox Dress</strong></a></li>
 <li><a class="tartan" href="/variants/s6/dr3g30k12g1k16lo2~x2/"><strong>MacArthur-Fox Hunting</strong></a></li>
-<li><a class="tartan" href="/families/macaulay/"><img src="/variants/s8/g6k16w1k16g8k4g12r2~x2/sett.png" alt="MacAulay" width="140"><br><strong>MacAulay</strong></a></li>
+<li><a class="tartan" href="/families/macaulay/"><img src="/variants/s6/k2r16g6r3g8lb1~x2/sett.png" alt="MacAulay" width="140"><br><strong>MacAulay</strong></a></li>
 <li><a class="tartan" href="/families/macaulay-of-ardincaple/"><img src="/variants/s9/r50db3g6db1r3db1g8k1lb3~x2/sett.png" alt="MacAulay of Ardincaple" width="140"><br><strong>MacAulay of Ardincaple</strong></a></li>
 <li><a class="tartan" href="/families/macaulay-of-lewis/"><img src="/variants/s8/g6k16r3k16g28k4g12w3~x2/sett.png" alt="MacAulay of Lewis" width="140"><br><strong>MacAulay of Lewis</strong></a></li>
 <li><a class="tartan" href="/variants/s8/g37w2g6db23y6db2y3db2~x2/"><strong>MacAuliffe</strong></a></li>
@@ -41,15 +41,15 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/maccallum/"><img src="/variants/s7/g21k6lb3g11k17db17k3~x2/sett.png" alt="MacCallum" width="140"><br><strong>MacCallum</strong></a></li>
 <li><a class="tartan" href="/clan/maccallum/"><img src="/variants/s7/g21k6lb3g11k17db17k3~x2/sett.png" alt="MacCallum," width="140"><br><strong>MacCallum,</strong></a><div class="clan-territory">clan</div></li>
 <li><a class="tartan" href="/families/maccallum-of-berwick/"><img src="/variants/s9/db10r7db31k25dg23k8db7k8y5~x2/sett.png" alt="MacCallum, of Berwick" width="140"><br><strong>MacCallum, of Berwick</strong></a></li>
-<li><a class="tartan" href="/families/maccandlish/"><img src="/variants/s11/lb3k1do12k1do1k2do1k6n12k1lo1~x4/sett.png" alt="MacCandlish" width="140"><br><strong>MacCandlish</strong></a></li>
+<li><a class="tartan" href="/families/maccandlish/"><img src="/variants/s11/lb3k1dr12k1dr1k2dr1k6r12k1lo1~x4/sett.png" alt="MacCandlish" width="140"><br><strong>MacCandlish</strong></a></li>
 <li><a class="tartan" href="/families/macclure/"><img src="/variants/s12/k2lb1dr2dg6dr2db4dr2k2dr15dg2dr2k1~x4/sett.png" alt="MacClure" width="140"><br><strong>MacClure</strong></a></li>
 <li><a class="tartan" href="/families/maccoll/"><img src="/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x2/sett.png" alt="MacColl" width="140"><br><strong>MacColl</strong></a></li>
 <li><a class="tartan" href="/families/macconnell/"><img src="/variants/s10/db20dg6db6lb2dg20dr8dg6dr4dg10lr3~x2/sett.png" alt="MacConnell" width="140"><br><strong>MacConnell</strong></a></li>
-<li><a class="tartan" href="/families/maccormick/"><img src="/variants/s5/k3dg20k20g20k3~x2/sett.png" alt="MacCormick" width="140"><br><strong>MacCormick</strong></a></li>
+<li><a class="tartan" href="/families/maccormick/"><img src="/variants/s6/k3g13k10dr13k2dr3~x2/sett.png" alt="MacCormick" width="140"><br><strong>MacCormick</strong></a></li>
 <li><a class="tartan" href="/families/maccorquodale/"><img src="/variants/s7/r7k4t28k24ti24k4t4~x2~t2405244-ti2503227/sett.png" alt="MacCorquodale" width="140"><br><strong>MacCorquodale</strong></a></li>
-<li><a class="tartan" href="/families/macculloch/"><img src="/variants/s11/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/sett.png" alt="MacCulloch" width="140"><br><strong>MacCulloch</strong></a></li>
-<li><a class="tartan" href="/families/macdiarmid/"><img src="/variants/s9/w38r12w37g32k3w4k3g32r4/sett.png" alt="MacDiarmid" width="140"><br><strong>MacDiarmid</strong></a></li>
-<li><a class="tartan" href="/families/macdonald/"><img src="/variants/s12/db11r2db2r4db15r2k15g15r4g2r2g11~x2/sett.png" alt="MacDonald" width="140"><br><strong>MacDonald</strong></a></li>
+<li><a class="tartan" href="/families/macculloch/"><img src="/variants/s11/dy5k3w2r20db10g2w1dy1g20k4dy3~x2/sett.png" alt="MacCulloch" width="140"><br><strong>MacCulloch</strong></a></li>
+<li><a class="tartan" href="/families/macdiarmid/"><img src="/variants/s9/k12r2k28dg12k1w3k1dg12r4~x2/sett.png" alt="MacDiarmid" width="140"><br><strong>MacDiarmid</strong></a></li>
+<li><a class="tartan" href="/families/macdonald/"><img src="/variants/s12/db17r2db2r5db29r2k31g29r5g2r2g17~x2/sett.png" alt="MacDonald" width="140"><br><strong>MacDonald</strong></a></li>
 <li><a class="tartan" href="/families/macdonald-of-aird-valley/"><img src="/variants/s14/dr12db1dr1g8dr2db1dr1db3dr1db1dr12g1dr1g8~x4/sett.png" alt="MacDonald of Aird &amp; Valley" width="140"><br><strong>MacDonald of Aird & Valley</strong></a></li>
 <li><a class="tartan" href="/families/macdonald-of-ardnamurchan/"><img src="/variants/s7/r4k8r4k8r12k1y2~x2/sett.png" alt="MacDonald of Ardnamurchan" width="140"><br><strong>MacDonald of Ardnamurchan</strong></a></li>
 <li><a class="tartan" href="/families/macdonald-of-belfinlay/"><img src="/variants/s10/k8g4r4g3r32g3r4g3r4k4~x2/sett.png" alt="MacDonald of Belfinlay" width="140"><br><strong>MacDonald of Belfinlay</strong></a></li>
@@ -77,11 +77,11 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/macdonell-of-keppoch/"><img src="/variants/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/sett.png" alt="MacDonell of Keppoch" width="140"><br><strong>MacDonell of Keppoch</strong></a></li>
 <li><a class="tartan" href="/clan/macdonnald/"><img src="/variants/s9/w4g30k1g1k1g3k12db10r3/sett.png" alt="MacDonnald" width="140"><br><strong>MacDonnald</strong></a><div class="clan-territory">clan</div></li>
 <li><a class="tartan" href="/families/macdonnald-of-ye-ylis/"><img src="/variants/s9/w4g30k1g1k1g3k12db10r3/sett.png" alt="MacDonnald of ye Ylis" width="140"><br><strong>MacDonnald of ye Ylis</strong></a></li>
-<li><a class="tartan" href="/families/macdougal/"><img src="/variants/s20/lb1r12ri4g72ri8g4ri8db18r12ri4r12g18ri18g18ri8db4ri72r6ri4lb1~x2~r1707016-ri2008029/sett.png" alt="MacDougal" width="140"><br><strong>MacDougal</strong></a></li>
-<li><a class="tartan" href="/families/macdougall/"><img src="/variants/s24/lb1r2w1ri1g6ri2g1ri2db3r2w1ri1w1r2g3ri3g3ri1db1ri6r2w1ri2lb1~x2~r1707016-ri2008029/sett.png" alt="MacDougall" width="140"><br><strong>MacDougall</strong></a></li>
-<li><a class="tartan" href="/clan/macdougall/"><img src="/variants/s24/lb1r2w1ri1g6ri2g1ri2db3r2w1ri1w1r2g3ri3g3ri1db1ri6r2w1ri2lb1~x2~r1707016-ri2008029/sett.png" alt="MacDougall of Lorn" width="140"><br><strong>MacDougall of Lorn</strong></a><div class="clan-territory">clan</div></li>
+<li><a class="tartan" href="/families/macdougal/"><img src="/variants/s26/g10r2db2r30dp3r2w1r2dp3r30db2r2g10r10g10dp4r2dp4db10r4g2r4g30r2dp3w1~x2/sett.png" alt="MacDougal" width="140"><br><strong>MacDougal</strong></a></li>
+<li><a class="tartan" href="/families/macdougall/"><img src="/variants/s24/db3dp12w6r6g46r14g6r14db14dp8w6r6w6dp8g12r16g12r6db6r86dp10w6r10db3/sett.png" alt="MacDougall" width="140"><br><strong>MacDougall</strong></a></li>
+<li><a class="tartan" href="/clan/macdougall/"><img src="/variants/s24/db3dp12w6r6g46r14g6r14db14dp8w6r6w6dp8g12r16g12r6db6r86dp10w6r10db3/sett.png" alt="MacDougall of Lorn" width="140"><br><strong>MacDougall of Lorn</strong></a><div class="clan-territory">clan</div></li>
 <li><a class="tartan" href="/families/macduck/"><img src="/variants/s6/k4r5k2lo21g8k2~x2/sett.png" alt="MacDuck" width="140"><br><strong>MacDuck</strong></a></li>
-<li><a class="tartan" href="/families/macduff/"><img src="/variants/s8/do10r2do10g17k12db9do9r2~x2/sett.png" alt="MacDuff" width="140"><br><strong>MacDuff</strong></a></li>
+<li><a class="tartan" href="/families/macduff/"><img src="/variants/s10/dr4k1dr4g8k6lb3db2lb11db1dr2~x4/sett.png" alt="MacDuff" width="140"><br><strong>MacDuff</strong></a></li>
 <li><a class="tartan" href="/families/macedward/"><img src="/variants/s10/dr6lo1dr24dg6db2k1db2k1db12dr1~x2/sett.png" alt="MacEdward" width="140"><br><strong>MacEdward</strong></a></li>
 <li><a class="tartan" href="/families/macewen/"><img src="/variants/s28/k1g6k6db1k1db1k1db7k1db1k1db1k6g6k1r1k1g6k6db6k1db1k1db6k6g6k1ly1~x4/sett.png" alt="MacEwen" width="140"><br><strong>MacEwen</strong></a></li>
 <li><a class="tartan" href="/variants/s6/db40t16k5b16w2dp6~x2/"><strong>MacFarland-Collins</strong></a></li>
@@ -92,7 +92,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/macgiboney/"><img src="/variants/s10/g5lb5t1lb1y1lb1t1lb5g5w1~x4~lb3200000-t2503227/sett.png" alt="MacGiboney" width="140"><br><strong>MacGiboney</strong></a></li>
 <li><a class="tartan" href="/families/macgill/"><img src="/variants/s13/r28g10k7w2y2r1y2w2db5k2r2y2w3~x4/sett.png" alt="MacGill" width="140"><br><strong>MacGill</strong></a></li>
 <li><a class="tartan" href="/families/macgill-of-jura/"><img src="/variants/s12/lo45g24k15w2lo2k1lo2w2lb11k3lo4w8~x2/sett.png" alt="MacGill of Jura" width="140"><br><strong>MacGill of Jura</strong></a></li>
-<li><a class="tartan" href="/families/macgillivray/"><img src="/variants/s14/dg8o5dg5o5dg5o6db1o2dg8o2db1o24db4o6~x2~dg1806142-o2005046/sett.png" alt="MacGillivray" width="140"><br><strong>MacGillivray</strong></a></li>
+<li><a class="tartan" href="/families/macgillivray/"><img src="/variants/s14/g19r7g7r7g7r14db3r3g19r3db3r66db7r14~x2/sett.png" alt="MacGillivray" width="140"><br><strong>MacGillivray</strong></a></li>
 <li><a class="tartan" href="/families/macglashan/"><img src="/variants/s14/n5ly1n3lb6n1lb3n1o5ly1o3ly6o1ly3o1~x4~ly3607098-o2505058/sett.png" alt="MacGlashan" width="140"><br><strong>MacGlashan</strong></a></li>
 <li><a class="tartan" href="/families/macgregor/"><img src="/variants/s2/k1r1~x100/sett.png" alt="MacGregor" width="140"><br><strong>MacGregor</strong></a></li>
 <li><a class="tartan" href="/clan/macgregor/"><img src="/variants/s2/k1r1~x100/sett.png" alt="MacGregor (Clan Gregor)" width="140"><br><strong>MacGregor (Clan Gregor)</strong></a><div class="clan-territory">clan</div></li>
@@ -124,18 +124,18 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/mackaw/"><img src="/variants/s4/r2b35db35y1~x2~b1511266-db1108266/sett.png" alt="Mackaw" width="140"><br><strong>Mackaw</strong></a></li>
 <li><a class="tartan" href="/families/mackay/"><img src="/variants/s7/db8g8db1g8k8db8y2~x2/sett.png" alt="MacKay" width="140"><br><strong>MacKay</strong></a></li>
 <li><a class="tartan" href="/families/mackay-of-strathnaver/"><img src="/variants/s27/dg18r1k18r1n18r1o18r1dr18r1dy18r1ly18r1lyi18r1dy18r1dr18r1o18r1n18r1k18r1dg18~x2~n1900000-o2500000-ly2503076-lyi3104101/sett.png" alt="MacKay, of Strathnaver" width="140"><br><strong>MacKay, of Strathnaver</strong></a></li>
-<li><a class="tartan" href="/families/mackean/"><img src="/variants/s15/g2dr4g2k16g2k16g4k2g2k2g4k4db8k1lb2~x2/sett.png" alt="MacKean" width="140"><br><strong>MacKean</strong></a></li>
+<li><a class="tartan" href="/families/mackean/"><img src="/variants/s8/k4db8k4db8r2g10k1w2~x2/sett.png" alt="MacKean" width="140"><br><strong>MacKean</strong></a></li>
 <li><a class="tartan" href="/families/mackeane/"><img src="/variants/s5/r4k8r12k1y1~x2/sett.png" alt="MacKeane" width="140"><br><strong>MacKeane</strong></a></li>
 <li><a class="tartan" href="/families/mackeever/"><img src="/variants/s11/y4k1r12db3r3db16r3db3r12k1w4~x2/sett.png" alt="MacKeever" width="140"><br><strong>MacKeever</strong></a></li>
-<li><a class="tartan" href="/families/mackellar/"><img src="/variants/s11/dy27w2dy3y4dy3w2dy5k13lb2w26dg3~x2/sett.png" alt="MacKellar" width="140"><br><strong>MacKellar</strong></a></li>
+<li><a class="tartan" href="/families/mackellar/"><img src="/variants/s12/g30w3g4ly5g4w3g6k14lb3k14db18w4~x2/sett.png" alt="MacKellar" width="140"><br><strong>MacKellar</strong></a></li>
 <li><a class="tartan" href="/families/mackenzie/"><img src="/variants/s15/db12k2db2k2db2k12g12k1w2k1g12k12db12k1r2/sett.png" alt="MacKenzie" width="140"><br><strong>MacKenzie</strong></a></li>
 <li><a class="tartan" href="/families/mackerrell/"><img src="/variants/s12/lb34db60y3db60lb34w4lb34db60r3db60lb34w4~x2/sett.png" alt="MacKerrell" width="140"><br><strong>MacKerrell</strong></a></li>
 <li><a class="tartan" href="/families/mackerrell-of-hillhouse/"><img src="/variants/s6/dbi28db49y3db49dbi28w4~x2~dbi1406275-db1204274/sett.png" alt="MacKerrell of Hillhouse" width="140"><br><strong>MacKerrell of Hillhouse</strong></a></li>
 <li><a class="tartan" href="/variants/s8/dy2g1k1g26k11db6k1g2~x2/"><strong>Mackie</strong></a></li>
 <li><a class="tartan" href="/families/mackillop/"><img src="/variants/s10/g3r2db2r14t1db4r2g12r2db2~x8/sett.png" alt="MacKillop" width="140"><br><strong>MacKillop</strong></a></li>
 <li><a class="tartan" href="/families/mackinlay/"><img src="/variants/s15/db12k4db4k4db4k12g16k2dr3k2g16k12db16k4db4/sett.png" alt="MacKinlay" width="140"><br><strong>MacKinlay</strong></a></li>
-<li><a class="tartan" href="/families/mackinnon/"><img src="/variants/s7/g1dy8g8r1g8dy8w1~x2/sett.png" alt="MacKinnon" width="140"><br><strong>MacKinnon</strong></a></li>
-<li><a class="tartan" href="/families/mackintosh/"><img src="/variants/s7/y2g12db6r3g12r4db1/sett.png" alt="MacKintosh" width="140"><br><strong>MacKintosh</strong></a></li>
+<li><a class="tartan" href="/families/mackinnon/"><img src="/variants/s14/dp2r3g2db2r6g16r2db4g2r16g8dp2r4w2~x2/sett.png" alt="MacKinnon" width="140"><br><strong>MacKinnon</strong></a></li>
+<li><a class="tartan" href="/families/mackintosh/"><img src="/variants/s36/dp7w1dp7w1dp24w1dp2lb2w1lb2dp2w1dg10g3w1dp4lb2w1r3w1lb2dp3w1g3dg10w1dp2lb2w1lb2dp2w1dp6r16k2r2~x2/sett.png" alt="MacKintosh" width="140"><br><strong>MacKintosh</strong></a></li>
 <li><a class="tartan" href="/clan/mackintosh/"><img src="/variants/s6/r24db6r3g12r4db1~x2/sett.png" alt="Mackintosh (Clan Chattan)" width="140"><br><strong>Mackintosh (Clan Chattan)</strong></a><div class="clan-territory">clan</div></li>
 <li><a class="tartan" href="/variants/s6/db18dp1db12k14g14r2~x2/"><strong>Mackison</strong></a></li>
 <li><a class="tartan" href="/variants/s9/k12lb1k2lb6k4lb3k4lb21r4~x2/"><strong>MacKnight</strong></a></li>
@@ -152,7 +152,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/maclaurin-of-brioch/"><img src="/variants/s7/db36k10g3r3g6k1y2~x2/sett.png" alt="MacLaurin of Brioch" width="140"><br><strong>MacLaurin of Brioch</strong></a></li>
 <li><a class="tartan" href="/families/maclaurin-of-broich/"><img src="/variants/s7/db36k8g3dr3g6k1lo2~x2/sett.png" alt="MacLaurin of Broich" width="140"><br><strong>MacLaurin of Broich</strong></a></li>
 <li><a class="tartan" href="/families/maclean/"><img src="/variants/s12/db4lb1k3y1k1w1k1g8r12lb1r2k1~x2/sett.png" alt="MacLean" width="140"><br><strong>MacLean</strong></a></li>
-<li><a class="tartan" href="/families/maclean-of-duart/"><img src="/variants/s8/dg3k6w2k6dg2k2dg16k2~x2/sett.png" alt="MacLean of Duart" width="140"><br><strong>MacLean of Duart</strong></a></li>
+<li><a class="tartan" href="/families/maclean-of-duart/"><img src="/variants/s12/n12lb2do4y2do3w3do3ly20w29lb2w4do2~x2/sett.png" alt="MacLean of Duart" width="140"><br><strong>MacLean of Duart</strong></a></li>
 <li><a class="tartan" href="/families/maclean-of-kingairloch/"><img src="/variants/s10/t81k6y1k2w2k2g12dy28w1dy4~x2/sett.png" alt="MacLean of Kingairloch" width="140"><br><strong>MacLean of Kingairloch</strong></a></li>
 <li><a class="tartan" href="/families/macleay/"><img src="/variants/s7/r27db4k4db4k4lb6y1~x4/sett.png" alt="MacLeay" width="140"><br><strong>MacLeay</strong></a></li>
 <li><a class="tartan" href="/families/maclellan/"><img src="/variants/s14/db15k8g3r3g5k2y2k2g5r3g3k8db8k8~x4/sett.png" alt="MacLellan" width="140"><br><strong>MacLellan</strong></a></li>
@@ -173,10 +173,10 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/macmichael/"><img src="/variants/s11/dr1db1dr8lb1k2db16k2lb1g8db1g1~x4/sett.png" alt="MacMichael" width="140"><br><strong>MacMichael</strong></a></li>
 <li><a class="tartan" href="/families/macmillan/"><img src="/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1/sett.png" alt="MacMillan" width="140"><br><strong>MacMillan</strong></a></li>
 <li><a class="tartan" href="/families/macmugen/"><img src="/variants/s6/db3w16db4w3db12w2~x3/sett.png" alt="MacMugen" width="140"><br><strong>MacMugen</strong></a></li>
-<li><a class="tartan" href="/families/macnab/"><img src="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x2~r1707016-ri2008029/sett.png" alt="MacNab" width="140"><br><strong>MacNab</strong></a></li>
+<li><a class="tartan" href="/families/macnab/"><img src="/variants/s4/g15r3db11lb2~x2/sett.png" alt="MacNab" width="140"><br><strong>MacNab</strong></a></li>
 <li><a class="tartan" href="/families/macnappy/"><img src="/variants/s6/w36db12w1r12g16y2~x2/sett.png" alt="MacNappy" width="140"><br><strong>MacNappy</strong></a></li>
 <li><a class="tartan" href="/families/macnaughton/"><img src="/variants/s9/k2db2r26dg25k13db13r26db2k2~x2/sett.png" alt="MacNaughton" width="140"><br><strong>MacNaughton</strong></a></li>
-<li><a class="tartan" href="/families/macneil/"><img src="/variants/s18/t18k13g18y4g18k13w4t4w18t4w4t4w18t4w4k13t18w4~x2/sett.png" alt="MacNeil" width="140"><br><strong>MacNeil</strong></a></li>
+<li><a class="tartan" href="/families/macneil/"><img src="/variants/s7/y1k3g15k14db16r2w1~x2/sett.png" alt="MacNeil" width="140"><br><strong>MacNeil</strong></a></li>
 <li><a class="tartan" href="/families/macneil-of-barra/"><img src="/variants/s6/y3k2g12k12db14w3/sett.png" alt="MacNeil of Barra" width="140"><br><strong>MacNeil of Barra</strong></a></li>
 <li><a class="tartan" href="/families/macneil-of-colonsay/"><img src="/variants/s7/db4g6w1g6k6db6k2~x2/sett.png" alt="MacNeil of Colonsay" width="140"><br><strong>MacNeil of Colonsay</strong></a></li>
 <li><a class="tartan" href="/families/macneill/"><img src="/variants/s9/db5r3db21b5db5b40k2b2w1~x2/sett.png" alt="MacNeill" width="140"><br><strong>MacNeill</strong></a></li>
@@ -184,13 +184,13 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/macnicol/"><img src="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1/sett.png" alt="MacNicol" width="140"><br><strong>MacNicol</strong></a></li>
 <li><a class="tartan" href="/families/macniven/"><img src="/variants/s9/dg18g2db5dr45lb3db18lb3dr8lbi2~x2~dg1806142-g2408144-lb3103284-lbi3200000/sett.png" alt="MacNiven" width="140"><br><strong>MacNiven</strong></a></li>
 <li><a class="tartan" href="/families/macorrell/"><img src="/variants/s16/db36y4db10y4db36g28w3g3w3g8y6g8w3g3w3g28/sett.png" alt="MacOrrell" width="140"><br><strong>MacOrrell</strong></a></li>
-<li><a class="tartan" href="/families/macperl/"><img src="/variants/s28/ki1db5ki18k8w1ki18db5dy3ki1w3ki1dy3db5ki18k8w1ki18db5ki1w1ki1db3w1dy3w1db3ki1w1~x2~ki0604259-db1605267/sett.png" alt="MacPerl" width="140"><br><strong>MacPerl</strong></a></li>
+<li><a class="tartan" href="/families/macperl/"><img src="/variants/s27/k18db5ly3k1w3k1ly3db5dg8w1k36db5k1w1k1db3w1ly3w1db3k1w1k1db5k18dg8w1~x2/sett.png" alt="MacPerl" width="140"><br><strong>MacPerl</strong></a></li>
 <li><a class="tartan" href="/families/macphail/"><img src="/variants/s6/r25k7r3g13y1k2~x4/sett.png" alt="MacPhail" width="140"><br><strong>MacPhail</strong></a></li>
 <li><a class="tartan" href="/variants/s5/k22w3k3w11k1~x2/"><strong>MacPhee MacFee or MacIver</strong></a></li>
-<li><a class="tartan" href="/families/macpherson/"><img src="/variants/s9/db1r1k8r1db1r1w8r1db1~x2/sett.png" alt="MacPherson" width="140"><br><strong>MacPherson</strong></a></li>
+<li><a class="tartan" href="/families/macpherson/"><img src="/variants/s15/r13lr4r13g28lr3dy26lr10dy2do2dy2lr10r14lr4dy4r4~x2/sett.png" alt="MacPherson" width="140"><br><strong>MacPherson</strong></a></li>
 <li><a class="tartan" href="/families/macpherson-of-cluny/"><img src="/variants/s11/r5k2r2g42r5k36r70k2y2r7g2/sett.png" alt="MacPherson of Cluny" width="140"><br><strong>MacPherson of Cluny</strong></a></li>
 <li><a class="tartan" href="/families/macpherson-of-pitmain/"><img src="/variants/s9/db1dr1k8dr1db1dr1w8dr1db1~x4/sett.png" alt="MacPherson of Pitmain" width="140"><br><strong>MacPherson of Pitmain</strong></a></li>
-<li><a class="tartan" href="/families/macquarrie/"><img src="/variants/s13/g2r3g2r52g2r2db28r2g42r2g2r3g2/sett.png" alt="MacQuarrie" width="140"><br><strong>MacQuarrie</strong></a></li>
+<li><a class="tartan" href="/families/macquarrie/"><img src="/variants/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/sett.png" alt="MacQuarrie" width="140"><br><strong>MacQuarrie</strong></a></li>
 <li><a class="tartan" href="/clan/macqueen/"><img src="/variants/s8/gi3r4k1r26g14r4dp16w2~x2~gi2408144-g1903114/sett.png" alt="MacQueen" width="140"><br><strong>MacQueen</strong></a><div class="clan-territory">clan</div></li>
 <li><a class="tartan" href="/families/macqueen-of-dalmagarry/"><img src="/variants/s8/gi3r4k1r26g14r4dp16w2~x2~gi2408144-g1903114/sett.png" alt="MacQueen of Dalmagarry" width="140"><br><strong>MacQueen of Dalmagarry</strong></a></li>
 <li><a class="tartan" href="/families/macrae/"><img src="/variants/s31/g4r1g4r4db1r1db1r1db1r4db1r1db1r1db1r4w1r1db4r1db4r1w1r4g1r1g1r4g4r1g4/sett.png" alt="MacRae" width="140"><br><strong>MacRae</strong></a></li>
@@ -202,7 +202,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/macrobart/"><img src="/variants/s6/db30k10g10lb2g15lb2~x2/sett.png" alt="MacRobart" width="140"><br><strong>MacRobart</strong></a></li>
 <li><a class="tartan" href="/families/macshimsi/"><img src="/variants/s5/m11r5g5k40y3~x2~m2107016-r1706009/sett.png" alt="MacShimsi" width="140"><br><strong>MacShimsi</strong></a></li>
 <li><a class="tartan" href="/families/macsporran/"><img src="/variants/s13/db16r2db3r4db18r2k16dg16r4dg3r2k2ly10~x2/sett.png" alt="MacSporran" width="140"><br><strong>MacSporran</strong></a></li>
-<li><a class="tartan" href="/families/macsween/"><img src="/variants/s7/y3k22g4dg18g31r3g3/sett.png" alt="MacSween" width="140"><br><strong>MacSween</strong></a></li>
+<li><a class="tartan" href="/families/macsween/"><img src="/variants/s6/k2n6k2n6k12r1~x4/sett.png" alt="MacSween" width="140"><br><strong>MacSween</strong></a></li>
 <li><a class="tartan" href="/families/mactaggart/"><img src="/variants/s7/dg30db4dg2k20db18r1db4~x2/sett.png" alt="MacTaggart" width="140"><br><strong>MacTaggart</strong></a></li>
 <li><a class="tartan" href="/families/mactaggert/"><img src="/variants/s13/db9k12g2lb4g18lb4g2k12db12r2db2r2db3~x2/sett.png" alt="MacTaggert" width="140"><br><strong>MacTaggert</strong></a></li>
 <li><a class="tartan" href="/families/mactavish/"><img src="/variants/s6/lb2r12db2lb6k6lb1/sett.png" alt="MacTavish" width="140"><br><strong>MacTavish</strong></a></li>
@@ -215,9 +215,9 @@ background: /bg/clans.png
 <li><a class="tartan" href="/variants/s13/db12dy2y2dy2db2dy10g10dy3g12dy10db11r2y2~x2/"><strong>MacVicker</strong></a></li>
 <li><a class="tartan" href="/families/macwatts/"><img src="/variants/s30/g7dp2g2dp12g2k2g1k12dbi2db12dbi2db2dbi7k2r3k2dbi7db2dbi2db12dbi2k12g1k2g2dp12g2dp2g7y4~x2~dbi1406275-db1106275/sett.png" alt="MacWatts" width="140"><br><strong>MacWatts</strong></a></li>
 <li><a class="tartan" href="/families/macwhirter/"><img src="/variants/s22/dg8k1lb2k1y2k1lb2k1r8w1lb1w1r8k1lb2k1y2k1lb2k1dg8lb1~x4/sett.png" alt="MacWhirter" width="140"><br><strong>MacWhirter</strong></a></li>
-<li><a class="tartan" href="/families/macwilliam/"><img src="/variants/s6/dy2dg44k10r1db16r1~x2/sett.png" alt="MacWilliam" width="140"><br><strong>MacWilliam</strong></a></li>
+<li><a class="tartan" href="/families/macwilliam/"><img src="/variants/s8/dy2g12k10r1t16r2t16r1~x4/sett.png" alt="MacWilliam" width="140"><br><strong>MacWilliam</strong></a></li>
 <li><a class="tartan" href="/families/madder/"><img src="/variants/s7/g28r4dp27r27g28r5dp2~x2/sett.png" alt="Madder" width="140"><br><strong>Madder</strong></a></li>
-<li><a class="tartan" href="/families/madewell/"><img src="/variants/s8/r2k2w16dg13g6y2k2w2~x2/sett.png" alt="Madewell" width="140"><br><strong>Madewell</strong></a></li>
+<li><a class="tartan" href="/families/madewell/"><img src="/variants/s9/r2k2w2k14dg13g6y2k2w2~x2/sett.png" alt="Madewell" width="140"><br><strong>Madewell</strong></a></li>
 <li><a class="tartan" href="/families/madras/"><img src="/variants/s7/g30k2w3k1w4lb6w2~x4/sett.png" alt="Madras" width="140"><br><strong>Madras</strong></a></li>
 <li><a class="tartan" href="/families/maguire/"><img src="/variants/s13/g18r18k3r3db3r3db4r3k9r4g18w6k3~x2/sett.png" alt="Maguire" width="140"><br><strong>Maguire</strong></a></li>
 <li><a class="tartan" href="/families/mair/"><img src="/variants/s12/r23g3y1g3r2db18r2w1g3r2db2r23~x2/sett.png" alt="Mair" width="140"><br><strong>Mair</strong></a></li>
@@ -227,7 +227,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/manitoba/"><img src="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1707016-ri2008029/sett.png" alt="Manitoba" width="140"><br><strong>Manitoba</strong></a></li>
 <li><a class="tartan" href="/families/manson/"><img src="/variants/s9/dg1r24dg8k8dg8r1k4db16w1~x2/sett.png" alt="Manson" width="140"><br><strong>Manson</strong></a></li>
 <li><a class="tartan" href="/families/manx/"><img src="/variants/s11/db38n1o11n1w4n1y4n1dg20n1lb6~x2~n1900000-o2500000/sett.png" alt="Manx" width="140"><br><strong>Manx</strong></a></li>
-<li><a class="tartan" href="/families/mar/"><img src="/variants/s6/db2r24g24r1db24r2~x2/sett.png" alt="Mar" width="140"><br><strong>Mar</strong></a></li>
+<li><a class="tartan" href="/families/mar/"><img src="/variants/s6/db2r39g39r1db39r2~x2/sett.png" alt="Mar" width="140"><br><strong>Mar</strong></a></li>
 <li><a class="tartan" href="/variants/s7/dg15k8db15k8dg23ki8w3~x2~db1003265-ki0503265/"><strong>Marchant</strong></a></li>
 <li><a class="tartan" href="/families/marchmont/"><img src="/variants/s12/db12k12g1k12db12g1db12k12g1k12db12k1~x4/sett.png" alt="Marchmont" width="140"><br><strong>Marchmont</strong></a></li>
 <li><a class="tartan" href="/variants/s6/dp4k3b18r3db34w3~x2/"><strong>Margach, William</strong></a></li>
@@ -237,15 +237,15 @@ background: /bg/clans.png
 <li><a class="tartan" href="/clan/marshall/"><img src="/variants/s5/b10k10b10dg26y5~x2/sett.png" alt="Marshall" width="140"><br><strong>Marshall</strong></a><div class="clan-territory">clan</div></li>
 <li><a class="tartan" href="/families/marshall-of-keith/"><img src="/variants/s5/b10k10b10dg26y5~x2/sett.png" alt="Marshall of Keith" width="140"><br><strong>Marshall of Keith</strong></a></li>
 <li><a class="tartan" href="/variants/s20/db35g3w3r3db35r2db3w2db5w1db5r1db8r1db5w1db5w2db3r2~x2/"><strong>Martha De Laurentiis</strong></a></li>
-<li><a class="tartan" href="/families/martin/"><img src="/variants/s5/dp20dt5k19g19dy2~x2/sett.png" alt="Martin" width="140"><br><strong>Martin</strong></a></li>
+<li><a class="tartan" href="/families/martin/"><img src="/variants/s9/lo4g10k3g3k3g3k9dr11k3~x4/sett.png" alt="Martin" width="140"><br><strong>Martin</strong></a></li>
 <li><a class="tartan" href="/variants/s8/k10lb1k2lb1k4lb10g1lb2~x4/"><strong>Martin's Own</strong></a></li>
 <li><a class="tartan" href="/families/martinez/"><img src="/variants/s12/db6k20dr3k20y1db2y1k25y1dr2y1dbi6~x2~db1404245-dbi1406275/sett.png" alt="Martinez" width="140"><br><strong>Martinez</strong></a></li>
 <li><a class="tartan" href="/families/massachusetts/"><img src="/variants/s13/g12db6g6db22w4db8g4r8db10r3db48lb4db8/sett.png" alt="Massachusetts" width="140"><br><strong>Massachusetts</strong></a></li>
 <li><a class="tartan" href="/families/matchpoint/"><img src="/variants/s15/db6y2dbi24db4dbi8db6dbi6db8dbi3db10k14db4r3db34w4~db1003265-dbi1605267/sett.png" alt="Matchpoint" width="140"><br><strong>Matchpoint</strong></a></li>
-<li><a class="tartan" href="/families/matheson/"><img src="/variants/s21/db4g2db1g2db1g22db6g2r2g2r2g2r4g2r2g2r2db6g4r2g4~x4/sett.png" alt="Matheson" width="140"><br><strong>Matheson</strong></a></li>
+<li><a class="tartan" href="/families/matheson/"><img src="/variants/s21/g4dr4g2dr2g2dr18db4g4dr2g2dr2g3dr4g2dr2g2dr2db4g4dr2g4~x2/sett.png" alt="Matheson" width="140"><br><strong>Matheson</strong></a></li>
 <li><a class="tartan" href="/variants/s15/r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2/"><strong>Mauthe Unidentified</strong></a></li>
 <li><a class="tartan" href="/variants/s7/dg1y1dg1w1dg10r20y1~x4/"><strong>Maver</strong></a></li>
-<li><a class="tartan" href="/families/maxwell/"><img src="/variants/s7/g3dr16g4k6g28dr2g3~x2/sett.png" alt="Maxwell" width="140"><br><strong>Maxwell</strong></a></li>
+<li><a class="tartan" href="/families/maxwell/"><img src="/variants/s7/r3g16r4k6r28g1r3~x2/sett.png" alt="Maxwell" width="140"><br><strong>Maxwell</strong></a></li>
 <li><a class="tartan" href="/variants/s13/ly6w4k3lb14w3r34k34w4lb3ly8w3g4k2~x2/"><strong>Mazarian</strong></a></li>
 <li><a class="tartan" href="/families/mcaleavy/"><img src="/variants/s11/g56n6ly6y2w2y2w16n10w2g6r3~x2/sett.png" alt="McAleavy" width="140"><br><strong>McAleavy</strong></a></li>
 <li><a class="tartan" href="/families/mcalifyfe/"><img src="/variants/s11/k3y3lo2y30k2y3m12y6mi6k3y3~x2~y2103114-lo2706066-m1907352-mi2506332/sett.png" alt="McAlifyfe" width="140"><br><strong>McAlifyfe</strong></a></li>
@@ -277,17 +277,17 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/mckerrell-of-hillhouse/"><img src="/variants/s4/w4lb28db49y3~x2/sett.png" alt="McKerrell of Hillhouse" width="140"><br><strong>McKerrell of Hillhouse</strong></a></li>
 <li><a class="tartan" href="/variants/s11/r2w1g18k12g1k3w1r2w1k2g2~x2/"><strong>McKirgan</strong></a></li>
 <li><a class="tartan" href="/variants/s11/dg2db2w1r2w1db3dg1db12dg18w1r2~x2/"><strong>McKirgan/Mackirgan</strong></a></li>
-<li><a class="tartan" href="/families/mcknight/"><img src="/variants/s8/db4y1w10r28db25k10lb5k3~x4/sett.png" alt="McKnight" width="140"><br><strong>McKnight</strong></a></li>
+<li><a class="tartan" href="/families/mcknight/"><img src="/variants/s7/dbi4y1r28db25k10dbi5k3~x2~dbi1605267-db1003265/sett.png" alt="McKnight" width="140"><br><strong>McKnight</strong></a></li>
 <li><a class="tartan" href="/families/mclion/"><img src="/variants/s9/w1dbi6g1dbi1g1dbi1db4dr5lo1~x4~dbi1406275-db1106275/sett.png" alt="McLion" width="140"><br><strong>McLion</strong></a></li>
 <li><a class="tartan" href="/families/mclosek/"><img src="/variants/s32/w8k1m2k1w2k8dp8lb2dp1k2r1lb2dp8k8w8k2m1k2w8k8dp8lb1dp2k1dp2lb1dp8k8w2k2m1k2~m2209000-r1807008/sett.png" alt="McLosek" width="140"><br><strong>McLosek</strong></a></li>
 <li><a class="tartan" href="/families/mcmeeken/"><img src="/variants/s10/r7g20y2g4k5db4k2db20k3w1~x2/sett.png" alt="McMeeken" width="140"><br><strong>McMeeken</strong></a></li>
-<li><a class="tartan" href="/families/mcmoosie/"><img src="/variants/s5/dy46dg23t23r4y4~x2/sett.png" alt="McMoosie" width="140"><br><strong>McMoosie</strong></a></li>
+<li><a class="tartan" href="/families/mcmoosie/"><img src="/variants/s3/g81r10y20~x2/sett.png" alt="McMoosie" width="140"><br><strong>McMoosie</strong></a></li>
 <li><a class="tartan" href="/families/mcmuldroch/"><img src="/variants/s10/g19k18dr18w2y2dp2y2w2dr8dp3~x2/sett.png" alt="McMuldroch" width="140"><br><strong>McMuldroch</strong></a></li>
 <li><a class="tartan" href="/variants/s24/dr2r1dg1r1g1r1k2r2dr2r1dg2g1y1g1y1g1y1dr2k8r1g1r1k3r1~x10~dg1504144-g2408144/"><strong>McNair</strong></a></li>
 <li><a class="tartan" href="/variants/s7/k9w2dr50g42dr16g17k4/"><strong>McNee</strong></a></li>
 <li><a class="tartan" href="/families/mcpeek/"><img src="/variants/s3/r63k16y5~x2/sett.png" alt="McPeek" width="140"><br><strong>McPeek</strong></a></li>
-<li><a class="tartan" href="/families/mcwilliams/"><img src="/variants/s12/db3dr2db13k9dy3k2dy14k2dy3k9db15w3~x2/sett.png" alt="McWilliams" width="140"><br><strong>McWilliams</strong></a></li>
-<li><a class="tartan" href="/families/mead/"><img src="/variants/s10/dbi36k3r6k3db10r5db3y4k1dbi2~x2~dbi1307278-db1105267/sett.png" alt="Mead" width="140"><br><strong>Mead</strong></a></li>
+<li><a class="tartan" href="/families/mcwilliams/"><img src="/variants/s12/k3db15k9dy3k2dy14k2dy3k9db13k2db3~x2/sett.png" alt="McWilliams" width="140"><br><strong>McWilliams</strong></a></li>
+<li><a class="tartan" href="/families/mead/"><img src="/variants/s10/b36k3r6k3db10r5db3ly4k1b2~x2/sett.png" alt="Mead" width="140"><br><strong>Mead</strong></a></li>
 <li><a class="tartan" href="/families/mead-of-poetry/"><img src="/variants/s12/w6n2db6n2db25n2dr1n2ly3lb5w6n4~x2/sett.png" alt="Mead of Poetry" width="140"><br><strong>Mead of Poetry</strong></a></li>
 <li><a class="tartan" href="/families/meeson/"><img src="/variants/s6/k26n10dt19dr6dy2db9~x2~dt1502222-db1704245/sett.png" alt="Meeson" width="140"><br><strong>Meeson</strong></a></li>
 <li><a class="tartan" href="/families/mehrtens/"><img src="/variants/s16/w4db4r18n4r1n36k1n4k6r2k6r6k2r6k4r2~x2~r2109032/sett.png" alt="Mehrtens" width="140"><br><strong>Mehrtens</strong></a></li>
@@ -299,19 +299,19 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/melrose-of-alabama/"><img src="/variants/s7/k3db3r1db3k3g3y1~x8/sett.png" alt="Melrose of Alabama" width="140"><br><strong>Melrose of Alabama</strong></a></li>
 <li><a class="tartan" href="/families/melville/"><img src="/variants/s6/dg4w1dg26t26k2t4~x4/sett.png" alt="Melville" width="140"><br><strong>Melville</strong></a></li>
 <li><a class="tartan" href="/variants/s9/w4k6r3k15r3k6r27db9w2~x2/"><strong>Memery</strong></a></li>
-<li><a class="tartan" href="/families/menzies/"><img src="/variants/s8/r36w4r3w4r6w2r1w12/sett.png" alt="Menzies" width="140"><br><strong>Menzies</strong></a></li>
+<li><a class="tartan" href="/families/menzies/"><img src="/variants/s12/w4ri1w2ri3w24r5ri3r1ri1r1ri20w2~x2~ri2008029-r1707016/sett.png" alt="Menzies" width="140"><br><strong>Menzies</strong></a></li>
 <li><a class="tartan" href="/families/menzies-of-culdares/"><img src="/variants/s7/k4dr2k22dr22k3dr4lb2~x2/sett.png" alt="Menzies of Culdares" width="140"><br><strong>Menzies of Culdares</strong></a></li>
 <li><a class="tartan" href="/families/mercer/"><img src="/variants/s8/db9t2db2y1t7db2r1t4~x4/sett.png" alt="Mercer" width="140"><br><strong>Mercer</strong></a></li>
 <li><a class="tartan" href="/variants/s6/k36y5k1y1n5k12~x2/"><strong>Merola</strong></a></li>
-<li><a class="tartan" href="/families/merrilees/"><img src="/variants/s6/k23t6k6r5w35r10~x2/sett.png" alt="Merrilees" width="140"><br><strong>Merrilees</strong></a></li>
+<li><a class="tartan" href="/families/merrilees/"><img src="/variants/s6/w23lb6w6r5k35r10~x2/sett.png" alt="Merrilees" width="140"><br><strong>Merrilees</strong></a></li>
 <li><a class="tartan" href="/families/michie/"><img src="/variants/s24/dp35g8dp6g4dp12g4dp6g8dp54k6dp54g8dp6g4dp12g4dp6g8dp35t27lo4t4r4t27/sett.png" alt="Michie" width="140"><br><strong>Michie</strong></a></li>
 <li><a class="tartan" href="/families/midlothian/"><img src="/variants/s6/db31t4db5k19g20lo4~x2/sett.png" alt="Midlothian" width="140"><br><strong>Midlothian</strong></a></li>
 <li><a class="tartan" href="/families/millennium/"><img src="/variants/s62/dbi8t1dbi1db37t1dbi14g2dbi2t1dbi1db37dbi1t1w2dbi18t1g3t1dbi18t1g3t1dbi18w2t1dbi1db37dbi1t1dbi3g2dbi13t1db37dbi1t1dbi8g2dbi10t1db1dbi1db1w2t1db33dbi1g2db1dbi1t1dbi18g2dbi18t1dbi1db1g2dbi1db37t1w2~x2~db-h889fa5b41bfbc535/sett.png" alt="Millennium" width="140"><br><strong>Millennium</strong></a></li>
 <li><a class="tartan" href="/variants/s5/w8r6y2g34db3~x2/"><strong>Milling-Christensen</strong></a></li>
-<li><a class="tartan" href="/families/milne/"><img src="/variants/s8/w12db2w12o17w12db2w5r2~x4/sett.png" alt="Milne" width="140"><br><strong>Milne</strong></a></li>
+<li><a class="tartan" href="/families/milne/"><img src="/variants/s8/w12dg2w12r17w12dg2w5p2~x4/sett.png" alt="Milne" width="140"><br><strong>Milne</strong></a></li>
 <li><a class="tartan" href="/families/milne-of-corstorphine/"><img src="/variants/s14/db22g1db2g1db4k16ly1g16r2g16ly1k16db16g1~x2/sett.png" alt="Milne of Corstorphine" width="140"><br><strong>Milne of Corstorphine</strong></a></li>
 <li><a class="tartan" href="/variants/s7/dp5lb2k30n26y2n2db4~x2/"><strong>Milne-Murtagh</strong></a></li>
-<li><a class="tartan" href="/families/minnesota/"><img src="/variants/s9/dp4k2w3k2db30g9k4w20dy3~x2/sett.png" alt="Minnesota" width="140"><br><strong>Minnesota</strong></a></li>
+<li><a class="tartan" href="/families/minnesota/"><img src="/variants/s8/k6w3k2db30r9k4g20dy3~x2/sett.png" alt="Minnesota" width="140"><br><strong>Minnesota</strong></a></li>
 <li><a class="tartan" href="/families/minster/"><img src="/variants/s14/dr6db2dg3db3r2g18dr2db16dr18dbi3dr3dbi2dr2db6~x2~db1004274-dbi1406275/sett.png" alt="Minster" width="140"><br><strong>Minster</strong></a></li>
 <li><a class="tartan" href="/variants/s10/w102k3y3k3w3k12db14g12w3r3~x2/"><strong>Miss Emma Halford-MacLeod</strong></a></li>
 <li><a class="tartan" href="/families/mission/"><img src="/variants/s8/dy2lb14k1dg11k2r2g2k1~x4~dg1806142-g2203152/sett.png" alt="Mission" width="140"><br><strong>Mission</strong></a></li>
@@ -370,7 +370,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/murray-of-tullibardine/"><img src="/variants/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2g2r8g12r4db2r2k1/sett.png" alt="Murray of Tullibardine" width="140"><br><strong>Murray of Tullibardine</strong></a></li>
 <li><a class="tartan" href="/families/murtaugh/"><img src="/variants/s21/r4k4lo4y2lo2w2lo2y2lo2w2k4db3k2db24w2k2lo3k3w2r4k2~x2/sett.png" alt="Murtaugh" width="140"><br><strong>Murtaugh</strong></a></li>
 <li><a class="tartan" href="/families/muskoka/"><img src="/variants/s8/w2g5lb10g20ri1dy2r2dy1~x2~ri2109032-r1807033/sett.png" alt="Muskoka" width="140"><br><strong>Muskoka</strong></a></li>
-<li><a class="tartan" href="/families/musselburgh/"><img src="/variants/s9/lb14db1n3g1n3db1n4w24r1~x4/sett.png" alt="Musselburgh" width="140"><br><strong>Musselburgh</strong></a></li>
+<li><a class="tartan" href="/families/musselburgh/"><img src="/variants/s9/t14lb1t3lo2t3lb1t4db24dr3~x4~t2503227-lb3200000/sett.png" alt="Musselburgh" width="140"><br><strong>Musselburgh</strong></a></li>
 <li><a class="tartan" href="/variants/s16/ly2n1r19k2r8k3g9k3g6k2db6k1db5k2r27w1~x2/"><strong>Muzzi, Massimiliano Baron of Striche</strong></a></li>
 <li><a class="tartan" href="/variants/s10/r2lb3r1lb9k4lb13k33lb1k4r1~x2/"><strong>Myles, Lee</strong></a></li>
 <li><a class="tartan" href="/families/myron/"><img src="/variants/s17/k1g1dr1g1lo1g1lo1g4db1k1db1k1db1k1db1g7dr1~x4/sett.png" alt="Myron" width="140"><br><strong>Myron</strong></a></li>

@@ -1,6 +1,11 @@
 ---
 title: "PeachyKeen"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Peachy Keen"
+  url: "/tartans/p/pe/peachy-keen/"
 ---
 This is the **PeachyKeen** sett — one scale-free proportion (`r5g2r2g35lo20r2lo20r2`), colour order pattern
 [RGRGYRYR](/stripes/rgrgyryr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r3g3lo2r18w2g21lo2g2lo3~x2/"><circle cx="293.5" cy="179.9" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh</title></circle></a><a href="/variants/s7/r4g4lo4g12r22lo1g4~x4/"><circle cx="372.8" cy="190.7" r="4" fill="#3465a4"><title>Spice Apple</title></circle></a><a href="/variants/s8/g18lb3y1r2y1r3y1r10~x4/"><circle cx="327.9" cy="169.0" r="4" fill="#3465a4"><title>Brisbane (Artefact)</title></circle></a><a href="/variants/s11/g28lo18db4lo18ri3r2ri3r2ri3r2ri3~x2~ri2109032-r2109013/"><circle cx="236.4" cy="147.9" r="4" fill="#3465a4"><title>Commonwealth Games - 2014</title></circle></a><a href="/variants/s8/g18w3y1r2y1r3y1r10~x4/"><circle cx="308.2" cy="162.5" r="4" fill="#3465a4"><title>Brisbane (Artefact)</title></circle></a><a href="/variants/s9/r3g3y1r18w1g21y1g1y3~x2/"><circle cx="355.5" cy="152.6" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh Clan Tartan</title></circle></a><a href="/variants/s8/r3o14g8r2g2w2g2r1~x2/"><circle cx="300.7" cy="198.1" r="4" fill="#3465a4"><title>Scott, hunting</title></circle></a><a href="/variants/s5/r44db2g26r3db2/"><circle cx="367.5" cy="170.5" r="4" fill="#3465a4"><title>Unidentified Cant #09</title></circle></a><a href="/variants/s7/r1g14r1g1r14g1w1~x2/"><circle cx="370.2" cy="184.2" r="4" fill="#3465a4"><title>MacKintosh Fragment</title></circle></a><a href="/variants/s6/g5w2r27g27r5w2~x2/"><circle cx="338.4" cy="206.8" r="4" fill="#3465a4"><title>MacDonald of Glenaladale (symmetrical)</title></circle></a><circle cx="342.1" cy="190.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

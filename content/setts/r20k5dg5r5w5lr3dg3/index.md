@@ -1,6 +1,11 @@
 ---
 title: "Mangles, Peter and Annette Family/Personal Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Mangles, Peter and Annette Family/Personal"
+  url: "/tartans/m/ma/mangles-peter-and-annette-family-personal/"
 ---
 This is the **Mangles, Peter and Annette Family/Personal Tartan** sett — one scale-free proportion (`r20k5dg5r5w5lr3dg3`), colour order pattern
 [GYWRGKR](/stripes/gywrgkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r20k5dg5r5w5n3dg3~x4/"><circle cx="204.3" cy="173.6" r="4" fill="#3465a4"><title>Mangles, Peter and Annette (Personal</title></circle></a><a href="/variants/s7/r20k5g5r5w5n3g3~x4/"><circle cx="204.5" cy="175.7" r="4" fill="#3465a4"><title>Mangles, Peter and Annette (Personal)</title></circle></a><a href="/variants/s7/g6r2dp2g4dp2r12k1~x2/"><circle cx="257.3" cy="179.6" r="4" fill="#3465a4"><title>MacNab VS</title></circle></a><a href="/variants/s5/r6dg13k5r20w3~x2/"><circle cx="239.2" cy="219.0" r="4" fill="#3465a4"><title>Ryutokukan Junior High School</title></circle></a><a href="/variants/s10/k4w2db8w3r16k2r5y2r5w2~x2/"><circle cx="187.4" cy="150.6" r="4" fill="#3465a4"><title>Blaylock</title></circle></a><a href="/variants/s6/k6r20w2dr9w3lb2~x2/"><circle cx="187.0" cy="159.4" r="4" fill="#3465a4"><title>Thermos Un-named (aretefact)</title></circle></a><a href="/variants/s8/r7db2k2y1k2r2k1w1~x2/"><circle cx="175.5" cy="164.7" r="4" fill="#3465a4"><title>Royal Stuart/Stewart</title></circle></a><a href="/variants/s5/dg4lb4k2r15ly4~x4/"><circle cx="206.8" cy="191.1" r="4" fill="#3465a4"><title>Benedict (Personal)</title></circle></a><a href="/variants/s7/r3g16r4k6r28g2lo3~x2/"><circle cx="295.7" cy="153.3" r="4" fill="#3465a4"><title>McInally (Name)</title></circle></a><a href="/variants/s7/r22lb8k9g14r10lb2r10~x2/"><circle cx="233.0" cy="206.1" r="4" fill="#3465a4"><title>MacDuff #2</title></circle></a><circle cx="202.0" cy="172.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

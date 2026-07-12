@@ -1,6 +1,11 @@
 ---
 title: "Ensign of Ontario Canadian Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Ensign of Ontario"
+  url: "/tartans/e/en/ensign-of-ontario/"
 ---
 This is the **Ensign of Ontario Canadian Tartan** sett — one scale-free proportion (`g21k1r4k1dy21g3dy3g3dy21g3y4g21dy3g3dy3`), colour order pattern
 [GGGGGGGGGGGKRKG](/stripes/gggggggggggkrkg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/g24k1r5k1do20g4do4g4do21g4y5g24do4g4do4~x2/"><circle cx="295.9" cy="123.0" r="4" fill="#3465a4"><title>Ontario</title></circle></a><a href="/variants/s13/dg24g2dg4g16dg1k2dg1g16dg3y1dg12n2dg5~x2/"><circle cx="367.3" cy="135.8" r="4" fill="#3465a4"><title>O'Neill, Martin</title></circle></a><a href="/variants/s13/g24k1g2y2dg2w1dg12w1dg2w2dg2w1dg12~x2/"><circle cx="268.9" cy="101.2" r="4" fill="#3465a4"><title>Currie, of Balilone</title></circle></a><a href="/variants/s13/g24k1g2dy2dg2w1dg12w1dg2w2dg2w1dg12~x2/"><circle cx="268.7" cy="101.0" r="4" fill="#3465a4"><title>Currie of Balilone Family Tartan</title></circle></a><a href="/variants/s9/k2g7k1g9dy21n2dy1n1dy2~x2/"><circle cx="335.9" cy="144.2" r="4" fill="#3465a4"><title>Historic Scotland Corporate Tartan</title></circle></a><a href="/variants/s12/lb4dy1g1dr30g22k3g22dr30g1dy1lb4g2~x2/"><circle cx="289.9" cy="100.4" r="4" fill="#3465a4"><title>Connemarra Irish District Tartan</title></circle></a><a href="/variants/s14/dg39k2dg2k2dg2k3dt13k2lb4k2dt13k3dg24y3~x2~dg1703152-dt1602249-lb3500000/"><circle cx="343.4" cy="114.6" r="4" fill="#3465a4"><title>Proctor Name Tartan</title></circle></a><a href="/variants/s15/dr6k4dr8g16dr6lb2dr2g2dr2lb2dr6g18dp6g2dp1~x2/"><circle cx="222.2" cy="131.0" r="4" fill="#3465a4"><title>MacCall Family Tartan</title></circle></a><a href="/variants/s11/k3w1g29n8r2n2r2n2r8g7k2~x2/"><circle cx="289.9" cy="94.8" r="4" fill="#3465a4"><title>Gray Hunting Family Tartan</title></circle></a><a href="/variants/s9/dp3k1g16dr5g6dr5g14dr16lo2~x2/"><circle cx="279.3" cy="169.2" r="4" fill="#3465a4"><title>Fulton</title></circle></a><circle cx="292.7" cy="124.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

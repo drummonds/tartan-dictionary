@@ -1,6 +1,13 @@
 ---
 title: "Glen Tilt District Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Glen"
+  url: "/clan/glen/"
+- name: "Glen Tilt"
+  url: "/tartans/g/gl/glen-tilt/"
 ---
 This is the **Glen Tilt District Tartan** sett — one scale-free proportion (`w1r1g1r11db6r1g14r1g1w1`), colour order pattern
 [WGRGRBRGRW](/stripes/wgrgrbrgrw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w1dr1g1dr11lb6dr1g14dr1g1w1~x4/"><circle cx="269.5" cy="171.2" r="4" fill="#3465a4"><title>Glen Tilt #2</title></circle></a><a href="/variants/s9/g3r9lb1g9r1g1r8db9r1~x4/"><circle cx="238.7" cy="202.6" r="4" fill="#3465a4"><title>Baronage</title></circle></a><a href="/variants/s9/g12w1r1w4r1w1r8dy2r1~x4/"><circle cx="218.0" cy="169.6" r="4" fill="#3465a4"><title>Karibu (Corporate)</title></circle></a><a href="/variants/s8/r3dr14g8r2g2w2g2r1~x2/"><circle cx="242.1" cy="175.5" r="4" fill="#3465a4"><title>Scott Hunting Clan Tartan</title></circle></a><a href="/variants/s8/r30db3r2db3r6db14g26dg6~g2408144-dg1806142/"><circle cx="242.0" cy="179.6" r="4" fill="#3465a4"><title>Cranston Dress Family Tartan</title></circle></a><a href="/variants/s9/g20db2g2db2g2db8r24db2r3/"><circle cx="277.5" cy="183.7" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/variants/s9/g20db2g2db2g2db8r24db2r3~x2/"><circle cx="277.5" cy="183.7" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/variants/s9/g12w1r1w4r1w1r8y2r1~x4/"><circle cx="226.3" cy="172.7" r="4" fill="#3465a4"><title>Karibu</title></circle></a><a href="/variants/s10/g3r2db2r14t1db4r2g12r2db2~x8/"><circle cx="271.0" cy="168.1" r="4" fill="#3465a4"><title>MacKillop (Clan)</title></circle></a><a href="/variants/s10/db4r17db4g4db2g4db4g27db4ly4~x2/"><circle cx="263.8" cy="172.8" r="4" fill="#3465a4"><title>Cape Breton University</title></circle></a><circle cx="253.1" cy="153.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

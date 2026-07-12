@@ -1,6 +1,15 @@
 ---
 title: "Stewart/Stuart Mourning"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Stewart"
+  url: "/clan/stewart/"
+- name: "Stewart"
+  url: "/families/stewart/"
+- name: "Stewart Mourning"
+  url: "/tartans/s/st/stewart-mourning/"
 ---
 This is the **Stewart/Stuart Mourning** sett — one scale-free proportion (`k40n3k5n2k2n2k2n6k4w2k4`), colour order pattern
 [BKBKBKBKWKWKBKBKBKBK](/stripes/bkbkbkbkwkwkbkbkbkbk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k68n11k16n4k4n4k4n19k14w4k14/"><circle cx="416.0" cy="124.0" r="4" fill="#3465a4"><title>Stewart Mourning</title></circle></a><a href="/variants/s13/r2k25dy2k20n5k2n4k3n3k4n2k6y2~x2/"><circle cx="384.9" cy="109.6" r="4" fill="#3465a4"><title>Gold-Smith (Personal)</title></circle></a><a href="/variants/s11/k36w4k6w1k1w1k1w8k4w1k6~x2/"><circle cx="473.9" cy="84.5" r="4" fill="#3465a4"><title>Royal Stewart B &amp; W (Universal?)</title></circle></a><a href="/variants/s10/k27w2k2w2k2w2k2w2k4r5~x4/"><circle cx="392.4" cy="113.7" r="4" fill="#3465a4"><title>Reiver Check</title></circle></a><a href="/variants/s11/k8n2k2n2k14n2k2n1k14n26k2~x2/"><circle cx="355.4" cy="132.3" r="4" fill="#3465a4"><title>Grey Pride of Scotland (Fashion)</title></circle></a><a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1~x2/"><circle cx="377.1" cy="91.8" r="4" fill="#3465a4"><title>Clergy 5</title></circle></a><a href="/variants/s17/w1k5w1n4w1k26w1k10n5k2n5k10w1n4w1k5w1/"><circle cx="377.1" cy="91.8" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/"><circle cx="392.4" cy="128.5" r="4" fill="#3465a4"><title>Witches' Blood, The</title></circle></a><a href="/variants/s10/k40dp2k6t2k2t2k10dp4w2dp5~x2/"><circle cx="394.7" cy="76.0" r="4" fill="#3465a4"><title>Ironside (Personal)</title></circle></a><a href="/variants/s10/k3n6k8lb2k8n3k5n36k2n3~x2~n1900000/"><circle cx="374.8" cy="133.2" r="4" fill="#3465a4"><title>City Building (Glasgow) LLP</title></circle></a><circle cx="396.9" cy="78.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

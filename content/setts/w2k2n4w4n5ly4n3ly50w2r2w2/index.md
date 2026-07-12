@@ -1,6 +1,11 @@
 ---
 title: "Bourbon, Sebastien (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Bourbon, Sebastien"
+  url: "/tartans/b/bo/bourbon-sebastien/"
 ---
 This is the **Bourbon, Sebastien (Personal)** sett — one scale-free proportion (`w2k2n4w4n5ly4n3ly50w2r2w2`), colour order pattern
 [WKBWBYBYWRW](/stripes/wkbwbybywrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/ly144k9ly13lr9ly4k9ly4lb13lr13ly4lr13k4/"><circle cx="429.3" cy="64.9" r="4" fill="#3465a4"><title>London Fog Camel (Fashion)</title></circle></a><a href="/variants/s13/r4ly40n12o2n12ly30k2ly4k2ly4o2ly3k3~x2~n1900000-o2500000/"><circle cx="346.3" cy="94.6" r="4" fill="#3465a4"><title>Bartlett (Personal)</title></circle></a><a href="/variants/s9/n16w1n1k1n8ly4r2w2r2~x4/"><circle cx="369.3" cy="132.9" r="4" fill="#3465a4"><title>Middleton, City of</title></circle></a><a href="/variants/s13/r4ly40dt12y2dt12ly30k2ly4k2ly4y2ly3k3~x2~dt1500000-y2301120/"><circle cx="336.0" cy="91.2" r="4" fill="#3465a4"><title>Bartlett, Chris (Personal)</title></circle></a><circle cx="405.7" cy="79.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

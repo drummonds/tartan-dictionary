@@ -1,6 +1,15 @@
 ---
 title: "Kerr of Ardgowan Red (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Kerr"
+  url: "/clan/kerr/"
+- name: "Kerr of Ardgowan"
+  url: "/families/kerr-of-ardgowan/"
+- name: "Kerr of Ardgowan"
+  url: "/tartans/k/ke/kerr-of-ardgowan/"
 ---
 This is the **Kerr of Ardgowan Red (Personal)** sett — one scale-free proportion (`lo2y1r42g2r6lr1g1lr1lo4lb4g1y1lo1`), colour order pattern
 [YGGWYYGYRGRGY](/stripes/yggwyygyrgrgy/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r50y7o6g4k4g4o6y7r50db13~x2/"><circle cx="366.9" cy="119.7" r="4" fill="#3465a4"><title>Harding (Florida) (Personal)</title></circle></a><a href="/variants/s16/r46w1y3db1y3db1y3db1y3w1r46dp14r2w2g2dp14~x2/"><circle cx="437.9" cy="41.5" r="4" fill="#3465a4"><title>Firenze ~ Florence</title></circle></a><circle cx="518.9" cy="44.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

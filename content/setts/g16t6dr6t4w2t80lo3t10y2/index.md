@@ -1,6 +1,11 @@
 ---
 title: "Heart of Strathearn"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Heart of Strathearn"
+  url: "/tartans/h/he/heart-of-strathearn/"
 ---
 This is the **Heart of Strathearn** sett — one scale-free proportion (`g16t6dr6t4w2t80lo3t10y2`), colour order pattern
 [GBBBWBYBG](/stripes/gbbbwbybg/). It is recorded as **2 variants** — the same
@@ -23,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g16t6dr6t4w2t80lo3t10y2~w3600000/"><circle cx="611.9" cy="126.9" r="4" fill="#3465a4"><title>Heart of Strathearn</title></circle></a><a href="/variants/s8/t70y4t3y4t7k2t2r7~x2/"><circle cx="620.0" cy="117.4" r="4" fill="#3465a4"><title>European</title></circle></a><a href="/variants/s8/db32w1db1y2db1r1db4dg16~x4/"><circle cx="488.2" cy="133.0" r="4" fill="#3465a4"><title>Royal Agricultural Winter Fair</title></circle></a><a href="/variants/s10/t42w5t1w1ly9t1dg2w1t1r1~x4/"><circle cx="475.1" cy="84.2" r="4" fill="#3465a4"><title>Stratford, (Oregon) City of (Dist.)</title></circle></a><a href="/variants/s9/dbi7db5lr6db5r7db2dbi2db70lr2~dbi1406275-db1404245/"><circle cx="567.2" cy="113.4" r="4" fill="#3465a4"><title>United States Trade sett Tartan</title></circle></a><a href="/variants/s11/t79n2t10n5w2n5t10w2dg8g6w2~x2~g2004173/"><circle cx="610.1" cy="128.3" r="4" fill="#3465a4"><title>Dallas (Lochcarron) (Personal)</title></circle></a><a href="/variants/s10/db51t4db7o2db2g2db2dg10db13w2~x2~db1406275/"><circle cx="549.6" cy="110.6" r="4" fill="#3465a4"><title>Visit Scotland</title></circle></a><a href="/variants/s10/db51t4db7o2db2g2db2dg10db13w2~x2/"><circle cx="533.9" cy="107.7" r="4" fill="#3465a4"><title>Visit Scotland Corporate)</title></circle></a><a href="/variants/s11/t27w2t15ly1t1ly1t15k2w2g16r1~x2/"><circle cx="423.8" cy="118.0" r="4" fill="#3465a4"><title>Quigley of Knockcroghery Htg (Per.)</title></circle></a><a href="/variants/s8/dbi8w4db6dbi2db6n10db63w3~dbi1406275-db1404245/"><circle cx="564.9" cy="162.7" r="4" fill="#3465a4"><title>Pride of the Clyde</title></circle></a><circle cx="605.0" cy="124.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

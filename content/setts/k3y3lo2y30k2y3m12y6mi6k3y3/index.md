@@ -1,6 +1,15 @@
 ---
 title: "McAlifyfe (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan McAlifyfe"
+  url: "/clan/mcalifyfe/"
+- name: "McAlifyfe"
+  url: "/families/mcalifyfe/"
+- name: "McAlifyfe"
+  url: "/tartans/m/mc/mcalifyfe/"
 ---
 This is the **McAlifyfe (Personal)** sett — one scale-free proportion (`k3y3lo2y30k2y3m12y6mi6k3y3`), colour order pattern
 [GKRGRGKGYGK](/stripes/gkrgrgkgygk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/n19do2k3o1k1w1k1do6n3k1n6~x4/"><circle cx="346.6" cy="107.3" r="4" fill="#3465a4"><title>Glen Clova #1</title></circle></a><a href="/variants/s12/k1dr14g1dr1g6lbi2g6dr1g1dr14k1lb1~x4~lbi3200000-lb3103284/"><circle cx="325.7" cy="122.8" r="4" fill="#3465a4"><title>MacMaster Clan/Family Tartan</title></circle></a><a href="/variants/s9/n16w1n1k1n8ly4r2w2r2~x4/"><circle cx="369.3" cy="132.9" r="4" fill="#3465a4"><title>Middleton, City of</title></circle></a><a href="/variants/s12/k2lr1dr2g6dr2db4dr2k2dr15g2dr2k1~x4/"><circle cx="273.3" cy="119.8" r="4" fill="#3465a4"><title>MacClure Clan/Family Tartan</title></circle></a><a href="/variants/s12/db8o27y2r3y2o27db22k2db4k2db4k4~x2/"><circle cx="260.3" cy="129.2" r="4" fill="#3465a4"><title>Falkirk</title></circle></a><a href="/variants/s7/lbi2g6dr1g1dr14k1lb1~x4~lbi3200000-lb3103284/"><circle cx="304.0" cy="138.8" r="4" fill="#3465a4"><title>MacMaster (USA) #1</title></circle></a><a href="/variants/s10/o28k2o28k2o2k2do29k2r2k2~x2/"><circle cx="345.3" cy="136.8" r="4" fill="#3465a4"><title>Ulster</title></circle></a><a href="/variants/s10/o24lb2o4n2k6lb2o14k3lb4n8~x2/"><circle cx="304.2" cy="155.4" r="4" fill="#3465a4"><title>Dobrain (Personal)</title></circle></a><a href="/variants/s9/g3n5k4n33g12k4w2n18ly3~x2/"><circle cx="358.4" cy="141.2" r="4" fill="#3465a4"><title>Smoke Showing (UFES)</title></circle></a><a href="/variants/s10/y28k2y28k2y2k2dy29k2r2k2~x2/"><circle cx="340.6" cy="140.6" r="4" fill="#3465a4"><title>Ulster (Peat) (District</title></circle></a><circle cx="326.0" cy="122.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,13 @@
 ---
 title: "First Special Services Forces (Mil)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan First"
+  url: "/clan/first/"
+- name: "First Special Services Forces"
+  url: "/tartans/f/fi/first-special-services-forces/"
 ---
 This is the **First Special Services Forces (Mil)** sett — one scale-free proportion (`r4k9r3y3r18k4r2w2r2k36r24db4r3`), colour order pattern
 [RBRKRWRKRGRKR](/stripes/rbrkrwrkrgrkr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r8k14r6y6r34k10r6w6r6k64r44db9r6/"><circle cx="216.7" cy="111.4" r="4" fill="#3465a4"><title>First Special Service Force</title></circle></a><a href="/variants/s13/r8k14r6ly6r34k10r6w6r6k64r44db9r6/"><circle cx="214.9" cy="111.0" r="4" fill="#3465a4"><title>First Special Service Force</title></circle></a><a href="/variants/s10/r16db1r1dy1r4k18w1k1w1k1~x4/"><circle cx="242.4" cy="83.1" r="4" fill="#3465a4"><title>Regimbal, Leonel–Jean (Personal)</title></circle></a><a href="/variants/s9/r60ly4k22g5k25lb8k4r4k4~x2/"><circle cx="218.7" cy="106.9" r="4" fill="#3465a4"><title>State Seal of Alabama (Fashion)</title></circle></a><a href="/variants/s10/dy4k30r30k2r2dy2k2r5w5g2~x2/"><circle cx="204.1" cy="96.3" r="4" fill="#3465a4"><title>Haileybury</title></circle></a><a href="/variants/s17/g2r20k2r2g3r2k18r3w1g3r20k2r2k18r2g2y1~x2/"><circle cx="228.8" cy="70.9" r="4" fill="#3465a4"><title>Unidentified Scarlett #8</title></circle></a><a href="/variants/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/"><circle cx="233.1" cy="75.5" r="4" fill="#3465a4"><title>MacKeever (Personal)</title></circle></a><a href="/variants/s19/ly2r3k2r6k10w4k10b3r7k3r35b3k10w4k10r5k2r3ly2~x2/"><circle cx="197.8" cy="74.0" r="4" fill="#3465a4"><title>Cornish Brewery, Red</title></circle></a><a href="/variants/s12/r2y1k2r13k2r2k2r2k12r2y1g2~x2/"><circle cx="241.3" cy="118.2" r="4" fill="#3465a4"><title>Hallingdal District Tartan</title></circle></a><a href="/variants/s14/k10y3k28r28ly1k3ly1r10k1y3k1r28k28ly3~x2~y2400000-ly3307090/"><circle cx="258.0" cy="86.3" r="4" fill="#3465a4"><title>Unknown U.S. kilt</title></circle></a><circle cx="239.5" cy="85.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Hastings-Stephenson (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Hastings-Stephenson"
+  url: "/tartans/h/ha/hastings-stephenson/"
 ---
 This is the **Hastings-Stephenson (Personal)** sett — one scale-free proportion (`g44db11g5t3g4db8g4w1`), colour order pattern
 [GBGBGBGW](/stripes/gbgbgbgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g2db2g6db4g3db4g18ly2~x4/"><circle cx="454.0" cy="235.8" r="4" fill="#3465a4"><title>Crow (Name)</title></circle></a><a href="/variants/s8/dg18dr6dg75b6dg13ly35dg12b6/"><circle cx="408.3" cy="191.3" r="4" fill="#3465a4"><title>Glenlivet Check (Corporate)</title></circle></a><a href="/variants/s8/g18r6g75db6g13dy35g12db6/"><circle cx="436.5" cy="198.5" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><a href="/variants/s11/g5w1g32db1g8db9g2w2r3db3w1~x2/"><circle cx="443.4" cy="118.7" r="4" fill="#3465a4"><title>Portosalvo</title></circle></a><a href="/variants/s11/g5w1g32b1g8b9g2w2r3b3w1~x2/"><circle cx="476.4" cy="130.2" r="4" fill="#3465a4"><title>Portosalvo (Corporate)</title></circle></a><a href="/variants/s10/g33db2g33r2db12r12g4r2g4w3~x2/"><circle cx="407.7" cy="162.2" r="4" fill="#3465a4"><title>Island Weavers (Corporate)</title></circle></a><a href="/variants/s10/g3dbi1g2r1g3db3g2db2g18dbi2~x2~dbi1404245-db1003246/"><circle cx="499.2" cy="159.9" r="4" fill="#3465a4"><title>Owen Welsh Name Tartan</title></circle></a><a href="/variants/s10/g3db1g2dbi1g3r3g2r2g18db2~x2~dbi1003246-r2109032/"><circle cx="491.4" cy="154.1" r="4" fill="#3465a4"><title>Owen (Welsh Name)</title></circle></a><a href="/variants/s6/g30db8g5lb4g5r1~x4/"><circle cx="500.3" cy="168.0" r="4" fill="#3465a4"><title>Annapolis Valley</title></circle></a><a href="/variants/s6/r4dp12g2dp2g46w1~x2/"><circle cx="495.9" cy="127.7" r="4" fill="#3465a4"><title>Kinfauns Castle (Corporate)</title></circle></a><circle cx="483.7" cy="135.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

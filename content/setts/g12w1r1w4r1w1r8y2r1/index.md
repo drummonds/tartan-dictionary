@@ -1,6 +1,11 @@
 ---
 title: "Karibu"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Karibu"
+  url: "/tartans/k/ka/karibu/"
 ---
 This is the **Karibu** sett — one scale-free proportion (`g12w1r1w4r1w1r8y2r1`), colour order pattern
 [GWRWRWRGR](/stripes/gwrwrwrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g12w1r1w4r1w1r8dy2r1~x4/"><circle cx="218.0" cy="169.6" r="4" fill="#3465a4"><title>Karibu (Corporate)</title></circle></a><a href="/variants/s10/do2w20r2w2do3w3y3r8y26w2~x2/"><circle cx="236.1" cy="158.2" r="4" fill="#3465a4"><title>Liama, The</title></circle></a><a href="/variants/s11/g14r1g14r7w1r7w1r7db5dp3w1~x4/"><circle cx="233.0" cy="163.8" r="4" fill="#3465a4"><title>Hynde Artifact Tartan</title></circle></a><a href="/variants/s8/do4r3do21r2w14ly22r3ly4~x2/"><circle cx="176.7" cy="190.7" r="4" fill="#3465a4"><title>Bannock Bane M.405</title></circle></a><a href="/variants/s10/w1r1g1r11db6r1g14r1g1w1~x4/"><circle cx="253.1" cy="153.0" r="4" fill="#3465a4"><title>Glen Tilt District Tartan</title></circle></a><a href="/variants/s10/dy2w19r2w2dy3w3dy3r6ly25w2~x2/"><circle cx="225.9" cy="162.6" r="4" fill="#3465a4"><title>Llama (Fashion)</title></circle></a><a href="/variants/s11/o35w4o3y7o3w4o7do15n4w36n5~x2/"><circle cx="191.3" cy="149.3" r="4" fill="#3465a4"><title>MacKellar, dress</title></circle></a><a href="/variants/s9/r3g3lo2r18w2g21lo2g2lo3~x2/"><circle cx="293.5" cy="179.9" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh</title></circle></a><a href="/variants/s12/w2g2r3g2r3g2r3g2r2g3lb13r1~x4/"><circle cx="212.7" cy="174.1" r="4" fill="#3465a4"><title>Princess Marina (Fashion)</title></circle></a><a href="/variants/s12/g6y5w1g2w1g5w1g2w1r15db2w1~x2/"><circle cx="204.7" cy="144.7" r="4" fill="#3465a4"><title>Dunblane District Tartan</title></circle></a><circle cx="226.3" cy="172.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

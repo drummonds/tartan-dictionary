@@ -1,6 +1,15 @@
 ---
 title: "MacLaurin of Broich (Clan)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacLaurin"
+  url: "/clan/maclaurin/"
+- name: "MacLaurin of Broich"
+  url: "/families/maclaurin-of-broich/"
+- name: "MacLaurin of Broich"
+  url: "/tartans/m/ma/maclaurin-of-broich/"
 ---
 This is the **MacLaurin of Broich (Clan)** sett — one scale-free proportion (`db36k8g3dr3g6k1lo2`), colour order pattern
 [BKGBGKY](/stripes/bkgbgky/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db36k10g3r3g6k1y2~x2/"><circle cx="333.1" cy="98.2" r="4" fill="#3465a4"><title>MacLaurin of Brioch</title></circle></a><a href="/variants/s11/db50k14g3dr2g3dr2g3dr2g3k2lo2~x2/"><circle cx="327.0" cy="76.5" r="4" fill="#3465a4"><title>Minnock (Name)</title></circle></a><a href="/variants/s7/db6dp3db56k24g6r6g6/"><circle cx="306.7" cy="131.6" r="4" fill="#3465a4"><title>Wcwm 9275-1395</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="299.1" cy="111.7" r="4" fill="#3465a4"><title>MacBeth (Fashion)</title></circle></a><a href="/variants/s6/db72k21g16lb3g17lb3~x2/"><circle cx="299.2" cy="150.0" r="4" fill="#3465a4"><title>MacRobart</title></circle></a><a href="/variants/s9/lb3k6w2k6db2k2db32k2n1~x2/"><circle cx="341.0" cy="79.6" r="4" fill="#3465a4"><title>Nocken Blue Modern Tartan (Personal)</title></circle></a><a href="/variants/s7/k8ly2dp6ly2k36db84w7/"><circle cx="337.2" cy="88.2" r="4" fill="#3465a4"><title>Grahame Laurie Band (Corporate)</title></circle></a><a href="/variants/s6/r2db61k13w2n20ly2~x2/"><circle cx="341.5" cy="104.6" r="4" fill="#3465a4"><title>Lloyd of Astargus</title></circle></a><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/"><circle cx="337.4" cy="120.0" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen' (Personal)</title></circle></a><a href="/variants/s7/db20dy1db1dy1dg8k1w3~x2/"><circle cx="330.3" cy="124.1" r="4" fill="#3465a4"><title>Chestico</title></circle></a><circle cx="349.5" cy="97.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

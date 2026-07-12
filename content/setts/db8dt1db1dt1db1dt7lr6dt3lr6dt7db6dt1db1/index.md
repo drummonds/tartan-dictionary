@@ -1,6 +1,11 @@
 ---
 title: "Hebron"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Hebron"
+  url: "/tartans/h/he/hebron/"
 ---
 This is the **Hebron** sett — one scale-free proportion (`db8dt1db1dt1db1dt7lr6dt3lr6dt7db6dt1db1`), colour order pattern
 [BBBBBBYBYBBBB](/stripes/bbbbbbybybbbb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/n11dt2n2dt2n2dt12lb12dt2lb12dt12n11dt2n2~x2/"><circle cx="256.6" cy="262.9" r="4" fill="#3465a4"><title>Scottish Scouts (1922) (Corporate)</title></circle></a><a href="/variants/s13/db21g2db3g2db2g14dy15g4dy15g14db14g2db3~x2/"><circle cx="277.3" cy="233.1" r="4" fill="#3465a4"><title>Montmorency Family Tartan</title></circle></a><a href="/variants/s13/lb16db2lb2db2lb2db16dbi16ly3dbi16db16lb16db2lb2~x2~db1204274-dbi1406275/"><circle cx="218.6" cy="225.9" r="4" fill="#3465a4"><title>Adair (Name)</title></circle></a><a href="/variants/s8/db2lb2db7dr8lb10db2lb2db2~x2/"><circle cx="241.7" cy="276.9" r="4" fill="#3465a4"><title>Laval Dress, Tartan de</title></circle></a><a href="/variants/s13/lg1dt9lg1db1lg1db5lg1db1lg1db9lg2dt2lg1~x4/"><circle cx="302.2" cy="218.2" r="4" fill="#3465a4"><title>Caledonian Airways (Corporate)</title></circle></a><a href="/variants/s13/n12dt2n2dt2n2dt10w12dt3w12dt10n12dt2n2~x2/"><circle cx="210.1" cy="253.3" r="4" fill="#3465a4"><title>Grey Watch Dress (1989)</title></circle></a><a href="/variants/s13/t25db4t4db4t4db23lb23lr4lb23db23t23db4t4~x2/"><circle cx="223.3" cy="248.9" r="4" fill="#3465a4"><title>Poulter, Blue (Corprate)</title></circle></a><a href="/variants/s11/ly2db10dr3ly2w3ly2db3dr3db3w3ly2~x4/"><circle cx="191.0" cy="250.8" r="4" fill="#3465a4"><title>Unidentified #55</title></circle></a><a href="/variants/s8/n12dt2n2dt2n2dt10w12dt3~x2~n1900000-dt0900000/"><circle cx="227.3" cy="260.7" r="4" fill="#3465a4"><title>Grey Watch Dress (Fashion)</title></circle></a><a href="/variants/s12/dr6n4dr6n11db1n3db3n1db11ly6db4ly6~x4/"><circle cx="194.9" cy="241.0" r="4" fill="#3465a4"><title>Lysaght</title></circle></a><circle cx="259.7" cy="244.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

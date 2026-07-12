@@ -1,6 +1,13 @@
 ---
 title: "Bannockbane Orange Stripes"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Bannockbane"
+  url: "/clan/bannockbane/"
+- name: "Bannockbane Orange Stripes"
+  url: "/tartans/b/ba/bannockbane-orange-stripes/"
 ---
 This is the **Bannockbane Orange Stripes** sett — one scale-free proportion (`do2lo2do15lo1w10ly15lo2ly2`), colour order pattern
 [BYBYWYYY](/stripes/bybywyyy/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/do4r3do21r2w14ly22r3ly4~x2/"><circle cx="176.7" cy="190.7" r="4" fill="#3465a4"><title>Bannock Bane M.405</title></circle></a><a href="/variants/s7/do5lo4do26ly26do4ly3w5~x2/"><circle cx="295.1" cy="227.0" r="4" fill="#3465a4"><title>Elgin District Tartan</title></circle></a><a href="/variants/s8/w24lo8do2lo8do2lo8dy15g2~x2/"><circle cx="176.8" cy="191.6" r="4" fill="#3465a4"><title>Unidentified from Winnipeg</title></circle></a><a href="/variants/s8/ly22do2ly2do2ly2do15w17do3~x2/"><circle cx="270.3" cy="227.5" r="4" fill="#3465a4"><title>Turnberry Manx Snaefell Family Tartan</title></circle></a><a href="/variants/s7/n2w1ly17n14w15n2w2~x2/"><circle cx="298.4" cy="238.5" r="4" fill="#3465a4"><title>North American Sheep Breeders Association</title></circle></a><a href="/variants/s8/ly22dy2ly2dy2ly2dy14lr16dy3~x2/"><circle cx="272.6" cy="216.4" r="4" fill="#3465a4"><title>Snaefell (District)</title></circle></a><a href="/variants/s8/ly24dy3ly3dy3ly3dy20w22dy4~x2~dy1603076/"><circle cx="238.4" cy="237.2" r="4" fill="#3465a4"><title>Baillie Dress</title></circle></a><circle cx="233.0" cy="206.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

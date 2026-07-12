@@ -1,6 +1,13 @@
 ---
 title: "Brown Heather (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Brown"
+  url: "/clan/brown/"
+- name: "Brown Heather"
+  url: "/tartans/b/br/brown-heather/"
 ---
 This is the **Brown Heather (Fashion)** sett — one scale-free proportion (`do1dy6do6dy1n6dy1`), colour order pattern
 [BGBGBG](/stripes/bgbgbg/). It is recorded as a single **variant**, below.

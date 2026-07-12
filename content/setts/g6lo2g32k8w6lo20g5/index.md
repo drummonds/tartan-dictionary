@@ -1,6 +1,15 @@
 ---
 title: "Pollock (Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Pollock"
+  url: "/clan/pollock/"
+- name: "Pollock"
+  url: "/families/pollock/"
+- name: "Pollock"
+  url: "/tartans/p/po/pollock-2/"
 ---
 This is the **Pollock (Name)** sett — one scale-free proportion (`g6lo2g32k8w6lo20g5`), colour order pattern
 [GYGKWYG](/stripes/gygkwyg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g3lo16w4k6g28lo1g3~x4/"><circle cx="293.9" cy="138.6" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/variants/s7/g5k2g28k10o26db4g4~x2/"><circle cx="234.8" cy="177.3" r="4" fill="#3465a4"><title>John Telfar, Dunbar hunting</title></circle></a><a href="/variants/s8/w6g5r5g45k4o24k4g5~x2/"><circle cx="264.2" cy="150.2" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><a href="/variants/s6/w12k3g50w3k13ly6~x2/"><circle cx="270.7" cy="154.1" r="4" fill="#3465a4"><title>Limerick County Crest (Fashion)</title></circle></a><a href="/variants/s7/g3r16w4k6g28r1g3~x2/"><circle cx="296.2" cy="133.8" r="4" fill="#3465a4"><title>Pollock Clan Tartan</title></circle></a><a href="/variants/s8/w6g5r5g45k4ly24k4g5~x2/"><circle cx="251.1" cy="149.9" r="4" fill="#3465a4"><title>O'Neill (Name)</title></circle></a><a href="/variants/s10/ly15n1ly2lo2ly2n1ly3k8n10ly3~x4/"><circle cx="239.3" cy="148.0" r="4" fill="#3465a4"><title>Annan Trade Tartan</title></circle></a><a href="/variants/s6/w12k3g50w3k13dy6~x2/"><circle cx="271.6" cy="153.9" r="4" fill="#3465a4"><title>Limerick County, Crest Range</title></circle></a><a href="/variants/s6/y70k30w3g30k3y10/"><circle cx="286.2" cy="154.1" r="4" fill="#3465a4"><title>Jacobite #2</title></circle></a><a href="/variants/s12/g7k3g53k3g8k3dr24g8ly18k3ly18k3~x2/"><circle cx="235.7" cy="130.4" r="4" fill="#3465a4"><title>MacMillan - 1847 (Clan)</title></circle></a><circle cx="257.4" cy="170.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

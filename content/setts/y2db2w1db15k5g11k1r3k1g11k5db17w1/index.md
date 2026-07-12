@@ -1,6 +1,11 @@
 ---
 title: "Sacramento City Fire Department (P&D"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Sacramento City Fire Department (P&D"
+  url: "/tartans/s/sa/sacramento-city-fire-department-p-d/"
 ---
 This is the **Sacramento City Fire Department (P&D** sett — one scale-free proportion (`y2db2w1db15k5g11k1r3k1g11k5db17w1`), colour order pattern
 [GBWBKGKRKGKBW](/stripes/gbwbkgkrkgkbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db5r2y7r2db42g28k5db10k15g5w3r3/"><circle cx="181.9" cy="95.7" r="4" fill="#3465a4"><title>Héritage Séquane</title></circle></a><a href="/variants/s12/db37r3k17r3g22k4g22r3k17r3db37w3~x2/"><circle cx="140.6" cy="128.4" r="4" fill="#3465a4"><title>Souza Nery (Personal)</title></circle></a><a href="/variants/s12/db5r2ly7r2db42g28k5db10k15g5w3r3/"><circle cx="174.6" cy="93.5" r="4" fill="#3465a4"><title>Heritage Sequane</title></circle></a><a href="/variants/s11/db4y2db24k2db5r3k14g14w3r3db3~x2/"><circle cx="157.6" cy="123.1" r="4" fill="#3465a4"><title>Czech National (District)</title></circle></a><a href="/variants/s12/db33r8k12y2k4w4k4g12db8k4db4w2~x2/"><circle cx="162.1" cy="102.9" r="4" fill="#3465a4"><title>MacLulich Clan Tartan</title></circle></a><a href="/variants/s12/db33r8k12dy2k4w4k4g12db8k4db4w2~x2/"><circle cx="163.1" cy="103.1" r="4" fill="#3465a4"><title>MacLulich</title></circle></a><a href="/variants/s11/k7db20lb2r6lb2k20y3g20db27r3db6~x2/"><circle cx="156.8" cy="133.8" r="4" fill="#3465a4"><title>Stinson Ancient U.S.A. Tartan</title></circle></a><a href="/variants/s12/db17dp4db2k11g33y4g33k11db2dp4db17lb6~x2/"><circle cx="164.8" cy="124.1" r="4" fill="#3465a4"><title>East Lothian (Fashion) Fashion Tartan</title></circle></a><a href="/variants/s12/r4dg2y2dg24k2dg3k3dg3k10b10w2b4~x2/"><circle cx="172.7" cy="117.9" r="4" fill="#3465a4"><title>Kerby, from the Tennessee Cumberland Basin</title></circle></a><a href="/variants/s12/t33db3t7db3t33r2k22g3dbi49g3k22r2~x2~db1106275-dbi1406275/"><circle cx="167.8" cy="97.5" r="4" fill="#3465a4"><title>U.S. 2001 Air Force</title></circle></a><circle cx="166.2" cy="108.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

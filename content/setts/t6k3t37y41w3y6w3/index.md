@@ -1,6 +1,15 @@
 ---
 title: "Tilburg Hunting (District)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Tilburg"
+  url: "/clan/tilburg/"
+- name: "Tilburg"
+  url: "/families/tilburg/"
+- name: "Tilburg Hunting"
+  url: "/tartans/t/ti/tilburg-hunting/"
 ---
 This is the **Tilburg Hunting (District)** sett — one scale-free proportion (`t6k3t37y41w3y6w3`), colour order pattern
 [BKBGWGW](/stripes/bkbgwgw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lp4dy2dp4dy35t27r3~x2/"><circle cx="319.7" cy="174.9" r="4" fill="#3465a4"><title>Deeside, Royal</title></circle></a><a href="/variants/s6/dy15r5dy30t32dy4lo3~x2/"><circle cx="343.0" cy="223.7" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/variants/s8/lb32o3lb3o3lb3o10g24dr3~x2/"><circle cx="296.4" cy="199.6" r="4" fill="#3465a4"><title>Gammell (Personal)</title></circle></a><a href="/variants/s9/lo2n28k2w2k2t26n3t5lo2~x2/"><circle cx="294.8" cy="155.4" r="4" fill="#3465a4"><title>Clyde (WCWM Fashion)</title></circle></a><a href="/variants/s8/r3g1k1g12t12k1t1k1~x4/"><circle cx="238.9" cy="171.1" r="4" fill="#3465a4"><title>Peter of Lee (Personal)</title></circle></a><a href="/variants/s8/dy4g3r2g36t30k3t3k3~x2/"><circle cx="290.5" cy="148.6" r="4" fill="#3465a4"><title>Chartered Accountants of Scotland</title></circle></a><a href="/variants/s8/k1t1k1t12g12k1g1ly1~x4~t2105244/"><circle cx="266.9" cy="167.3" r="4" fill="#3465a4"><title>Banff Centennial</title></circle></a><a href="/variants/s8/r4k2g36k2t18y3t18k2~x2/"><circle cx="266.5" cy="156.9" r="4" fill="#3465a4"><title>Fox Hunting</title></circle></a><a href="/variants/s8/w3lb3k3lb21g49lb21k3lb3~x2~g2203152/"><circle cx="298.1" cy="161.6" r="4" fill="#3465a4"><title>Irvine of Drum</title></circle></a><a href="/variants/s7/r2w2y27g14y2db14y2~x2/"><circle cx="288.1" cy="184.3" r="4" fill="#3465a4"><title>Fraser Yellow Tartan</title></circle></a><circle cx="331.7" cy="186.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

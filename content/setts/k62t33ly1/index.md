@@ -1,6 +1,15 @@
 ---
 title: "Westwater (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Westwater"
+  url: "/clan/westwater/"
+- name: "Westwater"
+  url: "/families/westwater/"
+- name: "Westwater"
+  url: "/tartans/w/we/westwater/"
 ---
 This is the **Westwater (Personal)** sett — one scale-free proportion (`k62t33ly1`), colour order pattern
 [KBY](/stripes/kby/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/k62b33y1~x2/"><circle cx="401.7" cy="172.0" r="4" fill="#3465a4"><title>Westwater (Edinburgh, 2012)</title></circle></a><a href="/variants/s3/db40k32w1~x2/"><circle cx="394.8" cy="209.1" r="4" fill="#3465a4"><title>Shirra (2013)</title></circle></a><a href="/variants/s4/k62db15w6y4~x2/"><circle cx="385.0" cy="164.4" r="4" fill="#3465a4"><title>C-Tec N.I. Ltd</title></circle></a><a href="/variants/s4/r3lb12k50ly3~x2/"><circle cx="399.5" cy="155.9" r="4" fill="#3465a4"><title>Rogues, The (Corporate)</title></circle></a><a href="/variants/s4/r3db12k50y3~x2/"><circle cx="444.1" cy="166.4" r="4" fill="#3465a4"><title>Rogues (United States), The</title></circle></a><a href="/variants/s4/dr1k20lb5dr1~x4/"><circle cx="431.5" cy="161.5" r="4" fill="#3465a4"><title>Dobelman (Personal)</title></circle></a><a href="/variants/s4/r4db32k15w2~x2/"><circle cx="330.3" cy="186.6" r="4" fill="#3465a4"><title>Scottish Nuclear</title></circle></a><a href="/variants/s4/r5db26k12w2~x4/"><circle cx="294.2" cy="198.6" r="4" fill="#3465a4"><title>Mirror (Corporate)</title></circle></a><a href="/variants/s4/db16k6g8y1~x2/"><circle cx="261.1" cy="212.0" r="4" fill="#3465a4"><title>Sinclair, Sir John</title></circle></a><a href="/variants/s4/k41lg16dg14w2~x2~lg2704216-w3600000/"><circle cx="278.1" cy="187.1" r="4" fill="#3465a4"><title>Hamworthy Association</title></circle></a><circle cx="400.3" cy="175.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

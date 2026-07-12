@@ -1,6 +1,11 @@
 ---
 title: "Milton"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Milton"
+  url: "/tartans/m/mi/milton/"
 ---
 This is the **Milton** sett — one scale-free proportion (`g8r3g4k6g9dp2`), colour order pattern
 [BGKGRG](/stripes/bgkgrg/). It is recorded as **2 variants** — the same
@@ -23,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g8r3g4k6g9dp2~x4/"><circle cx="252.9" cy="262.0" r="4" fill="#3465a4"><title>Milton (Name?)</title></circle></a><a href="/variants/s5/g7db1g2k3g2~x4/"><circle cx="366.3" cy="243.8" r="4" fill="#3465a4"><title>Peterhead</title></circle></a><a href="/variants/s5/g9lb1g2k4g2~x4/"><circle cx="369.2" cy="223.5" r="4" fill="#3465a4"><title>Peterhead (Personal)</title></circle></a><a href="/variants/s7/dr3g20k20g20lo2g2lo2~x2/"><circle cx="277.2" cy="183.3" r="4" fill="#3465a4"><title>Paton (Personal)</title></circle></a><a href="/variants/s7/r3g24k28g19y3g3y3~x2/"><circle cx="247.7" cy="186.2" r="4" fill="#3465a4"><title>Paton Family Tartan</title></circle></a><a href="/variants/s7/r20g29db10g16r6g10k19~x2/"><circle cx="154.6" cy="253.3" r="4" fill="#3465a4"><title>MacDonagh</title></circle></a><a href="/variants/s6/g3db8g3k4g15r2~x2/"><circle cx="269.4" cy="215.9" r="4" fill="#3465a4"><title>Lauder (Family)</title></circle></a><a href="/variants/s7/g24r4g3k14g5r2g10~x2/"><circle cx="341.1" cy="195.0" r="4" fill="#3465a4"><title>Northcroft (Personal)</title></circle></a><a href="/variants/s4/g16k11g16dr2~x4/"><circle cx="343.6" cy="267.8" r="4" fill="#3465a4"><title>Kincaid of Kincaid</title></circle></a><a href="/variants/s7/r35g52db18g17r12g17k18/"><circle cx="176.8" cy="248.3" r="4" fill="#3465a4"><title>MacDona Family Tartan</title></circle></a><circle cx="252.9" cy="262.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

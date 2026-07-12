@@ -1,6 +1,15 @@
 ---
 title: "Hose (Dunmore)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hose"
+  url: "/clan/hose/"
+- name: "Hose"
+  url: "/families/hose/"
+- name: "Hose"
+  url: "/tartans/h/ho/hose-2/"
 ---
 This is the **Hose (Dunmore)** sett — one scale-free proportion (`r13k1w13`), colour order pattern
 [RKW](/stripes/rkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/w37k2r36~x2/"><circle cx="302.4" cy="219.9" r="4" fill="#3465a4"><title>Hose</title></circle></a><a href="/variants/s3/r35w94k6/"><circle cx="390.5" cy="209.3" r="4" fill="#3465a4"><title>St Georges Check</title></circle></a><a href="/variants/s4/r25k13w8db5~x2/"><circle cx="169.4" cy="240.0" r="4" fill="#3465a4"><title>Hamby Sport (Personal)</title></circle></a><a href="/variants/s4/k5w37r37w5~x2/"><circle cx="271.6" cy="236.8" r="4" fill="#3465a4"><title>MacRae of Conchra #2</title></circle></a><a href="/variants/s5/k3r28k10w28lb3~x2/"><circle cx="161.3" cy="193.0" r="4" fill="#3465a4"><title>Wallace Dress, Red (Dance)</title></circle></a><a href="/variants/s4/n25k4w8r16~x4/"><circle cx="203.1" cy="248.7" r="4" fill="#3465a4"><title>Buckeye</title></circle></a><a href="/variants/s3/r24dp16w3~x4/"><circle cx="350.6" cy="275.2" r="4" fill="#3465a4"><title>National Autistic Society Scotland</title></circle></a><a href="/variants/s3/w9r20db2~x2/"><circle cx="383.0" cy="248.4" r="4" fill="#3465a4"><title>Masai Shuka 28 (Artefact)</title></circle></a><a href="/variants/s4/r80lb40k5lo6/"><circle cx="372.9" cy="183.4" r="4" fill="#3465a4"><title>Broberg (Scania) (Personal)</title></circle></a><a href="/variants/s4/r125k26lb20lo16/"><circle cx="341.8" cy="189.4" r="4" fill="#3465a4"><title>McPeek (Fashion)</title></circle></a><circle cx="280.1" cy="234.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

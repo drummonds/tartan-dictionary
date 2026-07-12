@@ -1,6 +1,15 @@
 ---
 title: "Delmarva (District)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Delmarva"
+  url: "/clan/delmarva/"
+- name: "Delmarva"
+  url: "/families/delmarva/"
+- name: "Delmarva"
+  url: "/tartans/d/de/delmarva/"
 ---
 This is the **Delmarva (District)** sett — one scale-free proportion (`n8r2n2lb1n1lb1n1lb1n2r2n6o1n12o1n6lb1n1ly4n1lb1n2r3n3lb1n1ly2n1lb1n8`), colour order pattern
 [BRBWBWBWBRBRBRBWBYBWBRBWBYBWB](/stripes/brbwbwbwbrbrbrbwbybwbrbwbybwb/). It is recorded as a single **variant**, below.

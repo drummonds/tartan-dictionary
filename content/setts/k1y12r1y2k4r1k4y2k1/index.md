@@ -1,6 +1,15 @@
 ---
 title: "MacLeod (Snuffbox)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacLeod"
+  url: "/clan/macleod/"
+- name: "MacLeod"
+  url: "/families/macleod/"
+- name: "MacLeod"
+  url: "/tartans/m/ma/macleod-3/"
 ---
 This is the **MacLeod (Snuffbox)** sett — one scale-free proportion (`k1y12r1y2k4r1k4y2k1`), colour order pattern
 [KGKRKGRGK](/stripes/kgkrkgrgk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k1ly12r1ly2k4r1k4ly2k1~x4/"><circle cx="275.0" cy="150.9" r="4" fill="#3465a4"><title>MacLeod Snuffbox - 1829 (Artefact)</title></circle></a><a href="/variants/s12/k4y1k4y11dr1y1dr1y11k4y1k4y1~x4/"><circle cx="300.7" cy="158.9" r="4" fill="#3465a4"><title>Baillieville Family Tartan</title></circle></a><a href="/variants/s10/k3y3lr3y3k12y24k1y3k3w3~x2/"><circle cx="289.4" cy="108.9" r="4" fill="#3465a4"><title>Bruichladdich (Corporate)</title></circle></a><a href="/variants/s12/k20o4k20ly2o2ly7k2o2ly2o7ly2o2~x4/"><circle cx="264.0" cy="145.2" r="4" fill="#3465a4"><title>Black Forest</title></circle></a><a href="/variants/s12/k20o2ly2o7ly2o2k2ly7o2ly2k20o4~x4/"><circle cx="264.0" cy="145.2" r="4" fill="#3465a4"><title>Black Forest (Fashion)</title></circle></a><a href="/variants/s7/y1k4y1k4y11dr1y1~x4/"><circle cx="326.9" cy="174.5" r="4" fill="#3465a4"><title>Baileville (Personal)</title></circle></a><a href="/variants/s9/k1y12k2g1k2g3k1y1k1~x4/"><circle cx="280.4" cy="149.5" r="4" fill="#3465a4"><title>Glen Carron (Fashion)</title></circle></a><a href="/variants/s9/k6y20k6y4k4y10k8y2k5~x2/"><circle cx="289.3" cy="206.7" r="4" fill="#3465a4"><title>Bute Heather, Black</title></circle></a><a href="/variants/s10/o1w2k5o3k1oi5k1oi11k1oi1~x4~o2102055-oi2104058/"><circle cx="243.5" cy="149.6" r="4" fill="#3465a4"><title>Braemar, or Blair Atholl</title></circle></a><a href="/variants/s6/o72k16w9k4w5k16~x2/"><circle cx="317.3" cy="146.3" r="4" fill="#3465a4"><title>Machair (warp)</title></circle></a><circle cx="295.4" cy="154.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

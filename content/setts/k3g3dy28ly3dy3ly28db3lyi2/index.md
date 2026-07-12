@@ -1,6 +1,11 @@
 ---
 title: "California Highway Patrol (Corporate"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "California Highway Patrol (Corporate"
+  url: "/tartans/c/ca/california-highway-patrol-corporate/"
 ---
 This is the **California Highway Patrol (Corporate** sett — one scale-free proportion (`k3g3dy28ly3dy3ly28db3lyi2`), colour order pattern
 [KGGYGYBY](/stripes/kggygyby/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lo4g2lo2g2lo2g24k2r16w9db3~x2~w3600000/"><circle cx="159.5" cy="125.8" r="4" fill="#3465a4"><title>North West Territories</title></circle></a><a href="/variants/s10/lo4g2lo2g2lo2g24k2r16w9db3~x2/"><circle cx="152.7" cy="123.7" r="4" fill="#3465a4"><title>North West Territories (District)</title></circle></a><a href="/variants/s10/y4g2y2g2y2g24k2r16w9db3~x2/"><circle cx="158.5" cy="126.6" r="4" fill="#3465a4"><title>North West Territories Canadian District Tartan</title></circle></a><a href="/variants/s11/dy32r2y3k3r2dy3y3dy3ly3dy3ly32~x2/"><circle cx="228.5" cy="99.8" r="4" fill="#3465a4"><title>Glen Talloch</title></circle></a><a href="/variants/s8/dr2ly24dr2ly3dr2g24k8dy2~x2/"><circle cx="169.7" cy="147.7" r="4" fill="#3465a4"><title>Botherston (Name)</title></circle></a><a href="/variants/s11/lb4r3y2r9lb3g24lb3r9k3r3w2~x2/"><circle cx="153.5" cy="125.4" r="4" fill="#3465a4"><title>Wilson's, No 128</title></circle></a><a href="/variants/s7/k3r12do8ly2g36do10lb2~x2/"><circle cx="232.6" cy="131.2" r="4" fill="#3465a4"><title>Snelgrove Htg (Name)</title></circle></a><a href="/variants/s8/r2lb1r8k4db1g10w1g2~x4/"><circle cx="142.8" cy="147.5" r="4" fill="#3465a4"><title>Sawyer Family Tartan</title></circle></a><a href="/variants/s8/r2lb1r8k4db1g10lr1g2~x4/"><circle cx="146.7" cy="148.2" r="4" fill="#3465a4"><title>Sawyer</title></circle></a><a href="/variants/s9/g71k4r4dp9r4dp4r36dp4w4/"><circle cx="270.6" cy="109.0" r="4" fill="#3465a4"><title>Rattray</title></circle></a><circle cx="204.3" cy="122.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

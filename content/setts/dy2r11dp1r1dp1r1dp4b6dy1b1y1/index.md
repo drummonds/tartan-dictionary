@@ -1,6 +1,11 @@
 ---
 title: "NHK Asaichi"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "NHK Asaichi"
+  url: "/tartans/n/nh/nhk-asaichi-2/"
 ---
 This is the **NHK Asaichi** sett — one scale-free proportion (`dy2r11dp1r1dp1r1dp4b6dy1b1y1`), colour order pattern
 [GBGBBRBRBRG](/stripes/gbgbbrbrbrg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dy2r11db1r1db1r1db4dbi6dy1dbi1ly1~x4~db1204274-dbi1706275/"><circle cx="245.1" cy="153.4" r="4" fill="#3465a4"><title>NHK Asaichi</title></circle></a><a href="/variants/s9/r28y3r3db3r4b8dg10dp15b4~x2~db1003265-dg1304144/"><circle cx="220.0" cy="168.4" r="4" fill="#3465a4"><title>Loch Lomond</title></circle></a><a href="/variants/s13/b3db3b3db3b3dr22y2db2r22lb5r8y2lb2~x2/"><circle cx="186.7" cy="132.1" r="4" fill="#3465a4"><title>Pitcairn Trust Company</title></circle></a><a href="/variants/s10/dr3b3dr18r2dr2r3dr2r4b18y2~x2/"><circle cx="288.0" cy="186.7" r="4" fill="#3465a4"><title>FC Barcelona (Corporate)</title></circle></a><a href="/variants/s12/n4w2n2w3n20db6r3db2r2db2r17db3~x2/"><circle cx="238.3" cy="171.5" r="4" fill="#3465a4"><title>Eidart Scotch House Trade Tartan</title></circle></a><a href="/variants/s10/db4y3db17b6w2do6w2r24do3r4~x2/"><circle cx="181.3" cy="144.2" r="4" fill="#3465a4"><title>Asman Family</title></circle></a><a href="/variants/s6/ri15r98dp72n25dp8w15~ri2806019-r1706009-dp1105325-n2203265/"><circle cx="249.9" cy="188.3" r="4" fill="#3465a4"><title>Afternoon Tea / Assam</title></circle></a><a href="/variants/s11/r2dp3ri2r15dp2dg20dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><circle cx="268.2" cy="186.7" r="4" fill="#3465a4"><title>Drumlithie - 1790 (Fashion)</title></circle></a><a href="/variants/s14/n3dg19r2dg2r2db10r17dg2r2dg2r3lb2r3lb3~x2/"><circle cx="208.5" cy="147.9" r="4" fill="#3465a4"><title>Manx Heritage</title></circle></a><a href="/variants/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><circle cx="244.1" cy="182.9" r="4" fill="#3465a4"><title>Drumlithie Rock and Wheel Tartan</title></circle></a><circle cx="248.8" cy="152.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

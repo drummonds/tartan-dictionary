@@ -1,6 +1,13 @@
 ---
 title: "Edinburgh, '86 Border"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Edinburgh"
+  url: "/clan/edinburgh/"
+- name: "Edinburgh, '86 Border"
+  url: "/tartans/e/ed/edinburgh-86-border/"
 ---
 This is the **Edinburgh, '86 Border** sett — one scale-free proportion (`db1b2db2b2db2b39db2b2db2b2db1r1db1n1db10w3db2w1db1w1db3w1db1w1db2w3db10n1db1r1`), colour order pattern
 [BBBBBBBBBBBRBBBWBWBWBWBWBWBBBR](/stripes/bbbbbbbbbbbrbbbwbwbwbwbwbwbbbr/). It is recorded as a single **variant**, below.

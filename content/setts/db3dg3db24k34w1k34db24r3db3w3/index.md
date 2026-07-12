@@ -1,6 +1,11 @@
 ---
 title: "Al-Fadhli (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Al-Fadhli"
+  url: "/tartans/a/al/al-fadhli/"
 ---
 This is the **Al-Fadhli (Personal)** sett — one scale-free proportion (`db3dg3db24k34w1k34db24r3db3w3`), colour order pattern
 [BGBKWKBRBW](/stripes/bgbkwkbrbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k17db24g3db3w3db3r3db24k17w1~x2/"><circle cx="278.8" cy="122.4" r="4" fill="#3465a4"><title>Al-Fadhli (Personal)</title></circle></a><a href="/variants/s11/db12r4db64k64g7w7lo7k64db64r4db12/"><circle cx="229.7" cy="117.0" r="4" fill="#3465a4"><title>Sandhu (Name)</title></circle></a><a href="/variants/s9/db18w2db2r3db21k28dy1k1g2~x2/"><circle cx="274.8" cy="91.0" r="4" fill="#3465a4"><title>St Andrew's College</title></circle></a><a href="/variants/s8/k8y1k1db28k12g2k1lb2~x2/"><circle cx="301.3" cy="103.8" r="4" fill="#3465a4"><title>Weir Clan Tartan</title></circle></a><a href="/variants/s8/y1db1k1db30k30w2db5ly1~x2~y2505139-ly3708101/"><circle cx="310.8" cy="95.3" r="4" fill="#3465a4"><title>Binder Wedding (Personal)</title></circle></a><a href="/variants/s8/db30r2db2r4db9k26w2k4~x2/"><circle cx="288.8" cy="150.4" r="4" fill="#3465a4"><title>Murdoch Celebration (Personal)</title></circle></a><a href="/variants/s9/k4r2k28db31y1db2y1db2w3~x2/"><circle cx="276.4" cy="83.3" r="4" fill="#3465a4"><title>Hill</title></circle></a><a href="/variants/s12/db5lb2w1lb2k32db3k4db29k2dbi1k3db3~x2~db1404245-dbi1406275/"><circle cx="291.5" cy="76.0" r="4" fill="#3465a4"><title>Grampian Police</title></circle></a><a href="/variants/s10/k10n4k34db3g3db3g3db26o2lb3~x2~n2002249-db1004274/"><circle cx="233.8" cy="106.7" r="4" fill="#3465a4"><title>Dugan (Personal)</title></circle></a><a href="/variants/s8/k1db5w2k30db30k1db1k1~x2/"><circle cx="316.7" cy="94.0" r="4" fill="#3465a4"><title>Binder Wedding (Personal) Name Tartan</title></circle></a><circle cx="294.8" cy="105.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,13 @@
 ---
 title: "Holden Monaro Corporate Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Holden"
+  url: "/clan/holden/"
+- name: "Holden Monaro"
+  url: "/tartans/h/ho/holden-monaro/"
 ---
 This is the **Holden Monaro Corporate Tartan** sett — one scale-free proportion (`lr10k3lr3k3lr3k11dy11o3`), colour order pattern
 [RGKYKYKY](/stripes/rgkykyky/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db13k4y4k4r13~x4/"><circle cx="78.5" cy="238.2" r="4" fill="#3465a4"><title>Clark, Red</title></circle></a><a href="/variants/s10/lb10k3w3k3w3k3lb10r6k15r3~x2/"><circle cx="110.7" cy="201.0" r="4" fill="#3465a4"><title>Edinburgh, City of</title></circle></a><a href="/variants/s10/k1g3k3r1dp3r1dp1r3g1k1~x4/"><circle cx="43.5" cy="241.0" r="4" fill="#3465a4"><title>MacInroy Clan Tartan</title></circle></a><a href="/variants/s7/r3lb4k11r11g11do3r3~x4/"><circle cx="72.3" cy="228.1" r="4" fill="#3465a4"><title>Stewart /Stuart- Fragment Cf 1452 &amp; 1445</title></circle></a><a href="/variants/s9/y8g16k6g6k6g6k16r21k5/"><circle cx="88.9" cy="231.3" r="4" fill="#3465a4"><title>Martin</title></circle></a><a href="/variants/s7/k9r9k25lr30k5lr5r7/"><circle cx="176.2" cy="210.8" r="4" fill="#3465a4"><title>Rocket Dog (Fashion)</title></circle></a><a href="/variants/s8/r2k4r2k4db1w1db4r1~x4/"><circle cx="116.5" cy="232.1" r="4" fill="#3465a4"><title>MacKean</title></circle></a><a href="/variants/s8/w13k3w3k3w3k15dy18r3~x2/"><circle cx="107.5" cy="196.6" r="4" fill="#3465a4"><title>Holden Brown (Corporate)</title></circle></a><a href="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x4/"><circle cx="38.4" cy="242.5" r="4" fill="#3465a4"><title>MacInroy</title></circle></a><a href="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x8/"><circle cx="38.4" cy="242.5" r="4" fill="#3465a4"><title>MacInroy (Clan)</title></circle></a><circle cx="95.8" cy="229.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

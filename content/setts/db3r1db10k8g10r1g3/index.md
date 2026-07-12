@@ -1,6 +1,15 @@
 ---
 title: "Blair Clan Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Blair"
+  url: "/clan/blair/"
+- name: "Blair"
+  url: "/families/blair/"
+- name: "Blair"
+  url: "/tartans/b/bl/blair/"
 ---
 This is the **Blair Clan Tartan** sett — one scale-free proportion (`db3r1db10k8g10r1g3`), colour order pattern
 [BRBKGRG](/stripes/brbkgrg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db3r2db21k11g21r2g3~x2/"><circle cx="181.9" cy="187.3" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db3r2db21k11g21r2g3/"><circle cx="181.9" cy="187.3" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db3r2db22k11g22r2g3~x2/"><circle cx="187.2" cy="184.4" r="4" fill="#3465a4"><title>Gammell (1978) (Personal)</title></circle></a><a href="/variants/s7/db2r2db21k11g21r2g2~x2/"><circle cx="182.4" cy="182.8" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/g16lb3g3k10db12dr2db3~x2/"><circle cx="131.3" cy="198.2" r="4" fill="#3465a4"><title>MacLean, Donald (Personal)</title></circle></a><a href="/variants/s7/db4k3db16k14g14r3g3~x2/"><circle cx="127.0" cy="228.3" r="4" fill="#3465a4"><title>Inneryne (Personal)</title></circle></a><a href="/variants/s8/dr3g1dr1g8k8db8k2db3~x2/"><circle cx="129.7" cy="211.8" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/variants/s7/r4k4db24k24g24k2r3~x2/"><circle cx="151.6" cy="179.8" r="4" fill="#3465a4"><title>Black Watch</title></circle></a><a href="/variants/s6/db3g28db3k16db28r3/"><circle cx="197.6" cy="205.2" r="4" fill="#3465a4"><title>Flower of Scotland</title></circle></a><a href="/variants/s7/g8lb1g1k6dp6k1dp3~x4/"><circle cx="145.0" cy="209.0" r="4" fill="#3465a4"><title>Unnamed 19th Century Plaid</title></circle></a><circle cx="156.0" cy="203.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

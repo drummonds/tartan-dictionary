@@ -1,6 +1,15 @@
 ---
 title: "Graham of Menteith, (Red)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Graham"
+  url: "/clan/graham/"
+- name: "Graham of Menteith"
+  url: "/families/graham-of-menteith/"
+- name: "Graham of Menteith"
+  url: "/tartans/g/gr/graham-of-menteith-2/"
 ---
 This is the **Graham of Menteith, (Red)** sett — one scale-free proportion (`r26lb3r4k16db16k4`), colour order pattern
 [KBKRWR](/stripes/kbkrwr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r36lb3r5k21db24k3~x2~db1406275/"><circle cx="207.3" cy="176.6" r="4" fill="#3465a4"><title>Graham of Menteith (Red)</title></circle></a><a href="/variants/s6/r8k8lo1k8r8db1~x4~db1406275/"><circle cx="211.2" cy="210.1" r="4" fill="#3465a4"><title>Skinner Family Tartan</title></circle></a><a href="/variants/s6/r8k8y1k8r8w1~x4/"><circle cx="209.4" cy="210.3" r="4" fill="#3465a4"><title>Connel</title></circle></a><a href="/variants/s7/r4k8r4k8db12k1w2~x2/"><circle cx="171.5" cy="187.6" r="4" fill="#3465a4"><title>MacKean Red</title></circle></a><a href="/variants/s5/r2dp8k8w1r2~x2/"><circle cx="176.3" cy="211.0" r="4" fill="#3465a4"><title>Inder (Corporate)</title></circle></a><a href="/variants/s7/k23r27db3r5w3k14y6~x2/"><circle cx="178.6" cy="165.4" r="4" fill="#3465a4"><title>Hoffman Texas German</title></circle></a><a href="/variants/s5/y2r15k7db8y2~x4/"><circle cx="179.9" cy="213.2" r="4" fill="#3465a4"><title>Aberdeen University Corporate Tartan</title></circle></a><a href="/variants/s7/ly3db22k3db3k11r20ly3~x2/"><circle cx="152.7" cy="189.8" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s7/y3db22k3db3k11r20y3~x2/"><circle cx="162.9" cy="192.2" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s5/dy4r27k12db15dy4~x2/"><circle cx="177.7" cy="220.7" r="4" fill="#3465a4"><title>Aberdeen University (1992)</title></circle></a><circle cx="181.1" cy="195.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

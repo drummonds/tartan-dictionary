@@ -1,6 +1,11 @@
 ---
 title: "Spirit of Scotland (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Spirit of Scotland"
+  url: "/tartans/s/sp/spirit-of-scotland-3/"
 ---
 This is the **Spirit of Scotland (Corporate)** sett — one scale-free proportion (`dbi96dp8dbi12db3dbi3db3dbi3dg20dp8k3dp14`), colour order pattern
 [BBBBBBBGBKB](/stripes/bbbbbbbgbkb/). It is recorded as a single **variant**, below.

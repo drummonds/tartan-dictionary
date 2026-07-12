@@ -1,6 +1,11 @@
 ---
 title: "MacKerrell"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacKerrell"
+  url: "/clan/mackerrell/"
 ---
 A family of [Clan MacKerrell](/clan/mackerrell/).
 

@@ -1,6 +1,15 @@
 ---
 title: "Plowman (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Plowman"
+  url: "/clan/plowman/"
+- name: "Plowman"
+  url: "/families/plowman/"
+- name: "Plowman"
+  url: "/tartans/p/pl/plowman/"
 ---
 This is the **Plowman (Personal)** sett — one scale-free proportion (`r2dp17r2dg3r2dp2r20dg1ly1r1dg2r2dp18r2dg2r24dg3w1`), colour order pattern
 [RBRGRBRGYRGRBRGRGW](/stripes/rbrgrbrgyrgrbrgrgw/). It is recorded as **2 variants** — the same
@@ -23,6 +32,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/r2dp17r2dg3r2dp2r20dg1ly1r1dg2r2dp18r2dg2r24dg3w1~x2~dp0904317/"><circle cx="313.8" cy="81.1" r="4" fill="#3465a4"><title>Plowman (Personal)</title></circle></a><a href="/variants/s17/r2dp17r2g3r2dp2r20g1y1r1g2r2dp18g2r24g3w1~x2/"><circle cx="331.3" cy="92.0" r="4" fill="#3465a4"><title>Plowman #2 (Personal)</title></circle></a><a href="/variants/s17/r24w1dp2r4dg32r4dp2w1r4dp6r4w1dp2r32dg6dr6dg6~x2/"><circle cx="326.6" cy="82.1" r="4" fill="#3465a4"><title>Dalziel (Clan)</title></circle></a><a href="/variants/s17/r24w1dp1r3dg24r3dp1w1r3dp6r3w1dp1r24dg3lr3dg3~x2~r2109032-lr3204029/"><circle cx="345.4" cy="86.2" r="4" fill="#3465a4"><title>King George IV - 1824 (Artefact)</title></circle></a><a href="/variants/s15/r6dp2r2dg24r2dg2r2dp8r2lb1r32dp2r2dp1r6~x2/"><circle cx="388.2" cy="90.8" r="4" fill="#3465a4"><title>Drummond - 1819 (Clan)</title></circle></a><a href="/variants/s15/db6dp2r2g5r2g2r2dp6r2lb2r24dp2r2dp2r6~x2/"><circle cx="331.7" cy="122.1" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/variants/s13/dy4r2dy2r2dy1r19dy3r2db11r3dy2r3lb2~x2/"><circle cx="337.1" cy="130.5" r="4" fill="#3465a4"><title>Châine des Rôtisseurs, (Grande Bretagne)</title></circle></a><a href="/variants/s18/db19r2g3r2db2r20g1y1r1g2r2db18r2g2r22g3w1r3~x2/"><circle cx="297.2" cy="89.3" r="4" fill="#3465a4"><title>Hebridean, South Uist</title></circle></a><a href="/variants/s12/r23g3y1g3r2db18r2w1g3r2db2r23~x2/"><circle cx="366.9" cy="101.7" r="4" fill="#3465a4"><title>Mair Family Tartan</title></circle></a><a href="/variants/s17/ri24y1db1ri3g16ri3db1y1ri3db6ri3y1db1ri16g2r2g2~x2~ri2109032-r1807008/"><circle cx="373.9" cy="95.2" r="4" fill="#3465a4"><title>Munro Clan Tartan</title></circle></a><circle cx="341.4" cy="89.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Watkins"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Watkins"
+  url: "/clan/watkins/"
 ---
 A family of [Clan Watkins](/clan/watkins/).
 

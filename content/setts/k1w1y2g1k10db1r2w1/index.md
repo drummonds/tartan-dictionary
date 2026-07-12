@@ -1,6 +1,11 @@
 ---
 title: "Kaptain Family (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Kaptain"
+  url: "/tartans/k/ka/kaptain/"
 ---
 This is the **Kaptain Family (Personal)** sett — one scale-free proportion (`k1w1y2g1k10db1r2w1`), colour order pattern
 [KWGGKBRW](/stripes/kwggkbrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w5k26y2dg24db7k3r3~x2/"><circle cx="154.6" cy="139.1" r="4" fill="#3465a4"><title>Cornish Hunting District Tartan</title></circle></a><a href="/variants/s9/w2k25dt2dg6dy2r6dt2k25w2~x2~dg1704144/"><circle cx="311.3" cy="109.4" r="4" fill="#3465a4"><title>Stott Personal Tartan</title></circle></a><a href="/variants/s9/w2k25b2dg6dy2r6b2k25w2~x2~dg1704144/"><circle cx="307.2" cy="108.0" r="4" fill="#3465a4"><title>Stott (Personal)</title></circle></a><a href="/variants/s9/w2k25b2dg6dy2r6b2k25w2~x2/"><circle cx="309.2" cy="108.5" r="4" fill="#3465a4"><title>Stott (Personal)</title></circle></a><a href="/variants/s6/k62r9w7lb6y3g6~x2/"><circle cx="305.8" cy="89.2" r="4" fill="#3465a4"><title>Tainsh (2016)</title></circle></a><a href="/variants/s7/r5g3y6w3y5k55w5~x2/"><circle cx="331.3" cy="95.5" r="4" fill="#3465a4"><title>Avalon (Corporate)</title></circle></a><a href="/variants/s7/r5dg3y6w3y5k55w5~x2~dg1806142/"><circle cx="331.9" cy="95.5" r="4" fill="#3465a4"><title>Avalon</title></circle></a><a href="/variants/s6/dy6k5ly4k48dr36w6/"><circle cx="235.9" cy="153.9" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s6/y6k5o4k48r36w6/"><circle cx="216.1" cy="141.1" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s9/k2dr3k36n2k5n7ly3lb5g2~x2/"><circle cx="305.6" cy="80.4" r="4" fill="#3465a4"><title>Victory</title></circle></a><circle cx="214.5" cy="114.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

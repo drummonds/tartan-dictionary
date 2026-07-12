@@ -1,6 +1,11 @@
 ---
 title: "Irish National District Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Irish National"
+  url: "/tartans/i/ir/irish-national-2/"
 ---
 This is the **Irish National District Tartan** sett — one scale-free proportion (`g36dg5dy5dg9k5w5dg2g7dg1dy2dg1g7dg2w5k5dg9dy5dg5g17`), colour order pattern
 [GGGGKWGGGGGGGWKGGGG](/stripes/ggggkwgggggggwkgggg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dg25w1k23g7y2g2y2g7k23w1dg39g4dg14~x2~dg1806142-g2507147/"><circle cx="253.4" cy="91.4" r="4" fill="#3465a4"><title>Duffy Family Tartan</title></circle></a><a href="/variants/s13/g24k1g2dy2dg2w1dg12w1dg2w2dg2w1dg12~x2/"><circle cx="268.7" cy="101.0" r="4" fill="#3465a4"><title>Currie of Balilone Family Tartan</title></circle></a><a href="/variants/s13/g24k1g2y2dg2w1dg12w1dg2w2dg2w1dg12~x2/"><circle cx="268.9" cy="101.2" r="4" fill="#3465a4"><title>Currie, of Balilone</title></circle></a><a href="/variants/s17/y8g84db21k10db10k10db10k10db21g62r3g6r3g10y3g5r6~x2/"><circle cx="297.3" cy="80.1" r="4" fill="#3465a4"><title>King Edward VII Royal Family Tartan</title></circle></a><a href="/variants/s17/y8g84t21k10t10k10t10k10t21g62r3g6r3g10y3g5r6/"><circle cx="319.1" cy="90.5" r="4" fill="#3465a4"><title>King Edward VII (Royal)</title></circle></a><a href="/variants/s17/k20y3db10g3db5g25k1g1w3g1k1g25db5g3db10y1db2~x4/"><circle cx="216.2" cy="88.3" r="4" fill="#3465a4"><title>Blairgowrie</title></circle></a><a href="/variants/s15/dp2k1g6dg4k1dg5k2g30k2db4k1dg4g6k1dp2~x2/"><circle cx="311.9" cy="75.8" r="4" fill="#3465a4"><title>Letham Hunting</title></circle></a><a href="/variants/s14/t14k3t14k10dg40k1g3k1w3k1o3k1dg40k10~x2~dg1806142-g2408144/"><circle cx="268.8" cy="60.9" r="4" fill="#3465a4"><title>Irish Diaspora (Fashion)</title></circle></a><a href="/variants/s13/g25w1k23b7y2b2y2b7k23w1g39b4g14~x2/"><circle cx="245.4" cy="89.9" r="4" fill="#3465a4"><title>Duffy</title></circle></a><a href="/variants/s16/db15k18g3k2g2k2g44y4g44k2g2k2g3k18db15r4~x2/"><circle cx="244.1" cy="88.2" r="4" fill="#3465a4"><title>Sarafilovic</title></circle></a><circle cx="238.3" cy="80.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

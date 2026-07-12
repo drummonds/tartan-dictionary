@@ -1,6 +1,11 @@
 ---
 title: "Wojtek Memorial Trust"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Wojtek Memorial Trust"
+  url: "/tartans/w/wo/wojtek-memorial-trust/"
 ---
 This is the **Wojtek Memorial Trust** sett — one scale-free proportion (`w3g28dg3g3dg11db4r3db3r6db15wi3`), colour order pattern
 [WBRBRBGGGGW](/stripes/wbrbrbggggw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w3db15r6db3r3db4dg11g3dg3g28lo3~x2/"><circle cx="155.0" cy="160.1" r="4" fill="#3465a4"><title>Wojtek Memorial Trust</title></circle></a><a href="/variants/s10/r2g6lb1g1lb1g1lb3dt8y1t1~x4~dt1102249-t2308259/"><circle cx="129.3" cy="174.0" r="4" fill="#3465a4"><title>Haines Family (Personal)</title></circle></a><a href="/variants/s9/r5w1db10g10w1y1g2lb2w1~x2/"><circle cx="150.6" cy="167.1" r="4" fill="#3465a4"><title>Mary, Queen of Scots</title></circle></a><a href="/variants/s8/db2r1db10w1o4g8y1g2~x4/"><circle cx="190.9" cy="176.8" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><a href="/variants/s12/db9n3db2w2db9n6db3w3db3g18dg8r2~x2/"><circle cx="138.4" cy="174.2" r="4" fill="#3465a4"><title>Patterson, William J.M. (Personal)</title></circle></a><a href="/variants/s10/g5dt2g17ly2db5ly2o5db17g2ly4~x2/"><circle cx="188.6" cy="190.0" r="4" fill="#3465a4"><title>Antrim Irish County Tartan</title></circle></a><a href="/variants/s9/o3b2g19b6g2b6dg14dr4w2~x2/"><circle cx="173.8" cy="189.2" r="4" fill="#3465a4"><title>Royal Pharmaceutical, Society</title></circle></a><a href="/variants/s12/db4ly4db26t5db5t8ly10g8dg5g5dg22n3~x2/"><circle cx="140.9" cy="192.0" r="4" fill="#3465a4"><title>State Seal of Montana (Fashion)</title></circle></a><a href="/variants/s8/db2r1db10w1dy4g8y1g2~x4/"><circle cx="196.1" cy="180.3" r="4" fill="#3465a4"><title>Ayrshire District Tartan</title></circle></a><a href="/variants/s14/db11r1db2r3db1do8g11w1g11do8db8y1r1y1~x2/"><circle cx="150.8" cy="160.9" r="4" fill="#3465a4"><title>Allen Northumbrian Family Tartan</title></circle></a><circle cx="152.5" cy="159.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

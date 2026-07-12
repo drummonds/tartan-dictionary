@@ -1,6 +1,11 @@
 ---
 title: "McCaig (2016)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "McCaig"
+  url: "/tartans/m/mc/mccaig/"
 ---
 This is the **McCaig (2016)** sett — one scale-free proportion (`r4t11k4t4k4t4k21db21w4db21k21t20k1r4`), colour order pattern
 [RBKBKBKBWBKBKR](/stripes/rbkbkbkbwbkbkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db15k4db4k4db4k16b16k2g3k2b16k16db18k1w2~x2~db1106275-b2603265/"><circle cx="141.4" cy="124.6" r="4" fill="#3465a4"><title>McCruden, Raymond (Personal)</title></circle></a><a href="/variants/s12/k9lo1dg3r5dg16k17r2t16r5t3r3t9~x2~t2105244/"><circle cx="113.1" cy="141.2" r="4" fill="#3465a4"><title>Bowie, Black</title></circle></a><a href="/variants/s13/db24k4db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="144.8" cy="115.2" r="4" fill="#3465a4"><title>Craigclowan School</title></circle></a><a href="/variants/s15/db16k2db2k2db2k12g12y2k2y2g12k16db16k1w3~x2/"><circle cx="133.9" cy="126.6" r="4" fill="#3465a4"><title>Dyce #2</title></circle></a><a href="/variants/s10/r24o4db6k6db60k40b12k20o3b8/"><circle cx="166.8" cy="123.2" r="4" fill="#3465a4"><title>The KpgM</title></circle></a><a href="/variants/s11/db9k9db9r2k18w1g12r2g4r2g4~x2/"><circle cx="134.0" cy="138.8" r="4" fill="#3465a4"><title>Newman</title></circle></a><a href="/variants/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/"><circle cx="136.5" cy="125.8" r="4" fill="#3465a4"><title>Campbell Red</title></circle></a><a href="/variants/s17/db22k3db3k3db3k15r2g19k1lb3k1g19r2k15db19k3db3~x2/"><circle cx="152.2" cy="103.1" r="4" fill="#3465a4"><title>Sempill</title></circle></a><a href="/variants/s14/db88k15g9r12g20k3y8k6g20r12g9k15db24k36/"><circle cx="183.5" cy="94.1" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/variants/s11/lb3g3k4g14k4g3k14db18r1db4r2~x2/"><circle cx="125.8" cy="134.1" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><circle cx="130.0" cy="120.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

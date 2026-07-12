@@ -1,6 +1,13 @@
 ---
 title: "Gleneagles Group"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Gleneagles"
+  url: "/clan/gleneagles/"
+- name: "Gleneagles Group"
+  url: "/tartans/g/gl/gleneagles-group/"
 ---
 This is the **Gleneagles Group** sett — one scale-free proportion (`dr5g6gi2g6dr5db6dr2`), colour order pattern
 [BBBGGGB](/stripes/bbbgggb/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dr5g6ly2g6dr5db6dr2~x2~g1906142-ly2604115/"><circle cx="212.2" cy="345.1" r="4" fill="#3465a4"><title>Gleneagles Group</title></circle></a><a href="/variants/s7/dr5g6dy1g6dr5db6dr1~x2/"><circle cx="229.4" cy="290.3" r="4" fill="#3465a4"><title>Gleneagles Group Corporate Tartan</title></circle></a><a href="/variants/s5/r4dg4r1db4r4~x12~dg1605139/"><circle cx="187.1" cy="301.8" r="4" fill="#3465a4"><title>Gow</title></circle></a><a href="/variants/s5/db9dr12g9db5w2~x4/"><circle cx="197.7" cy="299.0" r="4" fill="#3465a4"><title>Battle of Prestonpans (1745) Heritage Trust, The</title></circle></a><a href="/variants/s4/ly28dr24dg55dp19~x2/"><circle cx="188.7" cy="335.4" r="4" fill="#3465a4"><title>Hirstwood (Name)</title></circle></a><a href="/variants/s5/db2g4y1db1r2~x12/"><circle cx="183.2" cy="294.2" r="4" fill="#3465a4"><title>Creek Indian Nation</title></circle></a><a href="/variants/s7/g12r11dp12ri3dp8g8dp8~x2~r2109032-ri2307033/"><circle cx="188.1" cy="303.6" r="4" fill="#3465a4"><title>Fiddes (Corrected)</title></circle></a><a href="/variants/s3/dp3n1g2~x10/"><circle cx="275.3" cy="360.4" r="4" fill="#3465a4"><title>Coleman, Sarah-Louise (Personal)</title></circle></a><a href="/variants/s6/g3dp3w1dp3g3r1~x4/"><circle cx="165.9" cy="305.1" r="4" fill="#3465a4"><title>Wilson's No.113</title></circle></a><a href="/variants/s6/dy1db3dy1g3dy4r1~x2/"><circle cx="234.5" cy="291.0" r="4" fill="#3465a4"><title>Fraser Hunting #2</title></circle></a><circle cx="179.6" cy="332.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Watkins (Welsh Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Watkins"
+  url: "/clan/watkins/"
+- name: "Watkins"
+  url: "/families/watkins/"
+- name: "Watkins"
+  url: "/tartans/w/wa/watkins/"
 ---
 This is the **Watkins (Welsh Name)** sett — one scale-free proportion (`g2dg2db5dg4db10t15dg10dr12dg6g4dg6dr12dg10t18lb2db2t18db1g2`), colour order pattern
 [GBBBWBGBGGGBGBBGBGG](/stripes/gbbbwbgbgggbgbbgbgg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s19/g2dg2db5dg4db10t15dg10r12dg6g4dg6r12dg10t18lb2db2t18db1g2/"><circle cx="164.0" cy="144.2" r="4" fill="#3465a4"><title>Watkins Welsh Name Tartan</title></circle></a><a href="/variants/s19/g2dg2db5dg4db10t15dg10dr12dg6g4dg6dr12dg10t20lb2db2t18db1g2~t2205244/"><circle cx="208.8" cy="140.9" r="4" fill="#3465a4"><title>Watkins of Wales</title></circle></a><a href="/variants/s16/dt18w1o8w1db16dp8w1dt18w1dt20dp8dt6g8db10g10db1~x4/"><circle cx="244.7" cy="156.4" r="4" fill="#3465a4"><title>Forbes - 1970 (WCWM #2)</title></circle></a><a href="/variants/s21/g4db4r4db2g12db2g12db2r4g4w1ri4dbi2r4db4dbi4db4r4db2dbi12db2~x2~db1404245-r1706009-ri2406019-dbi1406275/"><circle cx="157.2" cy="162.2" r="4" fill="#3465a4"><title>Otago Peninsula Corporate Tartan</title></circle></a><a href="/variants/s16/db11n4db4w2db4n4db11g26n4w3n4w2n14dg10db16dg6~x2/"><circle cx="197.6" cy="184.3" r="4" fill="#3465a4"><title>Stuart-Houghton Hunting (Personal)</title></circle></a><a href="/variants/s13/g3dp3n2db14g16dp18n2dp3n14db4y3lo1n2~x2/"><circle cx="205.0" cy="166.5" r="4" fill="#3465a4"><title>ENABLE Scotland</title></circle></a><a href="/variants/s13/g3n3dp2db14g16dp18n2dp3n14db4y3lo1n2~x2/"><circle cx="202.0" cy="167.2" r="4" fill="#3465a4"><title>ENABLE Scotland</title></circle></a><a href="/variants/s16/db6y2db2y2db2do6dg8do1w2do1dg8dy2do4db8y2db2~x2/"><circle cx="189.8" cy="209.5" r="4" fill="#3465a4"><title>Forbes of Druinnor (Artefact)</title></circle></a><a href="/variants/s19/dr5db3dr3r2db2y2db2y1db14g2db7g4db4g7db2g9y1n2g5~x2/"><circle cx="209.7" cy="148.5" r="4" fill="#3465a4"><title>Hart of Scotland (Corporate)</title></circle></a><a href="/variants/s16/db9dt8g1dt1g1dt1g8dg2g8dt1g1dt1g1dt8db9n1~x4/"><circle cx="234.3" cy="203.1" r="4" fill="#3465a4"><title>Cowal Highland Games Corporate Tartan</title></circle></a><circle cx="205.8" cy="167.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

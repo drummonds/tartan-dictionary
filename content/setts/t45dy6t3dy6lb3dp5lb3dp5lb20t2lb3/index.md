@@ -1,6 +1,15 @@
 ---
 title: "Dunn"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Dunn"
+  url: "/clan/dunn/"
+- name: "Dunn"
+  url: "/families/dunn/"
+- name: "Dunn"
+  url: "/tartans/d/du/dunn-3/"
 ---
 This is the **Dunn** sett — one scale-free proportion (`t45dy6t3dy6lb3dp5lb3dp5lb20t2lb3`), colour order pattern
 [BGBGWBWBWBW](/stripes/bgbgwbwbwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/t45y6t3y6t3w3db5w3db5w20t2w3~x2/"><circle cx="321.7" cy="141.1" r="4" fill="#3465a4"><title>Dunn (Scotland) (Name)</title></circle></a><a href="/variants/s8/db20dr1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><circle cx="314.6" cy="156.4" r="4" fill="#3465a4"><title>Kruenaegel and Schropp</title></circle></a><a href="/variants/s11/lb50db6lo2db3lb2db3y8dy8db2dy8lb2~x2/"><circle cx="339.5" cy="106.7" r="4" fill="#3465a4"><title>Renfrew #2</title></circle></a><a href="/variants/s8/t20dr1w3db1w2db8g3w1~x4/"><circle cx="305.6" cy="156.1" r="4" fill="#3465a4"><title>Kruenaegel and Schropp (Name)</title></circle></a><a href="/variants/s13/b24w1b2w2do2w1do12w1do2w2do2w1dg12~x2/"><circle cx="270.5" cy="135.0" r="4" fill="#3465a4"><title>MacDonald, hunting</title></circle></a><a href="/variants/s9/dt44y8dt8y22lb4y4lb11y2w2~x2~dt1100000-y2200000/"><circle cx="342.7" cy="169.5" r="4" fill="#3465a4"><title>Titanium</title></circle></a><a href="/variants/s14/lb16db2lb2db2lb3db6y52db6lb3db2lb2db2lb16dr3~x2/"><circle cx="326.3" cy="122.5" r="4" fill="#3465a4"><title>Scotch House (Corporate)</title></circle></a><a href="/variants/s10/w5n38y3db11y1db11y3n4w5lo1~x2~n1700000-y2400000/"><circle cx="336.4" cy="119.1" r="4" fill="#3465a4"><title>Ballarat</title></circle></a><a href="/variants/s12/w2r5b4g8b4r5w2r5b40g8b4w2~x2/"><circle cx="366.1" cy="135.2" r="4" fill="#3465a4"><title>Yamaue (Corporate)</title></circle></a><a href="/variants/s9/n8y4n35db2lt8db2n4db21n4~x2~db1108266-lt3103227/"><circle cx="399.1" cy="187.7" r="4" fill="#3465a4"><title>Bedford Academy</title></circle></a><circle cx="346.4" cy="154.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

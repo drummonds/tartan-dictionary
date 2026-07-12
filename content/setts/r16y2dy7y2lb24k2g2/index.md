@@ -1,6 +1,15 @@
 ---
 title: "Traill (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Traill"
+  url: "/clan/traill/"
+- name: "Traill"
+  url: "/families/traill/"
+- name: "Traill"
+  url: "/tartans/t/tr/traill-2/"
 ---
 This is the **Traill (Personal)** sett — one scale-free proportion (`r16y2dy7y2lb24k2g2`), colour order pattern
 [GKWGGGR](/stripes/gkwgggr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg3g3r22k5db22dy2~x2~dg1806142-g2408144/"><circle cx="164.6" cy="152.4" r="4" fill="#3465a4"><title>MacLeod Society of Scotland</title></circle></a><a href="/variants/s6/t6dp5k2g18r28w2~x2/"><circle cx="209.1" cy="148.3" r="4" fill="#3465a4"><title>Dundhuin Ladies (Personal)</title></circle></a><a href="/variants/s6/r20w1k1b6y1g18~x2/"><circle cx="238.0" cy="137.8" r="4" fill="#3465a4"><title>Gordon of Abergeldie, (Red..)</title></circle></a><a href="/variants/s6/y5k2g4lb18r25w5~x2/"><circle cx="181.5" cy="158.4" r="4" fill="#3465a4"><title>Christie (London)</title></circle></a><a href="/variants/s9/db3lb1k1r12b1g9r1lb1db3~x4/"><circle cx="164.7" cy="126.1" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s9/lb3n1k1r12b1g9b1n1lb3~x2/"><circle cx="161.0" cy="132.7" r="4" fill="#3465a4"><title>Murray of Abercairney</title></circle></a><a href="/variants/s7/r30db12k3g12y2g3w2~x2/"><circle cx="203.2" cy="128.0" r="4" fill="#3465a4"><title>Hewitt (Name)</title></circle></a><a href="/variants/s9/db3lb1k1r12ri1g9r1lb1db3~x4~r2109032-ri2406019/"><circle cx="167.6" cy="126.7" r="4" fill="#3465a4"><title>Moray of Abercairney Clan Tartan</title></circle></a><a href="/variants/s8/k4y2k4r29w29db4w2g4~x2/"><circle cx="152.0" cy="109.1" r="4" fill="#3465a4"><title>Clan MacLeod Societies of Canada</title></circle></a><a href="/variants/s8/k4ly2k4r29w29db4w2g4~x2/"><circle cx="151.9" cy="109.1" r="4" fill="#3465a4"><title>Clan MacLeod Societies of Canada</title></circle></a><circle cx="182.9" cy="138.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "MacGregor of Glenstrae"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacGregor (Clan Gregor)"
+  url: "/clan/macgregor/"
 ---
 A family of [Clan MacGregor (Clan Gregor)](/clan/macgregor/).
 

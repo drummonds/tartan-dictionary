@@ -1,6 +1,15 @@
 ---
 title: "MacNicol"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacNicol"
+  url: "/clan/macnicol/"
+- name: "MacNicol"
+  url: "/families/macnicol/"
+- name: "MacNicol"
+  url: "/tartans/m/ma/macnicol-2/"
 ---
 This is the **MacNicol** sett — one scale-free proportion (`r6g1r6k4r1lb1r1g8r6k1r6g1`), colour order pattern
 [GRKRGRWRKRGR](/stripes/grkrgrwrkrgr/). It is recorded as **3 variants** — the same
@@ -24,6 +33,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1~x2/"><circle cx="275.9" cy="170.4" r="4" fill="#3465a4"><title>Nicolson, MacNicol</title></circle></a><a href="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1/"><circle cx="275.9" cy="170.4" r="4" fill="#3465a4"><title>MacNicol</title></circle></a><a href="/variants/s12/r6g1r6k4r1w1r1g8r6k1r6g1/"><circle cx="272.9" cy="169.5" r="4" fill="#3465a4"><title>MacNicol</title></circle></a><a href="/variants/s10/r6g4r24k4r6k4r12g12w3g6/"><circle cx="262.3" cy="177.7" r="4" fill="#3465a4"><title>Morrison Old Clan Tartan</title></circle></a><a href="/variants/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/"><circle cx="233.6" cy="164.3" r="4" fill="#3465a4"><title>MacQuarrie Ancient</title></circle></a><a href="/variants/s11/r9g4r6k2r4k2r8g14r24k2r4~x2/"><circle cx="385.4" cy="161.3" r="4" fill="#3465a4"><title>MacDonell of Keppach</title></circle></a><a href="/variants/s9/g9w4g15r17k5r7k5r32g5/"><circle cx="250.4" cy="179.9" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/variants/s9/g9w4g15r17k5r7k5r32g5~x2/"><circle cx="250.4" cy="179.9" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/variants/s12/r8g1r8g16r4k2lb1k4r8g1r8k1~x2/"><circle cx="285.1" cy="138.6" r="4" fill="#3465a4"><title>MacLeod and MacNicol</title></circle></a><a href="/variants/s9/g5w2g8r9k3r4k3r17g3~x2/"><circle cx="242.3" cy="180.9" r="4" fill="#3465a4"><title>Morrison</title></circle></a><circle cx="275.9" cy="170.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

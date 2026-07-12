@@ -1,6 +1,11 @@
 ---
 title: "Cheadle (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Cheadle"
+  url: "/tartans/c/ch/cheadle/"
 ---
 This is the **Cheadle (Personal)** sett — one scale-free proportion (`dp10y3dp8db42g5n5`), colour order pattern
 [BGBBGB](/stripes/bgbbgb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dp9db6w1dg4dp2~x4/"><circle cx="346.6" cy="277.9" r="4" fill="#3465a4"><title>Cathro</title></circle></a><a href="/variants/s6/dp3n15db15r2db15y3~x2/"><circle cx="352.1" cy="250.2" r="4" fill="#3465a4"><title>HMS Duncan (Military)</title></circle></a><a href="/variants/s6/dp3dt15db15r2db15y3~x2/"><circle cx="397.2" cy="268.3" r="4" fill="#3465a4"><title>H.M.S. DUNCAN</title></circle></a><a href="/variants/s4/b20dp3db7y1~x4/"><circle cx="506.1" cy="238.6" r="4" fill="#3465a4"><title>Peacock</title></circle></a><a href="/variants/s5/dp49g3r5db15y4~x2/"><circle cx="462.0" cy="185.6" r="4" fill="#3465a4"><title>Orion Nebula</title></circle></a><a href="/variants/s8/dp30n20dg8y3dg8n20dp30y2~x2/"><circle cx="399.8" cy="246.0" r="4" fill="#3465a4"><title>Wicks (Personal)</title></circle></a><a href="/variants/s8/w3dp2ly2dp38db28o2db2r2~x2/"><circle cx="345.2" cy="128.5" r="4" fill="#3465a4"><title>Gretna Gold (Fashion)</title></circle></a><a href="/variants/s5/db30do9w1dr5y1~x4/"><circle cx="505.2" cy="183.0" r="4" fill="#3465a4"><title>Dunning Primary (School)</title></circle></a><a href="/variants/s6/db47dg14dp5do2dr3dg7~x2~db1204274-dg1605139-dp1105325/"><circle cx="415.9" cy="176.7" r="4" fill="#3465a4"><title>Round Table of Britain and Ire Corporate Tartan</title></circle></a><a href="/variants/s7/dr1dg4g1dg3dr4db15w1~x4/"><circle cx="353.7" cy="190.9" r="4" fill="#3465a4"><title>Bressuire</title></circle></a><circle cx="438.4" cy="214.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

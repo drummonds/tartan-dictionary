@@ -1,6 +1,15 @@
 ---
 title: "Cook (Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cook"
+  url: "/clan/cook/"
+- name: "Cook"
+  url: "/families/cook/"
+- name: "Cook"
+  url: "/tartans/c/co/cook/"
 ---
 This is the **Cook (Name)** sett — one scale-free proportion (`dg12g6dg6r15k1r1k2`), colour order pattern
 [GGGRKRK](/stripes/gggrkrk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g12lb6g6r15k1r1k2~x4/"><circle cx="210.3" cy="174.1" r="4" fill="#3465a4"><title>McCook/Cook (Name)</title></circle></a><a href="/variants/s7/g12lb6g6r15k1r1k2~x2/"><circle cx="210.3" cy="174.1" r="4" fill="#3465a4"><title>(2) Cook</title></circle></a><a href="/variants/s8/g28db3g3k10r2k10r20y4~x2/"><circle cx="147.0" cy="148.4" r="4" fill="#3465a4"><title>Garvock (2015)</title></circle></a><a href="/variants/s8/dr8g2dr12k6dr3db3g24k2~x2/"><circle cx="227.3" cy="176.6" r="4" fill="#3465a4"><title>McInery (Personal)</title></circle></a><a href="/variants/s8/dg8o2dg12k6dg3db6o24k4~x2~dg1806142-o2208036/"><circle cx="191.6" cy="177.8" r="4" fill="#3465a4"><title>Dickie</title></circle></a><a href="/variants/s7/k2r7k6g12y1g1k2~x4/"><circle cx="175.4" cy="171.4" r="4" fill="#3465a4"><title>Blackstock Hunting Family Tartan</title></circle></a><a href="/variants/s7/lo2dg7k6r11k1r1lo2~x4~r1908029/"><circle cx="168.5" cy="176.2" r="4" fill="#3465a4"><title>Blackstock Red (Dress)</title></circle></a><a href="/variants/s8/k3dr8k3dr8lo19dr7dt36dr3~x2/"><circle cx="210.5" cy="169.0" r="4" fill="#3465a4"><title>Private SA Club</title></circle></a><a href="/variants/s7/lo2dg7k6r11k1r1lo2~x4/"><circle cx="162.4" cy="173.0" r="4" fill="#3465a4"><title>Blackstock, Red Dress (Clan)</title></circle></a><a href="/variants/s7/y2g7k6r12k1r1y2~x4/"><circle cx="179.5" cy="170.5" r="4" fill="#3465a4"><title>Blackstock Dress Family Tartan</title></circle></a><circle cx="222.5" cy="175.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

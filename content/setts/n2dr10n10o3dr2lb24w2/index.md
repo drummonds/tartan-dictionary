@@ -1,6 +1,11 @@
 ---
 title: "Un-named Dutch"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Un-named Dutch"
+  url: "/tartans/u/un/un-named-dutch/"
 ---
 This is the **Un-named Dutch** sett — one scale-free proportion (`n2dr10n10o3dr2lb24w2`), colour order pattern
 [BBBRBWW](/stripes/bbbrbww/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n3r2n30r1w18o14r2o3~x2~n1900000-o2500000/"><circle cx="289.8" cy="146.3" r="4" fill="#3465a4"><title>Bannockbane Variant</title></circle></a><a href="/variants/s11/r2dp1lb13n13dp4n4dp4n4lb13dp1w2~x2/"><circle cx="229.6" cy="173.8" r="4" fill="#3465a4"><title>Toronto Blue Jays</title></circle></a><a href="/variants/s6/w8lb30g5w3db8r5/"><circle cx="246.9" cy="195.4" r="4" fill="#3465a4"><title>Roseberry</title></circle></a><a href="/variants/s8/dp24g2o2g2o5g8lr20dy4~x2~o2605035-lr2903322/"><circle cx="194.2" cy="174.1" r="4" fill="#3465a4"><title>Glen Shee #2 (Fashion)</title></circle></a><a href="/variants/s6/r15lb98db72ly25db8w15/"><circle cx="208.1" cy="191.9" r="4" fill="#3465a4"><title>Afternoon Tea / Earl Grey</title></circle></a><a href="/variants/s5/y15r9lb30w3db4~x2/"><circle cx="260.5" cy="215.1" r="4" fill="#3465a4"><title>S.I.D.E. (Corporate)</title></circle></a><a href="/variants/s12/o4w2o2w3o20db6lb3db2lb2db2lb16r3~x2/"><circle cx="198.0" cy="155.0" r="4" fill="#3465a4"><title>Callum, Scotch House</title></circle></a><a href="/variants/s8/r6db2dp21w3dg19w26dg3w5~x2/"><circle cx="164.9" cy="168.7" r="4" fill="#3465a4"><title>Culloden Dress Old Tartan</title></circle></a><a href="/variants/s11/dr2o9lb4w2n22w2lb4w22n2w8dr2~x2~o2500000-n1900000/"><circle cx="205.2" cy="161.9" r="4" fill="#3465a4"><title>MacRae Grey (Fashion)</title></circle></a><a href="/variants/s5/n10w3lb3g1r1~x10/"><circle cx="298.0" cy="206.3" r="4" fill="#3465a4"><title>Bagpipe Shop (Switzerland)</title></circle></a><circle cx="238.0" cy="178.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

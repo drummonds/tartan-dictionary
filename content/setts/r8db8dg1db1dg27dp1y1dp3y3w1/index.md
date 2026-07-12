@@ -1,6 +1,11 @@
 ---
 title: "Holyoke St. Patrick's"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Holyoke St Patrick's"
+  url: "/tartans/h/ho/holyoke-st-patrick-s/"
 ---
 This is the **Holyoke St. Patrick's** sett — one scale-free proportion (`r8db8dg1db1dg27dp1y1dp3y3w1`), colour order pattern
 [RBGBGBGBGW](/stripes/rbgbgbgbgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y3g6dg32r4y2r2dp7dg2w2~x2/"><circle cx="309.8" cy="124.9" r="4" fill="#3465a4"><title>Pienaar (Personal)</title></circle></a><a href="/variants/s11/y2dg4db1dr3db3dg3g1dr32db14w3y2~x2/"><circle cx="347.4" cy="103.6" r="4" fill="#3465a4"><title>Banause-Zunft zu Olte</title></circle></a><a href="/variants/s9/dg18g2db5dr45lb3db18lb3dr8lbi2~x2~dg1806142-g2408144-lb3103284-lbi3200000/"><circle cx="322.4" cy="140.8" r="4" fill="#3465a4"><title>MacNiven</title></circle></a><a href="/variants/s12/p1dr1p1dr6dg26mi14dr20lb1dr1lb1dr2m1~x2~p2312307-mi2506332/"><circle cx="271.3" cy="101.2" r="4" fill="#3465a4"><title>Scobie (Blackford)</title></circle></a><a href="/variants/s10/dy6w1dy24db6g2db1g2db1g12r1~x2/"><circle cx="343.2" cy="132.8" r="4" fill="#3465a4"><title>Chisholm Hunting Clan Tartan</title></circle></a><a href="/variants/s8/dy62y7g7r3w3db13w3r5~x2/"><circle cx="338.1" cy="108.6" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/variants/s13/db3dg22r5dg5n5w1n1dg1g8db6n1db5dg2~x2/"><circle cx="261.1" cy="128.3" r="4" fill="#3465a4"><title>Mill o Forest Primary School (Corp)</title></circle></a><a href="/variants/s12/n52g3w3db3y3db2r3db12g8db2g6y4/"><circle cx="343.9" cy="104.2" r="4" fill="#3465a4"><title>Barcelona English School</title></circle></a><a href="/variants/s12/n52g3w3db3y3db2r3db12g8db2g6y4~x2/"><circle cx="343.9" cy="104.2" r="4" fill="#3465a4"><title>Barcelona English School (School)</title></circle></a><a href="/variants/s12/n45g3db7r2db7g3n4w2dp36w2n11db4/"><circle cx="312.5" cy="117.1" r="4" fill="#3465a4"><title>Scottish Parliament (Official)</title></circle></a><circle cx="314.6" cy="104.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

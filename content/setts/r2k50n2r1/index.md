@@ -1,6 +1,15 @@
 ---
 title: "Galloway Family"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Galloway"
+  url: "/clan/galloway/"
+- name: "Galloway"
+  url: "/families/galloway/"
+- name: "Galloway"
+  url: "/tartans/g/ga/galloway/"
 ---
 This is the **Galloway Family** sett — one scale-free proportion (`r2k50n2r1`), colour order pattern
 [RBKR](/stripes/rbkr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/k50r1db3dp1~x4/"><circle cx="626.0" cy="121.6" r="4" fill="#3465a4"><title>Alich (Personal)</title></circle></a><a href="/variants/s5/k50db3o2r3w1~x2/"><circle cx="552.3" cy="73.8" r="4" fill="#3465a4"><title>Fettes Personal Tartan</title></circle></a><a href="/variants/s5/k50db3p2r3w1~x4/"><circle cx="552.4" cy="73.9" r="4" fill="#3465a4"><title>Fettes (Personal)</title></circle></a><a href="/variants/s5/k50db3lp2r3w1~x4/"><circle cx="543.8" cy="72.2" r="4" fill="#3465a4"><title>Fettes (Personal)</title></circle></a><a href="/variants/s5/k45db2r4y1w1~x2/"><circle cx="546.8" cy="75.8" r="4" fill="#3465a4"><title>McHattie (Personal)</title></circle></a><a href="/variants/s5/k45t2r4y1w1~x2/"><circle cx="539.4" cy="74.1" r="4" fill="#3465a4"><title>McHattie (Personal)</title></circle></a><a href="/variants/s3/k20w2db1~x6/"><circle cx="544.7" cy="173.9" r="4" fill="#3465a4"><title>Fily (Verneuil L'tang) (Personal)</title></circle></a><a href="/variants/s3/k20w2lb1~x6/"><circle cx="544.7" cy="176.6" r="4" fill="#3465a4"><title>Fily (Verneuil L'tang) (Personal)</title></circle></a><a href="/variants/s4/db1r1k12g1~x4/"><circle cx="471.7" cy="163.9" r="4" fill="#3465a4"><title>MacNathair Sgianach</title></circle></a><a href="/variants/s4/y2k3dr31w1~x4/"><circle cx="590.4" cy="135.7" r="4" fill="#3465a4"><title>Riddick Furya</title></circle></a><circle cx="626.0" cy="116.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

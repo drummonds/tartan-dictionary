@@ -1,6 +1,15 @@
 ---
 title: "Matheson Htg (Clan)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Matheson"
+  url: "/clan/matheson/"
+- name: "Matheson"
+  url: "/families/matheson/"
+- name: "Matheson Hunting"
+  url: "/tartans/m/ma/matheson-hunting-3/"
 ---
 This is the **Matheson Htg (Clan)** sett — one scale-free proportion (`g8t4g1t1g1t24k8g4t1g1t1g4t8g1t1g1t1k8g8t2g2`), colour order pattern
 [GBGBGBKGBGBGBGBGBKGBG](/stripes/gbgbgbkgbgbgbgbgbkgbg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/g8db4g1db1g1db24k8g4db1g1db1g4db8g1db1g1db1k8g8db2g4~x2/"><circle cx="264.2" cy="109.4" r="4" fill="#3465a4"><title>Matheson Hunting</title></circle></a><a href="/variants/s8/k16t1k1t1k1t9g18t1~x4/"><circle cx="242.0" cy="137.4" r="4" fill="#3465a4"><title>Kelvingrove</title></circle></a><a href="/variants/s12/r4db2g7db15g3db3g3db7g28k7g6k2~x2/"><circle cx="260.7" cy="129.4" r="4" fill="#3465a4"><title>Walker Hunting</title></circle></a><a href="/variants/s17/db28k1db1k1db3k12g24y1g1y2g1y1g24k12db18k1db4/"><circle cx="219.2" cy="98.6" r="4" fill="#3465a4"><title>Gordon VS</title></circle></a><a href="/variants/s17/db28k1db1k1db3k12g24y1g1y2g1y1g24k12db18k1db4~x2/"><circle cx="219.2" cy="98.6" r="4" fill="#3465a4"><title>Gordon Old Clan/Family Tartan</title></circle></a><a href="/variants/s16/g2db1lb6db10g4db1g1r1g1db1g18r1g4db6lb6db1~x4/"><circle cx="259.5" cy="139.2" r="4" fill="#3465a4"><title>Tiger</title></circle></a><a href="/variants/s16/g2db1lb6db6g4r1g18db1g1r1g1db1g4db10lb6db1~x4/"><circle cx="259.5" cy="139.2" r="4" fill="#3465a4"><title>Pina (Corporate)</title></circle></a><circle cx="270.1" cy="113.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

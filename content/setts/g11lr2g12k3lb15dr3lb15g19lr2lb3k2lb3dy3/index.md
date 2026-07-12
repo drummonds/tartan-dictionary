@@ -1,6 +1,15 @@
 ---
 title: "Greylock"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Greylock"
+  url: "/clan/greylock/"
+- name: "Greylock"
+  url: "/families/greylock/"
+- name: "Greylock"
+  url: "/tartans/g/gr/greylock/"
 ---
 This is the **Greylock** sett — one scale-free proportion (`g11lr2g12k3lb15dr3lb15g19lr2lb3k2lb3dy3`), colour order pattern
 [GWKWYGWBWKGYG](/stripes/gwkwygwbwkgyg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g11lr2g12k3lb15dr3lb15g19lr2lb3k2lb3ly3~x2/"><circle cx="171.5" cy="151.9" r="4" fill="#3465a4"><title>Greylock (Corporate)</title></circle></a><a href="/variants/s13/g10w2g10k3db12r3db12g15w2db3k2g3y3~x2/"><circle cx="149.9" cy="163.0" r="4" fill="#3465a4"><title>Greylock Corporate Tartan</title></circle></a><a href="/variants/s9/g9k2b4g14w3dg3w23g5y3~x2/"><circle cx="154.1" cy="148.5" r="4" fill="#3465a4"><title>Taylor, dress</title></circle></a><a href="/variants/s14/k5g16lb4g4b16k1w4k1g4b16g4lb4g16ly4~x2/"><circle cx="165.4" cy="132.6" r="4" fill="#3465a4"><title>Unidentified (Callander 2009)</title></circle></a><a href="/variants/s10/g9k2g15r4g14w3n3w23g5dy3~x2/"><circle cx="197.5" cy="148.7" r="4" fill="#3465a4"><title>Taylor Dress</title></circle></a><a href="/variants/s10/g9k2g15r4g14w3n3w23g5y3~x2/"><circle cx="201.6" cy="150.2" r="4" fill="#3465a4"><title>Taylor, dress</title></circle></a><a href="/variants/s8/k3r1ly1lb11g13lb5r1ly1~x4~r2109032-ly3307090-g2408144/"><circle cx="219.6" cy="139.0" r="4" fill="#3465a4"><title>Snodgrass</title></circle></a><a href="/variants/s9/g9k2r4g14w3lp3w23g5y3~x2/"><circle cx="155.5" cy="145.7" r="4" fill="#3465a4"><title>Taylor Dress Family Tartan</title></circle></a><a href="/variants/s10/g9lb9k1lb1w1lb1k1lb9g9r1~x6~w3600000/"><circle cx="237.7" cy="176.5" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/variants/s15/lb8g2k2w2g8lb2g8w2k2dg3g2w2g1lb2k2~x2/"><circle cx="115.4" cy="164.3" r="4" fill="#3465a4"><title>Gayre Dress</title></circle></a><circle cx="168.8" cy="150.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

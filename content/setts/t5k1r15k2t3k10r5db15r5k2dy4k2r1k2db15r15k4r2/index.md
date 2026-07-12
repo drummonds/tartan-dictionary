@@ -1,6 +1,11 @@
 ---
 title: "Grand Lodge of Canada"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Grand Lodge of Canada"
+  url: "/tartans/g/gr/grand-lodge-of-canada/"
 ---
 This is the **Grand Lodge of Canada** sett — one scale-free proportion (`t5k1r15k2t3k10r5db15r5k2dy4k2r1k2db15r15k4r2`), colour order pattern
 [BKRKBKRBRKGKRKBRKRKRBKRKGKRBRKBKRK](/stripes/bkrkbkrbrkgkrkbrkrkrbkrkgkrbrkbkrk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/lb5k1r15k2lb3k10r5db15r5k2dy4k2r1k2db15r15k4r2~x2/"><circle cx="129.4" cy="84.5" r="4" fill="#3465a4"><title>Grand Lodge of Canada (Corporate)</title></circle></a><a href="/variants/s37/g12k1r6db1r1lb1r1db1r6k12r1db12r6k1r6db12r1k12r6lb1g12r6k1r6g12r6db1r1lb1r1db1r6k12r1db12r6k1~x2/"><circle cx="93.2" cy="91.9" r="4" fill="#3465a4"><title>Unidentified #38</title></circle></a><a href="/variants/s20/g24r24db3k21db3r6g4r6db10r6g4r6k3db11r42db10k6g16r3k21/"><circle cx="160.5" cy="93.2" r="4" fill="#3465a4"><title>Unidentified Cant #07</title></circle></a><a href="/variants/s15/r8w2r8n15y1k15n8k1g1k1n8r8w2k2r3~x2/"><circle cx="116.3" cy="80.4" r="4" fill="#3465a4"><title>Unidentified Scarlett #14</title></circle></a><a href="/variants/s31/lri8k1lr2k1lri2k8dp8lb2dp1k2lb2dp8k8lri8k2lr1k2lri8k8dp8lb1dp2k1dp2lb1lri8k8lri2k2lr1k2~x2~lri3203019-lr2805035/"><circle cx="87.5" cy="120.8" r="4" fill="#3465a4"><title>McLosek (Personal)</title></circle></a><a href="/variants/s30/k8r8db16r24w4r24k4g6db26g1db1g1db1g1db1g1db1g8k24r12k4db20k1db1k1db1k1db1k1db1~x2/"><circle cx="144.6" cy="47.3" r="4" fill="#3465a4"><title>Canadian Confederation Canadian Tartan</title></circle></a><a href="/variants/s22/db3r2g4r7k2y2k2y2k5db4r21db4k5y2k2y2k2r7g4r2db3y2~x4/"><circle cx="144.7" cy="105.9" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/variants/s25/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4g4r14g27r9db6r6k3/"><circle cx="209.8" cy="112.9" r="4" fill="#3465a4"><title>Murray of Tullibardine #4</title></circle></a><a href="/variants/s20/db14k7db21k2db2k2db2k4db7r25w2r2k3r16db9r2k4r2k4r2~x2/"><circle cx="189.0" cy="114.5" r="4" fill="#3465a4"><title>Club World (Corporate)</title></circle></a><a href="/variants/s16/r15k5w2n7k4w8k2r26k5n2w2k7w2r5w2g2~x2/"><circle cx="136.3" cy="74.5" r="4" fill="#3465a4"><title>Sabrettes</title></circle></a><circle cx="133.2" cy="86.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

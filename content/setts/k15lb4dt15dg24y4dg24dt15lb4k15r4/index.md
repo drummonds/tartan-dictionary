@@ -1,6 +1,15 @@
 ---
 title: "Haughfoot"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Haughfoot"
+  url: "/clan/haughfoot/"
+- name: "Haughfoot"
+  url: "/families/haughfoot/"
+- name: "Haughfoot"
+  url: "/tartans/h/ha/haughfoot/"
 ---
 This is the **Haughfoot** sett — one scale-free proportion (`k15lb4dt15dg24y4dg24dt15lb4k15r4`), colour order pattern
 [KWBGGGBWKR](/stripes/kwbgggbwkr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dg24k4dg6r4dg6k19dt22w5~x2/"><circle cx="146.3" cy="208.8" r="4" fill="#3465a4"><title>MacRae Hunting</title></circle></a><a href="/variants/s6/r4k15lb4dt15dg24y4~x2/"><circle cx="112.0" cy="210.5" r="4" fill="#3465a4"><title>Haughfoot (Commemorative)</title></circle></a><a href="/variants/s12/dt8y8dt4y28k12dti6k12dr4dti8dr4dti29lb6~y2100000-dti1200000/"><circle cx="113.8" cy="174.1" r="4" fill="#3465a4"><title>Kinloch Anderson Castle Grey</title></circle></a><a href="/variants/s7/r3db12k12dg12t2dg12w3~x2/"><circle cx="116.0" cy="211.6" r="4" fill="#3465a4"><title>Game Fair</title></circle></a><a href="/variants/s12/dr4db4dr2db13k6g3k6y2g4y2g14dp4~x2/"><circle cx="71.1" cy="172.3" r="4" fill="#3465a4"><title>Kinloch Anderson Hunting</title></circle></a><a href="/variants/s7/r1dy7db7k7g7dy7r1~x4/"><circle cx="123.2" cy="233.1" r="4" fill="#3465a4"><title>Tennant Family Tartan</title></circle></a><a href="/variants/s12/dg29dgi16k8r4dg16dgi16y4r4k16g4dgi28dg16~dgi1806142-g2003208/"><circle cx="150.1" cy="196.4" r="4" fill="#3465a4"><title>McCamley (Personal)</title></circle></a><a href="/variants/s7/db8g11k3g11dr12ki10y2~x2~ki0604259/"><circle cx="89.4" cy="233.1" r="4" fill="#3465a4"><title>Scottish Parliament</title></circle></a><a href="/variants/s8/do10r2do10g17k12db9do9r2~x2/"><circle cx="140.8" cy="218.1" r="4" fill="#3465a4"><title>MacDuff Hunting</title></circle></a><a href="/variants/s7/r1do7db7k7g7do7r1~x4/"><circle cx="124.0" cy="232.6" r="4" fill="#3465a4"><title>Tennant</title></circle></a><circle cx="115.0" cy="201.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

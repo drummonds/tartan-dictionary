@@ -1,6 +1,11 @@
 ---
 title: "Crombie House Check"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Crombie House Check"
+  url: "/tartans/c/cr/crombie-house-check-2/"
 ---
 This is the **Crombie House Check** sett — one scale-free proportion (`k3lb10db2g6db18g2`), colour order pattern
 [GBGBWK](/stripes/gbgbwk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3g22db3g3db19r3~x2/"><circle cx="240.7" cy="206.3" r="4" fill="#3465a4"><title>Davidson Half.. Clan Tartan</title></circle></a><a href="/variants/s6/t11k1t3k5dp9lo1~x2/"><circle cx="217.1" cy="199.7" r="4" fill="#3465a4"><title>Joker Fancy Tartan</title></circle></a><a href="/variants/s7/db8g2db10g12k1lr1r1~x4/"><circle cx="261.7" cy="174.1" r="4" fill="#3465a4"><title>Nowell/Noel</title></circle></a><a href="/variants/s8/db20w3db3w3db3w3k5y10~x2/"><circle cx="200.2" cy="186.8" r="4" fill="#3465a4"><title>Kile</title></circle></a><a href="/variants/s6/g3lb1db7lb1g3k1~x8~db1406275/"><circle cx="203.4" cy="221.0" r="4" fill="#3465a4"><title>Scott Green (Sir Walter)</title></circle></a><a href="/variants/s7/t6k8t8g12db29w3db4~x2/"><circle cx="187.0" cy="186.5" r="4" fill="#3465a4"><title>Dickson (Kirkcudbrightshire) (Name)</title></circle></a><a href="/variants/s7/lb6k8lb6g12db29w3db4~x2/"><circle cx="185.1" cy="180.2" r="4" fill="#3465a4"><title>Dickson (Kirkcudbrightshire)</title></circle></a><a href="/variants/s6/db30k10g10lb2g15lb2~x2/"><circle cx="215.5" cy="188.2" r="4" fill="#3465a4"><title>MacRobart (Personal)</title></circle></a><a href="/variants/s7/n19k2w2k2b5k2b5~x4/"><circle cx="258.0" cy="176.6" r="4" fill="#3465a4"><title>Kyle</title></circle></a><a href="/variants/s6/db40k4db12k21g27w4~x2/"><circle cx="206.8" cy="208.3" r="4" fill="#3465a4"><title>Granger (Personal)</title></circle></a><circle cx="208.9" cy="200.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

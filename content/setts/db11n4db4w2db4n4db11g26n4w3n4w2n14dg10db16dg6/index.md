@@ -1,6 +1,11 @@
 ---
 title: "Stuart-Houghton Hunting (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Stuart-Houghton Hunting"
+  url: "/tartans/s/st/stuart-houghton-hunting/"
 ---
 This is the **Stuart-Houghton Hunting (Personal)** sett — one scale-free proportion (`db11n4db4w2db4n4db11g26n4w3n4w2n14dg10db16dg6`), colour order pattern
 [BBBWBBBGBWBWBGBG](/stripes/bbbwbbbgbwbwbgbg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/db11n4db4w2db4n4db11dg26n4w3n4w2n14dg10db16dg6~x2/"><circle cx="250.7" cy="202.0" r="4" fill="#3465a4"><title>Stuart-Houghton Hunting (Personal)</title></circle></a><a href="/variants/s12/db4ly4db26t5db5t8ly10g8dg5g5dg22n3~x2/"><circle cx="140.9" cy="192.0" r="4" fill="#3465a4"><title>State Seal of Montana (Fashion)</title></circle></a><a href="/variants/s13/g4db34g4dy4db4dy4g3dy13g21dy4w3dr11ly3~x2/"><circle cx="181.1" cy="161.3" r="4" fill="#3465a4"><title>State Seal of Illinois (Fashion)</title></circle></a><a href="/variants/s15/dp23g2dp2g2dp2g12db16g1lb3g1db16g12dp16g1ly3~x2/"><circle cx="251.1" cy="147.7" r="4" fill="#3465a4"><title>Pitlochry (District)</title></circle></a><a href="/variants/s19/g2dg2db5dg4db10t15dg10dr12dg6g4dg6dr12dg10t18lb2db2t18db1g2/"><circle cx="205.8" cy="167.3" r="4" fill="#3465a4"><title>Watkins (Welsh Name)</title></circle></a><a href="/variants/s10/g18dp3db10dbi2db10dp20g20dp3y2db2~x2~db0805267-dbi1307262/"><circle cx="230.4" cy="204.4" r="4" fill="#3465a4"><title>Glasgow Cathedral</title></circle></a><a href="/variants/s11/g37dp5g5dp12t10db5t5db40dy4db4ly4~x2/"><circle cx="209.4" cy="175.5" r="4" fill="#3465a4"><title>State Seal of North Dakota (Fashion)</title></circle></a><a href="/variants/s15/lo2db3dy3db4g16db3dy3db4g3db3dy16db4g3db3lo2~x2/"><circle cx="215.8" cy="209.2" r="4" fill="#3465a4"><title>Kerry, County</title></circle></a><a href="/variants/s7/n6dbi8n8g12db29w3db4~x2~dbi1105279/"><circle cx="250.4" cy="206.2" r="4" fill="#3465a4"><title>Dickson Name Tartan</title></circle></a><a href="/variants/s15/dp23g2dp2g2dp2g12db16g1lb3g1db16g12dp16g1dy3~x2/"><circle cx="260.2" cy="149.7" r="4" fill="#3465a4"><title>Pitlochry</title></circle></a><circle cx="197.6" cy="184.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

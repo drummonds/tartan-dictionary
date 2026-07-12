@@ -1,6 +1,11 @@
 ---
 title: "MacFadzean Clan Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "MacFadzean"
+  url: "/tartans/m/ma/macfadzean/"
 ---
 This is the **MacFadzean Clan Tartan** sett — one scale-free proportion (`db48w2k20g22r3g4`), colour order pattern
 [BWKGRG](/stripes/bwkgrg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db22w2k10g11r3g4~x2/"><circle cx="160.7" cy="182.6" r="4" fill="#3465a4"><title>Paterson Blue (Personal)</title></circle></a><a href="/variants/s7/r2db16w1k16g30r1g2~x2/"><circle cx="225.7" cy="118.3" r="4" fill="#3465a4"><title>Sinclair Hunting Clan Tartan</title></circle></a><a href="/variants/s6/db72k21g16lb3g17lb3~x2/"><circle cx="299.2" cy="150.0" r="4" fill="#3465a4"><title>MacRobart</title></circle></a><a href="/variants/s7/db24k8g8r2g8k1w2/"><circle cx="211.4" cy="134.3" r="4" fill="#3465a4"><title>Fergusson</title></circle></a><a href="/variants/s7/db24k8g8r2g8k1w2~x2/"><circle cx="211.4" cy="134.3" r="4" fill="#3465a4"><title>Ferguson of Athol Clan Tartan</title></circle></a><a href="/variants/s7/db18k10g6r4g6k1w2~x2/"><circle cx="147.9" cy="156.6" r="4" fill="#3465a4"><title>Ferguson - 1830 of Atholl (Clan)</title></circle></a><a href="/variants/s6/db30k10g10lb2g15lb2~x2/"><circle cx="215.5" cy="188.2" r="4" fill="#3465a4"><title>MacRobart (Personal)</title></circle></a><a href="/variants/s8/lg2dg9k16r2db30lg3dg6w1~x2~lg3304130-dg1202138/"><circle cx="201.8" cy="99.5" r="4" fill="#3465a4"><title>Climb, The</title></circle></a><a href="/variants/s7/db50g4k22g23r1g1r2~x2/"><circle cx="291.7" cy="110.3" r="4" fill="#3465a4"><title>Casely of Mannerston (Personal)</title></circle></a><a href="/variants/s8/w2dbi19k4dbi4k4g9db2k1~x4~dbi1705244-db1106275/"><circle cx="232.2" cy="138.9" r="4" fill="#3465a4"><title>Dollar Academy (1999) (Corporate)</title></circle></a><circle cx="237.4" cy="139.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

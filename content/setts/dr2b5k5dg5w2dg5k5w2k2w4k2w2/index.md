@@ -1,6 +1,15 @@
 ---
 title: "Davidson of Tulloch Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Davidson"
+  url: "/clan/davidson/"
+- name: "Davidson of Tulloch"
+  url: "/families/davidson-of-tulloch/"
+- name: "Davidson of Tulloch Dress"
+  url: "/tartans/d/da/davidson-of-tulloch-dress/"
 ---
 This is the **Davidson of Tulloch Dress** sett — one scale-free proportion (`dr2b5k5dg5w2dg5k5w2k2w4k2w2`), colour order pattern
 [BBKGWGKWKWKW](/stripes/bbkgwgkwkwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r2db5k5g5lr2g5k5lr2k2lr4k2lr2~x2/"><circle cx="14.0" cy="246.6" r="4" fill="#3465a4"><title>Valley Forge Pipe Band</title></circle></a><a href="/variants/s10/w8k4w8k2w3k8dg8r2dg8k4~x2/"><circle cx="60.8" cy="241.4" r="4" fill="#3465a4"><title>Ferguson Dress variation</title></circle></a><a href="/variants/s9/r1k2g4k1g1k2db3k1w1~x6/"><circle cx="65.6" cy="221.2" r="4" fill="#3465a4"><title>MacKean Dress (Personal)</title></circle></a><a href="/variants/s11/n2k2n2k2w1o1w1o1w1o1r2~x8~n1900000-o2500000/"><circle cx="14.0" cy="272.8" r="4" fill="#3465a4"><title>Unidentified (2103)</title></circle></a><a href="/variants/s9/db8k4lo2k3dr2k3lo2k4g8~x4/"><circle cx="71.4" cy="224.1" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/variants/s12/k14g14k8y4k4g14k14db14dp5db4dp5db14~x2/"><circle cx="59.5" cy="234.5" r="4" fill="#3465a4"><title>Price-Powell (Personal)</title></circle></a><a href="/variants/s8/db3r2db8k8g8k3w2g3/"><circle cx="46.9" cy="231.2" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/variants/s11/db4lbi8k2lbi5lb2lbi5dg8dr7dg2dr7dg3~x2~lbi3203246-lb3200000/"><circle cx="42.7" cy="226.1" r="4" fill="#3465a4"><title>DunBroch (Corporate)</title></circle></a><a href="/variants/s9/r2db4k4g4w1g4k4g4w1~x4/"><circle cx="71.9" cy="245.8" r="4" fill="#3465a4"><title>Arrol</title></circle></a><a href="/variants/s13/lb4k4db4k4g4w1g4w1db3r4db3r4w1~x4/"><circle cx="14.0" cy="221.5" r="4" fill="#3465a4"><title>Stanners (Personal)</title></circle></a><circle cx="14.0" cy="246.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

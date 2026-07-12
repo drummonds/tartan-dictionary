@@ -1,6 +1,11 @@
 ---
 title: "Monaghan Irish County Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Monaghan Irish County"
+  url: "/tartans/m/mo/monaghan-irish-county/"
 ---
 This is the **Monaghan Irish County Tartan** sett — one scale-free proportion (`lo3dg2dr14dgi17dg14lo8dr14dg2lo3`), colour order pattern
 [YGBGGYBGY](/stripes/ygbggybgy/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dr11dg1dr3ly7dg7dy5y3~x4/"><circle cx="195.8" cy="236.5" r="4" fill="#3465a4"><title>Caledonian Maple</title></circle></a><a href="/variants/s11/dy6dr2dy2dr4dy13do12ly13dr4ly2dr2ly6~x2/"><circle cx="168.7" cy="234.6" r="4" fill="#3465a4"><title>Glenmorangie #2</title></circle></a><a href="/variants/s12/dg19dr3dg3dr15ly13dr15dg3dr3dg19dy6ly6do6~x2/"><circle cx="201.6" cy="230.9" r="4" fill="#3465a4"><title>Maple Leaf</title></circle></a><a href="/variants/s9/do3dy1lr1do1dy3do3lr3y6dp1~x6~do1301000-lr3100000/"><circle cx="178.5" cy="254.6" r="4" fill="#3465a4"><title>Toorak Chapler</title></circle></a><a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6~w3600000/"><circle cx="215.5" cy="242.8" r="4" fill="#3465a4"><title>Utah</title></circle></a><a href="/variants/s8/dp11dy2dp2dy2dp2dy11g14w2~x2/"><circle cx="216.9" cy="237.6" r="4" fill="#3465a4"><title>Lamont #2</title></circle></a><a href="/variants/s7/lbi4dg13g6dr16lb2dr2g2~x2~lbi3200000-lb3103284/"><circle cx="223.6" cy="226.0" r="4" fill="#3465a4"><title>Caledonian Brewery (Corporate)</title></circle></a><a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6/"><circle cx="201.9" cy="238.3" r="4" fill="#3465a4"><title>Utah (US State)</title></circle></a><a href="/variants/s9/dg3dr1lb5dr1dg2dr1dg1dr9dy2~x4/"><circle cx="280.5" cy="211.5" r="4" fill="#3465a4"><title>Redwood Dress</title></circle></a><a href="/variants/s9/dg3dr1lb5dr1dg2dr1dg1dr9do2~x4/"><circle cx="284.0" cy="213.5" r="4" fill="#3465a4"><title>Redwood Dress (Fashion)</title></circle></a><circle cx="218.0" cy="241.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

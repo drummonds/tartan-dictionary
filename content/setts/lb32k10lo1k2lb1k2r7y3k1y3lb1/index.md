@@ -1,6 +1,13 @@
 ---
 title: "Glen Coe #3"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Glen"
+  url: "/clan/glen/"
+- name: "Glen Coe"
+  url: "/tartans/g/gl/glen-coe-3/"
 ---
 This is the **Glen Coe #3** sett — one scale-free proportion (`lb32k10lo1k2lb1k2r7y3k1y3lb1`), colour order pattern
 [WGKGRKWKYKW](/stripes/wgkgrkwkykw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/lb26k7g1k1lb1k1g5dp3k1dp2lb1~x4/"><circle cx="288.3" cy="81.0" r="4" fill="#3465a4"><title>Grotto Dove</title></circle></a><a href="/variants/s11/lb52k12dr3k3lb3k3do10n8k3n3lb3~x2~do1400000/"><circle cx="254.9" cy="89.6" r="4" fill="#3465a4"><title>Stewart Dress, Grey #1 (Fashion)</title></circle></a><a href="/variants/s12/lb57db4k8y4k4lb4k4g8r6k4r4lb2/"><circle cx="256.4" cy="44.5" r="4" fill="#3465a4"><title>Stuart/Stewart Royal variant</title></circle></a><a href="/variants/s9/r3dg2k9lb2k2lb24y2lb2y1~x2/"><circle cx="281.4" cy="87.8" r="4" fill="#3465a4"><title>Bell Family Tartan</title></circle></a><a href="/variants/s9/r3g2k9lb2k2lb24y2lb2y1~x4/"><circle cx="281.6" cy="88.3" r="4" fill="#3465a4"><title>Bell of the Borders (Name)</title></circle></a><a href="/variants/s11/y2k3y2k22lb8r1lb3r1lb22k1w2~x2/"><circle cx="226.5" cy="87.2" r="4" fill="#3465a4"><title>Liddell (New York) (Name)</title></circle></a><a href="/variants/s9/r3g2k9lg2k2lg24y2lg2y1~x4~g2408144-lg2901240/"><circle cx="285.5" cy="91.0" r="4" fill="#3465a4"><title>Bell of the Borders</title></circle></a><a href="/variants/s11/k1w31k4g8r1g2db7r4k1r4w1~x2/"><circle cx="218.1" cy="68.3" r="4" fill="#3465a4"><title>Hohenzollern (Personal)</title></circle></a><a href="/variants/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/"><circle cx="246.4" cy="72.1" r="4" fill="#3465a4"><title>Rothesay, Duke of</title></circle></a><a href="/variants/s9/lb60k6lb8k2lb8w2dr12k49ly4/"><circle cx="250.3" cy="90.0" r="4" fill="#3465a4"><title>Motherwell Football Club. Modern</title></circle></a><circle cx="257.4" cy="58.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

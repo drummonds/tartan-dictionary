@@ -1,6 +1,9 @@
 ---
 title: "Clan Mackay"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 **Territory:** Strathnaver · **1745 strength:** 500 men
 

@@ -1,6 +1,15 @@
 ---
 title: "Hogg Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hogg"
+  url: "/clan/hogg/"
+- name: "Hogg"
+  url: "/families/hogg/"
+- name: "Hogg Dress"
+  url: "/tartans/h/ho/hogg-dress/"
 ---
 This is the **Hogg Dress** sett — one scale-free proportion (`lb34r3lb8db4lb8k24g34k2w6`), colour order pattern
 [WKGKWBWRW](/stripes/wkgkwbwrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dy2lb14k1dg11k2r2g2k1~x4~dg1806142-g2203152/"><circle cx="144.4" cy="125.2" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s9/g3dp4g23k10r2k10lb18k1w3~x2/"><circle cx="108.0" cy="112.3" r="4" fill="#3465a4"><title>Birch Family Tartan</title></circle></a><a href="/variants/s9/g3dp2g25k6r2k6lb20k1w2~x2/"><circle cx="160.2" cy="94.9" r="4" fill="#3465a4"><title>Birch (Name)</title></circle></a><a href="/variants/s11/lb12r2lb3r4lb15k24g18y1k3g3w3~x2/"><circle cx="109.6" cy="99.9" r="4" fill="#3465a4"><title>Groen (Personal)</title></circle></a><a href="/variants/s9/g5db22g6k10w24y2db2w2r2~x2/"><circle cx="93.1" cy="130.2" r="4" fill="#3465a4"><title>Haymarket Dress Blue Trade Tartan</title></circle></a><a href="/variants/s8/o5g2o2g26k9lr9lb13w5~x2~g2203152-lr2800000-lb3203246/"><circle cx="119.8" cy="153.8" r="4" fill="#3465a4"><title>Alexander of Menstry Hunting</title></circle></a><a href="/variants/s10/y6k2g12r4g8k10w24t2w3t2~x2/"><circle cx="87.4" cy="134.7" r="4" fill="#3465a4"><title>Gillies Dress, Green (Dance)</title></circle></a><a href="/variants/s8/o2lb14k1g11k2lr2b2k1~x4~o1604043-lr3103019/"><circle cx="148.2" cy="128.7" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s9/w3ly2g8ly2k3ly2db15k1ly2~x4/"><circle cx="143.2" cy="139.3" r="4" fill="#3465a4"><title>MacManus</title></circle></a><a href="/variants/s9/db4k1g18do2g11do11lb18k1r4~x2/"><circle cx="155.8" cy="137.7" r="4" fill="#3465a4"><title>Morgan in Maryland (USA)</title></circle></a><circle cx="129.3" cy="123.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

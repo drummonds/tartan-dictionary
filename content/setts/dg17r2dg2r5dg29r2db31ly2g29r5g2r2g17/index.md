@@ -1,6 +1,13 @@
 ---
 title: "Barbecue Presbyterian Church (Corp)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Barbecue"
+  url: "/clan/barbecue/"
+- name: "Barbecue Presbyterian Church"
+  url: "/tartans/b/ba/barbecue-presbyterian-church/"
 ---
 This is the **Barbecue Presbyterian Church (Corp)** sett — one scale-free proportion (`dg17r2dg2r5dg29r2db31ly2g29r5g2r2g17`), colour order pattern
 [GRGRGRBYGRGRG](/stripes/grgrgrbygrgrg/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dg17r2dg2r5dg29r2db31k2g29r5g2r2g17~x2~db1204274/"><circle cx="182.7" cy="143.2" r="4" fill="#3465a4"><title>Barbecue Presbyterian Church</title></circle></a><a href="/variants/s15/g46r6g6r2g8r2g6r2g6dy36r2db47r6db24y6/"><circle cx="219.6" cy="122.7" r="4" fill="#3465a4"><title>Cochrane Hunting</title></circle></a><a href="/variants/s15/g46r6g6r2g8r2g6r2g6dr36r2db47r6db24ly6/"><circle cx="208.4" cy="117.2" r="4" fill="#3465a4"><title>Cochrane Hunting</title></circle></a><a href="/variants/s14/db11r1db2r3db1do8g11w1g11do8db8y1r1y1~x2/"><circle cx="150.8" cy="160.9" r="4" fill="#3465a4"><title>Allen Northumbrian Family Tartan</title></circle></a><a href="/variants/s13/g19r1g2r2g15r1dt13w1db2r2db21r1w3~x2/"><circle cx="227.9" cy="126.6" r="4" fill="#3465a4"><title>Ontario (Official)</title></circle></a><a href="/variants/s11/r6db3y3o32db24g32y3g3y3g3y6/"><circle cx="205.2" cy="177.9" r="4" fill="#3465a4"><title>Bonnie Brae Corporate Tartan</title></circle></a><a href="/variants/s9/ly3dg30g20lo6g3lo3g3db20r2~x2~dg1806142-g1903114/"><circle cx="197.6" cy="167.4" r="4" fill="#3465a4"><title>Glens of Corbie</title></circle></a><a href="/variants/s10/g11r4g4r7g41dy11lb4db41r4db8/"><circle cx="217.2" cy="171.2" r="4" fill="#3465a4"><title>Stewart of Appin Hunting Clan Tartan</title></circle></a><a href="/variants/s10/g11r4g4r7g41o11lb4db41r4db8/"><circle cx="217.6" cy="171.0" r="4" fill="#3465a4"><title>Stewart of Appin, Ancient hunting</title></circle></a><a href="/variants/s15/g3r2b1db18r2g8r4lb1db8r2g18r2b1db3lb1~x2/"><circle cx="222.9" cy="126.6" r="4" fill="#3465a4"><title>Glen Orchy</title></circle></a><circle cx="198.3" cy="155.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

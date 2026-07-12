@@ -1,6 +1,11 @@
 ---
 title: "Wilson's No 158"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Wilson's No 158"
+  url: "/tartans/w/wi/wilson-s-no-158/"
 ---
 This is the **Wilson's No 158** sett — one scale-free proportion (`g21w2g4k17dp14k3`), colour order pattern
 [GWGKBK](/stripes/gwgkbk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g21y2g4k16dp14k3~x2/"><circle cx="179.0" cy="203.4" r="4" fill="#3465a4"><title>Wilson's, No 160</title></circle></a><a href="/variants/s6/g18lb2g4k14dp12k3~x2/"><circle cx="167.3" cy="212.8" r="4" fill="#3465a4"><title>Coburg</title></circle></a><a href="/variants/s6/g14db2g2k8dp9k2~x2/"><circle cx="172.7" cy="218.9" r="4" fill="#3465a4"><title>MacArthur of Milton Hunting Clan Tartan</title></circle></a><a href="/variants/s6/g21w2g4k17dr14k3~x2/"><circle cx="172.9" cy="203.0" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/variants/s6/g21w2g4k17dr14k3/"><circle cx="172.9" cy="203.0" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/variants/s6/g21w2g4k17db14k3/"><circle cx="169.3" cy="204.8" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/variants/s7/y6g3y3g22k23dp23k4~x2/"><circle cx="128.4" cy="206.6" r="4" fill="#3465a4"><title>Gordon of Esslemont Family Tartan</title></circle></a><a href="/variants/s6/g18lb2g4k14db12k3~x2/"><circle cx="165.4" cy="215.4" r="4" fill="#3465a4"><title>Graham of Menteith Clan Tartan</title></circle></a><a href="/variants/s6/g9w1g6k7db7k1~x2/"><circle cx="184.2" cy="225.2" r="4" fill="#3465a4"><title>Menteith</title></circle></a><a href="/variants/s6/g8lb1g1k6db6k1~x4/"><circle cx="156.9" cy="214.0" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><circle cx="171.3" cy="202.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

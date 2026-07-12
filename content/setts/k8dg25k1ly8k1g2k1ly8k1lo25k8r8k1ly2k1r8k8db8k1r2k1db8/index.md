@@ -1,6 +1,11 @@
 ---
 title: "Rosalyn"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Rosalyn"
+  url: "/tartans/r/ro/rosalyn/"
 ---
 This is the **Rosalyn** sett — one scale-free proportion (`k8dg25k1ly8k1g2k1ly8k1lo25k8r8k1ly2k1r8k8db8k1r2k1db8`), colour order pattern
 [BKRKBKRKYKRKYKYKGKYKGK](/stripes/bkrkbkrkykrkykykgkykgk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s19/k13r2g9db5lb3r2k4y2k2y2k3w4k3db2r22lb1k3g4lb2~x2/"><circle cx="68.2" cy="52.9" r="4" fill="#3465a4"><title>Anderson of Ardbrake</title></circle></a><a href="/variants/s22/k16g50k2ly16k2dg4k2ly16k2lo50k16r16k2ly4k2r16k16t1k2r4k2t16~x2~g1903114-dg1806142/"><circle cx="60.4" cy="14.1" r="4" fill="#3465a4"><title>Rosalyn (Fashion)</title></circle></a><a href="/variants/s20/r8lb10r4lb14r8db10r5k9y4k4y4k7w8k8g36r2k4r2g8r6/"><circle cx="25.4" cy="78.8" r="4" fill="#3465a4"><title>Anderson of Kinnedar, hunting</title></circle></a><a href="/variants/s20/r4lb5r2lb7r4db5r3k5dy2k3dy2k4w4k4g18r1k2r1g4r3~x2/"><circle cx="19.7" cy="80.9" r="4" fill="#3465a4"><title>Anderson of Kinneddar Hunting</title></circle></a><a href="/variants/s20/y10k2w3k6dy4k2lb8k2dy4k6lb3lg49ly4k42dy42y6dy6y6dy6y8~lb3203246-lg2702249/"><circle cx="80.3" cy="42.7" r="4" fill="#3465a4"><title>Whisky</title></circle></a><a href="/variants/s15/db14r15o4k18o4g20y4w2k4w2y4r8k6db1w6~x2/"><circle cx="16.5" cy="90.9" r="4" fill="#3465a4"><title>Unidentified #22</title></circle></a><a href="/variants/s32/y8k2w3k4ly3k2lb6k2ly3k4lb3db44k4ly4k4dy5ly5dy5ly6dy5ly5dy5k4dy5y5dy5y6dy5y5dy5k4w6/"><circle cx="31.6" cy="33.1" r="4" fill="#3465a4"><title>Whiskey &amp; Bourbon</title></circle></a><a href="/variants/s22/o6lb12k2r3k2lb40k6w6k6y3k3y3k12r3db12r3o14k2r3k2o14r5/"><circle cx="60.8" cy="48.9" r="4" fill="#3465a4"><title>Anderson 1</title></circle></a><a href="/variants/s22/dy6lb12k2r3k2lb40k6w6k6y3k3y3k12r3db12r3dy14k2r3k2dy14r5/"><circle cx="58.2" cy="49.0" r="4" fill="#3465a4"><title>Anderson (Paton)</title></circle></a><a href="/variants/s32/lyi8k2w3k4ly3k2lb6k2ly3k4lb3db44k4ly4k4dy5ly5dy5ly6dy5ly5dy5k4dy5lyi5dy5lyi6dy5lyi5dy5k4w6~lyi3407090-ly2503076/"><circle cx="28.9" cy="32.5" r="4" fill="#3465a4"><title>Whiskey &amp; Bourbon (Corporate)</title></circle></a><circle cx="25.7" cy="44.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

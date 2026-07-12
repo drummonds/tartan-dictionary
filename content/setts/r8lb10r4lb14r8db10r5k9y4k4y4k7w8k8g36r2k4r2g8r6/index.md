@@ -1,6 +1,15 @@
 ---
 title: "Anderson of Kinnedar, hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Anderson"
+  url: "/clan/anderson/"
+- name: "Anderson of Kinnedar"
+  url: "/families/anderson-of-kinnedar/"
+- name: "Anderson of Kinnedar, hunting"
+  url: "/tartans/a/an/anderson-of-kinnedar-hunting/"
 ---
 This is the **Anderson of Kinnedar, hunting** sett — one scale-free proportion (`r8lb10r4lb14r8db10r5k9y4k4y4k7w8k8g36r2k4r2g8r6`), colour order pattern
 [RGRKRGKWKGKGKRBRWRWR](/stripes/rgrkrgkwkgkgkrbrwrwr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/r4lb5r2lb7r4db5r3k5dy2k3dy2k4w4k4g18r1k2r1g4r3~x2/"><circle cx="19.7" cy="80.9" r="4" fill="#3465a4"><title>Anderson of Kinneddar Hunting</title></circle></a><a href="/variants/s22/r3g6k1r2k1g6r2db5r2k2y2k2y2k3w3k3lb14k1r2k1lb6r3~x2/"><circle cx="14.0" cy="83.6" r="4" fill="#3465a4"><title>Anderson Variant Clan Tartan</title></circle></a><a href="/variants/s15/db14r15o4k18o4g20y4w2k4w2y4r8k6db1w6~x2/"><circle cx="16.5" cy="90.9" r="4" fill="#3465a4"><title>Unidentified #22</title></circle></a><a href="/variants/s24/r6g10r2db2r4db2r2g10r4db8r2k8y2k4y2k4w6k6lb27r2k2r2lb10r6~x2/"><circle cx="19.8" cy="74.7" r="4" fill="#3465a4"><title>Anderson (Highland Society of London)</title></circle></a><a href="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3lb18r1k2r1lb6r3~x2/"><circle cx="57.8" cy="66.3" r="4" fill="#3465a4"><title>Anderson Family Tartan</title></circle></a><a href="/variants/s15/db14r15b4k18b4g20y4w2k4w2y4r8k6db1w6~x2/"><circle cx="15.9" cy="91.7" r="4" fill="#3465a4"><title>Unidentified 4</title></circle></a><a href="/variants/s24/r3g6r1db1r2db1r1g6r2db4r1k4y1k2y1k2w3db4lb14r1db1r1lb4r3~x2/"><circle cx="19.5" cy="75.0" r="4" fill="#3465a4"><title>Anderson (STS)</title></circle></a><a href="/variants/s21/r3g6k1r2k1g6db4r1k4y1k1y1k3w3k3lb18k1r2k1lb6r3~x2/"><circle cx="59.3" cy="57.6" r="4" fill="#3465a4"><title>Anderson P</title></circle></a><a href="/variants/s22/k8dg25k1ly8k1g2k1ly8k1lo25k8r8k1ly2k1r8k8db8k1r2k1db8~x2/"><circle cx="25.7" cy="44.0" r="4" fill="#3465a4"><title>Rosalyn</title></circle></a><a href="/variants/s22/r3g6k1r2k1g6r2db5r2k2y2k2y2k3w3k3b14k1r2k1b6r3~x2/"><circle cx="22.3" cy="86.8" r="4" fill="#3465a4"><title>Anderson 11</title></circle></a><circle cx="25.4" cy="78.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

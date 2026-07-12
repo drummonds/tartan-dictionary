@@ -1,6 +1,15 @@
 ---
 title: "Ferguson Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ferguson"
+  url: "/clan/ferguson/"
+- name: "Ferguson"
+  url: "/families/ferguson/"
+- name: "Ferguson Dress"
+  url: "/tartans/f/fe/ferguson-dress/"
 ---
 This is the **Ferguson Dress** sett — one scale-free proportion (`lb17k12w9r2w9g1w2`), colour order pattern
 [WGWRWKW](/stripes/wgwrwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db68k42w32r5w32dg4w6/"><circle cx="144.1" cy="154.0" r="4" fill="#3465a4"><title>Ferguson Dress #2</title></circle></a><a href="/variants/s7/lb35k23w18dr3w18k2w3~x2/"><circle cx="178.5" cy="151.7" r="4" fill="#3465a4"><title>Ferguson Dress Blue (Dance)</title></circle></a><a href="/variants/s6/k3w25g16w3db25w3~x2/"><circle cx="167.0" cy="210.4" r="4" fill="#3465a4"><title>Birnham, Blue (Dance)</title></circle></a><a href="/variants/s7/w13g13lb13k10w7y1r1~x4/"><circle cx="80.2" cy="180.8" r="4" fill="#3465a4"><title>Lachine Historic</title></circle></a><a href="/variants/s7/r2db14k6g1w12g1w2~x4/"><circle cx="137.8" cy="150.1" r="4" fill="#3465a4"><title>Davidson (Wedding) (Personal)</title></circle></a><a href="/variants/s8/r5w2lb20dy2k16w18k2w5~x2/"><circle cx="107.7" cy="164.3" r="4" fill="#3465a4"><title>Ailsa Craig (District)</title></circle></a><a href="/variants/s8/r5w2db20y2k16w18k2w5~x2/"><circle cx="105.7" cy="162.5" r="4" fill="#3465a4"><title>Ailsa Craig Trade Tartan</title></circle></a><a href="/variants/s8/k20w4r4w20dg20w5dg2g2~x2~dg1705151-g2307139/"><circle cx="112.8" cy="164.7" r="4" fill="#3465a4"><title>Hackett, William (Coatbridge) (Personal)</title></circle></a><a href="/variants/s7/lb13dr1g13w1k1w7k3~x2/"><circle cx="135.4" cy="170.5" r="4" fill="#3465a4"><title>Chambers, Christopher J (Personal)</title></circle></a><a href="/variants/s7/b34w3dg4g23w24k3dg4~x2/"><circle cx="136.3" cy="173.8" r="4" fill="#3465a4"><title>MacLachlan, dress</title></circle></a><circle cx="147.8" cy="164.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

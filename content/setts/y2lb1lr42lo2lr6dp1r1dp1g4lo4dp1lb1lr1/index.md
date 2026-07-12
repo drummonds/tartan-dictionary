@@ -1,6 +1,15 @@
 ---
 title: "Kerr of Ardgowan Arisaid (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Kerr"
+  url: "/clan/kerr/"
+- name: "Kerr of Ardgowan Arisaid"
+  url: "/families/kerr-of-ardgowan-arisaid/"
+- name: "Kerr of Ardgowan Arisaid"
+  url: "/tartans/k/ke/kerr-of-ardgowan-arisaid/"
 ---
 This is the **Kerr of Ardgowan Arisaid (Personal)** sett — one scale-free proportion (`y2lb1lr42lo2lr6dp1r1dp1g4lo4dp1lb1lr1`), colour order pattern
 [GWYYYBRBGYBWY](/stripes/gwyyybrbgybwy/). It is recorded as a single **variant**, below.

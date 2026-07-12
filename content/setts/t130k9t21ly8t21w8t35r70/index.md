@@ -1,6 +1,11 @@
 ---
 title: "Maud, Mary"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Maud, Mary"
+  url: "/tartans/m/ma/maud-mary/"
 ---
 This is the **Maud, Mary** sett — one scale-free proportion (`t130k9t21ly8t21w8t35r70`), colour order pattern
 [BKBYBWBR](/stripes/bkbybwbr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r3t22r3t3k14t14lb3t3w2~x2/"><circle cx="269.7" cy="153.2" r="4" fill="#3465a4"><title>Fitzgerald (Family)</title></circle></a><a href="/variants/s8/t18r1t1r1t1k7t13w2~x4/"><circle cx="409.1" cy="140.5" r="4" fill="#3465a4"><title>Tokyo Bluebells (Corporate)</title></circle></a><a href="/variants/s9/n14db3n2lbi8n5lbi2k2n25lb2~x2~n1700000-lbi3300000/"><circle cx="402.8" cy="149.1" r="4" fill="#3465a4"><title>Turnberry Scotland</title></circle></a><a href="/variants/s8/db30r3db3y3db3g30db36w5~x2/"><circle cx="340.5" cy="171.8" r="4" fill="#3465a4"><title>De Nardi Hunting (Personal)</title></circle></a><a href="/variants/s9/g3n5k4n33g12k4w2n18ly3~x2/"><circle cx="358.4" cy="141.2" r="4" fill="#3465a4"><title>Smoke Showing (UFES)</title></circle></a><a href="/variants/s9/n16w1n1k1n8ly4r2w2r2~x4/"><circle cx="369.3" cy="132.9" r="4" fill="#3465a4"><title>Middleton, City of</title></circle></a><a href="/variants/s7/k10lb30g3lb3g3lb3r6~x2/"><circle cx="283.3" cy="158.0" r="4" fill="#3465a4"><title>Kinding (Personal)</title></circle></a><a href="/variants/s11/lb20dp4r4w4g4y4lb4y1lb2y1lb20~x4~r2109032-g2408144/"><circle cx="383.5" cy="129.8" r="4" fill="#3465a4"><title>Yukon</title></circle></a><a href="/variants/s11/lb20dp4r4w4g4y4lb4y1lb2y1lb20~x4/"><circle cx="383.6" cy="129.7" r="4" fill="#3465a4"><title>Yukon (District)</title></circle></a><a href="/variants/s12/o14dp1o19w1o18k3o1dt7dp2dt1o1n4~x2~o2500000-n1700000/"><circle cx="399.6" cy="104.9" r="4" fill="#3465a4"><title>Orkney Magnus</title></circle></a><circle cx="385.1" cy="145.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "The Open Championship"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "The Open Championship"
+  url: "/tartans/t/th/the-open-championship/"
 ---
 This is the **The Open Championship** sett — one scale-free proportion (`w2dbi15n2db20r9w2`), colour order pattern
 [WBBBRW](/stripes/wbbbrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r2db12k5lb16w2~x4/"><circle cx="152.8" cy="199.6" r="4" fill="#3465a4"><title>RSCDS Australia? (Corporate)</title></circle></a><a href="/variants/s5/lb6ly6t21db32r3~x2/"><circle cx="241.7" cy="212.8" r="4" fill="#3465a4"><title>Jamieson, Robert (Personal)</title></circle></a><a href="/variants/s5/r2db16k11b19y2~x2/"><circle cx="163.0" cy="210.3" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/variants/s6/db13y2r4g2lb8w2~x6/"><circle cx="143.6" cy="201.1" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><a href="/variants/s6/y2b9r2db6y1r1~x4~b1911266-db1108266/"><circle cx="239.7" cy="221.8" r="4" fill="#3465a4"><title>Lauder Primary School</title></circle></a><a href="/variants/s5/dy16r8t57db56lb8/"><circle cx="224.9" cy="240.7" r="4" fill="#3465a4"><title>Bryson (1988)</title></circle></a><a href="/variants/s5/db15r2ri15t6lb1~x2~ri2109032-t2205244/"><circle cx="234.2" cy="196.3" r="4" fill="#3465a4"><title>O2 (Corporate)</title></circle></a><a href="/variants/s5/r10w5db30lb20r3~x4/"><circle cx="210.5" cy="219.0" r="4" fill="#3465a4"><title>Lands of Liberty</title></circle></a><a href="/variants/s5/r15w10db48lb32r6~x2/"><circle cx="193.9" cy="230.8" r="4" fill="#3465a4"><title>Lands of Liberty (Fashion)</title></circle></a><a href="/variants/s6/b3dg1r24b16db28w3~x2/"><circle cx="236.1" cy="159.6" r="4" fill="#3465a4"><title>Diaspora</title></circle></a><circle cx="193.1" cy="197.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

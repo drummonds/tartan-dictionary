@@ -1,6 +1,15 @@
 ---
 title: "Kyle Green (Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Kyle"
+  url: "/clan/kyle/"
+- name: "Kyle"
+  url: "/families/kyle/"
+- name: "Kyle"
+  url: "/tartans/k/ky/kyle-3/"
 ---
 This is the **Kyle Green (Name)** sett — one scale-free proportion (`r54g6r5g6r10g3r2g18`), colour order pattern
 [GRGRGRGR](/stripes/grgrgrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r5g20r5g3r4g5r36g1w4~x2/"><circle cx="430.9" cy="136.5" r="4" fill="#3465a4"><title>Baluchistan Fitzgerald Regimental Tartan</title></circle></a><a href="/variants/s9/r4g24r6g4r4g6r44g1w4~x2~w4000000/"><circle cx="440.1" cy="125.5" r="4" fill="#3465a4"><title>Baluch Regiment</title></circle></a><a href="/variants/s9/r5g20r5g3r4g5r36do2w4~x2/"><circle cx="382.4" cy="149.5" r="4" fill="#3465a4"><title>Baluch Regiment (Military)</title></circle></a><a href="/variants/s9/r5g20r5g3r4g5r36do2w4~x2~w4000000/"><circle cx="381.1" cy="149.1" r="4" fill="#3465a4"><title>Baluch Regiment (Old Count)</title></circle></a><a href="/variants/s7/r58y3r6g16r12g16r6/"><circle cx="500.5" cy="180.2" r="4" fill="#3465a4"><title>Cameron Ancient</title></circle></a><a href="/variants/s6/r24g5r3g9r3db1~x4/"><circle cx="477.6" cy="177.6" r="4" fill="#3465a4"><title>MacKintosh, Red</title></circle></a><a href="/variants/s6/r16g1r1g1r4g12~x4/"><circle cx="451.4" cy="210.9" r="4" fill="#3465a4"><title>MacQuarrie #5</title></circle></a><a href="/variants/s6/r16g1r1g1r4g12/"><circle cx="451.4" cy="210.9" r="4" fill="#3465a4"><title>MacQuarrie</title></circle></a><a href="/variants/s6/r16g1r1g1r4g12~x2/"><circle cx="451.4" cy="210.9" r="4" fill="#3465a4"><title>MacQuarie</title></circle></a><a href="/variants/s6/r48db2r3g28r4db2~x2/"><circle cx="455.6" cy="165.5" r="4" fill="#3465a4"><title>MacKintosh #3</title></circle></a><circle cx="521.7" cy="163.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

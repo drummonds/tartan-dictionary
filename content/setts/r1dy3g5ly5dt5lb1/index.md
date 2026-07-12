@@ -1,6 +1,11 @@
 ---
 title: "Loch Fyne"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Loch Fyne"
+  url: "/tartans/l/lo/loch-fyne/"
 ---
 This is the **Loch Fyne** sett — one scale-free proportion (`r1dy3g5ly5dt5lb1`), colour order pattern
 [RGGYBW](/stripes/rggybw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w3dg24r13g4ly11r8db2~x2~dg1806142-g2304202/"><circle cx="169.8" cy="184.7" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/variants/s6/dy19g23ly3db15r11w5~x2/"><circle cx="91.9" cy="230.1" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s8/w5g4lb1g4r4lb1dg4dy1~x6/"><circle cx="62.1" cy="235.0" r="4" fill="#3465a4"><title>Devon Rural Skills Trust</title></circle></a><a href="/variants/s6/dy19g23y3db15r11w5~x2/"><circle cx="96.6" cy="231.2" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s7/dy5ly20r3dg13dy13db3b3~x2/"><circle cx="110.6" cy="205.5" r="4" fill="#3465a4"><title>Christmas Hill Game Farm (Corporate)</title></circle></a><a href="/variants/s8/w5g4b1g4r4b1dg4y1~x2~g2104115-dg1304144/"><circle cx="75.0" cy="235.7" r="4" fill="#3465a4"><title>Devon Rural Skills Trust</title></circle></a><a href="/variants/s7/dy5ly20r3dg13dy13dp3b3~x2/"><circle cx="112.0" cy="205.2" r="4" fill="#3465a4"><title>Christmas Hill Game Farm</title></circle></a><a href="/variants/s5/r1dy5g5w5y1~x8/"><circle cx="90.3" cy="258.7" r="4" fill="#3465a4"><title>Eastern Townshippers (Corporate)</title></circle></a><a href="/variants/s9/g8n8lg7r5w2k2w2k2w2~x4/"><circle cx="14.0" cy="219.7" r="4" fill="#3465a4"><title>Somerset (District)</title></circle></a><a href="/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/"><circle cx="96.0" cy="204.9" r="4" fill="#3465a4"><title>Corcoran of Sherbrooke (Personal)</title></circle></a><circle cx="58.4" cy="252.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

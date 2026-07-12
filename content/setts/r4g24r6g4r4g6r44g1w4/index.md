@@ -1,6 +1,11 @@
 ---
 title: "Baluch Regiment"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Baluch Regiment"
+  url: "/tartans/b/ba/baluch-regiment-2/"
 ---
 This is the **Baluch Regiment** sett — one scale-free proportion (`r4g24r6g4r4g6r44g1w4`), colour order pattern
 [RGRGRGRGW](/stripes/rgrgrgrgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r5g20r5g3r4g5r36g1w4~x2/"><circle cx="430.9" cy="136.5" r="4" fill="#3465a4"><title>Baluchistan Fitzgerald Regimental Tartan</title></circle></a><a href="/variants/s8/r54g6r5g6r10g3r2g18~x2/"><circle cx="521.7" cy="163.9" r="4" fill="#3465a4"><title>Kyle Green (Name)</title></circle></a><a href="/variants/s9/r5g20r5g3r4g5r36do2w4~x2/"><circle cx="382.4" cy="149.5" r="4" fill="#3465a4"><title>Baluch Regiment (Military)</title></circle></a><a href="/variants/s9/r5g20r5g3r4g5r36do2w4~x2~w4000000/"><circle cx="381.1" cy="149.1" r="4" fill="#3465a4"><title>Baluch Regiment (Old Count)</title></circle></a><a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x4/"><circle cx="368.4" cy="165.1" r="4" fill="#3465a4"><title>MacPhie/Macfie</title></circle></a><a href="/variants/s9/y1r12g2r1g16r1g2r12w1/"><circle cx="368.4" cy="165.1" r="4" fill="#3465a4"><title>MacFie</title></circle></a><a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x2/"><circle cx="368.4" cy="165.1" r="4" fill="#3465a4"><title>MacPhee MacFie Clan Tartan</title></circle></a><a href="/variants/s9/y2r12g2r1g32r1g2r12w2/"><circle cx="391.8" cy="129.2" r="4" fill="#3465a4"><title>MacFie</title></circle></a><a href="/variants/s6/r2g20r2db8r36g1~x2/"><circle cx="411.9" cy="155.2" r="4" fill="#3465a4"><title>Robertson</title></circle></a><a href="/variants/s8/r2db1g2db1g19db2r27g2~x2/"><circle cx="390.7" cy="145.8" r="4" fill="#3465a4"><title>Thomas of Wales</title></circle></a><circle cx="440.1" cy="125.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

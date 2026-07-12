@@ -1,6 +1,11 @@
 ---
 title: "Grey Watch Trade Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Grey Watch"
+  url: "/tartans/g/gr/grey-watch/"
 ---
 This is the **Grey Watch Trade Tartan** sett — one scale-free proportion (`n25k4n4k4n4w20k5w20k20n4k4n4`), colour order pattern
 [BKBKBWKWKBKB](/stripes/bkbkbwkwkbkb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w25k4w4k4w4k23n23w4n23k23w23k4w4~x2/"><circle cx="135.9" cy="199.4" r="4" fill="#3465a4"><title>Poulter, Grey (Corporate)</title></circle></a><a href="/variants/s13/dr12w2dr2w2dr2w10k12w3k12w10dr12w2dr2~x2/"><circle cx="134.2" cy="202.8" r="4" fill="#3465a4"><title>Red, White, Blue Watch (Dance)</title></circle></a><a href="/variants/s13/lb12k2lb2k2lb2k10g12k3g12k10lb12k2lb2~x2/"><circle cx="123.0" cy="204.0" r="4" fill="#3465a4"><title>Sutherland (District)</title></circle></a><a href="/variants/s13/lb7k1lb1k1lb1y4k6w1k6y4lb5k1lb1~x4/"><circle cx="126.0" cy="178.2" r="4" fill="#3465a4"><title>Kernbrownek (Personal)</title></circle></a><a href="/variants/s13/n25k8n8k8n8k46w46r8w46k46n46k8n8/"><circle cx="107.6" cy="186.0" r="4" fill="#3465a4"><title>Poulter SG 103 (Fashion)</title></circle></a><a href="/variants/s13/lb14k3lb3k3lb3k16g16k3g16k16lb16k3lb3~x2/"><circle cx="125.3" cy="208.1" r="4" fill="#3465a4"><title>Campbell (Clan)</title></circle></a><a href="/variants/s15/k19n6k3n15w3n12w9n3w20n3w20k19r4k5w3~x2/"><circle cx="101.6" cy="174.3" r="4" fill="#3465a4"><title>Black and White</title></circle></a><a href="/variants/s11/w2lb7w2lb3w2k15w2k15lb15w2lb2~x2/"><circle cx="197.5" cy="184.3" r="4" fill="#3465a4"><title>Clark (Clan)</title></circle></a><a href="/variants/s11/n1w1n6k6w1k6w1n1w1n3w1~x2/"><circle cx="177.1" cy="196.3" r="4" fill="#3465a4"><title>Clergy 6</title></circle></a><a href="/variants/s8/n21k2n2k2n2k15w17k3~x2/"><circle cx="181.5" cy="179.6" r="4" fill="#3465a4"><title>Laksaa</title></circle></a><circle cx="131.2" cy="194.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

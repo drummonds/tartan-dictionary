@@ -1,6 +1,11 @@
 ---
 title: "Jenkins"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Jenkins"
+  url: "/clan/jenkins/"
 ---
 A family of [Clan Jenkins](/clan/jenkins/).
 

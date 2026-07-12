@@ -1,6 +1,11 @@
 ---
 title: "Scotch House 2000, dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Scotch House 2000 Dress"
+  url: "/tartans/s/sc/scotch-house-2000-dress/"
 ---
 This is the **Scotch House 2000, dress** sett — one scale-free proportion (`dg22w3k2y3k19r18b4`), colour order pattern
 [BRKGKWG](/stripes/brkgkwg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g22w3k2y3k19r18db4~x2/"><circle cx="81.0" cy="154.0" r="4" fill="#3465a4"><title>Scotch House 2000 Dress</title></circle></a><a href="/variants/s8/r2k8y1k8g13db13lo1r2~x2/"><circle cx="99.1" cy="148.0" r="4" fill="#3465a4"><title>Sey (Name)</title></circle></a><a href="/variants/s7/r3k20w2do11o21ly2o2~x2~o2204058-ly3307090/"><circle cx="126.6" cy="145.5" r="4" fill="#3465a4"><title>Barbour</title></circle></a><a href="/variants/s7/k20y4db13w4g30w4r13~x2/"><circle cx="57.8" cy="179.8" r="4" fill="#3465a4"><title>South Africa 1994 (Fashion)</title></circle></a><a href="/variants/s7/o4y2o21do11w2k20r3~x2/"><circle cx="135.5" cy="149.2" r="4" fill="#3465a4"><title>Barbour</title></circle></a><a href="/variants/s7/o4y2o21dy11w2k20r3~x2/"><circle cx="135.0" cy="149.5" r="4" fill="#3465a4"><title>Barbour - Classic</title></circle></a><a href="/variants/s9/k2r8db2k2r2k6dy2g6y1~x2/"><circle cx="66.8" cy="166.3" r="4" fill="#3465a4"><title>Craigmoor Tartan</title></circle></a><a href="/variants/s9/k2r8db2k2r2k6o2g6y1~x2/"><circle cx="65.9" cy="165.7" r="4" fill="#3465a4"><title>Craigmoor</title></circle></a><a href="/variants/s8/k14y3g18r15w2r3w2dp14~x2/"><circle cx="44.7" cy="167.4" r="4" fill="#3465a4"><title>Wilson's, No 83</title></circle></a><a href="/variants/s6/k9g2db16r22dg10w6~x2~g2408144-dg1806142/"><circle cx="77.3" cy="181.9" r="4" fill="#3465a4"><title>Nicolson of Taransay (Personal)</title></circle></a><circle cx="91.0" cy="153.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Robertson 1819"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Robertson"
+  url: "/clan/robertson/"
+- name: "Robertson"
+  url: "/families/robertson/"
+- name: "Robertson"
+  url: "/tartans/r/ro/robertson-6/"
 ---
 This is the **Robertson 1819** sett — one scale-free proportion (`r3g3r35db3r3db35r3g35r3db3r35g3r3`), colour order pattern
 [RGRBRBRGRBRGR](/stripes/rgrbrbrgrbrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r3g2r19db2r3db20r3g20r3db2r19g2r3~x4/"><circle cx="299.9" cy="175.2" r="4" fill="#3465a4"><title>Robertson Curtain</title></circle></a><a href="/variants/s13/r5g2r30db3r3db30r3g30r3db3r30g2r5~x2/"><circle cx="319.3" cy="154.9" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/variants/s13/r5g2r30db3r3db30r3g30r3db3r30g2r5/"><circle cx="319.3" cy="154.9" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/variants/s13/r4g4r35b4r4g35r4b35r4b4r35g4r4/"><circle cx="316.6" cy="186.4" r="4" fill="#3465a4"><title>Robertson 1</title></circle></a><a href="/variants/s13/r3g1r15db2r2db15r2g15r2db2r15g1r3~x2/"><circle cx="319.7" cy="159.8" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/variants/s12/r28g2r5g2r28db3r3g24r3db24r3db3~x2/"><circle cx="328.6" cy="165.8" r="4" fill="#3465a4"><title>Robertson #5</title></circle></a><a href="/variants/s13/r1g1r9db1r1g9r1db9r1g1r9g1r1~x4/"><circle cx="293.4" cy="176.1" r="4" fill="#3465a4"><title>Robertson Clan Tartan</title></circle></a><a href="/variants/s13/r1g1r9db1r1g9r1db9r1g1r9g1r1/"><circle cx="293.4" cy="176.1" r="4" fill="#3465a4"><title>Robertson</title></circle></a><a href="/variants/s13/r1g1r9db1r1g9r1db9r1g1r9g1r1~x2/"><circle cx="293.4" cy="176.1" r="4" fill="#3465a4"><title>Robertson</title></circle></a><a href="/variants/s10/db3r23db3r26db3r3db25r3g24r3~x2/"><circle cx="285.6" cy="199.9" r="4" fill="#3465a4"><title>Unidentified Early 18th Centuary</title></circle></a><circle cx="303.3" cy="160.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

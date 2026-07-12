@@ -1,6 +1,11 @@
 ---
 title: "Prince of Orange"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Prince of Orange"
+  url: "/tartans/p/pr/prince-of-orange-3/"
 ---
 This is the **Prince of Orange** sett — one scale-free proportion (`db6b25o16k2db3`), colour order pattern
 [BBRKB](/stripes/bbrkb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k1y2k3n12k18w1~x2~k0704259-n1902277/"><circle cx="359.5" cy="163.8" r="4" fill="#3465a4"><title>Jon's Theme</title></circle></a><a href="/variants/s6/db35w3db8t36dg9o3~x2~db1605267-t2605232/"><circle cx="290.0" cy="208.2" r="4" fill="#3465a4"><title>Georgian Bay, Waters of</title></circle></a><a href="/variants/s6/r15t98db72y25db8w15~t2304245-db1404245/"><circle cx="253.6" cy="208.0" r="4" fill="#3465a4"><title>Afternoon Tea / Earl Grey</title></circle></a><a href="/variants/s6/db3lb14db3n16db34r3~x2/"><circle cx="311.1" cy="206.0" r="4" fill="#3465a4"><title>Thorburn (Lochcarron)</title></circle></a><a href="/variants/s5/k7lb3o30b30w3~x2/"><circle cx="213.7" cy="196.9" r="4" fill="#3465a4"><title>Douglas, brown</title></circle></a><a href="/variants/s6/y1db6k1dy5db6w1~x4~db1406275-dy1603076/"><circle cx="282.8" cy="221.0" r="4" fill="#3465a4"><title>Ancient Atlantic</title></circle></a><a href="/variants/s4/r21db43dbi86w10~db1106275-dbi1404245/"><circle cx="305.4" cy="251.5" r="4" fill="#3465a4"><title>Fong (Personal)</title></circle></a><a href="/variants/s7/dp18g24k3db6dp2db5dp18~x2/"><circle cx="266.7" cy="199.7" r="4" fill="#3465a4"><title>Saorsa</title></circle></a><a href="/variants/s8/n16k4w2k4n6b11n2b16~x2/"><circle cx="224.5" cy="216.4" r="4" fill="#3465a4"><title>Sidney, (Nova Scotia)</title></circle></a><a href="/variants/s5/b30k12db12k2w3~x2/"><circle cx="244.8" cy="185.2" r="4" fill="#3465a4"><title>MacNeil - 1994 (Personal)</title></circle></a><circle cx="281.8" cy="206.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

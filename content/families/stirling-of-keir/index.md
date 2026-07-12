@@ -1,6 +1,11 @@
 ---
 title: "Stirling of Keir"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Stirling"
+  url: "/clan/stirling/"
 ---
 A family of [Clan Stirling](/clan/stirling/).
 

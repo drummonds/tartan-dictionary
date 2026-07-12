@@ -1,6 +1,11 @@
 ---
 title: "Unidentified (NZ)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified"
+  url: "/tartans/u/un/unidentified-8/"
 ---
 This is the **Unidentified (NZ)** sett — one scale-free proportion (`ly16k2ly2k2ly2k16r16k3r16k16ly16k2ly2`), colour order pattern
 [YKYKRKRKYKYKY](/stripes/ykykrkrkykyky/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/ly18k3ly3k3ly3k13dg16k4dg16k13ly16k3ly3~x2/"><circle cx="128.5" cy="203.2" r="4" fill="#3465a4"><title>Campbell Collegiate (Corporate)</title></circle></a><a href="/variants/s13/r26k2r3k2r3k16g18ly4g18k16r18k2r3~x2/"><circle cx="160.0" cy="144.6" r="4" fill="#3465a4"><title>Red Watch (Fashion) #3</title></circle></a><a href="/variants/s9/ly20k2ly3k2ly4k9r18k2r5~x2/"><circle cx="191.1" cy="170.7" r="4" fill="#3465a4"><title>Aubigny</title></circle></a><a href="/variants/s11/k4w2k2w2k2w4k2w2k4r12w1~x4/"><circle cx="165.2" cy="160.4" r="4" fill="#3465a4"><title>Napier Rose</title></circle></a><a href="/variants/s11/y20k2y3k2y4k9r18k2r5k2r9~x2/"><circle cx="213.2" cy="169.3" r="4" fill="#3465a4"><title>Aubigny, Auld Alliance</title></circle></a><a href="/variants/s12/k18lo2k2lo3k2lo2k18lo12y18dy3y18lo9~x2/"><circle cx="140.5" cy="171.5" r="4" fill="#3465a4"><title>Kinloch Anderson Check Fashion Tartan</title></circle></a><a href="/variants/s11/dy6o2dy2o4dy13k12lo13o4lo2o2lo6~x2/"><circle cx="98.3" cy="193.1" r="4" fill="#3465a4"><title>Glenmorangie (Corporate)</title></circle></a><a href="/variants/s12/k6r3k3r24lb4k10r2g4r2g24r6lb2~x2~g2408144/"><circle cx="170.9" cy="136.0" r="4" fill="#3465a4"><title>Bates</title></circle></a><a href="/variants/s17/dy6k1lr1k1lr1k1lr1k1lr1k1lr2k2lr2k2lr2k2lr2~x2/"><circle cx="145.7" cy="188.6" r="4" fill="#3465a4"><title>Carnegie Check</title></circle></a><a href="/variants/s12/k6r3k3r24lb4k10r2g4r2g24r6lb2~x2/"><circle cx="174.0" cy="136.5" r="4" fill="#3465a4"><title>Bates (Name)</title></circle></a><circle cx="143.5" cy="173.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,13 @@
 ---
 title: "Ballater Victoria Week"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ballater"
+  url: "/clan/ballater/"
+- name: "Ballater Victoria Week"
+  url: "/tartans/b/ba/ballater-victoria-week/"
 ---
 This is the **Ballater Victoria Week** sett — one scale-free proportion (`dp8y6k2n1w1`), colour order pattern
 [BGKBW](/stripes/bgkbw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w5n20k8r5dp36ly5~x2/"><circle cx="158.5" cy="170.7" r="4" fill="#3465a4"><title>Lord's Own Highlanders (Corporate)</title></circle></a><a href="/variants/s5/dy12k4w2n6r3~x2/"><circle cx="153.3" cy="223.2" r="4" fill="#3465a4"><title>Strathblane (Fashion)</title></circle></a><a href="/variants/s5/k4lb3g12dp13y2~x2/"><circle cx="137.5" cy="221.2" r="4" fill="#3465a4"><title>Wilson's, No 176</title></circle></a><a href="/variants/s5/n5dp3n18k16y3~x4/"><circle cx="232.6" cy="228.8" r="4" fill="#3465a4"><title>New York State Police Pipe Band</title></circle></a><a href="/variants/s5/y3dp17do9k25w3~x2~dp1502305-do1301000/"><circle cx="177.0" cy="204.3" r="4" fill="#3465a4"><title>Teylu Coleman (Cornwall)</title></circle></a><a href="/variants/s5/k3r11db26dy11lo3~x2/"><circle cx="212.5" cy="199.6" r="4" fill="#3465a4"><title>Novotel, The</title></circle></a><a href="/variants/s5/w3db12k12r20g2~x2/"><circle cx="140.6" cy="189.5" r="4" fill="#3465a4"><title>Baillie of Polkemett</title></circle></a><a href="/variants/s5/w3t12k12r20g2~x2/"><circle cx="138.2" cy="191.4" r="4" fill="#3465a4"><title>Baillie of Polkemmet Red</title></circle></a><a href="/variants/s5/k4lb3dp11g14y2~x2/"><circle cx="148.5" cy="217.5" r="4" fill="#3465a4"><title>Wellington, No 122</title></circle></a><a href="/variants/s6/w5k26dy26lb7k3r3~x2/"><circle cx="154.4" cy="174.3" r="4" fill="#3465a4"><title>Cornish National District Tartan</title></circle></a><circle cx="192.3" cy="199.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Coronation Commemorative Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Coronation"
+  url: "/tartans/c/co/coronation/"
 ---
 This is the **Coronation Commemorative Tartan** sett — one scale-free proportion (`db7w1r7db4r2db4w2`), colour order pattern
 [BWRBRBW](/stripes/bwrbrbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db11w1r12db6r1db6w1~x4/"><circle cx="355.3" cy="206.6" r="4" fill="#3465a4"><title>Coronation (1936) #2</title></circle></a><a href="/variants/s7/db11w1r12db6r1db6w1~x2/"><circle cx="355.3" cy="206.6" r="4" fill="#3465a4"><title>Coronation</title></circle></a><a href="/variants/s6/db3r24db3r3db25w3~x2/"><circle cx="322.8" cy="211.0" r="4" fill="#3465a4"><title>Matthews (Personal)</title></circle></a><a href="/variants/s6/db2r7db2r7db22y2~x2/"><circle cx="397.6" cy="205.4" r="4" fill="#3465a4"><title>MacQueen variant</title></circle></a><a href="/variants/s6/db1r3db1r3db6g1~x4/"><circle cx="311.3" cy="251.5" r="4" fill="#3465a4"><title>Robbins Family Tartan</title></circle></a><a href="/variants/s7/db12w4db1w4r8w2r1~x4/"><circle cx="222.2" cy="205.2" r="4" fill="#3465a4"><title>Sunderland</title></circle></a><a href="/variants/s10/db20lb2w5r2db10lb5db20lb2w5r5~x2/"><circle cx="320.8" cy="180.9" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/variants/s6/db3r2g5r8db12w3~x2/"><circle cx="193.9" cy="242.5" r="4" fill="#3465a4"><title>Edinburgh Bus Company (Corporate)</title></circle></a><a href="/variants/s5/db6r1db6r5w5~x4/"><circle cx="222.1" cy="288.4" r="4" fill="#3465a4"><title>U.S. Coast Guard (Corporate)</title></circle></a><a href="/variants/s5/db6r1db6r9w1~x2/"><circle cx="315.6" cy="242.8" r="4" fill="#3465a4"><title>Hamilton</title></circle></a><circle cx="274.8" cy="247.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

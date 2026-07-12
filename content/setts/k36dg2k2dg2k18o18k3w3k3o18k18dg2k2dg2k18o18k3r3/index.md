@@ -1,6 +1,11 @@
 ---
 title: "Chapman (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Chapman"
+  url: "/tartans/c/ch/chapman/"
 ---
 This is the **Chapman (Personal)** sett — one scale-free proportion (`k36dg2k2dg2k18o18k3w3k3o18k18dg2k2dg2k18o18k3r3`), colour order pattern
 [KGKGKRKWKRKGKGKRKR](/stripes/kgkgkrkwkrkgkgkrkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2~r2109032/"><circle cx="230.0" cy="65.9" r="4" fill="#3465a4"><title>Mizzou American Corporate Tartan</title></circle></a><a href="/variants/s20/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2/"><circle cx="230.0" cy="65.9" r="4" fill="#3465a4"><title>Mizzou (Corporate)</title></circle></a><a href="/variants/s16/k8dr3k1w2n1y1k25n2y2k3dr5k1w3y7k1n1~x2/"><circle cx="269.2" cy="60.0" r="4" fill="#3465a4"><title>Northern Guard Supporters</title></circle></a><a href="/variants/s11/dp2r1k4y2k12y8k12y2k4y1w2~x2/"><circle cx="271.8" cy="133.1" r="4" fill="#3465a4"><title>Gary Personal Tartan</title></circle></a><a href="/variants/s18/dr12k2y2k2dr2k2y2k2dr12k1w2db3w2k1dr12k2y2k2~x2/"><circle cx="254.8" cy="108.2" r="4" fill="#3465a4"><title>City of New Bern 300</title></circle></a><a href="/variants/s18/o6g5o6k34w3k3w3k3o6k3w3k3w3k34o6g5o6k5~x2/"><circle cx="266.0" cy="102.0" r="4" fill="#3465a4"><title>Woodberry Forest School</title></circle></a><a href="/variants/s12/k5y3dg10k23r3k10r3w2r9w2k3w1~x2/"><circle cx="227.9" cy="96.4" r="4" fill="#3465a4"><title>Watson-Kirby (Personal)</title></circle></a><a href="/variants/s15/g2r4g2k16g4k16g4k2g2k2g4k4db8k1w2~x2/"><circle cx="223.1" cy="110.2" r="4" fill="#3465a4"><title>MacKean Hunting Family Tartan</title></circle></a><a href="/variants/s11/r9k3r9k2t4k4dp4k3dp2k32g6~x2/"><circle cx="245.5" cy="101.0" r="4" fill="#3465a4"><title>Brotherhood of Dirk (Corporate)</title></circle></a><a href="/variants/s15/g2dr4g2k16g2k16g4k2g2k2g4k4db8k1lb2~x2/"><circle cx="241.9" cy="109.9" r="4" fill="#3465a4"><title>MacKean Hunting</title></circle></a><circle cx="267.6" cy="87.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

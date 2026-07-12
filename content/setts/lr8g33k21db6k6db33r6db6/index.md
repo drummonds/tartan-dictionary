@@ -1,6 +1,11 @@
 ---
 title: "Royal Highland Corporate Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Royal Highland"
+  url: "/tartans/r/ro/royal-highland/"
 ---
 This is the **Royal Highland Corporate Tartan** sett — one scale-free proportion (`lr8g33k21db6k6db33r6db6`), colour order pattern
 [BRBKBKGY](/stripes/brbkbkgy/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db20k10lo3k7dr4k7lo3k8g20~x2/"><circle cx="105.7" cy="194.1" r="4" fill="#3465a4"><title>Scottish Tartan Society</title></circle></a><a href="/variants/s7/db5lb4db22k15g22r4g4~x2/"><circle cx="106.6" cy="210.9" r="4" fill="#3465a4"><title>Cairngorm #2</title></circle></a><a href="/variants/s7/k4t21dy10y4k20r6t3~x2/"><circle cx="108.7" cy="195.6" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="145.6" cy="229.5" r="4" fill="#3465a4"><title>Murray (Variation) Clan Tartan</title></circle></a><a href="/variants/s8/g24k4g6r4g6k19db22w5~x2/"><circle cx="108.4" cy="198.8" r="4" fill="#3465a4"><title>MacRae, Ancient hunting</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17g18ly4~x2/"><circle cx="131.9" cy="163.2" r="4" fill="#3465a4"><title>Scotch House 2000 Original</title></circle></a><a href="/variants/s6/dr1k1g6k6db6lr1~x4/"><circle cx="100.0" cy="213.3" r="4" fill="#3465a4"><title>Gaines Center for the Humanities</title></circle></a><a href="/variants/s8/r3db20g3k20db3g20w3g3~x2/"><circle cx="111.0" cy="184.0" r="4" fill="#3465a4"><title>MacFrog (Personal)</title></circle></a><a href="/variants/s6/r4db24k12g14k4lb3~x2/"><circle cx="132.3" cy="198.9" r="4" fill="#3465a4"><title>MacPhail Hunting #2</title></circle></a><a href="/variants/s9/db10r7db31k25g23k8db7k8y5~x2/"><circle cx="119.9" cy="201.2" r="4" fill="#3465a4"><title>MacCallum, of Berwick</title></circle></a><circle cx="110.6" cy="199.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

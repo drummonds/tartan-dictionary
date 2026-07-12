@@ -1,6 +1,11 @@
 ---
 title: "Blackburn Appalachian Htg (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Blackburn Appalachian Hunting"
+  url: "/tartans/b/bl/blackburn-appalachian-hunting/"
 ---
 This is the **Blackburn Appalachian Htg (Personal)** sett — one scale-free proportion (`dg7k2dg7ly1k2ly1k10ly3dr10ly3k10ly1dg11k2dg3k2`), colour order pattern
 [GKGYKYKYBYKYGKGK](/stripes/gkgykykybykygkgk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/g7k2g7y1k2y1k10y3r10y3k10y1g11k2g3k2~x2/"><circle cx="132.7" cy="156.2" r="4" fill="#3465a4"><title>Blackburn Appalachian Hunting</title></circle></a><a href="/variants/s18/dr3g20k2db3k12db3k2dr20g3dr20k2db3k12db3k2g20dr3db2~x2/"><circle cx="147.7" cy="147.9" r="4" fill="#3465a4"><title>Matthew Gloag Corporate Tartan</title></circle></a><a href="/variants/s16/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1y2dp1~x2/"><circle cx="165.1" cy="130.0" r="4" fill="#3465a4"><title>Kettles, Ryan &amp; Alan (Personal)</title></circle></a><a href="/variants/s16/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1ly2dp1~x2/"><circle cx="161.8" cy="129.0" r="4" fill="#3465a4"><title>Kettles, Ryan &amp; Alan (Personal)</title></circle></a><a href="/variants/s15/dt8k1dt2k1dt2k6g8k1w2k1g8k6dt8k1dt2~x4/"><circle cx="141.9" cy="177.2" r="4" fill="#3465a4"><title>74th Regiment of Foot (Mil.)</title></circle></a><a href="/variants/s14/dp20k2w2k2dp2k10g3k2g20k2g3k10dp8k2~x2/"><circle cx="150.1" cy="147.6" r="4" fill="#3465a4"><title>Caithelyn (Personal)</title></circle></a><a href="/variants/s12/dr8w2dr22k8dg6k6dg6k6dg8lg3dg3lg3~x2/"><circle cx="140.2" cy="163.1" r="4" fill="#3465a4"><title>Wcwm 1712</title></circle></a><a href="/variants/s17/n5lb2n12k21dg12k4dg4k4dr4k4dg4k4dg12k21n12lb2n4~x2/"><circle cx="164.3" cy="147.0" r="4" fill="#3465a4"><title>Psychological Operations Regiment</title></circle></a><a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1~x2/"><circle cx="133.0" cy="158.4" r="4" fill="#3465a4"><title>Cumming (d)</title></circle></a><a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1/"><circle cx="133.0" cy="158.4" r="4" fill="#3465a4"><title>Cumming</title></circle></a><circle cx="149.7" cy="159.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

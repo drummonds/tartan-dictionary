@@ -1,6 +1,15 @@
 ---
 title: "Carrick (Strathmore) District Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Carrick"
+  url: "/clan/carrick/"
+- name: "Carrick"
+  url: "/families/carrick/"
+- name: "Carrick"
+  url: "/tartans/c/ca/carrick-2/"
 ---
 This is the **Carrick (Strathmore) District Tartan** sett — one scale-free proportion (`r28db12r3dg20lb2dg2r7`), colour order pattern
 [RBRGWGR](/stripes/rbrgwgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r6g16r4db12r16lb1r2~x2/"><circle cx="274.5" cy="193.5" r="4" fill="#3465a4"><title>MacQuarrie #6</title></circle></a><a href="/variants/s7/r6g16r4db12r16w1r2~x2/"><circle cx="271.0" cy="192.4" r="4" fill="#3465a4"><title>MacQuarrie LO</title></circle></a><a href="/variants/s8/r12db2w1db2r3g8r3db1~x2/"><circle cx="313.2" cy="180.6" r="4" fill="#3465a4"><title>Chisholm (Portrait) The.. Clan Tartan</title></circle></a><a href="/variants/s8/r12db2w1db2r3g8r3db1/"><circle cx="313.2" cy="180.6" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/variants/s7/r3b1r12o3dg12w1dg2~x4/"><circle cx="261.6" cy="175.4" r="4" fill="#3465a4"><title>Leckie (Personal)</title></circle></a><a href="/variants/s6/db1r16db6y4db6w1~x4/"><circle cx="295.3" cy="186.1" r="4" fill="#3465a4"><title>Superfast Ferries (Corporate)</title></circle></a><a href="/variants/s9/r28db12r3g20dp1g2dp1g2r7~x2/"><circle cx="319.4" cy="136.3" r="4" fill="#3465a4"><title>Carrick (Clan)</title></circle></a><a href="/variants/s10/db2r30g8r3g8r6db4r3db12w2~x2/"><circle cx="303.8" cy="154.7" r="4" fill="#3465a4"><title>Jenkins (Name)</title></circle></a><a href="/variants/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/"><circle cx="269.3" cy="168.8" r="4" fill="#3465a4"><title>Glenfinnan</title></circle></a><a href="/variants/s6/r1db6r1dg6r12w1~x2/"><circle cx="289.9" cy="191.8" r="4" fill="#3465a4"><title>Fraser Red Clan Tartan</title></circle></a><circle cx="300.4" cy="183.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Innes Dress, Red (Dance)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Innes,"
+  url: "/clan/innes/"
+- name: "Innes"
+  url: "/families/innes/"
+- name: "Innes Dress"
+  url: "/tartans/i/in/innes-dress-3/"
 ---
 This is the **Innes Dress, Red (Dance)** sett — one scale-free proportion (`t3k2lr20dr2lr3dr2lr3dr4lo3dr2db4dr2k2g6k3dr2lr3`), colour order pattern
 [BKYBYBYBYBBBKGKBY](/stripes/bkybybybybbbkgkby/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/r4o2w2o23w2o2r4o2w2o2w12db6y2k4n2w2~x2/"><circle cx="126.9" cy="82.3" r="4" fill="#3465a4"><title>Palmer, General W.J.</title></circle></a><a href="/variants/s18/k2lr6y2lr2y2lr19t2dg2t2lr2dr4k2dr11dg2dr2dg2dr6y2~x2~dg1502166/"><circle cx="132.2" cy="104.9" r="4" fill="#3465a4"><title>Harmon Dress</title></circle></a><a href="/variants/s12/db4lb1k3y1k1w1k1g8r12lb1r2k1~x4/"><circle cx="103.5" cy="91.8" r="4" fill="#3465a4"><title>MacLean of Duart #6</title></circle></a><a href="/variants/s12/db4lb1k3y1k1w1k1g8r12lb1r2k1~x2/"><circle cx="103.5" cy="91.8" r="4" fill="#3465a4"><title>MacLean of Duart Clan Tartan</title></circle></a><a href="/variants/s19/k2lr6y2lr2y2lr19db2g2db2lr2dr4k2dr11g2dr2g2dr11g2y2~x2/"><circle cx="116.8" cy="103.1" r="4" fill="#3465a4"><title>Harmon Dress (Personal)</title></circle></a><a href="/variants/s14/r12w1k1g12y2db5lb6r2lb2r4g2r2k2g2~x2/"><circle cx="95.6" cy="108.2" r="4" fill="#3465a4"><title>Unidentified #31</title></circle></a><a href="/variants/s19/k2lr6y2lr2y2lr19db2dg2db2lr2dr4k2dr11dg2dr2dg2dr11dg2y2~x2~db1406275-dg1806142/"><circle cx="119.2" cy="103.4" r="4" fill="#3465a4"><title>Harmon Dress Name Tartan</title></circle></a><a href="/variants/s17/r30w2lb4k4y2k2w6k2lb11k15y3g20r14w4r4k2r8~x2/"><circle cx="116.7" cy="88.1" r="4" fill="#3465a4"><title>Wilson's No.156</title></circle></a><a href="/variants/s24/r16g1r1g1r1g4k1w1k1y1k1lb6db4lb6k1y1k1w1k1g4r12g1r1k1~x2/"><circle cx="137.9" cy="41.4" r="4" fill="#3465a4"><title>Macan of Lurgyvallan Portrait Tartan</title></circle></a><a href="/variants/s16/db12k2ly28k2n2k2lo2k2ly28k2db12r12k3lo2k3r12~x2~ly2503076-lo3006076/"><circle cx="159.6" cy="93.2" r="4" fill="#3465a4"><title>Oneness</title></circle></a><circle cx="107.6" cy="87.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

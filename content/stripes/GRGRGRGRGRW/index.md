@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/y1r8g2r2g6r1g6r2g2r8w1/">Bruce</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/y1r8g2r2g6r1g6r2g2r8w1/"><img src="/variants/s11/y1r8g2r2g6r1g6r2g2r8w1~x2/sett.png" alt="Bruce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s11/y1r4g1r1g3r1g3r1g1r4w1~x2/">Bruce</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s11/y1r4g1r1g3r1g3r1g1r4w1~x2/"><img src="/variants/s11/y1r4g1r1g3r1g3r1g1r4w1~x2/sett.png" alt="Bruce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/y1r8g2r2g6r1g6r2g2r8w1/">Bruce</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/y1r8g2r2g6r1g6r2g2r8w1/"><img src="/variants/s11/y1r8g2r2g6r1g6r2g2r8w1~x2/sett.png" alt="Bruce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

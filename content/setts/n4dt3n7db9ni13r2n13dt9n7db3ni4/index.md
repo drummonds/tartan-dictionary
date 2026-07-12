@@ -1,6 +1,11 @@
 ---
 title: "Paul Henry (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Paul Henry"
+  url: "/tartans/p/pa/paul-henry-2/"
 ---
 This is the **Paul Henry (Personal)** sett — one scale-free proportion (`n4dt3n7db9ni13r2n13dt9n7db3ni4`), colour order pattern
 [BBBBBRBBBBB](/stripes/bbbbbrbbbbb/). It is recorded as a single **variant**, below.

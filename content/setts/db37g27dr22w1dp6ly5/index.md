@@ -1,6 +1,11 @@
 ---
 title: "Palazzo Bloise (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Palazzo Bloise"
+  url: "/tartans/p/pa/palazzo-bloise/"
 ---
 This is the **Palazzo Bloise (Personal)** sett — one scale-free proportion (`db37g27dr22w1dp6ly5`), colour order pattern
 [BGBWBY](/stripes/bgbwby/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db74g54dr44w2dp15y10/"><circle cx="250.7" cy="172.3" r="4" fill="#3465a4"><title>Palazzo Bloise (Personal)</title></circle></a><a href="/variants/s5/w4db30g10dr25w2~x2/"><circle cx="268.4" cy="225.6" r="4" fill="#3465a4"><title>Highland Spring Dress (2004) (Corp)</title></circle></a><a href="/variants/s7/db3g13lb1r3lb1db10y1~x2/"><circle cx="240.3" cy="185.8" r="4" fill="#3465a4"><title>Graeme Heckenberg Hunting</title></circle></a><a href="/variants/s7/db3g13lb1r3lb1db10ly1~x2/"><circle cx="234.9" cy="184.1" r="4" fill="#3465a4"><title>Heckenberg Htg (Personal)</title></circle></a><a href="/variants/s5/dp10db10g10w1dy1~x6/"><circle cx="202.8" cy="247.6" r="4" fill="#3465a4"><title>Edelstein (Personal)</title></circle></a><a href="/variants/s7/n50lb50y1db27g18do9y4~x2/"><circle cx="223.3" cy="149.7" r="4" fill="#3465a4"><title>Lachance (Canada) (Personal)</title></circle></a><a href="/variants/s8/dg18g6dy3w1dy3w1lb6db6~x2/"><circle cx="201.1" cy="166.3" r="4" fill="#3465a4"><title>Iroquois Falls Centenary</title></circle></a><a href="/variants/s6/db12lb6g30db9r8dy1~x2/"><circle cx="257.2" cy="165.8" r="4" fill="#3465a4"><title>Wright , Anne (Personal)</title></circle></a><a href="/variants/s6/db12lb6g30db9r8y1~x2/"><circle cx="257.9" cy="166.1" r="4" fill="#3465a4"><title>Wright, Anne (Personal)</title></circle></a><a href="/variants/s8/g6dp14t22db6ly16w1db6t6~x2/"><circle cx="178.1" cy="184.0" r="4" fill="#3465a4"><title>Scotia (Fashion)</title></circle></a><circle cx="240.0" cy="165.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

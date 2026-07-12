@@ -1,6 +1,11 @@
 ---
 title: "MacFie"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacFie"
+  url: "/clan/macfie/"
 ---
 A family of [Clan MacFie](/clan/macfie/).
 

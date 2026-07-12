@@ -1,6 +1,11 @@
 ---
 title: "Royal Caledonian Curling Club"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Royal Caledonian Curling Club"
+  url: "/tartans/r/ro/royal-caledonian-curling-club/"
 ---
 This is the **Royal Caledonian Curling Club** sett — one scale-free proportion (`dt72dr2dt2dr5dt4y2dt4dr5dt2db2dt2db15lb2db3r2`), colour order pattern
 [BBBBBGBBBBBBWBR](/stripes/bbbbbgbbbbbbwbr/). It is recorded as a single **variant**, below.

@@ -1,6 +1,15 @@
 ---
 title: "Peacock (Samantha)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Peacock"
+  url: "/clan/peacock/"
+- name: "Peacock"
+  url: "/families/peacock/"
+- name: "Peacock"
+  url: "/tartans/p/pe/peacock-2/"
 ---
 This is the **Peacock (Samantha)** sett — one scale-free proportion (`lb20dp3db7dy1`), colour order pattern
 [GBBW](/stripes/gbbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/w4lb34db60y3~x2/"><circle cx="373.0" cy="204.3" r="4" fill="#3465a4"><title>MacKerral Family Tartan</title></circle></a><a href="/variants/s3/lb9db14r1~x4/"><circle cx="351.0" cy="252.6" r="4" fill="#3465a4"><title>Stakis Hotels (Corporate)</title></circle></a><a href="/variants/s4/w4lb28db49y3~x2~db1204274/"><circle cx="356.8" cy="212.4" r="4" fill="#3465a4"><title>McKerrell of Hillhouse</title></circle></a><a href="/variants/s4/w4lb28db49y3~x2/"><circle cx="356.2" cy="214.2" r="4" fill="#3465a4"><title>McKerrell of Hillhouse Htg (Clan)</title></circle></a><a href="/variants/s5/lb25db11r5w1k1~x4/"><circle cx="309.9" cy="140.9" r="4" fill="#3465a4"><title>Mount Vernon Primary School</title></circle></a><a href="/variants/s4/db9dg16b56ly4~x2~dg1304144-ly3608101/"><circle cx="441.7" cy="233.4" r="4" fill="#3465a4"><title>Oxford University</title></circle></a><a href="/variants/s4/dbi9g16db59ly4~x2~dbi1406275-db1106275/"><circle cx="437.1" cy="221.0" r="4" fill="#3465a4"><title>Oxford University (Corporate)</title></circle></a><a href="/variants/s3/db23w4r4~x4/"><circle cx="354.3" cy="245.9" r="4" fill="#3465a4"><title>Auchmaliddie Samkoma</title></circle></a><a href="/variants/s5/dbi10r1ly1db3ly2~x5~dbi1406275-db1204274/"><circle cx="337.7" cy="209.3" r="4" fill="#3465a4"><title>Lytley Hunting (Personal)</title></circle></a><a href="/variants/s5/db7y1db7lb11r2~x6/"><circle cx="263.4" cy="230.4" r="4" fill="#3465a4"><title>Brazell (Personal)</title></circle></a><circle cx="397.7" cy="202.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Isle of Raasay"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Isle of Raasay"
+  url: "/tartans/i/is/isle-of-raasay/"
 ---
 This is the **Isle of Raasay** sett — one scale-free proportion (`dg60ly16dp8db2dy3`), colour order pattern
 [GBBYG](/stripes/gbbyg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dy8g50db4lb2w5y2~x2/"><circle cx="443.5" cy="138.3" r="4" fill="#3465a4"><title>Greenup (2015)</title></circle></a><a href="/variants/s4/g50dy25ly2dp6~x2/"><circle cx="434.0" cy="221.7" r="4" fill="#3465a4"><title>Highland Greenford (Personal)</title></circle></a><a href="/variants/s4/lb9g52dy15ly4~x2/"><circle cx="424.6" cy="241.6" r="4" fill="#3465a4"><title>McGuigan, Julia (Personal)</title></circle></a><a href="/variants/s5/db62ly4dy10do3g21~x2/"><circle cx="402.6" cy="184.5" r="4" fill="#3465a4"><title>McGovern (2016)</title></circle></a><a href="/variants/s5/db5ly5dy13g41r3~x2/"><circle cx="356.8" cy="192.4" r="4" fill="#3465a4"><title>Clare, Richard (Personal)</title></circle></a><a href="/variants/s4/w1g10dp4lt1~x2/"><circle cx="371.3" cy="241.9" r="4" fill="#3465a4"><title>Wilson's No.205</title></circle></a><a href="/variants/s5/dr8g19dg42ly3r1~x2/"><circle cx="403.6" cy="162.6" r="4" fill="#3465a4"><title>Nolan (Personal)</title></circle></a><a href="/variants/s6/g55y4db15w3dr3w5~x2/"><circle cx="390.6" cy="164.6" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/variants/s6/g55y4db15w3r3w5~x2/"><circle cx="379.9" cy="157.0" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/variants/s5/lo2db4g60dp30w1~x2/"><circle cx="431.7" cy="144.2" r="4" fill="#3465a4"><title>McGuinness, Tam (Personal)</title></circle></a><circle cx="450.8" cy="161.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

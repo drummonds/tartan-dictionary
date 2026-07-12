@@ -1,6 +1,13 @@
 ---
 title: "Kinloch at Loch Awe (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Kinloch"
+  url: "/clan/kinloch/"
+- name: "Kinloch at Loch Awe"
+  url: "/tartans/k/ki/kinloch-at-loch-awe/"
 ---
 This is the **Kinloch at Loch Awe (Personal)** sett — one scale-free proportion (`w18n29lb2dp3k1`), colour order pattern
 [KBWBW](/stripes/kbwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/w18n29t2dp3k1~x2~t2405244/"><circle cx="299.0" cy="134.7" r="4" fill="#3465a4"><title>Kinloch of Loch Awe (Personal)</title></circle></a><a href="/variants/s6/k2w1n8dr1lb28dr2~x2/"><circle cx="383.9" cy="110.8" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><a href="/variants/s5/k5w7k5n20db1~x4/"><circle cx="252.2" cy="168.8" r="4" fill="#3465a4"><title>Burberry Grey (Original)</title></circle></a><a href="/variants/s4/w40t40r1k4~x2/"><circle cx="293.6" cy="158.7" r="4" fill="#3465a4"><title>Kimon Andreou Family (Personal)</title></circle></a><a href="/variants/s4/w40db40r1k4~x2/"><circle cx="274.5" cy="147.8" r="4" fill="#3465a4"><title>Kimon Andreou Family (Personal)</title></circle></a><a href="/variants/s4/n62w11k4lg17~x2/"><circle cx="368.6" cy="191.6" r="4" fill="#3465a4"><title>Thunderlord (Corporate)</title></circle></a><a href="/variants/s5/k5w2y36lb47r3~x2/"><circle cx="291.6" cy="148.0" r="4" fill="#3465a4"><title>Oliver Dress Pink</title></circle></a><a href="/variants/s6/k2w1g5dr1lb18dr2~x2/"><circle cx="313.4" cy="132.1" r="4" fill="#3465a4"><title>Norris (1998) (Name)</title></circle></a><a href="/variants/s5/lb25db11r5w1k1~x4/"><circle cx="309.9" cy="140.9" r="4" fill="#3465a4"><title>Mount Vernon Primary School</title></circle></a><a href="/variants/s7/b26w28b14y3k1y2k1~x2/"><circle cx="300.7" cy="136.3" r="4" fill="#3465a4"><title>Gothenburg</title></circle></a><circle cx="300.0" cy="135.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

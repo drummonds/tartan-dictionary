@@ -1,6 +1,15 @@
 ---
 title: "Dunedin (NZ)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Dunedin"
+  url: "/clan/dunedin/"
+- name: "Dunedin"
+  url: "/families/dunedin/"
+- name: "Dunedin"
+  url: "/tartans/d/du/dunedin-4/"
 ---
 This is the **Dunedin (NZ)** sett — one scale-free proportion (`y1ly4k1r1k1g4w1g1`), colour order pattern
 [GWGKRKYG](/stripes/gwgkrkyg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/n4k1w1k1w1k1n4db2g6r1~x6/"><circle cx="83.0" cy="178.8" r="4" fill="#3465a4"><title>Mitsukoshi Sendai</title></circle></a><a href="/variants/s8/g4lb2g9k4g2r6db12w2~x2/"><circle cx="75.1" cy="193.0" r="4" fill="#3465a4"><title>Cherokee</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11g13k2~x2/"><circle cx="57.7" cy="174.5" r="4" fill="#3465a4"><title>Kentucky, State of (District)</title></circle></a><a href="/variants/s6/r10k17lb10dp17g40y10~x2/"><circle cx="61.5" cy="223.1" r="4" fill="#3465a4"><title>Gallowater, Original</title></circle></a><a href="/variants/s8/dg9w2dg9k2ly14lyi4w2r2~x4~ly2503076-lyi2705081/"><circle cx="127.6" cy="180.2" r="4" fill="#3465a4"><title>MacShane (Clan)</title></circle></a><a href="/variants/s9/k13y4g15w4r13w4g15w4db13~x2/"><circle cx="16.9" cy="219.8" r="4" fill="#3465a4"><title>Spirit of 1994</title></circle></a><a href="/variants/s8/dr3dg2n2dg3k6b2ly10b2~x2/"><circle cx="39.1" cy="191.4" r="4" fill="#3465a4"><title>Burnfoot Check</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11dg13k2~x2~r2109032-db1406275-dg1806142/"><circle cx="66.1" cy="175.2" r="4" fill="#3465a4"><title>Kentucky State American District Tartan</title></circle></a><a href="/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/"><circle cx="96.0" cy="204.9" r="4" fill="#3465a4"><title>Corcoran of Sherbrooke (Personal)</title></circle></a><a href="/variants/s8/o3g1lb6k1g6o4k1lo1~x4/"><circle cx="97.8" cy="208.0" r="4" fill="#3465a4"><title>Orkney District Tartan</title></circle></a><circle cx="65.3" cy="204.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Bute Heather, Modern"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Bute Heather"
+  url: "/tartans/b/bu/bute-heather-4/"
 ---
 This is the **Bute Heather, Modern** sett — one scale-free proportion (`db6w1dt18k6dt4k4dp8dg1dp8k2db5`), colour order pattern
 [BKBGBKBKBWB](/stripes/bkbgbkbkbwb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db13w2dt38k13dt8k8dp17dg2dp17k4db11/"><circle cx="201.7" cy="155.8" r="4" fill="#3465a4"><title>Bute Heather (Fashion)</title></circle></a><a href="/variants/s10/db45dp6n6dp30dg6dp6dg30k4r4k3/"><circle cx="240.0" cy="159.0" r="4" fill="#3465a4"><title>Dalgliesh, Ewen (Personal)</title></circle></a><a href="/variants/s11/db6ki2dp14ki5dp14ki3k4ki6k24w2dp6~x2~ki0700000-k0504259/"><circle cx="259.2" cy="183.7" r="4" fill="#3465a4"><title>Dunn (Canada) (Name)</title></circle></a><a href="/variants/s15/k15ki4k4ki4k4ki16db16ki2g3ki2db16ki16k18ki1w2~x2~k0504259-ki0700000/"><circle cx="264.7" cy="168.1" r="4" fill="#3465a4"><title>McCruden, Raymond (Personal)</title></circle></a><a href="/variants/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/"><circle cx="242.3" cy="130.7" r="4" fill="#3465a4"><title>Newlands, Charlie (Personal)</title></circle></a><a href="/variants/s11/db13w2dt38k13dt8k8dp17dg2dp17k4db11~db1204274-dp1607327/"><circle cx="177.3" cy="144.7" r="4" fill="#3465a4"><title>Bute Heather</title></circle></a><a href="/variants/s14/do18k2do2k2do9dg10dy2dg10dp11k9dp2k2dp1r3~x2/"><circle cx="221.1" cy="152.0" r="4" fill="#3465a4"><title>Hay-Gray (Personal)</title></circle></a><a href="/variants/s10/dbi6dpi10dp4dpi11dg20k4dg8k21db47dbi2~dbi1406275-dpi1607327-dp1105325-db1204274/"><circle cx="219.0" cy="135.6" r="4" fill="#3465a4"><title>Spirit of Alva (Fashion)</title></circle></a><a href="/variants/s10/k4db16lb2db16dr4dp7dg21dr3dg4do3~x2/"><circle cx="224.0" cy="176.7" r="4" fill="#3465a4"><title>Scottish Lion Name Tartan</title></circle></a><circle cx="244.3" cy="173.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

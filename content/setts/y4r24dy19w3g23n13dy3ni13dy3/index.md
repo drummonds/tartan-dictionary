@@ -1,6 +1,15 @@
 ---
 title: "Teallach"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Teallach"
+  url: "/clan/teallach/"
+- name: "Teallach"
+  url: "/families/teallach/"
+- name: "Teallach"
+  url: "/tartans/t/te/teallach/"
 ---
 This is the **Teallach** sett — one scale-free proportion (`y4r24dy19w3g23n13dy3ni13dy3`), colour order pattern
 [GBGBGWGRG](/stripes/gbgbgwgrg/). It is recorded as a single **variant**, below.

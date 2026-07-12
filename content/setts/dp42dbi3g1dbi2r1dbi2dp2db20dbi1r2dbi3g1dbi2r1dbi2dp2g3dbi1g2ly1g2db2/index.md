@@ -1,6 +1,11 @@
 ---
 title: "Monarch of the Glen"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Monarch of the Glen"
+  url: "/tartans/m/mo/monarch-of-the-glen/"
 ---
 This is the **Monarch of the Glen** sett — one scale-free proportion (`dp42dbi3g1dbi2r1dbi2dp2db20dbi1r2dbi3g1dbi2r1dbi2dp2g3dbi1g2ly1g2db2`), colour order pattern
 [BBGBRBBBBRBGBRBBGBGYGB](/stripes/bbgbrbbbbrbgbrbbgbgygb/). It is recorded as a single **variant**, below.

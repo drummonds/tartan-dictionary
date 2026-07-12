@@ -1,6 +1,15 @@
 ---
 title: "Scott (Abbreviated)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Scott"
+  url: "/clan/scott/"
+- name: "Scott"
+  url: "/families/scott/"
+- name: "Scott"
+  url: "/tartans/s/sc/scott-9/"
 ---
 This is the **Scott (Abbreviated)** sett — one scale-free proportion (`w2k1w6k6w2k1w1`), colour order pattern
 [WKWKWKW](/stripes/wkwkwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n8k3n17k13n6k3n4~x2/"><circle cx="339.1" cy="251.0" r="4" fill="#3465a4"><title>Scott Black and Grey</title></circle></a><a href="/variants/s7/w24k16w1k16w3k8w2~x2/"><circle cx="330.8" cy="178.1" r="4" fill="#3465a4"><title>Saks Fifth Avenue (Corp)</title></circle></a><a href="/variants/s6/w5k4w32k32w5k4~x2/"><circle cx="288.2" cy="215.7" r="4" fill="#3465a4"><title>Valley Forge (Artefact)</title></circle></a><a href="/variants/s6/n6k17n6k17n45k4~x2/"><circle cx="356.6" cy="209.6" r="4" fill="#3465a4"><title>Grey Spirit (Fashion)</title></circle></a><a href="/variants/s7/w5r3w35k28w4k11w2~x2/"><circle cx="287.7" cy="163.9" r="4" fill="#3465a4"><title>MacPherson of Cluny (Black and White)</title></circle></a><a href="/variants/s6/n6k16n6k16n45k4~x2/"><circle cx="363.9" cy="208.1" r="4" fill="#3465a4"><title>Grey Spirit Fashion Tartan</title></circle></a><a href="/variants/s7/w6t3w20k2w3k25w3~x2/"><circle cx="270.7" cy="176.9" r="4" fill="#3465a4"><title>Forbes Dress (Clans Originaux)</title></circle></a><a href="/variants/s7/w4k4w21k12w4k12ly4/"><circle cx="205.3" cy="233.7" r="4" fill="#3465a4"><title>Mazda</title></circle></a><a href="/variants/s6/k2w1k9w9k1w2~x6/"><circle cx="284.4" cy="216.3" r="4" fill="#3465a4"><title>Erskine (Black and White)</title></circle></a><a href="/variants/s6/k2w1k9w9k1w2~x3/"><circle cx="284.4" cy="216.3" r="4" fill="#3465a4"><title>Erskine BW MINI Design Tartan</title></circle></a><circle cx="288.4" cy="233.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

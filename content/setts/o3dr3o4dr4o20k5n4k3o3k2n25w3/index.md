@@ -1,6 +1,15 @@
 ---
 title: "MacLellan of Gartbreck (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacLellan"
+  url: "/clan/maclellan/"
+- name: "MacLellan of Gartbreck"
+  url: "/families/maclellan-of-gartbreck/"
+- name: "MacLellan of Gartbreck"
+  url: "/tartans/m/ma/maclellan-of-gartbreck/"
 ---
 This is the **MacLellan of Gartbreck (Personal)** sett — one scale-free proportion (`o3dr3o4dr4o20k5n4k3o3k2n25w3`), colour order pattern
 [RBRBRKBKRKBW](/stripes/rbrbrkbkrkbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/o9w2o18k3o3k3o3k12n30k6n6r6~o2500000-n1900000/"><circle cx="147.7" cy="130.4" r="4" fill="#3465a4"><title>Urquhart (Fashion)</title></circle></a><a href="/variants/s12/n4dr20k2dr2k2dr3k6o26w3o2w2o4~x2~n1900000-o2500000/"><circle cx="183.7" cy="115.1" r="4" fill="#3465a4"><title>Eidart 1990 (Fashion)</title></circle></a><a href="/variants/s14/k2g2r3db18r2g6r4lb1db6r3g18r3k2g2~x2/"><circle cx="176.6" cy="113.4" r="4" fill="#3465a4"><title>Glen Orchy #2 or MacIntyre</title></circle></a><a href="/variants/s14/k2g2r3dp18r2g6r4y2dp6r3g18r3k2g2~x2/"><circle cx="160.9" cy="139.6" r="4" fill="#3465a4"><title>MacIntyre and Glenorchy</title></circle></a><a href="/variants/s12/r2k1r1k1g15r4db4r3db3y1k1y2~x6/"><circle cx="171.4" cy="116.9" r="4" fill="#3465a4"><title>Celts, Tartan of the</title></circle></a><a href="/variants/s9/g26db3dr3db20dr3db3dr30lb3k2~x2/"><circle cx="211.9" cy="148.2" r="4" fill="#3465a4"><title>Ormiston (Personal)</title></circle></a><a href="/variants/s12/db25g5db2y2k2r3g20r20db2w2k2r2~x2/"><circle cx="130.8" cy="109.9" r="4" fill="#3465a4"><title>Quebec Plaid Du.. Corporate Tartan</title></circle></a><a href="/variants/s11/lb3k1n12k1n1k2n1k6lr12k1lo1~x4~lb3103284-lr2800000/"><circle cx="136.7" cy="131.0" r="4" fill="#3465a4"><title>McCandlish Dress, Grey (Name)</title></circle></a><a href="/variants/s10/dp4lb2dp2lb8k3dp8dg3dp4dg24g2~x2~dg1806142-g2408144/"><circle cx="206.1" cy="146.4" r="4" fill="#3465a4"><title>Jones Htg (Name)</title></circle></a><a href="/variants/s13/db2g6db27r2k2w2db2r24g23db2r2k2y2~x2/"><circle cx="140.3" cy="99.4" r="4" fill="#3465a4"><title>Olympic Corporate Tartan</title></circle></a><circle cx="182.0" cy="133.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

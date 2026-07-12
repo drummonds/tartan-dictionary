@@ -1,6 +1,15 @@
 ---
 title: "Buglass"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Buglass"
+  url: "/clan/buglass/"
+- name: "Buglass"
+  url: "/families/buglass/"
+- name: "Buglass"
+  url: "/tartans/b/bu/buglass/"
 ---
 This is the **Buglass** sett — one scale-free proportion (`lo3dt1lo1dt16do2dt2do2dt3do12doi26ly2doi3lb2`), colour order pattern
 [WBYBBBBBBBYBY](/stripes/wbybbbbbbbyby/). It is recorded as a single **variant**, below.

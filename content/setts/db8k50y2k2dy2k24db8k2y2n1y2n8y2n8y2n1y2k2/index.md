@@ -1,6 +1,11 @@
 ---
 title: "Quraysh"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Quraysh"
+  url: "/tartans/q/qu/quraysh/"
 ---
 This is the **Quraysh** sett — one scale-free proportion (`db8k50y2k2dy2k24db8k2y2n1y2n8y2n8y2n1y2k2`), colour order pattern
 [BKGKGKBKGBGBGBGBGK](/stripes/bkgkgkbkgbgbgbgbgk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s23/k207db6k2db6k2db6k2db6k92dbi28k6w4dbi77db6k2dbi10k2dbi10k2dbi10k2r4dbi14~db0805267-dbi1604274/"><circle cx="385.5" cy="14.0" r="4" fill="#3465a4"><title>Unidentified Plaid 12</title></circle></a><a href="/variants/s14/k3y3k3y3k3y3k3y3k36w1k2db9r2db1~x2/"><circle cx="361.0" cy="44.1" r="4" fill="#3465a4"><title>Goldwire (2015)</title></circle></a><a href="/variants/s17/k6o1n19k2do1dy1do4k28n2k4n2k1o2k1n2k1o2~x2~o2500000-n1900000/"><circle cx="283.5" cy="52.8" r="4" fill="#3465a4"><title>North Sea Oil (Fashion)</title></circle></a><a href="/variants/s11/r4k1db8k1r2k44g8k1y2k1g4~x2/"><circle cx="340.9" cy="39.8" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><a href="/variants/s12/k69dr6k4dr1k12w1dr6ly1dr24ly1dr5g3~x2/"><circle cx="410.7" cy="45.9" r="4" fill="#3465a4"><title>Downs Dress (Personal)</title></circle></a><a href="/variants/s10/r4k2db8r2k44g8k1ly2k1g4~x2/"><circle cx="336.5" cy="47.3" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><a href="/variants/s12/k86n6k4lb3k3dr3k3n22o14k3o6lb4/"><circle cx="327.4" cy="50.9" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/variants/s21/dp3ly1k4dp1k4dp1k41dp1k4dp1k4dr15ly1dr3ly2dr3ly3dr1ly6k1w2~x2/"><circle cx="289.5" cy="16.7" r="4" fill="#3465a4"><title>New Star (Fashion)</title></circle></a><a href="/variants/s22/db5w1db5w1db5w1db5w1db5w1lo5b1y5b1lo5y1k36w1b3w1k72w1~x2~db1404245-b1511266/"><circle cx="341.1" cy="14.0" r="4" fill="#3465a4"><title>Khalsa</title></circle></a><a href="/variants/s27/k18db5ly3k1w3k1ly3db5dg8w1k36db5k1w1k1db3w1ly3w1db3k1w1k1db5k18dg8w1~x2/"><circle cx="257.4" cy="26.8" r="4" fill="#3465a4"><title>MacPerl (Personal)</title></circle></a><circle cx="350.0" cy="28.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

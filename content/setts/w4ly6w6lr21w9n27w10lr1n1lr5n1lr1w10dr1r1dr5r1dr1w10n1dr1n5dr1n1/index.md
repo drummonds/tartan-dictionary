@@ -1,6 +1,15 @@
 ---
 title: "Oriflame"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Oriflame"
+  url: "/clan/oriflame/"
+- name: "Oriflame"
+  url: "/families/oriflame/"
+- name: "Oriflame"
+  url: "/tartans/o/or/oriflame/"
 ---
 This is the **Oriflame** sett — one scale-free proportion (`w4ly6w6lr21w9n27w10lr1n1lr5n1lr1w10dr1r1dr5r1dr1w10n1dr1n5dr1n1`), colour order pattern
 [BBBBBWBRBRBWYBYBYWBWYWYW](/stripes/bbbbbwbrbrbwybybywbwywyw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s24/w4lb6w6lb21w9n27w10lb1n1lb5n1lb1w10r1ri1r5ri1r1w10n1r1n5r1n1~x2~r1807033-ri2109032/"><circle cx="209.8" cy="86.8" r="4" fill="#3465a4"><title>Oriflame</title></circle></a><a href="/variants/s28/w70o7db7w7db7o7w7db5o9y4o3w4o3g13o70g30o4r10o4g30o15db4o4db4o4db27g6db27~x2/"><circle cx="133.1" cy="63.0" r="4" fill="#3465a4"><title>Unidentified Plaid 15</title></circle></a><a href="/variants/s15/t4w2t1w19r2do4t8g4w2t3dy2g2do2r2dy2~x2/"><circle cx="153.9" cy="106.5" r="4" fill="#3465a4"><title>Highlands of Haliburton Dress</title></circle></a><a href="/variants/s12/w63k4lb9y2lb4y2lb4dy11r8lb2r4w5~x2/"><circle cx="171.5" cy="30.6" r="4" fill="#3465a4"><title>Seller, Reproduction Dress</title></circle></a><a href="/variants/s10/w55dg12r2dg3w2dgi10dp9dg2dp6w2~x2~dgi1806142-dp1607327/"><circle cx="195.3" cy="72.7" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/variants/s17/lb24lg2lb4b2lg2lb4b4lg5g5ly3r7dp2r2dp3r1dp23lb4~x2/"><circle cx="154.8" cy="75.6" r="4" fill="#3465a4"><title>Scotland's Grace</title></circle></a><a href="/variants/s18/y2ri5r3w54r5g3r5db20ri5r3ri5g16r2db4r48ri6r3w2~x2~ri2806019-r2109032/"><circle cx="168.9" cy="57.9" r="4" fill="#3465a4"><title>Somerville Dress (Name?)</title></circle></a><a href="/variants/s25/lb22r1lo4lb4lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo9dy24db2~x4/"><circle cx="247.2" cy="60.5" r="4" fill="#3465a4"><title>Allen Hunting (?Thomson)</title></circle></a><a href="/variants/s20/dg7y2r1n4lb15n1y2n1y2n2y2n1y2n1lb15n4r1y2dg7y1~x4/"><circle cx="211.5" cy="125.0" r="4" fill="#3465a4"><title>Hutt #1 (Personal)</title></circle></a><a href="/variants/s13/w4lb1db1w22lb2w2db12r2g16r4lb1r4db2~x2/"><circle cx="171.0" cy="112.3" r="4" fill="#3465a4"><title>MacGillivray Dress, Janice</title></circle></a><circle cx="181.1" cy="74.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

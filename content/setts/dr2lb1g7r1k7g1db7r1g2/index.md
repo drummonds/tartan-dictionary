@@ -1,6 +1,11 @@
 ---
 title: "MacCraig"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "MacCraig"
+  url: "/tartans/m/ma/maccraig/"
 ---
 This is the **MacCraig** sett — one scale-free proportion (`dr2lb1g7r1k7g1db7r1g2`), colour order pattern
 [BWGRKGBRG](/stripes/bwgrkgbrg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r4g16w2k15db15k2db2y2~x2/"><circle cx="75.5" cy="165.5" r="4" fill="#3465a4"><title>Cowan of Inveresk (Personal)</title></circle></a><a href="/variants/s8/r4g16w2k15db15k2db2dy2~x2/"><circle cx="76.7" cy="165.8" r="4" fill="#3465a4"><title>Cowan of Inveresk Family Tartan</title></circle></a><a href="/variants/s8/r4g16w2k15db15k2db2y2~x2~db1406275/"><circle cx="76.7" cy="165.0" r="4" fill="#3465a4"><title>Cowan of Inveresk (Personal)</title></circle></a><a href="/variants/s8/g4lb2g9k4g2r6db12w2~x2/"><circle cx="75.1" cy="193.0" r="4" fill="#3465a4"><title>Cherokee</title></circle></a><a href="/variants/s12/dr4db4dr2db13k6g3k6y2g4y2g14dp4~x2/"><circle cx="71.1" cy="172.3" r="4" fill="#3465a4"><title>Kinloch Anderson Hunting</title></circle></a><a href="/variants/s12/db7w2g3db18y2k15y2g17r5g3r2g7~x2/"><circle cx="95.1" cy="146.7" r="4" fill="#3465a4"><title>Paisley District Tartan</title></circle></a><a href="/variants/s9/k10y3k2t20k10g15k2r3w3~x2/"><circle cx="85.4" cy="152.7" r="4" fill="#3465a4"><title>McCuaig (Glenelg and the Western Isles)</title></circle></a><a href="/variants/s7/r3g3db4g17k13dt26w3~x2/"><circle cx="119.2" cy="172.4" r="4" fill="#3465a4"><title>Royal Burgh of Peebles (District)</title></circle></a><a href="/variants/s9/dp2g4k8lo1k1db4lb1db1lb2~x8/"><circle cx="81.6" cy="157.8" r="4" fill="#3465a4"><title>Scottish Cultural Society (Corporate</title></circle></a><a href="/variants/s7/o3dp8g20k20db17k3lb3~x2/"><circle cx="66.5" cy="191.9" r="4" fill="#3465a4"><title>Gracey (2013)</title></circle></a><circle cx="81.9" cy="167.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

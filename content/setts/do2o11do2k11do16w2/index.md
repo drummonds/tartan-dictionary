@@ -1,6 +1,11 @@
 ---
 title: "Portrait, The"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Portrait, The"
+  url: "/tartans/p/po/portrait-the/"
 ---
 This is the **Portrait, The** sett — one scale-free proportion (`do2o11do2k11do16w2`), colour order pattern
 [BRBKBW](/stripes/brbkbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g3k15r8g2n8k2~x4/"><circle cx="164.8" cy="204.8" r="4" fill="#3465a4"><title>Thompson Black (Fashion)</title></circle></a><a href="/variants/s6/k3y18g6r17k31g3~x2/"><circle cx="171.7" cy="188.0" r="4" fill="#3465a4"><title>MacMillan Varient (Unidentified)</title></circle></a><a href="/variants/s6/g4dr28db6g10k10g3~x2/"><circle cx="224.4" cy="204.1" r="4" fill="#3465a4"><title>Canadian Autumn</title></circle></a><a href="/variants/s6/k4g5k2g5dr17db2~x2/"><circle cx="239.7" cy="200.9" r="4" fill="#3465a4"><title>Denny Hunting</title></circle></a><a href="/variants/s6/g3dr22lb5g10k10g2~x2/"><circle cx="185.1" cy="196.4" r="4" fill="#3465a4"><title>Strathspey (Fashion)</title></circle></a><a href="/variants/s7/ly3k9lb1k1dr6k2ly3~x4/"><circle cx="185.5" cy="189.2" r="4" fill="#3465a4"><title>LP Cover (Dance)</title></circle></a><a href="/variants/s6/g3k15dr8g2n8k2~x4/"><circle cx="183.7" cy="214.2" r="4" fill="#3465a4"><title>Lindsay Htg (Clan?)</title></circle></a><a href="/variants/s6/r3n27k6lo13k14r3~x2/"><circle cx="158.4" cy="195.3" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish special grey</title></circle></a><a href="/variants/s9/lb2dr12k4dr2k2dr2k6g5lb2~x2/"><circle cx="163.9" cy="201.0" r="4" fill="#3465a4"><title>O'Neill (District)</title></circle></a><a href="/variants/s8/k21o2k8w2o16n6k2n8~x2~n1900000/"><circle cx="196.4" cy="173.4" r="4" fill="#3465a4"><title>Ardmore</title></circle></a><circle cx="205.0" cy="209.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

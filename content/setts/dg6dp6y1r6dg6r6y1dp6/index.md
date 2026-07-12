@@ -1,6 +1,11 @@
 ---
 title: "Wilson's No.223"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Wilson's No.223"
+  url: "/tartans/w/wi/wilson-s-no-223/"
 ---
 This is the **Wilson's No.223** sett — one scale-free proportion (`dg6dp6y1r6dg6r6y1dp6`), colour order pattern
 [BGRGRGBG](/stripes/bgrgrgbg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dp4r3dp26r26g26r4~x2/"><circle cx="245.4" cy="240.2" r="4" fill="#3465a4"><title>Unidentified #21</title></circle></a><a href="/variants/s6/dp11r3dg15r3dp11y2~x2~dp1105325-r2109032-dg1605139/"><circle cx="284.3" cy="224.3" r="4" fill="#3465a4"><title>Wilson's No.199</title></circle></a><a href="/variants/s7/dp2r4g12r3dp6r10w2~x2/"><circle cx="210.8" cy="238.1" r="4" fill="#3465a4"><title>MacKintosh-Geddes (Personal?)</title></circle></a><a href="/variants/s5/r5dp5r1g5r5~x8~dp1607327/"><circle cx="205.9" cy="289.5" r="4" fill="#3465a4"><title>Gow (Portrait)</title></circle></a><a href="/variants/s11/r10do10r4dg2r2do2r4dg12db12dg3db4~x2/"><circle cx="173.0" cy="236.6" r="4" fill="#3465a4"><title>Hueg (Munich) Hunting (Personal)</title></circle></a><a href="/variants/s12/y7do5dg4do3dg4do6r4do1r4do6y7r1~x4/"><circle cx="231.0" cy="267.2" r="4" fill="#3465a4"><title>Buchanan Variation (Fashion)</title></circle></a><a href="/variants/s7/o7r3o9g15db19o14r4~x2/"><circle cx="211.5" cy="262.0" r="4" fill="#3465a4"><title>Dorward</title></circle></a><a href="/variants/s5/n7r1dt6r8lb1~x8/"><circle cx="255.7" cy="259.7" r="4" fill="#3465a4"><title>Callum (Buchan) (Name)</title></circle></a><a href="/variants/s5/dt7r1n6r8lb1~x8/"><circle cx="249.7" cy="257.8" r="4" fill="#3465a4"><title>Callum (Buchan)</title></circle></a><a href="/variants/s6/r4t3n12db8t2r4~t2102222-db1004274/"><circle cx="234.9" cy="274.2" r="4" fill="#3465a4"><title>Bristol Gramar School Check (School)</title></circle></a><circle cx="193.4" cy="277.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

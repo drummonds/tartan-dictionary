@@ -1,6 +1,11 @@
 ---
 title: "Old Spice (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Old Spice"
+  url: "/tartans/o/ol/old-spice/"
 ---
 This is the **Old Spice (Corporate)** sett — one scale-free proportion (`dr104dg3dr5dg3dr18dg8w9dr9w9dr3`), colour order pattern
 [BGBGBGWBWB](/stripes/bgbgbgwbwb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r54g6r5g6r10g3r2g18~x2/"><circle cx="521.7" cy="163.9" r="4" fill="#3465a4"><title>Kyle Green (Name)</title></circle></a><a href="/variants/s8/dg48r4dg2r4dg6r2dg3r9~x2/"><circle cx="560.7" cy="158.4" r="4" fill="#3465a4"><title>Menzies (Clan)</title></circle></a><a href="/variants/s8/dr75db6dr6w2dr6g2dr6lo2~x2/"><circle cx="626.0" cy="104.5" r="4" fill="#3465a4"><title>Burnett of Leys (Clan)</title></circle></a><a href="/variants/s13/w3dr35db3dr2db3dr10dg3dr2dg3dr2dg3dr10y2~x2/"><circle cx="525.4" cy="136.7" r="4" fill="#3465a4"><title>Glencross (Haverlands House) (Personal)</title></circle></a><a href="/variants/s8/dr32k2dr4k2dr2k8dr30lb3~x2/"><circle cx="555.0" cy="160.1" r="4" fill="#3465a4"><title>University of Chicago (Corporate)</title></circle></a><a href="/variants/s9/r52dg2r2dg2r3w3db2w2db2~x4/"><circle cx="570.2" cy="83.8" r="4" fill="#3465a4"><title>Prince of Denmark (Corporate)</title></circle></a><a href="/variants/s8/r68db26r5y3r5g3r13n3~x2/"><circle cx="471.9" cy="114.3" r="4" fill="#3465a4"><title>De Nardi (Personal)</title></circle></a><circle cx="579.9" cy="110.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

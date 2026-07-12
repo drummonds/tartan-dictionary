@@ -1,6 +1,15 @@
 ---
 title: "Mackaw"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Mackaw"
+  url: "/clan/mackaw/"
+- name: "Mackaw"
+  url: "/families/mackaw/"
+- name: "Mackaw"
+  url: "/tartans/m/ma/mackaw/"
 ---
 This is the **Mackaw** sett — one scale-free proportion (`r2b35db35y1`), colour order pattern
 [GBBR](/stripes/gbbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r2dbi35db35ly1~x2~dbi1406275-db1204274/"><circle cx="611.4" cy="273.8" r="4" fill="#3465a4"><title>Mackaw (Corporate)</title></circle></a><a href="/variants/s4/b20dp3db7y1~x4/"><circle cx="506.1" cy="238.6" r="4" fill="#3465a4"><title>Peacock</title></circle></a><a href="/variants/s6/dbi15db55w1dp5r2ly1~x2~dbi1406275-db1404245/"><circle cx="599.2" cy="145.9" r="4" fill="#3465a4"><title>Venters (Personal)</title></circle></a><a href="/variants/s5/o2db19t6b44w2~x2/"><circle cx="429.6" cy="186.9" r="4" fill="#3465a4"><title>World Fed. of Bldg Contractors (Corp</title></circle></a><a href="/variants/s5/db30do9w1dr5y1~x4/"><circle cx="505.2" cy="183.0" r="4" fill="#3465a4"><title>Dunning Primary (School)</title></circle></a><a href="/variants/s4/db3b30db40r3~x2/"><circle cx="447.5" cy="258.1" r="4" fill="#3465a4"><title>Sanix Large Muted</title></circle></a><a href="/variants/s4/w4n28t48y3~x2~t2503227/"><circle cx="531.7" cy="281.4" r="4" fill="#3465a4"><title>MacKerrell of Hillhouse Dress Personal Tartan</title></circle></a><a href="/variants/s5/y1db10dbi5db2g1~x8~db1204274-dbi1406275/"><circle cx="547.5" cy="287.0" r="4" fill="#3465a4"><title>Open Championship (2000)</title></circle></a><a href="/variants/s6/db38w3db8dbi36dg9r3~x2~db1106275-dbi1406275/"><circle cx="359.3" cy="219.5" r="4" fill="#3465a4"><title>Waters of Georgian Bay (District)</title></circle></a><a href="/variants/s5/y1db11dbi5db2g1~x4~db1003265-dbi1605267/"><circle cx="516.4" cy="260.9" r="4" fill="#3465a4"><title>Open Championship, The</title></circle></a><circle cx="512.7" cy="237.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

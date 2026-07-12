@@ -1,6 +1,11 @@
 ---
 title: "State Seal of Vermont (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "State Seal of Vermont"
+  url: "/tartans/s/st/state-seal-of-vermont/"
 ---
 This is the **State Seal of Vermont (Fashion)** sett — one scale-free proportion (`db4dg1g14dy8dg4ly3dg4dy8dg65dy5dg3t12dg1ly3`), colour order pattern
 [BGGGGYGGGGGBGY](/stripes/bggggygggggbgy/). It is recorded as a single **variant**, below.

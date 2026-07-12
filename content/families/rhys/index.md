@@ -1,6 +1,11 @@
 ---
 title: "Rhys"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Rhys"
+  url: "/clan/rhys/"
 ---
 A family of [Clan Rhys](/clan/rhys/).
 

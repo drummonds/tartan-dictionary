@@ -1,6 +1,11 @@
 ---
 title: "Gallowater New District Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Gala Water New"
+  url: "/tartans/g/ga/gala-water-new/"
 ---
 This is the **Gallowater New District Tartan** sett — one scale-free proportion (`r5k16lb7dp16w1g21y5`), colour order pattern
 [GGWBWKR](/stripes/ggwbwkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r11k33lb14dp32w2dg42y10/"><circle cx="70.1" cy="135.8" r="4" fill="#3465a4"><title>Gallowater, New (District)</title></circle></a><a href="/variants/s7/dp4g23k22p3db22dp1w2~x2/"><circle cx="118.8" cy="130.5" r="4" fill="#3465a4"><title>Fettes College</title></circle></a><a href="/variants/s6/w2dp20dr3k10g20lo2~x2/"><circle cx="119.9" cy="169.7" r="4" fill="#3465a4"><title>Morris of Balgonie (Personal)</title></circle></a><a href="/variants/s7/k7r22t9dp20lb2g28y7~x2~t2503227-lb3200000/"><circle cx="73.1" cy="158.4" r="4" fill="#3465a4"><title>Jefferson (Personal)</title></circle></a><a href="/variants/s9/y3k2lb3r14g19k3w3dp10lb3~x2/"><circle cx="60.6" cy="138.1" r="4" fill="#3465a4"><title>Wilson's, No 110</title></circle></a><a href="/variants/s7/g22w3k2y3k19r18db4~x2/"><circle cx="81.0" cy="154.0" r="4" fill="#3465a4"><title>Scotch House 2000 Dress</title></circle></a><a href="/variants/s7/dg22w3k2y3k19r18b4~x2/"><circle cx="91.0" cy="153.9" r="4" fill="#3465a4"><title>Scotch House 2000, dress</title></circle></a><a href="/variants/s7/k20y4db13w4g30w4r13~x2/"><circle cx="57.8" cy="179.8" r="4" fill="#3465a4"><title>South Africa 1994 (Fashion)</title></circle></a><a href="/variants/s9/k2lb6k1db7g13w1k11r14y2~x2/"><circle cx="26.4" cy="126.6" r="4" fill="#3465a4"><title>Teall of Teallach Family Tartan</title></circle></a><a href="/variants/s8/r5lb1db10w2k10g10k1y3~x4/"><circle cx="23.5" cy="151.8" r="4" fill="#3465a4"><title>Culloden 1746 - Original</title></circle></a><circle cx="58.5" cy="133.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

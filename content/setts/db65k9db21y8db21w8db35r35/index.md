@@ -1,6 +1,11 @@
 ---
 title: "Maud Mary Irish Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Maud, Mary"
+  url: "/tartans/m/ma/maud-mary/"
 ---
 This is the **Maud Mary Irish Family Tartan** sett — one scale-free proportion (`db65k9db21y8db21w8db35r35`), colour order pattern
 [BKBGBWBR](/stripes/bkbgbwbr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r5db20r3db20w6db3lb2db1~x2/"><circle cx="417.0" cy="153.4" r="4" fill="#3465a4"><title>Masai Shuka 29 (Artefact)</title></circle></a><a href="/variants/s9/r3db21r3db3k13db13lb3db3w2~x2/"><circle cx="280.6" cy="154.4" r="4" fill="#3465a4"><title>Fitzgerald Blue Irish Family Tartan</title></circle></a><a href="/variants/s9/r3t22r3t3k14t14lb3t3w2~x2/"><circle cx="269.7" cy="153.2" r="4" fill="#3465a4"><title>Fitzgerald (Family)</title></circle></a><a href="/variants/s8/db18r1db1r1db1k7db13w2~x4/"><circle cx="431.6" cy="139.4" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><a href="/variants/s8/db14o3db14dy6db14w4db14y3~x2/"><circle cx="391.2" cy="245.4" r="4" fill="#3465a4"><title>Columba of Iona (School)</title></circle></a><a href="/variants/s6/r5db15g3db15y3db3~x2/"><circle cx="424.4" cy="251.1" r="4" fill="#3465a4"><title>Abertay University (Estimated threadcount)</title></circle></a><a href="/variants/s8/db30r3db3y3db3g30db36w5~x2/"><circle cx="340.5" cy="171.8" r="4" fill="#3465a4"><title>De Nardi Hunting (Personal)</title></circle></a><a href="/variants/s10/db7w2db28k7db3ly2db2g2db13r2~x2/"><circle cx="410.2" cy="113.6" r="4" fill="#3465a4"><title>Pride of the Highlands (Fashion)</title></circle></a><a href="/variants/s10/y1db2w1db15k4y1db1y1db5w1~x4/"><circle cx="391.8" cy="124.9" r="4" fill="#3465a4"><title>SPA Association (Corporate)</title></circle></a><a href="/variants/s7/r10db4r6db30k10db5w2~x2/"><circle cx="296.8" cy="162.3" r="4" fill="#3465a4"><title>Heritage of Wales (Fashion)</title></circle></a><circle cx="328.7" cy="185.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

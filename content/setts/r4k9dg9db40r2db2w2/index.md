@@ -1,6 +1,13 @@
 ---
 title: "Genet, Edmond Charles 'Citizen' (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Genet"
+  url: "/clan/genet/"
+- name: "Genet, Edmond Charles 'Citizen'"
+  url: "/tartans/g/ge/genet-edmond-charles-citizen/"
 ---
 This is the **Genet, Edmond Charles 'Citizen' (Personal)** sett — one scale-free proportion (`r4k9dg9db40r2db2w2`), colour order pattern
 [RKGBRBW](/stripes/rkgbrbw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r16db2n6r3k4lb2db40lb6~x2/"><circle cx="268.7" cy="112.3" r="4" fill="#3465a4"><title>St. Leonards (Corporate)</title></circle></a><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><circle cx="261.8" cy="117.8" r="4" fill="#3465a4"><title>Jack Sinclair (Personal)</title></circle></a><a href="/variants/s7/db6dp3db56k24g6r6g6/"><circle cx="306.7" cy="131.6" r="4" fill="#3465a4"><title>Wcwm 9275-1395</title></circle></a><a href="/variants/s7/db20dy1db1dy1dg8k1w3~x2/"><circle cx="330.3" cy="124.1" r="4" fill="#3465a4"><title>Chestico</title></circle></a><a href="/variants/s7/db35k10db4w2db3r2y2~x2/"><circle cx="411.9" cy="121.1" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers (Corp)</title></circle></a><a href="/variants/s6/r1db12k5o3db5w1~x4/"><circle cx="292.6" cy="170.5" r="4" fill="#3465a4"><title>Massachusetts</title></circle></a><a href="/variants/s5/k2db36g12w3r2~x2/"><circle cx="347.2" cy="141.0" r="4" fill="#3465a4"><title>Cleland</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="279.2" cy="129.2" r="4" fill="#3465a4"><title>Marion (Personal)</title></circle></a><a href="/variants/s8/db6dbi4k37g6dbi80n4k4ly4~db1106275-dbi1406275/"><circle cx="309.1" cy="96.4" r="4" fill="#3465a4"><title>Law Enforcement Officers' Memorial</title></circle></a><a href="/variants/s5/db46k6g9dy9r4/"><circle cx="337.8" cy="177.1" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><circle cx="337.4" cy="120.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

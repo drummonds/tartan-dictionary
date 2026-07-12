@@ -1,6 +1,13 @@
 ---
 title: "Poulter SG 100 (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Poulter"
+  url: "/clan/poulter/"
+- name: "Poulter SG 100"
+  url: "/tartans/p/po/poulter-sg-100/"
 ---
 This is the **Poulter SG 100 (Fashion)** sett — one scale-free proportion (`g25k8g8k8g8k46db46r8db46k46g46k8g8`), colour order pattern
 [GKGKBRBKGKGKG](/stripes/gkgkbrbkgkgkg/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g4k1g1k1g1k8db8r1db8k8g8k1g1~x8/"><circle cx="147.2" cy="174.9" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/variants/s13/g8k1g1k1g1k8db8r1db8k8g8k1g1~x2/"><circle cx="135.3" cy="177.6" r="4" fill="#3465a4"><title>Urquhart Clan Tartan</title></circle></a><a href="/variants/s13/g8k1g1k1g1k8db8dr1db8k8g8k1g1~x2/"><circle cx="136.9" cy="178.4" r="4" fill="#3465a4"><title>Urquhart (Logan)</title></circle></a><a href="/variants/s14/g1k1g8k8db8r1db8k8g1k1g1k1g3w1~x2/"><circle cx="124.1" cy="152.0" r="4" fill="#3465a4"><title>Urquhart (Brydone)</title></circle></a><a href="/variants/s13/g56k6g7k6g7k35db45ly6db45k35g45k6g6/"><circle cx="153.9" cy="172.2" r="4" fill="#3465a4"><title>Dewar's Highlander</title></circle></a><a href="/variants/s13/g10k2g2k2g2k7db8dp2db8k7g8k2g2~x2/"><circle cx="118.7" cy="212.3" r="4" fill="#3465a4"><title>Lochinvar Marine Harvest</title></circle></a><a href="/variants/s13/db1k1db6k6g6k1w1k1g6k6db6k1db1~x8/"><circle cx="126.5" cy="192.5" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s13/db12k2db2k2db2k12g12y2g12k12db11k2db2/"><circle cx="128.5" cy="196.4" r="4" fill="#3465a4"><title>Gordon</title></circle></a><a href="/variants/s13/db12k2db2k2db2k12g12y2g12k12db11k2db2~x2/"><circle cx="128.5" cy="196.4" r="4" fill="#3465a4"><title>Gordon</title></circle></a><a href="/variants/s13/db6k1db1k1db1k6g6y1g6k6db6k1db1~x4/"><circle cx="128.2" cy="196.4" r="4" fill="#3465a4"><title>Gordon Regimental Tartan</title></circle></a><circle cx="128.1" cy="194.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

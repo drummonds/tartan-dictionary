@@ -1,6 +1,13 @@
 ---
 title: "Glasgow Fancy Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Glasgow"
+  url: "/clan/glasgow/"
+- name: "Glasgow Fancy"
+  url: "/tartans/g/gl/glasgow-fancy/"
 ---
 This is the **Glasgow Fancy Tartan** sett — one scale-free proportion (`n16r3lb15r18w15n3lb3`), colour order pattern
 [BWRWRBRWRWBW](/stripes/bwrwrbrwrwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db1n8w1db4r8w1~x6/"><circle cx="208.9" cy="227.1" r="4" fill="#3465a4"><title>Little's (Corporate)</title></circle></a><a href="/variants/s8/dp13r8w5g24w5r10w5r10~x2/"><circle cx="131.9" cy="249.1" r="4" fill="#3465a4"><title>Chaudhri, Zafar Iqbal</title></circle></a><a href="/variants/s8/g16dp8r45w6dp45w44dp6w12/"><circle cx="146.2" cy="186.9" r="4" fill="#3465a4"><title>Culloden Red Dress (Dance)</title></circle></a><a href="/variants/s15/w20o3w20o3w9o12w3o15db3o6db19w3db5r4db19~x2/"><circle cx="144.7" cy="197.0" r="4" fill="#3465a4"><title>Black and White, Colourway</title></circle></a><a href="/variants/s7/r4db18r4g19w25r10w4~x2/"><circle cx="125.2" cy="235.5" r="4" fill="#3465a4"><title>Fraser Red Dress Clan Tartan</title></circle></a><a href="/variants/s6/r6db1y1w1db2w3~x4/"><circle cx="191.8" cy="226.5" r="4" fill="#3465a4"><title>Winnipeg Embroiderers' Guild</title></circle></a><a href="/variants/s10/lr4dt6r3dt10db14ly6lr18ly6db4ly2~x2/"><circle cx="104.7" cy="198.3" r="4" fill="#3465a4"><title>Gray, Sir John Hamilton (Commem)</title></circle></a><a href="/variants/s9/w4db8w1dbi1lo6dbi3r6dbi1w4~x4~db1204274-dbi1406275/"><circle cx="73.4" cy="206.8" r="4" fill="#3465a4"><title>Wombles 4 (Corporate)</title></circle></a><a href="/variants/s9/w4db8w1dbi1r6dbi3lo6dbi1w4~x4~db1204274-dbi1406275/"><circle cx="73.4" cy="206.8" r="4" fill="#3465a4"><title>Wombles 2 (Corporate)</title></circle></a><a href="/variants/s8/dp13r8w5dg24w5r10w5r10~x2/"><circle cx="127.1" cy="244.2" r="4" fill="#3465a4"><title>Chaudhri (Name)</title></circle></a><circle cx="126.4" cy="226.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

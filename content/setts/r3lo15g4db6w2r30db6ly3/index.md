@@ -1,6 +1,11 @@
 ---
 title: "Round Table Sweden"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Round Table Sweden"
+  url: "/tartans/r/ro/round-table-sweden/"
 ---
 This is the **Round Table Sweden** sett — one scale-free proportion (`r3lo15g4db6w2r30db6ly3`), colour order pattern
 [RYGBWRBY](/stripes/rygbwrby/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lb4g3lb9db14ly8db2r35ri2r3~x2~r2109032-ri2806019/"><circle cx="230.1" cy="118.1" r="4" fill="#3465a4"><title>Hogeboom (Personal)</title></circle></a><a href="/variants/s6/r48t16ly5g17w8dy3~x2/"><circle cx="252.8" cy="160.4" r="4" fill="#3465a4"><title>Scottish American Soc. of Michigan</title></circle></a><a href="/variants/s12/r64lb16dp18y4dp4w4dp18g32r14lb4r14w3~x2/"><circle cx="236.3" cy="111.0" r="4" fill="#3465a4"><title>Wilson's No 4</title></circle></a><a href="/variants/s9/r24y2n3dy2w10r4n3dy3w2~x2/"><circle cx="272.6" cy="142.1" r="4" fill="#3465a4"><title>Manx Laxey Red District Tartan</title></circle></a><a href="/variants/s9/r24ly2n3dy2w10r4n3dy3w2~x2~ly3307090-dy1603076/"><circle cx="280.5" cy="145.8" r="4" fill="#3465a4"><title>Manx Laxey (Red)</title></circle></a><a href="/variants/s10/do2lr3r3lr21y3lr2r6db6r4w2~x2~lr2906019-r2510029/"><circle cx="262.1" cy="148.8" r="4" fill="#3465a4"><title>Hello Kitty</title></circle></a><a href="/variants/s12/r26lb2r6n2r2n2ly2n9w5ri2w4ly2~x2~r2109032-ri2406019/"><circle cx="280.6" cy="119.8" r="4" fill="#3465a4"><title>Rathmore Family Tartan</title></circle></a><a href="/variants/s9/r41y3n7db3w24r10n7db7w3~x2/"><circle cx="240.2" cy="145.3" r="4" fill="#3465a4"><title>Drummond of Perth Dress #2</title></circle></a><a href="/variants/s9/r24y2n3o2w10r4n3o3w2~x2/"><circle cx="289.8" cy="147.6" r="4" fill="#3465a4"><title>Manx Laxey, Red</title></circle></a><a href="/variants/s9/r41w2dp5dy2g21r9dp5db3w2~x2/"><circle cx="306.7" cy="108.8" r="4" fill="#3465a4"><title>Perthshire or Drummond District Tartan</title></circle></a><circle cx="239.5" cy="138.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Connolly Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Connolly"
+  url: "/clan/connolly/"
+- name: "Connolly"
+  url: "/families/connolly/"
+- name: "Connolly Dress"
+  url: "/tartans/c/co/connolly-dress-2/"
 ---
 This is the **Connolly Dress** sett — one scale-free proportion (`g6k2g3k2g6db8r20y2r3g2`), colour order pattern
 [GKGKGBRGRG](/stripes/gkgkgbrgrg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/o22w2o2w2o4k5o5k5n5dr2n13w2~x2/"><circle cx="194.9" cy="134.4" r="4" fill="#3465a4"><title>Glen Nevis</title></circle></a><a href="/variants/s12/y4lr2y2lr3y20k6do4k2do2k2do16r3~x2/"><circle cx="173.1" cy="142.0" r="4" fill="#3465a4"><title>Scotch House 'Dorcas' (Fashion)</title></circle></a><a href="/variants/s12/y4w2y2w3y20k6do4k2do2k2do16r3~x2/"><circle cx="159.4" cy="138.8" r="4" fill="#3465a4"><title>Dorcas</title></circle></a><a href="/variants/s8/db4r11db1g8r2g4k1y2~x4/"><circle cx="183.5" cy="174.6" r="4" fill="#3465a4"><title>Craik of Assington Personal Tartan</title></circle></a><a href="/variants/s14/k4r3g2db2r6g15r2db4g2r15g7k2r4w2~x2/"><circle cx="157.2" cy="152.0" r="4" fill="#3465a4"><title>MacKinnon #5</title></circle></a><a href="/variants/s11/r10dg3y3w1k2w1y3dg12w2r3w1~x4/"><circle cx="151.5" cy="146.3" r="4" fill="#3465a4"><title>Unnamed C18th - Pr Ch Ed Plaid?</title></circle></a><a href="/variants/s14/k2g2r3dp18r2g6r4y2dp6r3g18r3k2g2~x2/"><circle cx="160.9" cy="139.6" r="4" fill="#3465a4"><title>MacIntyre and Glenorchy</title></circle></a><a href="/variants/s14/w3k2dg18r2db8r18dg2r2dg2r2db2r18dg18k2~x2/"><circle cx="193.0" cy="138.3" r="4" fill="#3465a4"><title>MacGuire (Personal)</title></circle></a><a href="/variants/s13/db2r11g2r11g21r2k9lb2db11r11g2r11db2~x2/"><circle cx="174.2" cy="148.2" r="4" fill="#3465a4"><title>Nicholson Clan Tartan</title></circle></a><a href="/variants/s9/db3lb1k1r12ri1g9r1lb1db3~x4~r2109032-ri2406019/"><circle cx="167.6" cy="126.7" r="4" fill="#3465a4"><title>Moray of Abercairney Clan Tartan</title></circle></a><circle cx="180.6" cy="149.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

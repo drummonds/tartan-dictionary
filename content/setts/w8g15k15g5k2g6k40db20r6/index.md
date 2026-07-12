@@ -1,6 +1,11 @@
 ---
 title: "Luker (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Luker"
+  url: "/tartans/l/lu/luker/"
 ---
 This is the **Luker (Personal)** sett — one scale-free proportion (`w8g15k15g5k2g6k40db20r6`), colour order pattern
 [RBKGKGKGW](/stripes/rbkgkgkgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db10k12dg3k1dg1k1dg30w4ly4~x2/"><circle cx="249.9" cy="98.4" r="4" fill="#3465a4"><title>Hutchens (Personal)</title></circle></a><a href="/variants/s8/k35o2k3dp13g8w4g8dp8~x2/"><circle cx="194.3" cy="128.0" r="4" fill="#3465a4"><title>SheBoom</title></circle></a><a href="/variants/s8/dg24k5dg6r6dg6k20t20w2~x2/"><circle cx="152.4" cy="176.7" r="4" fill="#3465a4"><title>Dunfermline Bank of Scotland (Corp)</title></circle></a><a href="/variants/s11/db10k10db10dr2k20w1g10dr2g4dr2g4~x2/"><circle cx="164.6" cy="138.9" r="4" fill="#3465a4"><title>Newman</title></circle></a><a href="/variants/s11/db9k9db9r2k18w1g12r2g4r2g4~x2/"><circle cx="134.0" cy="138.8" r="4" fill="#3465a4"><title>Newman</title></circle></a><a href="/variants/s8/n10k7lt2lb2k27t7lt2t7~x2~lt3304230-t2105244/"><circle cx="219.0" cy="144.4" r="4" fill="#3465a4"><title>Croy, Jake (Personal)</title></circle></a><a href="/variants/s13/db2k2db12k18w1g14r2g14w3k18db12k2db1~x4/"><circle cx="149.7" cy="129.0" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/variants/s8/g28k4g5b4g5k19db19y2~x2/"><circle cx="175.5" cy="160.8" r="4" fill="#3465a4"><title>City of Guelph</title></circle></a><a href="/variants/s8/g12k1g2dr1g2k10db10lo1~x4/"><circle cx="164.8" cy="159.2" r="4" fill="#3465a4"><title>Guelph, City Of</title></circle></a><a href="/variants/s12/w4k2t9k3dp3k3dp3k23g10k2dp6w2~x2/"><circle cx="155.3" cy="128.4" r="4" fill="#3465a4"><title>Auld Lang Syne, Blue (Fashion)</title></circle></a><circle cx="184.3" cy="131.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Caledonia"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Caledonia"
+  url: "/clan/caledonia/"
+- name: "Caledonia"
+  url: "/families/caledonia/"
+- name: "Caledonia"
+  url: "/tartans/c/ca/caledonia/"
 ---
 This is the **Caledonia** sett — one scale-free proportion (`r21db9k2db2k2db9k18y3g21r13k3r13w2r13`), colour order pattern
 [RBKBKBKGGRKRWR](/stripes/rbkbkbkggrkrwr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/r21lb9k2lb2k2lb9k18y3g21r13k3r13w2r13~x2/"><circle cx="124.7" cy="128.1" r="4" fill="#3465a4"><title>Caledonia No 155 District Tartan</title></circle></a><a href="/variants/s14/r21lt9k2lt2k2lt9k18ly3g21r13k3r13w2r13~x2/"><circle cx="120.9" cy="128.8" r="4" fill="#3465a4"><title>Caledonian Cameron Commando</title></circle></a><a href="/variants/s14/r9lb8k2lb2k2lb8k16y3dg18r10k3r10w2r5~x2/"><circle cx="62.7" cy="137.7" r="4" fill="#3465a4"><title>Caledonia - 1819 (Wilsons') No.155</title></circle></a><a href="/variants/s13/r8db2k1db3k4y1k1w1k1g8r6w1r6~x4/"><circle cx="129.0" cy="137.7" r="4" fill="#3465a4"><title>Christie Family Tartan</title></circle></a><a href="/variants/s15/db6k3r4k2r27k12db10k3y2k3g12r10w2r3k3~x2/"><circle cx="134.6" cy="97.7" r="4" fill="#3465a4"><title>Unidentified #16</title></circle></a><a href="/variants/s14/k20r6k4r6dg15w2g5w2dg15r30k4r5lb2r6~x2/"><circle cx="145.0" cy="100.5" r="4" fill="#3465a4"><title>Drummond - 1739 Lord John (Artefact)</title></circle></a><a href="/variants/s13/k2r14lb8k9y1k2w2k2g10r15k4r12w2~x2/"><circle cx="155.9" cy="111.6" r="4" fill="#3465a4"><title>Harden (Name)</title></circle></a><a href="/variants/s13/y3r3k5r2db9r7k1r3k1r7g7r2k2~x2/"><circle cx="139.9" cy="162.3" r="4" fill="#3465a4"><title>Prince Charles Edward (Edinburgh)</title></circle></a><a href="/variants/s13/w2k1t2lb1dg4r1dg4r3k3r12lb1r2k1~x4/"><circle cx="166.5" cy="104.6" r="4" fill="#3465a4"><title>Peacock (Personal)</title></circle></a><a href="/variants/s12/r16g2r3g2r13ki12w2ki12r13k13r2y2~x2~ki0604259/"><circle cx="158.0" cy="141.5" r="4" fill="#3465a4"><title>Ikelman No. 6</title></circle></a><circle cx="129.7" cy="129.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

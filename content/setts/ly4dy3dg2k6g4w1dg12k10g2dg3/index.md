@@ -1,6 +1,15 @@
 ---
 title: "Noble (South Africa) (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Noble"
+  url: "/clan/noble/"
+- name: "Noble"
+  url: "/families/noble/"
+- name: "Noble"
+  url: "/tartans/n/no/noble/"
 ---
 This is the **Noble (South Africa) (Personal)** sett — one scale-free proportion (`ly4dy3dg2k6g4w1dg12k10g2dg3`), colour order pattern
 [GGKGWGKGGY](/stripes/ggkgwgkggy/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y4dy3dg2k6g4w1dg12k10g2dg3~x2/"><circle cx="119.8" cy="159.4" r="4" fill="#3465a4"><title>Noble (South Africa) (Personal)</title></circle></a><a href="/variants/s12/o3k15n10dy10k1g5k1lo10k10g8k1n2~x2~o2500000-n1900000/"><circle cx="80.1" cy="132.5" r="4" fill="#3465a4"><title>Castlefield (Personal)</title></circle></a><a href="/variants/s12/lr3k15db10o10k1g5k1y10k10g8k1db2~x2/"><circle cx="83.7" cy="133.6" r="4" fill="#3465a4"><title>Blue Castlefield</title></circle></a><a href="/variants/s11/k6g20lb2r6lb2k20y3db20g26r3db6~x2/"><circle cx="120.9" cy="137.0" r="4" fill="#3465a4"><title>Stevenson</title></circle></a><a href="/variants/s12/g12r2g2r5g16db3n2k2n3db6k20y3~x2/"><circle cx="112.1" cy="134.2" r="4" fill="#3465a4"><title>Kelsey, William (Personal)</title></circle></a><a href="/variants/s11/k6g20lb2dr5lb2k20lo3db20g26dr3db5~x2/"><circle cx="127.7" cy="136.6" r="4" fill="#3465a4"><title>Stephenson (Name)</title></circle></a><a href="/variants/s11/k6g20lb2r5lb2k20y3db20g26r3db5~x2/"><circle cx="125.8" cy="134.9" r="4" fill="#3465a4"><title>Stephenson Clan Tartan</title></circle></a><a href="/variants/s11/r3k1g12k12dbi12db3dbi12k12g12k1y3~x2~dbi1604274-db0805267/"><circle cx="79.0" cy="158.0" r="4" fill="#3465a4"><title>Gow, hunting</title></circle></a><a href="/variants/s11/r3k1g12k12dbi12db3dbi12k12g12k1y3~x2~dbi1605267-db0804274/"><circle cx="78.8" cy="158.0" r="4" fill="#3465a4"><title>Gow Hunting</title></circle></a><a href="/variants/s9/k10y3k2t20k10g15k2r3w3~x2/"><circle cx="85.4" cy="152.7" r="4" fill="#3465a4"><title>McCuaig (Glenelg and the Western Isles)</title></circle></a><circle cx="103.4" cy="154.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

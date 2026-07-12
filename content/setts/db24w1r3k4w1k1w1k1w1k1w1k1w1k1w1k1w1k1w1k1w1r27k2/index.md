@@ -1,6 +1,11 @@
 ---
 title: "McCready (Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "McCready"
+  url: "/tartans/m/mc/mccready/"
 ---
 This is the **McCready (Name)** sett — one scale-free proportion (`db24w1r3k4w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1r27k2`), colour order pattern
 [BWRKWKWKWKWKWKWKWKWKWRK](/stripes/bwrkwkwkwkwkwkwkwkwkwrk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/r4k6r2k7db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/"><circle cx="192.6" cy="27.2" r="4" fill="#3465a4"><title>Taggart Name Tartan</title></circle></a><a href="/variants/s24/k63w2o8k10w2o2w2o2w2o2w2o2w2o2w2o2w2o2w2o2w2n65w2r6~x2/"><circle cx="188.4" cy="14.0" r="4" fill="#3465a4"><title>Sobieski-Stewart</title></circle></a><a href="/variants/s24/dp90n5dp5n5dp5k16r3k5r4k4r5k3r6w4r6k3r5k4r4k5r3k16n22k5/"><circle cx="226.5" cy="26.3" r="4" fill="#3465a4"><title>Arran District Tartan</title></circle></a><a href="/variants/s19/r4dg5k1r2k1dg6db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/"><circle cx="203.4" cy="33.0" r="4" fill="#3465a4"><title>Taggart (Name)</title></circle></a><a href="/variants/s18/r8k24n1k1n1k1n1k1n8k1n1k1n1k1n1r20y1w1~x2/"><circle cx="208.5" cy="45.7" r="4" fill="#3465a4"><title>Read Dress, Peter (Personal)</title></circle></a><a href="/variants/s14/w6db4k6db30k10r4k3r4k3r18k1w4k1r4~x2/"><circle cx="165.3" cy="65.5" r="4" fill="#3465a4"><title>Harris (1997) (Personal)</title></circle></a><circle cx="202.8" cy="30.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Bryce"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Bryce"
+  url: "/clan/bryce/"
+- name: "Bryce"
+  url: "/families/bryce/"
+- name: "Bryce"
+  url: "/tartans/b/br/bryce-2/"
 ---
 This is the **Bryce** sett — one scale-free proportion (`dr5o35dr46ly5`), colour order pattern
 [BRBY](/stripes/brby/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="387.2" cy="258.0" r="4" fill="#3465a4"><title>Bryce Family Tartan</title></circle></a><a href="/variants/s5/o23dr4o23dr32lo4~x2/"><circle cx="395.5" cy="277.5" r="4" fill="#3465a4"><title>Hamilton, Red (Fashion?)</title></circle></a><a href="/variants/s4/r3g20r25w3~x4/"><circle cx="350.4" cy="253.0" r="4" fill="#3465a4"><title>MacKinnon #6</title></circle></a><a href="/variants/s5/y6r1y4r4db2~x5/"><circle cx="374.8" cy="302.3" r="4" fill="#3465a4"><title>Sands-Pingot Family, Alabama (Personal)</title></circle></a><a href="/variants/s5/r18y3r18y30k4~x2/"><circle cx="346.3" cy="242.4" r="4" fill="#3465a4"><title>Shire of Hornwood (USA)</title></circle></a><a href="/variants/s5/r37dy9r3g9dy3~x2/"><circle cx="447.2" cy="208.4" r="4" fill="#3465a4"><title>Glen Shee Trade Tartan</title></circle></a><a href="/variants/s5/dr9y2dr45y20ly3~x2/"><circle cx="532.3" cy="215.0" r="4" fill="#3465a4"><title>Hunt (Personal)</title></circle></a><a href="/variants/s3/r17g9r2~x2/"><circle cx="371.6" cy="295.3" r="4" fill="#3465a4"><title>MacGregor of Glenstrae #2</title></circle></a><a href="/variants/s3/r10dg4dy1~x8/"><circle cx="354.7" cy="255.7" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/variants/s3/r10dg4y1~x8/"><circle cx="354.4" cy="255.7" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><circle cx="410.6" cy="262.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

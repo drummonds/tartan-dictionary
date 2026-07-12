@@ -1,6 +1,15 @@
 ---
 title: "Dorris (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Dorris"
+  url: "/clan/dorris/"
+- name: "Dorris"
+  url: "/families/dorris/"
+- name: "Dorris"
+  url: "/tartans/d/do/dorris/"
 ---
 This is the **Dorris (Corporate)** sett — one scale-free proportion (`g24k3g3k3g3k18dt2lb2dt2lb2dt13w3dt13lb2dt2lb2dt2k18g19k4g4`), colour order pattern
 [GKGKBWBWBWBWBWBKGKGKG](/stripes/gkgkbwbwbwbwbwbkgkgkg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/g24k3g3k3g3k18dt2t2dt2t2dt13w3dt13t2dt2t2dt2k18g19k4g4~x2~t2405244/"><circle cx="126.4" cy="115.4" r="4" fill="#3465a4"><title>Dorris</title></circle></a><a href="/variants/s9/db20ly3k7g11k2g3k2g3r4~x2/"><circle cx="117.5" cy="139.7" r="4" fill="#3465a4"><title>Ogilvie of Inverarity (Wilson) / Ochterlonie</title></circle></a><a href="/variants/s28/k13g13k1ly3k1g13k13t12k2t2k2t12k13g13k1w3k1g13k13t2k2t2k2t13k2t2k2t2~x4/"><circle cx="117.2" cy="109.9" r="4" fill="#3465a4"><title>Campbell of Argyll (Clan)</title></circle></a><a href="/variants/s22/g6lyi6g1k15g2k2ly2g2ly2k2ly2g2ly2k2ly2g2ly2k2g2dg15g1k2~x2~lyi2705081-ly2503076/"><circle cx="104.2" cy="98.2" r="4" fill="#3465a4"><title>Int. College of Dentists (Canada)</title></circle></a><a href="/variants/s23/db15k1db1k1db1k12g9r1g9k1w1k1g9r1g9k12r1db9r2db1r1db6w1~x2/"><circle cx="119.4" cy="101.5" r="4" fill="#3465a4"><title>Rankine</title></circle></a><a href="/variants/s14/g6r4g4r3g4y2db14k4g4k28g18k2g3k2~x2/"><circle cx="155.3" cy="118.7" r="4" fill="#3465a4"><title>Cypress Presbyterian Church</title></circle></a><a href="/variants/s10/db24k2db2r2db2k20g16y2g2y3~x2~db1406275/"><circle cx="134.1" cy="111.1" r="4" fill="#3465a4"><title>Watson</title></circle></a><a href="/variants/s28/k1t8k8g8k1w2k1g8k8t1k1t1k1t8k1t1k1t1k8g8k1y2k1g8k8t8k1t1~x2~w4000000/"><circle cx="103.5" cy="126.8" r="4" fill="#3465a4"><title>Campbell of Argyll #2</title></circle></a><a href="/variants/s19/db30lo2db2lo2db5g5k15db5g20dr2k3dr2g20db5k15g5db20lo2db2~x2~db1403246/"><circle cx="177.6" cy="118.9" r="4" fill="#3465a4"><title>Pennsylvania American District Tartan</title></circle></a><a href="/variants/s24/k1t8k8g8w2g8k8t1k1t1k1t8k1t1k1t1k8g8y2g8k8t8k1t1~x2~w4000000/"><circle cx="94.6" cy="142.1" r="4" fill="#3465a4"><title>Campbell of Argyll (no guards)</title></circle></a><circle cx="121.8" cy="113.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

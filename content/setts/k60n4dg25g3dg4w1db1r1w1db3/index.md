@@ -1,6 +1,11 @@
 ---
 title: "Gettelman (2016)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Gettelman"
+  url: "/tartans/g/ge/gettelman/"
 ---
 This is the **Gettelman (2016)** sett — one scale-free proportion (`k60n4dg25g3dg4w1db1r1w1db3`), colour order pattern
 [BWRBWGGGBK](/stripes/bwrbwgggbk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db10y2dg2w1dg18r1k45r2~x2/"><circle cx="310.6" cy="64.7" r="4" fill="#3465a4"><title>Downs</title></circle></a><a href="/variants/s9/ly1k45dt23w1dt6r2ly1r2ly1~x2/"><circle cx="337.2" cy="66.9" r="4" fill="#3465a4"><title>Arbroath Smokie Corporate Tartan</title></circle></a><a href="/variants/s10/n24ly2n4ly1n3k3dg1k50r1dr3~x2/"><circle cx="317.3" cy="31.5" r="4" fill="#3465a4"><title>Coleburn (Corporate)</title></circle></a><a href="/variants/s6/k54n11g13y1db13w1~x2/"><circle cx="297.1" cy="82.7" r="4" fill="#3465a4"><title>Kilmaine Saints</title></circle></a><a href="/variants/s10/k4r1w1r2k48dr4w1db30y2r2~x2/"><circle cx="305.9" cy="38.4" r="4" fill="#3465a4"><title>RCACA</title></circle></a><a href="/variants/s6/k54n11g13ly1t13w1~x2/"><circle cx="285.6" cy="80.6" r="4" fill="#3465a4"><title>Kilmaine Saints (Corporate)</title></circle></a><a href="/variants/s11/k36b6ly1b1w1b1dy8o4b1o2w1~x4/"><circle cx="287.1" cy="37.4" r="4" fill="#3465a4"><title>Flotilla Navy</title></circle></a><a href="/variants/s12/k4dt6k4n4dt29n6k68db10k4t6db4w2~dt0900000-n1700000-db1208266-t2205244/"><circle cx="303.7" cy="63.9" r="4" fill="#3465a4"><title>Earthrise</title></circle></a><a href="/variants/s8/k43y3b1w1db1y3db25r2~x2/"><circle cx="304.4" cy="58.2" r="4" fill="#3465a4"><title>Royal Yaght Britannia, The</title></circle></a><a href="/variants/s8/k43dy3dg1w1db1dy3db25r2~x2/"><circle cx="324.5" cy="64.7" r="4" fill="#3465a4"><title>Royal Yacht Britannia</title></circle></a><circle cx="324.8" cy="27.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

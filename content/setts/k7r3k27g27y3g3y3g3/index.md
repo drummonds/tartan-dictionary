@@ -1,6 +1,15 @@
 ---
 title: "Brunton (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Brunton"
+  url: "/clan/brunton/"
+- name: "Brunton"
+  url: "/families/brunton/"
+- name: "Brunton"
+  url: "/tartans/b/br/brunton/"
 ---
 This is the **Brunton (Personal)** sett — one scale-free proportion (`k7r3k27g27y3g3y3g3`), colour order pattern
 [GGGGGKRK](/stripes/gggggkrk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k7r3k27dg27ly3dg3ly3dg3~x2/"><circle cx="228.1" cy="167.7" r="4" fill="#3465a4"><title>Brunton (Personal)</title></circle></a><a href="/variants/s9/g5y1g3y2g8k8db1k8g1~x4/"><circle cx="189.9" cy="197.3" r="4" fill="#3465a4"><title>Fitzpatrick Irish Family Tartan</title></circle></a><a href="/variants/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="219.3" cy="188.3" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/variants/s7/k2r7k6g12y1g1k2~x4/"><circle cx="175.4" cy="171.4" r="4" fill="#3465a4"><title>Blackstock Hunting Family Tartan</title></circle></a><a href="/variants/s10/k60g64dg5g8dg5g64k60y8k8y8/"><circle cx="222.3" cy="157.7" r="4" fill="#3465a4"><title>Sin-Cos</title></circle></a><a href="/variants/s7/r3g24k28g19y3g3y3~x2/"><circle cx="247.7" cy="186.2" r="4" fill="#3465a4"><title>Paton Family Tartan</title></circle></a><a href="/variants/s9/k4ly17k2ly2g7k2ly2k22db4~x2/"><circle cx="200.1" cy="152.6" r="4" fill="#3465a4"><title>Bro-Leon</title></circle></a><a href="/variants/s6/g21w2g4k17dr14k3~x2/"><circle cx="172.9" cy="203.0" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/variants/s6/g21w2g4k17dr14k3/"><circle cx="172.9" cy="203.0" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/variants/s7/g8r3g30k8w3k36w8~x2/"><circle cx="198.4" cy="170.4" r="4" fill="#3465a4"><title>Cleghorn (Personal)</title></circle></a><circle cx="206.4" cy="165.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

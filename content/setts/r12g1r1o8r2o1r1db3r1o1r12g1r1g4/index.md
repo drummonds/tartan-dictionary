@@ -1,6 +1,15 @@
 ---
 title: "MacColl"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacColl"
+  url: "/clan/maccoll/"
+- name: "MacColl"
+  url: "/families/maccoll/"
+- name: "MacColl"
+  url: "/tartans/m/ma/maccoll-3/"
 ---
 This is the **MacColl** sett — one scale-free proportion (`r12g1r1o8r2o1r1db3r1o1r12g1r1g4`), colour order pattern
 [GRGRRRBRRRRRGR](/stripes/grgrrrbrrrrrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/r12o1r1g8r2o1r1db3r1o1r12g1r1g4~x2/"><circle cx="375.0" cy="150.8" r="4" fill="#3465a4"><title>MacColl</title></circle></a><a href="/variants/s14/r12g1r1dy8r2dy1r1db3r1dy1r12g1r1g4~x2/"><circle cx="366.4" cy="148.2" r="4" fill="#3465a4"><title>MacColl #2</title></circle></a><a href="/variants/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/"><circle cx="341.4" cy="164.2" r="4" fill="#3465a4"><title>London Caledonian Games Association</title></circle></a><a href="/variants/s12/r12ri2dg4ri2r2dg6r2ri2dg4ri2r12k1~x2~r1807033-ri2109032-dg1806142/"><circle cx="355.1" cy="180.9" r="4" fill="#3465a4"><title>Unidentified Scarlett #17</title></circle></a><a href="/variants/s10/y4r4do2r32t1do12r2y16r4do2~x2/"><circle cx="417.6" cy="141.8" r="4" fill="#3465a4"><title>Wcwm 9275-1626</title></circle></a><a href="/variants/s14/r12dy1r1g8r2dy1r1db3r1dy1r12g1r1g4~x2/"><circle cx="365.9" cy="148.9" r="4" fill="#3465a4"><title>MacColl #3</title></circle></a><a href="/variants/s6/r29g2r2g2r6dy21~x4/"><circle cx="419.1" cy="164.0" r="4" fill="#3465a4"><title>Maguire Clan Family Tartan</title></circle></a><a href="/variants/s12/r2g2r2g8r2g2r2db2r11y1r4y1~x4/"><circle cx="353.8" cy="178.6" r="4" fill="#3465a4"><title>Burns 1930</title></circle></a><circle cx="413.7" cy="163.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

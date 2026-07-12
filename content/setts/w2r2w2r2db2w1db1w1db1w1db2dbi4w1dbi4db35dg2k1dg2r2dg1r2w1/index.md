@@ -1,6 +1,11 @@
 ---
 title: "ASF Official (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "ASF Official"
+  url: "/tartans/a/as/asf-official/"
 ---
 This is the **ASF Official (Corporate)** sett — one scale-free proportion (`w2r2w2r2db2w1db1w1db1w1db2dbi4w1dbi4db35dg2k1dg2r2dg1r2w1`), colour order pattern
 [WRGRGKGBBWBBWBWBWBRWRW](/stripes/wrgrgkgbbwbbwbwbwbrwrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s22/w2r2w2r2db2w1db1w1db1w1db2t4w1t4db35g2k1g2r2g1r2w1~x2~db1404245-t2308259/"><circle cx="281.2" cy="14.0" r="4" fill="#3465a4"><title>American Scottish Foundation</title></circle></a><a href="/variants/s17/db36lb2db4lb3db4lb4w1r2g2w1k2g3k2db3k2r3w1~x2/"><circle cx="308.4" cy="19.7" r="4" fill="#3465a4"><title>Reeves (2015)</title></circle></a><a href="/variants/s14/db52g15w1g2w1g2y2g2k2dbi3w2db2r2dbi5~x2~db1204274-dbi1406275/"><circle cx="316.7" cy="14.0" r="4" fill="#3465a4"><title>Australian National</title></circle></a><a href="/variants/s13/w4k1dy4k1ly3k1dy4db48w3dr25db4dr3w3~x2/"><circle cx="265.3" cy="32.2" r="4" fill="#3465a4"><title>State Seal of Colorado (Fashion)</title></circle></a><a href="/variants/s15/lb5k1dp5k1g4k1y4k1dp30lbi1k2dp1lb1y1k1~x2~lb3203246-lbi3402028/"><circle cx="310.0" cy="28.9" r="4" fill="#3465a4"><title>House of Holland</title></circle></a><a href="/variants/s12/db36y4k6y1k1w1k1g8r6k1r3w1~x2/"><circle cx="250.6" cy="41.6" r="4" fill="#3465a4"><title>MacBeth, MacLulich</title></circle></a><a href="/variants/s12/db36y4k6w1k1w1k1g8r6k1r3w1/"><circle cx="246.4" cy="40.3" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s12/db36y4k6w1k1w1k1g8r6k1r3w1~x2/"><circle cx="246.4" cy="40.3" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s12/db36y4k5w1k1w1k2g8r6k1r3w1~x4/"><circle cx="246.2" cy="40.6" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s14/db72r11k12y2r2w3r2k2r10g18r10k3r3w2~x2/"><circle cx="226.1" cy="33.7" r="4" fill="#3465a4"><title>Unidentified Specimen</title></circle></a><circle cx="288.9" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Graeme Heckenberg Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Graeme Heckenberg Hunting"
+  url: "/tartans/g/gr/graeme-heckenberg-hunting/"
 ---
 This is the **Graeme Heckenberg Hunting** sett — one scale-free proportion (`db3g13lb1r3lb1db10y1`), colour order pattern
 [BGWRWBG](/stripes/bgwrwbg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db3g13lb1r3lb1db10ly1~x2/"><circle cx="234.9" cy="184.1" r="4" fill="#3465a4"><title>Heckenberg Htg (Personal)</title></circle></a><a href="/variants/s6/g11dy4w1db10dr1db2~x4/"><circle cx="247.0" cy="218.7" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><a href="/variants/s6/db12lb6g30db9r8dy1~x2/"><circle cx="257.2" cy="165.8" r="4" fill="#3465a4"><title>Wright , Anne (Personal)</title></circle></a><a href="/variants/s6/db12lb6g30db9r8y1~x2/"><circle cx="257.9" cy="166.1" r="4" fill="#3465a4"><title>Wright, Anne (Personal)</title></circle></a><a href="/variants/s6/lr4g24db10r3db12lo4~x2/"><circle cx="201.7" cy="220.2" r="4" fill="#3465a4"><title>Inglis (Name)</title></circle></a><a href="/variants/s6/w4g28db18r4db18y3~x2/"><circle cx="236.0" cy="214.9" r="4" fill="#3465a4"><title>Inglis Family Tartan</title></circle></a><a href="/variants/s7/dg12lb8db4ly2dr1ly1db6~x4/"><circle cx="183.0" cy="209.6" r="4" fill="#3465a4"><title>F.I.A.T.A. Congress of 1990</title></circle></a><a href="/variants/s6/y15db8r25db72dg98w15/"><circle cx="227.6" cy="196.2" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/variants/s6/w15dg98db72dr25db8ly15/"><circle cx="245.9" cy="210.9" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/variants/s6/r5t3g24db24r4y2~x2~t2405244-db1406275/"><circle cx="236.4" cy="196.7" r="4" fill="#3465a4"><title>Canine All Dogs</title></circle></a><circle cx="240.3" cy="185.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

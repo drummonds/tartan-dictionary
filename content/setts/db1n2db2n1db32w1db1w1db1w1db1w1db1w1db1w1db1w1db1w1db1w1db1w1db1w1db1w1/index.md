@@ -1,6 +1,11 @@
 ---
 title: "Kilnsey (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Kilnsey"
+  url: "/tartans/k/ki/kilnsey/"
 ---
 This is the **Kilnsey (Fashion)** sett — one scale-free proportion (`db1n2db2n1db32w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1`), colour order pattern
 [BBBBBWBWBWBWBWBWBWBWBWBWBWBW](/stripes/bbbbbwbwbwbwbwbwbwbwbwbwbwbw/). It is recorded as a single **variant**, below.

@@ -1,6 +1,11 @@
 ---
 title: "Land's End"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Land's End"
+  url: "/tartans/l/la/land-s-end-2/"
 ---
 This is the **Land's End** sett — one scale-free proportion (`k2g9dr2g9k2g2k26dg2`), colour order pattern
 [GKGKGBGK](/stripes/gkgkgbgk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k4dg13k4g8k44g8k4dg13k4w3~x2~dg1806142-g2203152/"><circle cx="269.6" cy="134.5" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/variants/s7/k2r1y1g8k15g2dp1~x2/"><circle cx="266.0" cy="128.8" r="4" fill="#3465a4"><title>Coalfields Regeneration Trust, The</title></circle></a><a href="/variants/s8/k19r1g3k7g2k2g20w2~x2/"><circle cx="259.3" cy="134.9" r="4" fill="#3465a4"><title>Scottish Chieftain</title></circle></a><a href="/variants/s11/dg17lb2g2lb2k21lb2k3dg30k2lb2k4~x2~dg1806142-g1903114/"><circle cx="266.5" cy="129.6" r="4" fill="#3465a4"><title>Fort William (District?)</title></circle></a><a href="/variants/s8/dg48lo3k6w4dg3k15lo3dg4~x2/"><circle cx="344.1" cy="129.8" r="4" fill="#3465a4"><title>Birmingham Irish (Pipe Band)</title></circle></a><a href="/variants/s11/dg17lb2g2lb2k21lb2k3dg30k2lb2k4~x2~dg1806142-g2408144/"><circle cx="265.2" cy="129.5" r="4" fill="#3465a4"><title>Fort William District Tartan</title></circle></a><a href="/variants/s7/dy3k36g14b2k2g14r3~x2/"><circle cx="245.4" cy="130.2" r="4" fill="#3465a4"><title>Vipont (Yellow line)</title></circle></a><a href="/variants/s7/r3g14k2b2g14k36y3~x2/"><circle cx="243.7" cy="129.8" r="4" fill="#3465a4"><title>Vipont</title></circle></a><a href="/variants/s9/dg4k4dg23k11r2k2r2k20w4~x2/"><circle cx="244.7" cy="157.1" r="4" fill="#3465a4"><title>New Golf Club</title></circle></a><a href="/variants/s10/k8g4r1k2g16dy1k8g2k2g4~x4/"><circle cx="263.3" cy="146.2" r="4" fill="#3465a4"><title>Manitoba Cue Sports</title></circle></a><circle cx="280.5" cy="145.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

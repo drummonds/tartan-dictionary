@@ -1,6 +1,11 @@
 ---
 title: "MacFadyan (MacGregor Hastie)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "MacFadyan"
+  url: "/tartans/m/ma/macfadyan/"
 ---
 This is the **MacFadyan (MacGregor Hastie)** sett — one scale-free proportion (`db3r25db17r5g22r9db3`), colour order pattern
 [BRBRGRB](/stripes/brbrgrb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db8r3db1r3g14r3db1~x4/"><circle cx="269.9" cy="204.1" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s7/db9r3db1r3g9r3db1~x2/"><circle cx="228.4" cy="231.9" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s8/r12db2w1db2r3g8r3db1/"><circle cx="313.2" cy="180.6" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/variants/s8/r12db2w1db2r3g8r3db1~x2/"><circle cx="313.2" cy="180.6" r="4" fill="#3465a4"><title>Chisholm (Portrait) The.. Clan Tartan</title></circle></a><a href="/variants/s7/db1r5g18r4db9r10w1~x4/"><circle cx="243.5" cy="187.5" r="4" fill="#3465a4"><title>MacKintosh Geddes</title></circle></a><a href="/variants/s6/db2r25g10r2db10r2~x2/"><circle cx="351.5" cy="200.3" r="4" fill="#3465a4"><title>Grant of Lurg Artifact Tartan</title></circle></a><a href="/variants/s6/db9r3db1g9r3db1~x2/"><circle cx="252.2" cy="238.3" r="4" fill="#3465a4"><title>Logan #5</title></circle></a><a href="/variants/s7/g25r4db24r21g25r3db4~x2/"><circle cx="256.1" cy="247.5" r="4" fill="#3465a4"><title>Glasgow #2</title></circle></a><a href="/variants/s9/r6g3r6db1w1db1r2db8r4~x4/"><circle cx="280.8" cy="205.2" r="4" fill="#3465a4"><title>Cameron of Locheil #2</title></circle></a><a href="/variants/s9/r6g3r6db1w1db1r2db8r4/"><circle cx="280.8" cy="205.2" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><circle cx="260.4" cy="234.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

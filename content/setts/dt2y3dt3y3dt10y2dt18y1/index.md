@@ -1,6 +1,13 @@
 ---
 title: "Hebridean Cairn Fashion Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hebridean"
+  url: "/clan/hebridean/"
+- name: "Hebridean Cairn"
+  url: "/tartans/h/he/hebridean-cairn-2/"
 ---
 This is the **Hebridean Cairn Fashion Tartan** sett — one scale-free proportion (`dt2y3dt3y3dt10y2dt18y1`), colour order pattern
 [BGBGBGBG](/stripes/bgbgbgbg/). It is recorded as a single **variant**, below.

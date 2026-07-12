@@ -1,6 +1,11 @@
 ---
 title: "Proven"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Proven"
+  url: "/tartans/p/pr/proven/"
 ---
 This is the **Proven** sett — one scale-free proportion (`dt14dy3dt14lb10dy2dt7dr5k2dr2k2dr5dt9w1k2dt2`), colour order pattern
 [BGBWGBBKBKBBWKB](/stripes/bgbwgbbkbkbbwkb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/t17dg16k2dg24ly3k4r2k2r2k4ly3dg24k2dg16t17r2~x2/"><circle cx="254.1" cy="134.4" r="4" fill="#3465a4"><title>Shanahan</title></circle></a><a href="/variants/s14/dy34g10dy5r2k8db2w3db2k8r2dy5g10dy28k3~x2/"><circle cx="269.0" cy="97.7" r="4" fill="#3465a4"><title>Lambert (Front Royal) Hunting</title></circle></a><a href="/variants/s12/db9lb1db1r3db14r1k12dg15dp3dg21r1dg8~x2~db1406275-dg1806142-dp1607327/"><circle cx="200.1" cy="89.3" r="4" fill="#3465a4"><title>West Highland Way</title></circle></a><a href="/variants/s17/k3dg3w3dg3dpi3dg3dpi3dg15dp3k3dp3k3dp3k3dp3dg19r3~x2~dpi1607327-dp1105325/"><circle cx="201.6" cy="136.5" r="4" fill="#3465a4"><title>MacGlynn</title></circle></a><a href="/variants/s11/db18k2g2db9k4dg9r4db9g2k2ly1~x4~g2203152-dg1806142/"><circle cx="260.1" cy="126.0" r="4" fill="#3465a4"><title>Amarillo</title></circle></a><a href="/variants/s13/dg10k3g3k8dr9g3dr10b3dr28g3k3w3k3~x2/"><circle cx="207.5" cy="129.0" r="4" fill="#3465a4"><title>Clifford</title></circle></a><a href="/variants/s12/dg8k8dg56n8dg8k20dg8n8dg8n16w3dr6/"><circle cx="300.4" cy="130.9" r="4" fill="#3465a4"><title>Kelly of Sleat Hunting (Name)</title></circle></a><a href="/variants/s13/dt10k3dg3k8dr9k3dr10g3dr28dg3k3w3k3~x2~dg1806142-g2504202/"><circle cx="217.6" cy="130.7" r="4" fill="#3465a4"><title>Clifford (Name)</title></circle></a><a href="/variants/s11/dg14k8dg21k2ly5k2dg21k11db18k2dr5~x2/"><circle cx="230.7" cy="179.9" r="4" fill="#3465a4"><title>de Vere-Austin (Clan)</title></circle></a><a href="/variants/s10/dg49k8ly20lyi3dg23r6k5lb3dg10ly10~x2~ly2503076-lyi2705081/"><circle cx="274.9" cy="122.4" r="4" fill="#3465a4"><title>State Seal of Maine (Fashion)</title></circle></a><circle cx="242.7" cy="132.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Ogilvy of Airlie"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ogilvy"
+  url: "/clan/ogilvy/"
 ---
 A family of [Clan Ogilvy](/clan/ogilvy/).
 

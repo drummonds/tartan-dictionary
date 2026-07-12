@@ -1,6 +1,15 @@
 ---
 title: "Haut Family (by Dundee)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Haut"
+  url: "/clan/haut/"
+- name: "Haut"
+  url: "/families/haut/"
+- name: "Haut"
+  url: "/tartans/h/ha/haut-2/"
 ---
 This is the **Haut Family (by Dundee)** sett — one scale-free proportion (`n46dp15k12ni8g8b8`), colour order pattern
 [BBKBGB](/stripes/bbkbgb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/"><circle cx="133.5" cy="262.7" r="4" fill="#3465a4"><title>Breon (Jersey Shore, Pennsylvania) (Personal)</title></circle></a><a href="/variants/s7/r2k6y1dg12y1db6lr2~x4~db1305279-lr3200000/"><circle cx="148.1" cy="157.9" r="4" fill="#3465a4"><title>James (Personal)</title></circle></a><a href="/variants/s6/db9w2dg25do10k15dp4~x2/"><circle cx="171.9" cy="193.8" r="4" fill="#3465a4"><title>Staley (2014)</title></circle></a><a href="/variants/s8/dg5g2dbi2db15r2lg2dg5r2~x4~dbi1406275-db1204274/"><circle cx="211.0" cy="188.0" r="4" fill="#3465a4"><title>Remember the Somme 1916</title></circle></a><a href="/variants/s5/n10k1db3g3y1~x6/"><circle cx="316.9" cy="209.0" r="4" fill="#3465a4"><title>Celtic Norse Heritage Society</title></circle></a><a href="/variants/s7/r3dg20k2n11k2db20lr2~x2/"><circle cx="169.2" cy="178.2" r="4" fill="#3465a4"><title>Grandfather Mountain Games (District</title></circle></a><a href="/variants/s5/n10k1db3g3ly1~x6/"><circle cx="293.4" cy="200.9" r="4" fill="#3465a4"><title>Celtic Norse Heritage Society</title></circle></a><a href="/variants/s7/r3dg9g15db10k2db18w3~x2~dg1806142-g1903114/"><circle cx="177.6" cy="193.5" r="4" fill="#3465a4"><title>Coulthard (Personal)</title></circle></a><a href="/variants/s6/dg6lo3dg26k10n30lb3~x2/"><circle cx="209.1" cy="195.5" r="4" fill="#3465a4"><title>Montrose (1983)</title></circle></a><a href="/variants/s6/k3dg44db27y6r10w3~x2/"><circle cx="232.5" cy="155.3" r="4" fill="#3465a4"><title>Official Glasgow 2014, The</title></circle></a><circle cx="204.8" cy="209.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

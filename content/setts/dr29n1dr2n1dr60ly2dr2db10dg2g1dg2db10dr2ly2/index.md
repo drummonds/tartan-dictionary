@@ -1,6 +1,11 @@
 ---
 title: "Burrell (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Burrell"
+  url: "/tartans/b/bu/burrell/"
 ---
 This is the **Burrell (Personal)** sett — one scale-free proportion (`dr29n1dr2n1dr60ly2dr2db10dg2g1dg2db10dr2ly2`), colour order pattern
 [BBBBBYBBGGGBBY](/stripes/bbbbbybbgggbby/). It is recorded as a single **variant**, below.

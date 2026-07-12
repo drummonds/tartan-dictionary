@@ -1,6 +1,11 @@
 ---
 title: "Unknown"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unknown"
+  url: "/tartans/u/un/unknown/"
 ---
 This is the **Unknown** sett — one scale-free proportion (`n3w1n1w1n2w3n14db2n2db32r2`), colour order pattern
 [BWBWBWBBBBR](/stripes/bwbwbwbbbbr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r3w2r3dg14w3r3dg2r3w3db47w2~x2/"><circle cx="320.7" cy="100.9" r="4" fill="#3465a4"><title>Friends of Scotland Caucus</title></circle></a><a href="/variants/s10/db50k12n2k2w2k2n12db7k7w2~x2/"><circle cx="335.5" cy="106.0" r="4" fill="#3465a4"><title>Skye (Fashion)</title></circle></a><a href="/variants/s16/db36r4db3w3db36dg6w1dg2w1dg10r1dg10w1dg2w1dg6~x2/"><circle cx="405.8" cy="96.8" r="4" fill="#3465a4"><title>Fred Perry</title></circle></a><a href="/variants/s9/db58y2r1lb4y2r2lb7r8y6~x2/"><circle cx="424.7" cy="81.7" r="4" fill="#3465a4"><title>Hybelius, J-A (Personal)</title></circle></a><a href="/variants/s9/w2db2w1db40r3ly1r10dg10r1~x2/"><circle cx="370.3" cy="84.3" r="4" fill="#3465a4"><title>Russian Scottish (District)</title></circle></a><a href="/variants/s11/db3w1db1w1db2w3db15t2db2t22r2~x2/"><circle cx="299.6" cy="134.8" r="4" fill="#3465a4"><title>Commonwealth Games 1986 (Corp)</title></circle></a><a href="/variants/s13/w2r5db4g8db40r5w2r5db4g8db4r5w2~x2/"><circle cx="310.2" cy="118.9" r="4" fill="#3465a4"><title>Yamaue</title></circle></a><a href="/variants/s11/db6w2db2w2db4w6db28b4db4b45r4/"><circle cx="315.2" cy="133.2" r="4" fill="#3465a4"><title>Edinburgh, '86</title></circle></a><a href="/variants/s9/w3db2w2db40r3y1r10g10r1~x2/"><circle cx="340.4" cy="83.6" r="4" fill="#3465a4"><title>Russian Scottish</title></circle></a><a href="/variants/s12/dr38db3dr10db88w2db8w4db8w4db8w28r12/"><circle cx="318.8" cy="89.2" r="4" fill="#3465a4"><title>St George</title></circle></a><circle cx="371.7" cy="107.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

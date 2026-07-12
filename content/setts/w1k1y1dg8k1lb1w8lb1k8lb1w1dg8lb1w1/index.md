@@ -1,6 +1,15 @@
 ---
 title: "Praetorian, Green (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Praetorian"
+  url: "/clan/praetorian/"
+- name: "Praetorian"
+  url: "/families/praetorian/"
+- name: "Praetorian"
+  url: "/tartans/p/pr/praetorian-3/"
 ---
 This is the **Praetorian, Green (Fashion)** sett — one scale-free proportion (`w1k1y1dg8k1lb1w8lb1k8lb1w1dg8lb1w1`), colour order pattern
 [WKGGKWWWKWWGWW](/stripes/wkggkwwwkwwgww/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/t30ly3t4k25y26k3y3r4~x2~t2503227-ly3307090-y2602166/"><circle cx="119.3" cy="136.2" r="4" fill="#3465a4"><title>Ogilvie Hunting</title></circle></a><a href="/variants/s13/k3ly4k3ly4k3g16k16w3t16k2w2k2ly2~x2/"><circle cx="92.5" cy="146.4" r="4" fill="#3465a4"><title>Lotus Elan (Corporate)</title></circle></a><a href="/variants/s13/r4g8db24k4w4k4g24k3g3k3g3w24g4~x2/"><circle cx="98.1" cy="146.4" r="4" fill="#3465a4"><title>MacInnes Dress Clan Tartan</title></circle></a><a href="/variants/s13/db1r1db8k3g8r1g1r1g8k3w10r1w1~x4/"><circle cx="92.6" cy="142.2" r="4" fill="#3465a4"><title>Blair Dress Clan Tartan</title></circle></a><a href="/variants/s15/n2t14k3t3k3t3k15t4r2g2r2g11r2g2r2~x2/"><circle cx="100.1" cy="151.0" r="4" fill="#3465a4"><title>Homecoming (Fashion)</title></circle></a><a href="/variants/s13/dg8r1dg2r2dg12w1k12r1lb12r2lb2r1lb8~x4/"><circle cx="110.7" cy="133.2" r="4" fill="#3465a4"><title>Boston Pipe Band, Greater</title></circle></a><a href="/variants/s11/lb2k1lb1db2k8r2g8db2lb1k1lb2~x2/"><circle cx="80.3" cy="153.9" r="4" fill="#3465a4"><title>Unidentified No 22</title></circle></a><a href="/variants/s13/db2dr2db12k5dg12dr2dg2dr2dg12k5w14dr2w2~x2/"><circle cx="74.5" cy="163.5" r="4" fill="#3465a4"><title>Blair Dress</title></circle></a><a href="/variants/s11/lbi3k1g12k1g1k2g1k6lb12k1lo1~x4~lbi3203246-lb3200000/"><circle cx="117.0" cy="129.9" r="4" fill="#3465a4"><title>MacCandlish Arisaid Green</title></circle></a><a href="/variants/s15/dp2k2g6lb4k2db5k4g20k4lb5k2lb4g6k2dp2~x2/"><circle cx="142.8" cy="137.4" r="4" fill="#3465a4"><title>Letham Hunting (Name)</title></circle></a><circle cx="103.9" cy="134.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

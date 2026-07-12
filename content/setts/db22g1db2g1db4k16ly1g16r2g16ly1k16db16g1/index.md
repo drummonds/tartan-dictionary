@@ -1,6 +1,15 @@
 ---
 title: "Milne of Corstorphine #2 (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Milne"
+  url: "/clan/milne/"
+- name: "Milne of Corstorphine"
+  url: "/families/milne-of-corstorphine/"
+- name: "Milne of Corstorphine"
+  url: "/tartans/m/mi/milne-of-corstorphine/"
 ---
 This is the **Milne of Corstorphine #2 (Personal)** sett — one scale-free proportion (`db22g1db2g1db4k16ly1g16r2g16ly1k16db16g1`), colour order pattern
 [BGBGBKYGRGYKBG](/stripes/bgbgbkygrgykbg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="156.5" cy="100.5" r="4" fill="#3465a4"><title>Robertson Hunting</title></circle></a><a href="/variants/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="152.7" cy="101.4" r="4" fill="#3465a4"><title>Robertson Htg - 1816 (Clan)</title></circle></a><a href="/variants/s17/db22k3db3k3db3k15r2g19k1lb3k1g19r2k15db19k3db3~x2/"><circle cx="152.2" cy="103.1" r="4" fill="#3465a4"><title>Sempill</title></circle></a><a href="/variants/s13/db24k4db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="144.8" cy="115.2" r="4" fill="#3465a4"><title>Craigclowan School</title></circle></a><a href="/variants/s16/g19k1dg3k1g3k9db20k1y1k7y1k1db21k12g2dg1~x2~g2408144-dg1806142/"><circle cx="174.9" cy="97.0" r="4" fill="#3465a4"><title>Hope Vere Family Tartan</title></circle></a><a href="/variants/s13/db2k2db12k18w1g14r2g14w3k18db12k2db1~x4/"><circle cx="149.7" cy="129.0" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/variants/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/"><circle cx="136.5" cy="125.8" r="4" fill="#3465a4"><title>Campbell Red</title></circle></a><a href="/variants/s15/db16k2db2k2db2k12g12y2k2y2g12k16db16k1w3~x2/"><circle cx="133.9" cy="126.6" r="4" fill="#3465a4"><title>Dyce #2</title></circle></a><a href="/variants/s11/db28k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="167.1" cy="116.2" r="4" fill="#3465a4"><title>Robertson, hunting</title></circle></a><a href="/variants/s14/db88k15g9r12g20k3y8k6g20r12g9k15db24k36/"><circle cx="183.5" cy="94.1" r="4" fill="#3465a4"><title>Gillies</title></circle></a><circle cx="172.4" cy="116.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "MacLeod of Lewis"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacLeod"
+  url: "/clan/macleod/"
 ---
 A family of [Clan MacLeod](/clan/macleod/).
 

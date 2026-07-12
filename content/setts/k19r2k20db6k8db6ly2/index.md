@@ -1,6 +1,11 @@
 ---
 title: "Wyse (2016)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Wyse"
+  url: "/tartans/w/wy/wyse/"
 ---
 This is the **Wyse (2016)** sett — one scale-free proportion (`k19r2k20db6k8db6ly2`), colour order pattern
 [KKKRKBKBY](/stripes/kkkrkbkby/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r4k21w2k20db21k2db2~x2/"><circle cx="298.3" cy="176.9" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/variants/s7/db1k4r1k1y1k4db1~x6/"><circle cx="306.8" cy="222.0" r="4" fill="#3465a4"><title>Justus Family Tartan</title></circle></a><a href="/variants/s7/db1k4dr1k1lo1k4db1~x12/"><circle cx="309.1" cy="225.6" r="4" fill="#3465a4"><title>Justus (Personal)</title></circle></a><a href="/variants/s7/t1k4r1k1ly1k4t1~x12/"><circle cx="277.8" cy="215.1" r="4" fill="#3465a4"><title>Justus #1 (Personal)</title></circle></a><a href="/variants/s8/k21lb2k4lb4do2lb4k13g2~x4/"><circle cx="353.4" cy="153.4" r="4" fill="#3465a4"><title>Anzac (Fashion)</title></circle></a><a href="/variants/s10/k18lb9k18lr2k2lr2k18ly9k18lr2/"><circle cx="343.0" cy="174.4" r="4" fill="#3465a4"><title>London Fog Black 2 (fashion)</title></circle></a><a href="/variants/s7/k3ly2k36db16k5db2w3~x2/"><circle cx="360.0" cy="132.4" r="4" fill="#3465a4"><title>Pride of Nova Scotia (Corporate)</title></circle></a><a href="/variants/s7/k32t2k6t2k13n30w2~x2/"><circle cx="304.4" cy="152.8" r="4" fill="#3465a4"><title>Mountain Rescue Association Honor Guard</title></circle></a><a href="/variants/s11/k49db15k2ly6k33dr4k3dy8w3db5k3~x2/"><circle cx="332.3" cy="71.9" r="4" fill="#3465a4"><title>State Seal of Wisconsin (Fashion)</title></circle></a><a href="/variants/s8/k21db3k12r2db12k2db12w2~x2/"><circle cx="269.4" cy="182.1" r="4" fill="#3465a4"><title>Inverness Caledonian Thistle Football Club</title></circle></a><circle cx="330.8" cy="168.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Grant"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Grant"
+  url: "/clan/grant/"
+- name: "Grant"
+  url: "/families/grant/"
+- name: "Grant"
+  url: "/tartans/g/gr/grant-7/"
 ---
 This is the **Grant** sett — one scale-free proportion (`db24k4db4k4db4k24g24r5g6k2y2`), colour order pattern
 [BKBKBKGRGKG](/stripes/bkbkbkgrgkg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db22k4db4k4db4k22g22r6g6k2y3~x2/"><circle cx="117.8" cy="152.6" r="4" fill="#3465a4"><title>MacLaren (labelled)</title></circle></a><a href="/variants/s11/db11k2db2k2db2k11g11r2g3k1y3~x2/"><circle cx="114.7" cy="154.7" r="4" fill="#3465a4"><title>Grant Hunting Clan Tartan</title></circle></a><a href="/variants/s11/t22k4t4k4t4k22g22r5g6k2y3~x2/"><circle cx="113.0" cy="152.6" r="4" fill="#3465a4"><title>Grant (Wilson's 1819 Key Pattern Book)</title></circle></a><a href="/variants/s10/r6db2g5db18g10db2k28db2g10lo3~x2/"><circle cx="127.6" cy="144.4" r="4" fill="#3465a4"><title>Ofally, County</title></circle></a><a href="/variants/s13/g16k5g4k8g44k40g4db52r10db4r4db10w6/"><circle cx="122.8" cy="127.3" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><a href="/variants/s10/r7db2g5db18g10db2k24db2g10y3~x2/"><circle cx="112.2" cy="159.0" r="4" fill="#3465a4"><title>Offally</title></circle></a><a href="/variants/s11/db16r5db30r2k33g30r5g2r2g7w2~x2/"><circle cx="136.2" cy="126.5" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/variants/s13/db8dr1db2dr3db12dr1k12g12dr3g2dr1g4lb1~x2/"><circle cx="138.2" cy="146.5" r="4" fill="#3465a4"><title>MacDonell of Glengarry - 1914 (Clan)</title></circle></a><a href="/variants/s9/r7db2g5k24db2g10db28g10w3~x2/"><circle cx="132.3" cy="149.9" r="4" fill="#3465a4"><title>Colgan (Personal)</title></circle></a><a href="/variants/s11/lb3g3k4g14k4g3k14db18r1db4r2~x2/"><circle cx="125.8" cy="134.1" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><circle cx="131.3" cy="144.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

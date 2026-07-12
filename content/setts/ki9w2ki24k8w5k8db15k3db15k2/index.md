@@ -1,6 +1,11 @@
 ---
 title: "Scottish Claymores"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Scottish Claymores"
+  url: "/tartans/s/sc/scottish-claymores-2/"
 ---
 This is the **Scottish Claymores** sett — one scale-free proportion (`ki9w2ki24k8w5k8db15k3db15k2`), colour order pattern
 [KBKBKWKKWK](/stripes/kbkbkwkkwk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db9w2db24k8w5k8dbi15k3dbi15k2~x2~db1404245-dbi1406275/"><circle cx="167.7" cy="186.2" r="4" fill="#3465a4"><title>Scottish Claymores</title></circle></a><a href="/variants/s11/k16db8k6db8k6db20k6db6k14t41r4/"><circle cx="154.3" cy="172.1" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/variants/s9/db28k3db6k3db6k20dy28k3w6~x2/"><circle cx="180.3" cy="181.6" r="4" fill="#3465a4"><title>Forbes #5</title></circle></a><a href="/variants/s11/k16db8k6db8k6db20k6db6k14dbi41r4~db0805267-dbi1604274/"><circle cx="204.1" cy="185.2" r="4" fill="#3465a4"><title>Merchiston, Castle School</title></circle></a><a href="/variants/s9/k6db3k3db33k16b21k3b3r4~x2~db1003265-b1813263/"><circle cx="197.0" cy="166.0" r="4" fill="#3465a4"><title>USCBP - Office of Field Operations</title></circle></a><a href="/variants/s7/y8k4n39k37db36k6db7/"><circle cx="171.0" cy="201.4" r="4" fill="#3465a4"><title>Oceanic (Corporate?)</title></circle></a><a href="/variants/s13/k4n4k1n4k1n8k1n4k8db2k1db14r2~x2/"><circle cx="183.9" cy="152.4" r="4" fill="#3465a4"><title>Fowler</title></circle></a><a href="/variants/s9/k5db3k3db23n4k25n23lb3n5~x2/"><circle cx="169.6" cy="186.4" r="4" fill="#3465a4"><title>Cahonas Scotland</title></circle></a><a href="/variants/s9/n12k2n2k2n2k12db12b3w1~x2~db1308266-b2009265/"><circle cx="142.2" cy="159.0" r="4" fill="#3465a4"><title>de Franck, Matt (Personal)</title></circle></a><a href="/variants/s8/db17o2db2o2db2k17dbi13k4~x2~db1404245-dbi1406275/"><circle cx="202.7" cy="202.2" r="4" fill="#3465a4"><title>Balmoral Hotel</title></circle></a><circle cx="157.9" cy="179.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

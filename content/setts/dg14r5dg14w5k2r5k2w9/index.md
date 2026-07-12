@@ -1,6 +1,11 @@
 ---
 title: "Unnamed (Hip Flask)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unnamed"
+  url: "/tartans/u/un/unnamed-2/"
 ---
 This is the **Unnamed (Hip Flask)** sett — one scale-free proportion (`dg14r5dg14w5k2r5k2w9`), colour order pattern
 [GRGWKRKW](/stripes/grgwkrkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k22w16dg2w14dg2w16k22dr3~x2~dg1806142/"><circle cx="196.6" cy="187.9" r="4" fill="#3465a4"><title>Kierson</title></circle></a><a href="/variants/s7/k4w19k11dg15k3dg16y3~x2/"><circle cx="132.6" cy="219.8" r="4" fill="#3465a4"><title>Lawson, William 2002</title></circle></a><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><circle cx="121.9" cy="232.8" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><a href="/variants/s7/y9k32g6w20y3w9k5~x2/"><circle cx="163.3" cy="179.3" r="4" fill="#3465a4"><title>Black and White Golf</title></circle></a><a href="/variants/s7/ly9k32g6w20ly3w9k5~x2/"><circle cx="165.1" cy="181.5" r="4" fill="#3465a4"><title>Black &amp; White Golf (Corporate)</title></circle></a><a href="/variants/s9/k6r2k12y3k6lb16y3lb16k2~x2/"><circle cx="179.0" cy="179.9" r="4" fill="#3465a4"><title>MacMillan</title></circle></a><a href="/variants/s7/r1g8k8r1k8lb8r1~x4/"><circle cx="149.0" cy="199.1" r="4" fill="#3465a4"><title>Triad Highland Games Proposed</title></circle></a><a href="/variants/s7/ly30w4ly20g20k20lo3k6~x2~ly2503076/"><circle cx="168.1" cy="190.7" r="4" fill="#3465a4"><title>St Andrews Bay</title></circle></a><a href="/variants/s8/dy3k7dy2w2ly12k2ly2dy3~x2/"><circle cx="138.8" cy="196.2" r="4" fill="#3465a4"><title>Daks (Brown)</title></circle></a><a href="/variants/s9/g7k1r7k1w7k10w7k2w4~x2/"><circle cx="107.1" cy="191.3" r="4" fill="#3465a4"><title>Borthwick Dress Artifact Tartan</title></circle></a><circle cx="166.8" cy="204.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

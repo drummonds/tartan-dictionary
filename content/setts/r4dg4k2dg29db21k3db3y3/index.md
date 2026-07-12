@@ -1,6 +1,15 @@
 ---
 title: "Peter of Lee (Chief) (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Peter"
+  url: "/clan/peter/"
+- name: "Peter of Lee"
+  url: "/families/peter-of-lee/"
+- name: "Peter of Lee"
+  url: "/tartans/p/pe/peter-of-lee-2/"
 ---
 This is the **Peter of Lee (Chief) (Personal)** sett — one scale-free proportion (`r4dg4k2dg29db21k3db3y3`), colour order pattern
 [GBKBGKGR](/stripes/gbkbgkgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r4dg3k2dg38db30k3db3k3~x2/"><circle cx="351.4" cy="159.1" r="4" fill="#3465a4"><title>Peter of Lee Family Tartan</title></circle></a><a href="/variants/s9/db4k3db28w2dp6dg28n2dg4dp4~x2~dg1806142-n1805302/"><circle cx="220.5" cy="140.3" r="4" fill="#3465a4"><title>Canmore</title></circle></a><a href="/variants/s7/dg30db6r2db2dy2db15w2~x2/"><circle cx="358.0" cy="179.1" r="4" fill="#3465a4"><title>Hydesville Tower (Corporate)</title></circle></a><a href="/variants/s7/db3b2db21k12dg24r1ly3~x2~db0806265-k0700000/"><circle cx="237.3" cy="150.2" r="4" fill="#3465a4"><title>Nova Scotia Int. Tattoo (Corporate)</title></circle></a><a href="/variants/s9/k4db4k2db4k2db22dy27y2r3~x2/"><circle cx="279.1" cy="153.1" r="4" fill="#3465a4"><title>Falkirk (District)</title></circle></a><a href="/variants/s7/dp6r2dp1dg25db16k2db4~x2/"><circle cx="355.7" cy="171.1" r="4" fill="#3465a4"><title>Laurie</title></circle></a><a href="/variants/s9/r1db2dg1k3dg19db3y1db2y1~x4/"><circle cx="391.0" cy="127.1" r="4" fill="#3465a4"><title>Pagus Wasia</title></circle></a><a href="/variants/s7/dg27dr2dg4o15db26k2db6~x2~dg1703114/"><circle cx="252.7" cy="190.3" r="4" fill="#3465a4"><title>Bailies of Bennachie Corporate Tartan</title></circle></a><a href="/variants/s9/dg15db20k2r4k2db20dg15k2dy2~x2/"><circle cx="297.1" cy="194.8" r="4" fill="#3465a4"><title>Manroth (Personal)</title></circle></a><a href="/variants/s7/dp6ly2dp1dg25db16k2db4~x2/"><circle cx="326.9" cy="162.5" r="4" fill="#3465a4"><title>Lowry</title></circle></a><circle cx="302.4" cy="161.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

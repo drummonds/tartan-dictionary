@@ -1,6 +1,11 @@
 ---
 title: "Duke of Sussex (Earl of Inverness)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Duke of Sussex"
+  url: "/tartans/d/du/duke-of-sussex-2/"
 ---
 This is the **Duke of Sussex (Earl of Inverness)** sett — one scale-free proportion (`r114g10w3g16ly3g3ly3r28`), colour order pattern
 [RGWGYGYR](/stripes/rgwgygyr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r65w2r3dr4g11r3g3r11~x2/"><circle cx="594.1" cy="108.0" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken</title></circle></a><a href="/variants/s9/r72dg6y2dg11b2dg2b2r9k2~x2/"><circle cx="499.2" cy="58.1" r="4" fill="#3465a4"><title>Junor</title></circle></a><a href="/variants/s8/ri65w2ri3r4dg11ri3dg3ri11~ri2008029-r1506028/"><circle cx="607.6" cy="112.6" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken</title></circle></a><a href="/variants/s7/r48w3k3g2y6g2r6~x4/"><circle cx="491.6" cy="90.9" r="4" fill="#3465a4"><title>Ferguson the Astronomer</title></circle></a><a href="/variants/s8/r42db4y1db6g1db1g1r12~x2/"><circle cx="575.7" cy="92.5" r="4" fill="#3465a4"><title>Inverness Earl of... District Tartan</title></circle></a><a href="/variants/s8/r42dp4ly1dp6g1dp1g1r12~x2/"><circle cx="609.3" cy="101.2" r="4" fill="#3465a4"><title>Earl of Inverness (Artefact)</title></circle></a><a href="/variants/s5/r39g6r2g3w1~x2/"><circle cx="624.8" cy="141.9" r="4" fill="#3465a4"><title>MacGregor #2</title></circle></a><a href="/variants/s8/r70t1r2g12k2g1k10w1~x2/"><circle cx="451.8" cy="40.0" r="4" fill="#3465a4"><title>Zamzam (Personal)</title></circle></a><a href="/variants/s6/g4r16k5r50g4w1~x4/"><circle cx="557.9" cy="90.2" r="4" fill="#3465a4"><title>Chalet</title></circle></a><a href="/variants/s9/r52dg2r2dg2r3w3db2w2db2~x4/"><circle cx="570.2" cy="83.8" r="4" fill="#3465a4"><title>Prince of Denmark (Corporate)</title></circle></a><circle cx="583.4" cy="102.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

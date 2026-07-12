@@ -1,6 +1,11 @@
 ---
 title: "Four Quarters (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Four Quarters"
+  url: "/tartans/f/fo/four-quarters/"
 ---
 This is the **Four Quarters (Personal)** sett — one scale-free proportion (`w7dp7w1g13w1dp2w1db14w1dp2w1r11w1dp2w1y7w1dp2w7`), colour order pattern
 [WBWGWBWBWBWRWBWGWBW](/stripes/wbwgwbwbwbwrwbwgwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s23/w2dp7w2lb6w2y4w2dp4w2y4w2g19w2dp7w2dp7w2r19w4r3lb2r3w2~x2/"><circle cx="64.1" cy="126.1" r="4" fill="#3465a4"><title>Lasting Family Tartan</title></circle></a><a href="/variants/s16/w2n1lr12o2lr2o2lr2o2lr2dp10o1dp10g12n2g4lr2~x2~n1900000-lr3000000-o2404317-dp1105325/"><circle cx="121.3" cy="140.1" r="4" fill="#3465a4"><title>Cribb (2016)</title></circle></a><a href="/variants/s23/w8dp7w2y6w2ly4w2dp4w2ly4w2dg19w2dp7w2dp7w2r19w4r3y2r3w2~x2~y2602166-ly3307090/"><circle cx="53.5" cy="118.7" r="4" fill="#3465a4"><title>Lasting</title></circle></a><a href="/variants/s17/w1r2db2w1g9w1db2r2w1r2db2w1b9w1db2r2w1~x4/"><circle cx="83.0" cy="154.5" r="4" fill="#3465a4"><title>Jacobite</title></circle></a><a href="/variants/s9/r26lb7dp8y3r3w3g20dp10w2~x2/"><circle cx="107.9" cy="139.5" r="4" fill="#3465a4"><title>Wilson's No.227</title></circle></a><a href="/variants/s17/r16do4w6r6w20do15g4dy15w1do3w1dy5r6g4w3db3w3~x2/"><circle cx="95.5" cy="113.1" r="4" fill="#3465a4"><title>Jacobite Dress General Tartan</title></circle></a><a href="/variants/s9/r22y3db5ly2r2w2dg11db4w3~x2/"><circle cx="112.2" cy="128.2" r="4" fill="#3465a4"><title>Norwich No.014</title></circle></a><a href="/variants/s12/db3y2t12db14r2db4dy6y4w24r2w2db3~x2~db1003265-t2105244/"><circle cx="111.3" cy="135.1" r="4" fill="#3465a4"><title>Lashbrooke of Barrowfield (Personal)</title></circle></a><a href="/variants/s16/w5db1dbi10db2dbi4db2dbi1db2dbi4db2r15w15db15dp2db1dp4~x2~db1003265-dbi1605267/"><circle cx="118.5" cy="131.4" r="4" fill="#3465a4"><title>Auld Alliance</title></circle></a><a href="/variants/s12/w32dy6g10lo2g4lo2g4dg12dr8g2dr4w5~x2~g2203152-dg1806142/"><circle cx="105.9" cy="124.3" r="4" fill="#3465a4"><title>Seller Dress (Dance)</title></circle></a><circle cx="79.2" cy="118.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

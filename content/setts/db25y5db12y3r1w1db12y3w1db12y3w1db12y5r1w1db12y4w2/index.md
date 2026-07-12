@@ -1,6 +1,11 @@
 ---
 title: "Wanless (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Racing Wanless Australian"
+  url: "/tartans/r/ra/racing-wanless-australian/"
 ---
 This is the **Wanless (Personal)** sett — one scale-free proportion (`db25y5db12y3r1w1db12y3w1db12y3w1db12y5r1w1db12y4w2`), colour order pattern
 [BGBGRWBGWBGWBGRWBGW](/stripes/bgbgrwbgwbgwbgrwbgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/db8dy1db16w1g12db27w1db1w1db1w1db27g12w1db16dy1db8r2~x2~r2109032/"><circle cx="449.8" cy="100.4" r="4" fill="#3465a4"><title>World Youth Congress</title></circle></a><a href="/variants/s12/db4r2db25lb7w1db5w2db5w1lb7db26r2~x2/"><circle cx="440.7" cy="119.1" r="4" fill="#3465a4"><title>Glasgow Caledonian University (Corp)</title></circle></a><a href="/variants/s21/r4db37g4db4g7db5ly2db4g2db3g8db3g2db4ly2db5g6db4g4db37r2~db1204274/"><circle cx="431.7" cy="105.0" r="4" fill="#3465a4"><title>Jenkins of Wales</title></circle></a><a href="/variants/s13/g12db6g6db22w4db8g4r8db10r3db48lb4db8/"><circle cx="388.3" cy="132.0" r="4" fill="#3465a4"><title>Massachusetts - The Bay State</title></circle></a><a href="/variants/s13/db29r2db10y5db4w5db4y5db4w5db10r2db29~x2/"><circle cx="449.9" cy="147.9" r="4" fill="#3465a4"><title>Clackson (Personal)</title></circle></a><a href="/variants/s13/db24r2db8y5db4w5db4y5db4w5db8r2db24~x2/"><circle cx="411.1" cy="160.6" r="4" fill="#3465a4"><title>Clackson (Personal)</title></circle></a><a href="/variants/s18/db5y1db1y1k4db15w1db2y1db2w1db15k4y1db1y1db5w1~x4/"><circle cx="401.5" cy="106.6" r="4" fill="#3465a4"><title>SPA Association</title></circle></a><a href="/variants/s13/g6db3g3db11w2db4g2r4db5r2db24lb2db4~x2/"><circle cx="374.7" cy="143.2" r="4" fill="#3465a4"><title>Massachusetts-The Bay State</title></circle></a><a href="/variants/s10/r2db8dy1db16w1g12db27w1db1w1~x2/"><circle cx="447.5" cy="117.4" r="4" fill="#3465a4"><title>World Youth Congress (Corporate)</title></circle></a><a href="/variants/s15/w3db4w1db2g1db3r10db2r2db3g1db3r2db32r1~x2/"><circle cx="437.4" cy="78.1" r="4" fill="#3465a4"><title>International School of Aberdeen</title></circle></a><circle cx="428.5" cy="116.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

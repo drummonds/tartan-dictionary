@@ -25,7 +25,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/variants/s8/r1k23y3db16y3k22r1w1~x2/"><strong>Schöbitz</strong></a></li>
 <li><a class="tartan" href="/families/scobie/"><img src="/variants/s12/p1dr1p1dr6dg26mi14dr20lb1dr1lb1dr2m1~x2~p2312307-mi2506332/sett.png" alt="Scobie" width="140"><br><strong>Scobie</strong></a></li>
 <li><a class="tartan" href="/families/scotia/"><img src="/variants/s8/g6dp14t22db6ly16w1db6t6~x2/sett.png" alt="Scotia" width="140"><br><strong>Scotia</strong></a></li>
-<li><a class="tartan" href="/families/scotland/"><img src="/variants/s24/db30k4g3dpi2dp2dpi2dp10k2dp2k4dp2g3dp2k4dp2k2dp10dpi2dp2dpi2g3k4db30lb3~x2~dpi1607327-dp1406341/sett.png" alt="Scotland" width="140"><br><strong>Scotland</strong></a></li>
+<li><a class="tartan" href="/families/scotland/"><img src="/variants/s11/r3y1dp1r20dr2dp9dr2g20dp1y1g3~x2/sett.png" alt="Scotland" width="140"><br><strong>Scotland</strong></a></li>
 <li><a class="tartan" href="/families/scotshill/"><img src="/variants/s10/db13k14g6k14db14w1r1y1g1db3~x2/sett.png" alt="Scotshill" width="140"><br><strong>Scotshill</strong></a></li>
 <li><a class="tartan" href="/families/scott/"><img src="/variants/s14/k8g3w3g3r3g12k8g6db12y4k6w3k3g8~x2/sett.png" alt="Scott" width="140"><br><strong>Scott</strong></a></li>
 <li><a class="tartan" href="/families/scott-of-buccleuch/"><img src="/variants/s11/t5w4k4w4k4w4k4w4k4w4k4~x2/sett.png" alt="Scott of Buccleuch" width="140"><br><strong>Scott of Buccleuch</strong></a></li>
@@ -45,7 +45,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/semple/"><img src="/variants/s16/t11k3t3k3t4k15g36w3g36k15t4k3t3k3t11r4~x2/sett.png" alt="Semple" width="140"><br><strong>Semple</strong></a></li>
 <li><a class="tartan" href="/families/sens/"><img src="/variants/s10/r26w2y1k3y4r8k32w1k1w3~x2/sett.png" alt="Sens" width="140"><br><strong>Sens</strong></a></li>
 <li><a class="tartan" href="/families/serenade/"><img src="/variants/s18/dp12lg3dp12t6db2t26dp16lb2dp6lb2dp16t26db2t6dp12lg3dp12db6~x2~dp1607327-lg3005197-db1406275-lb3300000/sett.png" alt="Serenade" width="140"><br><strong>Serenade</strong></a></li>
-<li><a class="tartan" href="/families/seton/"><img src="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4/sett.png" alt="Seton" width="140"><br><strong>Seton</strong></a></li>
+<li><a class="tartan" href="/families/seton/"><img src="/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8/sett.png" alt="Seton" width="140"><br><strong>Seton</strong></a></li>
 <li><a class="tartan" href="/variants/s15/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4/"><strong>Shadow Halls</strong></a></li>
 <li><a class="tartan" href="/families/shanahan/"><img src="/variants/s16/t17dg16k2dg24ly3k4r2k2r2k4ly3dg24k2dg16t17r2~x2/sett.png" alt="Shanahan" width="140"><br><strong>Shanahan</strong></a></li>
 <li><a class="tartan" href="/families/shandon/"><img src="/variants/s14/k20dg18k2w2k5y2k2dg18k20db18t4db4t4db18~x2~db1406275-t2205244/sett.png" alt="Shandon" width="140"><br><strong>Shandon</strong></a></li>
@@ -71,7 +71,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/silvicola/"><img src="/variants/s4/y20k15y20w3~x2/sett.png" alt="Silvicola" width="140"><br><strong>Silvicola</strong></a></li>
 <li><a class="tartan" href="/families/simba/"><img src="/variants/s6/dp2g3o21dp42w1g2~x2/sett.png" alt="SiMBA" width="140"><br><strong>SiMBA</strong></a></li>
 <li><a class="tartan" href="/variants/s14/k6dg5k6dg12k23do13y6db13k12w2k23dg12k6dg5~x2/"><strong>Simon and Friends (Persona</strong></a></li>
-<li><a class="tartan" href="/families/sinclair/"><img src="/variants/s7/db4r2db31k10g4w21g2~x2/sett.png" alt="Sinclair" width="140"><br><strong>Sinclair</strong></a></li>
+<li><a class="tartan" href="/families/sinclair/"><img src="/variants/s7/dr4db15w2n15g30dr2g4~x2/sett.png" alt="Sinclair" width="140"><br><strong>Sinclair</strong></a></li>
 <li><a class="tartan" href="/families/sinclair-of-ulbster/"><img src="/variants/s4/t12k4g6ly1~x8/sett.png" alt="Sinclair of Ulbster" width="140"><br><strong>Sinclair of Ulbster</strong></a></li>
 <li><a class="tartan" href="/families/singh/"><img src="/variants/s8/dr3lb2g18lo2g18dp34dr3dp3~x2/sett.png" alt="Singh" width="140"><br><strong>Singh</strong></a></li>
 <li><a class="tartan" href="/variants/s6/n19w20dp18r2k7lb15~x2~n2203265-dp1502305/"><strong>Sirrell</strong></a></li>
@@ -80,7 +80,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/skibo/"><img src="/variants/s8/dg23db11t22r2t22db11dg23r2~x2~db1406275/sett.png" alt="Skibo" width="140"><br><strong>Skibo</strong></a></li>
 <li><a class="tartan" href="/families/skinner/"><img src="/variants/s6/r8k8lo1k8r8db1~x4~db1406275/sett.png" alt="Skinner" width="140"><br><strong>Skinner</strong></a></li>
 <li><a class="tartan" href="/families/skye/"><img src="/variants/s6/db4w2db1w36g21y4~x2/sett.png" alt="Skye" width="140"><br><strong>Skye</strong></a></li>
-<li><a class="tartan" href="/families/slanj/"><img src="/variants/s14/db36k4db4k34b3k3w4k3b3k34db4k4db36k4~x2/sett.png" alt="Slanj" width="140"><br><strong>Slanj</strong></a></li>
+<li><a class="tartan" href="/families/slanj/"><img src="/variants/s10/k28t3k3t25k3t25k3t3k28o4~x2/sett.png" alt="Slanj" width="140"><br><strong>Slanj</strong></a></li>
 <li><a class="tartan" href="/families/smeaton/"><img src="/variants/s10/db12w2db7g15k2g4k2g15db2k7~x2/sett.png" alt="Smeaton" width="140"><br><strong>Smeaton</strong></a></li>
 <li><a class="tartan" href="/families/smith/"><img src="/variants/s11/dr2k1g7k6db7t2db7k6g7k1lo2~x4/sett.png" alt="Smith" width="140"><br><strong>Smith</strong></a></li>
 <li><a class="tartan" href="/families/smith-of-pennilands/"><img src="/variants/s11/dr2k1g7k6t7db2t7k6g7k1lo2~x4/sett.png" alt="Smith of Pennilands" width="140"><br><strong>Smith of Pennilands</strong></a></li>
@@ -115,15 +115,15 @@ background: /bg/clans.png
 <li><a class="tartan" href="/variants/s8/g28r3k28db8lb1g8r2k3~x2/"><strong>Stansbury</strong></a></li>
 <li><a class="tartan" href="/families/starr/"><img src="/variants/s7/w1lb4t4db3w3t20lb1~x4/sett.png" alt="Starr" width="140"><br><strong>Starr</strong></a></li>
 <li><a class="tartan" href="/variants/s12/db16g1db1g1db1k12g1db1g1db1g6dp2~x4/"><strong>Stephen-Mathieson</strong></a></li>
-<li><a class="tartan" href="/families/stephens/"><img src="/variants/s9/k9r4k2r20n9r4db18r4w2~x2/sett.png" alt="Stephens" width="140"><br><strong>Stephens</strong></a></li>
-<li><a class="tartan" href="/families/stephenson/"><img src="/variants/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/sett.png" alt="Stephenson" width="140"><br><strong>Stephenson</strong></a></li>
+<li><a class="tartan" href="/families/stephens/"><img src="/variants/s11/n9db4n2db4n2db15n9db4r18k9y2~x2/sett.png" alt="Stephens" width="140"><br><strong>Stephens</strong></a></li>
+<li><a class="tartan" href="/families/stephenson/"><img src="/variants/s11/k6g20t2dr5t2k20lo3db20g26dr3db5~x2~g2203152/sett.png" alt="Stephenson" width="140"><br><strong>Stephenson</strong></a></li>
 <li><a class="tartan" href="/variants/s5/g11ly10db11t33w3~x2/"><strong>Sterling</strong></a></li>
 <li><a class="tartan" href="/variants/s10/r3y1db15g16db3r6db6g8db15w3~x2/"><strong>Steve Walls</strong></a></li>
 <li><a class="tartan" href="/families/stevens/"><img src="/variants/s7/db4lr3db4lr3o3n11o3~x2/sett.png" alt="Stevens" width="140"><br><strong>Stevens</strong></a></li>
 <li><a class="tartan" href="/families/stevenson/"><img src="/variants/s16/g6ly1dr2ly1dr2ly1db6ly1db6ly1dr2ly1dr2ly1g6dr1~x8/sett.png" alt="Stevenson" width="140"><br><strong>Stevenson</strong></a></li>
-<li><a class="tartan" href="/families/stewart/"><img src="/variants/s26/db9dg4db9k3db3k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27y4dg27k8db3k3db3k3/sett.png" alt="Stewart" width="140"><br><strong>Stewart</strong></a></li>
+<li><a class="tartan" href="/families/stewart/"><img src="/variants/s28/db14k12db3dg26k6ly2k2db2k2dg8r4k2r4lb2r4k2r4dg8k2db2k2ly2k6dg26db3k12db14k4~x2~dg1405139/sett.png" alt="Stewart" width="140"><br><strong>Stewart</strong></a></li>
 <li><a class="tartan" href="/families/stewart-of-achnacone/"><img src="/variants/s13/db8g2k2g2db7r2k6r1k6r2g8k6g7~x2/sett.png" alt="Stewart of Achnacone" width="140"><br><strong>Stewart of Achnacone</strong></a></li>
-<li><a class="tartan" href="/families/stewart-of-appin/"><img src="/variants/s10/db8r3db34lb3k9w31r5w3r3w8/sett.png" alt="Stewart of Appin" width="140"><br><strong>Stewart of Appin</strong></a></li>
+<li><a class="tartan" href="/families/stewart-of-appin/"><img src="/variants/s16/r3db2lb1r2g24r4g2r2db8r2g2r24db2lb1r2g2~x2/sett.png" alt="Stewart of Appin" width="140"><br><strong>Stewart of Appin</strong></a></li>
 <li><a class="tartan" href="/families/stewart-of-ardshiel/"><img src="/variants/s18/dg14r6ri2k3r65k2lb2r6k34r6lb2k2r4dg66r12ri2k2lb4~r2109032-ri2806019/sett.png" alt="Stewart of Ardshiel" width="140"><br><strong>Stewart of Ardshiel</strong></a></li>
 <li><a class="tartan" href="/families/stewart-of-athol/"><img src="/variants/s9/g22k1g2k1g3k8r20k1r6~x2/sett.png" alt="Stewart of Athol" width="140"><br><strong>Stewart of Athol</strong></a></li>
 <li><a class="tartan" href="/families/stewart-of-atholl/"><img src="/variants/s9/g22k1g2k1g3k8r20k1r3~x4/sett.png" alt="Stewart of Atholl" width="140"><br><strong>Stewart of Atholl</strong></a></li>

@@ -1,6 +1,13 @@
 ---
 title: "Devon Companion District Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Devon"
+  url: "/clan/devon/"
+- name: "Devon Companion"
+  url: "/tartans/d/de/devon-companion-2/"
 ---
 This is the **Devon Companion District Tartan** sett — one scale-free proportion (`n5db4y1db4k4dr4w1`), colour order pattern
 [BBGBKBW](/stripes/bbgbkbw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n5db4y1db4k4o4w1~x4/"><circle cx="54.4" cy="232.3" r="4" fill="#3465a4"><title>Devon, Companion</title></circle></a><a href="/variants/s7/n5db4y1db4k4dy4w1~x4/"><circle cx="68.9" cy="239.3" r="4" fill="#3465a4"><title>Devon Companion</title></circle></a><a href="/variants/s9/n10lb5db15k3db15k5dr25k3w4~x2/"><circle cx="107.1" cy="171.5" r="4" fill="#3465a4"><title>Galway County Crest (Fashion)</title></circle></a><a href="/variants/s9/n10dbi5db15k3db15k5dr25k3w4~x2~dbi1605267-db1003265/"><circle cx="135.0" cy="180.7" r="4" fill="#3465a4"><title>Galway County, Crest Range</title></circle></a><a href="/variants/s7/k4n4lo1n4r4db4w1~x8~r2406019/"><circle cx="50.4" cy="242.9" r="4" fill="#3465a4"><title>Blackdown Hills Corporate Tartan</title></circle></a><a href="/variants/s6/g7w4k21n16db16r5~x2/"><circle cx="40.3" cy="221.6" r="4" fill="#3465a4"><title>Hawkes, Norman (Personal)</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2~db1404245/"><circle cx="91.1" cy="261.4" r="4" fill="#3465a4"><title>Gandy of Myrton Clan/Family Tartan</title></circle></a><a href="/variants/s6/r4dg11k11dg2db11g3~x4~dg1803171-g1904130/"><circle cx="94.6" cy="238.2" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2/"><circle cx="88.7" cy="259.3" r="4" fill="#3465a4"><title>Gandy of Myrton (Name)</title></circle></a><a href="/variants/s6/dp4r1t5dp4k6lb1~x4/"><circle cx="118.8" cy="231.0" r="4" fill="#3465a4"><title>Benreay Medical Centre (Corporate)</title></circle></a><circle cx="69.7" cy="238.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

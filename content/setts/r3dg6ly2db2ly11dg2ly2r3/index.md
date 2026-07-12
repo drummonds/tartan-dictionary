@@ -1,6 +1,15 @@
 ---
 title: "Invertere (Daks #1) (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Invertere"
+  url: "/clan/invertere/"
+- name: "Invertere"
+  url: "/families/invertere/"
+- name: "Invertere"
+  url: "/tartans/i/in/invertere/"
 ---
 This is the **Invertere (Daks #1) (Fashion)** sett — one scale-free proportion (`r3dg6ly2db2ly11dg2ly2r3`), colour order pattern
 [RGYBYGYR](/stripes/rgybygyr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/ly12dg4ly24k9ly8dg36dr4/"><circle cx="202.8" cy="199.0" r="4" fill="#3465a4"><title>Harmer (Corporate)</title></circle></a><a href="/variants/s5/dy4lb11dy14ly30r4~x2/"><circle cx="233.2" cy="236.1" r="4" fill="#3465a4"><title>Trinity Bicycles</title></circle></a><a href="/variants/s8/dy24g2dy5r14g2r5lo17dy2~x2/"><circle cx="244.0" cy="186.7" r="4" fill="#3465a4"><title>Loch Rannoch #2</title></circle></a><a href="/variants/s12/r1w1r6db3r1g6r1g6r6db1r1w1~x2/"><circle cx="226.4" cy="203.1" r="4" fill="#3465a4"><title>MacQuarrie SM</title></circle></a><a href="/variants/s8/r3ly8r3ly20dy20ly3dy8ly3~x2/"><circle cx="274.3" cy="229.3" r="4" fill="#3465a4"><title>Miyuki #4</title></circle></a><a href="/variants/s14/dg6ly2db2ly11dg2ly2r3ly2dg2ly11db2ly2dg6r3~x2/"><circle cx="223.3" cy="200.5" r="4" fill="#3465a4"><title>Invertere (Daks #1)</title></circle></a><a href="/variants/s8/ly3lb7do2r2do14lb2do2ly3~x2/"><circle cx="247.1" cy="204.2" r="4" fill="#3465a4"><title>Daks (Blue Loden)</title></circle></a><a href="/variants/s12/g21r5g21r21g5r4g5r21w4r5db21r4/"><circle cx="206.5" cy="220.4" r="4" fill="#3465a4"><title>MacRae (Sample)</title></circle></a><a href="/variants/s13/r2g2r12db10w3g10r2g2r2g10r12g2r2/"><circle cx="212.9" cy="202.3" r="4" fill="#3465a4"><title>Matheson N</title></circle></a><a href="/variants/s11/w2r4g8r16lb2r3g16r4lb2r4w2~x2/"><circle cx="272.9" cy="193.0" r="4" fill="#3465a4"><title>MacKinnon #10</title></circle></a><circle cx="204.9" cy="221.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Glassary (Initial)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Glassary"
+  url: "/clan/glassary/"
+- name: "Glassary"
+  url: "/families/glassary/"
+- name: "Glassary"
+  url: "/tartans/g/gl/glassary/"
 ---
 This is the **Glassary (Initial)** sett — one scale-free proportion (`w2r2g3r6w1k1w1r6k1g3k1dy4k1w1lb2w1k1dy4k1g3k1y6w1k1w1y6g3y2w2`), colour order pattern
 [WGGGWKWGKGKGKWWWKGKGKRWKWRGRW](/stripes/wgggwkwgkgkgkwwwkgkgkrwkwrgrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/n17dr41w5dr5w5dr41k17n17ly36lb6ly6lb6ly36n17k17dy36n17k7/"><circle cx="14.0" cy="131.5" r="4" fill="#3465a4"><title>Ruairidh (Personal)</title></circle></a><a href="/variants/s18/g6k1lb3k1y6k1y6k1lb3k1r6w1r6k1lb3k1g6lb3~x4/"><circle cx="14.0" cy="160.7" r="4" fill="#3465a4"><title>Buchanan Old Clan Tartan</title></circle></a><a href="/variants/s20/r4g6r2g6r3db4r2k4dy2k2dy2k3w3k3lg18r2k2r2lg6r3~x2~db1406275/"><circle cx="14.6" cy="103.9" r="4" fill="#3465a4"><title>Anderson</title></circle></a><a href="/variants/s20/r4g6r2g6r3db4r2k4dy2k2dy2k3w3k3lg18r2k2r2lg6r3~x2/"><circle cx="14.1" cy="103.9" r="4" fill="#3465a4"><title>Anderson (Clan)</title></circle></a><a href="/variants/s16/o16w2ri7w2k14lb6w2o15w2dg17lb6dg6r8k6r8k2~x2~ri2806019-r2108022/"><circle cx="14.0" cy="130.2" r="4" fill="#3465a4"><title>Gordon, Red (Clan/District)</title></circle></a><a href="/variants/s17/lb7k9ly2k2ly2r14g14w2lb3w2g14r14k2lb7k9ly2k2~x2/"><circle cx="14.0" cy="140.3" r="4" fill="#3465a4"><title>Coulter (Personal)</title></circle></a><a href="/variants/s18/g23k3db9k3r20w3r20k3db9k3y20k3y20k3db9k3g23db9~x2/"><circle cx="32.7" cy="146.7" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/variants/s19/db9g23k3db9k3r20w3r20k3db9k3y20k3y20k3db9k3g23db9~x2/"><circle cx="27.3" cy="146.3" r="4" fill="#3465a4"><title>Buchanan (1850 - Clan)</title></circle></a><a href="/variants/s16/dr16w2dr7w2k14lb6w2dr15w2g17lb6g6r8k6r8k2~x2~r1908029/"><circle cx="14.0" cy="131.3" r="4" fill="#3465a4"><title>Huntly Old</title></circle></a><a href="/variants/s16/dr16w2dr7w2k14lb6w2dr15w2g17lb6g6r8k6r8k2~r1908029/"><circle cx="14.0" cy="131.3" r="4" fill="#3465a4"><title>Huntly Old</title></circle></a><circle cx="14.0" cy="121.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

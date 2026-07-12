@@ -1,6 +1,15 @@
 ---
 title: "Burnett"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Burnett"
+  url: "/clan/burnett/"
+- name: "Burnett"
+  url: "/families/burnett/"
+- name: "Burnett"
+  url: "/tartans/b/bu/burnett/"
 ---
 This is the **Burnett** sett — one scale-free proportion (`r2g6y1g6r3g2r16db1`), colour order pattern
 [BRGRGGGR](/stripes/brgrgggr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r2g6y1g6r3g2r16lb1~x4/"><circle cx="383.4" cy="175.4" r="4" fill="#3465a4"><title>Burnett of Leys Family Tartan</title></circle></a><a href="/variants/s8/r4g14ly3g14r4g3r29y4~x2/"><circle cx="324.8" cy="205.9" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/variants/s7/r6lb2r30g12r3g12r3~x2/"><circle cx="421.6" cy="196.4" r="4" fill="#3465a4"><title>Crawford</title></circle></a><a href="/variants/s5/r24t3w1g9r12~x8/"><circle cx="375.4" cy="163.7" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s6/r2g6r2g6r16y1~x2/"><circle cx="431.0" cy="206.5" r="4" fill="#3465a4"><title>Cameron Clan Tartan</title></circle></a><a href="/variants/s6/r2dg6r2dg6r16ly1~x4/"><circle cx="408.3" cy="194.8" r="4" fill="#3465a4"><title>Cameron (Clan)</title></circle></a><a href="/variants/s6/r1g6r1g6r15y1~x2/"><circle cx="412.7" cy="205.0" r="4" fill="#3465a4"><title>Cameron Clan D</title></circle></a><a href="/variants/s7/r6w2r30g12r3g12r3~x2/"><circle cx="412.8" cy="193.6" r="4" fill="#3465a4"><title>Crawford (Clan)</title></circle></a><a href="/variants/s7/r6w2r30g12r3g12r3/"><circle cx="412.8" cy="193.6" r="4" fill="#3465a4"><title>Crawford</title></circle></a><a href="/variants/s6/r1g10r1db4r18g1~x4/"><circle cx="385.0" cy="182.9" r="4" fill="#3465a4"><title>Robertson 6</title></circle></a><circle cx="379.8" cy="174.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

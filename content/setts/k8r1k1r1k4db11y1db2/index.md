@@ -1,6 +1,11 @@
 ---
 title: "Rutherford"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Rutherford"
+  url: "/tartans/r/ru/rutherford/"
 ---
 This is the **Rutherford** sett — one scale-free proportion (`k8r1k1r1k4db11y1db2`), colour order pattern
 [BGBKRKRK](/stripes/bgbkrkrk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k30r3k3r3k6db32dg3db3~x2/"><circle cx="272.6" cy="160.3" r="4" fill="#3465a4"><title>Holmes (Clan?)</title></circle></a><a href="/variants/s7/k3db10y5db29k10r6k2~x2/"><circle cx="310.3" cy="164.2" r="4" fill="#3465a4"><title>Perkins (2015)</title></circle></a><a href="/variants/s9/k3g3k20r2k2r2db20g3db3~x2/"><circle cx="218.6" cy="156.0" r="4" fill="#3465a4"><title>Hume or Home Clan Tartan</title></circle></a><a href="/variants/s8/k4db36k4db4k34b3k3w4~x2/"><circle cx="276.1" cy="152.8" r="4" fill="#3465a4"><title>Slanj Dress (Corporate)</title></circle></a><a href="/variants/s7/k2db9k2db9k13w1k2~x4/"><circle cx="303.4" cy="194.4" r="4" fill="#3465a4"><title>Swan 2015, Brian E (Personal)</title></circle></a><a href="/variants/s9/k3dr1k14db14dr1db1dr1db1dr2~x4~db1406275/"><circle cx="312.1" cy="162.9" r="4" fill="#3465a4"><title>Angus</title></circle></a><a href="/variants/s9/k3dr1k14db14dr1db1dr1db1dr2~x4/"><circle cx="325.3" cy="168.6" r="4" fill="#3465a4"><title>Angus (District/Clan)</title></circle></a><a href="/variants/s11/k3r2k12db8k2db4k2db4k12db22y3~x2/"><circle cx="281.2" cy="166.5" r="4" fill="#3465a4"><title>Caledonian Dragon (Corporate)</title></circle></a><a href="/variants/s8/k7r2k2ki6y1ki1y1ki4~x4~ki0604259/"><circle cx="217.3" cy="206.5" r="4" fill="#3465a4"><title>Printing Industries of America</title></circle></a><a href="/variants/s6/k4dr2k12db12k1lo2~x2/"><circle cx="270.8" cy="188.0" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><circle cx="253.1" cy="168.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

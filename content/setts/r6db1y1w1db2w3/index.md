@@ -1,6 +1,11 @@
 ---
 title: "Winnipeg Embroiderers' Guild"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Winnipeg Embroiderers' Guild"
+  url: "/tartans/w/wi/winnipeg-embroiderers-guild/"
 ---
 This is the **Winnipeg Embroiderers' Guild** sett — one scale-free proportion (`r6db1y1w1db2w3`), colour order pattern
 [RBGWBW](/stripes/rbgwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r12db2y2w2db4w3~x2/"><circle cx="225.7" cy="217.5" r="4" fill="#3465a4"><title>Winnipeg Embroiders' Guild (Corp.)</title></circle></a><a href="/variants/s6/db1n8w1db4r8w1~x6/"><circle cx="208.9" cy="227.1" r="4" fill="#3465a4"><title>Little's (Corporate)</title></circle></a><a href="/variants/s5/r9db1g2db5w1~x12/"><circle cx="273.7" cy="213.8" r="4" fill="#3465a4"><title>McIntosh, Georgina (Personal)</title></circle></a><a href="/variants/s5/g4r3lb1k1lb3~x4/"><circle cx="104.7" cy="250.4" r="4" fill="#3465a4"><title>Wilson's No.214</title></circle></a><a href="/variants/s7/y2db3w6db15r24db3w2~x2/"><circle cx="247.2" cy="177.5" r="4" fill="#3465a4"><title>Fazzolettone (Fashion?)</title></circle></a><a href="/variants/s6/w5lb34k24lb4dr24lb4~x2/"><circle cx="175.6" cy="205.3" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/variants/s6/r32db6k6g6w18k3/"><circle cx="160.8" cy="161.4" r="4" fill="#3465a4"><title>Rose Dress White Dress Clan Tartan</title></circle></a><a href="/variants/s9/w6ly1r4w1db4ly1r8w1r2~x2/"><circle cx="235.7" cy="200.2" r="4" fill="#3465a4"><title>Unidentified #41</title></circle></a><a href="/variants/s9/w6o1r4w1db4o1r8w1r2~x2/"><circle cx="228.2" cy="193.5" r="4" fill="#3465a4"><title>Unidentified 34</title></circle></a><a href="/variants/s5/r30db20w15lb3ly3/"><circle cx="188.1" cy="206.3" r="4" fill="#3465a4"><title>Siddle, New (Corporate)</title></circle></a><circle cx="191.8" cy="226.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Julien Pigeut Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Julien Pigeut"
+  url: "/tartans/j/ju/julien-pigeut/"
 ---
 This is the **Julien Pigeut Tartan** sett — one scale-free proportion (`k40n15o10y3lb5w5db10lb20`), colour order pattern
 [KBRGWWBW](/stripes/kbrgwwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lp33dr7db9dp7g12r3k29~x2/"><circle cx="52.8" cy="141.7" r="4" fill="#3465a4"><title>Hatcher (Texas) (Personal)</title></circle></a><a href="/variants/s11/w2db3lb3db13k13db4r2db4g12lp3r1~x2/"><circle cx="94.6" cy="122.3" r="4" fill="#3465a4"><title>Fitzgerald Hunting Family Tartan</title></circle></a><a href="/variants/s11/w2db3lb3db13k13db4r2db4g12b3r1~x2/"><circle cx="98.6" cy="124.1" r="4" fill="#3465a4"><title>Fitzgerald, hunting</title></circle></a><a href="/variants/s8/k3dbi3g15db15dp5r3y2dp1~x2~dbi1604274-db0805267-dp1607335-r2807041/"><circle cx="102.4" cy="131.4" r="4" fill="#3465a4"><title>Young</title></circle></a><a href="/variants/s8/lb26db13k13w2g8k5r3lb3~x2/"><circle cx="106.2" cy="141.3" r="4" fill="#3465a4"><title>Moran (Coilessan) (Personal)</title></circle></a><a href="/variants/s9/r17k5w4k6ly5db31k5g6w3~x2/"><circle cx="98.3" cy="133.4" r="4" fill="#3465a4"><title>Dean/Dundas (Personal)</title></circle></a><a href="/variants/s10/n3lb18dr2lb18g3db8k20g2k5lo3~x2/"><circle cx="102.9" cy="124.1" r="4" fill="#3465a4"><title>Royal Air Force Lossiemouth</title></circle></a><a href="/variants/s9/r17k5w4k6y5db31k5g6w3~x2/"><circle cx="102.3" cy="134.4" r="4" fill="#3465a4"><title>Dean/Dundas (Melbourne, Australia) (Personal)</title></circle></a><a href="/variants/s9/w3lb26db13k13w2g8k5r3lb3~x2/"><circle cx="95.1" cy="133.1" r="4" fill="#3465a4"><title>Moran (Virgin Islands) (Personal)</title></circle></a><a href="/variants/s8/db48ly25dy15dr7w5db7k10w10~x2/"><circle cx="121.6" cy="155.3" r="4" fill="#3465a4"><title>State Seal of Utah (Fashion)</title></circle></a><circle cx="76.5" cy="128.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

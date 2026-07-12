@@ -1,6 +1,11 @@
 ---
 title: "Weston-McCue (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Weston-McCue"
+  url: "/tartans/w/we/weston-mccue/"
 ---
 This is the **Weston-McCue (Personal)** sett — one scale-free proportion (`wi2n2wi24lr3wi2lr3lb9w2lb2w2wi8w4wi2w2wi36w2wi2`), colour order pattern
 [WBWYWYWWWWWWWWWWW](/stripes/wbwywywwwwwwwwwww/). It is recorded as a single **variant**, below.

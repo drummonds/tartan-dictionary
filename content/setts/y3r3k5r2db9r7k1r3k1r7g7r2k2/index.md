@@ -1,6 +1,11 @@
 ---
 title: "Prince Charles Edward (Edinburgh)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Albany"
+  url: "/tartans/a/al/albany/"
 ---
 This is the **Prince Charles Edward (Edinburgh)** sett — one scale-free proportion (`y3r3k5r2db9r7k1r3k1r7g7r2k2`), colour order pattern
 [GRKRBRKRKRGRK](/stripes/grkrbrkrkrgrk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db2r11g2r11g21r2k9lb2db11r11g2r11db2~x2/"><circle cx="174.2" cy="148.2" r="4" fill="#3465a4"><title>Nicholson Clan Tartan</title></circle></a><a href="/variants/s14/r21db9k2db2k2db9k18y3g21r13k3r13w2r13~x2/"><circle cx="129.7" cy="129.3" r="4" fill="#3465a4"><title>Caledonia</title></circle></a><a href="/variants/s13/k5r7ly23r23dg3r11dg3r23dg18r2k18r5y5/"><circle cx="165.7" cy="142.5" r="4" fill="#3465a4"><title>Bonnie Prince Charlie (Vyella)</title></circle></a><a href="/variants/s13/r8db2k1db3k4y1k1w1k1g8r6w1r6~x4/"><circle cx="129.0" cy="137.7" r="4" fill="#3465a4"><title>Christie Family Tartan</title></circle></a><a href="/variants/s11/n12k2n12y2k12w1k12y2r12k2r12~x2/"><circle cx="118.5" cy="155.8" r="4" fill="#3465a4"><title>Wells Red, Greg (Personal)</title></circle></a><a href="/variants/s9/k9r4k2r20n9r4db18r4w2~x2/"><circle cx="163.9" cy="157.4" r="4" fill="#3465a4"><title>Stephens Dress</title></circle></a><a href="/variants/s14/r21lb9k2lb2k2lb9k18y3g21r13k3r13w2r13~x2/"><circle cx="124.7" cy="128.1" r="4" fill="#3465a4"><title>Caledonia No 155 District Tartan</title></circle></a><a href="/variants/s12/db9k16db9r7db4r9w2r2lb2r9db4r7~x2/"><circle cx="137.0" cy="178.0" r="4" fill="#3465a4"><title>Tullis Russell</title></circle></a><a href="/variants/s15/r14g3r14g13y2k14db6k2db2k2db6r9w2k2r2~x2/"><circle cx="96.9" cy="136.8" r="4" fill="#3465a4"><title>MacPherson #8</title></circle></a><a href="/variants/s7/r52t16k16g22r16lo3r16~x2/"><circle cx="173.9" cy="145.0" r="4" fill="#3465a4"><title>Sturrock (Blue/Black)</title></circle></a><circle cx="139.9" cy="162.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

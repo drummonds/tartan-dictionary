@@ -1,6 +1,15 @@
 ---
 title: "MTV"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MTV"
+  url: "/clan/mtv/"
+- name: "MTV"
+  url: "/families/mtv/"
+- name: "MTV"
+  url: "/tartans/m/mt/mtv/"
 ---
 This is the **MTV** sett — one scale-free proportion (`dr5k3dr9dg56lb4dg2w3`), colour order pattern
 [BKBGWGW](/stripes/bkbgwgw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r5k3r9dg56db4dg2w3/"><circle cx="419.6" cy="93.3" r="4" fill="#3465a4"><title>MTV</title></circle></a><a href="/variants/s8/w3dr11db4dr6dg48o2dg3o2~x2/"><circle cx="447.5" cy="135.1" r="4" fill="#3465a4"><title>Hall, from Springbrook and Newtown (Personal)</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46lyi2k2~x2~ly2503076-lyi2705081/"><circle cx="397.9" cy="114.0" r="4" fill="#3465a4"><title>Green Rover (Personal)</title></circle></a><a href="/variants/s10/dg18k1dy3k1lr1dg1dr2k2dr2lr2~x4/"><circle cx="323.8" cy="110.8" r="4" fill="#3465a4"><title>Anthony Plaid Stewart</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/"><circle cx="371.1" cy="105.0" r="4" fill="#3465a4"><title>Green Rover, The</title></circle></a><a href="/variants/s10/dg40dr5k2w2k2y3k2dg10dr3k3~x2/"><circle cx="421.1" cy="106.2" r="4" fill="#3465a4"><title>Palmer, Arnold</title></circle></a><a href="/variants/s6/n5y1k5dg46k5r3~x2/"><circle cx="474.2" cy="100.9" r="4" fill="#3465a4"><title>Touch</title></circle></a><a href="/variants/s8/dg62r5w1r4g5y4k4w2~x2/"><circle cx="430.8" cy="49.8" r="4" fill="#3465a4"><title>Greeven, Wolfgang H (Personal)</title></circle></a><a href="/variants/s8/k2w2db8k4dg33r2dg16w2~x2/"><circle cx="384.2" cy="130.8" r="4" fill="#3465a4"><title>Sarros, Terrence (USA) (Personal)</title></circle></a><a href="/variants/s10/dg67k2dg2k2dg2y8r8k8y2lb7~x2/"><circle cx="381.0" cy="66.7" r="4" fill="#3465a4"><title>Moran (French) (Name)</title></circle></a><circle cx="442.8" cy="106.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

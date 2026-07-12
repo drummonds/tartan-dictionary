@@ -1,6 +1,13 @@
 ---
 title: "Farquharson or MacEwan Clan Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Farquharson"
+  url: "/clan/farquharson/"
+- name: "Farquharson or MacEwan"
+  url: "/tartans/f/fa/farquharson-or-macewan/"
 ---
 This is the **Farquharson or MacEwan Clan Tartan** sett — one scale-free proportion (`k19g22k1r4k1g22k19db16k2db3k2db16k19g22k1y4k1g22k19db3k2db3k2db28k2db3k2db3`), colour order pattern
 [BKBKBKBKBKGKGKGKBKBKBKGKRKGK](/stripes/bkbkbkbkbkgkgkgkbkbkbkgkrkgk/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s28/k36g22k1r4k1g22k19db16k2db3k2db16k19g22k1y4k1g22k19db3k2db3k2db28k2db3k2db3~x2/"><circle cx="167.8" cy="59.6" r="4" fill="#3465a4"><title>Farquharson (Vestiarium Scoticum) or MacEwen/MacEwan</title></circle></a><a href="/variants/s28/k13g13k1ly3k1g13k13t12k2t2k2t12k13g13k1w3k1g13k13t2k2t2k2t13k2t2k2t2~x4/"><circle cx="117.2" cy="109.9" r="4" fill="#3465a4"><title>Campbell of Argyll (Clan)</title></circle></a><a href="/variants/s28/k16g8k1y2k1g8k8db8k1db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1~x2/"><circle cx="156.1" cy="92.3" r="4" fill="#3465a4"><title>Campbell of Argyll</title></circle></a><a href="/variants/s30/k3db19k15r2g19k1t3k1g19k15db3k3db3k3db22k3db3k3db3k15g19k1t3k1g19r2k15db19k3db3~x2~t2503227/"><circle cx="128.0" cy="84.4" r="4" fill="#3465a4"><title>Sempill Clan/Family Tartan</title></circle></a><a href="/variants/s29/db1k1db8k8g8k1y4k1g8k8db1k1db1k1db16k1db1k1db1k8g8k1w4k1g8k8db8k1db1/"><circle cx="115.9" cy="94.9" r="4" fill="#3465a4"><title>Campbell of Argyll</title></circle></a><a href="/variants/s30/k14g12dr2g12k14db20k2db4k2db20g12lo3g3lo1k3dr2k3lo1g3lo3g12db4k2db4k2db22k2db4k2db4~x2/"><circle cx="165.0" cy="83.4" r="4" fill="#3465a4"><title>Dundee Discovery (Corporate)</title></circle></a><a href="/variants/s30/g10y3g3y1k2r2k2y1g3y3g10db21k2db2k2db21k15g15r2g15k15db2k2db2k2db31k2db2k2db2~x2/"><circle cx="185.6" cy="55.5" r="4" fill="#3465a4"><title>Dundee Discovery</title></circle></a><a href="/variants/s21/db18k2db4k20g10dr2g10k1lb3k1g10dr2g10k20dr1db14dr3db2dr2db4lb1~x2/"><circle cx="123.6" cy="102.6" r="4" fill="#3465a4"><title>Rankin (Dalgleish)</title></circle></a><a href="/variants/s25/db21k1db1k1db1k10g22r2g22k10db16k1db2k1db16k10g22y2g22k10db1k1db1k1db7~x2/"><circle cx="180.9" cy="88.4" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/variants/s32/db15k3db3k3db3k15g15r1g1r4g1r1g15k15db15k3db4k3db15k15g15y1g1y4g1y1g15k15db3k3db3k3~x2/"><circle cx="120.8" cy="98.6" r="4" fill="#3465a4"><title>Gordon #4</title></circle></a><circle cx="143.5" cy="74.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

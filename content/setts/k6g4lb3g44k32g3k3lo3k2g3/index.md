@@ -1,6 +1,15 @@
 ---
 title: "Smeaton Hunting (Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Smeaton"
+  url: "/clan/smeaton/"
+- name: "Smeaton"
+  url: "/families/smeaton/"
+- name: "Smeaton Hunting"
+  url: "/tartans/s/sm/smeaton-hunting/"
 ---
 This is the **Smeaton Hunting (Name)** sett — one scale-free proportion (`k6g4lb3g44k32g3k3lo3k2g3`), colour order pattern
 [GKYKGKGWGK](/stripes/gkykgkgwgk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db1k2db1k6db1k1g1k6g21y1~x2/"><circle cx="286.0" cy="107.2" r="4" fill="#3465a4"><title>Grand Lodge of Scotland (Corporate)</title></circle></a><a href="/variants/s8/k3r1g32k12w1k12r1g3~x2/"><circle cx="300.5" cy="107.9" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s11/dg17lb2g2lb2k21lb2k3dg30k2lb2k4~x2~dg1806142-g2408144/"><circle cx="265.2" cy="129.5" r="4" fill="#3465a4"><title>Fort William District Tartan</title></circle></a><a href="/variants/s11/g17lb2b2lb2k21lb2k3g30k2lb2k4~x2/"><circle cx="254.8" cy="128.0" r="4" fill="#3465a4"><title>Fort William</title></circle></a><a href="/variants/s11/dg17lb2g2lb2k21lb2k3dg30k2lb2k4~x2~dg1806142-g1903114/"><circle cx="266.5" cy="129.6" r="4" fill="#3465a4"><title>Fort William (District?)</title></circle></a><a href="/variants/s13/g30k1g2dy2k2w1k12w1k2w2k2w1k6~x2/"><circle cx="267.7" cy="74.9" r="4" fill="#3465a4"><title>Currie of Balilone (Variant Franklin)</title></circle></a><a href="/variants/s10/w6k3g24lg16k6lg6k6lg6k60lg6/"><circle cx="243.7" cy="116.7" r="4" fill="#3465a4"><title>Scruffy Wallace</title></circle></a><a href="/variants/s16/g18k6g1k1db1k6db1k2db1k6db1k1g1k6g21y1~x2/"><circle cx="281.7" cy="96.2" r="4" fill="#3465a4"><title>Grand Lodge of Scotland</title></circle></a><a href="/variants/s11/k8g1k20g1k4g1k3g4w2g24dy3~x2/"><circle cx="261.3" cy="110.6" r="4" fill="#3465a4"><title>Malone (2016)</title></circle></a><a href="/variants/s8/g3k6w1k6g2k2g16k1~x2/"><circle cx="302.0" cy="162.9" r="4" fill="#3465a4"><title>MacLean of Duart Hunting Clan Tartan</title></circle></a><circle cx="282.5" cy="107.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

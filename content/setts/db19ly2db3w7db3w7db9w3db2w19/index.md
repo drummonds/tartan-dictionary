@@ -1,6 +1,11 @@
 ---
 title: "Yorkshire, The Spirit of"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Yorkshire, The Spirit of"
+  url: "/tartans/y/yo/yorkshire-the-spirit-of/"
 ---
 This is the **Yorkshire, The Spirit of** sett — one scale-free proportion (`db19ly2db3w7db3w7db9w3db2w19`), colour order pattern
 [BYBWBWBWBW](/stripes/bybwbwbwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w5db16w5db16w33dr3~x2/"><circle cx="346.5" cy="248.6" r="4" fill="#3465a4"><title>Buchanan Dress Blue (Dance)</title></circle></a><a href="/variants/s6/db3w16db4w3db12w2~x3/"><circle cx="355.0" cy="274.6" r="4" fill="#3465a4"><title>MacMugen</title></circle></a><a href="/variants/s8/db2w2db8b8w10db2w1db1~x2/"><circle cx="246.7" cy="241.7" r="4" fill="#3465a4"><title>Laval (Tartan de..), dress</title></circle></a><a href="/variants/s6/w4db25lb25db2lb5w2~x2/"><circle cx="338.6" cy="235.5" r="4" fill="#3465a4"><title>Douglas Variation</title></circle></a><a href="/variants/s6/dbi8lb3dbi28w32db3w4~x2~dbi1406275-db1404245/"><circle cx="302.6" cy="227.6" r="4" fill="#3465a4"><title>Ailsa, Royal Blue (Dance)</title></circle></a><a href="/variants/s10/db14w2db3w2dr10w32dr10db10w2db3~x2/"><circle cx="277.7" cy="194.9" r="4" fill="#3465a4"><title>Fraser Arisaid Clan Tartan</title></circle></a><a href="/variants/s6/db6w2db29w29db2w6~x2/"><circle cx="376.1" cy="239.8" r="4" fill="#3465a4"><title>Erskine Royal Blue Dress Clan Tartan</title></circle></a><a href="/variants/s8/db2lb2db15lb1w10lb15db2lb2~x2/"><circle cx="290.3" cy="221.5" r="4" fill="#3465a4"><title>Bannockbane Light Blue</title></circle></a><a href="/variants/s6/db1w1db5w5db1w1~x8/"><circle cx="333.3" cy="291.8" r="4" fill="#3465a4"><title>Erskine Blanket</title></circle></a><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2~db1404245/"><circle cx="275.7" cy="205.1" r="4" fill="#3465a4"><title>Keela</title></circle></a><circle cx="310.5" cy="230.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

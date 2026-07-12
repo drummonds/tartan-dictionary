@@ -1,6 +1,15 @@
 ---
 title: "Rose"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Rose"
+  url: "/clan/rose/"
+- name: "Rose"
+  url: "/families/rose/"
+- name: "Rose"
+  url: "/tartans/r/ro/rose-2/"
 ---
 This is the **Rose** sett — one scale-free proportion (`g2r28db6r5db2r2db2r11w2`), colour order pattern
 [GRBRBRBRW](/stripes/grbrbrbrw/). It is recorded as **2 variants** — the same
@@ -23,6 +32,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g2r28db6r5db2r2db2r11w2~x2/"><circle cx="487.3" cy="144.0" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/variants/s9/g4r32db9r6db2r3db2r12w3~x2/"><circle cx="447.4" cy="144.9" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/variants/s9/k2r35db6r5db2r2db2r14w2~x2/"><circle cx="496.0" cy="109.2" r="4" fill="#3465a4"><title>Rose of Kilravock (Personal)</title></circle></a><a href="/variants/s8/w10r47dbi2r2dbi2r18db3w4~x2~dbi1406275-db1204274/"><circle cx="494.1" cy="119.8" r="4" fill="#3465a4"><title>Swiss National (Fashion)</title></circle></a><a href="/variants/s8/w10r47b2r2b2r18db3w4~x2~b1511266-db1108266/"><circle cx="486.9" cy="118.0" r="4" fill="#3465a4"><title>Swiss National</title></circle></a><a href="/variants/s6/r65g16r4dp4r4w5~x2/"><circle cx="499.1" cy="151.0" r="4" fill="#3465a4"><title>Howard, Vincent (Personal)</title></circle></a><a href="/variants/s8/r60db8w3db10y3lb4y3r19~x2/"><circle cx="448.6" cy="115.3" r="4" fill="#3465a4"><title>Princess Elizabeth #2</title></circle></a><a href="/variants/s8/r68db26r5y3r5g3r13n3~x2/"><circle cx="471.9" cy="114.3" r="4" fill="#3465a4"><title>De Nardi (Personal)</title></circle></a><a href="/variants/s8/r68db27r5y3r5g3r13lb3~x2/"><circle cx="460.6" cy="112.6" r="4" fill="#3465a4"><title>De Nardi #2 (Personal)</title></circle></a><a href="/variants/s5/r12w1r2dg1b3~x4/"><circle cx="476.4" cy="184.3" r="4" fill="#3465a4"><title>Glenshee</title></circle></a><circle cx="487.3" cy="144.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

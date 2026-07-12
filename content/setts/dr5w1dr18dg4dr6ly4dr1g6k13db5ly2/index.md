@@ -1,6 +1,11 @@
 ---
 title: "Canfield (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Canfield"
+  url: "/tartans/c/ca/canfield/"
 ---
 This is the **Canfield (Personal)** sett — one scale-free proportion (`dr5w1dr18dg4dr6ly4dr1g6k13db5ly2`), colour order pattern
 [BWBGBYBGKBY](/stripes/bwbgbybgkby/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dp13w2y38k13y28k8dp17dg2dp17k4dt11/"><circle cx="174.6" cy="129.1" r="4" fill="#3465a4"><title>Bute Heather, Ancient (Fashion)</title></circle></a><a href="/variants/s13/dbi3k3dbi15k15y3k3g15w3k15db4r6k3y1~x2~dbi1604274-db0805267/"><circle cx="105.4" cy="105.3" r="4" fill="#3465a4"><title>Allison</title></circle></a><a href="/variants/s11/k49dy15w2dy6g6dy16lyi3ly23dy9lyi2t9~x2~lyi2705081-ly2503076/"><circle cx="124.3" cy="84.7" r="4" fill="#3465a4"><title>State Seal of Wyoming (Fashion)</title></circle></a><a href="/variants/s12/r2lb6r1dy14r1dy14r1k6dg10ly1dg2ly2~x2~dg1403152-ly2705081/"><circle cx="185.4" cy="122.9" r="4" fill="#3465a4"><title>Ogg of Tarragann Hunting</title></circle></a><a href="/variants/s12/dt10r3dt32y12k5y2k4y2k17o4k2lb2~x2~dt1600000-y2200000/"><circle cx="186.2" cy="104.9" r="4" fill="#3465a4"><title>Scottish Spirit Fashion Tartan</title></circle></a><a href="/variants/s12/r2lb6r1dy14r1dy14r1k6g10ly1g2ly2~x2/"><circle cx="162.9" cy="117.2" r="4" fill="#3465a4"><title>Ogg of Tarragann Hunting (Personal)</title></circle></a><a href="/variants/s11/dr5dg30k6ly2k3lb5k12dr8k3dr3lr3~x2/"><circle cx="148.9" cy="115.8" r="4" fill="#3465a4"><title>King George (Nash)</title></circle></a><a href="/variants/s11/ly9k8ly30k4lb8k4db24k54dr14k4lr8~lb3103284-lr2800000/"><circle cx="132.0" cy="114.5" r="4" fill="#3465a4"><title>Dublin County Crest (Fashion)</title></circle></a><a href="/variants/s11/ri16r3k12dy10k3ri3y3k3db2ri2w1~x2~ri2109032-r1807008/"><circle cx="111.0" cy="98.9" r="4" fill="#3465a4"><title>Colville (Personal)</title></circle></a><a href="/variants/s12/r3k2dp12w2dp12k12g12lo2g12k2r1db2~x2/"><circle cx="69.7" cy="121.6" r="4" fill="#3465a4"><title>Rust (Personal)</title></circle></a><circle cx="150.3" cy="107.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

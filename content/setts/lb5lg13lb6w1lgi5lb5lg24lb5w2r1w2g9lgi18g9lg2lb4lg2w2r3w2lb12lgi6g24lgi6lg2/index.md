@@ -1,6 +1,15 @@
 ---
 title: "Morddyn (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Morddyn"
+  url: "/clan/morddyn/"
+- name: "Morddyn"
+  url: "/families/morddyn/"
+- name: "Morddyn"
+  url: "/tartans/m/mo/morddyn/"
 ---
 This is the **Morddyn (Fashion)** sett — one scale-free proportion (`lb5lg13lb6w1lgi5lb5lg24lb5w2r1w2g9lgi18g9lg2lb4lg2w2r3w2lb12lgi6g24lgi6lg2`), colour order pattern
 [WYWWYWYWWRWGYGYWYWRWWYGYY](/stripes/wywwywywwrwgygywywrwwygyy/). It is recorded as a single **variant**, below.

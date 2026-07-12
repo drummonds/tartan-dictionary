@@ -1,6 +1,15 @@
 ---
 title: "Hebrides #3"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hebrides"
+  url: "/clan/hebrides/"
+- name: "Hebrides"
+  url: "/families/hebrides/"
+- name: "Hebrides"
+  url: "/tartans/h/he/hebrides-6/"
 ---
 This is the **Hebrides #3** sett — one scale-free proportion (`k10r2dg2r2k10r2k10r1k2r1k10r1k2r1k10r1k2r1k10r1k2r1k10r1k2r1k10r2k10r2dg2r2k10t2`), colour order pattern
 [BKRGRKRKRKRKRKRKRKRKRKRKRKRKRKRGRK](/stripes/bkrgrkrkrkrkrkrkrkrkrkrkrkrkrkrgrk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/k2r1k10r1k2r1k10r1k2r1k10r2k10r2dg2r2k10db2~x2/"><circle cx="403.8" cy="127.7" r="4" fill="#3465a4"><title>Hebridean 6</title></circle></a><a href="/variants/s14/k2r1k10r1k2r1k10r2k10r2g2r2k10db2~x2/"><circle cx="386.4" cy="138.4" r="4" fill="#3465a4"><title>Hebridean</title></circle></a><circle cx="389.7" cy="101.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

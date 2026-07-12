@@ -1,6 +1,15 @@
 ---
 title: "Southwick"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Southwick"
+  url: "/clan/southwick/"
+- name: "Southwick"
+  url: "/families/southwick/"
+- name: "Southwick"
+  url: "/tartans/s/so/southwick/"
 ---
 This is the **Southwick** sett — one scale-free proportion (`r2k12g2w5g2k2r2k5lb10k2lb4k2lb4k2lb4k10w2k1r2`), colour order pattern
 [KWKWKWKWKWKRKGWGKRKGWGKRKWKWKWKWKWKR](/stripes/kwkwkwkwkwkrkgwgkrkgwgkrkwkwkwkwkwkr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s19/r2k12g2w5g2k2r2k5b10k2b4k2b4k2b4k10w2k1r2~x2/"><circle cx="143.1" cy="120.3" r="4" fill="#3465a4"><title>Southwick</title></circle></a><a href="/variants/s29/g1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6ly1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6g1~x8~w3600000/"><circle cx="132.1" cy="113.3" r="4" fill="#3465a4"><title>Alliance of Border Scots</title></circle></a><a href="/variants/s33/t24k4t4k4t4k22t24w6t24k22t18r24t18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22t4k4t4k4t24~x2/"><circle cx="127.7" cy="85.9" r="4" fill="#3465a4"><title>MacDonald, Flora (Plaid)</title></circle></a><a href="/variants/s29/k4w6k23w2k3ly17k2ly4k2ly17k3dg17k20w6ly4w6k20dg17k3ly17k2ly4k2ly17k3w2k23w6k4~ly3106095/"><circle cx="130.0" cy="115.1" r="4" fill="#3465a4"><title>Vaughan (Welsh Name) Welsh Name Tartan</title></circle></a><a href="/variants/s29/dr2k1db8k6lb8k2lb2k2lb8k6g8k1dr2k1g8k6lb2k2lb2k2lb6k2lb2k2lb2k6db8k1dr2~x2/"><circle cx="57.5" cy="135.3" r="4" fill="#3465a4"><title>MacKinlay Dress</title></circle></a><a href="/variants/s31/lri8k1lr2k1lri2k8dp8lb2dp1k2lb2dp8k8lri8k2lr1k2lri8k8dp8lb1dp2k1dp2lb1lri8k8lri2k2lr1k2~x2~lri3203019-lr2805035/"><circle cx="87.5" cy="120.8" r="4" fill="#3465a4"><title>McLosek (Personal)</title></circle></a><a href="/variants/s32/w8k1m2k1w2k8dp8lb2dp1k2r1lb2dp8k8w8k2m1k2w8k8dp8lb1dp2k1dp2lb1dp8k8w2k2m1k2~m2209000-r1807008/"><circle cx="54.6" cy="98.4" r="4" fill="#3465a4"><title>McLosek (Personal)</title></circle></a><a href="/variants/s37/g12k1r6db1r1lb1r1db1r6k12r1db12r6k1r6db12r1k12r6lb1g12r6k1r6g12r6db1r1lb1r1db1r6k12r1db12r6k1~x2/"><circle cx="93.2" cy="91.9" r="4" fill="#3465a4"><title>Unidentified #38</title></circle></a><a href="/variants/s33/db24k4db4k4db4k22db24w6db24k22db18r24db18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22db4k4db4k4db24~x2/"><circle cx="138.0" cy="84.7" r="4" fill="#3465a4"><title>Flora, MacDonald Plaid</title></circle></a><a href="/variants/s9/k11w4n12k2g3y1n12w4k11~x2/"><circle cx="155.2" cy="141.0" r="4" fill="#3465a4"><title>Hancock Personal Tartan</title></circle></a><circle cx="129.9" cy="94.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

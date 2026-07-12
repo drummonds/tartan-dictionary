@@ -1,6 +1,15 @@
 ---
 title: "Timmins (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Timmins"
+  url: "/clan/timmins/"
+- name: "Timmins"
+  url: "/families/timmins/"
+- name: "Timmins"
+  url: "/tartans/t/ti/timmins-2/"
 ---
 This is the **Timmins (Personal)** sett — one scale-free proportion (`dr4db2dp14db12y1dbi32db12dbi14db2g4`), colour order pattern
 [BBBBGBBBBG](/stripes/bbbbgbbbbg/). It is recorded as a single **variant**, below.

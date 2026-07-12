@@ -1,6 +1,13 @@
 ---
 title: "Walker James"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Walker"
+  url: "/clan/walker/"
+- name: "Walker James"
+  url: "/tartans/w/wa/walker-james/"
 ---
 This is the **Walker James** sett — one scale-free proportion (`r4k6lb1g7k2g7lb1k6r4g2`), colour order pattern
 [GRKWGKGWKR](/stripes/grkwgkgwkr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r3k6r3k6g6k1w1k1g6r1~x2/"><circle cx="127.6" cy="201.2" r="4" fill="#3465a4"><title>MacDiarmid #3</title></circle></a><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><circle cx="121.9" cy="232.8" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><a href="/variants/s13/o25k4o4k4o4k23g23y4g23k23o23k4o4~x2/"><circle cx="119.3" cy="187.0" r="4" fill="#3465a4"><title>Poulter, Green (Corporate)</title></circle></a><a href="/variants/s7/dr10k1dr3g7k7g5lo3~x4/"><circle cx="136.4" cy="218.9" r="4" fill="#3465a4"><title>Wcwm 1651</title></circle></a><a href="/variants/s6/k3r1g5k3w1dp3~x2/"><circle cx="73.2" cy="207.0" r="4" fill="#3465a4"><title>Wilson's No.194</title></circle></a><a href="/variants/s9/y8g16k6g6k6g6k16r21k5/"><circle cx="88.9" cy="231.3" r="4" fill="#3465a4"><title>Martin</title></circle></a><a href="/variants/s12/dp12k13g12lb2g12k13g12lb2g12k13dp12k2~x2/"><circle cx="119.2" cy="225.1" r="4" fill="#3465a4"><title>Wilson's No.064 #2</title></circle></a><a href="/variants/s9/lg16k3lg16k26dp4k26n20k3n8/"><circle cx="164.0" cy="195.9" r="4" fill="#3465a4"><title>Scotsburn Croft</title></circle></a><a href="/variants/s6/k2g7lb1k6r4g2~x4/"><circle cx="140.0" cy="224.5" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><a href="/variants/s7/k4w19k11dg15k3dg16y3~x2/"><circle cx="132.6" cy="219.8" r="4" fill="#3465a4"><title>Lawson, William 2002</title></circle></a><circle cx="119.3" cy="208.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

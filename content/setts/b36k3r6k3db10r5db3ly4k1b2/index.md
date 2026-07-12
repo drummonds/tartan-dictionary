@@ -1,6 +1,15 @@
 ---
 title: "Mead (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Mead"
+  url: "/clan/mead/"
+- name: "Mead"
+  url: "/families/mead/"
+- name: "Mead"
+  url: "/tartans/m/me/mead/"
 ---
 This is the **Mead (Personal)** sett — one scale-free proportion (`b36k3r6k3db10r5db3ly4k1b2`), colour order pattern
 [BKRKBRBYKB](/stripes/bkrkbrbykb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dbi36k3r6k3db10r5db3y4k1dbi2~x2~dbi1307278-db1105267/"><circle cx="309.2" cy="86.8" r="4" fill="#3465a4"><title>Mead (Tennessee) Modern Dress (Personal)</title></circle></a><a href="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2/"><circle cx="226.3" cy="127.7" r="4" fill="#3465a4"><title>Scottish Knights Templar Int. (Corp)</title></circle></a><a href="/variants/s11/k3b6k4dr6b18db53b18k8b6k3lo2~x2~b2603265/"><circle cx="229.2" cy="100.0" r="4" fill="#3465a4"><title>Australia 2000</title></circle></a><a href="/variants/s10/b30k5r2k1r10w1r1w1k3w2~x4/"><circle cx="288.5" cy="80.3" r="4" fill="#3465a4"><title>Masai Shuka 11 (Artefact)</title></circle></a><a href="/variants/s8/r16db2n6r3k4lb2db40lb6~x2/"><circle cx="268.7" cy="112.3" r="4" fill="#3465a4"><title>St. Leonards (Corporate)</title></circle></a><a href="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/"><circle cx="301.0" cy="94.4" r="4" fill="#3465a4"><title>Bell of the Borders.</title></circle></a><a href="/variants/s11/k3lb6k4dr6lb18db53lb18k8lb6k3lo2~x2/"><circle cx="207.3" cy="93.8" r="4" fill="#3465a4"><title>Australia 2000 (Fashion)</title></circle></a><a href="/variants/s13/b38k4r3dy6w2dy2w2dy2k12b6dy2b6w2~x2/"><circle cx="264.5" cy="82.6" r="4" fill="#3465a4"><title>Leando (Coldingham) Dress (Personal)</title></circle></a><a href="/variants/s12/db6r2db2r4db24g11r4g2r2g3k1y2~x2/"><circle cx="263.9" cy="101.9" r="4" fill="#3465a4"><title>Law of Heather Athol (Personal)</title></circle></a><a href="/variants/s13/w4k1dy4k1ly3k1dy4db48w3dr25db4dr3w3~x2/"><circle cx="265.3" cy="32.2" r="4" fill="#3465a4"><title>State Seal of Colorado (Fashion)</title></circle></a><circle cx="273.9" cy="77.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Clydebank (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clydebank"
+  url: "/tartans/c/cl/clydebank/"
 ---
 This is the **Clydebank (Fashion)** sett — one scale-free proportion (`r2b3r1b16t2b9t9b3t15g1t3g2`), colour order pattern
 [GBGBBBBBBRBR](/stripes/gbgbbbbbbrbr/). It is recorded as a single **variant**, below.

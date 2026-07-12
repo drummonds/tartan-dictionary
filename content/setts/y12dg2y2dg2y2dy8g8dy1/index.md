@@ -1,6 +1,11 @@
 ---
 title: "Ancient Universal (Fashion?)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Ancient Universal"
+  url: "/tartans/a/an/ancient-universal/"
 ---
 This is the **Ancient Universal (Fashion?)** sett — one scale-free proportion (`y12dg2y2dg2y2dy8g8dy1`), colour order pattern
 [GGGGGGGG](/stripes/gggggggg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dy11y1dy1y1dy1y8g8y1g8y8dy8y1dy1~x4/"><circle cx="331.7" cy="241.7" r="4" fill="#3465a4"><title>Tyneside Scottish (Green)</title></circle></a><a href="/variants/s8/dy31do3dy3do3dy3do22g26dr4~x2/"><circle cx="364.4" cy="255.2" r="4" fill="#3465a4"><title>Devarr (Fashion)</title></circle></a><a href="/variants/s7/dy10r5dy62dg40dy5g44r10/"><circle cx="309.6" cy="228.3" r="4" fill="#3465a4"><title>Ballintrae Trade Tartan</title></circle></a><a href="/variants/s7/dy5r3dy31dg20dy3g22r5~x2/"><circle cx="301.3" cy="236.1" r="4" fill="#3465a4"><title>Ballantrae (Dalgety)</title></circle></a><a href="/variants/s14/do22g26dr4g26do22dy3do3dy3do3dy31do3dy3do3dy3~x2/"><circle cx="323.3" cy="225.3" r="4" fill="#3465a4"><title>Devarr</title></circle></a><a href="/variants/s10/g30dp3g3dp3g3dp10dg10y20lp2dg5~x2~dg1803133-y2302138/"><circle cx="303.5" cy="205.7" r="4" fill="#3465a4"><title>Roddy's Highland Spirit (Fashion)</title></circle></a><a href="/variants/s6/y15g98n72r25n8lb15/"><circle cx="318.6" cy="232.5" r="4" fill="#3465a4"><title>Afternoon Tea / Afternoon Tea</title></circle></a><a href="/variants/s9/dg70y6n28g56n5g11n5g11b12/"><circle cx="310.9" cy="213.3" r="4" fill="#3465a4"><title>Dalwhinnie</title></circle></a><a href="/variants/s12/dt32g3dt3g3dt3g26y26g3y26g26dt24g3~x2/"><circle cx="313.6" cy="251.6" r="4" fill="#3465a4"><title>MacIver Family (Personal)</title></circle></a><a href="/variants/s8/r2do1dg9gi1do2gi6g2gi1~x4~gi2205128-g2007139/"><circle cx="258.0" cy="220.5" r="4" fill="#3465a4"><title>Tomass</title></circle></a><circle cx="343.2" cy="249.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

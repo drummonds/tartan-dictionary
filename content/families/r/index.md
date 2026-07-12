@@ -70,7 +70,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/rollings/"><img src="/variants/s10/g55r4n3dp11w4db11n3r4g55k4~x2/sett.png" alt="Rollings" width="140"><br><strong>Rollings</strong></a></li>
 <li><a class="tartan" href="/families/rollo/"><img src="/variants/s12/k21g21r4g21k21g21y4g21k21db21k3db21~x2/sett.png" alt="Rollo" width="140"><br><strong>Rollo</strong></a></li>
 <li><a class="tartan" href="/families/romsdal/"><img src="/variants/s5/g22dt5r4dt5r3~x2/sett.png" alt="Romsdal" width="140"><br><strong>Romsdal</strong></a></li>
-<li><a class="tartan" href="/families/rose/"><img src="/variants/s6/k4w1g10k10db10r2/sett.png" alt="Rose" width="140"><br><strong>Rose</strong></a></li>
+<li><a class="tartan" href="/families/rose/"><img src="/variants/s9/g4r32db9r6db2r3db2r12w3~x2/sett.png" alt="Rose" width="140"><br><strong>Rose</strong></a></li>
 <li><a class="tartan" href="/families/rose-of-kilravock/"><img src="/variants/s9/k2r35db6r5db2r2db2r14w2~x2/sett.png" alt="Rose of Kilravock" width="140"><br><strong>Rose of Kilravock</strong></a></li>
 <li><a class="tartan" href="/variants/s6/w8lb30g5w3db8r5/"><strong>Roseberry</strong></a></li>
 <li><a class="tartan" href="/variants/s9/dr50dy4w16db2w4db2w15g27r4~x2/"><strong>Rosevear</strong></a></li>
@@ -86,5 +86,5 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/ruairidh/"><img src="/variants/s15/k6n7dy36k17n17y34db6y6db6y34n17k17r39w4r6/sett.png" alt="Ruairidh" width="140"><br><strong>Ruairidh</strong></a></li>
 <li><a class="tartan" href="/families/rust/"><img src="/variants/s12/r3k2dp12w2dp12k12g12lo2g12k2r1db2~x2/sett.png" alt="Rust" width="140"><br><strong>Rust</strong></a></li>
 <li><a class="tartan" href="/families/ruthven/"><img src="/variants/s6/w6g15db18r30g2r4~x2/sett.png" alt="Ruthven" width="140"><br><strong>Ruthven</strong></a></li>
-<li><a class="tartan" href="/families/ruxton/"><img src="/variants/s16/dr17y1dr8db2k1db16y3dr1w1dr15db4dr2w3dr1w1dr16~x2/sett.png" alt="Ruxton" width="140"><br><strong>Ruxton</strong></a></li>
+<li><a class="tartan" href="/families/ruxton/"><img src="/variants/s15/dr22k3lo1k1w3k3db1k3db8k19lo4k2lo1k7lo3~x2/sett.png" alt="Ruxton" width="140"><br><strong>Ruxton</strong></a></li>
 </ul>

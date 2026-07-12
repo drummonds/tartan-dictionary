@@ -1,6 +1,11 @@
 ---
 title: "Milan Club Scozia (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Milan Club Scozia"
+  url: "/tartans/m/mi/milan-club-scozia/"
 ---
 This is the **Milan Club Scozia (Corporate)** sett — one scale-free proportion (`r48k2r2k2r4k2r2k2r4w1k4r2k2r2k18r5w6`), colour order pattern
 [RKRKRKRKRWKRKRKRW](/stripes/rkrkrkrkrwkrkrkrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r5k1r2k2r16lb2r2k9r2k2r2k13r2k2r4~x2/"><circle cx="284.4" cy="120.2" r="4" fill="#3465a4"><title>Walkers Shortbread (Corporate)</title></circle></a><a href="/variants/s11/r48k1w1k6ly4r2ly4k8r2k1w2~x2/"><circle cx="390.2" cy="34.1" r="4" fill="#3465a4"><title>Glennie (Personal)</title></circle></a><a href="/variants/s10/r40w1r1k8r1w1r6w1r1k8~x2/"><circle cx="454.4" cy="62.5" r="4" fill="#3465a4"><title>Miyuki, Check Red, 1002A</title></circle></a><a href="/variants/s12/r36y4r1y4r4k8r4k2r4w2r1w4~x2/"><circle cx="387.1" cy="58.0" r="4" fill="#3465a4"><title>Manchester Reds</title></circle></a><a href="/variants/s16/r80w2r5k10r6n4r4k2n6k2r10n4r8k10r5w2/"><circle cx="452.1" cy="29.4" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><a href="/variants/s12/k4r2k2ri2k2r36k2dp12k2ri1k3r2~x2~r2109032-ri2806019/"><circle cx="337.1" cy="55.7" r="4" fill="#3465a4"><title>Red Hatters United</title></circle></a><a href="/variants/s14/r32k2n3w4n3k2r22k1r5k2w6k2r4w5~x2/"><circle cx="370.6" cy="65.1" r="4" fill="#3465a4"><title>Alabama, University of</title></circle></a><a href="/variants/s10/r60db8r4k11w2k11w2k11db1r4~x2~db0906265-k0503265/"><circle cx="358.0" cy="57.4" r="4" fill="#3465a4"><title>Robberstad #2</title></circle></a><a href="/variants/s10/r80w7k2w2k2r3k7r2b12k2~x2/"><circle cx="438.1" cy="42.8" r="4" fill="#3465a4"><title>Masai Shuka 05 (Artefact)</title></circle></a><circle cx="387.3" cy="31.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Menzies of Culdares"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Menzies"
+  url: "/clan/menzies/"
+- name: "Menzies of Culdares"
+  url: "/families/menzies-of-culdares/"
+- name: "Menzies of Culdares"
+  url: "/tartans/m/me/menzies-of-culdares/"
 ---
 This is the **Menzies of Culdares** sett — one scale-free proportion (`k4dr2k22dr22k3dr4lb2`), colour order pattern
 [KBKBKBW](/stripes/kbkbkbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dr2k4dr2k4dr6k1lo1~x4/"><circle cx="273.2" cy="245.8" r="4" fill="#3465a4"><title>MacIan</title></circle></a><a href="/variants/s7/k2dr1k6dr6k1dr1k1~x4/"><circle cx="376.4" cy="241.7" r="4" fill="#3465a4"><title>Campbell of Lochlane</title></circle></a><a href="/variants/s6/k8r1k8r11y1r1~x4/"><circle cx="283.9" cy="185.7" r="4" fill="#3465a4"><title>Swanstrom (Personal)</title></circle></a><a href="/variants/s6/r19k3r19k32g3k8~x2~r2109032/"><circle cx="271.0" cy="196.2" r="4" fill="#3465a4"><title>Tartan TV</title></circle></a><a href="/variants/s6/k2r6k2r6k12y1~x4/"><circle cx="289.8" cy="186.6" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><a href="/variants/s6/k2r6k2r6k12y1~x2/"><circle cx="289.8" cy="186.6" r="4" fill="#3465a4"><title>MacQueen Clan Tartan</title></circle></a><a href="/variants/s8/r2k1r12k2r3k26dy14ri2~x4~r1807016-ri2610034/"><circle cx="268.3" cy="124.7" r="4" fill="#3465a4"><title>Booth (Fashion)</title></circle></a><a href="/variants/s8/k8r1k1r1k4db11y1db2~x6/"><circle cx="253.1" cy="168.3" r="4" fill="#3465a4"><title>Rutherford</title></circle></a><a href="/variants/s8/k30r3k3r3k6db32dg3db3~x2/"><circle cx="272.6" cy="160.3" r="4" fill="#3465a4"><title>Holmes (Clan?)</title></circle></a><a href="/variants/s6/k8dr49k8lb3k20lo3~x2/"><circle cx="325.8" cy="158.0" r="4" fill="#3465a4"><title>Dunbar (District)</title></circle></a><circle cx="330.8" cy="189.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

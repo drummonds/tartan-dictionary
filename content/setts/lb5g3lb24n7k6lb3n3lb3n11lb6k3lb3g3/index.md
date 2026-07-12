@@ -1,6 +1,15 @@
 ---
 title: "Balmoral (Green) (Royal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Balmoral"
+  url: "/clan/balmoral/"
+- name: "Balmoral"
+  url: "/families/balmoral/"
+- name: "Balmoral"
+  url: "/tartans/b/ba/balmoral-4/"
 ---
 This is the **Balmoral (Green) (Royal)** sett — one scale-free proportion (`lb5g3lb24n7k6lb3n3lb3n11lb6k3lb3g3`), colour order pattern
 [GWKWBWBWKBWGW](/stripes/gwkwbwbwkbwgw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/lb5r3lb24n7k6lb3n3lb3n11lb6k3lb3r3~x2/"><circle cx="236.6" cy="166.5" r="4" fill="#3465a4"><title>Balmoral (Royal)</title></circle></a><a href="/variants/s13/lb9r5lb47n13k11lb5n5lb5n21lb11k5lb5r5/"><circle cx="252.4" cy="154.7" r="4" fill="#3465a4"><title>Balmoral (Old and Rare) Royal Tartan</title></circle></a><a href="/variants/s13/lb9r5lb51n13k13lb5n4lb5n23lb11k5lb5r5/"><circle cx="262.4" cy="139.1" r="4" fill="#3465a4"><title>Balmoral Gillies (Royal)</title></circle></a><a href="/variants/s12/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3~x2~lr2800000-lb3103284/"><circle cx="209.7" cy="169.0" r="4" fill="#3465a4"><title>Breifne</title></circle></a><a href="/variants/s12/lb12r6lb60n16k23n22lb6k6lb6n8r6n8~x2/"><circle cx="201.6" cy="154.3" r="4" fill="#3465a4"><title>Balmoral Variant (Corporate)</title></circle></a><a href="/variants/s13/lb4t2lb25n16k4lb2n2lb2n10lb4k2lb2t2~x2~lb3200000-t2304245/"><circle cx="267.0" cy="142.3" r="4" fill="#3465a4"><title>Balmoral (Jack Allen)</title></circle></a><a href="/variants/s13/w2r1w8n2k2w1n1w1n4w2k1w1r1~x4/"><circle cx="218.7" cy="161.3" r="4" fill="#3465a4"><title>Balmoral (Ghillies white variation)</title></circle></a><a href="/variants/s13/n2r1n8lp2k2n1lp1n1lp4n2k1n1r1~x2/"><circle cx="251.6" cy="166.4" r="4" fill="#3465a4"><title>Balmoral Royal Tartan</title></circle></a><a href="/variants/s7/t33lo6dr3lo6k3lo15t32~x4/"><circle cx="264.5" cy="165.7" r="4" fill="#3465a4"><title>Carlisle (Family)</title></circle></a><a href="/variants/s15/k4w2lb15r6lb25w2k4w2lb15w4k2w4k2w4k2~x2/"><circle cx="249.7" cy="123.1" r="4" fill="#3465a4"><title>Beck (Personal)</title></circle></a><circle cx="235.6" cy="169.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

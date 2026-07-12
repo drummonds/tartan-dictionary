@@ -1,6 +1,15 @@
 ---
 title: "MacLintock #2"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacLintock"
+  url: "/clan/maclintock/"
+- name: "MacLintock"
+  url: "/families/maclintock/"
+- name: "MacLintock"
+  url: "/tartans/m/ma/maclintock/"
 ---
 This is the **MacLintock #2** sett — one scale-free proportion (`n3t2w10t2n6t26k2`), colour order pattern
 [BBWBBBK](/stripes/bbwbbbk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3t2g13w2t24dr3~x4~t2405244-g2408144/"><circle cx="275.0" cy="172.9" r="4" fill="#3465a4"><title>Vance</title></circle></a><a href="/variants/s8/w3lb3k3lb21g49lb21k3lb3~x2~g2203152/"><circle cx="298.1" cy="161.6" r="4" fill="#3465a4"><title>Irvine of Drum</title></circle></a><a href="/variants/s8/lb38k2w2k2lb5g10w30lb4~x2/"><circle cx="302.1" cy="156.0" r="4" fill="#3465a4"><title>Longniddry Turquoise (Dance)</title></circle></a><a href="/variants/s7/t3db2k2db28w30db2w3~x2/"><circle cx="253.0" cy="145.2" r="4" fill="#3465a4"><title>Cunningham, Dress Blue (Dance)</title></circle></a><a href="/variants/s6/k3lb2g13w2lb24dr3~x4/"><circle cx="260.8" cy="164.9" r="4" fill="#3465a4"><title>Vance (Name?)</title></circle></a><a href="/variants/s5/t13w3t1k3w1~x6/"><circle cx="357.3" cy="188.8" r="4" fill="#3465a4"><title>Loch Lomond #2</title></circle></a><a href="/variants/s5/t26lp11t3lp4k2~x4/"><circle cx="398.2" cy="211.2" r="4" fill="#3465a4"><title>Debbie Munro Memorial (Corporate)</title></circle></a><a href="/variants/s6/k2w1g5dr1lb18dr2~x2/"><circle cx="313.4" cy="132.1" r="4" fill="#3465a4"><title>Norris (1998) (Name)</title></circle></a><a href="/variants/s8/t36db6t5r3k2r3t5db18~x2/"><circle cx="357.4" cy="155.4" r="4" fill="#3465a4"><title>Leonard (Name)</title></circle></a><a href="/variants/s8/t46dp3r3dp3r4dp12w3k3~x2/"><circle cx="326.8" cy="122.2" r="4" fill="#3465a4"><title>Edinburgh Festival</title></circle></a><circle cx="318.2" cy="172.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

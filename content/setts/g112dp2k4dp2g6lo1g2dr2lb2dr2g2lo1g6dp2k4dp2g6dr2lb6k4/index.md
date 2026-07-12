@@ -1,6 +1,13 @@
 ---
 title: "Wcwm 9275-1572-1"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Wcwm"
+  url: "/clan/wcwm/"
+- name: "Wcwm 9275-1572-1"
+  url: "/tartans/w/wc/wcwm-9275-1572-1/"
 ---
 This is the **Wcwm 9275-1572-1** sett — one scale-free proportion (`g112dp2k4dp2g6lo1g2dr2lb2dr2g2lo1g6dp2k4dp2g6dr2lb6k4`), colour order pattern
 [GBKBGYGBWBGYGBKBGBWK](/stripes/gbkbgygbwbgygbkbgbwk/). It is recorded as a single **variant**, below.

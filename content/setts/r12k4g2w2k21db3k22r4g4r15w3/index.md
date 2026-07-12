@@ -1,6 +1,13 @@
 ---
 title: "MacDonald, Sir John A."
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDonald"
+  url: "/clan/macdonald/"
+- name: "MacDonald, Sir John A"
+  url: "/tartans/m/ma/macdonald-sir-john-a/"
 ---
 This is the **MacDonald, Sir John A.** sett — one scale-free proportion (`r12k4g2w2k21db3k22r4g4r15w3`), colour order pattern
 [RKGWKBKRGRW](/stripes/rkgwkbkrgrw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r10k3g2w2k22db4k22r4g4r14w3~x2/"><circle cx="196.7" cy="130.7" r="4" fill="#3465a4"><title>York Region Pipe Band</title></circle></a><a href="/variants/s11/dr10k3dg2w2k22b4k22dr4dg4dr14w3~x2/"><circle cx="221.7" cy="143.5" r="4" fill="#3465a4"><title>MacDonald, Sir John A</title></circle></a><a href="/variants/s11/r2k20r5k4dg4k4r5k2r14k2y2~x2/"><circle cx="231.2" cy="144.0" r="4" fill="#3465a4"><title>Canterbury (Fashion)</title></circle></a><a href="/variants/s7/k51r21ly4r12g8db4r5~x2/"><circle cx="213.8" cy="133.7" r="4" fill="#3465a4"><title>Tott (Personal))</title></circle></a><a href="/variants/s7/k51r21y4r12g8db4r5~x2/"><circle cx="216.3" cy="134.1" r="4" fill="#3465a4"><title>Totté (from Hofstade de Baerebeeck) (Personal)</title></circle></a><a href="/variants/s13/r8k14r6y6r34k10r6w6r6k64r44db9r6/"><circle cx="216.7" cy="111.4" r="4" fill="#3465a4"><title>First Special Service Force</title></circle></a><a href="/variants/s7/k23r27db3r5w3k14y6~x2/"><circle cx="178.6" cy="165.4" r="4" fill="#3465a4"><title>Hoffman Texas German</title></circle></a><a href="/variants/s13/r8k14r6ly6r34k10r6w6r6k64r44db9r6/"><circle cx="214.9" cy="111.0" r="4" fill="#3465a4"><title>First Special Service Force</title></circle></a><a href="/variants/s9/lo7k3db4k3dr21k2dr4k2w4~x2/"><circle cx="194.4" cy="139.5" r="4" fill="#3465a4"><title>Castle Stewart (District)</title></circle></a><a href="/variants/s8/k22ly4k4g4k16r36y3r6~x2/"><circle cx="197.9" cy="137.7" r="4" fill="#3465a4"><title>Dean Brae</title></circle></a><circle cx="193.7" cy="132.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

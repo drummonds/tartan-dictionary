@@ -1,6 +1,11 @@
 ---
 title: "Kilkenny County Crest (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Kilkenny County Crest"
+  url: "/tartans/k/ki/kilkenny-county-crest/"
 ---
 This is the **Kilkenny County Crest (Fashion)** sett — one scale-free proportion (`ly6dr8k4w6g16k13lb19k5`), colour order pattern
 [KWKGWKBY](/stripes/kwkgwkby/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dy6dr8k4w6g16k13lb19k5~x2/"><circle cx="14.0" cy="211.5" r="4" fill="#3465a4"><title>Kilkenny County, Crest Range</title></circle></a><a href="/variants/s9/k13y4g15w4r13w4g15w4db13~x2/"><circle cx="16.9" cy="219.8" r="4" fill="#3465a4"><title>Spirit of 1994</title></circle></a><a href="/variants/s9/k13ly4g15w4r13w4g15w4db13~x2/"><circle cx="19.9" cy="222.6" r="4" fill="#3465a4"><title>Spirit of 1994 (Fashion)</title></circle></a><a href="/variants/s6/r2k1db6k2g6o2~x4/"><circle cx="85.2" cy="221.9" r="4" fill="#3465a4"><title>MacCaughan or MacEachain Clan Tartan</title></circle></a><a href="/variants/s9/dr10lb36k24dr30ly8k16w18db16ly9/"><circle cx="14.0" cy="215.8" r="4" fill="#3465a4"><title>Tipperary County Crest (Fashion)</title></circle></a><a href="/variants/s13/lb10dr3lb10k7ly5w2ly5w2ly5k7dg10dr3dg7~x2/"><circle cx="14.0" cy="199.9" r="4" fill="#3465a4"><title>Redgate (Name)</title></circle></a><a href="/variants/s7/k6lb2db12g8r5k2g3~x4/"><circle cx="70.8" cy="214.8" r="4" fill="#3465a4"><title>Cooke (Personal)</title></circle></a><a href="/variants/s8/dr3dg2n2dg3k6b2ly10b2~x2/"><circle cx="39.1" cy="191.4" r="4" fill="#3465a4"><title>Burnfoot Check</title></circle></a><a href="/variants/s8/g14lb14db12lr8dy3k3dy3k5~x2/"><circle cx="14.0" cy="211.4" r="4" fill="#3465a4"><title>Somerset #2</title></circle></a><a href="/variants/s9/y2k1dg5r4g2r2g4k1w2~x6~dg1806142-g2504187/"><circle cx="19.1" cy="216.8" r="4" fill="#3465a4"><title>Ellis (Personal)</title></circle></a><circle cx="14.0" cy="212.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

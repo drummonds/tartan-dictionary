@@ -1,6 +1,11 @@
 ---
 title: "King George IV"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "King George"
+  url: "/tartans/k/ki/king-george-2/"
 ---
 This is the **King George IV** sett — one scale-free proportion (`dg3lr3dg3r24dp1w1r3dp6r3w1dp1r3dg24r3dp1w1r24w1dp1r3dg24r3dp1w1r3dp6r3w1dp1r24dg3lr3`), colour order pattern
 [GYGRBWRBRWBRGRBWRWBRGRBWRBRWBRGY](/stripes/gygrbwrbrwbrgrbwrwbrgrbwrbrwbrgy/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s27/r5g10r2db2r30dp3r2w1r2dp3r30db2r2g10r10g10dp4r2dp4db10r4g2r4g30r2dp3w1~x2/"><circle cx="289.8" cy="70.7" r="4" fill="#3465a4"><title>MacDougall Clan Tartan</title></circle></a><a href="/variants/s27/r5g10r2db2r30dr3r2w1r2dr3r30db2r2g10r10g10dr4r2dr4db10r4g2r4g30r2dr3w1~x2/"><circle cx="293.2" cy="72.0" r="4" fill="#3465a4"><title>MacDougall D</title></circle></a><a href="/variants/s26/g10r2db2r30dp3r2w1r2dp3r30db2r2g10r10g10dp4r2dp4db10r4g2r4g30r2dp3w1~x2/"><circle cx="283.7" cy="72.2" r="4" fill="#3465a4"><title>MacDougal</title></circle></a><a href="/variants/s24/db5r3w2db1w2r3g9y2w1y2g9r1g1r27db1r1db1r27db1r1db9w1db1w4~x2/"><circle cx="295.8" cy="56.2" r="4" fill="#3465a4"><title>Hebridean Artifact Tartan</title></circle></a><a href="/variants/s24/db5r3w2db1w2r3g9dy2w1dy2g9r1g1r27db1r1db1r27db1r1db9w1db1w4~x2/"><circle cx="297.0" cy="29.1" r="4" fill="#3465a4"><title>Hebrides North Uist</title></circle></a><a href="/variants/s41/r32g2dg12r4lb4r4w2r4lb4r4dg12r2w2r24lb2r2dg44r2lb2r64lb2r2dg44r2lb2r22w2r2db16r2w2r10dg12g2r8g2dg12r3w2r2db10~x2/"><circle cx="268.5" cy="22.3" r="4" fill="#3465a4"><title>MacAlister (Logan 1831)</title></circle></a><a href="/variants/s41/r32b2dg12r4lb4r4w2r4lb4r4dg12r2w2r24lb2r2dg44r2lb2r64lb2r2dg44r2lb2r22w2r2db16r2w2r10dg12b2r8b2dg12r3w2r2db10~x2/"><circle cx="268.8" cy="22.2" r="4" fill="#3465a4"><title>MacAlister</title></circle></a><a href="/variants/s24/db3dp12w6r6g46r14g6r14db14dp8w6r6w6dp8g12r16g12r6db6r86dp10w6r10db3/"><circle cx="258.9" cy="67.4" r="4" fill="#3465a4"><title>MacDougall Plaid</title></circle></a><a href="/variants/s34/db19r2db2r20g2y1g2r2db18r2g3r2db2r22g3w1r3db17r2g2r24g2y1g2r2db19r3g3r2db2r21g3w1r3~x2/"><circle cx="283.7" cy="64.5" r="4" fill="#3465a4"><title>Unidentified 18th Centuary plain weave</title></circle></a><a href="/variants/s33/dg32r7dg32r33dg4r12dg4r33w3r12dy3dp33r7dp33dy3r12w3r33dp2r2dp5r2dp2r33dp2r2dp5r2dp2r33dg32r6dg23/"><circle cx="268.9" cy="101.6" r="4" fill="#3465a4"><title>Huntly (District)</title></circle></a><circle cx="301.6" cy="60.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

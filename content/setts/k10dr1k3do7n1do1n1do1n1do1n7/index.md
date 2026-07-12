@@ -1,6 +1,15 @@
 ---
 title: "Lunar"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Lunar"
+  url: "/clan/lunar/"
+- name: "Lunar"
+  url: "/families/lunar/"
+- name: "Lunar"
+  url: "/tartans/l/lu/lunar/"
 ---
 This is the **Lunar** sett — one scale-free proportion (`k10dr1k3do7n1do1n1do1n1do1n7`), colour order pattern
 [BBBBBBBBKBK](/stripes/bbbbbbbbkbk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k6db4dr11k36ly5k5ly5k8dr30db10dr8db4/"><circle cx="198.5" cy="166.6" r="4" fill="#3465a4"><title>Johnnie Walker (2003) (Corporate)</title></circle></a><a href="/variants/s9/dr4k12w1dg6dr3k1dr3w1dr3~x4/"><circle cx="196.5" cy="173.1" r="4" fill="#3465a4"><title>Unidentified #58</title></circle></a><a href="/variants/s12/dg10w2dg18k3dg3k3dg3k18dp24k3dp3ly3~x2/"><circle cx="173.7" cy="144.8" r="4" fill="#3465a4"><title>Bell's Whisky (SA)</title></circle></a><a href="/variants/s9/k12r1k1r1k1r4dg12y1dg2~x4/"><circle cx="216.9" cy="148.7" r="4" fill="#3465a4"><title>Durie</title></circle></a><a href="/variants/s10/k3dg4dp25k16dg3k3dg3k3dg6o3~x2/"><circle cx="219.9" cy="179.2" r="4" fill="#3465a4"><title>MacAndreis</title></circle></a><a href="/variants/s9/dg28dr12dg4k20ly2k3ly2k3dg7~x2~ly2705081/"><circle cx="222.2" cy="143.0" r="4" fill="#3465a4"><title>Cork, County</title></circle></a><a href="/variants/s9/db1k1dr12g12k6db5dr12k1db1~x4/"><circle cx="231.9" cy="178.5" r="4" fill="#3465a4"><title>Montrose (Macnaughton variation)</title></circle></a><a href="/variants/s13/do24g5n2k14dr2k3g3k3n14do6k4do3g2~x2/"><circle cx="176.6" cy="142.6" r="4" fill="#3465a4"><title>Berwick (Fashion)</title></circle></a><a href="/variants/s10/g3dr20k2db3k12db3k2g20dr3db2~x2/"><circle cx="158.9" cy="168.4" r="4" fill="#3465a4"><title>Matthew Gloag &amp; Son Ltd (Corporate)</title></circle></a><a href="/variants/s10/k2dr24n24k2n2k2n3k14dr2k2~x2/"><circle cx="238.1" cy="161.6" r="4" fill="#3465a4"><title>Douglas (WCWM)</title></circle></a><circle cx="209.0" cy="167.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

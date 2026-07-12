@@ -1,8 +1,11 @@
 ---
 title: "Clan MacTavish"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
-*A clan defined by its tartans — the dictionary holds no separate clan history for it, only the cloth that carries its name.*
+Thomson sett (Thomson being anglicised MacTavish); came into use around 1950, some versions substituting black for the mid-blue stripe.
 
 ## Tartan
 

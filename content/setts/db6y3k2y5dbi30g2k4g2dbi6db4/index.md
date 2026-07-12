@@ -1,6 +1,11 @@
 ---
 title: "St. Andrews University (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "St. Andrews University"
+  url: "/tartans/s/st/st-andrews-university-2/"
 ---
 This is the **St. Andrews University (Corporate)** sett — one scale-free proportion (`db6y3k2y5dbi30g2k4g2dbi6db4`), colour order pattern
 [BBGKGBGKGB](/stripes/bbgkgbgkgb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dbi19k4dbi4db1dbi1db1dbi1dg5b3k1b4~x6~dbi1003265-dg1304144/"><circle cx="347.8" cy="132.5" r="4" fill="#3465a4"><title>Spirit of Scotland</title></circle></a><a href="/variants/s9/db3n3db36dbi7k3dbi6g5k1y3~x2~db1106275-dbi1406275/"><circle cx="371.6" cy="93.8" r="4" fill="#3465a4"><title>Incorporation of Weavers (Glasgow)</title></circle></a><a href="/variants/s9/dr2db34k2lb2k2n30db3n6dr2~x2/"><circle cx="315.2" cy="139.2" r="4" fill="#3465a4"><title>Wcwm 1475-2</title></circle></a><a href="/variants/s9/dg24lb4dg3db11dp8db37k3db2r4~x2/"><circle cx="304.9" cy="138.9" r="4" fill="#3465a4"><title>Stewmann (Personal)</title></circle></a><a href="/variants/s10/lb6db10dp4db12dg19dp4dg8k20db50lb4/"><circle cx="258.1" cy="155.1" r="4" fill="#3465a4"><title>Spirit of Alva</title></circle></a><a href="/variants/s12/db92k14db18t5db5t5db5g32dp16k5dp7y8~db1406275-dp1607327/"><circle cx="295.0" cy="98.4" r="4" fill="#3465a4"><title>Bavidge (Personal)</title></circle></a><a href="/variants/s8/db6dbi4k37g6dbi80n4k4ly4~db1106275-dbi1406275/"><circle cx="309.1" cy="96.4" r="4" fill="#3465a4"><title>Law Enforcement Officers' Memorial</title></circle></a><a href="/variants/s13/k1ri1db14lo1db1r1db1r2db1dg6db1dg1db1~x4~ri2109032-r1807033/"><circle cx="327.5" cy="101.2" r="4" fill="#3465a4"><title>Merchant Company, The</title></circle></a><a href="/variants/s9/dg24lb4dg3db11dp8db37k3db2o4~x2/"><circle cx="310.8" cy="141.7" r="4" fill="#3465a4"><title>Stewmann (2009) (Personal)</title></circle></a><a href="/variants/s7/db40dbi8ly3dbi6k3dbi6r4~x2~db1004274-dbi1406275/"><circle cx="370.7" cy="163.2" r="4" fill="#3465a4"><title>Edinburgh &amp; Lothian T.B. (Corporate)</title></circle></a><circle cx="323.5" cy="137.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

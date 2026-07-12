@@ -1,6 +1,15 @@
 ---
 title: "MacRobart, dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacRobart"
+  url: "/clan/macrobart/"
+- name: "MacRobart"
+  url: "/families/macrobart/"
+- name: "MacRobart Dress"
+  url: "/tartans/m/ma/macrobart-dress/"
 ---
 This is the **MacRobart, dress** sett — one scale-free proportion (`db8w33k15g17lb3g17lb3`), colour order pattern
 [BWKGWGW](/stripes/bwkgwgw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db8w33k15dg17lb3dg17lb3~x2/"><circle cx="100.9" cy="181.2" r="4" fill="#3465a4"><title>MacRobart Dress (Personal)</title></circle></a><a href="/variants/s8/o5g2o2g26k9lr9lb13w5~x2~lr2800000-lb3203246/"><circle cx="112.2" cy="153.9" r="4" fill="#3465a4"><title>Alexander of Menstry Htg (Personal)</title></circle></a><a href="/variants/s8/o5g2o2g26k9lr9lb13w5~x2~g2203152-lr2800000-lb3203246/"><circle cx="119.8" cy="153.8" r="4" fill="#3465a4"><title>Alexander of Menstry Hunting</title></circle></a><a href="/variants/s8/db7w30k13g9r6g16k2y7~x2/"><circle cx="69.8" cy="149.8" r="4" fill="#3465a4"><title>MacLaren Dress Clan Tartan</title></circle></a><a href="/variants/s8/db2w12k8g8r2g8k1lo2~x2/"><circle cx="83.2" cy="158.6" r="4" fill="#3465a4"><title>MacLaren Dress (Clan)</title></circle></a><a href="/variants/s8/db2w12k8g8r2g8k1y2~x2/"><circle cx="83.6" cy="159.1" r="4" fill="#3465a4"><title>MacLaren Dress</title></circle></a><a href="/variants/s7/w4k2w18k11db2g18ly2~x2/"><circle cx="121.3" cy="178.2" r="4" fill="#3465a4"><title>Barbour - Ancient</title></circle></a><a href="/variants/s10/w7r1w14k6y2k6g14r2g10y1~x2~w3600000-r2209032/"><circle cx="119.5" cy="155.5" r="4" fill="#3465a4"><title>Spanish shirt</title></circle></a><a href="/variants/s8/k20w4r4w20dg20w5dg2g2~x2~dg1705151-g2307139/"><circle cx="112.8" cy="164.7" r="4" fill="#3465a4"><title>Hackett, William (Coatbridge) (Personal)</title></circle></a><a href="/variants/s7/k22g21k5g12lb12n3w4~x2/"><circle cx="115.8" cy="202.7" r="4" fill="#3465a4"><title>Disciples of Christ Motorcycle Ministry (Switzerland)</title></circle></a><circle cx="101.3" cy="185.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "NHS Grampian"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "NHS Grampian"
+  url: "/tartans/n/nh/nhs-grampian/"
 ---
 This is the **NHS Grampian** sett — one scale-free proportion (`k4w1lb2w1k16db36lb4`), colour order pattern
 [KWWWKBW](/stripes/kwwwkbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k4w1lb2w1k16t36lb4~x2~lb3203246-t2405244/"><circle cx="312.4" cy="107.5" r="4" fill="#3465a4"><title>NHS Grampian (Corporate)</title></circle></a><a href="/variants/s7/k8ly2dp6ly2k36db84w7/"><circle cx="337.2" cy="88.2" r="4" fill="#3465a4"><title>Grahame Laurie Band (Corporate)</title></circle></a><a href="/variants/s7/db36k10g3r3g6k1y2~x2/"><circle cx="333.1" cy="98.2" r="4" fill="#3465a4"><title>MacLaurin of Brioch</title></circle></a><a href="/variants/s8/k4w1dp5w1k20db37w4db4~x2/"><circle cx="314.7" cy="106.3" r="4" fill="#3465a4"><title>Finnie (Personal)</title></circle></a><a href="/variants/s8/k4n1dp5n1k20db37n4db4~x2/"><circle cx="368.8" cy="123.2" r="4" fill="#3465a4"><title>Finnie (Personal)</title></circle></a><a href="/variants/s6/y2k9w3k9db35w2~x2/"><circle cx="311.3" cy="146.2" r="4" fill="#3465a4"><title>Hannah (Personal)</title></circle></a><a href="/variants/s7/db62k22w3k2w2k3r1~x2/"><circle cx="411.8" cy="81.0" r="4" fill="#3465a4"><title>Tyneside Blue, North Tyneside Pipe Band</title></circle></a><a href="/variants/s6/db52k28w5k3w2k10/"><circle cx="323.6" cy="152.5" r="4" fill="#3465a4"><title>St Andrews, Earl of</title></circle></a><a href="/variants/s10/db108w6k10w3k3w3k3g12r12w4/"><circle cx="360.7" cy="50.2" r="4" fill="#3465a4"><title>Racing Stewart Corporate Tartan</title></circle></a><a href="/variants/s8/db30dbi2k9w3db6w4k3dbi6~x2~db1108266-dbi1605267/"><circle cx="278.7" cy="147.6" r="4" fill="#3465a4"><title>Auto Docs</title></circle></a><circle cx="330.9" cy="107.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

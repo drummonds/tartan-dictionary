@@ -1,6 +1,15 @@
 ---
 title: "Currie (Clan)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Currie"
+  url: "/clan/currie/"
+- name: "Currie"
+  url: "/families/currie/"
+- name: "Currie"
+  url: "/tartans/c/cu/currie-2/"
 ---
 This is the **Currie (Clan)** sett — one scale-free proportion (`gi44k1gi3y3gi3w1g21w1g3w3g3w1g21`), colour order pattern
 [GKGGGWGWGWGWG](/stripes/gkgggwgwgwgwg/). It is recorded as a single **variant**, below.

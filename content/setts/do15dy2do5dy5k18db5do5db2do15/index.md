@@ -1,6 +1,11 @@
 ---
 title: "Laois, County"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Laois, County"
+  url: "/tartans/l/la/laois-county/"
 ---
 This is the **Laois, County** sett — one scale-free proportion (`do15dy2do5dy5k18db5do5db2do15`), colour order pattern
 [BBBBKGBGB](/stripes/bbbbkgbgb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/do20db2do5db5k18g5do5g2do15~x2/"><circle cx="314.0" cy="197.4" r="4" fill="#3465a4"><title>Laois</title></circle></a><a href="/variants/s12/dti10k4dt16k4dt10k16dt8k24dt28dr3dti4dr3~dti1500000-dt1300000/"><circle cx="283.7" cy="203.2" r="4" fill="#3465a4"><title>St. Mirren (Corporate)</title></circle></a><a href="/variants/s11/dy6w1do18k6do4k4do8k1do8k2dy5~x2/"><circle cx="391.5" cy="183.7" r="4" fill="#3465a4"><title>Bute Heather, Weathered</title></circle></a><a href="/variants/s7/db5dg8k1y2k1dg8db4~x4/"><circle cx="339.4" cy="247.3" r="4" fill="#3465a4"><title>Salvation Army Htg (Corporate)</title></circle></a><a href="/variants/s10/dg18k1dr9k12dr9k1dg18k1n6dg1~x2/"><circle cx="313.7" cy="181.5" r="4" fill="#3465a4"><title>Arizona Jones</title></circle></a><a href="/variants/s12/ki5k2ki2k2ki2db5k2db1n1db1k10ki3~x4~ki0700000-db1404245/"><circle cx="280.6" cy="195.2" r="4" fill="#3465a4"><title>Hopkins (Welsh Name)</title></circle></a><a href="/variants/s9/dp1k2dr7n4dr2k4dr7n2dp1~x4/"><circle cx="282.7" cy="225.1" r="4" fill="#3465a4"><title>Clanton (Personal)</title></circle></a><a href="/variants/s7/k1do4dg1k1dg1k1do1~x14/"><circle cx="317.3" cy="277.2" r="4" fill="#3465a4"><title>McCanna NW (Olympia, USA) Hunting (Personal)</title></circle></a><a href="/variants/s9/db2dy18dg10dy1k10dy2dg10dy18w2~x2/"><circle cx="328.0" cy="180.4" r="4" fill="#3465a4"><title>Duchess of York (Fashion)</title></circle></a><a href="/variants/s7/r3dg10r3dg14db16dg3dy2~x2/"><circle cx="345.8" cy="248.5" r="4" fill="#3465a4"><title>Cameron of Locheil Htg (1952) (Clan)</title></circle></a><circle cx="344.6" cy="224.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

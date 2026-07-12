@@ -1,6 +1,15 @@
 ---
 title: "Antigonish Centennial"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Antigonish"
+  url: "/clan/antigonish/"
+- name: "Antigonish"
+  url: "/families/antigonish/"
+- name: "Antigonish"
+  url: "/tartans/a/an/antigonish/"
 ---
 This is the **Antigonish Centennial** sett — one scale-free proportion (`k4lb2db5lb7db9g14n4g1n4`), colour order pattern
 [BGBGBWBWK](/stripes/bgbgbwbwk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g10k1db13k3lb9lo3~x2/"><circle cx="107.3" cy="191.0" r="4" fill="#3465a4"><title>Inverary</title></circle></a><a href="/variants/s10/db3y1db12k4y2k4g8r2g8r1~x2/"><circle cx="128.1" cy="166.3" r="4" fill="#3465a4"><title>MacMillan Hunting</title></circle></a><a href="/variants/s11/w4db20g5k6g2w3g2k6g13dp8g2~x2/"><circle cx="92.8" cy="161.5" r="4" fill="#3465a4"><title>Bowlers (Commemorative)</title></circle></a><a href="/variants/s11/k4n10k4g8k12b4g16lb16b5lb6b2~x2/"><circle cx="39.6" cy="193.1" r="4" fill="#3465a4"><title>Manderson</title></circle></a><a href="/variants/s10/dr4k1dr4g8k6lb3db2lb11db1dr2~x4/"><circle cx="87.4" cy="165.8" r="4" fill="#3465a4"><title>MacDuff Dress #2</title></circle></a><a href="/variants/s6/dg10k1db13k3w9y3~x2/"><circle cx="97.7" cy="185.8" r="4" fill="#3465a4"><title>Inverary Clan Tartan</title></circle></a><a href="/variants/s10/db6dy2db18k6dy3k6g14r3g10r2~x2/"><circle cx="115.5" cy="181.5" r="4" fill="#3465a4"><title>MacMillan Hunting Clan Tartan</title></circle></a><a href="/variants/s10/db12r4db18r2k19g18r4g3y2g8~x2/"><circle cx="106.0" cy="173.3" r="4" fill="#3465a4"><title>Biskup (Personal)</title></circle></a><a href="/variants/s12/w5db1w16db4w4k6g10dr2g10k6db10dr2~x2/"><circle cx="75.7" cy="152.2" r="4" fill="#3465a4"><title>Murray of Atholl Dress</title></circle></a><a href="/variants/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/"><circle cx="108.9" cy="152.9" r="4" fill="#3465a4"><title>MacDonell of Glengarry #2</title></circle></a><circle cx="104.2" cy="181.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

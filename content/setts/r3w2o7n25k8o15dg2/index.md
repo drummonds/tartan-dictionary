@@ -1,6 +1,11 @@
 ---
 title: "Allman-Jones (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Allman-Jones"
+  url: "/tartans/a/al/allman-jones/"
 ---
 This is the **Allman-Jones (Personal)** sett — one scale-free proportion (`r3w2o7n25k8o15dg2`), colour order pattern
 [GRKBRWR](/stripes/grkbrwr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r3w2y7n25k8y15dg2~x2~y2400000-n1700000/"><circle cx="184.1" cy="160.1" r="4" fill="#3465a4"><title>Allman-Jones (Personal)</title></circle></a><a href="/variants/s7/db4n19lr2k19n2lr25lb2~x2~lr2800000-lb3300000/"><circle cx="150.9" cy="164.1" r="4" fill="#3465a4"><title>Ritchie, Stephen James (Personal)</title></circle></a><a href="/variants/s8/o3lb4o4k4o18k3dt36w3~x2~o2500000-dt1600000-w3600000/"><circle cx="246.4" cy="144.4" r="4" fill="#3465a4"><title>Hebridean Granite Fashion Tartan</title></circle></a><a href="/variants/s8/o3lb4o4k4o18k3n36w3~x2~o2500000-n1900000/"><circle cx="254.3" cy="148.0" r="4" fill="#3465a4"><title>Hebridean Granite (Fashion)</title></circle></a><a href="/variants/s7/dr16y2dy7y2t24k2g2~x2/"><circle cx="221.6" cy="159.7" r="4" fill="#3465a4"><title>Traill Clan/Family Weavers Tartan</title></circle></a><a href="/variants/s7/n3db1n11w1k5t14ly3~x4/"><circle cx="163.3" cy="162.3" r="4" fill="#3465a4"><title>Glen Lyon (Fashion)</title></circle></a><a href="/variants/s8/n49ly3t13dy8k23t10n14r4~x2/"><circle cx="222.3" cy="140.5" r="4" fill="#3465a4"><title>State Seal of West Virginia (Fash)</title></circle></a><a href="/variants/s5/r1n12k7do10r1~x4/"><circle cx="194.0" cy="177.0" r="4" fill="#3465a4"><title>Andover</title></circle></a><a href="/variants/s7/g27dr2g4r15db26k2db6~x2/"><circle cx="195.4" cy="172.1" r="4" fill="#3465a4"><title>Bailies of Bennachie (Corporate)</title></circle></a><a href="/variants/s7/r6b2g20k3db8dg2b4~x2/"><circle cx="163.1" cy="165.1" r="4" fill="#3465a4"><title>Royal British Legion, The</title></circle></a><circle cx="177.8" cy="157.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

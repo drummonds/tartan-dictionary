@@ -1,6 +1,11 @@
 ---
 title: "State Seal of Illinois (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "State Seal of Illinois"
+  url: "/tartans/s/st/state-seal-of-illinois/"
 ---
 This is the **State Seal of Illinois (Fashion)** sett — one scale-free proportion (`g4db34g4dy4db4dy4g3dy13g21dy4w3dr11ly3`), colour order pattern
 [GBGGBGGGGGWBY](/stripes/gbggbgggggwby/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g37dp5g5dp12t10db5t5db40dy4db4ly4~x2/"><circle cx="209.4" cy="175.5" r="4" fill="#3465a4"><title>State Seal of North Dakota (Fashion)</title></circle></a><a href="/variants/s12/db4ly4db26t5db5t8ly10g8dg5g5dg22n3~x2/"><circle cx="140.9" cy="192.0" r="4" fill="#3465a4"><title>State Seal of Montana (Fashion)</title></circle></a><a href="/variants/s12/dpi4dp4dpi2dp14dg6g3dg6dgi2g4dgi2g15n3~x2~dpi1607327-dp1105325-g2408144-dgi1806142/"><circle cx="151.3" cy="199.7" r="4" fill="#3465a4"><title>Kinloch Anderson Heather (Corporate)</title></circle></a><a href="/variants/s14/db11r1db2r3db1do8g11w1g11do8db8y1r1y1~x2/"><circle cx="150.8" cy="160.9" r="4" fill="#3465a4"><title>Allen Northumbrian Family Tartan</title></circle></a><a href="/variants/s16/db11n4db4w2db4n4db11g26n4w3n4w2n14dg10db16dg6~x2/"><circle cx="197.6" cy="184.3" r="4" fill="#3465a4"><title>Stuart-Houghton Hunting (Personal)</title></circle></a><a href="/variants/s11/w3db15r6db3r3db4dg11g3dg3g28lo3~x2/"><circle cx="155.0" cy="160.1" r="4" fill="#3465a4"><title>Wojtek Memorial Trust</title></circle></a><a href="/variants/s11/db16n8dy1n1w1n1lb6g3n1g3w1~x4~db1003265-n2203265/"><circle cx="199.3" cy="140.9" r="4" fill="#3465a4"><title>Brighton &amp; Hove</title></circle></a><a href="/variants/s11/w3g28dg3g3dg11db4r3db3r6db15wi3~x2~w3502055-wi4000000/"><circle cx="152.5" cy="159.5" r="4" fill="#3465a4"><title>Wojtek Memorial Trust</title></circle></a><a href="/variants/s9/db23ly2dr3dbi7dr3ly2g15dr21ly5~x2~db1404245-dbi1406275/"><circle cx="204.2" cy="203.5" r="4" fill="#3465a4"><title>Land's End Maroon</title></circle></a><a href="/variants/s16/db6ly2db2ly2db2do6g8do1w2do1g8dy2do4db8ly2db2~x2/"><circle cx="123.0" cy="188.7" r="4" fill="#3465a4"><title>Forbes of Druminnor Artifact Tartan</title></circle></a><circle cx="181.1" cy="161.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

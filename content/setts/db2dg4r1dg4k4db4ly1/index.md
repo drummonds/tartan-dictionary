@@ -1,6 +1,11 @@
 ---
 title: "Isle of Gigha (District)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Isle of Gigha"
+  url: "/tartans/i/is/isle-of-gigha-2/"
 ---
 This is the **Isle of Gigha (District)** sett — one scale-free proportion (`db2dg4r1dg4k4db4ly1`), colour order pattern
 [BGRGKBY](/stripes/bgrgkby/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb3g8k9db7r2db2~x2/"><circle cx="52.3" cy="240.9" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><a href="/variants/s8/db3r2db8k8g8k3w2g3/"><circle cx="46.9" cy="231.2" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/variants/s7/k4dt4dy1dt4dr4db4lr1~x8/"><circle cx="112.7" cy="266.0" r="4" fill="#3465a4"><title>Blackdown Hills</title></circle></a><a href="/variants/s6/dg31y4dg6k19db18lb9~x2/"><circle cx="152.0" cy="216.4" r="4" fill="#3465a4"><title>Lanarkshire</title></circle></a><a href="/variants/s7/r3db12k12dg12t2dg12w3~x2/"><circle cx="116.0" cy="211.6" r="4" fill="#3465a4"><title>Game Fair</title></circle></a><a href="/variants/s6/b4g17k17db17r3db3~x2/"><circle cx="96.9" cy="222.8" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/variants/s7/k3db3r1db3k3g3y1~x8/"><circle cx="59.5" cy="275.7" r="4" fill="#3465a4"><title>Melrose of Alabama</title></circle></a><a href="/variants/s8/g8k7db12r2db12k7g8lb2~x4~db1406275/"><circle cx="116.3" cy="229.0" r="4" fill="#3465a4"><title>Forbo Nairn Corporate Tartan</title></circle></a><a href="/variants/s6/db4g18db3k17db18dp4~x2/"><circle cx="157.2" cy="239.4" r="4" fill="#3465a4"><title>Scottish Airports (Corporate)</title></circle></a><a href="/variants/s6/db4g18db3k17db18o4~x2/"><circle cx="151.3" cy="237.6" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><circle cx="123.9" cy="259.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

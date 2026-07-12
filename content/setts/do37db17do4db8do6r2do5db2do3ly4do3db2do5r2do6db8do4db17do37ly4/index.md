@@ -1,6 +1,15 @@
 ---
 title: "Griffith of Wales"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Griffith"
+  url: "/clan/griffith/"
+- name: "Griffith of Wales"
+  url: "/families/griffith-of-wales/"
+- name: "Griffith of Wales"
+  url: "/tartans/g/gr/griffith-of-wales/"
 ---
 This is the **Griffith of Wales** sett — one scale-free proportion (`do37db17do4db8do6r2do5db2do3ly4do3db2do5r2do6db8do4db17do37ly4`), colour order pattern
 [BBBBBRBBBYBBBRBBBBBY](/stripes/bbbbbrbbbybbbrbbbbby/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/ly4do37db17do4db8do6r2do5db2do3ly4/"><circle cx="394.6" cy="152.4" r="4" fill="#3465a4"><title>Griffiths (Welsh Name)</title></circle></a><a href="/variants/s20/db4n3db4n19k2n3k2n12db4n3db4n3k1n2y1n2y1n2k1n3~x4/"><circle cx="413.6" cy="122.6" r="4" fill="#3465a4"><title>Washington, Stockman</title></circle></a><a href="/variants/s15/o8db3o3dg20o3dg3o3db6o3b3o20db3o3db2o6~x2~o1305035-dg1806142/"><circle cx="353.3" cy="184.4" r="4" fill="#3465a4"><title>Glenfarclas Distillery</title></circle></a><a href="/variants/s18/db42n13r3n2ly3n2r3n11db8n8db26n8db8n8db4o3db4n16~x2/"><circle cx="370.5" cy="139.3" r="4" fill="#3465a4"><title>Cordiner (Name)</title></circle></a><circle cx="435.3" cy="141.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

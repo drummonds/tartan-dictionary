@@ -1,6 +1,15 @@
 ---
 title: "Fiddes (Artefact)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Fiddes"
+  url: "/clan/fiddes/"
+- name: "Fiddes"
+  url: "/families/fiddes/"
+- name: "Fiddes"
+  url: "/tartans/f/fi/fiddes/"
 ---
 This is the **Fiddes (Artefact)** sett — one scale-free proportion (`db18g5db6r25db6r5db5r6db18r12g16`), colour order pattern
 [BGBRBRBRBRG](/stripes/bgbrbrbrbrg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g16r12db16r6db4r6db7r20db8g8db12~x2/"><circle cx="192.0" cy="266.8" r="4" fill="#3465a4"><title>Fiddes #2</title></circle></a><a href="/variants/s11/db13r4db4r9db14r4db14g15r8g8r4~x2/"><circle cx="200.6" cy="274.6" r="4" fill="#3465a4"><title>McCaslin</title></circle></a><a href="/variants/s13/db16r4db4r4db4r29g27r4g27r29db26r4db4~x2/"><circle cx="222.0" cy="210.3" r="4" fill="#3465a4"><title>Black Watch (Band Plaid)</title></circle></a><a href="/variants/s12/dr9lb4dr6t4lb2k2lb2dr5t3lb2k2lb2~x2/"><circle cx="154.9" cy="224.9" r="4" fill="#3465a4"><title>Westgaard Ladies' (Personal)</title></circle></a><a href="/variants/s15/r5db5r3g16r3g3r3db10r3lb5r12db5r3db3r5~x2/"><circle cx="183.2" cy="209.3" r="4" fill="#3465a4"><title>Grant of Ballindalloch Clan Tartan</title></circle></a><a href="/variants/s9/dg1r5dg4r1dg1r1db4r5db1~x12/"><circle cx="277.1" cy="244.6" r="4" fill="#3465a4"><title>Lumsden of Kintore (Clan?)</title></circle></a><a href="/variants/s13/db13r4db4r9db14r4db14g15r8g8r4g8w4~x2/"><circle cx="142.1" cy="253.1" r="4" fill="#3465a4"><title>MacCaslan (Artefact)</title></circle></a><a href="/variants/s7/db30r5g30r22db30r5g4/"><circle cx="252.9" cy="247.9" r="4" fill="#3465a4"><title>GS Gaelic School (School)</title></circle></a><a href="/variants/s12/db28r3db3r3g20r30g4r30g20db22r3db3~x2/"><circle cx="235.3" cy="200.3" r="4" fill="#3465a4"><title>Fraser Stewart of Athol</title></circle></a><a href="/variants/s9/db1r5db4r1g1r1g4r5g1~x20/"><circle cx="268.5" cy="244.6" r="4" fill="#3465a4"><title>Lumsden of Kintore Tartan</title></circle></a><circle cx="219.9" cy="248.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

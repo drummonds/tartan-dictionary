@@ -1,6 +1,11 @@
 ---
 title: "Steffen, Markus (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Steffen, Markus"
+  url: "/tartans/s/st/steffen-markus/"
 ---
 This is the **Steffen, Markus (Personal)** sett — one scale-free proportion (`db35w4db10dr3r3dr3`), colour order pattern
 [BRBBWB](/stripes/brbbwb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db35w4db10r3ri3r3~x4~r1706009-ri2109032/"><circle cx="467.2" cy="171.8" r="4" fill="#3465a4"><title>Steffen, Morris (Personal)</title></circle></a><a href="/variants/s5/db12lb1k2db1r1~x8/"><circle cx="459.8" cy="167.6" r="4" fill="#3465a4"><title>Lochcarron (1985)</title></circle></a><a href="/variants/s4/db50k12db21w5~x2/"><circle cx="475.4" cy="230.5" r="4" fill="#3465a4"><title>Coinean Dubh</title></circle></a><a href="/variants/s4/db102r11db14w11/"><circle cx="535.7" cy="216.1" r="4" fill="#3465a4"><title>Westfield (Corporate?)</title></circle></a><a href="/variants/s4/db1lb1db8r1~x2/"><circle cx="532.5" cy="229.7" r="4" fill="#3465a4"><title>Lochaber #3</title></circle></a><a href="/variants/s5/db67w10y14db10w2/"><circle cx="504.8" cy="173.2" r="4" fill="#3465a4"><title>St. John (Corporate?)</title></circle></a><a href="/variants/s4/db60y6db11r25~x2/"><circle cx="431.5" cy="216.5" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums (Corp</title></circle></a><a href="/variants/s5/db68lb7db16k16ly4~x2/"><circle cx="445.5" cy="167.8" r="4" fill="#3465a4"><title>Burnetts &amp; Struth</title></circle></a><a href="/variants/s4/db16r4db3dp1~x2/"><circle cx="559.1" cy="220.5" r="4" fill="#3465a4"><title>Elliott</title></circle></a><a href="/variants/s6/db24w4db24y4dr5k4~x2/"><circle cx="363.2" cy="199.8" r="4" fill="#3465a4"><title>De Grussa</title></circle></a><circle cx="475.9" cy="177.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

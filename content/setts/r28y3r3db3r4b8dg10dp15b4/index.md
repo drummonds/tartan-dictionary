@@ -1,6 +1,11 @@
 ---
 title: "Loch Lomond"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Loch Lomond"
+  url: "/tartans/l/lo/loch-lomond-6/"
 ---
 This is the **Loch Lomond** sett — one scale-free proportion (`r28y3r3db3r4b8dg10dp15b4`), colour order pattern
 [BBGBRBRGR](/stripes/bbgbrbrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/y1r13db6dp7g2dp7g2dp7db6r13lb1~x2/"><circle cx="199.7" cy="168.1" r="4" fill="#3465a4"><title>McMurchie Family, John and Jessie (Personal)</title></circle></a><a href="/variants/s11/dy2r11db1r1db1r1db4dbi6dy1dbi1ly1~x4~db1204274-dbi1706275/"><circle cx="245.1" cy="153.4" r="4" fill="#3465a4"><title>NHK Asaichi</title></circle></a><a href="/variants/s13/b3db3b3db3b3dr22y2db2r22lb5r8y2lb2~x2/"><circle cx="186.7" cy="132.1" r="4" fill="#3465a4"><title>Pitcairn Trust Company</title></circle></a><a href="/variants/s11/dy2r11dp1r1dp1r1dp4b6dy1b1y1~x4~dp1105325-b2008266/"><circle cx="248.8" cy="152.2" r="4" fill="#3465a4"><title>NHK Asaichi</title></circle></a><a href="/variants/s10/db4y3db17b6w2do6w2r24do3r4~x2/"><circle cx="181.3" cy="144.2" r="4" fill="#3465a4"><title>Asman Family</title></circle></a><a href="/variants/s11/r15dp3dy2do2dy3r3y3dy3b3r4b2~x2~dp1607335-dy1103057/"><circle cx="264.6" cy="172.3" r="4" fill="#3465a4"><title>Unidentified, chair covering</title></circle></a><a href="/variants/s6/dp2lb9dp3ri7r19y2~x2~ri2109032-r1706009/"><circle cx="255.9" cy="202.4" r="4" fill="#3465a4"><title>Stevens #3</title></circle></a><a href="/variants/s6/ri15r98dp72n25dp8w15~ri2806019-r1706009-dp1105325-n2203265/"><circle cx="249.9" cy="188.3" r="4" fill="#3465a4"><title>Afternoon Tea / Assam</title></circle></a><a href="/variants/s8/b2r11lb9b11y2g13r21w2~x2/"><circle cx="203.9" cy="188.4" r="4" fill="#3465a4"><title>Wilson's, No 2</title></circle></a><a href="/variants/s7/y3r16n5dy22g2dy4w3~x2/"><circle cx="241.7" cy="171.4" r="4" fill="#3465a4"><title>Pubcrawlers, The</title></circle></a><circle cx="220.0" cy="168.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

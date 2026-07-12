@@ -1,6 +1,15 @@
 ---
 title: "Doten (2013)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Doten"
+  url: "/clan/doten/"
+- name: "Doten"
+  url: "/families/doten/"
+- name: "Doten"
+  url: "/tartans/d/do/doten/"
 ---
 This is the **Doten (2013)** sett — one scale-free proportion (`r14w6db38k3g2`), colour order pattern
 [GKBWR](/stripes/gkbwr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r14lr6db38k3g2~x2/"><circle cx="313.5" cy="141.6" r="4" fill="#3465a4"><title>Doten (2013)</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="279.2" cy="129.2" r="4" fill="#3465a4"><title>Marion (Personal)</title></circle></a><a href="/variants/s5/db19r2w2r2k2~x4/"><circle cx="374.8" cy="164.9" r="4" fill="#3465a4"><title>Laing of Archiestown</title></circle></a><a href="/variants/s4/r5db26k12w2~x4/"><circle cx="294.2" cy="198.6" r="4" fill="#3465a4"><title>Mirror (Corporate)</title></circle></a><a href="/variants/s4/r4db32k15w2~x2/"><circle cx="330.3" cy="186.6" r="4" fill="#3465a4"><title>Scottish Nuclear</title></circle></a><a href="/variants/s5/db25r1g1n9w4~x2/"><circle cx="366.5" cy="149.2" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="230.0" cy="140.2" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s5/k8dy2t21w3r2~x4~t2205244/"><circle cx="251.7" cy="166.9" r="4" fill="#3465a4"><title>Oklahoma</title></circle></a><a href="/variants/s5/k8y2t21w3r2~x4~t2205244/"><circle cx="251.5" cy="167.0" r="4" fill="#3465a4"><title>Oklahoma State American District Tartan</title></circle></a><a href="/variants/s5/k8dy2t21w3r2~x4/"><circle cx="248.8" cy="168.0" r="4" fill="#3465a4"><title>Oklahoma (US State)</title></circle></a><circle cx="299.6" cy="138.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

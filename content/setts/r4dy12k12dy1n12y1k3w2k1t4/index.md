@@ -1,6 +1,15 @@
 ---
 title: "Campbell Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Campbell"
+  url: "/clan/campbell/"
+- name: "Campbell"
+  url: "/families/campbell/"
+- name: "Campbell Hunting"
+  url: "/tartans/c/ca/campbell-hunting/"
 ---
 This is the **Campbell Hunting** sett — one scale-free proportion (`r4dy12k12dy1n12y1k3w2k1t4`), colour order pattern
 [BKWKGBGKGR](/stripes/bkwkgbgkgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r3k2dp12w2dp12k12g12lo2g12k2r1db2~x2/"><circle cx="69.7" cy="121.6" r="4" fill="#3465a4"><title>Rust (Personal)</title></circle></a><a href="/variants/s12/r3k2dp12w2dp12k12g12y2g12k2r1b2~x2/"><circle cx="71.7" cy="122.5" r="4" fill="#3465a4"><title>Rust</title></circle></a><a href="/variants/s12/r3k2dp12w2dp12k12g12y2g12k2r1lb2~x2/"><circle cx="70.5" cy="122.5" r="4" fill="#3465a4"><title>Rust Personal Tartan</title></circle></a><a href="/variants/s11/dp27y2dp2k12g6o2g12k12db12r2db2~x2~dp1105325/"><circle cx="94.4" cy="119.4" r="4" fill="#3465a4"><title>Boxell of West Niddry, Baron (Personal)</title></circle></a><a href="/variants/s11/dp27y2dp2k12g6o2g12k12db12r2db2~x2/"><circle cx="94.2" cy="119.5" r="4" fill="#3465a4"><title>Boxell, Baron (Personal)</title></circle></a><a href="/variants/s10/dt24k24ki2w6ki2y2ki16lb5r6w2~x2~dt1501240-k0504259-ki0700000/"><circle cx="54.3" cy="117.1" r="4" fill="#3465a4"><title>Scotland's International - Home</title></circle></a><a href="/variants/s14/k6t3db28lo8k10lo2k2lb2k4g16dr12k2dr6lb2~x2/"><circle cx="45.9" cy="100.6" r="4" fill="#3465a4"><title>Beatty</title></circle></a><a href="/variants/s13/y3do22db2k7y3k2w3k2g7r5k3r3w3~x2/"><circle cx="61.5" cy="99.7" r="4" fill="#3465a4"><title>Cree Clan Tartan</title></circle></a><a href="/variants/s10/db4k1w2k3y1n12o1k12o12r4~x2/"><circle cx="63.2" cy="119.2" r="4" fill="#3465a4"><title>Campbell, hunting</title></circle></a><a href="/variants/s14/dg4dr2db3dr1db3lo1k2lo1k2lb2k2n11dr1k1~x4/"><circle cx="65.5" cy="113.6" r="4" fill="#3465a4"><title>Ross Anderson (Fashion) #2</title></circle></a><circle cx="71.3" cy="125.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

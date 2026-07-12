@@ -1,6 +1,15 @@
 ---
 title: "MacDonell of Keppoch (artefact)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDonell"
+  url: "/clan/macdonell/"
+- name: "MacDonell of Keppoch"
+  url: "/families/macdonell-of-keppoch/"
+- name: "MacDonell of Keppoch"
+  url: "/tartans/m/ma/macdonell-of-keppoch-2/"
 ---
 This is the **MacDonell of Keppoch (artefact)** sett — one scale-free proportion (`r6db1r1g28r4db8w1r32g1r4g2`), colour order pattern
 [GRGRWBRGRBR](/stripes/grgrwbrgrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r60db2g24r8db2lb3db2/"><circle cx="369.4" cy="107.2" r="4" fill="#3465a4"><title>Unidentified Cant #12</title></circle></a><a href="/variants/s13/r5y1db2r2g30r5db10lb1r42g2r4y1g4~x2/"><circle cx="353.2" cy="75.6" r="4" fill="#3465a4"><title>MacDonald of Glencoe #2</title></circle></a><a href="/variants/s12/r7b2db2r2g32r6db12r41g2r5b2g5~x2/"><circle cx="329.6" cy="128.9" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/variants/s12/r7ri2db2r2g32r6db12r41g2r5ri2g5~x2~r1707016-ri2208029/"><circle cx="344.5" cy="134.1" r="4" fill="#3465a4"><title>MacDougall #5</title></circle></a><a href="/variants/s13/r6b1db2r2g40r6db13lb1r48g2r4b1g4~x2/"><circle cx="344.7" cy="69.6" r="4" fill="#3465a4"><title>MacDonald of Glencoe</title></circle></a><a href="/variants/s10/r6w1r24db6g2db1g2db1g12r1~x2/"><circle cx="346.5" cy="124.4" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/variants/s10/r6w1r24db6g2db1g2db1g12r1/"><circle cx="346.5" cy="124.4" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/variants/s15/r6db2r2g24r2g2r2db8r2lb2r32db2r2db1r6~x2/"><circle cx="364.8" cy="91.2" r="4" fill="#3465a4"><title>Grant or Drummond Clan Tartan</title></circle></a><a href="/variants/s15/r6db2r2g24r2g2r2db8r2lb1r32db2r2db1r6~x2/"><circle cx="371.3" cy="90.2" r="4" fill="#3465a4"><title>Grant, or Drummond</title></circle></a><a href="/variants/s15/r6db2r2g24r2db2r2db8r2w1r32db2r2db1r6~x2/"><circle cx="365.5" cy="88.6" r="4" fill="#3465a4"><title>Grant</title></circle></a><circle cx="361.6" cy="111.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

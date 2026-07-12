@@ -1,6 +1,11 @@
 ---
 title: "Whitaker (2014)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Whitaker"
+  url: "/tartans/w/wh/whitaker/"
 ---
 This is the **Whitaker (2014)** sett — one scale-free proportion (`k60r3k15r3lb2r5db3r2`), colour order pattern
 [KRKRWRBR](/stripes/krkrwrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/t1k50r1k2n4db7w1~x2/"><circle cx="480.2" cy="40.6" r="4" fill="#3465a4"><title>Colleges Scotland (Corp)</title></circle></a><a href="/variants/s6/k60dr3k5dr3lb18n3~x2/"><circle cx="384.2" cy="120.7" r="4" fill="#3465a4"><title>Ailsa, Navy (Fashion)</title></circle></a><a href="/variants/s6/k10lb2w5lb4k50t2~x2/"><circle cx="477.3" cy="107.4" r="4" fill="#3465a4"><title>London Fog Black</title></circle></a><a href="/variants/s6/k80r6g3r12k2w2~x2/"><circle cx="480.5" cy="78.1" r="4" fill="#3465a4"><title>Dellen</title></circle></a><a href="/variants/s8/db8r1k6r1ly8r1k45ly1~x2/"><circle cx="416.1" cy="66.6" r="4" fill="#3465a4"><title>degli Uberti, Baron of Cartsburn (P)</title></circle></a><a href="/variants/s8/db8r1k6r1dy8r1k45dy1~x2/"><circle cx="479.7" cy="85.5" r="4" fill="#3465a4"><title>degli Uberti, Baron of Cartsburn (Personal)</title></circle></a><a href="/variants/s9/k78y16k2dt2k2y2k3r2k10~x2~y2100000-dt1700000/"><circle cx="521.7" cy="62.7" r="4" fill="#3465a4"><title>Scotland's Lionheart</title></circle></a><a href="/variants/s8/k83y2db4r2k8g5r4w3~x2/"><circle cx="481.6" cy="32.0" r="4" fill="#3465a4"><title>Spirit of Lanarkshire (Corporate)</title></circle></a><a href="/variants/s6/k83g4r4g10k1w3~x2/"><circle cx="501.6" cy="72.3" r="4" fill="#3465a4"><title>Perratt (Personal)</title></circle></a><a href="/variants/s7/k24g3r3k24r2k2r2/"><circle cx="491.3" cy="158.2" r="4" fill="#3465a4"><title>Unidentified #45</title></circle></a><circle cx="493.0" cy="79.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,13 @@
 ---
 title: "Black Watch"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Black"
+  url: "/clan/black/"
+- name: "Black Watch"
+  url: "/tartans/b/bl/black-watch-5/"
 ---
 This is the **Black Watch** sett — one scale-free proportion (`db12k1db1k1db1k8g8k1g8k8db8k1db1g6k1g6k3db4k1db1`), colour order pattern
 [BKBKBKGKGKBKBGKGKBKB](/stripes/bkbkbkgkgkbkbgkgkbkb/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/db22k2db2k2db2k16g16k2g16k16db16k2db2g10k2g10k8db9k1db1~db0805267/"><circle cx="150.7" cy="123.1" r="4" fill="#3465a4"><title>Black Watch</title></circle></a><a href="/variants/s25/db22k2db2k2db2k16g16k2g16k16db16k2db2k2db16k16g16k2g16k16db2k2db2k2db11~x4/"><circle cx="160.6" cy="154.6" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/variants/s20/k4dg2k7t2k4dg17t2dg17k4t2k7dg2k4t4dg2t16dg2t16dg2t4~x2/"><circle cx="182.7" cy="170.7" r="4" fill="#3465a4"><title>Blackwater (Personal)</title></circle></a><a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x4/"><circle cx="186.0" cy="177.5" r="4" fill="#3465a4"><title>Grant Hunting or Black Watch</title></circle></a><a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1/"><circle cx="186.0" cy="177.5" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x2/"><circle cx="186.0" cy="177.5" r="4" fill="#3465a4"><title>Black Watch, A&amp;S Highlanders</title></circle></a><a href="/variants/s13/db21g2db3g2db2g14k15g4k15g14db14g2db3~x2/"><circle cx="181.3" cy="186.5" r="4" fill="#3465a4"><title>Montmorency</title></circle></a><a href="/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x4/"><circle cx="177.3" cy="165.5" r="4" fill="#3465a4"><title>Lorne, Marquis of</title></circle></a><a href="/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x2/"><circle cx="177.3" cy="165.5" r="4" fill="#3465a4"><title>Lorne District Tartan</title></circle></a><a href="/variants/s15/db23k3db3k3db3k17g22k2y4k2g22k17db22k3db3~x2/"><circle cx="131.5" cy="129.6" r="4" fill="#3465a4"><title>Gordon Clan</title></circle></a><circle cx="163.4" cy="158.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

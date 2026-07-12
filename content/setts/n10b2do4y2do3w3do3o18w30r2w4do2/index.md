@@ -1,6 +1,15 @@
 ---
 title: "MacLean of Duart, dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Maclean"
+  url: "/clan/maclean/"
+- name: "MacLean of Duart"
+  url: "/families/maclean-of-duart/"
+- name: "MacLean of Duart, dress"
+  url: "/tartans/m/ma/maclean-of-duart-dress-7/"
 ---
 This is the **MacLean of Duart, dress** sett — one scale-free proportion (`n10b2do4y2do3w3do3o18w30r2w4do2`), colour order pattern
 [BBBGBWBRWRWB](/stripes/bbbgbwbrwrwb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/n12lb2do4y2do3w3do3o20w29lb2w4do2~x2/"><circle cx="179.8" cy="120.9" r="4" fill="#3465a4"><title>MacLean of Duart 7</title></circle></a><a href="/variants/s15/w2n2g2dy1y10w7r3w13db5y10w1g2n2w2r1~x4/"><circle cx="139.5" cy="127.3" r="4" fill="#3465a4"><title>Contrecoeur Dress</title></circle></a><a href="/variants/s15/y10w1g2n2w2r1w2n2g2o1y10w7r3w13db5~x2/"><circle cx="132.1" cy="121.7" r="4" fill="#3465a4"><title>Contreceour dress</title></circle></a><a href="/variants/s11/w50dbi3w8dbi8db12r4db12g16dg12n4w4~dbi1406275-db1204274/"><circle cx="157.9" cy="108.1" r="4" fill="#3465a4"><title>Fothergill (Personal)</title></circle></a><a href="/variants/s11/w50lb3w8lb8db12r4db12g16dg12n4w4/"><circle cx="160.8" cy="110.1" r="4" fill="#3465a4"><title>Fothergill, Baron of Kinross (Personal)</title></circle></a><a href="/variants/s12/yi10lb2do4y2do3w3do3ly18w30n2w4do2~x2~yi2400000-n1700000/"><circle cx="202.4" cy="121.5" r="4" fill="#3465a4"><title>MacLean of Duart Dress #4</title></circle></a><a href="/variants/s12/n12lb2do4y2do3w3do3ly20w29lb2w4do2~x2/"><circle cx="202.7" cy="138.1" r="4" fill="#3465a4"><title>MacLean of Duart (Reproduction Colours)</title></circle></a><a href="/variants/s15/t4w2t1w19r2do4t8g4w2t3dy2g2do2r2dy2~x2/"><circle cx="153.9" cy="106.5" r="4" fill="#3465a4"><title>Highlands of Haliburton Dress</title></circle></a><a href="/variants/s12/dp6lb2w24r15g12lb4w4lb4w4lb4g34y4/"><circle cx="165.8" cy="132.8" r="4" fill="#3465a4"><title>Fredericton (District)</title></circle></a><a href="/variants/s8/lb36db5g5w2r4w2dr9w22~x2/"><circle cx="212.4" cy="142.7" r="4" fill="#3465a4"><title>Jubilee, South Canterbury Centre Piping &amp; Dancing Association</title></circle></a><circle cx="170.8" cy="101.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

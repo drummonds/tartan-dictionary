@@ -1,6 +1,11 @@
 ---
 title: "Loudoun's Highlanders"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Loudoun's Highlanders"
+  url: "/tartans/l/lo/loudoun-s-highlanders-2/"
 ---
 This is the **Loudoun's Highlanders** sett — one scale-free proportion (`dr4k2db24k20g20lo3`), colour order pattern
 [BKBKGY](/stripes/bkbkgy/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k4w1g10k10db10r2~x2/"><circle cx="120.7" cy="197.9" r="4" fill="#3465a4"><title>Rose Hunting Clan Tartan</title></circle></a><a href="/variants/s6/k4w1g10k10db10r2~x4/"><circle cx="120.7" cy="197.9" r="4" fill="#3465a4"><title>Rose Hunting</title></circle></a><a href="/variants/s6/k4w1g10k10db10r2/"><circle cx="120.7" cy="197.9" r="4" fill="#3465a4"><title>Rose Hunting</title></circle></a><a href="/variants/s6/k4w1g13k11db11lb3~x4/"><circle cx="117.1" cy="191.6" r="4" fill="#3465a4"><title>New York Fire Department Pipe Band</title></circle></a><a href="/variants/s6/k14w3g42k36db40lb10/"><circle cx="119.4" cy="189.3" r="4" fill="#3465a4"><title>New York Firemen's Pipe Band Corporate Tartan</title></circle></a><a href="/variants/s6/lb1db11k11g11k2lb1~x2/"><circle cx="151.0" cy="197.7" r="4" fill="#3465a4"><title>Unidentified No 59</title></circle></a><a href="/variants/s6/k2g11y1k8db9r2~x4/"><circle cx="118.9" cy="190.3" r="4" fill="#3465a4"><title>Forsyth Clan Tartan</title></circle></a><a href="/variants/s6/k1g8w1k8db8r1~x4/"><circle cx="109.4" cy="194.1" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/variants/s6/k1g8w1k8db8r1~x4~db1004274/"><circle cx="111.9" cy="193.8" r="4" fill="#3465a4"><title>Syme</title></circle></a><a href="/variants/s6/r2db8k8w1g8k1/"><circle cx="95.7" cy="199.1" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><circle cx="129.2" cy="186.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

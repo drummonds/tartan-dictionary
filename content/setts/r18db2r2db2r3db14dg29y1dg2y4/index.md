@@ -1,6 +1,11 @@
 ---
 title: "Unidentified Lindley #2"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified Lindley"
+  url: "/tartans/u/un/unidentified-lindley-7/"
 ---
 This is the **Unidentified Lindley #2** sett — one scale-free proportion (`r18db2r2db2r3db14dg29y1dg2y4`), colour order pattern
 [GGGBRBRBRBRBRBGGGG](/stripes/gggbrbrbrbrbrbgggg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r26dr1r1db2r1dr1r5db5g2db5g2db5g24r1dr2~x2~r1606028-dr1004029/"><circle cx="294.7" cy="114.9" r="4" fill="#3465a4"><title>Ladybird (Personal)</title></circle></a><a href="/variants/s18/g10dg2db2o14dg2g2dg2g2dg2db25o8g4dg4db3dg1db3dg1db4~x2/"><circle cx="263.7" cy="128.2" r="4" fill="#3465a4"><title>Nova Scotia</title></circle></a><a href="/variants/s21/r3db21r3dg7r7db8r3dg21r3db3r3dg21r3db8r6dg7r3db21r3db3lb1~x2/"><circle cx="262.7" cy="141.4" r="4" fill="#3465a4"><title>MacIntyre of Littleport</title></circle></a><a href="/variants/s13/n19do2r1dr3w1dr1w1dr1do6n3dr1do3w1~x4/"><circle cx="335.0" cy="124.0" r="4" fill="#3465a4"><title>Leando Hunting (Personal)</title></circle></a><a href="/variants/s22/r9db3dg12r2db40r2dg20db2r18db2w2db2r18db2dg20r2db40r2dg12db3r9y2~x2/"><circle cx="245.7" cy="106.8" r="4" fill="#3465a4"><title>Kormylo (Personal)</title></circle></a><a href="/variants/s24/db2dg2r1dg5r1db6r2dg1y1dg1r1dg1r1dg1lb1dg1r2db6dg20r1dg1r1dg1db2~x2/"><circle cx="340.0" cy="89.6" r="4" fill="#3465a4"><title>Ettrick (Green) District Tartan</title></circle></a><a href="/variants/s12/r7ri2db2r2g32r6db12r41g2r5ri2g5~x2~r1707016-ri2208029/"><circle cx="344.5" cy="134.1" r="4" fill="#3465a4"><title>MacDougall #5</title></circle></a><a href="/variants/s17/ri7r3ri6db26ri8b2ri2db2ri2g1r2ri8g26ri8g2ri2r2~x2~ri2008029-r1707016/"><circle cx="236.3" cy="100.4" r="4" fill="#3465a4"><title>MacColl, Ancient</title></circle></a><a href="/variants/s14/w2dp2n3g5n13dp2n2dp2n2dp33o2dp1n4w1~x2/"><circle cx="375.9" cy="88.6" r="4" fill="#3465a4"><title>Scottish Bakers</title></circle></a><a href="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4~g2203152/"><circle cx="348.5" cy="136.0" r="4" fill="#3465a4"><title>Seton Hunting</title></circle></a><circle cx="329.0" cy="117.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

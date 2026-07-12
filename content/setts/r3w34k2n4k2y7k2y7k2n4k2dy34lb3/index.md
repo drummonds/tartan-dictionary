@@ -1,6 +1,15 @@
 ---
 title: "Buchanan Dress Clan Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Buchanan"
+  url: "/clan/buchanan/"
+- name: "Buchanan"
+  url: "/families/buchanan/"
+- name: "Buchanan Dress"
+  url: "/tartans/b/bu/buchanan-dress-2/"
 ---
 This is the **Buchanan Dress Clan Tartan** sett — one scale-free proportion (`r3w34k2n4k2y7k2y7k2n4k2dy34lb3`), colour order pattern
 [RWKBKGKGKBKGW](/stripes/rwkbkgkgkbkgw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dr3w34k2n4k2lo7k2lo7k2n4k2do34lb3~x2/"><circle cx="89.9" cy="65.6" r="4" fill="#3465a4"><title>Buchanan Dress (Fashion)</title></circle></a><a href="/variants/s13/r3w34k2n4k2y7k2y7k2n4k2o34lb3~x2/"><circle cx="99.8" cy="67.6" r="4" fill="#3465a4"><title>Buchanan, dress</title></circle></a><a href="/variants/s13/k2r16w1db2w1y3w2y3w1db2w1g16lb2~x2/"><circle cx="100.1" cy="79.1" r="4" fill="#3465a4"><title>Gibbs Gibson Family Tartan</title></circle></a><a href="/variants/s14/r30b2k6b2g17y7w2k2w2y4lb7w2k6w6~x2/"><circle cx="65.8" cy="84.1" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/variants/s16/g4w1k3w1ly2w1k3w1ly2w1k3w1g3lb14r1y2~x2/"><circle cx="63.7" cy="86.3" r="4" fill="#3465a4"><title>City of Dorvil (District)</title></circle></a><a href="/variants/s12/g4w28lb3w3k16lb4o10n4k14r2k2r3~o2500000-n1900000/"><circle cx="62.2" cy="92.8" r="4" fill="#3465a4"><title>Edinburgh Zoo Panda (Comm)</title></circle></a><a href="/variants/s14/r30ri2k6ri2g17y7w2k2w2y4lb7w2k6w6~x2~r2109032-ri2406019/"><circle cx="60.8" cy="79.9" r="4" fill="#3465a4"><title>Dundee District Tartan</title></circle></a><a href="/variants/s15/r4g1r1g5k1lo1k1lo1k6lb1k1lb15w1lb1w1~x4/"><circle cx="130.0" cy="76.5" r="4" fill="#3465a4"><title>Estes</title></circle></a><a href="/variants/s12/g4w28lb3w3k16lb4n10do4k14r2k2r3~n1900000-do1500000/"><circle cx="62.2" cy="92.6" r="4" fill="#3465a4"><title>Edinburgh Zoo Panda, The</title></circle></a><a href="/variants/s14/db20w3db4w3db4w3r22g2k1g2ly16w1k2w1~x2/"><circle cx="114.8" cy="75.6" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield (District)</title></circle></a><circle cx="87.3" cy="64.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

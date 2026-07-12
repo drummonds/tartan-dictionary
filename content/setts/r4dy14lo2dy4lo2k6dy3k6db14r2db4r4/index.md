@@ -1,6 +1,13 @@
 ---
 title: "Kinloch Anderson"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Kinloch"
+  url: "/clan/kinloch/"
+- name: "Kinloch Anderson"
+  url: "/tartans/k/ki/kinloch-anderson/"
 ---
 This is the **Kinloch Anderson** sett — one scale-free proportion (`r4dy14lo2dy4lo2k6dy3k6db14r2db4r4`), colour order pattern
 [RBRBKGKYGYGR](/stripes/rbrbkgkygygr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r4o14dg2o4dg2k6o3k6ki14r2ki4r4~x2~ki0604259/"><circle cx="84.0" cy="169.1" r="4" fill="#3465a4"><title>Kinloch Anderson Limited</title></circle></a><a href="/variants/s12/dr4y14lb2do4lb2k6y3k6db13dr2db4dr4~x2/"><circle cx="49.3" cy="169.6" r="4" fill="#3465a4"><title>Kinloch Anderson Old Dress</title></circle></a><a href="/variants/s12/db2r4k7r8g10k4y2k8db4r4db14r2~x2/"><circle cx="60.1" cy="184.4" r="4" fill="#3465a4"><title>Unidentified pattern</title></circle></a><a href="/variants/s10/k3dg17k9r2db17r2db2r17dg2w2~x2/"><circle cx="101.7" cy="160.1" r="4" fill="#3465a4"><title>MacInroy (Rattray)</title></circle></a><a href="/variants/s10/o4k16oi5n8oi2dp2oi2dp2n8k3~x2~oi2500000-n1900000/"><circle cx="118.1" cy="168.7" r="4" fill="#3465a4"><title>Ryukoku University Heian JHS (Corp)</title></circle></a><a href="/variants/s11/lo2k1dr6k2db7k2db7k2dr7k1lb2~x4/"><circle cx="129.8" cy="189.4" r="4" fill="#3465a4"><title>Mount Isla</title></circle></a><a href="/variants/s10/dbi5k15o5n9o2db2o2db2n9k3~x2~dbi1406275-o2500000-n1900000-db1106275/"><circle cx="107.8" cy="180.6" r="4" fill="#3465a4"><title>Ryukoku University Heian SHS (Corp)</title></circle></a><a href="/variants/s13/db17r3db4r5db20r3k20g20r5g4r3k3y11~x2/"><circle cx="85.9" cy="170.5" r="4" fill="#3465a4"><title>MacSporran Clan Tartan</title></circle></a><a href="/variants/s11/n9db4n2db4n2db15n9db4r18k9y2~x2/"><circle cx="133.8" cy="175.5" r="4" fill="#3465a4"><title>Stephens</title></circle></a><a href="/variants/s11/r5dt5r5dt5r5dt14k16dti14r3k3dy3~x2~dt0900000-dti1102249/"><circle cx="99.6" cy="203.5" r="4" fill="#3465a4"><title>MacDougall - 1970 (William) (Comm)</title></circle></a><circle cx="101.0" cy="178.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Ethiopia"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Ethiopia"
+  url: "/tartans/e/et/ethiopia/"
 ---
 This is the **Ethiopia** sett — one scale-free proportion (`dy4lb1dy2lb1dy2lb16k1g8dy8r8k1lb24k1w4`), colour order pattern
 [GWGWGWKGGRKWKW](/stripes/gwgwgwkggrkwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/lb18k1r1w1r4db4lb4g4r1g1r1g1r1g1~x4/"><circle cx="225.8" cy="76.3" r="4" fill="#3465a4"><title>Hill 70</title></circle></a><a href="/variants/s13/o2w3k1t9k1lr6g1lr3g1lr19k2w7o1~x2~t2503227-lr2800000/"><circle cx="220.6" cy="102.4" r="4" fill="#3465a4"><title>Cahaba Memorial (Commemorative)</title></circle></a><a href="/variants/s14/y3lb2k1lb24k2lb2k2lb2k2g8dp2g8k1w2~x2/"><circle cx="202.9" cy="68.5" r="4" fill="#3465a4"><title>Alexander-Johnstone (Personal)</title></circle></a><a href="/variants/s11/y4lb1y2lb20y2r8y2lb20db16k1w4~x2/"><circle cx="218.0" cy="109.7" r="4" fill="#3465a4"><title>Congo, The Democratic Republic of the</title></circle></a><a href="/variants/s17/k2w2lb15r6y12r6lb25w2k4w2lb15w4k2w4k2w4k1~x2/"><circle cx="203.6" cy="86.8" r="4" fill="#3465a4"><title>Beck (Personal)</title></circle></a><a href="/variants/s14/r2w24lb3w3k6y1k1w1k1g8r4k1r2w1~x2/"><circle cx="185.8" cy="53.9" r="4" fill="#3465a4"><title>Stewart Victoria Royal Family Tartan</title></circle></a><a href="/variants/s15/w16dy1k2dy1w16g2k1g2r22w4db3w4db3w4db3~x2/"><circle cx="205.6" cy="70.9" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield Ceremonial</title></circle></a><a href="/variants/s14/dr2w24t3w3k6lo1k1w1k1g8dr4k1dr2w1~x4/"><circle cx="186.0" cy="57.2" r="4" fill="#3465a4"><title>Stewart Victoria (Royal)</title></circle></a><a href="/variants/s15/w16ly1k2ly1w16g2k1g2r22w4db3w4db3w4db3~x2/"><circle cx="206.9" cy="71.5" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield Cer. (Dis )</title></circle></a><a href="/variants/s8/g22r3w1g2r3lb16k3dy2~x4/"><circle cx="163.1" cy="86.3" r="4" fill="#3465a4"><title>Stirling University #2</title></circle></a><circle cx="209.9" cy="77.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

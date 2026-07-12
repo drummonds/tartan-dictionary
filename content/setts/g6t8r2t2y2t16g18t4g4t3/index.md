@@ -1,6 +1,13 @@
 ---
 title: "Blue Ridge"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Blue"
+  url: "/clan/blue/"
+- name: "Blue Ridge"
+  url: "/tartans/b/bl/blue-ridge/"
 ---
 This is the **Blue Ridge** sett — one scale-free proportion (`g6t8r2t2y2t16g18t4g4t3`), colour order pattern
 [BGBGBGBRBG](/stripes/bgbgbgbrbg/). It is recorded as a single **variant**, below.

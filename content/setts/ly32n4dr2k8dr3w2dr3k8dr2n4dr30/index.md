@@ -1,6 +1,11 @@
 ---
 title: "Varenne"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Varenne"
+  url: "/tartans/v/va/varenne/"
 ---
 This is the **Varenne** sett — one scale-free proportion (`ly32n4dr2k8dr3w2dr3k8dr2n4dr30`), colour order pattern
 [BBBKBWBKBBY](/stripes/bbbkbwbkbby/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k10r26k2r4k2r26k3dg36k3g30k3y2~y2400000/"><circle cx="160.2" cy="113.7" r="4" fill="#3465a4"><title>Pope Welsh Name Tartan</title></circle></a><a href="/variants/s12/y4w2y2w3y20k6do4k2do2k2do16r3~x2/"><circle cx="159.4" cy="138.8" r="4" fill="#3465a4"><title>Dorcas</title></circle></a><a href="/variants/s12/y5g22k2db2k2db2k10r38g5r4k4w5/"><circle cx="158.6" cy="79.5" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/variants/s12/y5g22k2db2k2db2k10r38g5r4k4w5~x2/"><circle cx="158.6" cy="79.5" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/variants/s11/r10dg3y3w1k2w1y3dg12w2r3w1~x4/"><circle cx="151.5" cy="146.3" r="4" fill="#3465a4"><title>Unnamed C18th - Pr Ch Ed Plaid?</title></circle></a><a href="/variants/s12/w5k4r4g5r39k10db2k2db2k2g22ly5~x2/"><circle cx="159.9" cy="76.6" r="4" fill="#3465a4"><title>Boyd (Clan)</title></circle></a><a href="/variants/s11/w2k35dg30k3lo30k2lo4k2lo30k3w2/"><circle cx="197.1" cy="121.4" r="4" fill="#3465a4"><title>Vaughan (Welsh Series)</title></circle></a><a href="/variants/s12/db8g2k2ly2k2y2k2g18r2g2r29k3~x2/"><circle cx="169.1" cy="87.9" r="4" fill="#3465a4"><title>Cats (Fashion)</title></circle></a><a href="/variants/s12/k6r3k3r24lb4k10r2g4r2g24r6lb2~x2~g2408144/"><circle cx="170.9" cy="136.0" r="4" fill="#3465a4"><title>Bates</title></circle></a><a href="/variants/s12/k6r3k3r24lb4k10r2g4r2g24r6lb2~x2/"><circle cx="174.0" cy="136.5" r="4" fill="#3465a4"><title>Bates (Name)</title></circle></a><circle cx="176.4" cy="109.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

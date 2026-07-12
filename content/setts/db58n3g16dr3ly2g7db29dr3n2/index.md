@@ -1,6 +1,13 @@
 ---
 title: "Aberdeen Mither Kirk (St Nicholas)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Aberdeen"
+  url: "/clan/aberdeen/"
+- name: "Aberdeen Mither Kirk"
+  url: "/tartans/a/ab/aberdeen-mither-kirk/"
 ---
 This is the **Aberdeen Mither Kirk (St Nicholas)** sett — one scale-free proportion (`db58n3g16dr3ly2g7db29dr3n2`), colour order pattern
 [BBBGYBGBB](/stripes/bbbgybgbb/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db40g7y3g7db15r5~x2/"><circle cx="441.9" cy="196.8" r="4" fill="#3465a4"><title>Wheadon (Name)</title></circle></a><a href="/variants/s6/g16db59ly4db59g16dbi9~x2~db1106275-dbi1406275/"><circle cx="460.9" cy="215.7" r="4" fill="#3465a4"><title>Oxford University</title></circle></a><a href="/variants/s10/db18g1dy3g1lr1db1dr2g2dr2lr2~x4/"><circle cx="355.0" cy="133.6" r="4" fill="#3465a4"><title>Anthony Plaid Blue</title></circle></a><a href="/variants/s8/t15db65y7t4y3db30t15w3~x2/"><circle cx="461.6" cy="179.1" r="4" fill="#3465a4"><title>Hoosier (Fashion)</title></circle></a><a href="/variants/s8/db21n2lr1n2db1dr2db1y6~x4/"><circle cx="439.5" cy="150.0" r="4" fill="#3465a4"><title>Blue Rust (Corporate)</title></circle></a><a href="/variants/s8/g20lb6db20y3db48dr6db4dr6~x2/"><circle cx="438.8" cy="153.7" r="4" fill="#3465a4"><title>Warren Wilson College</title></circle></a><a href="/variants/s8/g5y2dp40w1db15w1db1w1~x2/"><circle cx="438.2" cy="111.7" r="4" fill="#3465a4"><title>Jackson (Personal)</title></circle></a><a href="/variants/s8/w3dt9y1lb3dp9lb1dt40dp2~x2/"><circle cx="495.0" cy="117.9" r="4" fill="#3465a4"><title>Parkin</title></circle></a><a href="/variants/s6/g20dr10ly2db100w1y10/"><circle cx="478.4" cy="107.6" r="4" fill="#3465a4"><title>Ravetta (Name)</title></circle></a><a href="/variants/s8/db61w4db2w7b2g3y2db16~x2/"><circle cx="525.0" cy="106.1" r="4" fill="#3465a4"><title>Boat of Garten (District)</title></circle></a><circle cx="482.6" cy="138.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

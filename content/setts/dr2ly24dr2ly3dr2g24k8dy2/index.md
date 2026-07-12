@@ -1,6 +1,11 @@
 ---
 title: "Botherston (Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Botherston"
+  url: "/tartans/b/bo/botherston/"
 ---
 This is the **Botherston (Name)** sett — one scale-free proportion (`dr2ly24dr2ly3dr2g24k8dy2`), colour order pattern
 [BYBYBGKG](/stripes/bybybgkg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/ly15k1ly2k1ly2k10g14w2~x2/"><circle cx="172.6" cy="157.5" r="4" fill="#3465a4"><title>Buccleuch (Fashion)</title></circle></a><a href="/variants/s7/y17w7y6g43k5n6k13~x2/"><circle cx="162.2" cy="180.8" r="4" fill="#3465a4"><title>Keeling Dress</title></circle></a><a href="/variants/s6/ly16k7w1g7k1dy3~x4/"><circle cx="102.9" cy="138.0" r="4" fill="#3465a4"><title>Hamilton of Brandon</title></circle></a><a href="/variants/s9/r16k3r16g44k3g8k3ly20k4~x2/"><circle cx="200.3" cy="152.5" r="4" fill="#3465a4"><title>MacMillan Society of Glasgow</title></circle></a><a href="/variants/s8/k3g3dy28ly3dy3ly28db3lyi2~x2~dy1603076-lyi3307090/"><circle cx="204.3" cy="122.3" r="4" fill="#3465a4"><title>California Highway Patrol (Corporate</title></circle></a><a href="/variants/s11/g2k1g9ly3lb1k3lb1r3ly9lo1ly2~x4/"><circle cx="119.3" cy="148.0" r="4" fill="#3465a4"><title>Asman, Day Tan (Name)</title></circle></a><a href="/variants/s12/o4w2o2w3o18k6g3k2g2k2g14b3~x2/"><circle cx="137.6" cy="146.3" r="4" fill="#3465a4"><title>Dorcas, Check</title></circle></a><a href="/variants/s6/k5y2dy7ly18dy2w2~x4/"><circle cx="186.7" cy="169.6" r="4" fill="#3465a4"><title>Shepherd Piping (Personal)</title></circle></a><a href="/variants/s13/w2ly14y3k6w2k2w2k2g8ly6k2ly3w1~x2/"><circle cx="131.2" cy="133.5" r="4" fill="#3465a4"><title>O'Farrell (Name)</title></circle></a><a href="/variants/s10/y4g2y2g2y2g24k2r16w9db3~x2/"><circle cx="158.5" cy="126.6" r="4" fill="#3465a4"><title>North West Territories Canadian District Tartan</title></circle></a><circle cx="169.7" cy="147.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

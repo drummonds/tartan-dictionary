@@ -1,6 +1,11 @@
 ---
 title: "Paget (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Paget"
+  url: "/tartans/p/pa/paget/"
 ---
 This is the **Paget (Personal)** sett — one scale-free proportion (`r3dg4g2dg10k18dg2dp18dg3dp18dg2k18dg18w1r3`), colour order pattern
 [RGGGKGBGBGKGWR](/stripes/rgggkgbgbgkgwr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dr10w1do1w2n10dr8do2k17do2dr7n19k3y1k1~x2/"><circle cx="145.6" cy="103.5" r="4" fill="#3465a4"><title>Scottish Wildcat</title></circle></a><a href="/variants/s15/dy5k2db6w1db6k2dy7k16g7k2r4g2r4k2g4~x2/"><circle cx="83.1" cy="119.1" r="4" fill="#3465a4"><title>Redgate (Connecticut) Hunting #2</title></circle></a><a href="/variants/s14/do18k2do2k2do9g10dy2g10dp11k9dp2k2dp1r3~x2/"><circle cx="140.6" cy="125.6" r="4" fill="#3465a4"><title>Hay Gray (Personal)</title></circle></a><a href="/variants/s14/r3dg4g2dg10k18dg2db18dg3db18dg2k18dg16w1r3~x2~dg1806142-g2408144/"><circle cx="119.4" cy="120.0" r="4" fill="#3465a4"><title>Paget Family Tartan</title></circle></a><a href="/variants/s13/dr4dg20k16lo2k3lb3k2t18dr6k2dr4k1lb2~x4~dg1405139-t1903246/"><circle cx="106.0" cy="104.8" r="4" fill="#3465a4"><title>Tilley, Sir Samuel Leonard</title></circle></a><a href="/variants/s11/dr5dg30k6ly2k3lb5k12dr8k3dr3lr3~x2/"><circle cx="148.9" cy="115.8" r="4" fill="#3465a4"><title>King George (Nash)</title></circle></a><a href="/variants/s15/dg15db3dg3db3dg3db16o16k5lo2k5o16db16dg15r1k4~x2/"><circle cx="121.2" cy="134.5" r="4" fill="#3465a4"><title>Loseby, Luke (Personal)</title></circle></a><a href="/variants/s15/dy5k2t6w1t6k2dy7k16g7k2dr4g2dr4k2g4~x2/"><circle cx="85.6" cy="124.0" r="4" fill="#3465a4"><title>Redgate Hunting #2 (Name)</title></circle></a><a href="/variants/s14/k20g18k2y2k5w2k2g18k20dp18t4dp4t4dp18~x2/"><circle cx="97.0" cy="137.9" r="4" fill="#3465a4"><title>Shandon (Personal)</title></circle></a><a href="/variants/s13/dr4g20k16ly2k3lr3k2db18dr6k2dr4k1lr2~x4/"><circle cx="92.4" cy="100.4" r="4" fill="#3465a4"><title>Galt, Alexander, Sir</title></circle></a><circle cx="129.6" cy="116.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

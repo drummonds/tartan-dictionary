@@ -1,6 +1,15 @@
 ---
 title: "Kerr of Ardgowan Hunting (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Kerr"
+  url: "/clan/kerr/"
+- name: "Kerr of Ardgowan"
+  url: "/families/kerr-of-ardgowan/"
+- name: "Kerr of Ardgowan Hunting"
+  url: "/tartans/k/ke/kerr-of-ardgowan-hunting/"
 ---
 This is the **Kerr of Ardgowan Hunting (Personal)** sett — one scale-free proportion (`g2lo1dg42r2dg6g1db1g1dg4lb4dg1r1lr1`), colour order pattern
 [GYGRGGBGGWGRY](/stripes/gygrggbggwgry/). It is recorded as a single **variant**, below.

@@ -1,6 +1,11 @@
 ---
 title: "Fletcher of Dunans"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Fletcher"
+  url: "/clan/fletcher/"
 ---
 A family of [Clan Fletcher](/clan/fletcher/).
 

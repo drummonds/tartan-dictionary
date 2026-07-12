@@ -1,6 +1,11 @@
 ---
 title: "Stuart/Stewart of Appin (Dress Hunting Stewart)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Stuart/Stewart of Appin"
+  url: "/tartans/s/st/stuart-stewart-of-appin/"
 ---
 This is the **Stuart/Stewart of Appin (Dress Hunting Stewart)** sett — one scale-free proportion (`r3k2lb2r2g20r3g2r2db7r2g2w23k2lb2w2g2`), colour order pattern
 [GWWKWGRBRGRGRWKR](/stripes/gwwkwgrbrgrgrwkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/r3k2lt2r2g20r3g2r2dp7r2g2w23k2lt2w2g2~x2/"><circle cx="95.5" cy="90.7" r="4" fill="#3465a4"><title>Stewart of Appin Dress</title></circle></a><a href="/variants/s20/g10k1r1k3r1k1g1r1g3r1g1ly1n3ly1n1w1ly3w1ly1w10~x4~ly3202111-w3601060/"><circle cx="70.2" cy="98.8" r="4" fill="#3465a4"><title>Spice of Life (Fashion)</title></circle></a><a href="/variants/s13/lb2w1lb12dt6k3w1g1w1g4w2k1w1r1~x4~lb3402028-r2109032/"><circle cx="106.6" cy="111.6" r="4" fill="#3465a4"><title>Diana Pink (Commemorative)</title></circle></a><a href="/variants/s17/r4g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3~x2/"><circle cx="100.2" cy="87.0" r="4" fill="#3465a4"><title>Victoria</title></circle></a><a href="/variants/s15/r4g1r1g5k1lo1k1lo1k6lb1k1lb15w1lb1w1~x4/"><circle cx="130.0" cy="76.5" r="4" fill="#3465a4"><title>Estes</title></circle></a><a href="/variants/s15/w6g6w6g12lb8g14ly24k4lb4k4dp44w12g20k4lb5/"><circle cx="55.0" cy="125.3" r="4" fill="#3465a4"><title>Wexford County Crest (Fashion)</title></circle></a><a href="/variants/s21/r3g6k1r2k1g6db5r1k3y1k1y1k3w3k3w18k1r2k1w6r3/"><circle cx="88.5" cy="68.0" r="4" fill="#3465a4"><title>Anderson P</title></circle></a><a href="/variants/s22/g3lo19w2db3w3db6w2db3w2y4db14y4w2db3w2db6w3db3w2lo19g3k2~x2~w4000000/"><circle cx="85.1" cy="103.6" r="4" fill="#3465a4"><title>Unidentified Lindley #3</title></circle></a><a href="/variants/s16/w1dr3k1dr3g4k1w1k1w1k1db6lo2db4w14db1w1~x4/"><circle cx="107.3" cy="88.2" r="4" fill="#3465a4"><title>MacBeth Dress (Clan)</title></circle></a><a href="/variants/s16/g10w4r4dr4g2dr4r4w4g10w4lb4w2lb4w23k2r2~x2/"><circle cx="117.4" cy="114.7" r="4" fill="#3465a4"><title>MacBean Dress</title></circle></a><circle cx="94.8" cy="91.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

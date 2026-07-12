@@ -1,6 +1,13 @@
 ---
 title: "Bartlett from El Paso, Texas"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Bartlett"
+  url: "/clan/bartlett/"
+- name: "Bartlett from El Paso, Texas"
+  url: "/tartans/b/ba/bartlett-from-el-paso-texas/"
 ---
 This is the **Bartlett from El Paso, Texas** sett — one scale-free proportion (`r3w2db2lo1db39lo1db1ly2db1y15db1`), colour order pattern
 [BGBYBYBYBWR](/stripes/bgbybybybwr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db46r3db7do2y2do2w2do11ly6db2ly3w2~x2/"><circle cx="339.4" cy="77.3" r="4" fill="#3465a4"><title>Lady Diana Plaid Trade or Fancy Tartan</title></circle></a><a href="/variants/s14/db40g10lo1g5r5w1r2w1r5g5lo1g10db40y2~x2~db1406275/"><circle cx="373.3" cy="67.5" r="4" fill="#3465a4"><title>St. Andrew Quebec City</title></circle></a><a href="/variants/s11/r3w2db2ly1db39ly1db1g2db1lyi15db1~x2~ly2705081-lyi3104101/"><circle cx="368.9" cy="51.9" r="4" fill="#3465a4"><title>Bartlett of El Paso (Name)</title></circle></a><a href="/variants/s8/r2w1r5g5lo1g10db40y2~x2/"><circle cx="360.7" cy="82.1" r="4" fill="#3465a4"><title>St. Andrew Quebec City (Corporate)</title></circle></a><a href="/variants/s10/db42w5db1w1y9db1dg2w1db1r1~x4/"><circle cx="436.2" cy="63.5" r="4" fill="#3465a4"><title>Stratford (Ontario), City of</title></circle></a><a href="/variants/s12/db46r3db7do2y2do2w2do11o6db2o3w2~x2/"><circle cx="365.8" cy="84.6" r="4" fill="#3465a4"><title>Lady Diana, Plaid</title></circle></a><a href="/variants/s10/db58w2db1w1db6g3r3g6r24y3~x2~g2408144/"><circle cx="379.8" cy="66.3" r="4" fill="#3465a4"><title>Chinese Scottish District Tartan</title></circle></a><a href="/variants/s10/db58w2db1w1db6g3r3g6r24y3~x2/"><circle cx="383.1" cy="67.2" r="4" fill="#3465a4"><title>Chinese Scottish (Corporate)</title></circle></a><a href="/variants/s9/w2db2w1db40r3ly1r10dg10r1~x2/"><circle cx="370.3" cy="84.3" r="4" fill="#3465a4"><title>Russian Scottish (District)</title></circle></a><a href="/variants/s14/w2db40lb1db2r4db1g1db1r8w1r2w1r2w2~x2/"><circle cx="396.1" cy="42.2" r="4" fill="#3465a4"><title>St. Andrew's Soc. of Singapore (Corp</title></circle></a><circle cx="387.2" cy="55.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

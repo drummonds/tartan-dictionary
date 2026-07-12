@@ -1,6 +1,15 @@
 ---
 title: "Blackstock Dress Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Blackstock"
+  url: "/clan/blackstock/"
+- name: "Blackstock"
+  url: "/families/blackstock/"
+- name: "Blackstock Dress"
+  url: "/tartans/b/bl/blackstock-dress/"
 ---
 This is the **Blackstock Dress Family Tartan** sett — one scale-free proportion (`y2g7k6r12k1r1y2`), colour order pattern
 [GGKRKRG](/stripes/ggkrkrg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lo2dg7k6r11k1r1lo2~x4/"><circle cx="162.4" cy="173.0" r="4" fill="#3465a4"><title>Blackstock, Red Dress (Clan)</title></circle></a><a href="/variants/s7/lo2dg7k6r11k1r1lo2~x4~r1908029/"><circle cx="168.5" cy="176.2" r="4" fill="#3465a4"><title>Blackstock Red (Dress)</title></circle></a><a href="/variants/s6/k2r20k8g18r3w2~x2/"><circle cx="190.1" cy="183.6" r="4" fill="#3465a4"><title>Celtic Combat</title></circle></a><a href="/variants/s8/k1r7k2r1k2do1g3y1~x4/"><circle cx="152.6" cy="168.5" r="4" fill="#3465a4"><title>Craigmoor (Fashion)</title></circle></a><a href="/variants/s9/lb1k1r10g10k5lb5r10k1lb1~x4/"><circle cx="177.2" cy="171.1" r="4" fill="#3465a4"><title>Graham Red</title></circle></a><a href="/variants/s6/g3r22lb5g10k10g2~x2/"><circle cx="178.8" cy="189.4" r="4" fill="#3465a4"><title>Strathspey, Check</title></circle></a><a href="/variants/s6/r5w2r28k12g16r3~x2/"><circle cx="257.2" cy="169.5" r="4" fill="#3465a4"><title>Nisbet Family Tartan</title></circle></a><a href="/variants/s9/db3k5r2g2r3g12r6k1r3~x4/"><circle cx="162.9" cy="174.5" r="4" fill="#3465a4"><title>Fulton (1999) (Name)</title></circle></a><a href="/variants/s7/r4k2r24k6db6g16r3~x2/"><circle cx="233.0" cy="168.4" r="4" fill="#3465a4"><title>MacDuff #4</title></circle></a><a href="/variants/s8/dg8o2dg12k6dg3db6o24k4~x2~dg1806142-o2208036/"><circle cx="191.6" cy="177.8" r="4" fill="#3465a4"><title>Dickie</title></circle></a><circle cx="179.5" cy="170.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "d'Andeville, Xavier (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "D'Andeville, Xavier"
+  url: "/tartans/d/d/d-andeville-xavier/"
 ---
 This is the **d'Andeville, Xavier (Personal)** sett — one scale-free proportion (`r13w9r13w16r10w2k1w2k1w2k1w2k1w2`), colour order pattern
 [RWRWRWKWKWKWKW](/stripes/rwrwrwkwkwkwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/r6w56db9w8k16w4k3w4k3w36r36k3r12w3~x2/"><circle cx="251.2" cy="103.1" r="4" fill="#3465a4"><title>Duke of Rothesay (Royal)</title></circle></a><a href="/variants/s10/w18r9w1r1w2r1w1r9db3r4~x4/"><circle cx="317.6" cy="154.9" r="4" fill="#3465a4"><title>Swiss Red (Fashion)</title></circle></a><a href="/variants/s12/w4ri1w2ri3w24r5ri3r1ri1r1ri20w2~x2~ri2008029-r1707016/"><circle cx="312.5" cy="117.6" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s10/w18r9w1r1w2r1w1r9db3r4~x4~w3600000/"><circle cx="330.3" cy="158.6" r="4" fill="#3465a4"><title>Swiss Red</title></circle></a><a href="/variants/s12/w4ri1w2ri3w24r5ri3r1ri1r1ri20w2~x2~ri2209032-r1707016/"><circle cx="319.0" cy="118.9" r="4" fill="#3465a4"><title>Menzies #3</title></circle></a><a href="/variants/s12/w4r1w2r3w24dr5r3dr1r1dr1r20w2~x2~r1908029/"><circle cx="310.1" cy="120.6" r="4" fill="#3465a4"><title>Menzies VS</title></circle></a><a href="/variants/s12/w4r1w2r3w24dr5r3dr1r1dr1r20w2~r1908029/"><circle cx="310.1" cy="120.6" r="4" fill="#3465a4"><title>Menzies VS</title></circle></a><a href="/variants/s12/w4r1w2r3w24dp6r2dp1r1dp1r20w2/"><circle cx="312.6" cy="120.5" r="4" fill="#3465a4"><title>Menzies VS</title></circle></a><a href="/variants/s10/r2g2w2r23w2g2w23g2r2w2~x2/"><circle cx="303.3" cy="158.7" r="4" fill="#3465a4"><title>Hose Artifact Tartan</title></circle></a><a href="/variants/s8/r40w40k5w2k6w2k5w6~x2~r2109032-w3602028/"><circle cx="275.6" cy="139.5" r="4" fill="#3465a4"><title>Masai Shuka 14 (Artefact)</title></circle></a><circle cx="277.9" cy="140.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

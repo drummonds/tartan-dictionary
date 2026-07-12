@@ -1,6 +1,11 @@
 ---
 title: "Tough (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Tough"
+  url: "/tartans/t/to/tough/"
 ---
 This is the **Tough (Personal)** sett — one scale-free proportion (`n4ly1k4g32k4dr2`), colour order pattern
 [BKGKYB](/stripes/bkgkyb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r1k2g16k2y1~x2/"><circle cx="405.1" cy="152.1" r="4" fill="#3465a4"><title>Skene or Tribe of Mar</title></circle></a><a href="/variants/s6/r3k4lb2g64k6y3~x2/"><circle cx="467.3" cy="94.7" r="4" fill="#3465a4"><title>Braemar Royal Highland Gathering</title></circle></a><a href="/variants/s6/k3lb1g21k2dr3lb2~x2/"><circle cx="356.5" cy="138.0" r="4" fill="#3465a4"><title>Leach Hunting</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46lyi2k2~x2~ly2503076-lyi2705081/"><circle cx="397.9" cy="114.0" r="4" fill="#3465a4"><title>Green Rover (Personal)</title></circle></a><a href="/variants/s6/g55k17r9k11y2k4~x2/"><circle cx="295.0" cy="132.5" r="4" fill="#3465a4"><title>Moran (Name)</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/"><circle cx="371.1" cy="105.0" r="4" fill="#3465a4"><title>Green Rover, The</title></circle></a><a href="/variants/s5/g62k40y3k3w3~x2/"><circle cx="299.5" cy="152.4" r="4" fill="#3465a4"><title>O'Donoghue</title></circle></a><a href="/variants/s6/g55k17r9k11y2db4~x2/"><circle cx="272.9" cy="120.0" r="4" fill="#3465a4"><title>Moran Family Tartan</title></circle></a><a href="/variants/s6/k5w4r15g70k4w5~x2/"><circle cx="371.0" cy="138.6" r="4" fill="#3465a4"><title>Tahrir (Liberation)</title></circle></a><a href="/variants/s6/w12k3g50w3k13dy6~x2/"><circle cx="271.6" cy="153.9" r="4" fill="#3465a4"><title>Limerick County, Crest Range</title></circle></a><circle cx="378.9" cy="106.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

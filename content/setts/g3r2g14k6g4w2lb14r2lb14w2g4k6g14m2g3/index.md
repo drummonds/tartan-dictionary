@@ -1,6 +1,11 @@
 ---
 title: "Scottish Heritage USA (SHUSA)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Scottish Heritage USA"
+  url: "/tartans/s/sc/scottish-heritage-usa/"
 ---
 This is the **Scottish Heritage USA (SHUSA)** sett — one scale-free proportion (`g3r2g14k6g4w2lb14r2lb14w2g4k6g14m2g3`), colour order pattern
 [GRGKGWWRWWGKGRGRGKGWWRWWGKGR](/stripes/grgkgwwrwwgkgrgrgkgwwrwwgkgr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s34/g3r3g3lb3yi13lb5yi3lb5k9g3lb3g3yi6lb3k3lb16y3lb3g3lb3r3lb16k3lb3yi6g3lb3g3k9lb5yi3lb5yi13lb3~x2~yi2404144/"><circle cx="79.2" cy="136.4" r="4" fill="#3465a4"><title>Shipley, Ian (Personal)</title></circle></a><a href="/variants/s24/g16r2g4dy2g4r2g16db2g3db2g3db10w2lb12k2lb5k2lb12w2db10g3db2g3db2~x2/"><circle cx="103.2" cy="117.6" r="4" fill="#3465a4"><title>O'Sullivan McCragh Family Tartan</title></circle></a><a href="/variants/s18/g14lb2r3lb2k16y2lb16g16r3g16lb16y2k16lb2r3lb2g14k6~x2/"><circle cx="100.0" cy="153.3" r="4" fill="#3465a4"><title>Norwich No.038</title></circle></a><a href="/variants/s18/k3db3k3db18g20k3g3y3g3k3g20lb3db3lb3db3lb12db3lb3~x2~db1406275/"><circle cx="120.4" cy="123.6" r="4" fill="#3465a4"><title>Johnston Dress (Dalgleish)</title></circle></a><a href="/variants/s24/g16r2g4b2g4r2g16db2g3db2g3db10w2lb12k2lb5k2lb12w2db10g3db2g3db2~x2~g2104115-r2008022-db0906265-lb3200000/"><circle cx="104.0" cy="113.2" r="4" fill="#3465a4"><title>O'Sullivan, McCragh</title></circle></a><a href="/variants/s17/r3g2k7lb3k3lb3g14lb3k3lb3k3lb3g10dp6r2w2lb3~x2/"><circle cx="48.9" cy="148.3" r="4" fill="#3465a4"><title>Lee Cox (Personal)</title></circle></a><a href="/variants/s14/db6r2db6y3g6k1g2lb2g2k1g6k1g2lb2~x2/"><circle cx="101.8" cy="178.9" r="4" fill="#3465a4"><title>Presbyterian Synod of Living Waters (USA)</title></circle></a><a href="/variants/s15/lb8g2k2w2g8lb2g8w2k2dg3g2w2g1lb2k2~x2/"><circle cx="115.4" cy="164.3" r="4" fill="#3465a4"><title>Gayre Dress</title></circle></a><a href="/variants/s15/lbi20g4k4lb4g16lbi4g16lb4k4r6g4lb4g3r6k4~x2~lbi3203246-lb3200000/"><circle cx="105.9" cy="168.4" r="4" fill="#3465a4"><title>Gayre</title></circle></a><a href="/variants/s32/dg12t3k2t3k2t3k2t3w12dp2dg2dp2w4g2w4k2w4g2w4dp2dg2dp2w12t3k2t3k2t3k2t3dg12r3~x2~dg1806142-g2408144/"><circle cx="14.0" cy="110.3" r="4" fill="#3465a4"><title>Kennedy Dress</title></circle></a><circle cx="94.3" cy="127.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

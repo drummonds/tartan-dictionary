@@ -1,6 +1,15 @@
 ---
 title: "Hudson Hunting (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hudson"
+  url: "/clan/hudson/"
+- name: "Hudson"
+  url: "/families/hudson/"
+- name: "Hudson Hunting"
+  url: "/tartans/h/hu/hudson-hunting/"
 ---
 This is the **Hudson Hunting (Personal)** sett — one scale-free proportion (`db4lb2k2db12lb4g6k6g28k2lb2g3`), colour order pattern
 [BWKBWGKGKWG](/stripes/bwkbwgkgkwg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r3db16k16g4k2g2k2g34r4g3r2g3~x2/"><circle cx="235.1" cy="120.2" r="4" fill="#3465a4"><title>Park</title></circle></a><a href="/variants/s12/r4ki2g7ki15g3ki3g3ki7g28k7g6k2~ki0604259/"><circle cx="244.5" cy="143.1" r="4" fill="#3465a4"><title>Walker, hunting</title></circle></a><a href="/variants/s8/g2k3y1k3g2db8g16k1~x4/"><circle cx="272.4" cy="152.2" r="4" fill="#3465a4"><title>Harley (Leslie), Robert</title></circle></a><a href="/variants/s15/g1k1g1db10g1db1g1k4g1ly1g10k1g1k1g1~x4/"><circle cx="212.4" cy="132.4" r="4" fill="#3465a4"><title>Glen Grant Distillery</title></circle></a><a href="/variants/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/"><circle cx="223.4" cy="160.4" r="4" fill="#3465a4"><title>Marthas Vineyard (District)</title></circle></a><a href="/variants/s15/k2db2g24r2g2r12g3k12db11k3db11g2r2g24db2~x2/"><circle cx="200.8" cy="141.8" r="4" fill="#3465a4"><title>MacInroy Hunting</title></circle></a><a href="/variants/s11/g17lb2b2lb2k21lb2k3g30k2lb2k4~x2/"><circle cx="254.8" cy="128.0" r="4" fill="#3465a4"><title>Fort William</title></circle></a><a href="/variants/s9/g13k3g34k6db16r2db16k3g13~x2/"><circle cx="276.9" cy="168.6" r="4" fill="#3465a4"><title>Lockhart Family Tartan</title></circle></a><a href="/variants/s13/t24k2t2k2t2k10g5dp3g5k10t11k2t4~x2/"><circle cx="229.1" cy="148.9" r="4" fill="#3465a4"><title>Blanton</title></circle></a><a href="/variants/s11/g6k2g24k10db2o2db2o2db10k2lb3~x2/"><circle cx="178.8" cy="134.0" r="4" fill="#3465a4"><title>Scottish Rugby Union (City of Nagasaki)</title></circle></a><circle cx="235.7" cy="139.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

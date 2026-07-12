@@ -1,6 +1,15 @@
 ---
 title: "Kumikyoku - Tone of Forest"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Kumikyoku"
+  url: "/clan/kumikyoku/"
+- name: "Kumikyoku"
+  url: "/families/kumikyoku/"
+- name: "Kumikyoku"
+  url: "/tartans/k/ku/kumikyoku-2/"
 ---
 This is the **Kumikyoku - Tone of Forest** sett — one scale-free proportion (`w5db3g12db3lb5db3k13db3r5db3ly2k11db3g5db3g25w2`), colour order pattern
 [WBGBWBKBRBYKBGBGW](/stripes/wbgbwbkbrbykbgbgw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dy8k3dr6k2g20db4g2db4g5lb4db3w3~x2/"><circle cx="101.5" cy="130.4" r="4" fill="#3465a4"><title>Down County, Crest Range</title></circle></a><a href="/variants/s11/k7t20lb2r6lb2k20y3g20t27r3g6~x2/"><circle cx="121.9" cy="114.9" r="4" fill="#3465a4"><title>Stinson</title></circle></a><a href="/variants/s14/g10dr2g2dr3g11lr2k10dr2db12k1lo2dr2lo2dr2~x2/"><circle cx="99.0" cy="129.5" r="4" fill="#3465a4"><title>Esteba-Quer (Personal)</title></circle></a><a href="/variants/s12/g30w3g4y5g4w3g6k14lb3k14db18w4~x2/"><circle cx="102.2" cy="136.9" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><a href="/variants/s15/g10dr2g2dr3g11lr2k10dr2db12k1lo2dr2lo2dr2lo2~x2/"><circle cx="89.8" cy="125.0" r="4" fill="#3465a4"><title>Esteba-Quer (Personal)</title></circle></a><a href="/variants/s12/ly8k3dr6k2g20db4g2db4g5lb4db3w3~x2/"><circle cx="91.9" cy="128.1" r="4" fill="#3465a4"><title>Down County Crest (Fashion)</title></circle></a><a href="/variants/s12/g30w3g4ly5g4w3g6k14lb3k14db18w4~x2/"><circle cx="99.9" cy="136.4" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><a href="/variants/s17/g20k2w2k2y2k2g19r5k19r5t20k2g2k2g2k2t20~x2/"><circle cx="91.2" cy="115.2" r="4" fill="#3465a4"><title>MacNicol Htg (Clan)</title></circle></a><a href="/variants/s11/w3db5lt2db9dp10k2dp5k5dg9g31w2~x2/"><circle cx="104.8" cy="105.0" r="4" fill="#3465a4"><title>Carnegie of Skibo Corporate Tartan</title></circle></a><a href="/variants/s10/g2ly1g13y2g1k12db10r1db1w2~x2/"><circle cx="93.9" cy="109.5" r="4" fill="#3465a4"><title>Bullman (Name)</title></circle></a><circle cx="81.2" cy="99.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

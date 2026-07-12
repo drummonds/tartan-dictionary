@@ -1,6 +1,11 @@
 ---
 title: "Unidentified Plaid #14"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified"
+  url: "/tartans/u/un/unidentified-20/"
 ---
 This is the **Unidentified Plaid #14** sett — one scale-free proportion (`w4dg10dy9dg4dy1lb3dy1dg69dy10dg2dy1lb4dy1dg2dy18dg2dy1lb3dy1db2dy99dg4dy5db2`), colour order pattern
 [BGGGBGWGGGGGWGGGGGWGGGGW](/stripes/bgggbgwgggggwgggggwggggw/). It is recorded as a single **variant**, below.

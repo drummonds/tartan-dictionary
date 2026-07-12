@@ -1,6 +1,11 @@
 ---
 title: "Puccini (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Puccini"
+  url: "/tartans/p/pu/puccini/"
 ---
 This is the **Puccini (Fashion)** sett — one scale-free proportion (`r6w1r1k15r1w2k1ly5w25ri5k1r5k1w5k1ri5`), colour order pattern
 [RKWKRKRWYKWRKRWR](/stripes/rkwkrkrwykwrkrwr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/r6wi1r1k15r1wi2k1ly5wi25w5k1ri5k1wi5k1ly5~x2~r2510029-wi4000000-w3602000-ri2906009/"><circle cx="128.6" cy="54.3" r="4" fill="#3465a4"><title>Puccini's Madama Butterfly</title></circle></a><a href="/variants/s13/k4lg9lb30k2lb4w5k2w2k1w2dr7r15k3~x2/"><circle cx="131.2" cy="62.8" r="4" fill="#3465a4"><title>Un-named (USA Bedheads)</title></circle></a><a href="/variants/s18/r8k3lb15k1w3k1lb8k1w3k1r19k2y2k2g2k2r2k2~x2/"><circle cx="123.3" cy="64.1" r="4" fill="#3465a4"><title>Canadian Dental Association</title></circle></a><a href="/variants/s19/k4r1k1r2w24db2w3r8g2r2g2r2k8g2k2g2k2g8y2~x2/"><circle cx="96.4" cy="52.4" r="4" fill="#3465a4"><title>Princess Beatrice Dress Royal Family Tartan</title></circle></a><a href="/variants/s12/lb12db2k4y2k3r3k3r19w31db2w4k2~x2/"><circle cx="126.0" cy="86.2" r="4" fill="#3465a4"><title>MacLean of Duart Dress #5</title></circle></a><a href="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3w18r1k2r1w6r3~x2/"><circle cx="85.9" cy="76.3" r="4" fill="#3465a4"><title>Anderson</title></circle></a><a href="/variants/s11/dy5k3g2r20db10w2g1dy1w20k4dy3~x2~db1406275/"><circle cx="88.2" cy="69.2" r="4" fill="#3465a4"><title>MacCulloch Dress Clan/Family Tartan</title></circle></a><a href="/variants/s14/db20w3db4w3db4w3r22g2k1g2ly16w1k2w1~x2/"><circle cx="114.8" cy="75.6" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield (District)</title></circle></a><a href="/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k8r60w2/"><circle cx="154.4" cy="54.2" r="4" fill="#3465a4"><title>Chattan, Chief</title></circle></a><a href="/variants/s13/k2g2w2g3w33r2dp10r3g3r26g2r4m2~x2~r2109032-m2106019/"><circle cx="150.5" cy="75.3" r="4" fill="#3465a4"><title>Crieff Red Dress (Dance)</title></circle></a><circle cx="130.6" cy="52.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

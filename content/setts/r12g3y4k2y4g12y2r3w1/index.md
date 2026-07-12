@@ -1,6 +1,11 @@
 ---
 title: "Unnamed C18th - Prince Charles Edward #4"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Prince Charles Edward"
+  url: "/tartans/p/pr/prince-charles-edward/"
 ---
 This is the **Unnamed C18th - Prince Charles Edward #4** sett — one scale-free proportion (`r12g3y4k2y4g12y2r3w1`), colour order pattern
 [GGKGGGRWRGGGKGGR](/stripes/ggkgggrwrgggkggr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/o16k2o9g12y2g10t3k2t3k2t3o10~x2/"><circle cx="215.2" cy="187.4" r="4" fill="#3465a4"><title>Highland Spring (1985)</title></circle></a><a href="/variants/s10/o9k2o2r2g6k1y1k1g6r3~x2/"><circle cx="147.4" cy="178.0" r="4" fill="#3465a4"><title>MacAart</title></circle></a><a href="/variants/s12/r20dg5r5dg30y8g10k10dg30r5dg5r20g20~x2~dg1806142-g2203152/"><circle cx="167.4" cy="207.8" r="4" fill="#3465a4"><title>Quinn (Name?)</title></circle></a><a href="/variants/s15/dr8k5dr8g27dr8w2dr3g3dr3w2dr8dy27dr8dy3dr3~x2/"><circle cx="214.6" cy="140.2" r="4" fill="#3465a4"><title>McCall (Name)</title></circle></a><a href="/variants/s9/g4r1db2r1g10dy5r3dy10y1~x4/"><circle cx="235.3" cy="200.5" r="4" fill="#3465a4"><title>Moncton, City of</title></circle></a><a href="/variants/s16/g22k2g5k2y10k3y10k2g5k2g22r8k2r8k2r8~x2/"><circle cx="199.5" cy="151.4" r="4" fill="#3465a4"><title>MacMillan (1946)</title></circle></a><a href="/variants/s12/dy30g4w2g14dr13ly2dr13g14w2g4dy30k2~x2~dy1603076-ly3307090/"><circle cx="242.2" cy="144.6" r="4" fill="#3465a4"><title>Red Rum</title></circle></a><a href="/variants/s15/g16dy1g2dy1g2dy12r12dy1y2dy1r12dy12g12dy1w2~x2/"><circle cx="210.1" cy="147.4" r="4" fill="#3465a4"><title>Prince Edward Island District Tartan</title></circle></a><a href="/variants/s18/g18r3g3r15dg13r14g3r3g18dg5g2y5g3r2g3db5g2lb5~x2/"><circle cx="180.9" cy="156.9" r="4" fill="#3465a4"><title>Ben Murad (Personal)</title></circle></a><a href="/variants/s18/k3dg18dy3dg3dy3dg3dy18ly3dy3ly3dy3ly12db2ly12dy9ly12dg2db2~x2/"><circle cx="124.0" cy="144.4" r="4" fill="#3465a4"><title>Van Ingelgem Htg (Personal)</title></circle></a><circle cx="193.2" cy="157.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "MacWatts (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacWatts"
+  url: "/clan/macwatts/"
+- name: "MacWatts"
+  url: "/families/macwatts/"
+- name: "MacWatts"
+  url: "/tartans/m/ma/macwatts/"
 ---
 This is the **MacWatts (Personal)** sett — one scale-free proportion (`g7dp2g2dp12g2k2g1k12dbi2db12dbi2db2dbi7k2r3k2dbi7db2dbi2db12dbi2k12g1k2g2dp12g2dp2g7y4`), colour order pattern
 [GBGBGKGKBBBBBKRKBBBBBKGKGBGBGG](/stripes/gbgbgkgkbbbbbkrkbbbbbkgkgbgbgg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/y4g7dp2g2dp12g2k2g1k12dbi2db12dbi2db2dbi7k2r3~x2~dbi1406275-db1106275/"><circle cx="30.8" cy="117.2" r="4" fill="#3465a4"><title>MacWatts (Personal)</title></circle></a><a href="/variants/s29/db4g4k20r5k4dr5k4db5k18g4r8db2lb2r16k4lo2k4r16lb2db2r6db6r2lo2db20lb2db20lo2r3~x2~r1606028-dr1305012/"><circle cx="59.9" cy="84.2" r="4" fill="#3465a4"><title>Hird (Personal)</title></circle></a><a href="/variants/s29/db4g4k20r5k4dr5k4db5k18g4r8db2lb2r16k4lo2k4r16lb2db2r6db6r2lo2db20lb2db20lo2r3~x2~db1406275-r1606028-dr1305012/"><circle cx="61.5" cy="83.9" r="4" fill="#3465a4"><title>Hird (Personal)</title></circle></a><a href="/variants/s11/db10k2g2dr2g2k2do2k2dy4k1y2~x4/"><circle cx="43.1" cy="128.9" r="4" fill="#3465a4"><title>Highfield Hunting</title></circle></a><a href="/variants/s17/db24g2db12k2w2k3dp2k3t4k3dp2k3w2k2r12g2t24~x2~db1406275/"><circle cx="42.4" cy="56.3" r="4" fill="#3465a4"><title>Selkirk, New</title></circle></a><a href="/variants/s21/r4g7k1r2k1g7dp5r2k5y2k2y2k3w3dp3db16k1r2k1db6r4~x2/"><circle cx="32.8" cy="82.3" r="4" fill="#3465a4"><title>Anderson (W L Anderson, Stirling)</title></circle></a><a href="/variants/s18/db8k2db3dg3k3r3dg10g3k3w3k3dp16dg6k3db6w8k2dp2~x2/"><circle cx="14.0" cy="128.4" r="4" fill="#3465a4"><title>Kukri</title></circle></a><a href="/variants/s33/dg10r1dg5k1w1k1y1k1db2k1y1k1w1k1g5r1g5db5r1db5k1w1k1y1k1db2k1y1k1w1k1dg5r1~x4/"><circle cx="26.5" cy="80.1" r="4" fill="#3465a4"><title>Hawick (District)</title></circle></a><a href="/variants/s16/db5w1db10ki5k1ki1k2ki2k10dg5lb2ki2lb1ki2dg3k1~x2~ki0700000-lb3203246/"><circle cx="79.8" cy="134.2" r="4" fill="#3465a4"><title>Glendinning (Personal)</title></circle></a><a href="/variants/s26/dg18k10db12k1g2k1db12dy2k10g2dg2g15dg3g15dg2g2k10dy2db12k1g2k1db12k10dg18r3~x2~dg1806142-db1204274-g2203152/"><circle cx="83.1" cy="102.4" r="4" fill="#3465a4"><title>Leinster Irish District Tartan</title></circle></a><circle cx="26.9" cy="92.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

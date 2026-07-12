@@ -1,6 +1,11 @@
 ---
 title: "Scottish Ballet"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Scottish Ballet"
+  url: "/tartans/s/sc/scottish-ballet/"
 ---
 This is the **Scottish Ballet** sett — one scale-free proportion (`dy5g22dp15dpi11dp5g2`), colour order pattern
 [GBBBGG](/stripes/gbbbgg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db1dy1db7dy5y7lr1~x4/"><circle cx="245.5" cy="261.8" r="4" fill="#3465a4"><title>Dewar (WCWM)</title></circle></a><a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6~w3600000/"><circle cx="215.5" cy="242.8" r="4" fill="#3465a4"><title>Utah</title></circle></a><a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6/"><circle cx="201.9" cy="238.3" r="4" fill="#3465a4"><title>Utah (US State)</title></circle></a><a href="/variants/s8/dr25g10db30w4db30g10dr25w2~x2/"><circle cx="279.1" cy="228.2" r="4" fill="#3465a4"><title>Highland Spring Dress (2004)</title></circle></a><a href="/variants/s6/db14g21db4r21db14y2~x2/"><circle cx="221.3" cy="239.9" r="4" fill="#3465a4"><title>Kilgour</title></circle></a><a href="/variants/s5/w4db30g10dr25w2~x2/"><circle cx="268.4" cy="225.6" r="4" fill="#3465a4"><title>Highland Spring Dress (2004) (Corp)</title></circle></a><a href="/variants/s8/dp11dy2dp2dy2dp2dy11g14w2~x2/"><circle cx="216.9" cy="237.6" r="4" fill="#3465a4"><title>Lamont #2</title></circle></a><a href="/variants/s7/db3dr19db13dr5g21dr8db3~x2/"><circle cx="296.1" cy="277.8" r="4" fill="#3465a4"><title>MacBean of Tomatin (Clan)</title></circle></a><a href="/variants/s6/w2dr12g6dr1n6dr1~x4/"><circle cx="305.8" cy="225.6" r="4" fill="#3465a4"><title>Fraser Green</title></circle></a><a href="/variants/s9/w9db2dy8n6dy9n15dy13n3db4~x2/"><circle cx="221.4" cy="256.2" r="4" fill="#3465a4"><title>Tamer of Wolves</title></circle></a><circle cx="254.2" cy="245.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

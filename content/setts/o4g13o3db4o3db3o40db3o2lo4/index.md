@@ -1,6 +1,11 @@
 ---
 title: "Galway Irish County Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Galway Irish County"
+  url: "/tartans/g/ga/galway-irish-county/"
 ---
 This is the **Galway Irish County Tartan** sett — one scale-free proportion (`o4g13o3db4o3db3o40db3o2lo4`), colour order pattern
 [RGRBRBRBRY](/stripes/rgrbrbrbry/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/o40dt10y2dt2w2dt3g8o6dt2o4w2~x2/"><circle cx="395.3" cy="122.2" r="4" fill="#3465a4"><title>Cavalier, Brown</title></circle></a><a href="/variants/s11/o40dt10y2dt2w2dt3r8o6dt2o4w2~x2/"><circle cx="397.4" cy="117.8" r="4" fill="#3465a4"><title>Cavalier, Red</title></circle></a><a href="/variants/s11/y40dt10o2dt2w2dt3g8y6dt2y4w2~x2/"><circle cx="406.4" cy="131.9" r="4" fill="#3465a4"><title>Cavalier, Blue</title></circle></a><a href="/variants/s10/r12w2r37t6g3t3r4t3g21r4~x2/"><circle cx="382.7" cy="148.3" r="4" fill="#3465a4"><title>Chisholm, The (MacGregor-Hastie)</title></circle></a><a href="/variants/s9/y2r12g2r1g32r1g2r12w2/"><circle cx="391.8" cy="129.2" r="4" fill="#3465a4"><title>MacFie</title></circle></a><a href="/variants/s11/dr4y34do20y4do8y6r2y5do2y3dr4/"><circle cx="428.2" cy="177.5" r="4" fill="#3465a4"><title>Morgan of Wales</title></circle></a><a href="/variants/s10/g6w1g12dy4r4dy2r4dy32g1dy2~x2/"><circle cx="400.5" cy="126.2" r="4" fill="#3465a4"><title>Seton Hunting Family Tartan</title></circle></a><a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x4/"><circle cx="368.4" cy="165.1" r="4" fill="#3465a4"><title>MacPhie/Macfie</title></circle></a><a href="/variants/s9/y1r12g2r1g16r1g2r12w1/"><circle cx="368.4" cy="165.1" r="4" fill="#3465a4"><title>MacFie</title></circle></a><a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x2/"><circle cx="368.4" cy="165.1" r="4" fill="#3465a4"><title>MacPhee MacFie Clan Tartan</title></circle></a><circle cx="454.8" cy="144.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

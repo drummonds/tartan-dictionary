@@ -1,6 +1,11 @@
 ---
 title: "Thin Blue Line UK"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Thin Blue Line UK"
+  url: "/tartans/t/th/thin-blue-line-uk/"
 ---
 This is the **Thin Blue Line UK** sett — one scale-free proportion (`db5k35lb3k2r3k2g3k2w3k2`), colour order pattern
 [BKWKRKGKWK](/stripes/bkwkrkgkwk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k43b3k7dg3k2dg3k2g11r6k2r3w3~x2/"><circle cx="284.3" cy="56.0" r="4" fill="#3465a4"><title>Braveheart - ( Warrior)</title></circle></a><a href="/variants/s12/k24db2k3dp1k1dp2k1dg5dr2k1dr2lb1~x4/"><circle cx="379.7" cy="65.9" r="4" fill="#3465a4"><title>Braveheart Warrior</title></circle></a><a href="/variants/s10/k62t4k7db29k3ly4k3w4k11t16~x2/"><circle cx="288.7" cy="100.2" r="4" fill="#3465a4"><title>State Seal of Massachusetts Fash)</title></circle></a><a href="/variants/s11/r5k1w3k6n5k2y3k45n4k2y3~x2/"><circle cx="387.7" cy="36.1" r="4" fill="#3465a4"><title>Williams Dress (Carolinas) (Personal)</title></circle></a><a href="/variants/s11/r5k1w3k6n5k2ly3k45n4k2ly3~x2/"><circle cx="381.3" cy="34.9" r="4" fill="#3465a4"><title>Williams Dress (Personal)</title></circle></a><a href="/variants/s12/k36db4k6y1k1w1k1g8r4k1r2w1~x2/"><circle cx="342.2" cy="27.2" r="4" fill="#3465a4"><title>Stewart, Black ground</title></circle></a><a href="/variants/s12/k96db8k12dp3k3dp3k3g20r8k3r4w4/"><circle cx="359.4" cy="28.9" r="4" fill="#3465a4"><title>Watt (Corporate/Name)</title></circle></a><a href="/variants/s12/k48db4k8y2k3w3k3g12r6k3r3w3~x2/"><circle cx="301.9" cy="49.7" r="4" fill="#3465a4"><title>Stewart Black Clan Tartan</title></circle></a><a href="/variants/s12/k24db2k3dp1k1dp2k1dg5dr2k1dr2w1~x4/"><circle cx="367.6" cy="62.1" r="4" fill="#3465a4"><title>Braveheart Warrior (Universal)</title></circle></a><a href="/variants/s12/k30db3k4dp2k2dp2k2dg10r6k2r3w2~x2/"><circle cx="252.2" cy="79.7" r="4" fill="#3465a4"><title>Braveheart Commemorative Tartan</title></circle></a><circle cx="339.2" cy="62.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

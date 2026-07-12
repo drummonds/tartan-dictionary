@@ -1,6 +1,11 @@
 ---
 title: "Unidentified #53"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified"
+  url: "/tartans/u/un/unidentified-46/"
 ---
 This is the **Unidentified #53** sett — one scale-free proportion (`dr16dg4k3ly1k2lr1k3dg4dr4k1dr4lr1`), colour order pattern
 [BGKYKYKGBKBY](/stripes/bgkykykgbkby/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/y3dy3r1y2r1dy20k5dy4k5dy3r2dy3o7dy2~x2/"><circle cx="302.1" cy="113.3" r="4" fill="#3465a4"><title>Balnagowan (Harrods)</title></circle></a><a href="/variants/s12/k2lr1dr2g6dr2db4dr2k2dr15g2dr2k1~x4/"><circle cx="273.3" cy="119.8" r="4" fill="#3465a4"><title>MacClure Clan/Family Tartan</title></circle></a><a href="/variants/s12/ly4k2dr7k15dr3k3dr3k7dr28g7dr6g2~x2/"><circle cx="277.2" cy="142.6" r="4" fill="#3465a4"><title>Walker, Evening (Name)</title></circle></a><a href="/variants/s12/dr32db2k8lo1k2lb2k2g18dr10k2dr2lb2~x4/"><circle cx="261.9" cy="65.6" r="4" fill="#3465a4"><title>Stewart - Pr Ch Ed - Pendleton</title></circle></a><a href="/variants/s9/dr8dg8k1dg3k1dg1k10dr20w3~x2/"><circle cx="276.9" cy="145.5" r="4" fill="#3465a4"><title>Hunter of Bute (Clan ?)</title></circle></a><a href="/variants/s13/dt10k3g3k8dr9k3dr10dg3dr28g3k3w3k3~x2/"><circle cx="219.0" cy="131.3" r="4" fill="#3465a4"><title>Clifford</title></circle></a><a href="/variants/s9/dr24lb1k3lb1g14dr8k3dp3lb2~x4/"><circle cx="284.7" cy="115.9" r="4" fill="#3465a4"><title>Leach (1995)</title></circle></a><a href="/variants/s13/dt10k3dg3k8dr9k3dr10g3dr28dg3k3w3k3~x2~dg1806142-g2504202/"><circle cx="217.6" cy="130.7" r="4" fill="#3465a4"><title>Clifford (Name)</title></circle></a><a href="/variants/s15/dr6k2dr2k4dr2k2dr6g18dr2lo1dr2k2dr10w1dr2~x4/"><circle cx="246.4" cy="108.5" r="4" fill="#3465a4"><title>Ainslie #2</title></circle></a><a href="/variants/s10/dg18k1dy3k1lr1dg1dr2k2dr2lr2~x4/"><circle cx="323.8" cy="110.8" r="4" fill="#3465a4"><title>Anthony Plaid Stewart</title></circle></a><circle cx="286.0" cy="125.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

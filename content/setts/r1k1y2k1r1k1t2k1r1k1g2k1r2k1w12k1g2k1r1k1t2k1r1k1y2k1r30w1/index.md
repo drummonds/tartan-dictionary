@@ -1,6 +1,11 @@
 ---
 title: "Women's Wear Daily Dress (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Women's Wear Daily Dress"
+  url: "/tartans/w/wo/women-s-wear-daily-dress/"
 ---
 This is the **Women's Wear Daily Dress (Fashion)** sett — one scale-free proportion (`r1k1y2k1r1k1t2k1r1k1g2k1r2k1w12k1g2k1r1k1t2k1r1k1y2k1r30w1`), colour order pattern
 [RKGKRKBKRKGKRKWKGKRKBKRKGKRW](/stripes/rkgkrkbkrkgkrkwkgkrkbkrkgkrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/w2k2w3g4r2k2y2k3b2r32b2k3y2k2r2g4w3k2w2r1~x2/"><circle cx="200.5" cy="14.0" r="4" fill="#3465a4"><title>Hawick (Trade Sett)</title></circle></a><a href="/variants/s20/r60y2w5k2y2k2w5y2k2g12k2w2r5dp5g2dp5r5w2k2g6/"><circle cx="256.1" cy="14.0" r="4" fill="#3465a4"><title>MacBain</title></circle></a><a href="/variants/s19/r57w2k4db2w2db2k2w2k2g10k2w2r4dr4g2dr4r4w2g7~x2/"><circle cx="271.2" cy="14.0" r="4" fill="#3465a4"><title>MacBean Clan Tartan</title></circle></a><a href="/variants/s19/r57w2k4db2w2db2k2w2k2g10k2w2r4o4g2o4r4w2g7~x2/"><circle cx="274.5" cy="14.0" r="4" fill="#3465a4"><title>MacBean (1847)</title></circle></a><a href="/variants/s19/ri60w2lb5k2w2k2lb5w2k2g12k2w2ri5r5g2r5ri5w2g10~x2~ri2008029-r1707016/"><circle cx="260.5" cy="19.7" r="4" fill="#3465a4"><title>MacBain/MacBean</title></circle></a><a href="/variants/s19/ri60w2lb5k2w2k2lb5w2k2g12k2w2ri5r5g2r5ri5w2g10~x2~ri2109032-r1807008/"><circle cx="260.8" cy="19.4" r="4" fill="#3465a4"><title>MacBain Clan Tartan</title></circle></a><a href="/variants/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5dr5g2dr5r5w2g10~x2~r1908029/"><circle cx="257.0" cy="19.8" r="4" fill="#3465a4"><title>MacBain</title></circle></a><a href="/variants/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5dr5g2dr5r5w2g10~r1908029/"><circle cx="257.0" cy="19.8" r="4" fill="#3465a4"><title>MacBain</title></circle></a><a href="/variants/s23/r88w2k4lb8w2k2y2dy3w4dy3y2r6k2w2g32k2y2w2y2k4r6w2k3~x2/"><circle cx="254.9" cy="14.0" r="4" fill="#3465a4"><title>MacLeod of Gesto #2</title></circle></a><a href="/variants/s19/r24k1w1g6w1g1y2r2k1r2y2g1w1lb6k2r3y3g2w1~x2/"><circle cx="224.4" cy="39.4" r="4" fill="#3465a4"><title>MacKintosh (Chief) Clan Tartan</title></circle></a><circle cx="208.3" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

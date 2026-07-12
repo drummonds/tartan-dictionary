@@ -1,6 +1,11 @@
 ---
 title: "Unidentified #46"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unnamed 9"
+  url: "/tartans/u/un/unnamed-9/"
 ---
 This is the **Unidentified #46** sett — one scale-free proportion (`w16g2k5r2k10g11y2g11k2`), colour order pattern
 [KGGGKRKGW](/stripes/kgggkrkgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k20w4r4w20dg20w5dg2g2~x2~dg1705151-g2307139/"><circle cx="112.8" cy="164.7" r="4" fill="#3465a4"><title>Hackett, William (Coatbridge) (Personal)</title></circle></a><a href="/variants/s12/k4g4k2g12k6w3k6n2w4n2w15r3~x2/"><circle cx="71.1" cy="167.1" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/variants/s12/k4g4k2g14k6w3k6n2w4n2w15r3~x2/"><circle cx="70.5" cy="164.7" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/variants/s7/k22g21k5g12lb12n3w4~x2/"><circle cx="115.8" cy="202.7" r="4" fill="#3465a4"><title>Disciples of Christ Motorcycle Ministry (Switzerland)</title></circle></a><a href="/variants/s7/w4k2w18k11db2g18ly2~x2/"><circle cx="121.3" cy="178.2" r="4" fill="#3465a4"><title>Barbour - Ancient</title></circle></a><a href="/variants/s11/w6y2w2y3w11g11t2k12t3k6w2~x2/"><circle cx="61.3" cy="186.2" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/variants/s10/w7r1w14k6y2k6g14r2g10y1~x2~w3600000-r2209032/"><circle cx="119.5" cy="155.5" r="4" fill="#3465a4"><title>Spanish shirt</title></circle></a><a href="/variants/s11/w6y2w2y3w11g11db2k12db3k6w2~x2/"><circle cx="61.3" cy="185.2" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/variants/s10/g18ly2k14lb5k4lb5k14ly2g18r5~x2~ly3307090/"><circle cx="130.1" cy="178.7" r="4" fill="#3465a4"><title>Norwich No.079</title></circle></a><a href="/variants/s7/y6k6g30k8lb18k6y3~x2/"><circle cx="142.3" cy="191.3" r="4" fill="#3465a4"><title>Cape Breton (yellow stripes) (Dist)</title></circle></a><circle cx="99.3" cy="176.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

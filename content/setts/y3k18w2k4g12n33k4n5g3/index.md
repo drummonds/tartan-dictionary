@@ -1,6 +1,11 @@
 ---
 title: "Smoke Showing (UFES)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Smoke Showing"
+  url: "/tartans/s/sm/smoke-showing/"
 ---
 This is the **Smoke Showing (UFES)** sett — one scale-free proportion (`y3k18w2k4g12n33k4n5g3`), colour order pattern
 [GBKBGKWKG](/stripes/gbkbgkwkg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db6k3r2k3dg31k6dg2k6lo13k2dg2~x2/"><circle cx="193.8" cy="110.6" r="4" fill="#3465a4"><title>Rourke-Frew Hunting</title></circle></a><a href="/variants/s8/g45w2r3k15r3db15r3db15~x2/"><circle cx="203.3" cy="123.9" r="4" fill="#3465a4"><title>MacNeil 3</title></circle></a><a href="/variants/s10/dy12n2k2n42k13g25n6k2r4k10~x2/"><circle cx="195.1" cy="123.3" r="4" fill="#3465a4"><title>Dinwoodie (Name)</title></circle></a><a href="/variants/s9/r4db11k3db3k3db4k15g36w3~x2/"><circle cx="174.6" cy="138.2" r="4" fill="#3465a4"><title>Semple Family Tartan</title></circle></a><a href="/variants/s9/r2g10k12n1k2n14k1n1g2~x2/"><circle cx="150.0" cy="142.6" r="4" fill="#3465a4"><title>MacWilliams Wedding Personal Tartan</title></circle></a><a href="/variants/s10/dp4lb2dp2lb8k3dp8dg3dp4dg24g2~x2~dg1806142-g2408144/"><circle cx="206.1" cy="146.4" r="4" fill="#3465a4"><title>Jones Htg (Name)</title></circle></a><a href="/variants/s10/g16k1lb2k1g3k5db12k1y1k3~x4/"><circle cx="178.1" cy="126.7" r="4" fill="#3465a4"><title>Hope-Vere (Lochcarron)</title></circle></a><a href="/variants/s10/g1k1g14k2r3db3k6w1k1w1~x4/"><circle cx="175.4" cy="119.7" r="4" fill="#3465a4"><title>Murray-Hetherington (Personal)</title></circle></a><a href="/variants/s10/k6r2k2r2k6db7g20y2g3r2~x2/"><circle cx="156.6" cy="144.3" r="4" fill="#3465a4"><title>Connolly Hunting</title></circle></a><a href="/variants/s10/k6r2k2r2k6db7g20ly2g3r2~x2/"><circle cx="152.9" cy="143.3" r="4" fill="#3465a4"><title>Connolly Hunting (Name)</title></circle></a><circle cx="201.8" cy="131.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

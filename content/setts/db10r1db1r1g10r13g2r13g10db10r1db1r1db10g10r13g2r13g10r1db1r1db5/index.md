@@ -1,6 +1,15 @@
 ---
 title: "Fraser"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Fraser"
+  url: "/clan/fraser/"
+- name: "Fraser"
+  url: "/families/fraser/"
+- name: "Fraser"
+  url: "/tartans/f/fr/fraser-4/"
 ---
 This is the **Fraser** sett — one scale-free proportion (`db10r1db1r1g10r13g2r13g10db10r1db1r1db10g10r13g2r13g10r1db1r1db5`), colour order pattern
 [BRBRGRGRGBRBRBGRGRGRBRB](/stripes/brbrgrgrgbrbrbgrgrgrbrb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db10r1db1r1g10r13g2r13g10db10r1db1~x2/"><circle cx="241.2" cy="166.4" r="4" fill="#3465a4"><title>Inverness Fencibles</title></circle></a><a href="/variants/s21/g8r4g1r1g1r14db8g4r1g1r1g4r8g1r1g1r1db8g8r2g4~x4/"><circle cx="248.8" cy="160.5" r="4" fill="#3465a4"><title>Matheson (Clan)</title></circle></a><a href="/variants/s20/db18r2db18r18g2r4g2r18g18r2g18r2g18r18db1r1db2r1db1r18~x2/"><circle cx="273.4" cy="151.9" r="4" fill="#3465a4"><title>Ross</title></circle></a><a href="/variants/s27/g8r1g8r8db1r1db2r1db1r8db1r1db2r1db1r8db8r1db8r8g1r2g1r8g8r1g8~x2/"><circle cx="236.8" cy="173.3" r="4" fill="#3465a4"><title>Ross</title></circle></a><a href="/variants/s27/g18r2g18r18g2r4g2r18db18r2db18r18db1r1db2r1db1r18db1r1db2r1db1r18g18r2g18~x2/"><circle cx="275.8" cy="134.2" r="4" fill="#3465a4"><title>Ross Clan Tartan</title></circle></a><a href="/variants/s27/g18r2g18r18g2r4g2r18db18r2db18r18db1r1db2r1db1r18db1r1db2r1db1r18g18r2g18/"><circle cx="275.8" cy="134.2" r="4" fill="#3465a4"><title>Ross</title></circle></a><a href="/variants/s27/g18r2g18r18g2r4g2r18db18r2db18r18db1r1db2r1db1r18db1r1g2r1db1r18g18r2g18~x2/"><circle cx="277.2" cy="134.5" r="4" fill="#3465a4"><title>Ross (Clan)</title></circle></a><a href="/variants/s29/db3r15g2r2g12w2db12r2db4r2db12w2r8db2r2db2r2db2r8db2r2db2r2db2r8g10db1g2r2~x2/"><circle cx="213.9" cy="125.2" r="4" fill="#3465a4"><title>Summerville Presbyterian Church (Cor</title></circle></a><a href="/variants/s25/r14db1r1db2r1db1r10g10r2g10r2g10r10g2r6g2r10db10r2db10r2db10r10g2r6~x2/"><circle cx="274.0" cy="161.4" r="4" fill="#3465a4"><title>Ross #8</title></circle></a><a href="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g18~x2/"><circle cx="296.0" cy="152.0" r="4" fill="#3465a4"><title>Ross #5</title></circle></a><circle cx="231.3" cy="165.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

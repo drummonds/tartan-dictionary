@@ -1,6 +1,13 @@
 ---
 title: "Skye Dress Blue, Earl of (Dance)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Skye"
+  url: "/clan/skye/"
+- name: "Skye Dress Blue, Earl of"
+  url: "/tartans/s/sk/skye-dress-blue-earl-of/"
 ---
 This is the **Skye Dress Blue, Earl of (Dance)** sett — one scale-free proportion (`dr4w5db2w22dr14db4t2w4t2db3w3db4t2n4t2db4`), colour order pattern
 [BBBBBWBBWBBBWBWBWBWBBBWBBWBBBB](/stripes/bbbbbwbbwbbbwbwbwbwbbbwbbwbbbb/). It is recorded as a single **variant**, below.

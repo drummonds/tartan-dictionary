@@ -1,6 +1,13 @@
 ---
 title: "Borthwick D"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Borthwick"
+  url: "/clan/borthwick/"
+- name: "Borthwick D"
+  url: "/tartans/b/bo/borthwick-d/"
 ---
 This is the **Borthwick D** sett — one scale-free proportion (`g12k1r10k2n10k14n10k2r4`), colour order pattern
 [GKRKBKBKR](/stripes/gkrkbkbkr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g17k1r16k2n14k19n14k2r6/"><circle cx="129.5" cy="167.6" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/variants/s9/g17k1r16k2n14k19n14k2r6~x2/"><circle cx="129.5" cy="167.6" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/variants/s9/g12k2r12k3n12k16n12k3r6~x2/"><circle cx="93.1" cy="210.7" r="4" fill="#3465a4"><title>Borthwick Hunting</title></circle></a><a href="/variants/s9/g17k1dr16k2n14k19n14k2dr6~x2/"><circle cx="149.0" cy="178.6" r="4" fill="#3465a4"><title>Borthwick (Clan)</title></circle></a><a href="/variants/s9/g7k1dr8k2w7k10w7k2w4~x4/"><circle cx="102.2" cy="200.7" r="4" fill="#3465a4"><title>Borthwick Dress (Clan)</title></circle></a><a href="/variants/s9/g12k2r12k3w7k16w7k3w6~x2/"><circle cx="84.1" cy="198.8" r="4" fill="#3465a4"><title>Borthwick Dress</title></circle></a><a href="/variants/s9/g12k1r10k2y10k14y10k2r4~x2/"><circle cx="113.2" cy="181.0" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/variants/s8/db6k3r14k3g14k3db6y1~x4~db1406275/"><circle cx="101.0" cy="163.0" r="4" fill="#3465a4"><title>Kilgour (Asymmetrical)</title></circle></a><a href="/variants/s8/db6y1db6k3r14k3g14k3~x4/"><circle cx="98.0" cy="162.7" r="4" fill="#3465a4"><title>Kilgour (Cant)</title></circle></a><a href="/variants/s8/db6k3r14k3g14k3db6y1~x4/"><circle cx="98.0" cy="162.7" r="4" fill="#3465a4"><title>Kilgour (Clan)</title></circle></a><circle cx="116.0" cy="181.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

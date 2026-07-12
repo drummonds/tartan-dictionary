@@ -1,6 +1,11 @@
 ---
 title: "Wilson's No.230"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Wilson's No.230"
+  url: "/tartans/w/wi/wilson-s-no-230/"
 ---
 This is the **Wilson's No.230** sett — one scale-free proportion (`r4k2db16k17dg16k2y4`), colour order pattern
 [KBKGKGKGKBKR](/stripes/kbkgkgkgkbkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db4lo3db24k18dg24t3dg4lo3dg24k18db24t3~x2~db1204274-t2503227/"><circle cx="154.6" cy="187.6" r="4" fill="#3465a4"><title>Scottish Women's Rural Institutes, The</title></circle></a><a href="/variants/s13/db12k2r2k2r2k12dg11y2dg11k12db11k2r2~x2/"><circle cx="130.4" cy="186.7" r="4" fill="#3465a4"><title>Black Watch Plaid of Pipers</title></circle></a><a href="/variants/s12/dg16k16db4dg3db12lo2db12dg3db4k16dg16dr4~x2/"><circle cx="165.2" cy="202.6" r="4" fill="#3465a4"><title>Junior Chamber International</title></circle></a><a href="/variants/s14/db16k4db4k4db6k14dg17k2r3k2dg17k14db18w4~x2/"><circle cx="132.2" cy="172.0" r="4" fill="#3465a4"><title>Humphries (Personal)</title></circle></a><a href="/variants/s12/dg10k9db11lb1db3lo1db10k9dg11lb1dg3lo1~x4/"><circle cx="156.6" cy="176.1" r="4" fill="#3465a4"><title>Scottish Womens Rural Institute (Cor</title></circle></a><a href="/variants/s15/db17k3db3k3db3k17dg17k2w3k2dg17k17db17k2r3~x2/"><circle cx="150.4" cy="160.7" r="4" fill="#3465a4"><title>Cumbernauld District Tartan</title></circle></a><a href="/variants/s12/db3dr2db13k9dy3k2dy14k2dy3k9db15w3~x2/"><circle cx="157.9" cy="180.2" r="4" fill="#3465a4"><title>McWilliams Dress (2014)</title></circle></a><a href="/variants/s16/dg17k2dg2k2dg2k15db15r7db15k15dg2k2dg2k2dg17lo2~x2/"><circle cx="151.8" cy="158.3" r="4" fill="#3465a4"><title>Thormanby Buccaneer Bay</title></circle></a><a href="/variants/s15/dg2k1db9k9dg9k1w1k2w1k1dg9k9db9k1r2~x4/"><circle cx="143.4" cy="154.4" r="4" fill="#3465a4"><title>Stephenson Htg (Name)</title></circle></a><a href="/variants/s15/db11k3db3k3db3k9dg9k1dy3k1dg9k9db9k1w3~x2/"><circle cx="135.5" cy="165.7" r="4" fill="#3465a4"><title>Glengoyne Distillery Corporate Tartan</title></circle></a><circle cx="156.0" cy="182.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

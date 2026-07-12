@@ -1,6 +1,13 @@
 ---
 title: "North West Territories"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan North"
+  url: "/clan/north/"
+- name: "North West Territories"
+  url: "/tartans/n/no/north-west-territories/"
 ---
 This is the **North West Territories** sett — one scale-free proportion (`lo4g2lo2g2lo2g24k2r16w9db3`), colour order pattern
 [BWRKGYGYGY](/stripes/bwrkgygygy/). It is recorded as **2 variants** — the same
@@ -23,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lo4g2lo2g2lo2g24k2r16w9db3~x2~w3600000/"><circle cx="159.5" cy="125.8" r="4" fill="#3465a4"><title>North West Territories</title></circle></a><a href="/variants/s10/y4g2y2g2y2g24k2r16w9db3~x2/"><circle cx="158.5" cy="126.6" r="4" fill="#3465a4"><title>North West Territories Canadian District Tartan</title></circle></a><a href="/variants/s11/lb4r3y2r9lb3g24lb3r9k3r3w2~x2/"><circle cx="153.5" cy="125.4" r="4" fill="#3465a4"><title>Wilson's, No 128</title></circle></a><a href="/variants/s11/g2k1g9ly3lb1k3lb1r3ly9lo1ly2~x4/"><circle cx="119.3" cy="148.0" r="4" fill="#3465a4"><title>Asman, Day Tan (Name)</title></circle></a><a href="/variants/s9/w3lb25dr3r3dr3r8g21dr3k2~x2/"><circle cx="134.8" cy="135.4" r="4" fill="#3465a4"><title>Dunedin (USA) (District)</title></circle></a><a href="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x4/"><circle cx="143.2" cy="96.7" r="4" fill="#3465a4"><title>Baxter (Clan)</title></circle></a><a href="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x2/"><circle cx="143.2" cy="96.7" r="4" fill="#3465a4"><title>Baxter of Balgavies</title></circle></a><a href="/variants/s8/k3g3dy28ly3dy3ly28db3lyi2~x2~dy1603076-lyi3307090/"><circle cx="204.3" cy="122.3" r="4" fill="#3465a4"><title>California Highway Patrol (Corporate</title></circle></a><a href="/variants/s11/w4lb5lo3lb22dy4k3g16lo7k2lo7dy2~x2/"><circle cx="104.9" cy="142.2" r="4" fill="#3465a4"><title>Cossar (Personal)</title></circle></a><a href="/variants/s9/k3r3g21r8ri3r3k3lb25w3~x2~r2109032-ri2806019/"><circle cx="104.2" cy="144.6" r="4" fill="#3465a4"><title>Dunedin (USA)</title></circle></a><circle cx="152.7" cy="123.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

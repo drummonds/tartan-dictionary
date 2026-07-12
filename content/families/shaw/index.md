@@ -1,6 +1,11 @@
 ---
 title: "Shaw"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Shaw"
+  url: "/clan/shaw/"
 ---
 A family of [Clan Shaw](/clan/shaw/).
 

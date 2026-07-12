@@ -1,6 +1,15 @@
 ---
 title: "Poulter Green Corporate Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Poulter"
+  url: "/clan/poulter/"
+- name: "Poulter"
+  url: "/families/poulter/"
+- name: "Poulter"
+  url: "/tartans/p/po/poulter-4/"
 ---
 This is the **Poulter Green Corporate Tartan** sett — one scale-free proportion (`lr25k4lr4k4lr4k23g23y4g23k23lr23k4lr4`), colour order pattern
 [YKYKGGGKYKYKY](/stripes/ykykgggkykyky/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/lb7k1lb1k1lb1y4k6w1k6y4lb5k1lb1~x4/"><circle cx="126.0" cy="178.2" r="4" fill="#3465a4"><title>Kernbrownek (Personal)</title></circle></a><a href="/variants/s13/n25k8n8k8n8k46w46r8w46k46n46k8n8/"><circle cx="107.6" cy="186.0" r="4" fill="#3465a4"><title>Poulter SG 103 (Fashion)</title></circle></a><a href="/variants/s13/o25k4o4k4o4k23g23y4g23k23o23k4o4~x2/"><circle cx="119.3" cy="187.0" r="4" fill="#3465a4"><title>Poulter, Green (Corporate)</title></circle></a><a href="/variants/s12/k18lo2k2lo3k2lo2k18lo12y18dy3y18lo9~x2/"><circle cx="140.5" cy="171.5" r="4" fill="#3465a4"><title>Kinloch Anderson Check Fashion Tartan</title></circle></a><a href="/variants/s13/g18r18k3r3db3r3db4r3k9r4g18w6k3~x2/"><circle cx="100.5" cy="164.7" r="4" fill="#3465a4"><title>Maguire</title></circle></a><a href="/variants/s15/k19n6k3n15w3n12w9n3w20n3w20k19r4k5w3~x2/"><circle cx="101.6" cy="174.3" r="4" fill="#3465a4"><title>Black and White</title></circle></a><a href="/variants/s13/lg12k2r2k2r2k12dg11y2dg11k12lg11k2r2~x2~lg3101240-k0700000/"><circle cx="97.6" cy="178.1" r="4" fill="#3465a4"><title>92nd Regiment Drummers' Plaid (Mil.)</title></circle></a><a href="/variants/s10/r3k6r3k6g6k1w1k1g6r1~x2/"><circle cx="127.6" cy="201.2" r="4" fill="#3465a4"><title>MacDiarmid #3</title></circle></a><a href="/variants/s13/ly18k3ly3k3ly3k13dg16k4dg16k13ly16k3ly3~x2/"><circle cx="128.5" cy="203.2" r="4" fill="#3465a4"><title>Campbell Collegiate (Corporate)</title></circle></a><a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1~x2/"><circle cx="133.0" cy="158.4" r="4" fill="#3465a4"><title>Cumming (d)</title></circle></a><circle cx="107.5" cy="183.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

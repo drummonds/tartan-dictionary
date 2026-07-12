@@ -1,6 +1,13 @@
 ---
 title: "Melrose Newbigging Grey (Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Melrose"
+  url: "/clan/melrose/"
+- name: "Melrose Newbigging"
+  url: "/tartans/m/me/melrose-newbigging/"
 ---
 This is the **Melrose Newbigging Grey (Name)** sett — one scale-free proportion (`n1k6n35k6n2dp3n1k6n2w1`), colour order pattern
 [BKBKBBBKBW](/stripes/bkbkbbbkbw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/n5k1n33dp1n9k9dp5k1dr2k4~x2/"><circle cx="405.6" cy="100.6" r="4" fill="#3465a4"><title>Lochnagar Dress (Fashion)</title></circle></a><a href="/variants/s11/dr6k3n4k10n5lb2k2n31w1n2w2~x2/"><circle cx="325.2" cy="79.2" r="4" fill="#3465a4"><title>William Glen and Son</title></circle></a><a href="/variants/s11/dr6k3do4k10do5o3k2do31w1do2w2~x2~do1400000-o2500000/"><circle cx="333.7" cy="83.8" r="4" fill="#3465a4"><title>Glen and Son, William (Corporate)</title></circle></a><a href="/variants/s8/dr2n2k2n28k8n9k1ly2~x2/"><circle cx="430.3" cy="114.4" r="4" fill="#3465a4"><title>Highland Autumn (Fashion)</title></circle></a><a href="/variants/s11/n45k10y2k2w2k2r10n5k1n5w1~x2/"><circle cx="367.9" cy="50.9" r="4" fill="#3465a4"><title>Cavalier Green.. Trade Tartan</title></circle></a><a href="/variants/s9/r1k1n30k6n1k6dy8k1r1~x2/"><circle cx="333.5" cy="97.9" r="4" fill="#3465a4"><title>Klappert Original (Odsherred, Denmark) (Personal)</title></circle></a><a href="/variants/s16/n38k5g5k5n5w2n12k10dy5k5dy10k9n76k9g2k5~x2/"><circle cx="357.0" cy="53.6" r="4" fill="#3465a4"><title>Guildford Town Centre (British Columbia)</title></circle></a><a href="/variants/s10/k3n6k8lb2k8n3k5n36k2n3~x2/"><circle cx="370.3" cy="132.0" r="4" fill="#3465a4"><title>City Building (Glasgow) LLP (Corp)</title></circle></a><a href="/variants/s10/k3n6k8lb2k8n3k5n36k2n3~x2~n1900000/"><circle cx="374.8" cy="133.2" r="4" fill="#3465a4"><title>City Building (Glasgow) LLP</title></circle></a><a href="/variants/s11/dg42k10r2k2w2k2dg10w6k2w3dg2~x2/"><circle cx="335.8" cy="92.7" r="4" fill="#3465a4"><title>Laggen Dress</title></circle></a><circle cx="392.7" cy="81.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

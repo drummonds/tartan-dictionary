@@ -1,6 +1,15 @@
 ---
 title: "MacKinnon Black (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacKinnon"
+  url: "/clan/mackinnon/"
+- name: "MacKinnon"
+  url: "/families/mackinnon/"
+- name: "MacKinnon"
+  url: "/tartans/m/ma/mackinnon/"
 ---
 This is the **MacKinnon Black (Personal)** sett — one scale-free proportion (`dp3r4k5r12k24r3k10r26k12dp3r6w3`), colour order pattern
 [BRKRKRKRKBRW](/stripes/brkrkrkrkbrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r2y1k2r13k2r2k2r2k12r2y1g2~x2/"><circle cx="241.3" cy="118.2" r="4" fill="#3465a4"><title>Hallingdal District Tartan</title></circle></a><a href="/variants/s12/r2dy1k2r13k2r2k2r2k12r2dy1g2~x2/"><circle cx="233.7" cy="94.8" r="4" fill="#3465a4"><title>Hallingdal</title></circle></a><a href="/variants/s9/k4r4k19r9k9r19k2r2w2~x2/"><circle cx="253.3" cy="173.5" r="4" fill="#3465a4"><title>Pink MacLeod (Personal)</title></circle></a><a href="/variants/s9/k4m4k19m9k9m19k2m2w3~x2/"><circle cx="245.2" cy="174.9" r="4" fill="#3465a4"><title>McLeod-Bain (Personal)</title></circle></a><a href="/variants/s12/y4k2r7k15r3k3r3k7r28dg7r6dg2/"><circle cx="252.9" cy="124.8" r="4" fill="#3465a4"><title>Walker</title></circle></a><a href="/variants/s8/b1r1k2r7k7r1k2w1~x6/"><circle cx="217.2" cy="170.7" r="4" fill="#3465a4"><title>Nakayama (Fashion)</title></circle></a><a href="/variants/s8/db1r1k2r7k7r1k2w1~x6/"><circle cx="218.1" cy="170.8" r="4" fill="#3465a4"><title>Nakayama (Personal)</title></circle></a><a href="/variants/s11/r2k20r5k4dg4k4r5k2r14k2y2~x2/"><circle cx="231.2" cy="144.0" r="4" fill="#3465a4"><title>Canterbury (Fashion)</title></circle></a><a href="/variants/s9/r24db8r23k4w4k4r10k32r8/"><circle cx="235.7" cy="171.5" r="4" fill="#3465a4"><title>Cameron of Locheil #3</title></circle></a><a href="/variants/s9/w2r12k3r3k16r3k3r12ly2~x2/"><circle cx="235.0" cy="165.1" r="4" fill="#3465a4"><title>MacIver (Clan)</title></circle></a><circle cx="205.1" cy="153.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

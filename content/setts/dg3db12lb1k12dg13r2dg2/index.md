@@ -1,6 +1,11 @@
 ---
 title: "MacPhedran/MacFadzean"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "MacPhedran/MacFadzean"
+  url: "/tartans/m/ma/macphedran-macfadzean/"
 ---
 This is the **MacPhedran/MacFadzean** sett — one scale-free proportion (`dg3db12lb1k12dg13r2dg2`), colour order pattern
 [GBWKGRG](/stripes/gbwkgrg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k30db20k10db5w2db10dg20r2dg10/"><circle cx="184.5" cy="172.9" r="4" fill="#3465a4"><title>Cailleach</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17dg18o4~x2/"><circle cx="171.7" cy="172.5" r="4" fill="#3465a4"><title>Scotch House 2000, original</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17dy18g4~x2/"><circle cx="172.3" cy="172.0" r="4" fill="#3465a4"><title>Scotch House 2000 Antique</title></circle></a><a href="/variants/s9/o3db24k16dt3g2dt2g2dt28lb3~x2/"><circle cx="199.6" cy="141.4" r="4" fill="#3465a4"><title>Thistle of Scotland</title></circle></a><a href="/variants/s8/db44k3ly20dr3db8k34db5k15~x2~k0700000-ly2705081/"><circle cx="240.8" cy="169.4" r="4" fill="#3465a4"><title>U.S. Air Force Reserve P. B. (Corpor</title></circle></a><a href="/variants/s8/dg24k5dg6r6dg6k20t20w2~x2/"><circle cx="152.4" cy="176.7" r="4" fill="#3465a4"><title>Dunfermline Bank of Scotland (Corp)</title></circle></a><a href="/variants/s6/dg2db12dg1k12dg12r2~x2/"><circle cx="220.0" cy="214.0" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/variants/s8/dg18db2dg5r2dg5k21ki20k5~x2~db1605267-ki0503265/"><circle cx="214.7" cy="195.4" r="4" fill="#3465a4"><title>MacRae, Special Hunting</title></circle></a><a href="/variants/s7/dr4dg16k16db4dg3db12lo2~x2/"><circle cx="158.2" cy="213.3" r="4" fill="#3465a4"><title>Junior Chamber International (Corp)</title></circle></a><a href="/variants/s7/db12k4g4r1g4k1y1~x4/"><circle cx="194.1" cy="165.5" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><circle cx="203.3" cy="183.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

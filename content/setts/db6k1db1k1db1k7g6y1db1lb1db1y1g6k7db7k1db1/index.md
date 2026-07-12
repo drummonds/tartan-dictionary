@@ -1,6 +1,15 @@
 ---
 title: "Polaris Corporate Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Polaris"
+  url: "/clan/polaris/"
+- name: "Polaris"
+  url: "/families/polaris/"
+- name: "Polaris"
+  url: "/tartans/p/po/polaris-2/"
 ---
 This is the **Polaris Corporate Tartan** sett — one scale-free proportion (`db6k1db1k1db1k7g6y1db1lb1db1y1g6k7db7k1db1`), colour order pattern
 [BKBKBKGGBWBGGKBKB](/stripes/bkbkbkggbwbggkbkb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db17k3db3k3db3k17g17k2w2k2g17k17db17k2dr3~x2/"><circle cx="122.8" cy="152.8" r="4" fill="#3465a4"><title>Cumbernauld</title></circle></a><a href="/variants/s14/g1k1g8k8db8r1db8k8g1k1g1k1g3w1~x2/"><circle cx="124.1" cy="152.0" r="4" fill="#3465a4"><title>Urquhart (Brydone)</title></circle></a><a href="/variants/s15/db28k4db4k4db4k28g26k3y5k3g26k28db26k3r5/"><circle cx="125.9" cy="147.0" r="4" fill="#3465a4"><title>Baillie Clan Tartan</title></circle></a><a href="/variants/s15/db28k4db4k4db4k28g27k3ly5k3g27k28db27k3r5~x2~db1406275/"><circle cx="120.3" cy="144.8" r="4" fill="#3465a4"><title>Baillie (William Wilson)</title></circle></a><a href="/variants/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5~x2/"><circle cx="107.9" cy="149.2" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/variants/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5/"><circle cx="107.9" cy="149.2" r="4" fill="#3465a4"><title>Stephenson Hunting Tartan</title></circle></a><a href="/variants/s14/r2k1db8k8g8y2g8k8db1k1db1k1db4r1~x4/"><circle cx="101.5" cy="157.2" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/variants/s15/db13w2db2r2db2k12g12k2g3k2g12k12db12k2r3~x2/"><circle cx="82.8" cy="166.4" r="4" fill="#3465a4"><title>Scottish National District Tartan</title></circle></a><a href="/variants/s15/db12k2db2k2db2k12g12r2w2r2g12k12db12r3db2~x2/"><circle cx="83.0" cy="169.0" r="4" fill="#3465a4"><title>MacKenzie Morgan</title></circle></a><a href="/variants/s14/db9k1db1k1db1k8g8y1k1y1g8k8db8w1~x2/"><circle cx="113.4" cy="153.1" r="4" fill="#3465a4"><title>Dyce Clan Tartan</title></circle></a><circle cx="119.6" cy="152.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

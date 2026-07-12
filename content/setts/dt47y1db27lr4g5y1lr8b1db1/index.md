@@ -1,6 +1,11 @@
 ---
 title: "Brighton Mac Dermotte"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Brighton Mac Dermotte"
+  url: "/tartans/b/br/brighton-mac-dermotte/"
 ---
 This is the **Brighton Mac Dermotte** sett — one scale-free proportion (`dt47y1db27lr4g5y1lr8b1db1`), colour order pattern
 [BBYGGYBGB](/stripes/bbyggybgb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db60t5db4dr6db4t5dy22g5t23db1ly4~x2/"><circle cx="347.1" cy="102.5" r="4" fill="#3465a4"><title>State Seal of New York (Fashion)</title></circle></a><a href="/variants/s8/db23w1r3w1db12y9g40dp3~x2/"><circle cx="278.3" cy="120.8" r="4" fill="#3465a4"><title>Pictou County</title></circle></a><a href="/variants/s9/db60ly3db5lyi5db9do20ly4g32w4~x2~ly2503076-lyi2705081/"><circle cx="300.8" cy="146.3" r="4" fill="#3465a4"><title>State Seal of Ohio (Fashion)</title></circle></a><a href="/variants/s10/w5n38y3db11y1db11y3n4w5lo1~x2~n1700000-y2400000/"><circle cx="336.4" cy="119.1" r="4" fill="#3465a4"><title>Ballarat</title></circle></a><a href="/variants/s12/dy6w2n4lb1dbi6lb1db40lb1dbi6lb1n4w4~x2~dbi1406275-db1204274/"><circle cx="341.8" cy="85.8" r="4" fill="#3465a4"><title>Moskyok-Collins (Portland) (Personal</title></circle></a><a href="/variants/s11/y2dg4db1dr3db3dg3g1dr32db14w3y2~x2/"><circle cx="347.4" cy="103.6" r="4" fill="#3465a4"><title>Banause-Zunft zu Olte</title></circle></a><a href="/variants/s7/db50g25ly3lb8r1w1r1~x2/"><circle cx="333.7" cy="88.8" r="4" fill="#3465a4"><title>Wells (2014)</title></circle></a><a href="/variants/s10/dp4g6db4g28w4g6db6dbi46db1w4~x2~db1404245-dbi1406275/"><circle cx="300.9" cy="118.7" r="4" fill="#3465a4"><title>State Seal of Connecticut (Fashion)</title></circle></a><a href="/variants/s8/g80db16dp8dpi10g8ly1db6n1~x2~dp1105325-dpi1607327/"><circle cx="344.5" cy="76.8" r="4" fill="#3465a4"><title>Heather Isle</title></circle></a><a href="/variants/s7/db50g25y3n8r1w1r1~x2/"><circle cx="362.9" cy="98.2" r="4" fill="#3465a4"><title>Wells (2014)</title></circle></a><circle cx="334.1" cy="95.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

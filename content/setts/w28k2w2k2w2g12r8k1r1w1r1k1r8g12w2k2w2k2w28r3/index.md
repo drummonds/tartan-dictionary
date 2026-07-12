@@ -1,6 +1,11 @@
 ---
 title: "Stewart/Stuart Royal (VS)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Stewart/Stuart Royal"
+  url: "/tartans/s/st/stewart-stuart-royal/"
 ---
 This is the **Stewart/Stuart Royal (VS)** sett — one scale-free proportion (`w28k2w2k2w2g12r8k1r1w1r1k1r8g12w2k2w2k2w28r3`), colour order pattern
 [RWKWKWGRKRWRKRGWKWKW](/stripes/rwkwkwgrkrwrkrgwkwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r3w28k2w2k2w2g12r8k1r1w1~x2/"><circle cx="262.1" cy="88.1" r="4" fill="#3465a4"><title>Royal Stuart Royal Family Tartan</title></circle></a><a href="/variants/s22/w21dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1o20k2~x2/"><circle cx="247.9" cy="48.6" r="4" fill="#3465a4"><title>Braveheart</title></circle></a><a href="/variants/s17/w34t5w3k1y2r2y2r2y2r2y2r2y2k1w3r4y8~x2/"><circle cx="264.9" cy="44.2" r="4" fill="#3465a4"><title>Espana</title></circle></a><a href="/variants/s12/y2w2k3y1r8w6y8r2w1r1w22k1~x2/"><circle cx="261.6" cy="103.2" r="4" fill="#3465a4"><title>Turblin, Jean Pierre (Personal)</title></circle></a><a href="/variants/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/"><circle cx="285.8" cy="52.5" r="4" fill="#3465a4"><title>Snowy Owl</title></circle></a><a href="/variants/s11/dg4r2k1w30r10dg14r4dg5w2dg5r4~x2/"><circle cx="193.5" cy="80.3" r="4" fill="#3465a4"><title>Scott Dress</title></circle></a><a href="/variants/s17/k4lb2w15r6y12r6w25lb2k4lb2w15lb4k2lb4k2lb4k1~x2/"><circle cx="183.6" cy="85.6" r="4" fill="#3465a4"><title>Beck Dress (Personal)</title></circle></a><a href="/variants/s14/r6w56db9w8k16w4k3w4k3w36r36k3r12w3~x2/"><circle cx="251.2" cy="103.1" r="4" fill="#3465a4"><title>Duke of Rothesay (Royal)</title></circle></a><a href="/variants/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/"><circle cx="246.4" cy="72.1" r="4" fill="#3465a4"><title>Rothesay, Duke of</title></circle></a><a href="/variants/s14/w40o1w6o3ly1o7ly3n1ly8n3k1n9k2w8~x2~o2500000-n1900000/"><circle cx="306.5" cy="61.8" r="4" fill="#3465a4"><title>Snowy Owl (Fashion)</title></circle></a><circle cx="250.6" cy="66.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

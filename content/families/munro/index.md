@@ -1,6 +1,11 @@
 ---
 title: "Munro"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Munro"
+  url: "/clan/munro/"
 ---
 A family of [Clan Munro](/clan/munro/).
 

@@ -1,6 +1,11 @@
 ---
 title: "JCM Customs"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "JCM Customs"
+  url: "/tartans/j/jc/jcm-customs/"
 ---
 This is the **JCM Customs** sett — one scale-free proportion (`k3w1lb1r5lb1w1k1db1r1k1w1lb1k1db4k1lb1w4k40r3`), colour order pattern
 [KWWRWWKBRKWWKBKWWKR](/stripes/kwwrwwkbrkwwkbkwwkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s19/k3w1lb1r5lb1w1k1db1r1k1lb1w1k1db4k1lb1w4k40r3~x2/"><circle cx="333.6" cy="14.0" r="4" fill="#3465a4"><title>J.C.M. Customs</title></circle></a><a href="/variants/s22/db5w1db5w1db5w1db5w1db5w1lo5b1y5b1lo5y1k36w1b3w1k72w1~x2~db1404245-b1511266/"><circle cx="341.1" cy="14.0" r="4" fill="#3465a4"><title>Khalsa</title></circle></a><a href="/variants/s21/dp3ly1k4dp1k4dp1k41dp1k4dp1k4dr15ly1dr3ly2dr3ly3dr1ly6k1w2~x2/"><circle cx="289.5" cy="16.7" r="4" fill="#3465a4"><title>New Star (Fashion)</title></circle></a><a href="/variants/s12/k86n6k4w3k3r3k3n22o14k3o6w4/"><circle cx="319.4" cy="47.9" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/variants/s12/k86n6k4w3k3r3k3n22ly14k3ly6w4/"><circle cx="309.4" cy="46.4" r="4" fill="#3465a4"><title>Langtree Trade Tartan</title></circle></a><a href="/variants/s12/k86n6k4lb3k3dr3k3n22o14k3o6lb4/"><circle cx="327.4" cy="50.9" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/variants/s12/k96db8k12dp3k3dp3k3g20r8k3r4w4~db1406275-dp1607327/"><circle cx="266.1" cy="14.0" r="4" fill="#3465a4"><title>Watt</title></circle></a><a href="/variants/s21/dr3ly1k4dr1k4dr1k41dr1k4dr1k4o15ly1o3ly2o3ly3o1ly6k1w2~x2/"><circle cx="276.0" cy="14.0" r="4" fill="#3465a4"><title>New Star</title></circle></a><a href="/variants/s14/k3y3k3y3k3y3k3y3k36w1k2db9r2db1~x2/"><circle cx="361.0" cy="44.1" r="4" fill="#3465a4"><title>Goldwire (2015)</title></circle></a><a href="/variants/s22/w2k1w1r1y1k3w18k2w2k1w1y2db8w4k48w3k2w2k1w1y1r1~x2/"><circle cx="277.3" cy="14.0" r="4" fill="#3465a4"><title>Normandy Bay Myth</title></circle></a><circle cx="333.6" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

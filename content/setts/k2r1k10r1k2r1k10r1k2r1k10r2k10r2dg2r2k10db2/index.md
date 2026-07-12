@@ -1,6 +1,15 @@
 ---
 title: "Hebridean 6"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hebridean"
+  url: "/clan/hebridean/"
+- name: "Hebridean"
+  url: "/families/hebridean/"
+- name: "Hebridean 6"
+  url: "/tartans/h/he/hebridean-6/"
 ---
 This is the **Hebridean 6** sett — one scale-free proportion (`k2r1k10r1k2r1k10r1k2r1k10r2k10r2dg2r2k10db2`), colour order pattern
 [BKRGRKRKRKRKRKRKRK](/stripes/bkrgrkrkrkrkrkrkrk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/k2r1k10r1k2r1k10r2k10r2g2r2k10db2~x2/"><circle cx="386.4" cy="138.4" r="4" fill="#3465a4"><title>Hebridean</title></circle></a><a href="/variants/s14/k3r2k17r3k17r3dg3r3k17t3k4r1k17r2~x2/"><circle cx="421.2" cy="117.2" r="4" fill="#3465a4"><title>Hebrides #11</title></circle></a><a href="/variants/s14/k17db3k4r1k17r2k3r2k17r3k17r3g3r3~x2/"><circle cx="420.6" cy="117.0" r="4" fill="#3465a4"><title>Black (Hebridean) (Artefact)</title></circle></a><a href="/variants/s34/k10r2dg2r2k10r2k10r1k2r1k10r1k2r1k10r1k2r1k10r1k2r1k10r1k2r1k10r2k10r2dg2r2k10t2~x2~dg1804158/"><circle cx="389.7" cy="101.8" r="4" fill="#3465a4"><title>Hebrides #3</title></circle></a><a href="/variants/s13/r2k25dy2k20n5k2n4k3n3k4n2k6y2~x2/"><circle cx="384.9" cy="109.6" r="4" fill="#3465a4"><title>Gold-Smith (Personal)</title></circle></a><a href="/variants/s15/k15dp2dt1r1lb1k15r1dt2k15lb1k15dp4dt2lb1k15~x2/"><circle cx="452.7" cy="106.6" r="4" fill="#3465a4"><title>GOLF (Corporate)</title></circle></a><a href="/variants/s14/k15dp2k1r1lb1k15r1k17lb1k15dp4k2lb1k15~x2/"><circle cx="464.8" cy="110.4" r="4" fill="#3465a4"><title>GOLF (Wonderland Publications)</title></circle></a><a href="/variants/s10/k3g2k20r2k12g2k4g2k6g2~x2/"><circle cx="456.0" cy="160.8" r="4" fill="#3465a4"><title>Renwick</title></circle></a><circle cx="403.8" cy="127.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

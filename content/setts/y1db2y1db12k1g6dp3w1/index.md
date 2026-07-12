@@ -1,6 +1,13 @@
 ---
 title: "Lambert, Patrice (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Lambert"
+  url: "/clan/lambert/"
+- name: "Lambert, Patrice"
+  url: "/tartans/l/la/lambert-patrice/"
 ---
 This is the **Lambert, Patrice (Personal)** sett — one scale-free proportion (`y1db2y1db12k1g6dp3w1`), colour order pattern
 [GBGBKGBW](/stripes/gbgbkgbw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w1dp3g6k1db12ly1db2ly1~x4/"><circle cx="212.0" cy="135.2" r="4" fill="#3465a4"><title>Lambert, Patrice (Personal)</title></circle></a><a href="/variants/s7/dy4g13k8db25lb8db2dp4~x2/"><circle cx="139.6" cy="161.3" r="4" fill="#3465a4"><title>Renfrewshire</title></circle></a><a href="/variants/s7/dp4db2lb8db25k8g13y4~x2/"><circle cx="137.1" cy="160.6" r="4" fill="#3465a4"><title>Renfrewshire Tartan</title></circle></a><a href="/variants/s9/db4do5g19dp5do5k5do5db36w3~x2/"><circle cx="199.9" cy="140.7" r="4" fill="#3465a4"><title>Suzugamine (Corporate)</title></circle></a><a href="/variants/s9/db38r5k5g5w5y5db5r5w5~x2/"><circle cx="196.5" cy="127.6" r="4" fill="#3465a4"><title>Eljamel, Sam (Personal)</title></circle></a><a href="/variants/s7/db3r2db18k6dg18y2g3~x2~dg1806142-g2203152/"><circle cx="176.5" cy="175.1" r="4" fill="#3465a4"><title>McComb (Personal)</title></circle></a><a href="/variants/s8/r3w6r2dg32db36k2db4y2~x2/"><circle cx="241.8" cy="118.5" r="4" fill="#3465a4"><title>Canadian Centennial</title></circle></a><a href="/variants/s8/r3w6r2g32db36k2db4y2~x2/"><circle cx="218.7" cy="114.4" r="4" fill="#3465a4"><title>Canadian Centennial District Tartan</title></circle></a><a href="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/"><circle cx="251.3" cy="147.5" r="4" fill="#3465a4"><title>Shearer (2016)</title></circle></a><a href="/variants/s6/r4db24w2g13db2k3~x4/"><circle cx="247.3" cy="160.7" r="4" fill="#3465a4"><title>Vance (Family Association)</title></circle></a><circle cx="226.7" cy="139.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

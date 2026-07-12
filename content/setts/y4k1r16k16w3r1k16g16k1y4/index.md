@@ -1,6 +1,15 @@
 ---
 title: "MacLamroc"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacLamroc"
+  url: "/clan/maclamroc/"
+- name: "MacLamroc"
+  url: "/families/maclamroc/"
+- name: "MacLamroc"
+  url: "/tartans/m/ma/maclamroc/"
 ---
 This is the **MacLamroc** sett — one scale-free proportion (`y4k1r16k16w3r1k16g16k1y4`), colour order pattern
 [GKGKRWKRKG](/stripes/gkgkrwkrkg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k10y2g11r11w1r1w1k9~x2/"><circle cx="131.4" cy="157.0" r="4" fill="#3465a4"><title>Unnamed No 5 Tartan</title></circle></a><a href="/variants/s8/k54lb6k6lb6n20lo40k6y3/"><circle cx="186.7" cy="121.2" r="4" fill="#3465a4"><title>Clyde Valley HOG</title></circle></a><a href="/variants/s8/g28db3g3k10r2k10r20y4~x2/"><circle cx="147.0" cy="148.4" r="4" fill="#3465a4"><title>Garvock (2015)</title></circle></a><a href="/variants/s10/k3r9k4dy9y3dy9k4g26k2y3~x2/"><circle cx="137.8" cy="146.8" r="4" fill="#3465a4"><title>Cavan, County</title></circle></a><a href="/variants/s12/dr12g6k4g2k4g1k12dr24r4g3w3k10~x2/"><circle cx="191.9" cy="113.7" r="4" fill="#3465a4"><title>Fullerton, Terence (Personal)</title></circle></a><a href="/variants/s8/k3g2k21w11g1dy21dg2dy3~x2/"><circle cx="160.9" cy="122.5" r="4" fill="#3465a4"><title>Dalveen (Fashion)</title></circle></a><a href="/variants/s12/r12g6k4g2k4g1k12r24ri4g3w3k10~x2~r1807008-ri2109032/"><circle cx="181.1" cy="105.2" r="4" fill="#3465a4"><title>Fullerton, Terrance (Personal)</title></circle></a><a href="/variants/s12/w4k2t9k3o3k3o3k23g10k2o6w2~x2/"><circle cx="148.2" cy="125.9" r="4" fill="#3465a4"><title>Auld Lang Syne Blue</title></circle></a><a href="/variants/s13/dr22lb1dr2lb1dr3k16g16y1g16k16dr16lb1dr2~x2/"><circle cx="181.6" cy="118.1" r="4" fill="#3465a4"><title>Beartrap (Military)</title></circle></a><a href="/variants/s12/k10r26k2r4k2r26k3dg36k3g30k3y2~y2400000/"><circle cx="160.2" cy="113.7" r="4" fill="#3465a4"><title>Pope Welsh Name Tartan</title></circle></a><circle cx="149.7" cy="129.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

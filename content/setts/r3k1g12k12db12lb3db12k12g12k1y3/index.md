@@ -1,6 +1,15 @@
 ---
 title: "Smith Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Smith"
+  url: "/clan/smith/"
+- name: "Smith"
+  url: "/families/smith/"
+- name: "Smith"
+  url: "/tartans/s/sm/smith-2/"
 ---
 This is the **Smith Family Tartan** sett — one scale-free proportion (`r3k1g12k12db12lb3db12k12g12k1y3`), colour order pattern
 [GKGKBWBKGKR](/stripes/gkgkbwbkgkr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dr2k1g7k6db7t2db7k6g7k1lo2~x4/"><circle cx="45.8" cy="186.7" r="4" fill="#3465a4"><title>Smith (Clan)</title></circle></a><a href="/variants/s8/db18k20g20k5g20k20db18lb3~x2/"><circle cx="126.0" cy="148.8" r="4" fill="#3465a4"><title>Smith (Sir William)</title></circle></a><a href="/variants/s11/w2db12k12g12k5ly1k5g12k12db12w1~x4/"><circle cx="121.2" cy="172.9" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/variants/s10/db18k10g9k2r2k2g9k10db9w2~x2/"><circle cx="114.9" cy="178.3" r="4" fill="#3465a4"><title>Robertson Hunting Clan Tartan</title></circle></a><a href="/variants/s11/r2k1db8k7g8y2g8k7db8k1t2~x4/"><circle cx="57.1" cy="177.1" r="4" fill="#3465a4"><title>Adam Smith (Corporate)</title></circle></a><a href="/variants/s11/r2k1db8k7g8y2g8k7db8k1b2~x4~db1108266-b1511266/"><circle cx="54.6" cy="176.2" r="4" fill="#3465a4"><title>Scottish Economics Society 'Adam Smith'</title></circle></a><a href="/variants/s11/db6k2t2db8k18lo2dg20db8t3k10lb6~x2~t1903246-dg1806142/"><circle cx="94.5" cy="155.5" r="4" fill="#3465a4"><title>Veere (District)</title></circle></a><a href="/variants/s10/dp22r3k22g22y2g22k22r3dp22w3~x2/"><circle cx="80.6" cy="159.8" r="4" fill="#3465a4"><title>Unidentified Scarlett #7</title></circle></a><a href="/variants/s10/k10lb5dp10g20k6g6db10r2db2r4~x2/"><circle cx="65.9" cy="162.5" r="4" fill="#3465a4"><title>Brotherston (Personal)</title></circle></a><a href="/variants/s13/db1k5db9r3db9k10w1k10g6r3g6k4g1~x2/"><circle cx="47.5" cy="159.4" r="4" fill="#3465a4"><title>Redgate (Connecticut) #2</title></circle></a><circle cx="72.4" cy="156.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

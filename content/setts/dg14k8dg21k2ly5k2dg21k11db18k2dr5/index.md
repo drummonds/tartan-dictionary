@@ -1,6 +1,11 @@
 ---
 title: "de Vere-Austin (Clan)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "de Vere-Austin"
+  url: "/tartans/d/de/de-vere-austin/"
 ---
 This is the **de Vere-Austin (Clan)** sett — one scale-free proportion (`dg14k8dg21k2ly5k2dg21k11db18k2dr5`), colour order pattern
 [BKBKGKYKGKG](/stripes/bkbkgkykgkg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db19dg7db7lb2dg20k9dg6k4dg10w3~x2/"><circle cx="215.6" cy="188.6" r="4" fill="#3465a4"><title>O'Connell, William Benedict (Personal)</title></circle></a><a href="/variants/s10/k10ly1k3dt8dg8dgi1dg8dt8k15ly1~x2~dgi1605139/"><circle cx="226.4" cy="179.4" r="4" fill="#3465a4"><title>Ryder Cup 2006</title></circle></a><a href="/variants/s9/db1k8db2dg16dr6dg16db2k8w1~x2/"><circle cx="290.2" cy="167.8" r="4" fill="#3465a4"><title>Basel Tattoo (Official)</title></circle></a><a href="/variants/s11/ki16k2lb2k4dg16r2ki15k6lb2ki3lb4~x2~ki0700000-k0504259/"><circle cx="196.9" cy="170.2" r="4" fill="#3465a4"><title>Scottish Tartans Authority</title></circle></a><a href="/variants/s8/k10dg3k6dg20ki8dr4w4dg10~x2~k0504259-ki0700000/"><circle cx="214.5" cy="220.4" r="4" fill="#3465a4"><title>BlackRock (Symmetrical)</title></circle></a><a href="/variants/s14/k6dg5k6dg12k23do13y6do13k12w2k23dg12k6dg5~x2/"><circle cx="226.5" cy="174.6" r="4" fill="#3465a4"><title>Simon and Friends (Hamburg) (Personal)</title></circle></a><a href="/variants/s13/y1k1dg8db1dg1k8dg1db8dg1k1dg8k1w1~x6/"><circle cx="213.2" cy="157.8" r="4" fill="#3465a4"><title>Robieson, Graham Alexander (Personal)</title></circle></a><a href="/variants/s11/dp3k2n6k2n2k18dg13lb2dg2k6dp2~x2/"><circle cx="205.9" cy="154.9" r="4" fill="#3465a4"><title>Dama Resort</title></circle></a><a href="/variants/s15/dti1dt4k11dt1k1dt1k1dti1k11n4g1n8k8dt8n1~x4~dti1503227-dt1202249/"><circle cx="230.7" cy="141.2" r="4" fill="#3465a4"><title>ShadowHalls</title></circle></a><a href="/variants/s14/k6dg5k6dg12k23do13y6db13k12w2k23dg12k6dg5~x2/"><circle cx="199.3" cy="159.9" r="4" fill="#3465a4"><title>Simon and Friends (Hamburg) (Persona</title></circle></a><circle cx="230.7" cy="179.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Ogilvie (Paton) #2"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ogilvie"
+  url: "/clan/ogilvie/"
+- name: "Ogilvie"
+  url: "/families/ogilvie/"
+- name: "Ogilvie 3"
+  url: "/tartans/o/og/ogilvie-3/"
 ---
 This is the **Ogilvie (Paton) #2** sett — one scale-free proportion (`lb6y1k1r1k1r1k1r1k1y4lb3y4k3r3w1r3w1r3k3y1lb3w1lb3y1db1r1k1r4w1db1w1r4w1db1w1r4`), colour order pattern
 [RWBWRWBWRKRBGWWWGKRWRWRKGWGKRKRKRKGW](/stripes/rwbwrwbwrkrbgwwwgkrwrwrkgwgkrkrkrkgw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s34/db3lb2r12k2r2db2lo2o6lb2o6lo2k3r6lb2r6lb2r6k3lo4o6lo4k2r2k2r2k2r2k2lo2o6lo2db2lo2db2~x2~db1406275-o2500000/"><circle cx="25.8" cy="128.3" r="4" fill="#3465a4"><title>Ogilvie</title></circle></a><a href="/variants/s19/k3y2k13w2lb11r12w2r12k12y2g12r12w2r12lb11w2k13y2k3~x2/"><circle cx="22.9" cy="120.2" r="4" fill="#3465a4"><title>Wilson's No.190</title></circle></a><a href="/variants/s36/r14w2db3w2r14k2r2db2y2lb7w2lb7y2k4r7w1r7w1r7k4y5lb7y5k2r2k2r2k2r2k2y2lb7y2db3y2db3~x2/"><circle cx="84.0" cy="77.5" r="4" fill="#3465a4"><title>Ogilvy of Airlie Clan Tartan</title></circle></a><a href="/variants/s36/dr7k1dr7w3k1w1k1w1r3w1r3w3k1w1k1w1k1w1r3w1k1w1r3w1k1w3r3w3k1w1dr7k1dr7db7y1db7~x4/"><circle cx="27.1" cy="102.2" r="4" fill="#3465a4"><title>Debian</title></circle></a><a href="/variants/s28/k5w4r19lb12k2lb2k2lb12k20ly3g26r19lb5r20lb5r19g26ly3k20lb12k2lb2k2lb12r19w4k5r5~x2~w4000000-ly3307090/"><circle cx="60.9" cy="92.4" r="4" fill="#3465a4"><title>Wilson's No.043</title></circle></a><a href="/variants/s28/db8w21db8w7k2w3y3w3k12w2r8y3k3y3k3y3k3y3k3y3r8w2k12w3y3w3k2w7~x2/"><circle cx="23.3" cy="98.0" r="4" fill="#3465a4"><title>Znaimer (Canada)</title></circle></a><a href="/variants/s37/r6k6r6k6y7db7y7k8r6w5r6w5r6k8y8db8w7db7y7k8r8k8r15w2k2w2r14w2k2w2r14k8r8k8y6db6y6/"><circle cx="28.2" cy="149.1" r="4" fill="#3465a4"><title>Ogilvie #3</title></circle></a><a href="/variants/s18/w2lb2dg8k2lb6dg5r5ly5r4w2r4ly5r5dg5lb6k2r10ly2~x2/"><circle cx="27.1" cy="182.4" r="4" fill="#3465a4"><title>Kutztown (Berks Co., PA) (District)</title></circle></a><a href="/variants/s10/r18lb10k15ly4k4w6k4g23r26w4~x2~r2109032-ly3307090-w4000000/"><circle cx="36.9" cy="144.9" r="4" fill="#3465a4"><title>Wilson's No.011</title></circle></a><a href="/variants/s14/r21y9k2y2k2y9k18ly3dg21r13k3r13w2r13~x2/"><circle cx="82.9" cy="105.9" r="4" fill="#3465a4"><title>Wilson's No.155</title></circle></a><circle cx="18.1" cy="121.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

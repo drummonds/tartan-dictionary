@@ -1,6 +1,11 @@
 ---
 title: "Cummins (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Cummins"
+  url: "/tartans/c/cu/cummins/"
 ---
 This is the **Cummins (Personal)** sett — one scale-free proportion (`k9b5w5k9b14k5w5k9w5k5b8`), colour order pattern
 [BKWKWKBKWBK](/stripes/bkwkwkbkwbk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k9db5w5k9db14k5w5k9w5k5db8~x2/"><circle cx="121.5" cy="274.6" r="4" fill="#3465a4"><title>Cummins Royal Blue, B (Personal)</title></circle></a><a href="/variants/s10/k10w7k8w7k8b14k4b14k16y2/"><circle cx="160.3" cy="210.2" r="4" fill="#3465a4"><title>Little of Morton Rig</title></circle></a><a href="/variants/s11/k4lb4db14k15lb4k15lb4db7lb4db10lb4~x2/"><circle cx="134.9" cy="242.5" r="4" fill="#3465a4"><title>Clark (Clerke/Clergy/Priest)</title></circle></a><a href="/variants/s5/db3w3db5k6y1~x4/"><circle cx="108.0" cy="241.7" r="4" fill="#3465a4"><title>Kilmarnock Football Club (Old)</title></circle></a><a href="/variants/s9/k4db1k1db1k1db4r2db4w2~x4/"><circle cx="160.2" cy="230.3" r="4" fill="#3465a4"><title>Broz Sanz Elementary (Corporate)</title></circle></a><a href="/variants/s13/dg1lb1dg1lb2k2lb2k2lb2k2lb2ly1lb1ly1~x4/"><circle cx="93.0" cy="282.5" r="4" fill="#3465a4"><title>Glen Flesk</title></circle></a><a href="/variants/s10/db4w1dy1k2db4dy2w1dy1w1dy1~x4/"><circle cx="131.4" cy="224.5" r="4" fill="#3465a4"><title>City of Pointe-Claire</title></circle></a><a href="/variants/s11/k4w4db19k19w4k19w4db7w4db11w4~x2/"><circle cx="154.5" cy="218.0" r="4" fill="#3465a4"><title>Clark Family Tartan</title></circle></a><a href="/variants/s16/db10k2db2k4t5k6t6k4t6k6t5k4db2k2db10k4~x4~db1406275/"><circle cx="142.5" cy="235.2" r="4" fill="#3465a4"><title>Saul (Personal)</title></circle></a><a href="/variants/s10/w6k6w6k6w6k6w4dy3g2dy2~x3/"><circle cx="106.3" cy="271.5" r="4" fill="#3465a4"><title>Burns Check (District)</title></circle></a><circle cx="118.6" cy="274.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

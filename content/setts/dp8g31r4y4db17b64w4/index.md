@@ -1,6 +1,13 @@
 ---
 title: "Manx National"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Manx"
+  url: "/clan/manx/"
+- name: "Manx National"
+  url: "/tartans/m/ma/manx-national/"
 ---
 This is the **Manx National** sett — one scale-free proportion (`dp8g31r4y4db17b64w4`), colour order pattern
 [BGRGBBW](/stripes/bgrgbbw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dp8g31r4dy4db17lb64w4/"><circle cx="213.0" cy="131.8" r="4" fill="#3465a4"><title>Manx National #2</title></circle></a><a href="/variants/s7/dp2g8r1dy1db6lb15w1~x4/"><circle cx="180.8" cy="140.1" r="4" fill="#3465a4"><title>Manx National District Tartan</title></circle></a><a href="/variants/s7/dp2g6r1y1db3b10w1~x2/"><circle cx="180.6" cy="172.8" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/variants/s7/dp2g6r1dy1db3lb10w1~x2/"><circle cx="148.7" cy="161.8" r="4" fill="#3465a4"><title>Manx National District Tartan</title></circle></a><a href="/variants/s8/db5r3g2r3dg12t34g2w2~x2/"><circle cx="302.6" cy="136.9" r="4" fill="#3465a4"><title>Moran (Wedding) (Personal)</title></circle></a><a href="/variants/s8/db5r3g2r3dg12t34g2w2~x2~dg1804158/"><circle cx="332.9" cy="148.8" r="4" fill="#3465a4"><title>Moran (Drummond) Personal Tartan</title></circle></a><a href="/variants/s6/b9lb1g2lb1db4r1~x12/"><circle cx="281.4" cy="210.6" r="4" fill="#3465a4"><title>McIntosh, Georgina (Personal)</title></circle></a><a href="/variants/s7/g2db14lg6n1g1n6r1~x4~db0906265-lg2704216/"><circle cx="239.9" cy="175.4" r="4" fill="#3465a4"><title>Loch Ness in Scotland</title></circle></a><a href="/variants/s6/m1g2n10r1db15w1~x4/"><circle cx="296.9" cy="162.6" r="4" fill="#3465a4"><title>Oren Peterson</title></circle></a><a href="/variants/s7/db30b10n10db5r3y3g3~x2/"><circle cx="310.2" cy="188.0" r="4" fill="#3465a4"><title>Wrigglesworth Family Canada (Personal)</title></circle></a><circle cx="251.7" cy="145.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

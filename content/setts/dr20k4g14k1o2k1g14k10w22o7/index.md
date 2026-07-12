@@ -1,6 +1,11 @@
 ---
 title: "Border Union Cattle Show"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Border Union Cattle Show"
+  url: "/tartans/b/bo/border-union-cattle-show/"
 ---
 This is the **Border Union Cattle Show** sett — one scale-free proportion (`dr20k4g14k1o2k1g14k10w22o7`), colour order pattern
 [BKGKRKGKWR](/stripes/bkgkrkgkwr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy20k4g14k1o2k1g14k10w22o7~x2/"><circle cx="81.4" cy="135.1" r="4" fill="#3465a4"><title>Border Union Cattle Show (Corporate)</title></circle></a><a href="/variants/s9/k3dy14lo4dy9lo14k14g28k1o3~x2/"><circle cx="119.5" cy="129.4" r="4" fill="#3465a4"><title>Dutch Friendship</title></circle></a><a href="/variants/s13/r4g20k16y2k3w3k2w18r6k2r4k1w2~x2/"><circle cx="89.8" cy="103.0" r="4" fill="#3465a4"><title>Palmer, Edward</title></circle></a><a href="/variants/s10/lo12k3g24r12g24k32w44g4w8g4/"><circle cx="94.4" cy="149.2" r="4" fill="#3465a4"><title>Gillies Dress Green</title></circle></a><a href="/variants/s6/ly16k7w1g7k1dy3~x4/"><circle cx="102.9" cy="138.0" r="4" fill="#3465a4"><title>Hamilton of Brandon</title></circle></a><a href="/variants/s13/r24k8dg12k1g2k1dg12k8w3g2w14g1w2~x2~r2109032-dg1806142-g2508144/"><circle cx="90.2" cy="103.4" r="4" fill="#3465a4"><title>Hohenzollern Staff</title></circle></a><a href="/variants/s7/t18k7g5r4g7k1y2~x2/"><circle cx="122.6" cy="144.5" r="4" fill="#3465a4"><title>Wilson's No.232</title></circle></a><a href="/variants/s8/k3w1r16k1g21t9k6w1~x4/"><circle cx="152.6" cy="130.8" r="4" fill="#3465a4"><title>Ford &amp; Etal</title></circle></a><a href="/variants/s13/r24k8dg12k1g2k1dg12k8w3g2w14g1w2~x2~dg1806142-g2508144/"><circle cx="90.0" cy="102.9" r="4" fill="#3465a4"><title>Hohenzollern Staff (Personal)</title></circle></a><a href="/variants/s11/n26k6ly32g14dy11k19w2dy16g11n19k2/"><circle cx="55.8" cy="152.6" r="4" fill="#3465a4"><title>Teddy Bear 111th Anniversary</title></circle></a><circle cx="86.8" cy="134.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

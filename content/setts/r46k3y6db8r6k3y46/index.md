@@ -1,6 +1,15 @@
 ---
 title: "Scrymgeour"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Scrymgeour"
+  url: "/clan/scrymgeour/"
+- name: "Scrymgeour"
+  url: "/families/scrymgeour/"
+- name: "Scrymgeour"
+  url: "/tartans/s/sc/scrymgeour-2/"
 ---
 This is the **Scrymgeour** sett — one scale-free proportion (`r46k3y6db8r6k3y46`), colour order pattern
 [GKRBGKR](/stripes/gkrbgkr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r15k1y2db3r2k1y15~x6/"><circle cx="298.0" cy="163.6" r="4" fill="#3465a4"><title>Scrymgeour</title></circle></a><a href="/variants/s7/r15k1y2db3r2k1y15~x3/"><circle cx="298.0" cy="163.6" r="4" fill="#3465a4"><title>Scrymgeour</title></circle></a><a href="/variants/s7/dy15k1r2db3dy2k1r15~x4/"><circle cx="284.7" cy="157.1" r="4" fill="#3465a4"><title>Scrymgeour Family Tartan</title></circle></a><a href="/variants/s7/r15k1lo2g3r2k1lo15~x6~lo2906085/"><circle cx="227.0" cy="123.4" r="4" fill="#3465a4"><title>Scrymgeour</title></circle></a><a href="/variants/s7/g6ri2r2g4r2ri12k1~x2~ri2008029-r1707016/"><circle cx="281.4" cy="187.9" r="4" fill="#3465a4"><title>MacNab 5</title></circle></a><a href="/variants/s7/g6ri2r2g4r2ri12k1~x2~ri2209032-r1707016/"><circle cx="272.0" cy="183.6" r="4" fill="#3465a4"><title>MacNab #3</title></circle></a><a href="/variants/s6/y8k3y4k2r30y6~x2/"><circle cx="369.1" cy="172.5" r="4" fill="#3465a4"><title>Masai Shuka 16 (Artefact)</title></circle></a><a href="/variants/s7/dr15k1lo2db3dr2k1lo15~x6/"><circle cx="244.4" cy="149.8" r="4" fill="#3465a4"><title>Scrymgeour (Clan)</title></circle></a><a href="/variants/s7/g28r7dr7g14dr7r48k4~x2/"><circle cx="265.7" cy="178.2" r="4" fill="#3465a4"><title>MacNab (Crimson)</title></circle></a><a href="/variants/s7/r33k8dy12g12r8dy2r8~x2/"><circle cx="299.0" cy="165.5" r="4" fill="#3465a4"><title>Tipperary, County</title></circle></a><circle cx="306.4" cy="162.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

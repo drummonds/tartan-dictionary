@@ -1,6 +1,11 @@
 ---
 title: "Unidentified Coat"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified Coat"
+  url: "/tartans/u/un/unidentified-coat/"
 ---
 This is the **Unidentified Coat** sett — one scale-free proportion (`g6r2g2r24lb1db1r2db12r2db1lb1r2g24r2`), colour order pattern
 [GRGRWBRBRBWRGR](/stripes/grgrwbrbrbwrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r20dp1r1db2r1dp1r4db4g2db4g2db4g19r1dp2~x2/"><circle cx="256.0" cy="120.3" r="4" fill="#3465a4"><title>Ladybird</title></circle></a><a href="/variants/s16/r3db2w1r2g24r4g2r2db8r2g2r24db2w1r2g2~x2/"><circle cx="301.6" cy="103.3" r="4" fill="#3465a4"><title>Stewart of Appin</title></circle></a><a href="/variants/s13/b4r10g7r70g7r4dp21r4g85r4g7r10b4/"><circle cx="321.4" cy="122.6" r="4" fill="#3465a4"><title>Crieff</title></circle></a><a href="/variants/s16/r3db2lb1r2g24r4g2r2db8r2g2r24db2lb1r2g2~x2/"><circle cx="306.6" cy="104.9" r="4" fill="#3465a4"><title>Stewart of Appin - 1906</title></circle></a><a href="/variants/s15/r3db2r2g38r2g2r2db10r2lb2r37db2r2db2r3~x2/"><circle cx="311.4" cy="104.3" r="4" fill="#3465a4"><title>Grant and Drummond</title></circle></a><a href="/variants/s13/g2r3g2r52g2r2db28r2g42r2g2r3g2~x2/"><circle cx="322.2" cy="117.9" r="4" fill="#3465a4"><title>MacQuarrie #3</title></circle></a><a href="/variants/s13/g2r3g2r52g2r2db28r2g42r2g2r3g2/"><circle cx="322.2" cy="117.9" r="4" fill="#3465a4"><title>MacQuarrie 1815</title></circle></a><a href="/variants/s13/g1r2g1r26g1r1db14r1g21r1g1r2g1/"><circle cx="324.6" cy="118.9" r="4" fill="#3465a4"><title>MacQuarrie 1815</title></circle></a><a href="/variants/s17/ri7r3ri6db26ri8r2ri2db2ri2g1r2ri8g26ri8g2ri2r2~x2~ri2209032-r1707016/"><circle cx="244.7" cy="109.7" r="4" fill="#3465a4"><title>MacColl Ancient</title></circle></a><a href="/variants/s15/r26dr1r1db2r1dr1r5db5g2db5g2db5g24r1dr2~x2~r1606028-dr1004029/"><circle cx="294.7" cy="114.9" r="4" fill="#3465a4"><title>Ladybird (Personal)</title></circle></a><circle cx="281.1" cy="114.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

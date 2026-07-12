@@ -1,6 +1,11 @@
 ---
 title: "Unnamed C20th - National Archives"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unnamed C20th"
+  url: "/tartans/u/un/unnamed-c20th-4/"
 ---
 This is the **Unnamed C20th - National Archives** sett — one scale-free proportion (`y2ki2dg2y2dg3y1dg10ki16dg4k2dg4k10w2`), colour order pattern
 [GKGGGGGKGKGKW](/stripes/gkgggggkgkgkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/y2k2dg2y2dg3y1dg10k18dg3db2dg3db10w2~x2/"><circle cx="166.1" cy="122.4" r="4" fill="#3465a4"><title>O'Doherty (Glasgow) (Personal)</title></circle></a><a href="/variants/s15/k18dy3k3dy3k3dy16dg16r1y1r1dg16dy16k17dy3k3~x2/"><circle cx="233.6" cy="146.0" r="4" fill="#3465a4"><title>Lander (2013)</title></circle></a><a href="/variants/s12/k8dr8k42ki4k4ki4k4ki20dg4ki10dg25w8~k0504259-ki0700000/"><circle cx="199.1" cy="158.7" r="4" fill="#3465a4"><title>Bannatyne (Corporate)</title></circle></a><a href="/variants/s9/dg28k2db3k11db3k2db17dbi4lb2~x2~db1004274-dbi1406275/"><circle cx="251.1" cy="165.0" r="4" fill="#3465a4"><title>West of Wells (Personal)</title></circle></a><a href="/variants/s10/k22dg30k2dg4k2dg30k3db30k35r2~db1204274/"><circle cx="248.3" cy="148.8" r="4" fill="#3465a4"><title>Phillips Welsh Name Tartan</title></circle></a><a href="/variants/s11/db6k3r2k3dg31k6g2k6dy13k2g2~x2/"><circle cx="215.8" cy="123.7" r="4" fill="#3465a4"><title>Rourke-Frew Hunting</title></circle></a><a href="/variants/s12/k10dr26k2dr4k2dr26k3dg36k3g30k3n2/"><circle cx="204.6" cy="134.7" r="4" fill="#3465a4"><title>Pope of Wales</title></circle></a><a href="/variants/s14/db15k2db2k2db2k14dg18k1y2k1dg18k14db18r2~x2/"><circle cx="202.9" cy="141.9" r="4" fill="#3465a4"><title>Bonner (Name)</title></circle></a><a href="/variants/s15/dt30k5dt5k5dt5k31dg31k3w7k3dg31k31dt31k3r7/"><circle cx="158.5" cy="157.7" r="4" fill="#3465a4"><title>78th Regiment (Highlanders) (Mil.)</title></circle></a><a href="/variants/s13/db24k2db2k2db2k20dg20dy3dg20k20db24k2dr4~x2/"><circle cx="211.2" cy="169.8" r="4" fill="#3465a4"><title>Loudoun's Highlanders - 1747 #2 (Mil</title></circle></a><circle cx="216.9" cy="151.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

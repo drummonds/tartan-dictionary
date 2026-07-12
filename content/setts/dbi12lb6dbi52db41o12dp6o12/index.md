@@ -1,6 +1,11 @@
 ---
 title: "Great Scot"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Great Scot"
+  url: "/tartans/g/gr/great-scot/"
 ---
 This is the **Great Scot** sett — one scale-free proportion (`dbi12lb6dbi52db41o12dp6o12`), colour order pattern
 [BWBBRBRBRBBW](/stripes/bwbbrbrbrbbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db3r1dbi12dg2dbi2db4dbi2dg2dbi2dg9db1ly2~x4~db1204274-dbi1406275/"><circle cx="303.9" cy="195.1" r="4" fill="#3465a4"><title>St. Andrew's Soc. of Philadelphia (C</title></circle></a><a href="/variants/s12/b24db4b4db4b4db20dp32n4dp32db35r5db4~b2106246-db1305255/"><circle cx="317.9" cy="220.2" r="4" fill="#3465a4"><title>Caledonian Club</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2~db1406275/"><circle cx="312.1" cy="211.0" r="4" fill="#3465a4"><title>Hutchesons' Grammar School</title></circle></a><a href="/variants/s12/db5dg2db2dg2db2dbi5dg2dbi1lb1dbi1dg10r3~x4~db1204274-dbi1404245/"><circle cx="298.7" cy="212.9" r="4" fill="#3465a4"><title>Richards Welsh Name Tartan</title></circle></a><a href="/variants/s10/dbi8g8db12r3dp20g3db20dbi3db20lb2~x2~dbi1406275-db1305255/"><circle cx="307.8" cy="209.2" r="4" fill="#3465a4"><title>Strathisla (District)</title></circle></a><a href="/variants/s17/dg14dbi2r2dbi2dg22lb2dbi16lb2db20dg5r2dg5db20lb2dbi16lb2dg8~x2~dbi1406275-db1204274/"><circle cx="260.9" cy="186.6" r="4" fill="#3465a4"><title>Frangord</title></circle></a><a href="/variants/s8/b26w2b3db15n26r2n3db4~x2/"><circle cx="291.0" cy="171.8" r="4" fill="#3465a4"><title>Scottish Highlander Universal Tartan</title></circle></a><a href="/variants/s12/db5r2db2r2db2dbi5r2dbi1lb1dbi1r10dr3~x4~db1204274-r1706009-dbi1404245/"><circle cx="310.5" cy="206.7" r="4" fill="#3465a4"><title>Richards (Welsh Name)</title></circle></a><a href="/variants/s10/b4dg2b18r2dg5n16r2n2r2n2~x2/"><circle cx="318.9" cy="216.1" r="4" fill="#3465a4"><title>Clyde</title></circle></a><a href="/variants/s17/db2dbi2t4db2t6lr4t5db2dbi4db6dbi4n2db2dbi12db2dbi3r1~x2~db1106275-dbi1406275-t2302222-lr2800000/"><circle cx="233.6" cy="187.8" r="4" fill="#3465a4"><title>Fulbright, Senator (Personal)</title></circle></a><circle cx="310.1" cy="217.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

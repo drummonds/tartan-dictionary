@@ -1,6 +1,15 @@
 ---
 title: "Waterford"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Waterford"
+  url: "/clan/waterford/"
+- name: "Waterford"
+  url: "/families/waterford/"
+- name: "Waterford"
+  url: "/tartans/w/wa/waterford/"
 ---
 This is the **Waterford** sett — one scale-free proportion (`g42y2b16db7do16r5`), colour order pattern
 [GGBBBR](/stripes/ggbbbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg42lo2g16db7do16r5~x2/"><circle cx="298.7" cy="180.4" r="4" fill="#3465a4"><title>Waterford, County</title></circle></a><a href="/variants/s6/w3b12db1g15o3w1~x4~b2409265-db1406275/"><circle cx="237.9" cy="187.6" r="4" fill="#3465a4"><title>Eeraerts, Laurent (Personal)</title></circle></a><a href="/variants/s6/r3g13db13y2dg34w3~x2/"><circle cx="263.4" cy="166.4" r="4" fill="#3465a4"><title>Glencross (Tynron) (Personal)</title></circle></a><a href="/variants/s6/r3g13db13dy2dg34w3~x2/"><circle cx="266.1" cy="167.4" r="4" fill="#3465a4"><title>Glencross, Tynron (Name)</title></circle></a><a href="/variants/s8/g2dg9dr16r2t30g3dg6w1~x2/"><circle cx="272.3" cy="136.2" r="4" fill="#3465a4"><title>The Climb (Fashion)</title></circle></a><a href="/variants/s7/r3db6y2db15g12dg39w3~x2/"><circle cx="276.4" cy="153.8" r="4" fill="#3465a4"><title>Wagland (Name)</title></circle></a><a href="/variants/s6/dg9g1b2g1db4r1~x12~dg1806142-g2408144/"><circle cx="283.4" cy="215.1" r="4" fill="#3465a4"><title>Gorman, George (Personal)</title></circle></a><a href="/variants/s6/y9g18b9r1w1db1~x4/"><circle cx="301.8" cy="188.4" r="4" fill="#3465a4"><title>COG USA, THE</title></circle></a><a href="/variants/s7/k4g16db11dr16g25ly2gi3~x2~g1904144-gi2404202/"><circle cx="257.7" cy="185.7" r="4" fill="#3465a4"><title>Mayo Irish County Tartan</title></circle></a><a href="/variants/s6/ly9g18t9r1w1db1~x4/"><circle cx="282.4" cy="184.4" r="4" fill="#3465a4"><title>T.H.E. C.O.G. USA (Corporate)</title></circle></a><circle cx="265.7" cy="170.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

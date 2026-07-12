@@ -1,6 +1,11 @@
 ---
 title: "O'Farrell (Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "O'Farrell"
+  url: "/tartans/o/o/o-farrell-2/"
 ---
 This is the **O'Farrell (Name)** sett — one scale-free proportion (`w2ly14y3k6w2k2w2k2g8ly6k2ly3w1`), colour order pattern
 [WYGKWKWKGYKYW](/stripes/wygkwkwkgykyw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/g2ly21do1k5g11do13g2do13g11k5do1ly21g2dy1~x2/"><circle cx="150.1" cy="119.8" r="4" fill="#3465a4"><title>St. Lawrence #2</title></circle></a><a href="/variants/s12/ly4k2dr2k1dr1k1dr2b3ly1dg4ly9dg1~x4/"><circle cx="135.8" cy="152.8" r="4" fill="#3465a4"><title>California Firefighters (Corporate)</title></circle></a><a href="/variants/s10/w7r1w14k6y2k6g14r2g10y1~x2~w3600000-r2209032/"><circle cx="119.5" cy="155.5" r="4" fill="#3465a4"><title>Spanish shirt</title></circle></a><a href="/variants/s12/ly4k2dr2k1dr1k1dr2db3ly1dg4ly9dg1~x4~db1208266/"><circle cx="133.5" cy="151.9" r="4" fill="#3465a4"><title>California Firefighters (Corporate)</title></circle></a><a href="/variants/s10/lo12k3g24r12g24k32w44g4w8g4/"><circle cx="94.4" cy="149.2" r="4" fill="#3465a4"><title>Gillies Dress Green</title></circle></a><a href="/variants/s24/ly14lyi3k6w2k2w2k2g8ly6k2ly3w1ly3k2ly6g8k2w2k2w2k6lyi3ly14w2~x2~lyi3307090/"><circle cx="121.3" cy="112.0" r="4" fill="#3465a4"><title>O'Farrell</title></circle></a><a href="/variants/s12/k8ly2n18ly3k8ly18dp4w3ly12r1ly2k2~x2/"><circle cx="140.7" cy="105.0" r="4" fill="#3465a4"><title>McMillen Memorial, Hugh E. (Personal</title></circle></a><a href="/variants/s11/g2k1g9ly3lb1k3lb1r3ly9lo1ly2~x4/"><circle cx="119.3" cy="148.0" r="4" fill="#3465a4"><title>Asman, Day Tan (Name)</title></circle></a><a href="/variants/s12/o4w2o2w3o18k6g3k2g2k2g14b3~x2/"><circle cx="137.6" cy="146.3" r="4" fill="#3465a4"><title>Dorcas, Check</title></circle></a><a href="/variants/s12/g8w2db3w2g16k10g3y6g1w3g1y6~x2/"><circle cx="169.1" cy="139.9" r="4" fill="#3465a4"><title>Green Bay, Wisconsin (District)</title></circle></a><circle cx="131.2" cy="133.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

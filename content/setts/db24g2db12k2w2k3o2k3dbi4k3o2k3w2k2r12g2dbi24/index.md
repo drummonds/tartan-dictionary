@@ -1,6 +1,13 @@
 ---
 title: "Selkirk Corporate District Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Selkirk"
+  url: "/clan/selkirk/"
+- name: "Selkirk Corporate"
+  url: "/tartans/s/se/selkirk-corporate/"
 ---
 This is the **Selkirk Corporate District Tartan** sett — one scale-free proportion (`db24g2db12k2w2k3o2k3dbi4k3o2k3w2k2r12g2dbi24`), colour order pattern
 [BGBKWKRKBKRKWKRGB](/stripes/bgbkwkrkbkrkwkrgb/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/db24g2db12k2w2k3dp2k3t4k3dp2k3w2k2r12g2t24~x2/"><circle cx="87.2" cy="83.1" r="4" fill="#3465a4"><title>Selkirk, New (District)</title></circle></a><a href="/variants/s17/db24g2db12k2w2k3dp2k3t4k3dp2k3w2k2r12g2t24~x2~db1406275/"><circle cx="42.4" cy="56.3" r="4" fill="#3465a4"><title>Selkirk, New</title></circle></a><a href="/variants/s17/db24b2db12k2w2k3dg2k3dbi4k3dg2k3w2k2r12b2dbi24~x2~db0805267-dbi1604274/"><circle cx="101.3" cy="85.0" r="4" fill="#3465a4"><title>Selkirk</title></circle></a><a href="/variants/s17/db24lo2r12k3w2k3lo2k4db4k4lo2k3w2k3dbi14lo2dbi24~x2~db1106275-dbi1406275/"><circle cx="106.4" cy="97.4" r="4" fill="#3465a4"><title>Total</title></circle></a><a href="/variants/s15/r6b2r2b8k2y2k2y2k10db2k2db23w2db2w2~x2/"><circle cx="120.0" cy="97.0" r="4" fill="#3465a4"><title>Estes</title></circle></a><a href="/variants/s14/r3w5k1db24dp3db4dp3db3dp12dg3dp1dg21k1ly3~x2/"><circle cx="156.8" cy="78.6" r="4" fill="#3465a4"><title>Robert Lee Jordan Defiance (Per.)</title></circle></a><a href="/variants/s11/db12k1lb2k1dbi9k7dp2k2dp2y1r2~x4~db1204274-dbi1406275/"><circle cx="105.0" cy="126.0" r="4" fill="#3465a4"><title>Churchill (Personal)</title></circle></a><a href="/variants/s13/k4dg21dp1dg3dp12db3dp3db4dp3db24k1w5r3~x2/"><circle cx="158.1" cy="76.4" r="4" fill="#3465a4"><title>Robert Lee Jordan Defiance (Personal)</title></circle></a><a href="/variants/s18/o8do2o8k4dr3k4do8k2do8k4db21t8k2do3k2t8db24k3~x2/"><circle cx="123.7" cy="123.2" r="4" fill="#3465a4"><title>Renton (Personal)</title></circle></a><a href="/variants/s14/dg4dr2db3dr1db3lo1k2lo1k2lb2k2n11dr1k1~x4/"><circle cx="65.5" cy="113.6" r="4" fill="#3465a4"><title>Ross Anderson (Fashion) #2</title></circle></a><circle cx="106.6" cy="85.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

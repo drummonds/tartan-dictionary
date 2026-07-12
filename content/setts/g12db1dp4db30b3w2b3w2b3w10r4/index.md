@@ -1,6 +1,11 @@
 ---
 title: "Rosslyn Chapel"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Rosslyn Chapel"
+  url: "/tartans/r/ro/rosslyn-chapel/"
 ---
 This is the **Rosslyn Chapel** sett — one scale-free proportion (`g12db1dp4db30b3w2b3w2b3w10r4`), colour order pattern
 [GBBBBWBWBWR](/stripes/gbbbbwbwbwr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g12db1dp4db30ly3w2ly3w2ly3w10r4~x2/"><circle cx="180.4" cy="90.0" r="4" fill="#3465a4"><title>Rosslyn Chapel</title></circle></a><a href="/variants/s12/dbi30db4g5db2r2db2g5db4w10db5t8db1~x2~dbi1406275-db1404245/"><circle cx="198.1" cy="104.6" r="4" fill="#3465a4"><title>Lyon (Personal)</title></circle></a><a href="/variants/s11/db2w20r1y2dg8b4dg2b2dg2db20w2~x2/"><circle cx="143.0" cy="107.9" r="4" fill="#3465a4"><title>Nova Scotia, dress</title></circle></a><a href="/variants/s10/g4y1lb3db15g2r2g14dbi1lb28db2~x2~db0805267-dbi1604274/"><circle cx="214.2" cy="102.9" r="4" fill="#3465a4"><title>Heriot Watt University</title></circle></a><a href="/variants/s11/db2w20r1y2dg8g4dg2g2dg2db20w2~x2/"><circle cx="140.9" cy="108.4" r="4" fill="#3465a4"><title>Nova Scotia Dress Canadian Tartan</title></circle></a><a href="/variants/s15/w6db6w3db44dg20g8dg2g8dg6r3dg2r3dg4w25ly4/"><circle cx="134.3" cy="93.2" r="4" fill="#3465a4"><title>Anstey (Personal)</title></circle></a><a href="/variants/s15/w6db6w3db44dg20g8dg2g8dg6r3dg2r3dg4w25ly4~g2308144-ly3106085/"><circle cx="133.7" cy="93.1" r="4" fill="#3465a4"><title>Anstey in New Scotland (Personal)</title></circle></a><a href="/variants/s11/w3dbi1g18r3lb4r3db4dbi3db2dbi24ri1~x2~dbi1406275-r2108022-db1204274-ri2109032/"><circle cx="200.9" cy="94.7" r="4" fill="#3465a4"><title>Queen of the South Football Club</title></circle></a><a href="/variants/s14/w4db1dbi12db1r8w8db8w2db1w2db24ly4db1r2~x2~db1404245-dbi1406275/"><circle cx="219.4" cy="110.2" r="4" fill="#3465a4"><title>Submariners (Unofficial)</title></circle></a><a href="/variants/s13/r4g1w5g1r2g1w5db4t20db8y2db8y4~x2/"><circle cx="130.6" cy="123.0" r="4" fill="#3465a4"><title>Pille Family (Belgium) (Personal)</title></circle></a><circle cx="187.7" cy="92.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

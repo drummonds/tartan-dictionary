@@ -1,6 +1,11 @@
 ---
 title: "Redpath, Robert A (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Redpath, Robert A"
+  url: "/tartans/r/re/redpath-robert-a/"
 ---
 This is the **Redpath, Robert A (Personal)** sett — one scale-free proportion (`r26n4r1dp2g1n4g14lb2`), colour order pattern
 [RBRBGBGW](/stripes/rbrbgbgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r6t22r6g20y2r45t2w5~x2/"><circle cx="320.7" cy="146.3" r="4" fill="#3465a4"><title>Elbrick Dress (Personal)</title></circle></a><a href="/variants/s10/n5lb5n2r47n18lr2n5g9lb7lr3~x2/"><circle cx="326.7" cy="134.5" r="4" fill="#3465a4"><title>Rikaco Red (Fashion)</title></circle></a><a href="/variants/s10/n5lb5n2r47n18o2n5g9lb7o3~x2/"><circle cx="335.8" cy="137.5" r="4" fill="#3465a4"><title>Rikaco Red</title></circle></a><a href="/variants/s5/r24t3w1g9r12~x8/"><circle cx="375.4" cy="163.7" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s8/r56w2db6w2g32r11db6w5/"><circle cx="348.5" cy="130.8" r="4" fill="#3465a4"><title>Spens Family Tartan</title></circle></a><a href="/variants/s8/lr3lb3lr1y25lr15r5lb4dy2~x2/"><circle cx="321.0" cy="159.5" r="4" fill="#3465a4"><title>Rikaco Morning Dew #2</title></circle></a><a href="/variants/s7/db4do2db2w2do9o27r4~x3/"><circle cx="324.0" cy="161.4" r="4" fill="#3465a4"><title>Unidentified 35</title></circle></a><a href="/variants/s12/dy21r2w1ly3r2dy5r21ly1y1ly1r1dy8~x2~dy1603076-ly3307090/"><circle cx="361.4" cy="123.5" r="4" fill="#3465a4"><title>Glendronach Corporate Tartan</title></circle></a><a href="/variants/s7/r2g16ri1r2ri12y1lb1~x2~r1706009-ri2109032/"><circle cx="311.7" cy="165.1" r="4" fill="#3465a4"><title>Spragg (Name)</title></circle></a><a href="/variants/s8/r22db3y1g12r6db3lb3w1~x2/"><circle cx="298.5" cy="123.2" r="4" fill="#3465a4"><title>Drummond, (Fingask)</title></circle></a><circle cx="342.8" cy="136.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

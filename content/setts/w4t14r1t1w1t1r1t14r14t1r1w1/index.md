@@ -1,6 +1,15 @@
 ---
 title: "Frame"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Frame"
+  url: "/clan/frame/"
+- name: "Frame"
+  url: "/families/frame/"
+- name: "Frame"
+  url: "/tartans/f/fr/frame-2/"
 ---
 This is the **Frame** sett — one scale-free proportion (`w4t14r1t1w1t1r1t14r14t1r1w1`), colour order pattern
 [WBRBWBRBRBRW](/stripes/wbrbwbrbrbrw/). It is recorded as **2 variants** — the same
@@ -23,6 +32,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w4t14r1t1w1t1r1t14r14t1r1w1~x4~w4000000/"><circle cx="364.6" cy="163.0" r="4" fill="#3465a4"><title>Frame</title></circle></a><a href="/variants/s12/w4db14r1db1w1db1r1db14r14db1r1w1~x2/"><circle cx="334.0" cy="146.8" r="4" fill="#3465a4"><title>Frame Family Tartan</title></circle></a><a href="/variants/s11/w16n2w2n2w2n32r3n32w16n2w2~x2/"><circle cx="389.3" cy="161.3" r="4" fill="#3465a4"><title>MacLachlan, Marled Dress (Fashion)</title></circle></a><a href="/variants/s13/lb12r4db4lb42r6lb6db11lb6g19lb8r4lb6db6/"><circle cx="307.8" cy="172.5" r="4" fill="#3465a4"><title>Bermuda Blue (1962) (District)</title></circle></a><a href="/variants/s12/w2r5b4g8b4r5w2r5b40g8b4w2~x2/"><circle cx="366.1" cy="135.2" r="4" fill="#3465a4"><title>Yamaue (Corporate)</title></circle></a><a href="/variants/s13/lb4t2lb25n16k4lb2n2lb2n10lb4k2lb2t2~x2~lb3200000-t2304245/"><circle cx="267.0" cy="142.3" r="4" fill="#3465a4"><title>Balmoral (Jack Allen)</title></circle></a><a href="/variants/s11/lb30r2lb2k5lb3dy2lb3dy22lb3k2lb3~x2/"><circle cx="294.4" cy="123.3" r="4" fill="#3465a4"><title>Dunbarton Weft</title></circle></a><a href="/variants/s13/r3g3r35db3r3db35r3g35r3db3r35g3r3~x2/"><circle cx="303.3" cy="160.5" r="4" fill="#3465a4"><title>Robertson 1819</title></circle></a><a href="/variants/s12/r2lb22g3r2g2r3g2r3g2r3g2w2~x4/"><circle cx="279.5" cy="153.7" r="4" fill="#3465a4"><title>Princess Marina #2</title></circle></a><a href="/variants/s13/lb9r5lb51n13k13lb5n4lb5n23lb11k5lb5r5/"><circle cx="262.4" cy="139.1" r="4" fill="#3465a4"><title>Balmoral Gillies (Royal)</title></circle></a><circle cx="367.0" cy="163.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

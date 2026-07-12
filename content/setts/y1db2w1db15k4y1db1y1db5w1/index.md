@@ -1,6 +1,11 @@
 ---
 title: "SPA Association (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "SPA Association"
+  url: "/tartans/s/sp/spa-association-2/"
 ---
 This is the **SPA Association (Corporate)** sett — one scale-free proportion (`y1db2w1db15k4y1db1y1db5w1`), colour order pattern
 [GBWBKGBGBW](/stripes/gbwbkgbgbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db18r1db1r1db1k7db13w2~x4/"><circle cx="431.6" cy="139.4" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><a href="/variants/s8/t18r1t1r1t1k7t13w2~x4/"><circle cx="409.1" cy="140.5" r="4" fill="#3465a4"><title>Tokyo Bluebells (Corporate)</title></circle></a><a href="/variants/s8/db73g16db10r8db10k4db10w2~x2/"><circle cx="481.1" cy="97.1" r="4" fill="#3465a4"><title>Scotch Whisky Heritage Centre</title></circle></a><a href="/variants/s8/db73g16db10r8db10k4db10w2/"><circle cx="481.1" cy="97.1" r="4" fill="#3465a4"><title>Scotch Whisky Heritage Corporate Tartan</title></circle></a><a href="/variants/s10/db42k6db3k3db3w5db17w7dy10k3~x2/"><circle cx="327.0" cy="134.0" r="4" fill="#3465a4"><title>California Riverside, University of (Corporate)</title></circle></a><a href="/variants/s10/db42k6db3k3db3w5db17w7ly10k3~x2/"><circle cx="314.7" cy="131.0" r="4" fill="#3465a4"><title>California Riverside, Uni. (Corp)</title></circle></a><a href="/variants/s9/r3db21r3db3k13db13lb3db3w2~x2/"><circle cx="280.6" cy="154.4" r="4" fill="#3465a4"><title>Fitzgerald Blue Irish Family Tartan</title></circle></a><a href="/variants/s8/r5db20r3db20w6db3lb2db1~x2/"><circle cx="417.0" cy="153.4" r="4" fill="#3465a4"><title>Masai Shuka 29 (Artefact)</title></circle></a><a href="/variants/s8/db50y4db3y4db8k2dbi12w5~x2~db1003265-dbi1605267/"><circle cx="409.8" cy="108.7" r="4" fill="#3465a4"><title>Indiana #2</title></circle></a><a href="/variants/s10/db7w2db28k7db3ly2db2g2db13r2~x2/"><circle cx="410.2" cy="113.6" r="4" fill="#3465a4"><title>Pride of the Highlands (Fashion)</title></circle></a><circle cx="391.8" cy="124.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Robert Lee Jordan Defiance (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Robert Lee Jordan Defiance"
+  url: "/tartans/r/ro/robert-lee-jordan-defiance/"
 ---
 This is the **Robert Lee Jordan Defiance (Personal)** sett — one scale-free proportion (`k4dg21dp1dg3dp12db3dp3db4dp3db24k1w5r3`), colour order pattern
 [KKGBGBBBBBBKWR](/stripes/kkgbgbbbbbbkwr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/r3w5k1db24dp3db4dp3db3dp12dg3dp1dg21k1ly3~x2/"><circle cx="156.8" cy="78.6" r="4" fill="#3465a4"><title>Robert Lee Jordan Defiance (Per.)</title></circle></a><a href="/variants/s12/dg9ri2dp2dg3dp18dg2k2dg1k19r1db33w2~x2~dg1505139-ri1807008-dp1607327-db1204274-w3600000/"><circle cx="170.7" cy="62.4" r="4" fill="#3465a4"><title>Western Isles Fashion Tartan</title></circle></a><a href="/variants/s12/g9r2dp2g3dp18g2k2g1k19ri1db33w2~x2~r1807008-ri2109032-db1204274-w3600000/"><circle cx="158.1" cy="60.6" r="4" fill="#3465a4"><title>Western Isles</title></circle></a><a href="/variants/s12/g9r2dp2g3dp18g2k2g1k19ri1db33w2~x2~r1807008-ri2109032/"><circle cx="150.3" cy="59.0" r="4" fill="#3465a4"><title>Western Isles (Fashion)</title></circle></a><a href="/variants/s11/dg8dpi2dp2dg3dp16dg2k2dg1k16db30w2~x2~dpi1607327-dp1503322/"><circle cx="199.9" cy="97.1" r="4" fill="#3465a4"><title>Pride of Scotland General Tartan</title></circle></a><a href="/variants/s11/dg10y2k2dg2k13dg2k2dg1dp13db24w2~x2/"><circle cx="167.5" cy="108.9" r="4" fill="#3465a4"><title>Lang of Sherbrooke (Personal)</title></circle></a><a href="/variants/s11/dg10y2dp2dg2dp13dg2dp2dg1k13db24w2~x2/"><circle cx="178.4" cy="112.9" r="4" fill="#3465a4"><title>Lang of Sherbrooke (Personal)</title></circle></a><a href="/variants/s11/lo2k8db48lb9n12r3n9r3n12dg8lo2~x2/"><circle cx="184.4" cy="86.3" r="4" fill="#3465a4"><title>Heston (Name)</title></circle></a><a href="/variants/s12/dg4r1dg1r3dg16k12r1db27lb2db3lb1y2~x2/"><circle cx="209.2" cy="82.9" r="4" fill="#3465a4"><title>McGuirk (2013)</title></circle></a><a href="/variants/s17/k2g2b1g2b1g2b1g12db4k3db3k3db3k3db4dp24r2~x2/"><circle cx="147.6" cy="69.9" r="4" fill="#3465a4"><title>Rendell, Charles (Personal)</title></circle></a><circle cx="158.1" cy="76.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Hoffman Texas German"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Hoffman Texas German"
+  url: "/tartans/h/ho/hoffman-texas-german/"
 ---
 This is the **Hoffman Texas German** sett — one scale-free proportion (`k23r27db3r5w3k14y6`), colour order pattern
 [GKWRBRK](/stripes/gkwrbrk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r8k8lo1k8r8db1~x4~db1406275/"><circle cx="211.2" cy="210.1" r="4" fill="#3465a4"><title>Skinner Family Tartan</title></circle></a><a href="/variants/s6/r8k8y1k8r8w1~x4/"><circle cx="209.4" cy="210.3" r="4" fill="#3465a4"><title>Connel</title></circle></a><a href="/variants/s6/db1r12k6y1k6db1~x4/"><circle cx="227.4" cy="167.1" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/variants/s7/r6k3r29k23w4k7y3~x2/"><circle cx="220.9" cy="162.6" r="4" fill="#3465a4"><title>MacPherson Red Cluny</title></circle></a><a href="/variants/s6/k4r26k4w2k13y4~x2/"><circle cx="241.9" cy="155.0" r="4" fill="#3465a4"><title>Dunbar #2</title></circle></a><a href="/variants/s6/r26lb3r4k16db16k4~x2/"><circle cx="181.1" cy="195.2" r="4" fill="#3465a4"><title>Graham of Menteith, (Red)</title></circle></a><a href="/variants/s8/k22ly4k4g4k16r36y3r6~x2/"><circle cx="197.9" cy="137.7" r="4" fill="#3465a4"><title>Dean Brae</title></circle></a><a href="/variants/s6/w5dr34k22dr4lb24dr4~x2/"><circle cx="181.4" cy="200.3" r="4" fill="#3465a4"><title>Wcwm 759-2</title></circle></a><a href="/variants/s6/r3n27k6lo13k14r3~x2/"><circle cx="158.4" cy="195.3" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish special grey</title></circle></a><a href="/variants/s6/y6k5o4k48r36w6/"><circle cx="216.1" cy="141.1" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><circle cx="178.6" cy="165.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

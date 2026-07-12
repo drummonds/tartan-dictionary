@@ -1,6 +1,11 @@
 ---
 title: "Kelvinside Academy (School)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Kelvinside Academy"
+  url: "/tartans/k/ke/kelvinside-academy/"
 ---
 This is the **Kelvinside Academy (School)** sett — one scale-free proportion (`w4n15db8k4db28k2db4w2`), colour order pattern
 [WBBKBKBW](/stripes/wbbkbkbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db9k1dbi4k1db18lb5k1lb1k1lb5db4~x2~db1204274-dbi1406275/"><circle cx="323.0" cy="130.2" r="4" fill="#3465a4"><title>Indigo Blue (Corporate)</title></circle></a><a href="/variants/s7/lb5db30k25lb5db30dp2lb5~x2/"><circle cx="292.5" cy="174.7" r="4" fill="#3465a4"><title>Van Loo (Personal)</title></circle></a><a href="/variants/s8/r3db2w2db26k22w3db3w3~x2/"><circle cx="235.0" cy="145.5" r="4" fill="#3465a4"><title>DeCloud-McMasters (Personal)</title></circle></a><a href="/variants/s6/y8w3db40k12w3y3~x2/"><circle cx="290.4" cy="159.5" r="4" fill="#3465a4"><title>Wolverine (Corporate)</title></circle></a><a href="/variants/s7/db4r2db39k11g2w16r2~x2~r2109032/"><circle cx="256.1" cy="118.9" r="4" fill="#3465a4"><title>Sinclair Dress Personal Tartan</title></circle></a><a href="/variants/s7/db4r2db39k11g2w16r2~x2/"><circle cx="256.0" cy="118.8" r="4" fill="#3465a4"><title>Sinclair, The Jack</title></circle></a><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><circle cx="261.8" cy="117.8" r="4" fill="#3465a4"><title>Jack Sinclair (Personal)</title></circle></a><a href="/variants/s7/lb5db30k25lb5db30dp3lb5~x2/"><circle cx="275.2" cy="191.4" r="4" fill="#3465a4"><title>Van Loo Tartan</title></circle></a><a href="/variants/s6/lr8w3db40k12w3lr3~x2/"><circle cx="281.1" cy="155.0" r="4" fill="#3465a4"><title>Wolverines (Corporate)</title></circle></a><a href="/variants/s8/db30lb2k9w3db6w4k3lb6~x2/"><circle cx="273.8" cy="148.2" r="4" fill="#3465a4"><title>Detroit Lions</title></circle></a><circle cx="302.8" cy="159.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

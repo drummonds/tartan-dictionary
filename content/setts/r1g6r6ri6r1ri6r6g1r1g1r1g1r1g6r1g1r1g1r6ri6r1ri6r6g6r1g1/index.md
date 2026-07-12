@@ -1,6 +1,15 @@
 ---
 title: "MacNab"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacNab"
+  url: "/clan/macnab/"
+- name: "MacNab"
+  url: "/families/macnab/"
+- name: "MacNab"
+  url: "/tartans/m/ma/macnab-4/"
 ---
 This is the **MacNab** sett — one scale-free proportion (`r1g6r6ri6r1ri6r6g1r1g1r1g1r1g6r1g1r1g1r6ri6r1ri6r6g6r1g1`), colour order pattern
 [GRGRRRRRGRGRGRGRGRGRRRRRGR](/stripes/grgrrrrrgrgrgrgrgrgrrrrrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/r5n1r2g4r3g2r2n5r5g1r1g2r1g1r1g4r1g1r1g2~x2/"><circle cx="283.2" cy="235.4" r="4" fill="#3465a4"><title>MacIntosh Old Ancient Artifact Tartan</title></circle></a><a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x4~r1807008-ri2109032/"><circle cx="262.5" cy="220.7" r="4" fill="#3465a4"><title>MacNab (Logan)</title></circle></a><a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x2~r1807008-ri2109032/"><circle cx="262.5" cy="220.7" r="4" fill="#3465a4"><title>MacNab Clan Tartan</title></circle></a><a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x2~r1707016-ri2008029/"><circle cx="265.8" cy="222.6" r="4" fill="#3465a4"><title>MacNab 3</title></circle></a><a href="/variants/s20/r5n1r2dg4r3dg2r2n5r5dg1r1dg2r1dg1r1dg4r1dg1r1dg2~x2/"><circle cx="270.0" cy="226.5" r="4" fill="#3465a4"><title>MacIntosh Ancient</title></circle></a><a href="/variants/s15/r5db3r3g16r3g3r3db5r3y5r12db5r3db3r5~x4~db1406275/"><circle cx="200.1" cy="188.9" r="4" fill="#3465a4"><title>Grant of Ballindalloch (Personal)</title></circle></a><a href="/variants/s30/r1g6r6g1y1g1r6y8r1g1r1y8g6r1y1r1g6y8r1g1r1y8r6g1y1g1r6g6r1y1~x2/"><circle cx="292.7" cy="205.9" r="4" fill="#3465a4"><title>Strathearn</title></circle></a><circle cx="262.8" cy="207.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

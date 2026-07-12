@@ -1,6 +1,11 @@
 ---
 title: "London '88"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "London '88"
+  url: "/tartans/l/lo/london-88/"
 ---
 This is the **London '88** sett — one scale-free proportion (`y4db55n4k4db2y2db2w5db3r2n2k2`), colour order pattern
 [GBBKBGBWBRBK](/stripes/gbbkbgbwbrbk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db42w5db1w1y9db1dg2w1db1r1~x4/"><circle cx="436.2" cy="63.5" r="4" fill="#3465a4"><title>Stratford (Ontario), City of</title></circle></a><a href="/variants/s10/db109lb12r4w4db5dy4g5k4r4lb18/"><circle cx="342.0" cy="37.2" r="4" fill="#3465a4"><title>Yorston (2014)</title></circle></a><a href="/variants/s12/r4db11lb4w3lb4y6db3k3db4k1db30w3~x2/"><circle cx="292.2" cy="70.5" r="4" fill="#3465a4"><title>Murison (2014)</title></circle></a><a href="/variants/s8/db73g16db10r8db10k4db10w2~x2/"><circle cx="481.1" cy="97.1" r="4" fill="#3465a4"><title>Scotch Whisky Heritage Centre</title></circle></a><a href="/variants/s8/db73g16db10r8db10k4db10w2/"><circle cx="481.1" cy="97.1" r="4" fill="#3465a4"><title>Scotch Whisky Heritage Corporate Tartan</title></circle></a><a href="/variants/s10/db109lb12r4w4db5y4g5k4r4lb18/"><circle cx="341.2" cy="37.0" r="4" fill="#3465a4"><title>Yorston (2014)</title></circle></a><a href="/variants/s12/r4db11lg4w3lg4ly6db3k3db4k1db30w3~x2/"><circle cx="282.3" cy="69.2" r="4" fill="#3465a4"><title>Murison, Ina</title></circle></a><a href="/variants/s12/db25w2k2db15ly2db1ly2db15k2w2dg16r1~x2/"><circle cx="336.1" cy="92.7" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Pers)</title></circle></a><a href="/variants/s12/db25w2k2db15y2db1y2db15k2w2g16r1~x2/"><circle cx="325.1" cy="90.3" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Modern)</title></circle></a><a href="/variants/s14/db23k1db1w1db1r1db4y2db1y2db1y2db1y2~x2/"><circle cx="451.8" cy="68.9" r="4" fill="#3465a4"><title>King Pootatau Te Wherowhero</title></circle></a><circle cx="396.8" cy="42.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

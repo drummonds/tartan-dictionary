@@ -1,6 +1,15 @@
 ---
 title: "Ross Hunting Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ross"
+  url: "/clan/ross/"
+- name: "Ross"
+  url: "/families/ross/"
+- name: "Ross Hunting"
+  url: "/tartans/r/ro/ross-hunting-3/"
 ---
 This is the **Ross Hunting Dress** sett — one scale-free proportion (`dg4g3dg3g4dg4db8dg3db9w29r2w4r2`), colour order pattern
 [GGGGGBGBWRWR](/stripes/gggggbgbwrwr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w4lb1db1w22lb2w2db12r2g16r4lb1r4db2~x2/"><circle cx="171.0" cy="112.3" r="4" fill="#3465a4"><title>MacGillivray Dress, Janice</title></circle></a><a href="/variants/s13/w4lb1db1w22lb2w2db12r2dg16r4lb1r4db2~x2/"><circle cx="165.6" cy="108.1" r="4" fill="#3465a4"><title>MacGillivray Dress, Janice (Personal</title></circle></a><a href="/variants/s9/r2db12dg2g11dg4db5g2w24g2~x2/"><circle cx="150.8" cy="162.5" r="4" fill="#3465a4"><title>Fraser Gathering Dress (1997)</title></circle></a><a href="/variants/s10/lb18w1lb4w1ly4dg1ly2dg12r2dg4~x2/"><circle cx="229.3" cy="137.2" r="4" fill="#3465a4"><title>Michigan, State of</title></circle></a><a href="/variants/s9/r2db12dg2g11dg4db5g2w24g2~x2~w3600000/"><circle cx="158.7" cy="164.7" r="4" fill="#3465a4"><title>Fraser Gathering Dress Clan Tartan</title></circle></a><a href="/variants/s10/w50g5y2g5r2g20r2db5y2db40~x2/"><circle cx="194.9" cy="111.6" r="4" fill="#3465a4"><title>Cornell (Fashion)</title></circle></a><a href="/variants/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2~r2109032/"><circle cx="160.0" cy="139.3" r="4" fill="#3465a4"><title>Walker, Dress (Personal)</title></circle></a><a href="/variants/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2/"><circle cx="160.3" cy="139.2" r="4" fill="#3465a4"><title>Walker, Dress (Name)</title></circle></a><a href="/variants/s10/w4k2w30g3dp3g3dp7db14g3r3~x2/"><circle cx="169.9" cy="109.8" r="4" fill="#3465a4"><title>Edinburgh Dress (Dance)</title></circle></a><a href="/variants/s14/lb7w3lb2w30k5w3g2w3g8w3g2w3k30dp2~x2/"><circle cx="168.6" cy="98.4" r="4" fill="#3465a4"><title>Wiseman Dairies Corporate Tartan</title></circle></a><circle cx="179.2" cy="128.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

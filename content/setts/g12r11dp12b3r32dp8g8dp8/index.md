@@ -1,6 +1,15 @@
 ---
 title: "Fiddes"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Fiddes"
+  url: "/clan/fiddes/"
+- name: "Fiddes"
+  url: "/families/fiddes/"
+- name: "Fiddes"
+  url: "/tartans/f/fi/fiddes-3/"
 ---
 This is the **Fiddes** sett — one scale-free proportion (`g12r11dp12b3r32dp8g8dp8`), colour order pattern
 [BGBRBBRG](/stripes/bgbrbbrg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g12ri11dp12r3ri32dp8g8dp8~x2~ri2209032-r2208029/"><circle cx="258.1" cy="209.6" r="4" fill="#3465a4"><title>Fiddes</title></circle></a><a href="/variants/s8/db8r8dg17w3r35db10dg15w3~x2/"><circle cx="230.3" cy="194.6" r="4" fill="#3465a4"><title>James of Glencarr (Personal)</title></circle></a><a href="/variants/s7/r28db12r3dg20lb2dg2r7~x2/"><circle cx="300.4" cy="183.4" r="4" fill="#3465a4"><title>Carrick (Strathmore) District Tartan</title></circle></a><a href="/variants/s9/g3r9lb1g9r1g1r9db9r1~x4/"><circle cx="245.3" cy="201.7" r="4" fill="#3465a4"><title>Convention of the Baronage (Corp)</title></circle></a><a href="/variants/s10/r16db6y4db6w1db6y4db6r16db1~x4~db1406275/"><circle cx="306.6" cy="183.3" r="4" fill="#3465a4"><title>Superfast Ferries</title></circle></a><a href="/variants/s7/r6g16r4db12r16lb1r2~x2/"><circle cx="274.5" cy="193.5" r="4" fill="#3465a4"><title>MacQuarrie #6</title></circle></a><a href="/variants/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/"><circle cx="269.3" cy="168.8" r="4" fill="#3465a4"><title>Glenfinnan</title></circle></a><a href="/variants/s9/g3r9lb1g9r1g1r8db9r1~x4/"><circle cx="238.7" cy="202.6" r="4" fill="#3465a4"><title>Baronage</title></circle></a><a href="/variants/s7/dr6ly3dr20r20dr3r3lb6~x2/"><circle cx="277.9" cy="218.9" r="4" fill="#3465a4"><title>Banff</title></circle></a><a href="/variants/s7/r6g16r4db12r16w1r2~x2/"><circle cx="271.0" cy="192.4" r="4" fill="#3465a4"><title>MacQuarrie LO</title></circle></a><circle cx="260.5" cy="212.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

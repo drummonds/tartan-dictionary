@@ -1,6 +1,11 @@
 ---
 title: "Mayo County Crest (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Mayo County Crest"
+  url: "/tartans/m/ma/mayo-county-crest/"
 ---
 This is the **Mayo County Crest (Fashion)** sett — one scale-free proportion (`y9g7db3r28db4g7db5lb4db5dg7db3w6`), colour order pattern
 [GGBRBGBWBGBW](/stripes/ggbrbgbwbgbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r24w3y4dg18dp18g3lb4~x2/"><circle cx="103.7" cy="166.2" r="4" fill="#3465a4"><title>Walter (Personal)</title></circle></a><a href="/variants/s12/o5db2r14do9b8lb3r3lb3r3lb3b19w3~x2/"><circle cx="134.5" cy="154.8" r="4" fill="#3465a4"><title>Meath</title></circle></a><a href="/variants/s14/db24g4dg2g8dg2g4db12g3r22dy3lb8g3r22dy6~x2/"><circle cx="147.4" cy="142.6" r="4" fill="#3465a4"><title>Devon 2000</title></circle></a><a href="/variants/s9/r26lb7dp8y3r3w3g20dp10w2~x2/"><circle cx="107.9" cy="139.5" r="4" fill="#3465a4"><title>Wilson's No.227</title></circle></a><a href="/variants/s14/db24g4dg2g8dg2g4db12g3r22y3b8g3r22y6~x2/"><circle cx="157.3" cy="146.2" r="4" fill="#3465a4"><title>Devon 2000</title></circle></a><a href="/variants/s9/r22y3db5ly2r2w2dg11db4w3~x2/"><circle cx="112.2" cy="128.2" r="4" fill="#3465a4"><title>Norwich No.014</title></circle></a><a href="/variants/s9/r22lb6db10y4r4w4g22db8y3/"><circle cx="107.3" cy="189.2" r="4" fill="#3465a4"><title>Unnamed No 14 Tartan</title></circle></a><a href="/variants/s11/lb24dp3lb3dp3lb3dp10o12dpi12g12o2n3~x2~o2104072-dpi1105325/"><circle cx="127.7" cy="159.2" r="4" fill="#3465a4"><title>Isle of Skye (District)</title></circle></a><a href="/variants/s10/lo3do2n18lb3o13lb4k3lb4do18lb3~x2/"><circle cx="109.8" cy="167.9" r="4" fill="#3465a4"><title>Leitrim, County</title></circle></a><a href="/variants/s12/ly5db2r14do9dg8db3r3db3r3db3dg18lyi3~x2~ly2705081-lyi3103095/"><circle cx="150.3" cy="175.0" r="4" fill="#3465a4"><title>Meath, County</title></circle></a><circle cx="101.5" cy="148.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Beaverbrook (District)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Beaverbrook"
+  url: "/tartans/b/be/beaverbrook/"
 ---
 This is the **Beaverbrook (District)** sett — one scale-free proportion (`g2dg2g2dg1lb1y1lb1y1lb1dg18r6o5r9y2r3o9r8lb4y3n2y1r16dg18lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg18r16y1n2y3lb4r8o9r3y2r9o5r6dg18lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1`), colour order pattern
 [GGGGWGWGWGRRRGRRRWGBGRGWGWGWGGGGGGGWGWGWGGGGGGGWGWGWGRGBGWRRRGRRRGWGWGWGGGGGGGWGW](/stripes/ggggwgwgwgrrrgrrrwgbgrgwgwgwgggggggwgwgwgggggggwgwgwgrgbgwrrrgrrrgwgwgwgggggggwgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s44/lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg18r16y1n2y3lb4r8dr9r3y2r9dr5r6dg18lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1~x2/"><circle cx="136.1" cy="46.2" r="4" fill="#3465a4"><title>New Brunswick or Beaverbrook District Tartan</title></circle></a><a href="/variants/s44/lb1y1lb1dg1b2dg2b2dg2b2dg1lb1y1lb1y1lb1dg18r16y1n2y3lb4r8o9r3y2r9o5r6dg18lb1y1lb1y1lb1dg1b2dg2b2dg2b2dg1lb1y1lb1~x2/"><circle cx="137.4" cy="44.9" r="4" fill="#3465a4"><title>New Brunswick, or Beaverbrook</title></circle></a><a href="/variants/s44/lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg28r24y1n2y3lb4r10dy16r4y2r15dy5r9dg28lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1~x2/"><circle cx="180.7" cy="17.4" r="4" fill="#3465a4"><title>New Brunswick (Lyon Court Books)</title></circle></a><a href="/variants/s66/r8lb2k15lb2t5lb2dg20g2dg4g2dg20g3ly3r2lb2r2ly3g3dg20lb2r32lb2dg20lb2t5lb2g4k15lb2t20lb2r8lb2r8lb2t20lb2k15g4lb2t5lb2dg20lb2r32lb2dg20g3ly3r2lb2r2ly3g3dg20g2dg4g2dg20lb2t5lb2k15lb2r8lb2~lb3200000-t2503-hc89951fb8ca95beb/"><circle cx="65.6" cy="30.5" r="4" fill="#3465a4"><title>Hunter</title></circle></a><a href="/variants/s44/lb1ly1lb1dg1g2dg2g2dg2g2dg1lb1ly1lb1ly1lb1dg28r24ly1n2ly3lb4r10dy16r4ly2r15dy5r9dg28lb1ly1lb1ly1lb1dg1g2dg2g2dg2g2dg1lb1ly1lb1~x2~ly3307090-dg1806142-g2408144-dy1603076/"><circle cx="187.7" cy="22.6" r="4" fill="#3465a4"><title>New Brunswick</title></circle></a><a href="/variants/s38/y2lb2dg1g2dg2g2dg2g2dg2lb2y2lb2dg28r24y1n2y3lb4r10dy16r4y2r14dy5r10dg28lb2y2lb2dg1g2dg2g2dg2g2dg1lb2y2~dg1806142-g2408144/"><circle cx="185.2" cy="40.0" r="4" fill="#3465a4"><title>New Brunswick variation Canadian Tartan</title></circle></a><a href="/variants/s66/r30ri4y6ly4ri4r16lr2ri4lr2ly4db18y6lyi3lr2ly4lr2lyi3y6db18ly4lr2ri4r12y2r12ri3lr2g10lr2g2lyi4g2lr2y8lr4y8lr2g2lyi4g2lr2g10lr2ri4r12y2r12ri4lr2g10ly4lr4ly4g10lr2y6lr2db12lr2db12lr2y6lr2ri4r12lr2~x2~r21-hbb064559cb0cff7b/"><circle cx="40.2" cy="49.0" r="4" fill="#3465a4"><title>Hunter Portrait/Artefact Tartan</title></circle></a><circle cx="125.8" cy="24.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

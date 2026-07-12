@@ -1,6 +1,15 @@
 ---
 title: "Scotia"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Scotia"
+  url: "/clan/scotia/"
+- name: "Scotia"
+  url: "/families/scotia/"
+- name: "Scotia"
+  url: "/tartans/s/sc/scotia/"
 ---
 This is the **Scotia** sett — one scale-free proportion (`g6dp14t22db6ly16w1db6t6`), colour order pattern
 [BBWYBBBG](/stripes/bbwybbbg/). It is recorded as **2 variants** — the same
@@ -23,6 +32,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g6dp14t22db6ly16w1db6t6~x2~g2408144/"><circle cx="176.5" cy="183.6" r="4" fill="#3465a4"><title>Scotia</title></circle></a><a href="/variants/s6/lb26n10db19dr6dy2t9~x2~db1404245-t2105244/"><circle cx="185.4" cy="218.3" r="4" fill="#3465a4"><title>Meeson Formal</title></circle></a><a href="/variants/s9/w3db19w1lb17y11g10w1db3w1~x2/"><circle cx="176.5" cy="170.4" r="4" fill="#3465a4"><title>Bird Family (Australia) (Personal)</title></circle></a><a href="/variants/s8/dg18g6dy3w1dy3w1lb6db6~x2/"><circle cx="201.1" cy="166.3" r="4" fill="#3465a4"><title>Iroquois Falls Centenary</title></circle></a><a href="/variants/s6/db37g27dr22w1dp6ly5~x2/"><circle cx="240.0" cy="165.2" r="4" fill="#3465a4"><title>Palazzo Bloise (Personal)</title></circle></a><a href="/variants/s9/db25w2db25lb25r2lb25g25dy2g25~x2/"><circle cx="138.9" cy="195.6" r="4" fill="#3465a4"><title>Royal Columbian Canadian Tartan</title></circle></a><a href="/variants/s9/db25lb25r2lb25g25y2g25db25w4~x2/"><circle cx="132.3" cy="198.3" r="4" fill="#3465a4"><title>Royal Columbian</title></circle></a><a href="/variants/s7/dg12lb8db4ly2dr1ly1db6~x4/"><circle cx="183.0" cy="209.6" r="4" fill="#3465a4"><title>F.I.A.T.A. Congress of 1990</title></circle></a><a href="/variants/s7/n50lb50y1db27g18do9y4~x2/"><circle cx="223.3" cy="149.7" r="4" fill="#3465a4"><title>Lachance (Canada) (Personal)</title></circle></a><a href="/variants/s8/db1lb12dp6w1y3db14dbi18w1~x2~db1004274-dbi1404245/"><circle cx="179.2" cy="169.4" r="4" fill="#3465a4"><title>Ancient Gathering</title></circle></a><circle cx="178.1" cy="184.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

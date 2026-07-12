@@ -1,6 +1,11 @@
 ---
 title: "Auld Lang Syne, Grey (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Auld Lang Syne"
+  url: "/tartans/a/au/auld-lang-syne-2/"
 ---
 This is the **Auld Lang Syne, Grey (Fashion)** sett — one scale-free proportion (`w4k2n12dr3k3dr3k23n10k2n6k2`), colour order pattern
 [KBKBKBKBBKW](/stripes/kbkbkbkbbkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w4k2o12dr3k3dr3k23o10k2o6k2~x2~o2500000/"><circle cx="194.7" cy="143.4" r="4" fill="#3465a4"><title>Auld Lang Syne, Grey Weavers Tartan</title></circle></a><a href="/variants/s7/k36w3k10w3dg28dr6k18~x2~dg1804158/"><circle cx="206.6" cy="155.5" r="4" fill="#3465a4"><title>Wild Highlanders</title></circle></a><a href="/variants/s9/n3dp3k16n2o2n16k3n2o2~x2~n1900000-o2500000/"><circle cx="231.7" cy="172.6" r="4" fill="#3465a4"><title>Chinzei Keiai Junior High School</title></circle></a><a href="/variants/s11/k2r1dg10k10lb4k2lb2k2lb5k2lb2~x2/"><circle cx="154.4" cy="163.6" r="4" fill="#3465a4"><title>Bijral</title></circle></a><a href="/variants/s6/k61n20ly2n20k5ly4~x2/"><circle cx="201.2" cy="149.6" r="4" fill="#3465a4"><title>Sonsub Corporate Tartan</title></circle></a><a href="/variants/s12/w12lb2k5lb2k10lb2k15lb2k20lb2y25lb2~x2/"><circle cx="202.7" cy="145.3" r="4" fill="#3465a4"><title>Liberty Square</title></circle></a><a href="/variants/s9/n3o3k16n2k2n16k3n2lb2~x2~n1900000-o2500000/"><circle cx="225.6" cy="166.4" r="4" fill="#3465a4"><title>Chinzei Keiai Senior High School</title></circle></a><a href="/variants/s10/k6lb2n2lb3n2lb2n30k20w6k4~x2~n1900000/"><circle cx="205.8" cy="124.8" r="4" fill="#3465a4"><title>Nunavut</title></circle></a><a href="/variants/s9/n3o3k16n2k2n16k3n2lb2~x2~n1700000-o2500000/"><circle cx="231.1" cy="167.9" r="4" fill="#3465a4"><title>Chinzei Keiai Senior High School</title></circle></a><a href="/variants/s10/k6lb2n2lb3n2lb2n30k20w6k4~x2/"><circle cx="205.0" cy="124.6" r="4" fill="#3465a4"><title>Nunavut (District)</title></circle></a><circle cx="211.7" cy="150.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

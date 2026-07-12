@@ -1,6 +1,11 @@
 ---
 title: "Voluntary Service Aberdeen"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Voluntary Service Aberdeen"
+  url: "/tartans/v/vo/voluntary-service-aberdeen/"
 ---
 This is the **Voluntary Service Aberdeen** sett — one scale-free proportion (`oi4w1k35n1db2o4w1db14o8w1`), colour order pattern
 [RWKBBRWBRW](/stripes/rwkbbrwbrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k4n6k4o4n29o6k64db10k4db6lb4w2~n1900000-o2500000/"><circle cx="246.2" cy="51.2" r="4" fill="#3465a4"><title>Earthrise</title></circle></a><a href="/variants/s10/g1db28k11r5w1r5k11y1k2g1~x2/"><circle cx="206.3" cy="78.6" r="4" fill="#3465a4"><title>Scragg Moran (Personal)</title></circle></a><a href="/variants/s10/w6n8dt4n2dt31k16dr1k2dr4r3~x2~n2002277-dt1203265/"><circle cx="203.5" cy="83.9" r="4" fill="#3465a4"><title>Bell Rock Lighthouse 200th Anniversary, The</title></circle></a><a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2/"><circle cx="254.6" cy="39.5" r="4" fill="#3465a4"><title>Hudson's Bay (Corporate)</title></circle></a><a href="/variants/s10/dp3g3w1k25db25k2db2g1r3w2~x2/"><circle cx="202.4" cy="79.0" r="4" fill="#3465a4"><title>Heart of Oak</title></circle></a><a href="/variants/s9/n4w1k36db2dr4w1db14dr8w1~x2/"><circle cx="277.1" cy="83.6" r="4" fill="#3465a4"><title>Midnight Balmoral (Personal)</title></circle></a><a href="/variants/s10/g1b28k11dr5w1dr5k11ly1k2g1~x2/"><circle cx="195.8" cy="78.8" r="4" fill="#3465a4"><title>Scragg, Moran (Personal)</title></circle></a><a href="/variants/s9/lb2k1r5n3o12n4lb1k40db1~x2~n1900000-o2500000/"><circle cx="288.1" cy="42.7" r="4" fill="#3465a4"><title>Montgomerie, Colin</title></circle></a><a href="/variants/s8/db1k6n35k8dp3db1k8w1~x2/"><circle cx="282.8" cy="49.9" r="4" fill="#3465a4"><title>Melrose Newbigging Grey</title></circle></a><a href="/variants/s11/k36b6ly1b1w1b1dy8o4b1o2w1~x4/"><circle cx="287.1" cy="37.4" r="4" fill="#3465a4"><title>Flotilla Navy</title></circle></a><circle cx="231.2" cy="58.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Soroptimist International"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Soroptimist International"
+  url: "/tartans/s/so/soroptimist-international-2/"
 ---
 This is the **Soroptimist International** sett — one scale-free proportion (`t12ly2t12k6o10k1w2k1o10k6`), colour order pattern
 [BYBKRKWKRK](/stripes/bybkrkwkrk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dr4k1dr4g8k6lb3db2lb11db1dr2~x4/"><circle cx="87.4" cy="165.8" r="4" fill="#3465a4"><title>MacDuff Dress #2</title></circle></a><a href="/variants/s10/k23lb25r4lb25k23y2g25k4g25y2~x2/"><circle cx="91.9" cy="168.8" r="4" fill="#3465a4"><title>Forsyth</title></circle></a><a href="/variants/s10/k23lb25r4lb25k23y2g25k4g25y4/"><circle cx="86.8" cy="171.6" r="4" fill="#3465a4"><title>Forsyth</title></circle></a><a href="/variants/s12/g8r1g2r3g12k12dy1lb12r3lb2r1lb8~x2/"><circle cx="105.2" cy="149.0" r="4" fill="#3465a4"><title>Macallan Distillery</title></circle></a><a href="/variants/s12/dg17lb3dg17k15w33db8w33k15dg17lb3dg17lb3~x2/"><circle cx="98.3" cy="165.8" r="4" fill="#3465a4"><title>MacRobart Family Tartan</title></circle></a><a href="/variants/s9/o18k3o4lb3o4k18n20k2r4~x2~o2500000-n1900000/"><circle cx="120.7" cy="160.1" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/variants/s12/k6g5k6do6w1do10k6w3dr1w12dr1w3~x4/"><circle cx="70.8" cy="156.6" r="4" fill="#3465a4"><title>Forbes - 1970 (WCWM #1)</title></circle></a><a href="/variants/s9/lr18k3lr4lb3lr4k19n20k2r4~x2~lr2800000-n1700000/"><circle cx="113.3" cy="158.1" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/variants/s8/db18k5r26k5g25k5db18y2~x2/"><circle cx="120.8" cy="170.5" r="4" fill="#3465a4"><title>St. Clement of Rome (Corporate)</title></circle></a><a href="/variants/s10/db3y1db12k4y2k4g8r2g8r1~x2/"><circle cx="128.1" cy="166.3" r="4" fill="#3465a4"><title>MacMillan Hunting</title></circle></a><circle cx="130.1" cy="165.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

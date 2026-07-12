@@ -1,6 +1,11 @@
 ---
 title: "Prince Edward Island"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Prince Edward Island"
+  url: "/tartans/p/pr/prince-edward-island-3/"
 ---
 This is the **Prince Edward Island** sett — one scale-free proportion (`g16o1g2o1g2o12r12o1y2o1r12o12g12o1w2`), colour order pattern
 [GRGRGRRRGRRRGRW](/stripes/grgrgrrrgrrrgrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/o24r24w3g21y2r1y2o6r2~x2/"><circle cx="293.8" cy="163.1" r="4" fill="#3465a4"><title>Henry, W.A.</title></circle></a><a href="/variants/s15/r13b4r13g28b3o26b10o2do2o2b10r14b4o4r4~x2/"><circle cx="208.5" cy="167.2" r="4" fill="#3465a4"><title>MacPherson 1</title></circle></a><a href="/variants/s12/do11g3do4ly3do3ly4do3y13o34g3o4b3~x2~ly3307090-y2405105/"><circle cx="255.6" cy="151.2" r="4" fill="#3465a4"><title>Harmony 1</title></circle></a><a href="/variants/s17/r30dp3ri3g12ri12g12r8ri3r8dp12ri5g3ri5g25ri4r6lb1~x2~r2208029-ri2209032/"><circle cx="235.5" cy="128.5" r="4" fill="#3465a4"><title>MacDougall #3</title></circle></a><a href="/variants/s8/r3o14g8r2g2w2g2r1~x2/"><circle cx="300.7" cy="198.1" r="4" fill="#3465a4"><title>Scott, hunting</title></circle></a><a href="/variants/s11/r2dg3dy18r2dy2r21g6dg2g2dg24lo2~x2~dy1502083-lo2706076/"><circle cx="232.7" cy="167.8" r="4" fill="#3465a4"><title>Methven</title></circle></a><a href="/variants/s7/y23o4dy6dg6y4lb1y4~x4/"><circle cx="353.1" cy="166.2" r="4" fill="#3465a4"><title>Tricor</title></circle></a><a href="/variants/s11/o2dg3dy18o2dy2o21g2dg2g2dg24lo2~x2/"><circle cx="277.2" cy="176.8" r="4" fill="#3465a4"><title>Methven</title></circle></a><a href="/variants/s12/w2y1r3g20r1y1r3y2dy14ly2r2ly2~x2~g1903114-ly2706114/"><circle cx="244.0" cy="120.7" r="4" fill="#3465a4"><title>Flodden</title></circle></a><a href="/variants/s15/lg2y1g2dg8g8o9g3y2r1o1r1o1r1o1r1~x2/"><circle cx="175.8" cy="167.7" r="4" fill="#3465a4"><title>Dixon, Clyde (Personal)</title></circle></a><circle cx="266.6" cy="165.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

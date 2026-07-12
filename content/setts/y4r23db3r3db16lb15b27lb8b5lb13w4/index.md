@@ -1,6 +1,11 @@
 ---
 title: "Shanghai Scottish"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Shanghai Scottish"
+  url: "/tartans/s/sh/shanghai-scottish/"
 ---
 This is the **Shanghai Scottish** sett — one scale-free proportion (`y4r23db3r3db16lb15b27lb8b5lb13w4`), colour order pattern
 [GRBRBWBWBWW](/stripes/grbrbwbwbww/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w2r4w2r4db18b14lb6b5lb4w2b5w2lb2~x2~db1204274-b2008266/"><circle cx="137.3" cy="170.8" r="4" fill="#3465a4"><title>Daughters of the American Revolution</title></circle></a><a href="/variants/s13/w2r2w2r4db18dbi14lb6dbi5lb4w2dbi5w2lb2~x2~db1204274-dbi1706275/"><circle cx="145.4" cy="167.2" r="4" fill="#3465a4"><title>Daughters of the American Revolution</title></circle></a><a href="/variants/s9/w4db8w1dbi1b6dbi3r6dbi1w4~x2~db0805267-dbi1604274/"><circle cx="69.0" cy="207.8" r="4" fill="#3465a4"><title>Womble</title></circle></a><a href="/variants/s9/w4db8w1dbi1r6dbi3b6dbi1w4~x2~db0805267-dbi1604274/"><circle cx="69.0" cy="207.8" r="4" fill="#3465a4"><title>Womble</title></circle></a><a href="/variants/s9/w4db8w1b1dbi6b3r6b1w4~x2~db0805267-dbi1604274/"><circle cx="68.8" cy="207.6" r="4" fill="#3465a4"><title>Womble</title></circle></a><a href="/variants/s11/db4y3db17r7w2o7w2db7b17o3b4~x2/"><circle cx="157.2" cy="180.6" r="4" fill="#3465a4"><title>Asman Hunting</title></circle></a><a href="/variants/s8/r3lb25db6dbi3r2t5dbi18w3~x2~db1004274-dbi1106275/"><circle cx="161.6" cy="152.4" r="4" fill="#3465a4"><title>Fulbright Foundation</title></circle></a><a href="/variants/s12/db3w3r3w24y4dy6db3r2db16b12y2db3~x2/"><circle cx="112.5" cy="136.8" r="4" fill="#3465a4"><title>Lashbrooke of Barrowfield</title></circle></a><a href="/variants/s13/t2w2b5w2t4b5t6b14db18r4w2r4w2~x2/"><circle cx="152.6" cy="179.1" r="4" fill="#3465a4"><title>Daughters of the American Revolution Corporate Tartan</title></circle></a><a href="/variants/s8/db1lb9w3y3db9y1g1r1~x4/"><circle cx="133.2" cy="168.7" r="4" fill="#3465a4"><title>Curd (2013)</title></circle></a><circle cx="88.8" cy="173.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "House of Edgar Shotts & Dykehead"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "House of Edgar Shotts & Dykehead"
+  url: "/tartans/h/ho/house-of-edgar-shotts-dykehead/"
 ---
 This is the **House of Edgar Shotts & Dykehead** sett — one scale-free proportion (`dbi10w2db3y2db2w2db2n14r22dbi2r6db2`), colour order pattern
 [BWBGBWBBRBRBRBRBBWBGBW](/stripes/bwbgbwbbrbrbrbrbbwbgbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/db5dbi2db9n10lb2n4lb2g10r33w2r33g10lb2n4lb2n10db9dbi2db5w3~x2~db1204274-dbi1406275/"><circle cx="180.1" cy="88.2" r="4" fill="#3465a4"><title>Inverclyde</title></circle></a><a href="/variants/s13/b3db3b3db3b3dr22y2db2r22lb5r8y2lb2~x2/"><circle cx="186.7" cy="132.1" r="4" fill="#3465a4"><title>Pitcairn Trust Company</title></circle></a><a href="/variants/s13/w4r1w5dbi1w3db5y1db2w1db2n8r16dbi2~x4~dbi1406275-db1004274/"><circle cx="134.7" cy="117.7" r="4" fill="#3465a4"><title>Warden</title></circle></a><a href="/variants/s22/dp30w2lb3dg3lb3dg3lb3dg16r3dg3r3dg3r3dg3r3dg25r15dg4lb4r8w2r15~x2/"><circle cx="192.6" cy="112.1" r="4" fill="#3465a4"><title>Wilson, Janet (1780 Original)</title></circle></a><a href="/variants/s22/r14lb4r14g32dp18w4dp4ly4dp18lb16r64lb16dp18ly4dp4w4dp18g32r14lb4r14w3~r2109032-w4000000-ly3307090/"><circle cx="160.6" cy="96.6" r="4" fill="#3465a4"><title>Wilson's No.004</title></circle></a><a href="/variants/s18/db12dg4r2y3g4dg4r20w4r14dg4g4y3r2dg4db12y2db8y2~x2~dg1503152-g2407139/"><circle cx="131.5" cy="144.3" r="4" fill="#3465a4"><title>Béguinot, Stéphane (Personal)</title></circle></a><a href="/variants/s14/n3dg19r2dg2r2db10r17dg2r2dg2r3lb2r3lb3~x2/"><circle cx="208.5" cy="147.9" r="4" fill="#3465a4"><title>Manx Heritage</title></circle></a><a href="/variants/s12/dr10lb1dr2n1dr1n1lo1n4lbi2r1lbi2lo1~x8~lb3103284-lbi3200000/"><circle cx="233.3" cy="144.1" r="4" fill="#3465a4"><title>Rathmore</title></circle></a><a href="/variants/s16/r39dr3w2g14w2y4r4dr2r4y4w2lb12dr6r6y7w2~x2/"><circle cx="240.5" cy="93.4" r="4" fill="#3465a4"><title>North West Mounted Police Corporate Tartan</title></circle></a><a href="/variants/s23/g4ri2r2ri24w2ri3w3ri3g10r10t2r4t2r10g10ri3w3ri2w2ri24r2ri2g4~x2~ri2308036-r1506019/"><circle cx="241.8" cy="120.9" r="4" fill="#3465a4"><title>Trost</title></circle></a><circle cx="207.0" cy="113.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

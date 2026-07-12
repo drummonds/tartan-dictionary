@@ -1,6 +1,15 @@
 ---
 title: "Recovery Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Recovery"
+  url: "/clan/recovery/"
+- name: "Recovery"
+  url: "/families/recovery/"
+- name: "Recovery Hunting"
+  url: "/tartans/r/re/recovery-hunting/"
 ---
 This is the **Recovery Hunting** sett — one scale-free proportion (`r1k1dg8k1db1k1db1k1db1k1db8w1db2w1db8k1db1k1db1k1db1k1dg8k1lo1`), colour order pattern
 [RKGKBKBKBKBWBWBKBKBKBKGKY](/stripes/rkgkbkbkbkbwbwbkbkbkbkgky/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db6k2db24k10g2o2g2o2g10k2lb3~x2/"><circle cx="173.4" cy="109.9" r="4" fill="#3465a4"><title>Scottish Rugby Union</title></circle></a><a href="/variants/s22/b14dg2b2dg14k2dg14k2dg2k9r2k8ly2k9dg2k2dg14k2dg14b2dg2b14w2~x2/"><circle cx="141.0" cy="130.0" r="4" fill="#3465a4"><title>Dow-Aerlift (Name)</title></circle></a><a href="/variants/s18/k2dbi6ly2dbi2ly2dbi19r2g2r2dbi2db4k2db11g2db2g2db6ly2~x2~dbi1406275-db1404245/"><circle cx="172.3" cy="127.9" r="4" fill="#3465a4"><title>Harmon of Plenderleith (Personal)</title></circle></a><a href="/variants/s27/r2db24k16g3k2g2k2g12k2g2k2g3db8g2db8g3k2g2k2g12k2g2k2g3k16db22lo2~x2/"><circle cx="146.9" cy="100.1" r="4" fill="#3465a4"><title>Duchess of Albany</title></circle></a><a href="/variants/s24/dp4o4dp3g20dp5k4dp3k7dp3k3db35w2db35k3dp3k7dp3k4dp5g20dp3o4dp4k2~x2/"><circle cx="147.6" cy="76.3" r="4" fill="#3465a4"><title>Spirit of Bannockburn</title></circle></a><a href="/variants/s11/db50k10db6k10db6dg5lp5dg5o8dg23w5~x2~db1204274-dg1405139/"><circle cx="113.7" cy="117.9" r="4" fill="#3465a4"><title>Scottish Hockey Union</title></circle></a><a href="/variants/s16/do5g19dp5do5k5do5db36w3db36do5k5do5dp5g19do5db4~x2~dp1607327-db1406275/"><circle cx="197.0" cy="124.4" r="4" fill="#3465a4"><title>Suzugamine</title></circle></a><a href="/variants/s18/k2t6dy2t2dy2t19dr2g2dr2t2db4k2db11g2db2g2db6dy2~x2/"><circle cx="168.6" cy="129.6" r="4" fill="#3465a4"><title>Harmon of Plenderleith (Personal)</title></circle></a><a href="/variants/s27/r2db14k8g2k1g2k1g4k1g2k1g2db4g2db4g2k1g2k1g4k1g2k1g2k8db14y2~x2/"><circle cx="153.5" cy="97.5" r="4" fill="#3465a4"><title>Duchess of Albany Family Tartan</title></circle></a><a href="/variants/s16/o2db1o1db12k1db1k1db1k5g1k1g1k1g5k2y1~x4/"><circle cx="167.7" cy="112.2" r="4" fill="#3465a4"><title>Herriot (Personal)</title></circle></a><circle cx="164.4" cy="102.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

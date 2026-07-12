@@ -1,6 +1,11 @@
 ---
 title: "Northern Kentucky University"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Northern Kentucky University"
+  url: "/tartans/n/no/northern-kentucky-university/"
 ---
 This is the **Northern Kentucky University** sett — one scale-free proportion (`w5k3y6k5w3k30y2`), colour order pattern
 [GKWKGKW](/stripes/gkwkgkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k17dr6k2w6k17ly2~x2/"><circle cx="328.2" cy="191.7" r="4" fill="#3465a4"><title>Black 1990 (Name)</title></circle></a><a href="/variants/s7/n3k31w6k7n3k12w2~x2/"><circle cx="425.2" cy="154.8" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/variants/s7/n3k31w6k8n3k12w2~x2/"><circle cx="427.1" cy="156.1" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/variants/s6/k21w2k5w9k13g2~x4/"><circle cx="371.3" cy="193.2" r="4" fill="#3465a4"><title>New Zealand District Tartan</title></circle></a><a href="/variants/s5/k22w3k3w11k1~x2/"><circle cx="368.0" cy="169.4" r="4" fill="#3465a4"><title>MacPhee MacFee or MacIver</title></circle></a><a href="/variants/s6/n50k4n12k23lo4k4~x2/"><circle cx="359.1" cy="180.5" r="4" fill="#3465a4"><title>Sligo Irish County Tartan</title></circle></a><a href="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/"><circle cx="425.8" cy="81.8" r="4" fill="#3465a4"><title>Capco</title></circle></a><a href="/variants/s7/k32t2k6t2k13n30w2~x2/"><circle cx="304.4" cy="152.8" r="4" fill="#3465a4"><title>Mountain Rescue Association Honor Guard</title></circle></a><a href="/variants/s7/k11w1k1w1k4n8r1~x8/"><circle cx="272.6" cy="159.2" r="4" fill="#3465a4"><title>Dunfermline Athletic (2008) (Corp)</title></circle></a><a href="/variants/s8/k14lo3w8lo4k6w9k31g1~x2/"><circle cx="332.3" cy="115.5" r="4" fill="#3465a4"><title>Entrepreneurial Spark</title></circle></a><circle cx="368.0" cy="144.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

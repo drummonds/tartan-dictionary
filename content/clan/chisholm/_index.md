@@ -1,6 +1,9 @@
 ---
 title: "Clan Chisholm"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 **Territory:** Strathglass · **1745 strength:** 200 men
 

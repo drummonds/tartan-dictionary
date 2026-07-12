@@ -1,6 +1,11 @@
 ---
 title: "Plymouth Armada (Commemorative)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Plymouth Armada"
+  url: "/tartans/p/pl/plymouth-armada-2/"
 ---
 This is the **Plymouth Armada (Commemorative)** sett — one scale-free proportion (`t40r2t7db5ly2db3w2db10n6t2n4w2`), colour order pattern
 [BRBBYBWBBBBW](/stripes/brbbybwbbbbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dbi40r2dbi7db5o2db3w2db10n6dbi2n4w2~x2~dbi1604274-db0805267/"><circle cx="351.9" cy="110.3" r="4" fill="#3465a4"><title>Plymouth/Armada 400, Armada</title></circle></a><a href="/variants/s12/t48dp4t8lr2t4r3t4dg14dr7t2dr4r2~x2/"><circle cx="398.0" cy="105.1" r="4" fill="#3465a4"><title>Louth, County</title></circle></a><a href="/variants/s10/t33w2r3w2db14ri3g15t20r2t3~x2~r2109032-ri2806019/"><circle cx="318.0" cy="151.9" r="4" fill="#3465a4"><title>Kansai St Andrews Society (Corp)</title></circle></a><a href="/variants/s8/db5r3g2r3dg12t34g2w2~x2/"><circle cx="302.6" cy="136.9" r="4" fill="#3465a4"><title>Moran (Wedding) (Personal)</title></circle></a><a href="/variants/s18/dg10b8dg46b3dg3b55r4b5w4b5y4b55dg3b3dg46b8dg10db10~x2/"><circle cx="310.8" cy="112.4" r="4" fill="#3465a4"><title>Lorne, Marquis of</title></circle></a><a href="/variants/s13/t38do4r3dy6w2dy2w2dy2do12t6dy2t6w2~x2/"><circle cx="330.7" cy="117.7" r="4" fill="#3465a4"><title>Leando Dress (Personal)</title></circle></a><a href="/variants/s13/lb3db1lb1r1lb1db10r1lb9t35ly2t2ly1lb2~x2/"><circle cx="358.2" cy="91.4" r="4" fill="#3465a4"><title>De Clercq, Christian (Belgium)</title></circle></a><a href="/variants/s8/dy6y3t42w4dg18y2t12r3~x2/"><circle cx="347.0" cy="142.1" r="4" fill="#3465a4"><title>Glasgow High (School)</title></circle></a><a href="/variants/s8/lb8db10t69w6t6r8lbi19lb3~lb3200000-t2503227-lbi3203246/"><circle cx="363.7" cy="137.8" r="4" fill="#3465a4"><title>Virginia International Tattoo Hixon</title></circle></a><a href="/variants/s8/db5r3g2r3dg12t34g2w2~x2~dg1804158/"><circle cx="332.9" cy="148.8" r="4" fill="#3465a4"><title>Moran (Drummond) Personal Tartan</title></circle></a><circle cx="346.5" cy="115.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

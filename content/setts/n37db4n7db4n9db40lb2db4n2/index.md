@@ -1,6 +1,11 @@
 ---
 title: "Edwards"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Edwards"
+  url: "/tartans/e/ed/edwards/"
 ---
 This is the **Edwards** sett — one scale-free proportion (`n37db4n7db4n9db40lb2db4n2`), colour order pattern
 [BBBBBBWBB](/stripes/bbbbbbwbb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r3n32db2n3db4n2db16w1db1~x2/"><circle cx="454.0" cy="141.8" r="4" fill="#3465a4"><title>Dauphinee, Andrew Hunter (Personal)</title></circle></a><a href="/variants/s9/n8y4n35db2lb8db2n4db21n4~x2/"><circle cx="420.4" cy="194.4" r="4" fill="#3465a4"><title>Bedford Academy (Corporate)</title></circle></a><a href="/variants/s9/n8y4n35db2lt8db2n4db21n4~x2~db1108266-lt3103227/"><circle cx="399.1" cy="187.7" r="4" fill="#3465a4"><title>Bedford Academy</title></circle></a><a href="/variants/s6/t9db2t39dbi33ly2dbi5~x2~t2503227-db1106275-dbi1404245/"><circle cx="451.7" cy="230.0" r="4" fill="#3465a4"><title>Port Authority of NY &amp; NJ American Corporate Tartan</title></circle></a><a href="/variants/s13/dbi4db23dbi8db1dbi3db2dbi2db2dbi2db3dbi1db4ly4~x2~dbi1404245-db1106275/"><circle cx="500.1" cy="192.3" r="4" fill="#3465a4"><title>Hawick Common Riding (Commemorative)</title></circle></a><a href="/variants/s6/db50do4db12do23ly4do4~x2/"><circle cx="524.1" cy="257.4" r="4" fill="#3465a4"><title>Sligo, County</title></circle></a><a href="/variants/s12/db21n49db44g5db3dr5db40n34db5n16db5n13/"><circle cx="417.4" cy="218.7" r="4" fill="#3465a4"><title>Cara O Cruz</title></circle></a><circle cx="491.0" cy="220.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

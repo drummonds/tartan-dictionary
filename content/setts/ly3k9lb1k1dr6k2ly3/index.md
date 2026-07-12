@@ -1,6 +1,11 @@
 ---
 title: "LP Cover (Dance)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "LP Cover"
+  url: "/tartans/l/lp/lp-cover/"
 ---
 This is the **LP Cover (Dance)** sett — one scale-free proportion (`ly3k9lb1k1dr6k2ly3`), colour order pattern
 [YKBKWKY](/stripes/ykbkwky/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/ly3k9lb1k9ly3~x4/"><circle cx="172.6" cy="183.6" r="4" fill="#3465a4"><title>LP Cover (Dance)</title></circle></a><a href="/variants/s8/k21o2k8w2o16n6k2n8~x2/"><circle cx="195.3" cy="173.1" r="4" fill="#3465a4"><title>Ardmore (Fashion)</title></circle></a><a href="/variants/s8/k21o2k8w2o16n6k2n8~x2~n1900000/"><circle cx="196.4" cy="173.4" r="4" fill="#3465a4"><title>Ardmore</title></circle></a><a href="/variants/s7/k3dy3ly6k12ly1n2dy2~x4/"><circle cx="213.9" cy="170.6" r="4" fill="#3465a4"><title>Strummer, Joe (Commemorative)</title></circle></a><a href="/variants/s6/g3k15r8g2n8k2~x4/"><circle cx="164.8" cy="204.8" r="4" fill="#3465a4"><title>Thompson Black (Fashion)</title></circle></a><a href="/variants/s6/r4k2lb10k10y28k3~x2/"><circle cx="219.8" cy="164.3" r="4" fill="#3465a4"><title>Thomson Camel (Jedburgh Mill)</title></circle></a><a href="/variants/s8/g1r9g3k3g3r1k9w1~x2/"><circle cx="155.9" cy="174.8" r="4" fill="#3465a4"><title>Manson Family Tartan</title></circle></a><a href="/variants/s6/do2o11do2k11do16w2~x4/"><circle cx="205.0" cy="209.4" r="4" fill="#3465a4"><title>Portrait, The</title></circle></a><a href="/variants/s7/k3dy3ly6k12dyi1n2dy2~x4~dy1303057-dyi1803076/"><circle cx="195.3" cy="156.9" r="4" fill="#3465a4"><title>Joe Strummer Commemorative</title></circle></a><a href="/variants/s7/r1g8k8r1k8lb8r1~x4/"><circle cx="149.0" cy="199.1" r="4" fill="#3465a4"><title>Triad Highland Games Proposed</title></circle></a><circle cx="185.5" cy="189.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Logan #3"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Logan"
+  url: "/clan/logan/"
+- name: "Logan"
+  url: "/families/logan/"
+- name: "Logan"
+  url: "/tartans/l/lo/logan-5/"
 ---
 This is the **Logan #3** sett — one scale-free proportion (`dp9lr4dp1lr4g15r4dp1`), colour order pattern
 [BRGYBYB](/stripes/brgybyb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r15db2r1db2r3db7g13dg3~x2~g2408144-dg1806142/"><circle cx="234.7" cy="182.5" r="4" fill="#3465a4"><title>Cranston Dress</title></circle></a><a href="/variants/s7/dp8r3y1r3g14r3y1~x4/"><circle cx="261.1" cy="193.2" r="4" fill="#3465a4"><title>Logan with Yellow</title></circle></a><a href="/variants/s8/r30db3r2db3r6db14g26dg6~g2408144-dg1806142/"><circle cx="242.0" cy="179.6" r="4" fill="#3465a4"><title>Cranston Dress Family Tartan</title></circle></a><a href="/variants/s7/db1r5g18r4db9r10w1~x4/"><circle cx="243.5" cy="187.5" r="4" fill="#3465a4"><title>MacKintosh Geddes</title></circle></a><a href="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r2208029-ri2209032/"><circle cx="243.4" cy="196.5" r="4" fill="#3465a4"><title>Logan Light</title></circle></a><a href="/variants/s8/g28r4dp25w5r22g27r4dp2~x2/"><circle cx="249.1" cy="196.8" r="4" fill="#3465a4"><title>New Glasgow (Canada)</title></circle></a><a href="/variants/s8/r3dr14g8r2g2w2g2r1~x2/"><circle cx="242.1" cy="175.5" r="4" fill="#3465a4"><title>Scott Hunting Clan Tartan</title></circle></a><a href="/variants/s8/do2b2do15b1w10o15b2o2~x2/"><circle cx="199.6" cy="176.8" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s10/r12y4r38g25db8g10db8g8db25r3/"><circle cx="208.6" cy="190.2" r="4" fill="#3465a4"><title>MacEdward Tartan</title></circle></a><a href="/variants/s5/db18r18dp2g12db1~x4/"><circle cx="247.2" cy="194.8" r="4" fill="#3465a4"><title>Wyeth (Personal)</title></circle></a><circle cx="235.0" cy="196.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "State Seal of Missouri (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "State Seal of Missouri"
+  url: "/tartans/s/st/state-seal-of-missouri/"
 ---
 This is the **State Seal of Missouri (Fashion)** sett — one scale-free proportion (`t6r7dy49ly2dy22t10dy5k5dy8g4`), colour order pattern
 [BRGYGBGKGG](/stripes/brgygbgkgg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dg40dr5k2w2k2y3k2dg10dr3k3~x2/"><circle cx="421.1" cy="106.2" r="4" fill="#3465a4"><title>Palmer, Arnold</title></circle></a><a href="/variants/s7/dy3k2dy32dr3dy3k5w3~x2/"><circle cx="448.8" cy="135.4" r="4" fill="#3465a4"><title>Bro-Dreger</title></circle></a><a href="/variants/s7/dy45k5dy28k5o5w2do6~x2/"><circle cx="491.9" cy="142.7" r="4" fill="#3465a4"><title>Leiato of American Samoa (Personal)</title></circle></a><a href="/variants/s11/k3y3lo2y30k2y3m12y6mi6k3y3~x2~y2103114-lo2706066-m1907352-mi2506332/"><circle cx="326.0" cy="122.2" r="4" fill="#3465a4"><title>McAlifyfe (Personal)</title></circle></a><a href="/variants/s7/dr5k3dr9dg56lb4dg2w3/"><circle cx="442.8" cy="106.2" r="4" fill="#3465a4"><title>MTV</title></circle></a><a href="/variants/s11/n19do2k3o1k1w1k1do6n3k1n6~x4/"><circle cx="346.6" cy="107.3" r="4" fill="#3465a4"><title>Glen Clova #1</title></circle></a><a href="/variants/s9/do68k4do18dt20k3w3k10lb8lo4~do1301000-dt1600000/"><circle cx="334.6" cy="99.9" r="4" fill="#3465a4"><title>Carbon</title></circle></a><a href="/variants/s7/r5k3r9dg56db4dg2w3/"><circle cx="419.6" cy="93.3" r="4" fill="#3465a4"><title>MTV</title></circle></a><a href="/variants/s12/o14dp1o19w1o18k3o1dt7dp2dt1o1n4~x2~o2500000-n1700000/"><circle cx="399.6" cy="104.9" r="4" fill="#3465a4"><title>Orkney Magnus</title></circle></a><a href="/variants/s9/g3n5k4n33g12k4w2n18ly3~x2/"><circle cx="358.4" cy="141.2" r="4" fill="#3465a4"><title>Smoke Showing (UFES)</title></circle></a><circle cx="409.7" cy="103.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

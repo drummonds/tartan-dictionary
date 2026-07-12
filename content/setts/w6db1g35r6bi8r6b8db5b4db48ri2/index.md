@@ -1,6 +1,15 @@
 ---
 title: "Coldstream"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Coldstream"
+  url: "/clan/coldstream/"
+- name: "Coldstream"
+  url: "/families/coldstream/"
+- name: "Coldstream"
+  url: "/tartans/c/co/coldstream/"
 ---
 This is the **Coldstream** sett — one scale-free proportion (`w6db1g35r6bi8r6b8db5b4db48ri2`), colour order pattern
 [RBBBBRBRGBW](/stripes/rbbbbrbrgbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db38n1o11n1w4n1y4n1dg20n1lb6~x2~n1900000-o2500000/"><circle cx="229.3" cy="73.4" r="4" fill="#3465a4"><title>Manx Hunting</title></circle></a><a href="/variants/s9/y2g20db8r3db2r2db16w1lb2~x2/"><circle cx="245.6" cy="133.3" r="4" fill="#3465a4"><title>Scotland’s Golf Coast</title></circle></a><a href="/variants/s12/dbi30db4g5db2r2db2g5db4w10db5t8db1~x2~dbi1406275-db1404245/"><circle cx="198.1" cy="104.6" r="4" fill="#3465a4"><title>Lyon (Personal)</title></circle></a><a href="/variants/s11/w3dbi1g18r3lb4r3db4dbi3db2dbi24ri1~x2~dbi1406275-r2108022-db1204274-ri2109032/"><circle cx="200.9" cy="94.7" r="4" fill="#3465a4"><title>Queen of the South Football Club</title></circle></a><a href="/variants/s11/lo2k8db48lb9n12r3n9r3n12dg8lo2~x2/"><circle cx="184.4" cy="86.3" r="4" fill="#3465a4"><title>Heston (Name)</title></circle></a><a href="/variants/s10/r4db2dp14db12y1t32db12t14db2g4~x2~db1003265-t2503227/"><circle cx="272.9" cy="126.9" r="4" fill="#3465a4"><title>Timmins (2013)</title></circle></a><a href="/variants/s11/db38dg1n11dg1w4dg1y4dg1g20dg1lb6~x2/"><circle cx="239.7" cy="84.7" r="4" fill="#3465a4"><title>Manx, hunting</title></circle></a><a href="/variants/s10/dp3n1db4g2r2g21n3dp21db25w3~x2/"><circle cx="200.5" cy="124.3" r="4" fill="#3465a4"><title>Accenture</title></circle></a><a href="/variants/s10/db40lb3db3lb3db3lb4dg8g8n8w2~x2/"><circle cx="217.3" cy="110.2" r="4" fill="#3465a4"><title>Greenshields (Personal)</title></circle></a><a href="/variants/s11/g12db1dp4db30b3w2b3w2b3w10r4~x2/"><circle cx="187.7" cy="92.3" r="4" fill="#3465a4"><title>Rosslyn Chapel</title></circle></a><circle cx="238.2" cy="74.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

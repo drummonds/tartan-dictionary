@@ -1,6 +1,13 @@
 ---
 title: "Arizona Jones"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Arizona"
+  url: "/clan/arizona/"
+- name: "Arizona Jones"
+  url: "/tartans/a/ar/arizona-jones/"
 ---
 This is the **Arizona Jones** sett — one scale-free proportion (`dg18k1dr9k12dr9k1dg18k1n6dg1`), colour order pattern
 [GBKGKBKBKG](/stripes/gbkgkbkbkg/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db2dy18dg10dy1k10dy2dg10dy18w2~x2/"><circle cx="328.0" cy="180.4" r="4" fill="#3465a4"><title>Duchess of York (Fashion)</title></circle></a><a href="/variants/s13/dy6k28dy4k4dy12do32k4do3k4do3k4do14y4/"><circle cx="283.5" cy="176.1" r="4" fill="#3465a4"><title>Etihad Airways</title></circle></a><a href="/variants/s10/dt8lb2dt27k10n4k2n3k2n16dt2~x2~dt1300000-n1800000/"><circle cx="300.8" cy="170.5" r="4" fill="#3465a4"><title>Highland Granite</title></circle></a><a href="/variants/s8/k5dy5k5dy34n33k6n5o2~n1900000-o2500000/"><circle cx="286.8" cy="167.4" r="4" fill="#3465a4"><title>Brave for Men (Fashion)</title></circle></a><a href="/variants/s6/k16dg32k8n4dr11n2~x2/"><circle cx="275.6" cy="199.8" r="4" fill="#3465a4"><title>Mitchell, Cameron (Personal)</title></circle></a><a href="/variants/s12/dti10k4dt16k4dt10k16dt8k24dt28dr3dti4dr3~dti1500000-dt1300000/"><circle cx="283.7" cy="203.2" r="4" fill="#3465a4"><title>St. Mirren (Corporate)</title></circle></a><a href="/variants/s15/do20k6do5k8dy4do6db3k1do3k1db3k9db11k1dy1~x2/"><circle cx="277.0" cy="155.1" r="4" fill="#3465a4"><title>Amble</title></circle></a><a href="/variants/s7/dy6r3dy34k16y3dt22r4~x2/"><circle cx="263.0" cy="191.8" r="4" fill="#3465a4"><title>Ballantrae (Macnaughtons)</title></circle></a><a href="/variants/s9/db1k8db2dg16dr6dg16db2k8w1~x2/"><circle cx="290.2" cy="167.8" r="4" fill="#3465a4"><title>Basel Tattoo (Official)</title></circle></a><a href="/variants/s11/ki2k20dg30k2dg4k2dg30k3ki30k35dr2~ki0700000/"><circle cx="288.6" cy="163.3" r="4" fill="#3465a4"><title>Phillips (Welsh Name)</title></circle></a><circle cx="313.7" cy="181.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

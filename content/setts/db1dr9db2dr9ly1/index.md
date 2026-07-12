@@ -1,6 +1,11 @@
 ---
 title: "Brooks Bros Tattersall Red (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Brooks Bros Tattersall"
+  url: "/tartans/b/br/brooks-bros-tattersall/"
 ---
 This is the **Brooks Bros Tattersall Red (Fashion)** sett — one scale-free proportion (`db1dr9db2dr9ly1`), colour order pattern
 [BBBBY](/stripes/bbbby/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dy1r9db2r9db1~x4/"><circle cx="554.3" cy="226.9" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Red</title></circle></a><a href="/variants/s4/lr20b1lr4b3~x4/"><circle cx="626.0" cy="256.3" r="4" fill="#3465a4"><title>Loevenstein Castle #2</title></circle></a><a href="/variants/s4/r40db2r6db15~x2/"><circle cx="524.0" cy="210.4" r="4" fill="#3465a4"><title>Masai Shuka 21 (Artefact)</title></circle></a><a href="/variants/s4/dr40t8dr1w2~x4/"><circle cx="551.1" cy="166.1" r="4" fill="#3465a4"><title>Lyon College (Corporate)</title></circle></a><a href="/variants/s3/dr18k3dr2~x4/"><circle cx="626.0" cy="265.1" r="4" fill="#3465a4"><title>Buie</title></circle></a><a href="/variants/s5/dr27w3dr6w2g3~x4/"><circle cx="529.1" cy="197.4" r="4" fill="#3465a4"><title>Martin Family, Robert N (Personal)</title></circle></a><a href="/variants/s5/r27w3r6w2dg3~x4~r1506028/"><circle cx="521.1" cy="181.7" r="4" fill="#3465a4"><title>Martin Family, Robert N Personal Tartan</title></circle></a><a href="/variants/s5/dr1db9ly2db9ly1~x4/"><circle cx="541.5" cy="258.5" r="4" fill="#3465a4"><title>Brooks Bros Tattersall Blue (Fashion</title></circle></a><a href="/variants/s5/db1dy9db2dy9r1~x4/"><circle cx="626.0" cy="273.9" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Camel</title></circle></a><a href="/variants/s6/db6dr39db10dr10db21y5~x2/"><circle cx="452.0" cy="286.9" r="4" fill="#3465a4"><title>Rajput</title></circle></a><circle cx="621.7" cy="274.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

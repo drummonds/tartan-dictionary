@@ -1,6 +1,15 @@
 ---
 title: "Penman Grey (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Penman"
+  url: "/clan/penman/"
+- name: "Penman"
+  url: "/families/penman/"
+- name: "Penman"
+  url: "/tartans/p/pe/penman-2/"
 ---
 This is the **Penman Grey (Personal)** sett — one scale-free proportion (`o38k4w4k4n10k4n10k4w2dp3`), colour order pattern
 [BWKBKBKWKR](/stripes/bwkbkbkwkr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r1db1r8w1k2db16k2w1g8db1g1~x2/"><circle cx="185.6" cy="113.1" r="4" fill="#3465a4"><title>MacMichael Family Tartan</title></circle></a><a href="/variants/s12/n4dr20k2dr2k2dr3k6o26w3o2w2o4~x2~n1900000-o2500000/"><circle cx="183.7" cy="115.1" r="4" fill="#3465a4"><title>Eidart 1990 (Fashion)</title></circle></a><a href="/variants/s11/n53y6k10w3k3y4k10r8k3r6w3/"><circle cx="220.1" cy="91.8" r="4" fill="#3465a4"><title>Stevens #5</title></circle></a><a href="/variants/s15/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2~r2109032-w3600000/"><circle cx="177.8" cy="96.8" r="4" fill="#3465a4"><title>Oromocto</title></circle></a><a href="/variants/s15/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2/"><circle cx="173.5" cy="95.3" r="4" fill="#3465a4"><title>Oromocto (District)</title></circle></a><a href="/variants/s10/y16k2y6k2r2k2db15g1db1w2~x2/"><circle cx="185.0" cy="107.1" r="4" fill="#3465a4"><title>Otago Corporate District Tartan</title></circle></a><a href="/variants/s11/dy27w2dy3ly4dy3w2dy5k13n2w26n3~x2/"><circle cx="158.8" cy="119.2" r="4" fill="#3465a4"><title>MacKellar Dress, Maroon (Dance)</title></circle></a><a href="/variants/s14/k2g2r3db18r2g6r4lb1db6r3g18r3k2g2~x2/"><circle cx="176.6" cy="113.4" r="4" fill="#3465a4"><title>Glen Orchy #2 or MacIntyre</title></circle></a><a href="/variants/s12/lb29db3k10y2k2lb2k2g10r5k3r2lb2~x2/"><circle cx="152.6" cy="88.7" r="4" fill="#3465a4"><title>Stewart Blue Trade Tartan</title></circle></a><a href="/variants/s12/lb29db3k10lo2k2lb2k2g10dr5k3dr2lb2~x2/"><circle cx="155.1" cy="91.8" r="4" fill="#3465a4"><title>Stuart/Stewart Blue</title></circle></a><circle cx="206.0" cy="107.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Hamilton of Brandon"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hamilton"
+  url: "/clan/hamilton/"
 ---
 A family of [Clan Hamilton](/clan/hamilton/).
 

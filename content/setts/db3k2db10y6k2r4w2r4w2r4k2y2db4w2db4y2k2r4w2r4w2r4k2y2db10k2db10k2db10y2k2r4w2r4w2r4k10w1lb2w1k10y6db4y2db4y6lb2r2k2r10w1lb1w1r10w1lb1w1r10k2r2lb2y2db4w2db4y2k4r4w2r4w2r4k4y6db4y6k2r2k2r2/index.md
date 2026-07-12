@@ -1,6 +1,15 @@
 ---
 title: "Ogilvy #2"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ogilvy"
+  url: "/clan/ogilvy/"
+- name: "Ogilvy"
+  url: "/families/ogilvy/"
+- name: "Ogilvy"
+  url: "/tartans/o/og/ogilvy-2/"
 ---
 This is the **Ogilvy #2** sett — one scale-free proportion (`db3k2db10y6k2r4w2r4w2r4k2y2db4w2db4y2k2r4w2r4w2r4k2y2db10k2db10k2db10y2k2r4w2r4w2r4k10w1lb2w1k10y6db4y2db4y6lb2r2k2r10w1lb1w1r10w1lb1w1r10k2r2lb2y2db4w2db4y2k4r4w2r4w2r4k4y6db4y6k2r2k2r2`), colour order pattern
 [BKBGKRWRWRKGBWBGKRWRWRKGBKBKBGKRWRWRKWWWKGBGBGWRKRWWWRWWWRKRWGBWBGKRWRWRKGBGKRKR](/stripes/bkbgkrwrwrkgbwbgkrwrwrkgbkbkbgkrwrwrkwwwkgbgbgwrkrwwwrwwwrkrwgbwbgkrwrwrkgbgkrkr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s65/r3k3r3k3y8g5y8k3r5w3r5k5y3g5w3g5y3db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3y8g5y3g5y8k13w1db3w1k13r5w3r5w3r5k3y3g13k3g13k3g13y3k3r5w3r5w3r5k3y3g5w3~x2/"><circle cx="14.0" cy="68.8" r="4" fill="#3465a4"><title>Drummond of Strathallan Clan Tartan</title></circle></a><a href="/variants/s82/db3y3g5w3g5y3k5r5w3r5k3y8g5y8k3r3k3r3k3r3k3y8g5y8k3r5w3r5k5y3g5w3g5y3db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3y8g5y3g5y8k13w1db3w1k13r5w3r5w3r5k3y3g13k3g13k3g13y3k3r5w3r5w3r5k3y3g5w3~x2/"><circle cx="14.0" cy="65.6" r="4" fill="#3465a4"><title>Drummond of Strathallan or Ogilvy</title></circle></a><a href="/variants/s82/g4w1ri6r3w1r3ri6w1lb10w2dp3ri8r3w2r3ri8dp3w2k12g4k12w2dp3ri8r3w2r3ri8dp3w2dp6lb4w2lb4dp6w2k16g4w2g4k16w2dp6lb4w2lb4dp6w2dp3ri8r3w2r3ri8dp3w2k12g4k12w2dp3ri8r3w2r3ri8dp3w2lb10w1ri6r3w1r3ri6w1g4k16w2ri2-h9a2519dbca078ee2/"><circle cx="14.0" cy="14.0" r="4" fill="#3465a4"><title>Aberdeen</title></circle></a><a href="/variants/s78/r4w1k2y2dp4y2g6y2k2r2k2r2k2r2k2y4g8y4k2r8w2r8w2r8k2y2g8w2g8y2dp2r4k2r14w1db2w1r14w1db2w1r14k2r4dp2y4g6y2g6y4k12w1db4w1k12r8w2r8w2r8k2y2g14k4g14k4g14y2k2r8w2r8w2r8k2y2g8w2~x2/"><circle cx="42.0" cy="34.1" r="4" fill="#3465a4"><title>Ogilvie Clan Tartan</title></circle></a><circle cx="14.0" cy="67.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

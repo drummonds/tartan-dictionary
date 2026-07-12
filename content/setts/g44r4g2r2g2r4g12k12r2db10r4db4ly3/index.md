@@ -1,6 +1,15 @@
 ---
 title: "Cochrane of Dundonald"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cochrane"
+  url: "/clan/cochrane/"
+- name: "Cochrane of Dundonald"
+  url: "/families/cochrane-of-dundonald/"
+- name: "Cochrane of Dundonald"
+  url: "/tartans/c/co/cochrane-of-dundonald/"
 ---
 This is the **Cochrane of Dundonald** sett — one scale-free proportion (`g44r4g2r2g2r4g12k12r2db10r4db4ly3`), colour order pattern
 [GRGRGRGKRBRBY](/stripes/grgrgrgkrbrby/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/g34r4g4r2g4r2g3r4g17k17r2db17r4db4y3~x2/"><circle cx="211.6" cy="107.3" r="4" fill="#3465a4"><title>Cochrane (1984) Clan Tartan</title></circle></a><a href="/variants/s11/k3w1g29n8m2n2m2n2m8g7k2~x2/"><circle cx="284.8" cy="92.6" r="4" fill="#3465a4"><title>Gray Htg (Name)</title></circle></a><a href="/variants/s17/db2g2y1g3r1g2r1g13db4k3db3k3db3k3db4g23r2~x2/"><circle cx="283.5" cy="88.2" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/variants/s12/g4k2g28r4g4k18g4lp4g4lp7k1w3~x2/"><circle cx="228.9" cy="93.1" r="4" fill="#3465a4"><title>Moss</title></circle></a><a href="/variants/s16/db15k18g3k2g2k2g44y4g44k2g2k2g3k18db15r4~x2/"><circle cx="244.1" cy="88.2" r="4" fill="#3465a4"><title>Sarafilovic</title></circle></a><a href="/variants/s11/k3g3y2g30k2g3r12g6lp6k3g3~x2/"><circle cx="287.8" cy="119.0" r="4" fill="#3465a4"><title>McAlifyfe (Personal)</title></circle></a><a href="/variants/s17/y8g84db21k10db10k10db10k10db21g62r3g6r3g10y3g5r6~x2/"><circle cx="297.3" cy="80.1" r="4" fill="#3465a4"><title>King Edward VII Royal Family Tartan</title></circle></a><a href="/variants/s12/lr1lb3k2g5dp4g1k14lb1k4g25lb2lr1~x2/"><circle cx="223.3" cy="86.5" r="4" fill="#3465a4"><title>Walker, Gauvin (Personal)</title></circle></a><a href="/variants/s11/k3w1g29n8r2n2r2n2r8g7k2~x2/"><circle cx="289.9" cy="94.8" r="4" fill="#3465a4"><title>Gray Hunting Family Tartan</title></circle></a><a href="/variants/s15/g34r4g3r2g4r2g3r4g17k17r2db17r4db4ly3~x2/"><circle cx="206.9" cy="105.5" r="4" fill="#3465a4"><title>Cochrane</title></circle></a><circle cx="269.4" cy="87.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

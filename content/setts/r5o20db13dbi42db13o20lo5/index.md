@@ -1,6 +1,15 @@
 ---
 title: "Newmill Corporate Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Newmill"
+  url: "/clan/newmill/"
+- name: "Newmill"
+  url: "/families/newmill/"
+- name: "Newmill"
+  url: "/tartans/n/ne/newmill-3/"
 ---
 This is the **Newmill Corporate Tartan** sett — one scale-free proportion (`r5o20db13dbi42db13o20lo5`), colour order pattern
 [RRBBBRY](/stripes/rrbbbry/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg3b22do10o5dg21r6b3~x2/"><circle cx="203.5" cy="230.1" r="4" fill="#3465a4"><title>Swankie</title></circle></a><a href="/variants/s6/db30y3o11y3n33r6~x2/"><circle cx="270.5" cy="219.6" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/variants/s8/db34dy9ly3dy9n30r3n11r5/"><circle cx="261.4" cy="204.9" r="4" fill="#3465a4"><title>Ballantyne (Personal) STWR</title></circle></a><a href="/variants/s6/db30y3dy11y3n33r6~x2/"><circle cx="278.2" cy="223.6" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/variants/s7/r2b1db8b8o8b1o1~x2/"><circle cx="226.2" cy="231.6" r="4" fill="#3465a4"><title>Over Mountain</title></circle></a><a href="/variants/s6/r4t3n12db8t2r4~t2102222-db1004274/"><circle cx="234.9" cy="274.2" r="4" fill="#3465a4"><title>Bristol Gramar School Check (School)</title></circle></a><a href="/variants/s8/dg24b8do2b8do2b8o15g2~x2/"><circle cx="226.9" cy="204.0" r="4" fill="#3465a4"><title>Unidentified from Winnipeg</title></circle></a><a href="/variants/s9/r3dy23y8g6y8db6y10db12y3~x2~y2303114-g2208144/"><circle cx="196.5" cy="231.5" r="4" fill="#3465a4"><title>Lawrence's Seven Pillars of Khaki</title></circle></a><a href="/variants/s7/g4dy7o9dy9db20w2db2~x2/"><circle cx="216.9" cy="209.9" r="4" fill="#3465a4"><title>Tombow 140th Anniversary, The</title></circle></a><a href="/variants/s7/o72do30o18b62y10do7b32/"><circle cx="292.7" cy="243.4" r="4" fill="#3465a4"><title>Manhattan Ethnic</title></circle></a><circle cx="216.5" cy="230.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Klappert, Denmark (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Klappert"
+  url: "/tartans/k/kl/klappert/"
 ---
 This is the **Klappert, Denmark (Personal)** sett — one scale-free proportion (`n16k13n7dy3r2dy3n7k13n16`), colour order pattern
 [BKBGRGBKB](/stripes/bkbgrgbkb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dr1n6k1n1k2n1k1n6ly1~x8/"><circle cx="343.5" cy="189.5" r="4" fill="#3465a4"><title>Modowny (Fashion)</title></circle></a><a href="/variants/s9/dr1n6k1n1k2n1k1n6dy1~x8/"><circle cx="357.8" cy="193.8" r="4" fill="#3465a4"><title>Modowny</title></circle></a><a href="/variants/s9/r1n6k1n1k2n1k1n6ly1~x8/"><circle cx="341.2" cy="188.2" r="4" fill="#3465a4"><title>Mowdowny (Fashion)</title></circle></a><a href="/variants/s9/n3dp3k16n2o2n16k3n2o2~x2~n1900000-o2500000/"><circle cx="231.7" cy="172.6" r="4" fill="#3465a4"><title>Chinzei Keiai Junior High School</title></circle></a><a href="/variants/s7/db9k7n5r1n5k1n2~x4/"><circle cx="187.2" cy="191.6" r="4" fill="#3465a4"><title>Greyhound Grenadiers #2</title></circle></a><a href="/variants/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/"><circle cx="218.4" cy="200.2" r="4" fill="#3465a4"><title>Process Safety Solutions Ltd</title></circle></a><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/"><circle cx="289.5" cy="185.8" r="4" fill="#3465a4"><title>West Point Military Academy (Mil.)</title></circle></a><a href="/variants/s10/k10n2lb5k5dr1k5lb5n2k10dr1~x4/"><circle cx="272.3" cy="176.5" r="4" fill="#3465a4"><title>Callaway Corporate Tartan</title></circle></a><a href="/variants/s8/k8dr7ly4k8g5dr7k18lb2~x2/"><circle cx="212.7" cy="187.5" r="4" fill="#3465a4"><title>Malliou, Despina (Personal)</title></circle></a><a href="/variants/s9/db1dr9g5dr1k5dr1g5dr9w1~x2/"><circle cx="232.6" cy="178.5" r="4" fill="#3465a4"><title>Duchess of York Family Tartan</title></circle></a><circle cx="256.5" cy="210.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

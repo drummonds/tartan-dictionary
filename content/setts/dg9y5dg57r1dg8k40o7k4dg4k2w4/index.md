@@ -1,6 +1,11 @@
 ---
 title: "Unidentified Cant #10"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified Cant"
+  url: "/tartans/u/un/unidentified-cant-6/"
 ---
 This is the **Unidentified Cant #10** sett — one scale-free proportion (`dg9y5dg57r1dg8k40o7k4dg4k2w4`), colour order pattern
 [GGGRGKRKGKWKGKRKGRGG](/stripes/gggrgkrkgkwkgkrkgrgg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/g4dg40g4k8db4k8g5k2dy4k2dg1g2dg2k1lb1~x2/"><circle cx="269.8" cy="49.1" r="4" fill="#3465a4"><title>Eastern Shore Police Emerald Society</title></circle></a><a href="/variants/s15/g4dg40g4k8t4k8g5k2dy4k2dg1g2dg2k1lb1~x2/"><circle cx="263.9" cy="47.6" r="4" fill="#3465a4"><title>Eastern Shore Police Emerald So Corporate Tartan</title></circle></a><a href="/variants/s15/g4dg40g4k8db4k8g5k2ly4k2dg1g2dg2k1n1~x2/"><circle cx="251.2" cy="43.1" r="4" fill="#3465a4"><title>Eastern Shore Police (Corporate)</title></circle></a><a href="/variants/s12/dg6k6r1w1k6dg32k6r1w1k6dg6y2~x4/"><circle cx="339.2" cy="82.7" r="4" fill="#3465a4"><title>Schwarzen Keiler, Die</title></circle></a><a href="/variants/s10/dg3w2dg39k3lb3k3dg3k20dgi10r2~x2~dgi1804158/"><circle cx="246.2" cy="97.2" r="4" fill="#3465a4"><title>Zorra Caledonian Society (Corporate</title></circle></a><a href="/variants/s10/dg36k52lo2k8dg8dy8lo2dy6dg36dr1~x2/"><circle cx="334.3" cy="101.2" r="4" fill="#3465a4"><title>Grenauld</title></circle></a><a href="/variants/s13/t3k3w1dr3k8t2dg36t2k8w1k3t3y2~x2/"><circle cx="252.7" cy="54.5" r="4" fill="#3465a4"><title>U.S. Special Forces (Military)</title></circle></a><a href="/variants/s13/db3k3w1dr3k8db2dg36db2k8w1k3db3y2~x2/"><circle cx="273.0" cy="60.1" r="4" fill="#3465a4"><title>U.S. Special Forces</title></circle></a><a href="/variants/s24/dg34k1r4w1r4k1dg4k1y2k1dg7k1r3k1dg3k1r3k1dg3w1db5w1y4w2~x2/"><circle cx="272.0" cy="14.0" r="4" fill="#3465a4"><title>MacMaster (USA) #2</title></circle></a><a href="/variants/s20/dg40k2dr3k2dg3k3r3k3r3k3dr5y1dr5k3dg3k2dr3k2dg3k3~x2/"><circle cx="325.7" cy="46.9" r="4" fill="#3465a4"><title>Austrian Bowhunters Hunting</title></circle></a><circle cx="299.0" cy="32.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "MacFie of Colonsay Dress (Fashion?)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacFie"
+  url: "/clan/macfie/"
+- name: "MacFie of Colonsay"
+  url: "/families/macfie-of-colonsay/"
+- name: "MacFie of Colonsay Dress"
+  url: "/tartans/m/ma/macfie-of-colonsay-dress/"
 ---
 This is the **MacFie of Colonsay Dress (Fashion?)** sett — one scale-free proportion (`w2k11w2k2w16k2w2k11lo2`), colour order pattern
 [WKWKWKWKY](/stripes/wkwkwkwky/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k16w1k1w1k8w16k1w2~x2/"><circle cx="329.7" cy="166.3" r="4" fill="#3465a4"><title>Douglas VS</title></circle></a><a href="/variants/s9/w6k1w2k4w4k2w4k15r1~x2/"><circle cx="281.3" cy="153.9" r="4" fill="#3465a4"><title>Menzies Dress Tartan</title></circle></a><a href="/variants/s8/k1w8k8w1k8w4k4w1~x2/"><circle cx="297.0" cy="223.8" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s9/g6db11w8k4w8k4w8k27w4~x2/"><circle cx="149.9" cy="196.9" r="4" fill="#3465a4"><title>Breton District Tartan</title></circle></a><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/"><circle cx="289.5" cy="185.8" r="4" fill="#3465a4"><title>West Point Military Academy (Mil.)</title></circle></a><a href="/variants/s8/k10lb1k2lb1k4lb10g1lb2~x4/"><circle cx="267.5" cy="183.5" r="4" fill="#3465a4"><title>Martin's Own</title></circle></a><a href="/variants/s8/n22k2n2k2n2k16w16k3~x2/"><circle cx="188.4" cy="176.9" r="4" fill="#3465a4"><title>Laksaa (Manx)</title></circle></a><a href="/variants/s8/n21k2n2k2n2k15w17k3~x2/"><circle cx="181.5" cy="179.6" r="4" fill="#3465a4"><title>Laksaa</title></circle></a><a href="/variants/s7/w2k1w6k6w2k1w1~x2/"><circle cx="288.4" cy="233.4" r="4" fill="#3465a4"><title>Scott (Abbreviated)</title></circle></a><a href="/variants/s10/k9w4k2w4k2w29k9w4db14y2~x2/"><circle cx="217.0" cy="137.8" r="4" fill="#3465a4"><title>Hannay</title></circle></a><circle cx="250.9" cy="185.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

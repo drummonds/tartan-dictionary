@@ -1,6 +1,11 @@
 ---
 title: "Lions' Pride"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "British Lions"
+  url: "/tartans/b/br/british-lions/"
 ---
 This is the **Lions' Pride** sett — one scale-free proportion (`r46w2r2w3r2k3db7k2dy2r2g8w3`), colour order pattern
 [RWRWRKBKGRGW](/stripes/rwrwrkbkgrgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r70w2r1w4r1k2db9k1y2r1g9w3~x2/"><circle cx="411.0" cy="14.0" r="4" fill="#3465a4"><title>Brittish Lions Corporate Tartan</title></circle></a><a href="/variants/s11/y1k1db2w1y1t3r31k2y5k2t1~x2~db1204274-t2205244/"><circle cx="341.3" cy="34.5" r="4" fill="#3465a4"><title>Scottish Banner, The</title></circle></a><a href="/variants/s12/r18b2k3y1k1w1k1g4r2k1r1w1~x4/"><circle cx="261.9" cy="57.7" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/variants/s13/r36g8y1k6lb4k1lb1k1lb4r11w1k1r1~x2/"><circle cx="324.4" cy="28.0" r="4" fill="#3465a4"><title>MacKintosh/MacPherson</title></circle></a><a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x8~db1406275/"><circle cx="262.0" cy="57.4" r="4" fill="#3465a4"><title>Stewart/Stuart, Royal #2</title></circle></a><a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x4/"><circle cx="261.0" cy="57.2" r="4" fill="#3465a4"><title>Royal Stewart Royal Family Tartan</title></circle></a><a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x2/"><circle cx="261.0" cy="57.2" r="4" fill="#3465a4"><title>Royal Stewart MINI Design Tartan</title></circle></a><a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x8/"><circle cx="261.0" cy="57.2" r="4" fill="#3465a4"><title>Royal Stewart (Universal)</title></circle></a><a href="/variants/s14/g2r30db4r4k6y1k1w1k1g10r4k1r1w1~x2/"><circle cx="280.9" cy="34.9" r="4" fill="#3465a4"><title>Stuart/Stewart</title></circle></a><a href="/variants/s9/r19y1k2lb1g7r2k1lb1w1~x4/"><circle cx="296.5" cy="77.2" r="4" fill="#3465a4"><title>Drummond Old Clan Tartan</title></circle></a><circle cx="318.5" cy="41.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

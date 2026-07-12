@@ -1,6 +1,11 @@
 ---
 title: "State Seal of Ohio (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "State Seal of Ohio"
+  url: "/tartans/s/st/state-seal-of-ohio/"
 ---
 This is the **State Seal of Ohio (Fashion)** sett — one scale-free proportion (`db60ly3db5lyi5db9do20ly4g32w4`), colour order pattern
 [BYBYBBYGW](/stripes/bybybbygw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dp4db20y1db2y1db4y4g4w4r4~x2/"><circle cx="256.9" cy="119.8" r="4" fill="#3465a4"><title>Yukon District Tartan</title></circle></a><a href="/variants/s10/dp4db16y1db1y1db5y4g4w4r4~x2/"><circle cx="215.1" cy="138.9" r="4" fill="#3465a4"><title>Yukon #1906 District Tartan</title></circle></a><a href="/variants/s8/dy2b4y3dg28b28w2b4n2~x2/"><circle cx="319.7" cy="165.3" r="4" fill="#3465a4"><title>Laurentian University</title></circle></a><a href="/variants/s9/y2g20db8r3db2r2db16w1lb2~x2/"><circle cx="245.6" cy="133.3" r="4" fill="#3465a4"><title>Scotland’s Golf Coast</title></circle></a><a href="/variants/s7/dr1g4ly1g3dr4db15w1~x4/"><circle cx="303.5" cy="176.4" r="4" fill="#3465a4"><title>Bressuire (District)</title></circle></a><a href="/variants/s10/db40lb3db3lb3db3lb4dg8g8n8w2~x2/"><circle cx="217.3" cy="110.2" r="4" fill="#3465a4"><title>Greenshields (Personal)</title></circle></a><a href="/variants/s9/w1db16y1dr3y1dg6g2dg6w1~x2/"><circle cx="259.9" cy="157.6" r="4" fill="#3465a4"><title>Kleto, Susan (Personal)</title></circle></a><a href="/variants/s10/dp4g13db5y3lb6y3db5n6db28w2~x2/"><circle cx="237.0" cy="148.4" r="4" fill="#3465a4"><title>Highland, Blue (Corporate)</title></circle></a><a href="/variants/s9/n16y1n2y1n2db6w4dy1dg6~x2/"><circle cx="281.7" cy="158.7" r="4" fill="#3465a4"><title>Nickel Lodge Centennial</title></circle></a><a href="/variants/s8/db20dr1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><circle cx="314.6" cy="156.4" r="4" fill="#3465a4"><title>Kruenaegel and Schropp</title></circle></a><circle cx="300.8" cy="146.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

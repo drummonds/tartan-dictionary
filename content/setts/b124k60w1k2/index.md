@@ -1,6 +1,11 @@
 ---
 title: "Pride of New Zealand, The"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Pride of New Zealand, The"
+  url: "/tartans/p/pr/pride-of-new-zealand-the/"
 ---
 This is the **Pride of New Zealand, The** sett — one scale-free proportion (`b124k60w1k2`), colour order pattern
 [BKWK](/stripes/bkwk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y2k9w3k9db35w2~x2/"><circle cx="311.3" cy="146.2" r="4" fill="#3465a4"><title>Hannah (Personal)</title></circle></a><a href="/variants/s7/k4w1lb2w1k16db36lb4~x2/"><circle cx="330.9" cy="107.9" r="4" fill="#3465a4"><title>NHS Grampian</title></circle></a><a href="/variants/s7/k4w1lb2w1k16t36lb4~x2~lb3203246-t2405244/"><circle cx="312.4" cy="107.5" r="4" fill="#3465a4"><title>NHS Grampian (Corporate)</title></circle></a><a href="/variants/s4/r4db32k15w2~x2/"><circle cx="330.3" cy="186.6" r="4" fill="#3465a4"><title>Scottish Nuclear</title></circle></a><a href="/variants/s6/db48k32r1k8r3w3~x2/"><circle cx="327.3" cy="112.4" r="4" fill="#3465a4"><title>Koot Wedding (Personal)</title></circle></a><a href="/variants/s3/db40k32w1~x2/"><circle cx="394.8" cy="209.1" r="4" fill="#3465a4"><title>Shirra (2013)</title></circle></a><a href="/variants/s7/k8ly2dp6ly2k36db84w7/"><circle cx="337.2" cy="88.2" r="4" fill="#3465a4"><title>Grahame Laurie Band (Corporate)</title></circle></a><a href="/variants/s6/k3db30k8w8k2r3~x2/"><circle cx="259.9" cy="149.0" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><a href="/variants/s4/n62k30w1k1~x2/"><circle cx="432.5" cy="142.6" r="4" fill="#3465a4"><title>Pride of New Zealand</title></circle></a><a href="/variants/s5/db67w10y14db10w2/"><circle cx="504.8" cy="173.2" r="4" fill="#3465a4"><title>St. John (Corporate?)</title></circle></a><circle cx="425.6" cy="140.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,13 @@
 ---
 title: "Dundee Carers' Centre"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Dundee"
+  url: "/clan/dundee/"
+- name: "Dundee Carers' Centre"
+  url: "/tartans/d/du/dundee-carers-centre-2/"
 ---
 This is the **Dundee Carers' Centre** sett — one scale-free proportion (`lp66db2lo14db2ly5b8db12dg60g60lp2db25`), colour order pattern
 [BWGGBBYBYBW](/stripes/bwggbbybybw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dp66db2lo14db2y5r8db12g10dg60dp4db25~db0705267/"><circle cx="201.0" cy="94.5" r="4" fill="#3465a4"><title>Dundee Carers Centre</title></circle></a><a href="/variants/s13/ly3g4n14dp3n2dp18lb16g14n2dp3lb3n2lr1~x2/"><circle cx="162.7" cy="152.0" r="4" fill="#3465a4"><title>Enable (Corporate)</title></circle></a><a href="/variants/s8/y8t24db21g18lo4lb3dy2lr1~x2~t2405244-lb3200000/"><circle cx="155.2" cy="147.3" r="4" fill="#3465a4"><title>Philpotts, Brian</title></circle></a><a href="/variants/s7/n50lb50y1db27g18do9y4~x2/"><circle cx="223.3" cy="149.7" r="4" fill="#3465a4"><title>Lachance (Canada) (Personal)</title></circle></a><a href="/variants/s11/dp2w5dp5ly11w5dg12lb1dg2lb26do2dp2~x2~dp1502305-do1301000/"><circle cx="191.9" cy="131.2" r="4" fill="#3465a4"><title>Chalk, Robert (Personal)</title></circle></a><a href="/variants/s16/y3db5lb12t1lb3t1lb2t2lb2t3lb1t4lb1t8dbi21w3~x2~db1106275-t2304245-dbi1404245/"><circle cx="183.2" cy="127.7" r="4" fill="#3465a4"><title>Ryder Cup, The</title></circle></a><a href="/variants/s9/dy1lb3dp14w2db22w2g14dy3lb1~x2~db1406275/"><circle cx="199.5" cy="143.7" r="4" fill="#3465a4"><title>Yule Name Tartan</title></circle></a><a href="/variants/s15/r6w2b40w2lb14g14y3w2g6dp6y2lb6dp30r12w2~x2/"><circle cx="113.8" cy="98.9" r="4" fill="#3465a4"><title>Stuart / Stewart, Plaid</title></circle></a><a href="/variants/s9/dy1lb3dp14w2db22w2g14dy3lb1~x2/"><circle cx="192.0" cy="142.1" r="4" fill="#3465a4"><title>Yule (Name)</title></circle></a><circle cx="158.1" cy="114.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

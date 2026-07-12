@@ -1,6 +1,11 @@
 ---
 title: "Shrek"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Shrek"
+  url: "/tartans/s/sh/shrek/"
 ---
 This is the **Shrek** sett — one scale-free proportion (`dy4dg3dy30y12dg5lg4dg3lg14lgi2lg2lgi10ly3`), colour order pattern
 [GGGGGYGYYYYY](/stripes/gggggygyyyyy/). It is recorded as **2 variants** — the same
@@ -23,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dy4dg3dy30y12dg5lg4dg3lg14lgi2lg2lgi10ly3~x2~y2204115-lgi3205128/"><circle cx="170.3" cy="150.9" r="4" fill="#3465a4"><title>Shrek (Fashion)</title></circle></a><a href="/variants/s10/dr3ly21dr14w3db11g36do3db3do4ly3~x2/"><circle cx="165.1" cy="164.6" r="4" fill="#3465a4"><title>State Seal of Florida (Fashion)</title></circle></a><a href="/variants/s14/lb2g3lb2g12y5g12w1dg16y3w3g3dg2dp2w1~x2/"><circle cx="228.0" cy="153.1" r="4" fill="#3465a4"><title>Malone, Keagan Allen (Personal)</title></circle></a><a href="/variants/s9/dy3n2dg19n6dg2n6ly14dr4w2~x2/"><circle cx="169.2" cy="189.4" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society</title></circle></a><a href="/variants/s10/do3db2g19db6g2db6ly14w2dp4w2~x2/"><circle cx="142.3" cy="179.4" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society Commemorative Tartan</title></circle></a><a href="/variants/s8/dg18g6dy3w1dy3w1lb6db6~x2~dg1806142-g2408144/"><circle cx="205.3" cy="170.7" r="4" fill="#3465a4"><title>Iroquois Falls Centenary (Commem.)</title></circle></a><a href="/variants/s8/dy31ly6lb3db36dy8g60ly7n7~x2~db1004274-n2203265/"><circle cx="219.7" cy="165.2" r="4" fill="#3465a4"><title>Little-Dowse Wedding</title></circle></a><a href="/variants/s12/do11g3do4y3do3y4do3dy13ly34g3ly4dr3~x2/"><circle cx="207.5" cy="145.6" r="4" fill="#3465a4"><title>Harmony 1 Trade Tartan</title></circle></a><a href="/variants/s12/o3w1o1w3dg1w1dg10g2dg1g10y2dr2~x2~dg1806142-g2408144/"><circle cx="159.4" cy="167.9" r="4" fill="#3465a4"><title>Breacan</title></circle></a><a href="/variants/s10/dy4dg26lt1dg2lt2dy4lg26dy4g3y3~x2~dg1806142-lt3301180-g2408144/"><circle cx="239.6" cy="134.1" r="4" fill="#3465a4"><title>Carter (Savannah) (Personal)</title></circle></a><circle cx="176.2" cy="153.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

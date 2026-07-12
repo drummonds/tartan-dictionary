@@ -1,6 +1,15 @@
 ---
 title: "MacOrrell"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacOrrell"
+  url: "/clan/macorrell/"
+- name: "MacOrrell"
+  url: "/families/macorrell/"
+- name: "MacOrrell"
+  url: "/tartans/m/ma/macorrell/"
 ---
 This is the **MacOrrell** sett — one scale-free proportion (`db36y4db10y4db36g28w3g3w3g8y6g8w3g3w3g28`), colour order pattern
 [BGBGBGWGWGGGWGWG](/stripes/bgbgbgwgwgggwgwg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/g16dp6g6db46g5db8g5dp10g6ly8g48dp6g6dp6g16/"><circle cx="308.0" cy="186.0" r="4" fill="#3465a4"><title>Aberlour Bicentenary (Commemorative)</title></circle></a><a href="/variants/s9/db10y4db36g28w3g3w3g8y6/"><circle cx="277.7" cy="195.9" r="4" fill="#3465a4"><title>MacOrrell</title></circle></a><a href="/variants/s15/g16dp6g6db46g5db8g5dp10g6dy8g48dp6g6dp6g16/"><circle cx="318.1" cy="189.0" r="4" fill="#3465a4"><title>Aberlour Bicentenary</title></circle></a><a href="/variants/s9/db5y2db17g14w1g1w1g4y2~x2/"><circle cx="308.0" cy="180.0" r="4" fill="#3465a4"><title>MacOrrell</title></circle></a><a href="/variants/s18/dg46db17dg5db7dg7lb15db3lb3db6lb3db3lb15dg7db7dg5db17dg46dgi4~dgi1605139/"><circle cx="322.9" cy="157.5" r="4" fill="#3465a4"><title>Jones of Wales</title></circle></a><a href="/variants/s14/dy1r1dy2db11g5db1g8r1g8db1g5db11dy2r1~x4~g2408144/"><circle cx="240.0" cy="178.0" r="4" fill="#3465a4"><title>New Mexico District Tartan</title></circle></a><a href="/variants/s16/g2db1lb6db10g4db1g1r1g1db1g18r1g4db6lb6db1~x4/"><circle cx="259.5" cy="139.2" r="4" fill="#3465a4"><title>Tiger</title></circle></a><a href="/variants/s16/g2db1lb6db6g4r1g18db1g1r1g1db1g4db10lb6db1~x4/"><circle cx="259.5" cy="139.2" r="4" fill="#3465a4"><title>Pina (Corporate)</title></circle></a><a href="/variants/s13/g27r2g3r3db3ly2db14r2db3ly3db3r2db14~x2/"><circle cx="258.2" cy="151.1" r="4" fill="#3465a4"><title>Crowne Plaza (Corporate)</title></circle></a><a href="/variants/s9/g28dr12g4db20lo2db3lo2db3g7~x2/"><circle cx="296.6" cy="196.5" r="4" fill="#3465a4"><title>Cork Irish County Tartan</title></circle></a><circle cx="261.9" cy="172.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

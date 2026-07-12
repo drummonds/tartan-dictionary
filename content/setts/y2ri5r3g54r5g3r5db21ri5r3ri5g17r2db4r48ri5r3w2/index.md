@@ -1,6 +1,15 @@
 ---
 title: "Sommerville Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Sommerville"
+  url: "/clan/sommerville/"
+- name: "Sommerville"
+  url: "/families/sommerville/"
+- name: "Sommerville"
+  url: "/tartans/s/so/sommerville/"
 ---
 This is the **Sommerville Family Tartan** sett — one scale-free proportion (`y2ri5r3g54r5g3r5db21ri5r3ri5g17r2db4r48ri5r3w2`), colour order pattern
 [GRRGRGRBRRRGRBRRRW](/stripes/grrgrgrbrrrgrbrrrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/y2ri5r3g54r5g3r5db20ri5r3ri5g16r2db4r48ri6r3w2~x2~ri2806019-r2109032/"><circle cx="227.5" cy="72.4" r="4" fill="#3465a4"><title>Somerville (Name)</title></circle></a><a href="/variants/s18/y2ri5r3g54r5g3r5db20ri5r3ri5g16r2db4r48ri6r3w2~x2~ri2806019-r2109032-db1406275/"><circle cx="235.3" cy="74.6" r="4" fill="#3465a4"><title>Sommerville</title></circle></a><a href="/variants/s18/y2b5r3g54r5g3r5db21b5r3b5g17r2db4r48b5r3w2/"><circle cx="226.8" cy="74.0" r="4" fill="#3465a4"><title>Sommerville</title></circle></a><a href="/variants/s18/y2ri5r3w54r5g3r5db20ri5r3ri5g16r2db4r48ri6r3w2~x2~ri2806019-r2109032/"><circle cx="168.9" cy="57.9" r="4" fill="#3465a4"><title>Somerville Dress (Name?)</title></circle></a><a href="/variants/s24/lb1b4dg2r2g27r4g2r4dp10b3dg2r2dg2b3g10r10g10r2dp2r26b3dg2r3lb1~x2/"><circle cx="217.0" cy="74.8" r="4" fill="#3465a4"><title>MacDougal 1</title></circle></a><a href="/variants/s24/lb2dp10r3ri4g72ri7g4ri10db24dp6r5ri4r5dp7g24ri24g24ri3db3ri74dp7r5ri6lb2~x2~r2208029-ri2209032/"><circle cx="234.9" cy="49.4" r="4" fill="#3465a4"><title>MacDougall of MacDougall</title></circle></a><a href="/variants/s24/lb2dp10b3r4g72r7g4r10db24dp6b5r4b5dp7g24r24g24r3db3r74dp7b5r6lb2~x2/"><circle cx="234.9" cy="51.5" r="4" fill="#3465a4"><title>MacDougall, of MacDougall</title></circle></a><a href="/variants/s24/lb1r5b2ri3g24ri5g2ri5db11r3b2ri2b2r3g11ri11g11ri2db2ri25r3b2ri5lb1~x2~r1707016-ri2008029/"><circle cx="222.6" cy="86.1" r="4" fill="#3465a4"><title>MacDougall 5</title></circle></a><a href="/variants/s16/db1g2db1g3dg6db1g6db2lo5r13dy23lo1dy1lo1dy2lo1~x2~g1903114-dg1806142/"><circle cx="211.4" cy="93.9" r="4" fill="#3465a4"><title>Langermann (Name)</title></circle></a><a href="/variants/s18/g14r6ri2db3r65db2lb2r6db34r6lb2db2r4g66r12ri2db2lb4~r2109032-ri2406019/"><circle cx="271.1" cy="69.2" r="4" fill="#3465a4"><title>Stewart of Ardshiel Clan Tartan</title></circle></a><circle cx="234.0" cy="74.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

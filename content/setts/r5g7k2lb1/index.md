@@ -1,6 +1,11 @@
 ---
 title: "Wilson's No.195"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Wilson's No.195"
+  url: "/tartans/w/wi/wilson-s-no-195/"
 ---
 This is the **Wilson's No.195** sett — one scale-free proportion (`r5g7k2lb1`), colour order pattern
 [RGKW](/stripes/rgkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r6g5k5lb1~x2/"><circle cx="110.7" cy="264.5" r="4" fill="#3465a4"><title>Unidentified No 28</title></circle></a><a href="/variants/s4/g15r3dr11lb2~x2/"><circle cx="273.0" cy="259.8" r="4" fill="#3465a4"><title>MacNab WI 2</title></circle></a><a href="/variants/s4/g15r3dr11lb2/"><circle cx="273.0" cy="259.8" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><a href="/variants/s4/g30ly3db8r25~x2/"><circle cx="265.9" cy="247.8" r="4" fill="#3465a4"><title>Dohmen (Personal)</title></circle></a><a href="/variants/s4/g30y3db8r25~x2/"><circle cx="273.1" cy="249.8" r="4" fill="#3465a4"><title>Dohmen Family (Zuid-Nederland)</title></circle></a><a href="/variants/s5/k5db4g24r21w3~x2/"><circle cx="175.2" cy="201.0" r="4" fill="#3465a4"><title>Sachie Hara Scottish Check (Personal)</title></circle></a><a href="/variants/s5/k7db3g28r28y3~x2/"><circle cx="190.8" cy="191.4" r="4" fill="#3465a4"><title>Turnbull Dress Clan Tartan</title></circle></a><a href="/variants/s4/db3g6y1r3~x10/"><circle cx="226.7" cy="285.0" r="4" fill="#3465a4"><title>Delroeux, John Michael (Personal)</title></circle></a><a href="/variants/s5/k2db1g10r10ly1~x6/"><circle cx="206.9" cy="187.5" r="4" fill="#3465a4"><title>Turnbull Dress</title></circle></a><a href="/variants/s4/db3g6ly1r3~x10/"><circle cx="216.5" cy="282.9" r="4" fill="#3465a4"><title>Delroeux (Personal)</title></circle></a><circle cx="196.3" cy="241.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

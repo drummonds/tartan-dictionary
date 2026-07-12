@@ -1,6 +1,15 @@
 ---
 title: "Otago"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Otago"
+  url: "/clan/otago/"
+- name: "Otago"
+  url: "/families/otago/"
+- name: "Otago"
+  url: "/tartans/o/ot/otago/"
 ---
 This is the **Otago** sett — one scale-free proportion (`ly16k2ly6k2r2k2db15g1db1w2`), colour order pattern
 [KYKRKBGBWBGBKRKYKY](/stripes/kykrkbgbwbgbkrkyky/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y16k2y6k2r2k2db15g1db1w2~x2/"><circle cx="185.0" cy="107.1" r="4" fill="#3465a4"><title>Otago Corporate District Tartan</title></circle></a><a href="/variants/s15/lb30g8r2k8y2k8r2g8db11r2lb10r3lb2r2db3~x2/"><circle cx="116.4" cy="95.3" r="4" fill="#3465a4"><title>Mungall Family Tartan</title></circle></a><a href="/variants/s16/db12k3lyi2k3r12db12k2ly28k2lyi2k2n2k2ly28k2db12~x2~lyi3104101-ly2503076/"><circle cx="161.7" cy="94.3" r="4" fill="#3465a4"><title>Oneness</title></circle></a><a href="/variants/s15/db62ly3k3r15db18w3ly28n12k3n5ly5n5db6k12w8/"><circle cx="159.6" cy="73.5" r="4" fill="#3465a4"><title>Clare County Crest (Fashion)</title></circle></a><a href="/variants/s12/lb29db3k10lo2k2lb2k2g10dr5k3dr2lb2~x2/"><circle cx="155.1" cy="91.8" r="4" fill="#3465a4"><title>Stuart/Stewart Blue</title></circle></a><a href="/variants/s12/lb29db3k10y2k2lb2k2g10r5k3r2lb2~x2/"><circle cx="152.6" cy="88.7" r="4" fill="#3465a4"><title>Stewart Blue Trade Tartan</title></circle></a><a href="/variants/s15/r4g1r1g5k1lo1k1lo1k6lb1k1lb15w1lb1w1~x4/"><circle cx="130.0" cy="76.5" r="4" fill="#3465a4"><title>Estes</title></circle></a><a href="/variants/s16/db81r4db8r8db4r12w16k8w32k16y6db8g16r8w4r24/"><circle cx="129.0" cy="73.2" r="4" fill="#3465a4"><title>Royal Stuart/Stewart (Variant)</title></circle></a><a href="/variants/s16/w1dr3k1dr3g4k1w1k1w1k1db6lo2db4w14db1w1~x4/"><circle cx="107.3" cy="88.2" r="4" fill="#3465a4"><title>MacBeth Dress (Clan)</title></circle></a><a href="/variants/s12/db6n3k4dy3k3n3k3dg14lb28n3lb3k2~x2/"><circle cx="128.3" cy="101.7" r="4" fill="#3465a4"><title>Buffalo (Fashion)</title></circle></a><circle cx="127.1" cy="77.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

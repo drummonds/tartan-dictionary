@@ -1,6 +1,11 @@
 ---
 title: "Brown of Castledean"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Brown"
+  url: "/clan/brown/"
 ---
 A family of [Clan Brown](/clan/brown/).
 

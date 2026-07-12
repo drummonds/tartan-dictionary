@@ -1,6 +1,11 @@
 ---
 title: "New York Jets"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "New York Jets"
+  url: "/tartans/n/ne/new-york-jets/"
 ---
 This is the **New York Jets** sett — one scale-free proportion (`g60w3k12n5g9n6k4w10`), colour order pattern
 [GWKBGBKW](/stripes/gwkbgbkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g37w9g3k9w3/"><circle cx="336.5" cy="192.2" r="4" fill="#3465a4"><title>Loch Rannoch Fancy Tartan</title></circle></a><a href="/variants/s10/k3g32k2g4y4g2y4g4k6w3~x2/"><circle cx="336.6" cy="126.6" r="4" fill="#3465a4"><title>University of Alberta (Corporate)</title></circle></a><a href="/variants/s6/r1g16k8g3k4y1/"><circle cx="289.1" cy="165.8" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/variants/s6/r1g16k8g3k4y1~x2/"><circle cx="289.1" cy="165.8" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/variants/s6/r1g16k8g4k4y1~x2/"><circle cx="293.0" cy="168.9" r="4" fill="#3465a4"><title>Forbes #6</title></circle></a><a href="/variants/s8/g44k2g2k2g3k12db10r3~x2/"><circle cx="334.2" cy="119.4" r="4" fill="#3465a4"><title>Celtic (New) Corporate Sport Tartan</title></circle></a><a href="/variants/s6/k5w4r15g70k4w5~x2/"><circle cx="371.0" cy="138.6" r="4" fill="#3465a4"><title>Tahrir (Liberation)</title></circle></a><a href="/variants/s8/k2w2db8k4g33r2g16w2~x2/"><circle cx="358.1" cy="130.1" r="4" fill="#3465a4"><title>Sarros (Personal) XX</title></circle></a><a href="/variants/s7/k3g2k3g18dr2db2ly1~x4/"><circle cx="318.4" cy="125.5" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/variants/s7/k3g2k3g18r2db2ly1~x4~g2106142-r1606028-db1004274/"><circle cx="325.4" cy="125.4" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><circle cx="325.7" cy="130.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

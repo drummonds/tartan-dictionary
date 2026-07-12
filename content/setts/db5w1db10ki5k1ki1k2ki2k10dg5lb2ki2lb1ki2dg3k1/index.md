@@ -1,6 +1,11 @@
 ---
 title: "Glendinning (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Glendinning"
+  url: "/tartans/g/gl/glendinning/"
 ---
 This is the **Glendinning (Personal)** sett — one scale-free proportion (`db5w1db10ki5k1ki1k2ki2k10dg5lb2ki2lb1ki2dg3k1`), colour order pattern
 [BWBKKKKKKGWKWKGK](/stripes/bwbkkkkkkgwkwkgk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/o8k2o8k4dr3k26db21t8k7t8db24k3~x2/"><circle cx="98.8" cy="113.2" r="4" fill="#3465a4"><title>Renton (Personal)</title></circle></a><a href="/variants/s14/k20dg18k2w2k5y2k2dg18k20db18t4db4t4db18~x2~db1406275-t2205244/"><circle cx="128.6" cy="148.8" r="4" fill="#3465a4"><title>Shandon (Personal)</title></circle></a><a href="/variants/s18/o8do2o8k4dr3k4do8k2do8k4db21t8k2do3k2t8db24k3~x2/"><circle cx="123.7" cy="123.2" r="4" fill="#3465a4"><title>Renton (Personal)</title></circle></a><a href="/variants/s15/db20k16g3dp23o7g10o7dp23g3k16db23w2db2w2db3~x2/"><circle cx="89.2" cy="139.9" r="4" fill="#3465a4"><title>Pride of Bannockburn Fashion Tartan</title></circle></a><a href="/variants/s13/dp3k2dp5lb2db12r1db2k1g9dp3g5k12db2~x2/"><circle cx="74.5" cy="137.7" r="4" fill="#3465a4"><title>MacKusick (Piper) #2 (Personal)</title></circle></a><a href="/variants/s11/n6k1n2k2n1k4db10dy4dp1dy3lb1~x4/"><circle cx="113.1" cy="162.1" r="4" fill="#3465a4"><title>Wcwm 1893-2</title></circle></a><a href="/variants/s15/dg26k4dg6r4dg6k26db26k3w7k3db26k26dg26k3r7~x2/"><circle cx="114.6" cy="160.4" r="4" fill="#3465a4"><title>MacRae Htg - 1820 (Wilsons)</title></circle></a><a href="/variants/s16/dt2lr2dt22k6dt3k4dt3k4dt3k6db12t4db2t6db7w2~x2~dt1104259-lr2900000-db1504259-t2002249/"><circle cx="149.5" cy="139.3" r="4" fill="#3465a4"><title>World Corporate Golf Challenge</title></circle></a><a href="/variants/s16/db22k2ly3k2db22k4g10k2g10r3k4r3do10g2do10k3~x2/"><circle cx="122.2" cy="124.1" r="4" fill="#3465a4"><title>Yeomans (2016)</title></circle></a><a href="/variants/s15/dg4db2k10db2k2db14r2db2k10dbi2dg2dbi2dg4k1w2~x2~db1106275-dbi1406275/"><circle cx="147.1" cy="118.2" r="4" fill="#3465a4"><title>Barry (Name)</title></circle></a><circle cx="79.8" cy="134.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

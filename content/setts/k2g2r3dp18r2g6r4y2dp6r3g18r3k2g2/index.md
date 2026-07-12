@@ -1,6 +1,13 @@
 ---
 title: "MacIntyre and Glenorchy"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacIntyre"
+  url: "/clan/macintyre/"
+- name: "MacIntyre and Glenorchy"
+  url: "/tartans/m/ma/macintyre-and-glenorchy/"
 ---
 This is the **MacIntyre and Glenorchy** sett — one scale-free proportion (`k2g2r3dp18r2g6r4y2dp6r3g18r3k2g2`), colour order pattern
 [GKRGRBGRGRBRGK](/stripes/gkrgrbgrgrbrgk/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/y4lr2y2lr3y20k6do4k2do2k2do16r3~x2/"><circle cx="173.1" cy="142.0" r="4" fill="#3465a4"><title>Scotch House 'Dorcas' (Fashion)</title></circle></a><a href="/variants/s12/y4w2y2w3y20k6do4k2do2k2do16r3~x2/"><circle cx="159.4" cy="138.8" r="4" fill="#3465a4"><title>Dorcas</title></circle></a><a href="/variants/s11/dy2k10n2k2n2k3n10o16y2o2y2~x2/"><circle cx="132.6" cy="159.0" r="4" fill="#3465a4"><title>Dryburgh</title></circle></a><a href="/variants/s14/w3k2dg18r2db8r18dg2r2dg2r2db2r18dg18k2~x2/"><circle cx="193.0" cy="138.3" r="4" fill="#3465a4"><title>MacGuire (Personal)</title></circle></a><a href="/variants/s10/g6k2g3k2g6db8r20y2r3g2~x2/"><circle cx="180.6" cy="149.5" r="4" fill="#3465a4"><title>Connolly Dress</title></circle></a><a href="/variants/s12/o3dr3o4dr4o20k5n4k3o3k2n25w3~x2~o2500000-n1900000/"><circle cx="182.0" cy="133.3" r="4" fill="#3465a4"><title>MacLellan of Gartbreck (Personal)</title></circle></a><a href="/variants/s12/n4dr20k2dr2k2dr3k6o26w3o2w2o4~x2~n1900000-o2500000/"><circle cx="183.7" cy="115.1" r="4" fill="#3465a4"><title>Eidart 1990 (Fashion)</title></circle></a><a href="/variants/s12/o22w2o2w2o4k5o5k5n5dr2n13w2~x2/"><circle cx="194.9" cy="134.4" r="4" fill="#3465a4"><title>Glen Nevis</title></circle></a><a href="/variants/s14/k4r3g2db2r6g15r2db4g2r15g7k2r4w2~x2/"><circle cx="157.2" cy="152.0" r="4" fill="#3465a4"><title>MacKinnon #5</title></circle></a><a href="/variants/s12/r2k1r1k1g15r4db4r3db3y1k1y2~x6/"><circle cx="171.4" cy="116.9" r="4" fill="#3465a4"><title>Celts, Tartan of the</title></circle></a><circle cx="160.9" cy="139.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

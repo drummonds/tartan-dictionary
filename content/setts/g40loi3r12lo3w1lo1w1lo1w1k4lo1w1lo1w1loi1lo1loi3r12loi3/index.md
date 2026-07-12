@@ -1,6 +1,11 @@
 ---
 title: "Tenon Tours"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Tenon Tours"
+  url: "/tartans/t/te/tenon-tours-2/"
 ---
 This is the **Tenon Tours** sett — one scale-free proportion (`g40loi3r12lo3w1lo1w1lo1w1k4lo1w1lo1w1loi1lo1loi3r12loi3`), colour order pattern
 [GYRYWYWYWKYWYWYYYRY](/stripes/gyrywywywkywywyyyry/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s19/g40dy3dr12y3w1y1w2y1w1k4y1w1y1w1dy1y1dy3dr12dy3~x2/"><circle cx="226.0" cy="27.8" r="4" fill="#3465a4"><title>Tenon Tours</title></circle></a><a href="/variants/s18/y2ri5r3g54r5g3r5db20ri5r3ri5g16r2db4r48ri6r3w2~x2~ri2806019-r2109032/"><circle cx="227.5" cy="72.4" r="4" fill="#3465a4"><title>Somerville (Name)</title></circle></a><a href="/variants/s18/y2ri5r3g54r5g3r5db21ri5r3ri5g17r2db4r48ri5r3w2~ri2406019-r2109032/"><circle cx="234.0" cy="74.0" r="4" fill="#3465a4"><title>Sommerville Family Tartan</title></circle></a><a href="/variants/s18/y2ri5r3g54r5g3r5db20ri5r3ri5g16r2db4r48ri6r3w2~x2~ri2806019-r2109032-db1406275/"><circle cx="235.3" cy="74.6" r="4" fill="#3465a4"><title>Sommerville</title></circle></a><a href="/variants/s24/lb2dp10r3ri4g72ri7g4ri10db24dp6r5ri4r5dp7g24ri24g24ri3db3ri74dp7r5ri6lb2~x2~r2208029-ri2209032/"><circle cx="234.9" cy="49.4" r="4" fill="#3465a4"><title>MacDougall of MacDougall</title></circle></a><a href="/variants/s14/r6y60db12y6k12y2k2w2k2g18r18k3r4w2~x2/"><circle cx="206.1" cy="57.2" r="4" fill="#3465a4"><title>Victoria (Yellow)</title></circle></a><a href="/variants/s18/g4r4o1k1r19k1lb1r2db5r2lb1k1r2g24r5o1k1lb3~x2/"><circle cx="211.3" cy="52.4" r="4" fill="#3465a4"><title>Dundas (Red)</title></circle></a><a href="/variants/s18/r6lb4dg16ly2k1w6k1ly30r15ly30k1w6k1ly2dg16lb4r6w1~x2/"><circle cx="173.3" cy="67.1" r="4" fill="#3465a4"><title>Westwood</title></circle></a><a href="/variants/s11/w2r16k1lb2k1y43k1lb2k1g16lb1~x2/"><circle cx="301.8" cy="60.4" r="4" fill="#3465a4"><title>Baxter Clan Tartan</title></circle></a><a href="/variants/s18/g14r6ri2db3r65db2lb2r6db34r6lb2db2r4g66r12ri2db2lb4~r2109032-ri2406019/"><circle cx="271.1" cy="69.2" r="4" fill="#3465a4"><title>Stewart of Ardshiel Clan Tartan</title></circle></a><circle cx="241.5" cy="29.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

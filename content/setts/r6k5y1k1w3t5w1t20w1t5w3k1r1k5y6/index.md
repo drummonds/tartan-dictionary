@@ -1,6 +1,11 @@
 ---
 title: "Oromocto"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Oromocto"
+  url: "/tartans/o/or/oromocto/"
 ---
 This is the **Oromocto** sett — one scale-free proportion (`r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6`), colour order pattern
 [GKRKWBWBWBWKGKR](/stripes/gkrkwbwbwbwkgkr/). It is recorded as **2 variants** — the same
@@ -23,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2~r2109032-w3600000/"><circle cx="177.8" cy="96.8" r="4" fill="#3465a4"><title>Oromocto</title></circle></a><a href="/variants/s10/o38k4w4k4n10k4n10k4w2dp3~x2~o2500000-n1900000/"><circle cx="206.0" cy="107.0" r="4" fill="#3465a4"><title>Penman Grey (Personal)</title></circle></a><a href="/variants/s14/k2g2r3db18r2g6r4lb1db6r3g18r3k2g2~x2/"><circle cx="176.6" cy="113.4" r="4" fill="#3465a4"><title>Glen Orchy #2 or MacIntyre</title></circle></a><a href="/variants/s16/db36g10r2g10w2g10r2g10k14r2db12r3db2r2db4w2~x2/"><circle cx="184.6" cy="102.8" r="4" fill="#3465a4"><title>Rankin</title></circle></a><a href="/variants/s15/lb30g8r2k8y2k8r2g8db11r2lb10r3lb2r2db3~x2/"><circle cx="116.4" cy="95.3" r="4" fill="#3465a4"><title>Mungall Family Tartan</title></circle></a><a href="/variants/s12/g4b3g3b4g4k8g3k9w29r2w4r2~x2/"><circle cx="149.4" cy="110.7" r="4" fill="#3465a4"><title>Ross, hunting dress</title></circle></a><a href="/variants/s14/lb7w3lb2w30k5w3g2w3g8w3g2w3k30dp2~x2/"><circle cx="168.6" cy="98.4" r="4" fill="#3465a4"><title>Wiseman Dairies Corporate Tartan</title></circle></a><a href="/variants/s15/n32k4n5k4n32k2w2lo12k16w8k4r5k4w8k16~x2/"><circle cx="158.3" cy="109.3" r="4" fill="#3465a4"><title>Unidentified Fashion</title></circle></a><a href="/variants/s18/dr4t5dr2t7dr10k4lo2k2lo2k4lb4k4t18dr1k2dr1t4dr3~x2/"><circle cx="165.4" cy="114.1" r="4" fill="#3465a4"><title>Anderson Blue (Westwood)</title></circle></a><a href="/variants/s14/db2k2db4k4g4y1g4w2db3w14db2w2k2y1~x4/"><circle cx="107.3" cy="124.1" r="4" fill="#3465a4"><title>Gordon Dress #3</title></circle></a><circle cx="173.5" cy="95.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

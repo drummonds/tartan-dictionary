@@ -1,6 +1,11 @@
 ---
 title: "McGill University (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "McGill University"
+  url: "/tartans/m/mc/mcgill-university/"
 ---
 This is the **McGill University (Corporate)** sett — one scale-free proportion (`w3r24db12dg8ly3`), colour order pattern
 [WRBGY](/stripes/wrbgy/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dy3dg8db12r24w3~x2/"><circle cx="227.8" cy="212.9" r="4" fill="#3465a4"><title>McGill University</title></circle></a><a href="/variants/s5/dg4lb4k2r15ly4~x4/"><circle cx="206.8" cy="191.1" r="4" fill="#3465a4"><title>Benedict (Personal)</title></circle></a><a href="/variants/s5/r8b1g4b1db4~x2/"><circle cx="236.6" cy="240.9" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s4/r31db33g12w2~x2/"><circle cx="257.7" cy="223.5" r="4" fill="#3465a4"><title>Manor of Wrentnall (Personal)</title></circle></a><a href="/variants/s5/r8lg15t12r29w4~x2/"><circle cx="282.1" cy="251.4" r="4" fill="#3465a4"><title>Snowbird (Corporate)</title></circle></a><a href="/variants/s5/r9db1g2db5w1~x12/"><circle cx="273.7" cy="213.8" r="4" fill="#3465a4"><title>McIntosh, Georgina (Personal)</title></circle></a><a href="/variants/s5/r39db22k11y22g5~x2/"><circle cx="141.9" cy="220.6" r="4" fill="#3465a4"><title>Abbink, Ingmar (Personal)</title></circle></a><a href="/variants/s5/r39lb22k11ly22g5~x2/"><circle cx="132.0" cy="221.1" r="4" fill="#3465a4"><title>Abbink, Ingmar (Personal)</title></circle></a><a href="/variants/s5/dt7r1n6r8lb1~x8/"><circle cx="249.7" cy="257.8" r="4" fill="#3465a4"><title>Callum (Buchan)</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.2" cy="221.0" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><circle cx="220.9" cy="211.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

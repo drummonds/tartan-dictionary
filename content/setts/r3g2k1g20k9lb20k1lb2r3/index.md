@@ -1,6 +1,15 @@
 ---
 title: "Ayrton"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ayrton"
+  url: "/clan/ayrton/"
+- name: "Ayrton"
+  url: "/families/ayrton/"
+- name: "Ayrton"
+  url: "/tartans/a/ay/ayrton-2/"
 ---
 This is the **Ayrton** sett — one scale-free proportion (`r3g2k1g20k9lb20k1lb2r3`), colour order pattern
 [RGKGKWKWR](/stripes/rgkgkwkwr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k2lb2k2lb15g15k2g2w2~x4/"><circle cx="179.4" cy="181.0" r="4" fill="#3465a4"><title>Ben Lomond (Fashion)</title></circle></a><a href="/variants/s11/k7lb38g7k2g7k2g7ly21k3g4k3~x2/"><circle cx="158.5" cy="122.5" r="4" fill="#3465a4"><title>Chakraa (Fashion)</title></circle></a><a href="/variants/s10/w16k4o1k2w1k6dg6k1dg6w1~x4/"><circle cx="164.6" cy="134.4" r="4" fill="#3465a4"><title>Unidentified #49</title></circle></a><a href="/variants/s10/lb39g3lb3g20k3g20k3g3k20r3~x2/"><circle cx="169.4" cy="150.8" r="4" fill="#3465a4"><title>Dunedin Chapter (Corporate)</title></circle></a><a href="/variants/s8/g36k2g2k2g3k12lb10r20~x2/"><circle cx="216.5" cy="143.6" r="4" fill="#3465a4"><title>Georgia, State of</title></circle></a><a href="/variants/s11/dg27w2dg3ly4dg3w2dg5k13lg2w26lg3~x2/"><circle cx="154.4" cy="122.5" r="4" fill="#3465a4"><title>MacKellar Dress, Green (Dance)</title></circle></a><a href="/variants/s12/dr4w4dr2w29k10dg3k10dg4g4dg3g3dg3~x2~dg1806142-g2408144/"><circle cx="134.0" cy="114.3" r="4" fill="#3465a4"><title>Ross Arisaid</title></circle></a><a href="/variants/s8/k3w1r16k1g21t9k6w1~x4/"><circle cx="152.6" cy="130.8" r="4" fill="#3465a4"><title>Ford &amp; Etal</title></circle></a><a href="/variants/s9/k10w10k10ly32k2w2k2w2dr5~x2/"><circle cx="186.2" cy="137.0" r="4" fill="#3465a4"><title>Burberry (Counterfeit #4)</title></circle></a><a href="/variants/s15/ly4n12k12n4lb18n1ly1n1lb2n1ly2n1lb4n1ly4~x4/"><circle cx="159.3" cy="119.4" r="4" fill="#3465a4"><title>Ettrick (Fashion)</title></circle></a><circle cx="174.5" cy="134.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

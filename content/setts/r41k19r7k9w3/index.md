@@ -1,6 +1,15 @@
 ---
 title: "MacGregor, Black (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacGregor (Clan Gregor)"
+  url: "/clan/macgregor/"
+- name: "MacGregor"
+  url: "/families/macgregor/"
+- name: "MacGregor"
+  url: "/tartans/m/ma/macgregor-4/"
 ---
 This is the **MacGregor, Black (Personal)** sett — one scale-free proportion (`r41k19r7k9w3`), colour order pattern
 [RKRKW](/stripes/rkrkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r36k18r4k7w2~x2/"><circle cx="338.0" cy="161.0" r="4" fill="#3465a4"><title>Hopkins (Name)</title></circle></a><a href="/variants/s5/k18r4k18r32w3~x2/"><circle cx="255.0" cy="203.7" r="4" fill="#3465a4"><title>Munro (Black and Red)</title></circle></a><a href="/variants/s5/k18r4k18r32w3/"><circle cx="255.0" cy="203.7" r="4" fill="#3465a4"><title>Munro VS</title></circle></a><a href="/variants/s5/r20k2r2k15w1~x2/"><circle cx="324.5" cy="154.8" r="4" fill="#3465a4"><title>Masai Shuka 15 (Artefact)</title></circle></a><a href="/variants/s5/dr20k3dr4w2k7~x2/"><circle cx="381.6" cy="201.7" r="4" fill="#3465a4"><title>Loevenstein Castle</title></circle></a><a href="/variants/s5/r26k18r7k4y4~x2/"><circle cx="238.7" cy="204.1" r="4" fill="#3465a4"><title>Haig &amp; Haig Whisky</title></circle></a><a href="/variants/s5/r4k8r12k1y1~x2/"><circle cx="330.1" cy="186.5" r="4" fill="#3465a4"><title>MacKeane</title></circle></a><a href="/variants/s5/k16r2k2r12w1~x2/"><circle cx="307.9" cy="168.4" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s5/r3k25r25k10lb3~x2/"><circle cx="266.9" cy="208.7" r="4" fill="#3465a4"><title>Bodog.com</title></circle></a><a href="/variants/s4/k23r3k1r12~x4/"><circle cx="368.8" cy="149.1" r="4" fill="#3465a4"><title>Ewing</title></circle></a><circle cx="327.8" cy="176.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

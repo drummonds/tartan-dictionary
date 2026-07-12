@@ -1,6 +1,11 @@
 ---
 title: "Irving of Glentulchan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Irving"
+  url: "/clan/irving/"
 ---
 A family of [Clan Irving](/clan/irving/).
 

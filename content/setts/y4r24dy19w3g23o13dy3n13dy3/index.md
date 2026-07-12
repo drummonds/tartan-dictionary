@@ -1,6 +1,15 @@
 ---
 title: "Teallach Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Teallach"
+  url: "/clan/teallach/"
+- name: "Teallach"
+  url: "/families/teallach/"
+- name: "Teallach"
+  url: "/tartans/t/te/teallach/"
 ---
 This is the **Teallach Family Tartan** sett — one scale-free proportion (`y4r24dy19w3g23o13dy3n13dy3`), colour order pattern
 [GBGRGWGRG](/stripes/gbgrgwgrg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/ly4o24dy19w3g23n13dy3oi13dy3~x2~n1900000-oi2500000/"><circle cx="109.8" cy="205.1" r="4" fill="#3465a4"><title>Teallach (Personal)</title></circle></a><a href="/variants/s12/y12lo12o12g2r2y2dp12db12g12dp2r2db1~x2/"><circle cx="46.7" cy="160.4" r="4" fill="#3465a4"><title>Rainbow Kilt (Fashion)</title></circle></a><a href="/variants/s10/k2ly12dr3ly3dr12g12n12y12g1lb2~x2~n1900000-y2302111/"><circle cx="52.9" cy="165.5" r="4" fill="#3465a4"><title>Auld Scotland Weavers Tartan</title></circle></a><a href="/variants/s10/w3ri10dy6y8lb8g32r8ri10r6w3~x4~ri2209032-r2208029/"><circle cx="124.3" cy="157.8" r="4" fill="#3465a4"><title>Unidentified Silk scarf</title></circle></a><a href="/variants/s10/r2ly12r3ly3r12g12n12y12g1lb2~x2~n1900000-y2302111/"><circle cx="135.9" cy="198.0" r="4" fill="#3465a4"><title>Auld Scotland</title></circle></a><a href="/variants/s10/w3r10o6y8lb8g32b8r10b6w3~x4/"><circle cx="127.6" cy="162.3" r="4" fill="#3465a4"><title>Unidentified, Silk scarf</title></circle></a><a href="/variants/s11/db21dp21y21o2r21lo21y21db2r2dp2o21~x2/"><circle cx="105.3" cy="186.8" r="4" fill="#3465a4"><title>Watret (Artefact)</title></circle></a><a href="/variants/s7/db2lo10lb1o8g7dr10lb2~x2/"><circle cx="95.1" cy="205.9" r="4" fill="#3465a4"><title>Kipp (Personal)</title></circle></a><a href="/variants/s11/n1r1n3ly1n1do8y7g1n1lb1w1~x2/"><circle cx="137.2" cy="149.1" r="4" fill="#3465a4"><title>Porcupine Fancy Tartan</title></circle></a><a href="/variants/s7/o10n3db1lb8db1lo2g5~x4/"><circle cx="170.2" cy="206.1" r="4" fill="#3465a4"><title>Porcupine City of</title></circle></a><circle cx="94.1" cy="195.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

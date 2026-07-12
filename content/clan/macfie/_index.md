@@ -1,8 +1,11 @@
 ---
 title: "Clan MacFie"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
-*A clan defined by its tartans — the dictionary holds no separate clan history for it, only the cloth that carries its name.*
+Clan tartan dating to 1906; MacPhees held Colonsay until the seventeenth century, serving as hereditary Keepers of Records to the Lords of the Isles.
 
 ## Tartan
 

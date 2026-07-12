@@ -1,6 +1,15 @@
 ---
 title: "MacDonald of Boisdale"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDonald"
+  url: "/clan/macdonald/"
+- name: "MacDonald of Boisdale"
+  url: "/families/macdonald-of-boisdale/"
+- name: "MacDonald of Boisdale"
+  url: "/tartans/m/ma/macdonald-of-boisdale/"
 ---
 This is the **MacDonald of Boisdale** sett — one scale-free proportion (`r16w1db6w1r6w1db32w1r24b1g16b1r4b1g6b1r4w1db6w1r16`), colour order pattern
 [RWBWRBGBRBGBRWBWRWBWR](/stripes/rwbwrbgbrbgbrwbwrwbwr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/r16w1db6w1r6w1db32w1r24g1dg16g1r4g1dg6g1r4w1db6w1r16~x2~g2408144-dg1806142/"><circle cx="266.1" cy="71.3" r="4" fill="#3465a4"><title>MacDonald of Boisdale Clan Tartan</title></circle></a><a href="/variants/s18/db16r1db2r3db1r9db1r3db2r1db6g3lb3g5r28w3r3w3~x2/"><circle cx="283.9" cy="77.4" r="4" fill="#3465a4"><title>Bahrain, Royal</title></circle></a><a href="/variants/s21/r16lr1db7lr1r6lr1db34lr1r26g1dg16g1r4g1dg7g1r4lr1db7lr1r16~x2~g2408144-dg1806142/"><circle cx="273.5" cy="70.9" r="4" fill="#3465a4"><title>MacDonald of Boisdale</title></circle></a><a href="/variants/s24/db3dp12w6r6g46r14g6r14db14dp8w6r6w6dp8g12r16g12r6db6r86dp10w6r10db3/"><circle cx="258.9" cy="67.4" r="4" fill="#3465a4"><title>MacDougall Plaid</title></circle></a><a href="/variants/s18/db19r2g3r2db2r20g1y1r1g2r2db18r2g2r22g3w1r3~x2/"><circle cx="297.2" cy="89.3" r="4" fill="#3465a4"><title>Hebridean, South Uist</title></circle></a><a href="/variants/s15/lb3ly8r2ly8db11r2ly4ri4r27db1r2db2r2db13r2~x2~r1706009-ri2109032/"><circle cx="222.5" cy="100.8" r="4" fill="#3465a4"><title>Strathdon (District?)</title></circle></a><a href="/variants/s19/lb33dy22db4dy22r3m2r3m2r3m2r3m2r3m2r3m2r3dy22db4~x2~r2510029-m2610337/"><circle cx="221.4" cy="94.8" r="4" fill="#3465a4"><title>Commonwealth Games Scotland, Team Scotland 2014</title></circle></a><a href="/variants/s24/db5r3w2db1w2r3g9y2w1y2g9r1g1r27db1r1db1r27db1r1db9w1db1w4~x2/"><circle cx="295.8" cy="56.2" r="4" fill="#3465a4"><title>Hebridean Artifact Tartan</title></circle></a><a href="/variants/s26/g10r2db2r30dp3r2w1r2dp3r30db2r2g10r10g10dp4r2dp4db10r4g2r4g30r2dp3w1~x2/"><circle cx="283.7" cy="72.2" r="4" fill="#3465a4"><title>MacDougal</title></circle></a><a href="/variants/s18/ri6r3ri6db22ri7r2w1ri2db2ri2w1r2ri7g22ri7g2ri2r2~x2~ri2109032-r1807008/"><circle cx="218.6" cy="102.9" r="4" fill="#3465a4"><title>MacColl Hunting</title></circle></a><circle cx="264.3" cy="70.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Original Tartan Ltd (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Original Tartan Ltd"
+  url: "/tartans/o/or/original-tartan-ltd/"
 ---
 This is the **Original Tartan Ltd (Corporate)** sett — one scale-free proportion (`r2y2dg24lt10dy6lt2dy6lt1dy71dg2g2`), colour order pattern
 [GGGWGWGWGGR](/stripes/gggwgwgwggr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/db4g2dp12g4r1g28db3w3r3g48r1g4dp12g2db4y2~x2/"><circle cx="388.4" cy="56.9" r="4" fill="#3465a4"><title>Wallenberg, Nicolas (Personal)</title></circle></a><a href="/variants/s14/dg48k5db4lb2dg1r2n4dg20k3db4lb2dg1n4r2~x2/"><circle cx="420.8" cy="44.1" r="4" fill="#3465a4"><title>Heart of Alba</title></circle></a><a href="/variants/s8/dg62r5w1r4g5y4k4w2~x2/"><circle cx="430.8" cy="49.8" r="4" fill="#3465a4"><title>Greeven, Wolfgang H (Personal)</title></circle></a><a href="/variants/s12/dg28lb1dg4dr1k1lr1k1g4dr4k2dr4lr2~x2/"><circle cx="341.4" cy="69.2" r="4" fill="#3465a4"><title>Carroll O'Reed</title></circle></a><a href="/variants/s9/dy60db8o16db4lo8dy4r2db6w1~x2~o2007033-lo2905070/"><circle cx="391.6" cy="82.0" r="4" fill="#3465a4"><title>Wattenhofer (2016)</title></circle></a><a href="/variants/s12/dg3dgi2dg40g2dg4g8w1dgi4dg2ly4lyi4w2~x2~dgi1806142-g2408144-ly2705081-lyi3407090/"><circle cx="391.1" cy="78.8" r="4" fill="#3465a4"><title>Springbok (Fashion)</title></circle></a><a href="/variants/s12/dy46lb3dy7g2r2g2w2g11lb6db2lb3r2~x2/"><circle cx="329.0" cy="78.9" r="4" fill="#3465a4"><title>Diana Hunting Plaid Tartan</title></circle></a><a href="/variants/s10/dg40r8dg26g5dg10ly3db4ly2db1ly16~x2/"><circle cx="375.7" cy="111.0" r="4" fill="#3465a4"><title>Lodge Isandlwana</title></circle></a><a href="/variants/s14/r1dg20ri1dg1dy2dg1y1dg1dy4lr1dy1lr1dy1lr1~x4~r2109032-ri2806019/"><circle cx="401.4" cy="91.1" r="4" fill="#3465a4"><title>Forster (Personal)</title></circle></a><circle cx="422.8" cy="62.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

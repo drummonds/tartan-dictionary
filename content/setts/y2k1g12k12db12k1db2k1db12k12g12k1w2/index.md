@@ -1,6 +1,13 @@
 ---
 title: "Campbell of Loudoun Clan Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Campbell"
+  url: "/clan/campbell/"
+- name: "Campbell Loudon"
+  url: "/tartans/c/ca/campbell-loudon/"
 ---
 This is the **Campbell of Loudoun Clan Tartan** sett — one scale-free proportion (`y2k1g12k12db12k1db2k1db12k12g12k1w2`), colour order pattern
 [GKGKBKBKBKGKW](/stripes/gkgkbkbkbkgkw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/y2k1g12k12db12k1db1k1db12k12g12k1w2~x2/"><circle cx="122.9" cy="144.9" r="4" fill="#3465a4"><title>Campbell of Loudoun</title></circle></a><a href="/variants/s13/y4k1g12k12db12k1db4k1db12k12g12k1w4~x2/"><circle cx="94.9" cy="155.8" r="4" fill="#3465a4"><title>Campbell of Loudon</title></circle></a><a href="/variants/s13/r2k1g12k12db12k1db2k1db12k12g12k1y2~x2/"><circle cx="124.2" cy="146.4" r="4" fill="#3465a4"><title>MacEwen Clan Tartan</title></circle></a><a href="/variants/s13/r4k1g12k12db12k1db4k1db12k12g12k1y4~x2/"><circle cx="102.2" cy="155.9" r="4" fill="#3465a4"><title>MacEwan</title></circle></a><a href="/variants/s13/y1k1g7k8db7k1db2k1db7k8g7k1w1~x4/"><circle cx="122.4" cy="165.8" r="4" fill="#3465a4"><title>Campbell of Loudoun (Clan)</title></circle></a><a href="/variants/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/"><circle cx="136.5" cy="125.8" r="4" fill="#3465a4"><title>Campbell Red</title></circle></a><a href="/variants/s13/r5db30k19g23k2w2k5w2k2g23k19db25g5~x2/"><circle cx="125.3" cy="139.8" r="4" fill="#3465a4"><title>Loch Carron</title></circle></a><a href="/variants/s13/db11k1db1w1db1k8g8y1g8k8db8w1db1~x2/"><circle cx="133.5" cy="148.6" r="4" fill="#3465a4"><title>Logan Rogers Hunting</title></circle></a><a href="/variants/s13/db11k1db1w1db1k8g8ly1g8k8db8w1db1~x2/"><circle cx="132.5" cy="148.8" r="4" fill="#3465a4"><title>Logan Rogers Hunting (Personal)</title></circle></a><a href="/variants/s13/db9k1db1k1db1k7g8y2g8k7db8k1r2~x2/"><circle cx="107.5" cy="163.8" r="4" fill="#3465a4"><title>MacLeod of Gesto</title></circle></a><circle cx="120.8" cy="146.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

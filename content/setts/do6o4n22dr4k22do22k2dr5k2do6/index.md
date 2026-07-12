@@ -1,6 +1,15 @@
 ---
 title: "Lochaber (Ingles Buchan)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Lochaber"
+  url: "/clan/lochaber/"
+- name: "Lochaber"
+  url: "/families/lochaber/"
+- name: "Lochaber"
+  url: "/tartans/l/lo/lochaber-6/"
 ---
 This is the **Lochaber (Ingles Buchan)** sett — one scale-free proportion (`do6o4n22dr4k22do22k2dr5k2do6`), colour order pattern
 [BKBKBKBBRB](/stripes/bkbkbkbbrb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k23y2dr3db7dr3y2dg15dr21y5~x2/"><circle cx="171.3" cy="173.1" r="4" fill="#3465a4"><title>Land's End (Unnamed Maroon)</title></circle></a><a href="/variants/s8/dg30ly3k20dr2k3b4dr24k3~x2/"><circle cx="194.0" cy="159.5" r="4" fill="#3465a4"><title>Waterford</title></circle></a><a href="/variants/s13/do24g5n2k14dr2k3g3k3n14do6k4do3g2~x2/"><circle cx="176.6" cy="142.6" r="4" fill="#3465a4"><title>Berwick (Fashion)</title></circle></a><a href="/variants/s7/dp2r2dp16k17dg16k2y2~x2~r2109032/"><circle cx="181.7" cy="192.5" r="4" fill="#3465a4"><title>Zangenberg (Personal)</title></circle></a><a href="/variants/s7/dp2r2dp16k17dg16k2y2~x2/"><circle cx="179.9" cy="191.9" r="4" fill="#3465a4"><title>Zangenberg (Personal)</title></circle></a><a href="/variants/s12/dg10w2dg18k3dg3k3dg3k18dp24k3dp3ly3~x2/"><circle cx="173.7" cy="144.8" r="4" fill="#3465a4"><title>Bell's Whisky (SA)</title></circle></a><a href="/variants/s8/dr3dg2dr6dg20k15dg3db18w2~x2/"><circle cx="175.5" cy="188.4" r="4" fill="#3465a4"><title>Curry (Irish) (Name)</title></circle></a><a href="/variants/s11/do10dr4do4dr4do20k20dr3g20dr4g4ly4~x2~do1402055-g2203152/"><circle cx="132.4" cy="188.8" r="4" fill="#3465a4"><title>Cameron of Erracht (WCWM)</title></circle></a><a href="/variants/s8/o56k12o7k12o7dg50db50y10/"><circle cx="139.9" cy="189.6" r="4" fill="#3465a4"><title>Sikh</title></circle></a><a href="/variants/s10/k3g1dr1dt6n2dt1n1dt1dr10lb1~x4/"><circle cx="210.9" cy="152.8" r="4" fill="#3465a4"><title>Crieff Primary School Corporate (Schools) Tartan</title></circle></a><circle cx="185.1" cy="172.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Robieson"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Robieson"
+  url: "/clan/robieson/"
+- name: "Robieson"
+  url: "/families/robieson/"
+- name: "Robieson"
+  url: "/tartans/r/ro/robieson-2/"
 ---
 This is the **Robieson** sett — one scale-free proportion (`y1k1r8db1r1dg8r1db8r1dg1r8k1w1`), colour order pattern
 [GKRBRGRBRGRKW](/stripes/gkrbrgrbrgrkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/y1k1r8db1r1g8r1db8r1g1r8k1w1~x6/"><circle cx="163.4" cy="125.4" r="4" fill="#3465a4"><title>Robieson (Name)</title></circle></a><a href="/variants/s16/k2db12r12db2r2lb2r2lb2r12db6r2dg12k2y1r1y1~x2/"><circle cx="155.9" cy="109.3" r="4" fill="#3465a4"><title>Catalan Dance</title></circle></a><a href="/variants/s10/k3g1r1db6n2db1n1db1r10w1~x4/"><circle cx="148.4" cy="124.6" r="4" fill="#3465a4"><title>Crieff Primary School</title></circle></a><a href="/variants/s13/w2k1t2lb1dg4r1dg4r3k3r12lb1r2k1~x4/"><circle cx="166.5" cy="104.6" r="4" fill="#3465a4"><title>Peacock (Personal)</title></circle></a><a href="/variants/s13/k3r4db2r20db20r2g2r6g10r6w2r3k2~x2/"><circle cx="201.4" cy="126.8" r="4" fill="#3465a4"><title>Cameron of Locheil (Bonner collection)</title></circle></a><a href="/variants/s13/r8db2k1db3k4y1k1w1k1g8r6w1r6~x4/"><circle cx="129.0" cy="137.7" r="4" fill="#3465a4"><title>Christie Family Tartan</title></circle></a><a href="/variants/s14/r3db10t3db2t2db2r3k5r2k5r22dg2r3dg2~x2~t1903246-dg1405139/"><circle cx="206.0" cy="112.3" r="4" fill="#3465a4"><title>Lochcarron Dress</title></circle></a><a href="/variants/s14/w3k2dg18r2db8r18dg2r2dg2r2db2r18dg18k2~x2/"><circle cx="193.0" cy="138.3" r="4" fill="#3465a4"><title>MacGuire (Personal)</title></circle></a><a href="/variants/s9/k4db12lb3db4g8lo2r24db4r4~x2/"><circle cx="161.5" cy="132.2" r="4" fill="#3465a4"><title>MacCreary (Personal)</title></circle></a><a href="/variants/s10/y2r3dy3r21db3r2dy6k6dy4w2~x2/"><circle cx="201.9" cy="120.2" r="4" fill="#3465a4"><title>Hello Kitty Red</title></circle></a><circle cx="170.2" cy="125.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

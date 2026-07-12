@@ -1,6 +1,11 @@
 ---
 title: "Buschke (Skye) (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Buschke"
+  url: "/tartans/b/bu/buschke/"
 ---
 This is the **Buschke (Skye) (Personal)** sett — one scale-free proportion (`dy2dr4dg11k30r2db16w1`), colour order pattern
 [GBGKRBW](/stripes/gbgkrbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y2do4dg11k30r2db16w1~x2/"><circle cx="208.8" cy="96.5" r="4" fill="#3465a4"><title>Buschke (Skye) (Personal)</title></circle></a><a href="/variants/s6/dy3db40k35g5w2r3~x2/"><circle cx="234.4" cy="124.9" r="4" fill="#3465a4"><title>Italian National</title></circle></a><a href="/variants/s6/db25k84w5g32y5dp8~x2/"><circle cx="220.1" cy="129.9" r="4" fill="#3465a4"><title>Woodward, R Glenn</title></circle></a><a href="/variants/s6/dg10w2k10dy10db35r6~x2/"><circle cx="220.8" cy="154.3" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="230.0" cy="140.2" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s6/k33y4w3db33r2g2~x2/"><circle cx="209.6" cy="127.4" r="4" fill="#3465a4"><title>Atlantic Police Academy (Corporate)</title></circle></a><a href="/variants/s6/k33ly4w3db33r2g2~x2/"><circle cx="201.3" cy="124.9" r="4" fill="#3465a4"><title>Atlantic Police Academy</title></circle></a><a href="/variants/s6/r2db38k20w1dg20r2/"><circle cx="280.9" cy="135.6" r="4" fill="#3465a4"><title>Waterfront</title></circle></a><a href="/variants/s7/r3w2dy10dg37k12db21w2~x2~dy1703114-dg1304144/"><circle cx="191.4" cy="141.9" r="4" fill="#3465a4"><title>Jones, The</title></circle></a><a href="/variants/s6/ly4t8dp4k53db54w2/"><circle cx="237.8" cy="115.2" r="4" fill="#3465a4"><title>Pipers' Trail (Corporate)</title></circle></a><circle cx="215.6" cy="98.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

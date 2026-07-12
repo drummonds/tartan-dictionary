@@ -1,6 +1,15 @@
 ---
 title: "Alvis of Lee (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Alvis"
+  url: "/clan/alvis/"
+- name: "Alvis of Lee"
+  url: "/families/alvis-of-lee/"
+- name: "Alvis of Lee"
+  url: "/tartans/a/al/alvis-of-lee/"
 ---
 This is the **Alvis of Lee (Personal)** sett — one scale-free proportion (`db9w4g36lb36r4`), colour order pattern
 [BWGWR](/stripes/bwgwr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db9w4dg36lb36r4~x2/"><circle cx="196.9" cy="210.7" r="4" fill="#3465a4"><title>Alvis of Lee (Personal)</title></circle></a><a href="/variants/s5/db10k3lb65g56y6/"><circle cx="268.2" cy="167.5" r="4" fill="#3465a4"><title>Phoenix Police Honor Guard (Corp.)</title></circle></a><a href="/variants/s4/g14r3db9lb2~x2/"><circle cx="258.2" cy="262.5" r="4" fill="#3465a4"><title>Unidentified #4</title></circle></a><a href="/variants/s4/g15r3db11lb2~x2/"><circle cx="257.5" cy="259.2" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s6/g4w28db14y2lb17g4~x2/"><circle cx="198.8" cy="204.0" r="4" fill="#3465a4"><title>Allanton Dress (Fashion)</title></circle></a><a href="/variants/s6/w3b12db1g15o3w1~x4~b2409265-db1406275/"><circle cx="237.9" cy="187.6" r="4" fill="#3465a4"><title>Eeraerts, Laurent (Personal)</title></circle></a><a href="/variants/s5/g11ly10db11t33w3~x2/"><circle cx="272.5" cy="245.0" r="4" fill="#3465a4"><title>Sterling (Name)</title></circle></a><a href="/variants/s4/g15r3db11w2/"><circle cx="245.6" cy="255.5" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><a href="/variants/s6/w8lb30g5w3db8r5/"><circle cx="246.9" cy="195.4" r="4" fill="#3465a4"><title>Roseberry</title></circle></a><a href="/variants/s5/k1lb1g8db8w1~x4/"><circle cx="197.5" cy="205.3" r="4" fill="#3465a4"><title>Douglas</title></circle></a><circle cx="222.5" cy="223.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Angotta"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Angotta"
+  url: "/clan/angotta/"
+- name: "Angotta"
+  url: "/families/angotta/"
+- name: "Angotta"
+  url: "/tartans/a/an/angotta/"
 ---
 This is the **Angotta** sett — one scale-free proportion (`dy6db1dy1db1dy1db5dy2db5dy4db2r1db40r1`), colour order pattern
 [GBGBGBGBGBRBR](/stripes/gbgbgbgbgbrbr/). It is recorded as a single **variant**, below.

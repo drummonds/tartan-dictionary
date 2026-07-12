@@ -1,6 +1,11 @@
 ---
 title: "MacIntyre of Whitehouse"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacIntyre"
+  url: "/clan/macintyre/"
 ---
 A family of [Clan MacIntyre](/clan/macintyre/).
 

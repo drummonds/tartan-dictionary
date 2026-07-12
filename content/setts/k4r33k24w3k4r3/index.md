@@ -1,6 +1,11 @@
 ---
 title: "Monmouth College"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Monmouth College"
+  url: "/tartans/m/mo/monmouth-college/"
 ---
 This is the **Monmouth College** sett — one scale-free proportion (`k4r33k24w3k4r3`), colour order pattern
 [KRKWKR](/stripes/krkwkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r6k3r29k23w4k7y3~x2/"><circle cx="220.9" cy="162.6" r="4" fill="#3465a4"><title>MacPherson Red Cluny</title></circle></a><a href="/variants/s6/k4w2k28r30k1r3~x2/"><circle cx="313.5" cy="126.9" r="4" fill="#3465a4"><title>Ramsay of Dalhousie</title></circle></a><a href="/variants/s6/k3r15k11y2k4r3~x2/"><circle cx="244.0" cy="205.6" r="4" fill="#3465a4"><title>Brodie (Clan)</title></circle></a><a href="/variants/s6/k2r16k8ly1k8r2~x4/"><circle cx="282.2" cy="169.7" r="4" fill="#3465a4"><title>Brodie (Clan)</title></circle></a><a href="/variants/s6/k2r16k8y1k8r2/"><circle cx="284.4" cy="170.2" r="4" fill="#3465a4"><title>Brodie Dress</title></circle></a><a href="/variants/s6/k2r16k8y1k8r2~x2/"><circle cx="284.4" cy="170.2" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/variants/s6/r19k8r18k50w14k6/"><circle cx="247.5" cy="199.7" r="4" fill="#3465a4"><title>Knights Breton</title></circle></a><a href="/variants/s6/r19k3r19k32g3k8~x2~r2109032/"><circle cx="271.0" cy="196.2" r="4" fill="#3465a4"><title>Tartan TV</title></circle></a><a href="/variants/s6/k2r6k2r6k12y1~x4/"><circle cx="289.8" cy="186.6" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><a href="/variants/s6/k2r6k2r6k12y1~x2/"><circle cx="289.8" cy="186.6" r="4" fill="#3465a4"><title>MacQueen Clan Tartan</title></circle></a><circle cx="280.2" cy="168.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

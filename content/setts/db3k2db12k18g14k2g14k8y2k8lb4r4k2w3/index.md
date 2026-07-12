@@ -1,6 +1,15 @@
 ---
 title: "Allison (MacBean and Bishop)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Allison"
+  url: "/clan/allison/"
+- name: "Allison"
+  url: "/families/allison/"
+- name: "Allison"
+  url: "/tartans/a/al/allison/"
 ---
 This is the **Allison (MacBean and Bishop)** sett — one scale-free proportion (`db3k2db12k18g14k2g14k8y2k8lb4r4k2w3`), colour order pattern
 [BKBKGKGKGKWRKW](/stripes/bkbkgkgkgkwrkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db3k3db12k18g14k2g14k8y2k8lb4r4k2w3~x2/"><circle cx="80.2" cy="127.5" r="4" fill="#3465a4"><title>Alison / Allison</title></circle></a><a href="/variants/s14/dy2k3r6db4k17w2g16k2g16dy2k15dbi16k2dbi2~x2~db1106275-dbi1406275/"><circle cx="69.6" cy="123.3" r="4" fill="#3465a4"><title>Allison (MacGregor-Hastie)</title></circle></a><a href="/variants/s13/dbi3k3dbi15k15y3k3g15w3k15db4r6k3y1~x2~dbi1604274-db0805267/"><circle cx="105.4" cy="105.3" r="4" fill="#3465a4"><title>Allison</title></circle></a><a href="/variants/s14/db3k3db15k15y3dg15k3dg15w3k15dbi4r6k3y2~x2~db1204274-dbi1406275/"><circle cx="81.0" cy="142.7" r="4" fill="#3465a4"><title>Allison Family Tartan</title></circle></a><a href="/variants/s13/r2g6db12k3lb3k3g16k2g2k2g2k12y2~x2/"><circle cx="102.0" cy="140.4" r="4" fill="#3465a4"><title>MacInnes</title></circle></a><a href="/variants/s13/r2g6db12k3lb3k3g16k2g2k2g2k12y2/"><circle cx="102.0" cy="140.4" r="4" fill="#3465a4"><title>MacInnes</title></circle></a><a href="/variants/s13/r2g6db12k3w3k3g16k2g2k2g2k12y2/"><circle cx="98.0" cy="139.2" r="4" fill="#3465a4"><title>MacInnes</title></circle></a><a href="/variants/s14/k18wi3k18g18t18k2w4k2t18g18k18wi3k18r3~x2~wi3703114-t2503227-w3600000/"><circle cx="108.1" cy="147.9" r="4" fill="#3465a4"><title>Hislop/Hyslop Hunting</title></circle></a><a href="/variants/s12/w4k8db2lb2db4g16y2k15db6lb2k3lb4~x2/"><circle cx="73.3" cy="145.7" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/variants/s14/k20g18k2y2k5w2k2g18k20dp18t4dp4t4dp18~x2/"><circle cx="97.0" cy="137.9" r="4" fill="#3465a4"><title>Shandon (Personal)</title></circle></a><circle cx="78.7" cy="126.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Keith"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Keith"
+  url: "/clan/keith/"
+- name: "Keith"
+  url: "/families/keith/"
+- name: "Keith"
+  url: "/tartans/k/ke/keith-2/"
 ---
 This is the **Keith** sett — one scale-free proportion (`t18r5t3r5t3k20g18dy4g18k20t20k6t6`), colour order pattern
 [BRBRBKGGGKBKBKBKGGGKBRBR](/stripes/brbrbkgggkbkbkbkgggkbrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s24/k1t8k8g8w2g8k8t1k1t1k1t8k1t1k1t1k8g8y2g8k8t8k1t1~x2~w4000000/"><circle cx="94.6" cy="142.1" r="4" fill="#3465a4"><title>Campbell of Argyll (no guards)</title></circle></a><a href="/variants/s14/t8k1t1k1t1k5g6k1g6k5db3t1dr1t1~x4~t2405244/"><circle cx="83.2" cy="136.8" r="4" fill="#3465a4"><title>Gemmell Clan/Family Tartan</title></circle></a><a href="/variants/s20/y5g2y2g15k9db2k2db2k2db9g5db9k2db2k2db2k9g15k2w4~x2/"><circle cx="89.3" cy="147.3" r="4" fill="#3465a4"><title>Fyvie</title></circle></a><a href="/variants/s26/db8g2db8k2db2k2db2k4g11r2g11k4g2k9g2k9g2k4g11y2g11k4db2k2db2k4~x2/"><circle cx="106.2" cy="157.5" r="4" fill="#3465a4"><title>Stuart/Stewart Hunting #3</title></circle></a><a href="/variants/s12/k10g4w1g4k1g4r1g4k5db5k1db5~x4/"><circle cx="114.6" cy="149.9" r="4" fill="#3465a4"><title>Lloyd of Dolobran (Personal)</title></circle></a><a href="/variants/s16/r2k1t9k9g9k1w1k2w1k1g9t9k9t9k1g2~x4/"><circle cx="89.8" cy="126.5" r="4" fill="#3465a4"><title>Stephenson Hunting #2</title></circle></a><a href="/variants/s26/k11g15k2y3k2g15k11w5k5w19k2w5k2w19k5w5k11g15k2w3k2g15k11db11k3db11~x2/"><circle cx="48.5" cy="135.5" r="4" fill="#3465a4"><title>Campbell of Argyll Dress Trade Tartan</title></circle></a><a href="/variants/s22/db12k2db3k2db3k16g8dr2g8k2w2g8dr2g8k16dr2db8dr3db2dr2db3w2~x2/"><circle cx="81.8" cy="140.9" r="4" fill="#3465a4"><title>Rankin (Dalgleish) #2</title></circle></a><a href="/variants/s20/g6k3g18r4db4w4g18k3g6k3db6k3db18w4db4r4db18k3db6k3~x2~r2109032-db1204274/"><circle cx="112.8" cy="156.5" r="4" fill="#3465a4"><title>Shaw of Carolina (Personal)</title></circle></a><a href="/variants/s28/k1t8k8g8k1w2k1g8k8t1k1t1k1t8k1t1k1t1k8g8k1y2k1g8k8t8k1t1~x2~w4000000/"><circle cx="103.5" cy="126.8" r="4" fill="#3465a4"><title>Campbell of Argyll #2</title></circle></a><circle cx="63.3" cy="161.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

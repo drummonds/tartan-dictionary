@@ -1,6 +1,15 @@
 ---
 title: "MacAart Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacAart"
+  url: "/clan/macaart/"
+- name: "MacAart"
+  url: "/families/macaart/"
+- name: "MacAart"
+  url: "/tartans/m/ma/macaart-3/"
 ---
 This is the **MacAart Family Tartan** sett — one scale-free proportion (`dy9k2dy2r2g6k1y1k1g6r3`), colour order pattern
 [GKGRGKGKGR](/stripes/gkgrgkgkgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy9k2dy2dr2g6k1lo1k1g6dr3~x4/"><circle cx="152.5" cy="184.0" r="4" fill="#3465a4"><title>MacAart (Personal)</title></circle></a><a href="/variants/s11/dr3g6k1lo1k1g6dr2dy2k2dy9k2~x4/"><circle cx="129.3" cy="176.6" r="4" fill="#3465a4"><title>MacAart (Personal)</title></circle></a><a href="/variants/s10/k3r9k5do9o3do9k5g24k2o3~x2/"><circle cx="115.7" cy="154.5" r="4" fill="#3465a4"><title>Cavan</title></circle></a><a href="/variants/s10/k3r9k4dy9y3dy9k4g26k2y3~x2/"><circle cx="137.8" cy="146.8" r="4" fill="#3465a4"><title>Cavan, County</title></circle></a><a href="/variants/s8/db4dr11db1g8dr2g4k1lo2~x4/"><circle cx="183.4" cy="179.1" r="4" fill="#3465a4"><title>Craik of Assington (Personal)</title></circle></a><a href="/variants/s8/o30k4o3k4o3g20dt20y4~x2/"><circle cx="188.7" cy="177.0" r="4" fill="#3465a4"><title>Sikh (Corporate)</title></circle></a><a href="/variants/s14/k3r7k4o7ri3o7k4g3k3g19k2g2k2ri3~x2~r1506028-ri2008029/"><circle cx="101.8" cy="146.3" r="4" fill="#3465a4"><title>Anderson 10</title></circle></a><a href="/variants/s14/k3dr7k4dy7r3dy7k4g3k3g19k2g2k2r3~x2/"><circle cx="106.5" cy="149.1" r="4" fill="#3465a4"><title>Anderson (Coulson Bonner #1)</title></circle></a><a href="/variants/s14/dt20g20o3k4o3k4o30k4o3k4o3g20dt20y4~x2/"><circle cx="124.5" cy="157.0" r="4" fill="#3465a4"><title>Sikh Clan/Family Tartan</title></circle></a><a href="/variants/s10/o9k2o2r2g6k1y1k1g6r3~x2/"><circle cx="147.4" cy="178.0" r="4" fill="#3465a4"><title>MacAart</title></circle></a><circle cx="141.6" cy="177.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

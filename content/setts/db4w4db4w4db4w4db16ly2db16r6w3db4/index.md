@@ -1,6 +1,15 @@
 ---
 title: "Parker Dress (USA)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Parker"
+  url: "/clan/parker/"
+- name: "Parker"
+  url: "/families/parker/"
+- name: "Parker Dress"
+  url: "/tartans/p/pa/parker-dress/"
 ---
 This is the **Parker Dress (USA)** sett — one scale-free proportion (`db4w4db4w4db4w4db16ly2db16r6w3db4`), colour order pattern
 [BWBWBWBYBRWB](/stripes/bwbwbwbybrwb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db20lb2w5r2db10lb5db20lb2w5r5~x2/"><circle cx="320.8" cy="180.9" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/variants/s14/db4r6db16w4db4w4db4w4db16ly2db16r6w3db4~x2/"><circle cx="320.2" cy="183.9" r="4" fill="#3465a4"><title>Parker (USA)</title></circle></a><a href="/variants/s10/db20t2w5r2db10t5db20t2w5r5~x2/"><circle cx="326.7" cy="183.3" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/variants/s10/db5w12db4w4db4w3db37w3db3r4~x2/"><circle cx="378.9" cy="157.1" r="4" fill="#3465a4"><title>Unidentified #26</title></circle></a><a href="/variants/s9/w1db8r3db2r1db2r3db8ly1~x4/"><circle cx="365.8" cy="197.4" r="4" fill="#3465a4"><title>Louisville Fire &amp; Rescue P&amp;D</title></circle></a><a href="/variants/s13/db24r2db8y5db4w5db4y5db4w5db8r2db24~x2/"><circle cx="411.1" cy="160.6" r="4" fill="#3465a4"><title>Clackson (Personal)</title></circle></a><a href="/variants/s26/r6db16w4db4w4db4w4db16y2db16r6w3db4w3r6db16y2db16w4db4w4db4w4db16r6db4~x2/"><circle cx="295.1" cy="159.7" r="4" fill="#3465a4"><title>Parker Personal Tartan</title></circle></a><a href="/variants/s11/db2w2r2w2r2db2r2db12dy1db2w2~x4/"><circle cx="286.0" cy="154.6" r="4" fill="#3465a4"><title>Good Morning America (Corporate)</title></circle></a><a href="/variants/s12/lb34db60y3db60lb34w4lb34db60r3db60lb34w4~x2/"><circle cx="314.1" cy="154.5" r="4" fill="#3465a4"><title>MacKerrell</title></circle></a><a href="/variants/s13/db29r2db10y5db4w5db4y5db4w5db10r2db29~x2/"><circle cx="449.9" cy="147.9" r="4" fill="#3465a4"><title>Clackson (Personal)</title></circle></a><circle cx="314.5" cy="187.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

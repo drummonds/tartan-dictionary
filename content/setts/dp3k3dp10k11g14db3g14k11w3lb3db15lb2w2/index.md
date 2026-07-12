@@ -1,6 +1,15 @@
 ---
 title: "North of Scotland Tartan Army"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan North"
+  url: "/clan/north/"
+- name: "North of Scotland Tartan Army"
+  url: "/families/north-of-scotland-tartan-army/"
+- name: "North of Scotland Tartan Army"
+  url: "/tartans/n/no/north-of-scotland-tartan-army/"
 ---
 This is the **North of Scotland Tartan Army** sett — one scale-free proportion (`dp3k3dp10k11g14db3g14k11w3lb3db15lb2w2`), colour order pattern
 [BKBKGBGKWWBWW](/stripes/bkbkgbgkwwbww/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/lb6k1lb1k1lb1k8g8lo2g8k8db8k1dr2~x2/"><circle cx="59.3" cy="151.7" r="4" fill="#3465a4"><title>Farquharson Dress (Fashion)</title></circle></a><a href="/variants/s13/w2db14lo3k6g2k2w2k2g8dy6k2dy3w2~x4/"><circle cx="16.1" cy="151.6" r="4" fill="#3465a4"><title>Bowling (Clan)</title></circle></a><a href="/variants/s13/lb3db20ly5k8lb3k3lb3k3g14do8k3do4lb3~x2/"><circle cx="16.3" cy="156.5" r="4" fill="#3465a4"><title>Dowling</title></circle></a><a href="/variants/s13/w3db20y4k9w3k3w3k3g14dy9k3dy4w3~x2/"><circle cx="14.0" cy="153.9" r="4" fill="#3465a4"><title>Clodagh Cork Irish District Tartan</title></circle></a><a href="/variants/s13/w6k1w1k1w1k8g8y2g8k8db8k1dr2~x2/"><circle cx="52.2" cy="149.7" r="4" fill="#3465a4"><title>Farquharson Dress</title></circle></a><a href="/variants/s11/dr2k1g7k6db7t2db7k6g7k1lo2~x4/"><circle cx="45.8" cy="186.7" r="4" fill="#3465a4"><title>Smith (Clan)</title></circle></a><a href="/variants/s11/r2k1db8k7g8y2g8k7db8k1t2~x4/"><circle cx="57.1" cy="177.1" r="4" fill="#3465a4"><title>Adam Smith (Corporate)</title></circle></a><a href="/variants/s12/dr4db4dr2db13k6g3k6y2g4y2g14dp4~x2/"><circle cx="71.1" cy="172.3" r="4" fill="#3465a4"><title>Kinloch Anderson Hunting</title></circle></a><a href="/variants/s11/w7k11lb3db9g19y3k22db9lb3k3db6~x2/"><circle cx="68.5" cy="162.9" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/variants/s8/r4y3w12k16g5db20k4w2~x2/"><circle cx="48.3" cy="140.9" r="4" fill="#3465a4"><title>Iowa Dress</title></circle></a><circle cx="33.8" cy="162.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

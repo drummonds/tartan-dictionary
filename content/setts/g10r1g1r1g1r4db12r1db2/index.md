@@ -1,6 +1,11 @@
 ---
 title: "Unidentified Portrait"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified"
+  url: "/tartans/u/un/unidentified-49/"
 ---
 This is the **Unidentified Portrait** sett — one scale-free proportion (`g10r1g1r1g1r4db12r1db2`), colour order pattern
 [BRBRGRGRG](/stripes/brbrgrgrg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g8r3g3r5g26db7lb3db28r3db6~x2/"><circle cx="250.1" cy="189.0" r="4" fill="#3465a4"><title>Stewart of Appin Htg (error)</title></circle></a><a href="/variants/s10/g11r4g4r7g41db11lb4db41r4db8/"><circle cx="258.5" cy="182.6" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #2</title></circle></a><a href="/variants/s7/r3db1r1db11g10r2db2~x4/"><circle cx="283.8" cy="212.2" r="4" fill="#3465a4"><title>Robertson of Struan 1816</title></circle></a><a href="/variants/s10/g11r4g4r7g41o11lb4db41r4db8/"><circle cx="217.6" cy="171.0" r="4" fill="#3465a4"><title>Stewart of Appin, Ancient hunting</title></circle></a><a href="/variants/s10/r4lb3r32db30r4g32r3g32r3g3~x2/"><circle cx="253.0" cy="184.7" r="4" fill="#3465a4"><title>Unidentified Plaid #15</title></circle></a><a href="/variants/s7/db8r3db1r3g14r3db1~x4/"><circle cx="269.9" cy="204.1" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s7/r6db2r2db21g20r4g4~x2/"><circle cx="259.0" cy="216.7" r="4" fill="#3465a4"><title>Robertson of Struan</title></circle></a><a href="/variants/s10/w1r1g1r11db6r1g14r1g1w1~x4/"><circle cx="253.1" cy="153.0" r="4" fill="#3465a4"><title>Glen Tilt District Tartan</title></circle></a><a href="/variants/s8/y35db3r4db3r8db30w3db4~x2/"><circle cx="275.8" cy="178.9" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><a href="/variants/s9/r2db10g1db2g1db2g8r1g2~x4/"><circle cx="300.2" cy="205.8" r="4" fill="#3465a4"><title>Brown, Barnaby (Personal)</title></circle></a><circle cx="272.2" cy="187.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

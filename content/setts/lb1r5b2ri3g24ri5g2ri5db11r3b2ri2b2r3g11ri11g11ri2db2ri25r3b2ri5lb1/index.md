@@ -1,6 +1,15 @@
 ---
 title: "MacDougall 5"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDougall of Lorn"
+  url: "/clan/macdougall/"
+- name: "MacDougall"
+  url: "/families/macdougall/"
+- name: "MacDougall 5"
+  url: "/tartans/m/ma/macdougall-5/"
 ---
 This is the **MacDougall 5** sett — one scale-free proportion (`lb1r5b2ri3g24ri5g2ri5db11r3b2ri2b2r3g11ri11g11ri2db2ri25r3b2ri5lb1`), colour order pattern
 [WRBRGRGRBRBRBRGRGRBRRBRW](/stripes/wrbrgrgrbrbrbrgrgrbrrbrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s24/lb1b4dg2r2g27r4g2r4dp10b3dg2r2dg2b3g10r10g10r2dp2r26b3dg2r3lb1~x2/"><circle cx="217.0" cy="74.8" r="4" fill="#3465a4"><title>MacDougal 1</title></circle></a><a href="/variants/s24/lb1r5ri2rii3g24rii5g2rii5db11r3ri2rii2ri2r3g11rii11g11rii2db2rii25r3ri2rii5lb1~x2~r1707016-ri2208029-rii2209032/"><circle cx="220.8" cy="83.2" r="4" fill="#3465a4"><title>MacDougall #2</title></circle></a><a href="/variants/s24/y1ri4rii2r2g27r4g2r4dp10ri3rii2r2rii2ri3g10r10g10r2dp2r26ri3rii2r3y1~x2~ri2307033-rii2806019-r2109032/"><circle cx="239.9" cy="79.3" r="4" fill="#3465a4"><title>MacDougall - 1819 (Clan)</title></circle></a><a href="/variants/s24/lb1r4ri2rii2g27rii4g2rii4dp10r3ri2rii2ri2r3g10rii10g10rii2dp2rii26r3ri2rii3lb1~x2~r2109013-ri2208029-rii2209032/"><circle cx="232.3" cy="75.2" r="4" fill="#3465a4"><title>MacDougall (Wilson)</title></circle></a><a href="/variants/s24/lb2dp10b3r4g72r7g4r10db24dp6b5r4b5dp7g24r24g24r3db3r74dp7b5r6lb2~x2/"><circle cx="234.9" cy="51.5" r="4" fill="#3465a4"><title>MacDougall, of MacDougall</title></circle></a><a href="/variants/s18/y2ri5r3g54r5g3r5db21ri5r3ri5g17r2db4r48ri5r3w2~ri2406019-r2109032/"><circle cx="234.0" cy="74.0" r="4" fill="#3465a4"><title>Sommerville Family Tartan</title></circle></a><a href="/variants/s18/y2ri5r3g54r5g3r5db20ri5r3ri5g16r2db4r48ri6r3w2~x2~ri2806019-r2109032-db1406275/"><circle cx="235.3" cy="74.6" r="4" fill="#3465a4"><title>Sommerville</title></circle></a><a href="/variants/s18/y2ri5r3g54r5g3r5db20ri5r3ri5g16r2db4r48ri6r3w2~x2~ri2806019-r2109032/"><circle cx="227.5" cy="72.4" r="4" fill="#3465a4"><title>Somerville (Name)</title></circle></a><a href="/variants/s20/lb1r12ri4g72ri8g4ri8db18r12ri4r12g18ri18g18ri8db4ri72r6ri4lb1~x2~r1707016-ri2008029/"><circle cx="295.9" cy="69.5" r="4" fill="#3465a4"><title>MacDougal 2</title></circle></a><a href="/variants/s20/lb2dr12r4g72r8g4r8db18dr12r4dr12g18r18g18r8db4r72dr6r4lb1~x2~r1908029/"><circle cx="295.0" cy="72.6" r="4" fill="#3465a4"><title>MacDougall</title></circle></a><circle cx="222.6" cy="86.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

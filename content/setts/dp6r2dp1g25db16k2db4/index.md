@@ -1,6 +1,11 @@
 ---
 title: "Laurie Clan Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Laurie"
+  url: "/tartans/l/la/laurie/"
 ---
 This is the **Laurie Clan Tartan** sett — one scale-free proportion (`dp6r2dp1g25db16k2db4`), colour order pattern
 [BKBGBRB](/stripes/bkbgbrb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dp6y2dp1g25db16k2db4~x2~dp1105325/"><circle cx="255.3" cy="141.7" r="4" fill="#3465a4"><title>Lowry Clan Tartan</title></circle></a><a href="/variants/s7/dp6dy2dp1g25db16k2db4~x2~dp1105325/"><circle cx="256.8" cy="142.1" r="4" fill="#3465a4"><title>Lawrie Clan Tartan</title></circle></a><a href="/variants/s8/r3w6r2g32db36k2db4y2~x2/"><circle cx="218.7" cy="114.4" r="4" fill="#3465a4"><title>Canadian Centennial District Tartan</title></circle></a><a href="/variants/s8/r3w6r2dg32db36k2db4y2~x2/"><circle cx="241.8" cy="118.5" r="4" fill="#3465a4"><title>Canadian Centennial</title></circle></a><a href="/variants/s8/r3w6r2dg32db36k2db4lo2~x2/"><circle cx="236.3" cy="116.4" r="4" fill="#3465a4"><title>Canadian Centennial (Commemorative)</title></circle></a><a href="/variants/s6/k3g36db28r2db2y3~x2/"><circle cx="278.6" cy="150.6" r="4" fill="#3465a4"><title>Carmichael Family Tartan</title></circle></a><a href="/variants/s7/t13g2t12k8r1dt35ly1~x2~g2408144/"><circle cx="270.1" cy="110.0" r="4" fill="#3465a4"><title>Spirit of South Lanarkshire District Tartan</title></circle></a><a href="/variants/s8/g45w2r3k15r3db15r3db15~x2/"><circle cx="203.3" cy="123.9" r="4" fill="#3465a4"><title>MacNeil 3</title></circle></a><a href="/variants/s5/k3db3g23db21w2~x2~db1406275/"><circle cx="227.0" cy="190.6" r="4" fill="#3465a4"><title>Douglas Clan Tartan</title></circle></a><a href="/variants/s7/db24k8g8r2g8k1y2/"><circle cx="222.8" cy="137.8" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><circle cx="251.7" cy="139.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

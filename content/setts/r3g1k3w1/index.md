@@ -1,6 +1,11 @@
 ---
 title: "SAL Glindrande Stiernan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "SAL Glindrande Stiernan"
+  url: "/tartans/s/sa/sal-glindrande-stiernan/"
 ---
 This is the **SAL Glindrande Stiernan** sett — one scale-free proportion (`r3g1k3w1`), colour order pattern
 [RGKW](/stripes/rgkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r9g9k10lb2~x2~r2109032/"><circle cx="93.1" cy="276.3" r="4" fill="#3465a4"><title>Wilson's No.196</title></circle></a><a href="/variants/s4/k7r5w3db2~x4/"><circle cx="100.5" cy="275.5" r="4" fill="#3465a4"><title>Thomas Newcomen's Combustion Engine</title></circle></a><a href="/variants/s4/r6g5k5lb1~x2/"><circle cx="110.7" cy="264.5" r="4" fill="#3465a4"><title>Unidentified No 28</title></circle></a><a href="/variants/s4/y1k8r8w1~x4/"><circle cx="209.3" cy="206.4" r="4" fill="#3465a4"><title>Connel (Clan)</title></circle></a><a href="/variants/s4/dr3n16k16lb3~x4/"><circle cx="184.1" cy="246.9" r="4" fill="#3465a4"><title>Thompson, Dress (Clan)</title></circle></a><a href="/variants/s4/r5n32k31w5~x2/"><circle cx="193.1" cy="231.5" r="4" fill="#3465a4"><title>Loganair, Uniform Skirt</title></circle></a><a href="/variants/s4/r5n32k31w5/"><circle cx="193.1" cy="231.5" r="4" fill="#3465a4"><title>Loganair Uniform Skirt Corporate Tartan</title></circle></a><a href="/variants/s4/r25k13w8db5~x2/"><circle cx="169.4" cy="240.0" r="4" fill="#3465a4"><title>Hamby Sport (Personal)</title></circle></a><a href="/variants/s5/w14k30t9r8lo9~x2~w3600000-t2607245/"><circle cx="88.1" cy="238.8" r="4" fill="#3465a4"><title>Heidrick Family (Personal)</title></circle></a><a href="/variants/s4/dg7dr7w7r1~x6/"><circle cx="126.7" cy="273.4" r="4" fill="#3465a4"><title>MacKinnon Dress Hunting (Fashion)</title></circle></a><circle cx="97.6" cy="277.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

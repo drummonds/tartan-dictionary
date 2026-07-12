@@ -1,6 +1,11 @@
 ---
 title: "Cleghorn (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Cleghorn"
+  url: "/tartans/c/cl/cleghorn/"
 ---
 This is the **Cleghorn (Personal)** sett — one scale-free proportion (`g8r3g30k8w3k36w8`), colour order pattern
 [GRGKWKW](/stripes/grgkwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g6r2g13k6w2k16r3~x2/"><circle cx="178.1" cy="197.2" r="4" fill="#3465a4"><title>Sinclair Hunting</title></circle></a><a href="/variants/s6/r1g15k8g1k8g1~x2/"><circle cx="280.1" cy="183.9" r="4" fill="#3465a4"><title>Gunn VS</title></circle></a><a href="/variants/s6/r1g15k8g1k8g1~x4/"><circle cx="280.1" cy="183.9" r="4" fill="#3465a4"><title>Gunn VS</title></circle></a><a href="/variants/s7/k36w3k10w3dg28dr6k18~x2~dg1804158/"><circle cx="206.6" cy="155.5" r="4" fill="#3465a4"><title>Wild Highlanders</title></circle></a><a href="/variants/s5/k37w9k3g9w3~x2/"><circle cx="239.1" cy="165.8" r="4" fill="#3465a4"><title>Glen Coe #2</title></circle></a><a href="/variants/s9/k4ly17k2ly2g7k2ly2k22db4~x2/"><circle cx="200.1" cy="152.6" r="4" fill="#3465a4"><title>Bro-Leon</title></circle></a><a href="/variants/s8/g4r4k12w2k12g32r4k3~x2/"><circle cx="230.9" cy="145.1" r="4" fill="#3465a4"><title>MacHardy (Clans Originaux)</title></circle></a><a href="/variants/s8/k10t10k15g40k15t10k10y3~x2/"><circle cx="183.9" cy="182.1" r="4" fill="#3465a4"><title>U.S. Border Patrol</title></circle></a><a href="/variants/s7/g46k18g6k13r4k4w4~x2/"><circle cx="253.4" cy="161.5" r="4" fill="#3465a4"><title>Page</title></circle></a><a href="/variants/s5/k8y1k8g13r2~x4/"><circle cx="227.9" cy="199.7" r="4" fill="#3465a4"><title>Tolmie</title></circle></a><circle cx="198.4" cy="170.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

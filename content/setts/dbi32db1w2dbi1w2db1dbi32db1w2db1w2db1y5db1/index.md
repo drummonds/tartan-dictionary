@@ -1,6 +1,11 @@
 ---
 title: "Worsoff (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Worsoff"
+  url: "/tartans/w/wo/worsoff/"
 ---
 This is the **Worsoff (Personal)** sett — one scale-free proportion (`dbi32db1w2dbi1w2db1dbi32db1w2db1w2db1y5db1`), colour order pattern
 [BBWBWBBBWBWBGB](/stripes/bbwbwbbbwbwbgb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db45t3db3t15db3t3db7w1db7dy1db1dy1~x2/"><circle cx="569.5" cy="118.2" r="4" fill="#3465a4"><title>Deuchars IPA (Corporate)</title></circle></a><a href="/variants/s10/db32lo4dbi12db2dbi4db2dbi2n16db67lo6~db0705267-dbi1404245/"><circle cx="501.3" cy="147.0" r="4" fill="#3465a4"><title>Calum's Cabin</title></circle></a><a href="/variants/s12/db50w4db8y1db8y8g1y8db8w1db8y4~x2/"><circle cx="517.7" cy="100.8" r="4" fill="#3465a4"><title>Herry (2016)</title></circle></a><a href="/variants/s9/t7db5lr6db5r7db2t2db70lr2/"><circle cx="547.5" cy="78.8" r="4" fill="#3465a4"><title>United States (Personal)</title></circle></a><a href="/variants/s9/db62w2db4w5db6y2dr8y3w4~x2/"><circle cx="495.9" cy="110.5" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/variants/s14/t4db3lb4db3t2db3lb4db2y2lb4db2lb52db2lb4/"><circle cx="511.7" cy="102.4" r="4" fill="#3465a4"><title>Unidentified #1</title></circle></a><circle cx="547.3" cy="101.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

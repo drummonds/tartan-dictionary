@@ -1,6 +1,11 @@
 ---
 title: "Huntsman"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Huntsman"
+  url: "/tartans/h/hu/huntsman/"
 ---
 This is the **Huntsman** sett — one scale-free proportion (`g3dyi3g4k4dy14k3g41gi2`), colour order pattern
 [GGGKGKGG](/stripes/gggkgkgg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg6dy2o1dg15o3dy1dg15g6o1~x2/"><circle cx="516.3" cy="208.7" r="4" fill="#3465a4"><title>McCall, F W (Personal)</title></circle></a><a href="/variants/s8/dt14o1dt1o1dt6n14w1n1~x4/"><circle cx="412.0" cy="199.6" r="4" fill="#3465a4"><title>Corrie</title></circle></a><a href="/variants/s8/dg47y2dg5y2dg4k15db19r2~x2/"><circle cx="366.7" cy="135.9" r="4" fill="#3465a4"><title>Unidentified, Toy Bear</title></circle></a><a href="/variants/s8/lb6dg5dr5dg45k4dy24k4dg5~x2/"><circle cx="384.7" cy="173.5" r="4" fill="#3465a4"><title>O'Neill Clan/Family Tartan</title></circle></a><a href="/variants/s7/dp3n42k2g17n9dp3w2~x2/"><circle cx="426.8" cy="148.8" r="4" fill="#3465a4"><title>Barrance, Paul and Kelly (Personal)</title></circle></a><a href="/variants/s8/dg62n3dg3n31k4g5lb5r3~x2~dg1806142-g2408144/"><circle cx="374.2" cy="135.1" r="4" fill="#3465a4"><title>Sheffield, City of (District)</title></circle></a><a href="/variants/s10/dg68k2dg2k2dg2dy8r8k8dy2db7~x2/"><circle cx="450.3" cy="88.5" r="4" fill="#3465a4"><title>Moran Family Ubique</title></circle></a><a href="/variants/s6/dg30g1dg3dr30k1y3~x2~dg1806142-g2408144/"><circle cx="384.7" cy="151.0" r="4" fill="#3465a4"><title>Abadia Da Cova (Corporate)</title></circle></a><a href="/variants/s8/w3dr11db4dr6dg48o2dg3o2~x2/"><circle cx="447.5" cy="135.1" r="4" fill="#3465a4"><title>Hall, from Springbrook and Newtown (Personal)</title></circle></a><a href="/variants/s9/y1r2g3o24g26db3g15db2w1~x2/"><circle cx="388.7" cy="143.7" r="4" fill="#3465a4"><title>Canuck Place</title></circle></a><circle cx="440.1" cy="142.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Game Fair"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Game Fair"
+  url: "/tartans/g/ga/game-fair/"
 ---
 This is the **Game Fair** sett — one scale-free proportion (`r3db12k12dg12t2dg12w3`), colour order pattern
 [RBKGBGW](/stripes/rbkgbgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g16lb3g3k10db12dr2k3~x2/"><circle cx="100.7" cy="183.2" r="4" fill="#3465a4"><title>MacLean, Donald Personal Tartan</title></circle></a><a href="/variants/s6/dg31y4dg6k19db18lb9~x2/"><circle cx="152.0" cy="216.4" r="4" fill="#3465a4"><title>Lanarkshire</title></circle></a><a href="/variants/s7/g16lb3g3k10db12dr2db3~x2/"><circle cx="131.3" cy="198.2" r="4" fill="#3465a4"><title>MacLean, Donald (Personal)</title></circle></a><a href="/variants/s6/b4g17k17db17r3db3~x2/"><circle cx="96.9" cy="222.8" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/variants/s6/db1r1db6k6g6w1~x2/"><circle cx="96.8" cy="213.7" r="4" fill="#3465a4"><title>Wellington</title></circle></a><a href="/variants/s5/r2db12k7g8lb2~x4/"><circle cx="114.9" cy="231.4" r="4" fill="#3465a4"><title>Forbo Nairn</title></circle></a><a href="/variants/s6/k2y1g6k6db6w1~x4/"><circle cx="98.6" cy="219.1" r="4" fill="#3465a4"><title>Dyce Family Tartan</title></circle></a><a href="/variants/s7/db2dg4r1dg4k4db4ly1~x8/"><circle cx="123.9" cy="259.1" r="4" fill="#3465a4"><title>Isle of Gigha (District)</title></circle></a><a href="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/"><circle cx="76.3" cy="211.3" r="4" fill="#3465a4"><title>Huntly Gordon</title></circle></a><a href="/variants/s6/r4db24k12g14k4lb3~x2/"><circle cx="132.3" cy="198.9" r="4" fill="#3465a4"><title>MacPhail Hunting #2</title></circle></a><circle cx="116.0" cy="211.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

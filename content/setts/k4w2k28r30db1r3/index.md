@@ -1,6 +1,15 @@
 ---
 title: "Ramsay"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ramsay"
+  url: "/clan/ramsay/"
+- name: "Ramsay"
+  url: "/families/ramsay/"
+- name: "Ramsay"
+  url: "/tartans/r/ra/ramsay-4/"
 ---
 This is the **Ramsay** sett — one scale-free proportion (`k4w2k28r30db1r3`), colour order pattern
 [KWKRBR](/stripes/kwkrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k4w2k28r30b1r3~x2/"><circle cx="293.8" cy="114.6" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/variants/s6/k4w1k28r30dp1r3~x2/"><circle cx="304.6" cy="112.9" r="4" fill="#3465a4"><title>Ramsay (Red)</title></circle></a><a href="/variants/s6/k4w2k28r30k1r3~x2/"><circle cx="313.5" cy="126.9" r="4" fill="#3465a4"><title>Ramsay of Dalhousie</title></circle></a><a href="/variants/s8/w3k3w3k37r40w1r2lo3~x2/"><circle cx="276.0" cy="78.7" r="4" fill="#3465a4"><title>Marjoribanks (Clan)</title></circle></a><a href="/variants/s7/k3r1k30r28db1r1w3~x2/"><circle cx="292.6" cy="96.5" r="4" fill="#3465a4"><title>Cunningham (VS) Clan Tartan</title></circle></a><a href="/variants/s8/y3r2w1r40k36w3k3w3~x2/"><circle cx="278.1" cy="79.1" r="4" fill="#3465a4"><title>Marjoribanks</title></circle></a><a href="/variants/s6/k4r33k24w3k4r3~x2/"><circle cx="280.2" cy="168.5" r="4" fill="#3465a4"><title>Monmouth College</title></circle></a><a href="/variants/s6/db1r12k6y1k6db1~x4/"><circle cx="227.4" cy="167.1" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/variants/s7/r6k3r29k23w4k7y3~x2/"><circle cx="220.9" cy="162.6" r="4" fill="#3465a4"><title>MacPherson Red Cluny</title></circle></a><a href="/variants/s6/k2r16k8ly1k8r2~x4/"><circle cx="282.2" cy="169.7" r="4" fill="#3465a4"><title>Brodie (Clan)</title></circle></a><circle cx="294.1" cy="114.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

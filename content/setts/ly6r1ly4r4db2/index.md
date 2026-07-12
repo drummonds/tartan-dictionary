@@ -1,6 +1,11 @@
 ---
 title: "Sands-Pingot (Name?)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Sands-Pingot"
+  url: "/tartans/s/sa/sands-pingot/"
 ---
 This is the **Sands-Pingot (Name?)** sett — one scale-free proportion (`ly6r1ly4r4db2`), colour order pattern
 [BRYRY](/stripes/bryry/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/y6r1y4r4db2~x5/"><circle cx="374.8" cy="302.3" r="4" fill="#3465a4"><title>Sands-Pingot Family, Alabama (Personal)</title></circle></a><a href="/variants/s5/r18ly3r18ly30k4~x2/"><circle cx="285.9" cy="223.6" r="4" fill="#3465a4"><title>Shire of Hornwood (Corporate)</title></circle></a><a href="/variants/s4/y6w5y12r2~x2/"><circle cx="414.7" cy="288.1" r="4" fill="#3465a4"><title>One Account (Corporate)</title></circle></a><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="387.2" cy="258.0" r="4" fill="#3465a4"><title>Bryce Family Tartan</title></circle></a><a href="/variants/s6/w11r32g12r5g12r5~x2/"><circle cx="296.1" cy="247.8" r="4" fill="#3465a4"><title>Al-Maktoum</title></circle></a><a href="/variants/s5/r8lg15t12r29w4~x2/"><circle cx="282.1" cy="251.4" r="4" fill="#3465a4"><title>Snowbird (Corporate)</title></circle></a><a href="/variants/s6/r4ly1r3g1ly8g2~x4/"><circle cx="306.3" cy="250.1" r="4" fill="#3465a4"><title>Buchele Check (Fashion?)</title></circle></a><a href="/variants/s5/r5g5w1lb2r5~x2/"><circle cx="266.8" cy="278.2" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s4/r3g20r25w3~x4/"><circle cx="350.4" cy="253.0" r="4" fill="#3465a4"><title>MacKinnon #6</title></circle></a><a href="/variants/s5/r4db4r1g4r4~x6/"><circle cx="241.9" cy="316.1" r="4" fill="#3465a4"><title>MacGowan</title></circle></a><circle cx="305.7" cy="282.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

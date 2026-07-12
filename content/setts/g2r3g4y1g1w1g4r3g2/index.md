@@ -1,6 +1,11 @@
 ---
 title: "Unidentified #33"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unnamed 7"
+  url: "/tartans/u/un/unnamed-7/"
 ---
 This is the **Unidentified #33** sett — one scale-free proportion (`g2r3g4y1g1w1g4r3g2`), colour order pattern
 [GRGGGWGRG](/stripes/grgggwgrg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g5r9g10y2g2w2g10r9g5~x2/"><circle cx="304.0" cy="260.6" r="4" fill="#3465a4"><title>Wilson's, No 169</title></circle></a><a href="/variants/s9/dg5r9dg10w2dg2ly2dg10r9dg5~x2/"><circle cx="276.6" cy="244.8" r="4" fill="#3465a4"><title>Norwich No.077</title></circle></a><a href="/variants/s7/g16lo3g14dr16g2dr2g3~x2/"><circle cx="398.0" cy="256.5" r="4" fill="#3465a4"><title>Scott Autumn (Fashion)</title></circle></a><a href="/variants/s10/g3lr2g3dr1g6dr3g3dr1g3lr2~x4/"><circle cx="365.2" cy="285.8" r="4" fill="#3465a4"><title>Dundee Green</title></circle></a><a href="/variants/s8/g9r2g2r2g2r8g11w2~x4/"><circle cx="357.7" cy="249.4" r="4" fill="#3465a4"><title>Leeds University Corporate Tartan</title></circle></a><a href="/variants/s10/g3w2g3r1g6r3g3r1g2w3~x2/"><circle cx="295.2" cy="263.2" r="4" fill="#3465a4"><title>Dundee, Green</title></circle></a><a href="/variants/s16/r9g10w2g2y2g10r9g5r9g10y2g2w2g10r9g5~x2/"><circle cx="269.6" cy="234.8" r="4" fill="#3465a4"><title>Wilson's No.169</title></circle></a><a href="/variants/s8/g34r4g4r4g4r12g20w5~x2/"><circle cx="395.9" cy="200.6" r="4" fill="#3465a4"><title>Leeds, University of (Dance) #1</title></circle></a><a href="/variants/s7/y1r3g7r3g7r3y1~x4/"><circle cx="352.8" cy="267.8" r="4" fill="#3465a4"><title>Unidentified #42</title></circle></a><a href="/variants/s8/r3g19dy3g19r3g3r21lb3~x2/"><circle cx="323.7" cy="220.1" r="4" fill="#3465a4"><title>Burnett of Powis (Personal)</title></circle></a><circle cx="300.1" cy="277.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

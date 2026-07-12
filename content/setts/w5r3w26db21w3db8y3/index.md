@@ -1,6 +1,13 @@
 ---
 title: "MacPherson Blue/White Clan Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacPherson"
+  url: "/clan/macpherson/"
+- name: "MacPherson Blue/White"
+  url: "/tartans/m/ma/macpherson-blue-white/"
 ---
 This is the **MacPherson Blue/White Clan Tartan** sett — one scale-free proportion (`w5r3w26db21w3db8y3`), colour order pattern
 [GBWBWRW](/stripes/gbwbwrw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w5db16w5db16w33r3~x2/"><circle cx="306.8" cy="221.6" r="4" fill="#3465a4"><title>Buchanan Dress, Blue (Dance)</title></circle></a><a href="/variants/s6/w7db16w20db3w3y3~x2/"><circle cx="317.8" cy="254.7" r="4" fill="#3465a4"><title>Unidentified (Shirt)</title></circle></a><a href="/variants/s8/r2w6db2w9db9w2db6y2~x2/"><circle cx="178.9" cy="242.8" r="4" fill="#3465a4"><title>North Vancouver Island District Tartan</title></circle></a><a href="/variants/s8/dy2db6w2db9w9db2w6r2~x4/"><circle cx="178.0" cy="242.4" r="4" fill="#3465a4"><title>North Vancouver Island</title></circle></a><a href="/variants/s7/db12w4db1w4r8w2r1~x4/"><circle cx="222.2" cy="205.2" r="4" fill="#3465a4"><title>Sunderland</title></circle></a><a href="/variants/s8/y8db4lb23w3db22w25db3w6~x2/"><circle cx="180.1" cy="227.2" r="4" fill="#3465a4"><title>Culloden Blue Dress Fancy Tartan</title></circle></a><a href="/variants/s7/w24g2w8db5y4db5y4~x2/"><circle cx="327.1" cy="198.4" r="4" fill="#3465a4"><title>Clackson Arisaid (Name?)</title></circle></a><a href="/variants/s7/w5r3w26dt21w3dt8y3~x2/"><circle cx="250.9" cy="204.0" r="4" fill="#3465a4"><title>MacPherson Dress, Blue (Dance)</title></circle></a><a href="/variants/s9/w16db3w2db3w2db3r5db6w2~x4/"><circle cx="262.9" cy="203.9" r="4" fill="#3465a4"><title>Jeux Canada Games '87 (Corporate)</title></circle></a><a href="/variants/s8/lb30r3lb3r3lb12dt30n3dt5~x2/"><circle cx="285.0" cy="190.6" r="4" fill="#3465a4"><title>Dama Classic</title></circle></a><circle cx="251.4" cy="202.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

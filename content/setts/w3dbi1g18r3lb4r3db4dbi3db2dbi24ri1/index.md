@@ -1,6 +1,15 @@
 ---
 title: "Queen of the South Football Club"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Coldstream"
+  url: "/clan/coldstream/"
+- name: "Coldstream"
+  url: "/families/coldstream/"
+- name: "Coldstream"
+  url: "/tartans/c/co/coldstream-2/"
 ---
 This is the **Queen of the South Football Club** sett — one scale-free proportion (`w3dbi1g18r3lb4r3db4dbi3db2dbi24ri1`), colour order pattern
 [RBBBBRWRGBW](/stripes/rbbbbrwrgbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db38n1o11n1w4n1y4n1dg20n1lb6~x2~n1900000-o2500000/"><circle cx="229.3" cy="73.4" r="4" fill="#3465a4"><title>Manx Hunting</title></circle></a><a href="/variants/s11/lo2k8db48lb9n12r3n9r3n12dg8lo2~x2/"><circle cx="184.4" cy="86.3" r="4" fill="#3465a4"><title>Heston (Name)</title></circle></a><a href="/variants/s12/dbi30db4g5db2r2db2g5db4w10db5t8db1~x2~dbi1406275-db1404245/"><circle cx="198.1" cy="104.6" r="4" fill="#3465a4"><title>Lyon (Personal)</title></circle></a><a href="/variants/s10/dp3n1db4g2r2g21n3dp21db25w3~x2/"><circle cx="200.5" cy="124.3" r="4" fill="#3465a4"><title>Accenture</title></circle></a><a href="/variants/s9/db45r4n20w3ly9dr4ly3dr9n11~x2/"><circle cx="210.6" cy="144.3" r="4" fill="#3465a4"><title>United Arrows House Check</title></circle></a><a href="/variants/s11/g12db1dp4db30b3w2b3w2b3w10r4~x2/"><circle cx="187.7" cy="92.3" r="4" fill="#3465a4"><title>Rosslyn Chapel</title></circle></a><a href="/variants/s9/w1db16ly1r3ly1dg6g2dg6w1~x2~dg1806142-g2408144/"><circle cx="213.8" cy="138.7" r="4" fill="#3465a4"><title>Kleto, Susan (Personal)</title></circle></a><a href="/variants/s11/db2w2db21ly3db4ri3db3r4g18t4w2~x2~ri2109032-r1707008/"><circle cx="170.9" cy="130.7" r="4" fill="#3465a4"><title>Sons of Scotland (Corporate)</title></circle></a><a href="/variants/s8/db60lb5w4o12g42dp12lb5dp12/"><circle cx="188.3" cy="152.1" r="4" fill="#3465a4"><title>St Columba</title></circle></a><a href="/variants/s11/k8lbi1y1do10y16lb2k3n33lbi1n3w2~x2~lbi3203246-y2400000-lb3200000-n1700000/"><circle cx="215.5" cy="68.3" r="4" fill="#3465a4"><title>Oban Mist</title></circle></a><circle cx="200.9" cy="94.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

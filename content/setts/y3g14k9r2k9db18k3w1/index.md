@@ -1,6 +1,15 @@
 ---
 title: "Ayre (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ayre"
+  url: "/clan/ayre/"
+- name: "Ayre"
+  url: "/families/ayre/"
+- name: "Ayre"
+  url: "/tartans/a/ay/ayre/"
 ---
 This is the **Ayre (Personal)** sett — one scale-free proportion (`y3g14k9r2k9db18k3w1`), colour order pattern
 [GGKRKBKW](/stripes/ggkrkbkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r3k2g15k10db21k1y2/"><circle cx="176.4" cy="141.4" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s7/r3k2g15k10db20k2y2~x2/"><circle cx="142.2" cy="172.5" r="4" fill="#3465a4"><title>MacLeod Clan Tartan</title></circle></a><a href="/variants/s7/r3k2g15k10db20k2y2/"><circle cx="142.2" cy="172.5" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s8/r2k4db23k14g16y1k4y2~x2/"><circle cx="163.6" cy="133.1" r="4" fill="#3465a4"><title>Thomas, baron of Craigie, Robert (Personal)</title></circle></a><a href="/variants/s9/o4k7o2db25k19w2g13k2y3~x2/"><circle cx="117.7" cy="133.7" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><a href="/variants/s7/y3k1db20k16g20k1w3~x2/"><circle cx="135.2" cy="146.0" r="4" fill="#3465a4"><title>MacCormick</title></circle></a><a href="/variants/s7/k2r1g15k15db15y1k2~x2/"><circle cx="158.4" cy="151.9" r="4" fill="#3465a4"><title>MacCaskill Family Tartan</title></circle></a><a href="/variants/s8/r2k8y1k8g13db13lo1r2~x2/"><circle cx="99.1" cy="148.0" r="4" fill="#3465a4"><title>Sey (Name)</title></circle></a><a href="/variants/s9/db4k2db16k12w1g13r2g2y4~x2/"><circle cx="124.9" cy="136.8" r="4" fill="#3465a4"><title>Cusack</title></circle></a><a href="/variants/s7/y6g28r4k20r3db45k5~x2/"><circle cx="170.8" cy="153.8" r="4" fill="#3465a4"><title>Nery</title></circle></a><circle cx="119.4" cy="137.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

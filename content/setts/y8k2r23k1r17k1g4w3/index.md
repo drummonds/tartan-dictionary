@@ -1,6 +1,11 @@
 ---
 title: "Hoa Sen"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Hoa Sen"
+  url: "/tartans/h/ho/hoa-sen/"
 ---
 This is the **Hoa Sen** sett — one scale-free proportion (`y8k2r23k1r17k1g4w3`), colour order pattern
 [GKRKRKGW](/stripes/gkrkrkgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r52k5y5ly5do5k2r6k1y2~x2/"><circle cx="431.4" cy="43.0" r="4" fill="#3465a4"><title>Braemar Castle (Fashion)</title></circle></a><a href="/variants/s9/r52k5y5ly5do5k2r6k1y2~x2~ly2503076-do1103038/"><circle cx="441.5" cy="46.0" r="4" fill="#3465a4"><title>Braemar Castle</title></circle></a><a href="/variants/s6/g15k10r30dp2r20w1~x2/"><circle cx="328.7" cy="130.6" r="4" fill="#3465a4"><title>Kinnaird (Name)</title></circle></a><a href="/variants/s7/r48w3k3g2y6g2r6~x4/"><circle cx="491.6" cy="90.9" r="4" fill="#3465a4"><title>Ferguson the Astronomer</title></circle></a><a href="/variants/s6/r30g12k5w2lb6r30/"><circle cx="370.2" cy="156.5" r="4" fill="#3465a4"><title>Sinclair Clan Tartan</title></circle></a><a href="/variants/s6/r30g12k5w2lb6r30~x2/"><circle cx="370.2" cy="156.5" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s6/r28g16k4w1lb6r28~x2/"><circle cx="372.5" cy="138.9" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s6/r28g16k4w1lb6r28/"><circle cx="372.5" cy="138.9" r="4" fill="#3465a4"><title>Sinclair Dress</title></circle></a><a href="/variants/s6/r28g16k4w1db6r28~x2/"><circle cx="369.7" cy="137.8" r="4" fill="#3465a4"><title>Sinclair (Logan)</title></circle></a><a href="/variants/s6/r36t8w1k5g20r18~x4/"><circle cx="338.2" cy="133.2" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><circle cx="371.3" cy="111.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

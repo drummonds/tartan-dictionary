@@ -1,6 +1,11 @@
 ---
 title: "Port Moresby City Pipes & Drums"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Port Moresby City"
+  url: "/tartans/p/po/port-moresby-city/"
 ---
 This is the **Port Moresby City Pipes & Drums** sett — one scale-free proportion (`r2y36k12w3g2`), colour order pattern
 [GWKGR](/stripes/gwkgr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r2y33k5w3g2~x2/"><circle cx="408.1" cy="132.8" r="4" fill="#3465a4"><title>Port Moresby City Pipes and Drums</title></circle></a><a href="/variants/s4/r1y13k8g1~x6/"><circle cx="288.4" cy="189.7" r="4" fill="#3465a4"><title>Billy Apple® Yellow</title></circle></a><a href="/variants/s4/r1ly13k8g1~x6/"><circle cx="266.6" cy="185.4" r="4" fill="#3465a4"><title>Billy Apple - Yellow</title></circle></a><a href="/variants/s6/ri12g4k8dr3ly62r8~x2~ri2109032-r1807033/"><circle cx="307.7" cy="103.2" r="4" fill="#3465a4"><title>Shawn Jones Afghan Memorial, The</title></circle></a><a href="/variants/s5/w8r6ly2dg34db3~x2/"><circle cx="340.3" cy="160.1" r="4" fill="#3465a4"><title>Milling-Kristensen (Personal)</title></circle></a><a href="/variants/s6/y83k35w3g35k3ly10~y2405105-ly3307090/"><circle cx="233.2" cy="132.8" r="4" fill="#3465a4"><title>Brandon, Manitoba</title></circle></a><a href="/variants/s5/g62k40y3k3w3~x2/"><circle cx="299.5" cy="152.4" r="4" fill="#3465a4"><title>O'Donoghue</title></circle></a><a href="/variants/s6/k5w4r15g70k4w5~x2/"><circle cx="371.0" cy="138.6" r="4" fill="#3465a4"><title>Tahrir (Liberation)</title></circle></a><a href="/variants/s5/y25k9y12w2db2~x2/"><circle cx="388.5" cy="185.9" r="4" fill="#3465a4"><title>Gairloch</title></circle></a><a href="/variants/s5/g3y5r13k33w2~x2/"><circle cx="268.8" cy="136.8" r="4" fill="#3465a4"><title>Papua New Guinea Pipes and Drums</title></circle></a><circle cx="334.4" cy="133.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

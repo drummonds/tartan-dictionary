@@ -1,6 +1,15 @@
 ---
 title: "Lamont (Clan)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Lamont"
+  url: "/clan/lamont/"
+- name: "Lamont"
+  url: "/families/lamont/"
+- name: "Lamont"
+  url: "/tartans/l/la/lamont/"
 ---
 This is the **Lamont (Clan)** sett — one scale-free proportion (`t23k3t3k3t3k22g22w3g22k22t18k3t3`), colour order pattern
 [BKBKBKGWGKBKB](/stripes/bkbkbkgwgkbkb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db23k3db3k3db3k22g22w3g22k22db18k3db3~x2/"><circle cx="135.5" cy="181.7" r="4" fill="#3465a4"><title>Lamont #3</title></circle></a><a href="/variants/s13/db12k2db2k2db2k12g12y2g12k12db11k2db2/"><circle cx="128.5" cy="196.4" r="4" fill="#3465a4"><title>Gordon</title></circle></a><a href="/variants/s13/db12k2db2k2db2k12g12y2g12k12db11k2db2~x2/"><circle cx="128.5" cy="196.4" r="4" fill="#3465a4"><title>Gordon</title></circle></a><a href="/variants/s13/db6k1db1k1db1k6g6y1g6k6db6k1db1~x4/"><circle cx="128.2" cy="196.4" r="4" fill="#3465a4"><title>Gordon Regimental Tartan</title></circle></a><a href="/variants/s13/db23k3db3k3db3k17g22y4g22k17db22k3db3~x2/"><circle cx="145.2" cy="184.2" r="4" fill="#3465a4"><title>Gordon (Clan)</title></circle></a><a href="/variants/s13/db6k1db1k1db1k6g6lb2g6k6db6k1db2~x2/"><circle cx="117.1" cy="202.2" r="4" fill="#3465a4"><title>Cheape Clan Tartan</title></circle></a><a href="/variants/s13/db6k1db1k1db1k6g6lb2g6k6db6k1db2~x4/"><circle cx="117.1" cy="202.2" r="4" fill="#3465a4"><title>Cheape of Torosay (Clan)</title></circle></a><a href="/variants/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x4/"><circle cx="119.6" cy="201.0" r="4" fill="#3465a4"><title>Murray #2</title></circle></a><a href="/variants/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x2/"><circle cx="119.6" cy="201.0" r="4" fill="#3465a4"><title>New South Wales Scottish Rifles</title></circle></a><a href="/variants/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2/"><circle cx="119.6" cy="201.0" r="4" fill="#3465a4"><title>Murray</title></circle></a><circle cx="125.9" cy="182.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

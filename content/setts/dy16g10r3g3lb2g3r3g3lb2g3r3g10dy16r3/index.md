@@ -1,6 +1,15 @@
 ---
 title: "Scott Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Scott"
+  url: "/clan/scott/"
+- name: "Scott"
+  url: "/families/scott/"
+- name: "Scott Hunting"
+  url: "/tartans/s/sc/scott-hunting-3/"
 ---
 This is the **Scott Hunting** sett — one scale-free proportion (`dy16g10r3g3lb2g3r3g3lb2g3r3g10dy16r3`), colour order pattern
 [GGRGWGRGWGRGGR](/stripes/ggrgwgrgwgrggr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/o6dr4o24dg14ly9o3ly3o3ly9dg24o9ly6~x2/"><circle cx="207.3" cy="208.7" r="4" fill="#3465a4"><title>Pierce</title></circle></a><a href="/variants/s15/o8g20db15o6g4o8db4o6g20o8db6o4b2o4db6/"><circle cx="214.7" cy="210.3" r="4" fill="#3465a4"><title>Unidentified, Fragment</title></circle></a><a href="/variants/s8/r3dy16g10r3g3lb2g3r3~x2/"><circle cx="221.3" cy="215.9" r="4" fill="#3465a4"><title>Scott Htg (Clan)</title></circle></a><a href="/variants/s15/y2db3o3db4g16db3o3db4g3db3o16db4g3db3y2~x2/"><circle cx="205.8" cy="198.3" r="4" fill="#3465a4"><title>Kerry</title></circle></a><a href="/variants/s13/g8r1g1r1g1r6do8r1do8r6g7r1g1/"><circle cx="234.2" cy="216.2" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s10/r4lb3r32db30r4g32r3g32r3g3~x2/"><circle cx="253.0" cy="184.7" r="4" fill="#3465a4"><title>Unidentified Plaid #15</title></circle></a><a href="/variants/s10/db4o7y3o12g15o5db20o5g4o2~x2/"><circle cx="236.0" cy="217.1" r="4" fill="#3465a4"><title>Tupper., Sir Charles..</title></circle></a><a href="/variants/s9/g4r1db2r1g10dy5r3dy10y1~x4/"><circle cx="235.3" cy="200.5" r="4" fill="#3465a4"><title>Moncton, City of</title></circle></a><a href="/variants/s15/dg12g2dg2g7y4r2y8r2y4g7dg2g2dg16w2dg4~x2/"><circle cx="239.2" cy="194.5" r="4" fill="#3465a4"><title>Confessore Family Tartan</title></circle></a><a href="/variants/s11/db3o14g14o2db14o2db14o2g14o14r3~x2/"><circle cx="190.9" cy="230.9" r="4" fill="#3465a4"><title>Buchanan, hunting</title></circle></a><circle cx="227.6" cy="198.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

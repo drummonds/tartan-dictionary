@@ -1,6 +1,11 @@
 ---
 title: "SPA Association"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "SPA Association"
+  url: "/tartans/s/sp/spa-association/"
 ---
 This is the **SPA Association** sett — one scale-free proportion (`db5y1db1y1k4db15w1db2y1db2w1db15k4y1db1y1db5w1`), colour order pattern
 [BGBGKBWBGBWBKGBGBW](/stripes/bgbgkbwbgbwbkgbgbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/db80k12y3k3w3db24k3db4w3db4k3db24w3k3y3k12db6~x2~db1406275/"><circle cx="433.4" cy="66.2" r="4" fill="#3465a4"><title>Suffolk County Police</title></circle></a><a href="/variants/s10/y1db2w1db15k4y1db1y1db5w1~x4/"><circle cx="391.8" cy="124.9" r="4" fill="#3465a4"><title>SPA Association (Corporate)</title></circle></a><a href="/variants/s15/db25r3db3r2db4r2db3r3db18k16r1db16r3db8y2~x2/"><circle cx="400.2" cy="111.6" r="4" fill="#3465a4"><title>Dundonald</title></circle></a><a href="/variants/s12/db6g3db24k2db4k16db5g2db23g2k2y2~x2/"><circle cx="379.9" cy="152.0" r="4" fill="#3465a4"><title>Moon (New Maldon, Surrey)</title></circle></a><a href="/variants/s16/b19k1g3k1b3k9b20k1y1k7y1k1b21k12b2g1~x2/"><circle cx="321.1" cy="101.3" r="4" fill="#3465a4"><title>Hope Vere / Weir</title></circle></a><a href="/variants/s16/b30k8b2k2b3k2b8r15b8k2b3k2b2k8b30w3~x2/"><circle cx="335.4" cy="114.5" r="4" fill="#3465a4"><title>Chicago, University of..</title></circle></a><a href="/variants/s19/db25y5db12y3r1w1db12y3w1db12y3w1db12y5r1w1db12y4w2~x2/"><circle cx="428.5" cy="116.3" r="4" fill="#3465a4"><title>Wanless (Personal)</title></circle></a><a href="/variants/s11/db6k1y6k1db28w1k2w1db16w1r5~x2/"><circle cx="410.7" cy="84.1" r="4" fill="#3465a4"><title>Historic Caledonian Railway Enthusiasts', The</title></circle></a><a href="/variants/s14/db23k1db1w1db1r1db4y2db1y2db1y2db1y2~x2/"><circle cx="451.8" cy="68.9" r="4" fill="#3465a4"><title>King Pootatau Te Wherowhero</title></circle></a><a href="/variants/s8/db18r1db1r1db1k7db13w2~x4/"><circle cx="431.6" cy="139.4" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><circle cx="401.5" cy="106.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

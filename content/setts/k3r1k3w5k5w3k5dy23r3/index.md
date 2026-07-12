@@ -1,6 +1,15 @@
 ---
 title: "Southdown"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Southdown"
+  url: "/clan/southdown/"
+- name: "Southdown"
+  url: "/families/southdown/"
+- name: "Southdown"
+  url: "/tartans/s/so/southdown-2/"
 ---
 This is the **Southdown** sett — one scale-free proportion (`k3r1k3w5k5w3k5dy23r3`), colour order pattern
 [KRKWKWKGRGKWKWKR](/stripes/krkwkwkgrgkwkwkr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k8r1k3w5k5w3k5o23r3~x2/"><circle cx="192.5" cy="120.9" r="4" fill="#3465a4"><title>Southdown</title></circle></a><a href="/variants/s8/w10k2w2k66y6r48k5r8/"><circle cx="278.2" cy="69.5" r="4" fill="#3465a4"><title>Sutherland de Albergaria (Personal)</title></circle></a><a href="/variants/s9/k8r1k3w5k5w3k5dr23r3~x2/"><circle cx="198.4" cy="120.8" r="4" fill="#3465a4"><title>Southdown Tartan</title></circle></a><a href="/variants/s10/y3k1g22k20dp20g2dp2g2dp2g3~x4~dp1607327/"><circle cx="182.1" cy="103.0" r="4" fill="#3465a4"><title>Urbino</title></circle></a><a href="/variants/s9/y4k4g12k37w4k4w16k2w4~x2/"><circle cx="238.9" cy="124.4" r="4" fill="#3465a4"><title>Gordon Dress (Variation) Trade Tartan</title></circle></a><a href="/variants/s14/k5r1w2r1k26r3ly1n10w1r3w1n10w1r3~x2/"><circle cx="203.4" cy="65.6" r="4" fill="#3465a4"><title>El Dorado Hills P &amp; D (Corporate)</title></circle></a><a href="/variants/s14/k5r1w2r1k26r3y1n10w1r3w1n10w1r3~x2/"><circle cx="203.1" cy="65.1" r="4" fill="#3465a4"><title>El Dorado Hills Firefighters Pipes and Drums</title></circle></a><a href="/variants/s12/y2w1r2k20r9k20y7n20k5y1k1r1~x2/"><circle cx="216.7" cy="100.7" r="4" fill="#3465a4"><title>Cates Dress</title></circle></a><a href="/variants/s14/n2k6o2k1o2k1n2k4n6k4n19r2n2r2~x4/"><circle cx="285.2" cy="109.4" r="4" fill="#3465a4"><title>Lochcarron Mill</title></circle></a><a href="/variants/s10/k44w3lo16w2lo2w2lo2y10k3y8~x2/"><circle cx="239.0" cy="97.0" r="4" fill="#3465a4"><title>Wcwm 1399</title></circle></a><circle cx="211.8" cy="93.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Fullerton, Terrance (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Fullerton, Terrance"
+  url: "/tartans/f/fu/fullerton-terrance/"
 ---
 This is the **Fullerton, Terrance (Personal)** sett — one scale-free proportion (`r12g6k4g2k4g1k12r24ri4g3w3k10`), colour order pattern
 [KWGRRKGKGKGR](/stripes/kwgrrkgkgkgr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr12g6k4g2k4g1k12dr24r4g3w3k10~x2/"><circle cx="191.9" cy="113.7" r="4" fill="#3465a4"><title>Fullerton, Terence (Personal)</title></circle></a><a href="/variants/s9/r60ly4k22g5k25lb8k4r4k4~x2/"><circle cx="218.7" cy="106.9" r="4" fill="#3465a4"><title>State Seal of Alabama (Fashion)</title></circle></a><a href="/variants/s12/r4k4r28dp4g4k10g4dp4g4dp8k1w3~x2/"><circle cx="178.8" cy="87.9" r="4" fill="#3465a4"><title>Kelly of Sleat Red</title></circle></a><a href="/variants/s11/r16k4r2k4r2k8r8g8k1db16w4~x2/"><circle cx="123.1" cy="135.1" r="4" fill="#3465a4"><title>Malawi</title></circle></a><a href="/variants/s11/r48k10db12k2r3k2db12k10n10k2y3~x2/"><circle cx="211.7" cy="86.0" r="4" fill="#3465a4"><title>Brooks Brothers (WCWM)</title></circle></a><a href="/variants/s10/y4k1r16k16w3r1k16g16k1y4~x2/"><circle cx="149.7" cy="129.2" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/variants/s9/dg1r24dg8k8dg8r1k4db16w1~x2/"><circle cx="161.9" cy="121.4" r="4" fill="#3465a4"><title>Manson</title></circle></a><a href="/variants/s10/dr9k2dr2r13k2r2w1dr13k26w2~x2/"><circle cx="221.9" cy="110.1" r="4" fill="#3465a4"><title>Pride of Wales (Fashion)</title></circle></a><a href="/variants/s11/w2k35db30k3r30k2r4k2r30k3w2/"><circle cx="212.9" cy="116.2" r="4" fill="#3465a4"><title>Gwyn Welsh Name Tartan</title></circle></a><a href="/variants/s10/dr9k2dr2r13k2r2w1dr13k26w2~x2~r2108022/"><circle cx="224.6" cy="111.1" r="4" fill="#3465a4"><title>Pride of Wales Fashion Tartan</title></circle></a><circle cx="181.1" cy="105.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

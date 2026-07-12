@@ -1,6 +1,15 @@
 ---
 title: "MacKinnon #9"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacKinnon"
+  url: "/clan/mackinnon/"
+- name: "MacKinnon"
+  url: "/families/mackinnon/"
+- name: "MacKinnon"
+  url: "/tartans/m/ma/mackinnon-3/"
 ---
 This is the **MacKinnon #9** sett — one scale-free proportion (`r1ri2g1k1ri5g11ri1k2g1ri11g4r1ri2w1`), colour order pattern
 [RRGKRGRKGRGRRW](/stripes/rrgkrgrkgrgrrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/b1r2g1k1r5g11r1k2g1r11g4b1r2w1~x2/"><circle cx="222.4" cy="123.1" r="4" fill="#3465a4"><title>MacKinnon 2</title></circle></a><a href="/variants/s14/r6g4y2g17r2g2r2g8r26g6r4k2r4w6~x2/"><circle cx="242.4" cy="125.4" r="4" fill="#3465a4"><title>Hay</title></circle></a><a href="/variants/s14/dr2r3g2db2r6g16r2db4g2r16g8dr2r4w2~x2/"><circle cx="220.5" cy="166.8" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/variants/s14/dr2r3g2db2r6g16r2db4g2r16g8dr2r4w2/"><circle cx="220.5" cy="166.8" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/variants/s14/dr2r4g2db2r6g14r2db2g2r12g7dr2r5w1~x2/"><circle cx="253.2" cy="153.6" r="4" fill="#3465a4"><title>MacDonald of Staffa #5</title></circle></a><a href="/variants/s14/r2ri4g2db2ri6g14ri2db2g2ri12g7r2ri5w1~x2~r1506028-ri2008029/"><circle cx="261.2" cy="156.0" r="4" fill="#3465a4"><title>MacDonald of Staffa 4</title></circle></a><a href="/variants/s14/w3ri5r3g14ri36g3dp8ri3g36ri14dp3g3ri5w3~x2~ri2209032-r2208029/"><circle cx="256.3" cy="136.5" r="4" fill="#3465a4"><title>MacKinnon #11</title></circle></a><a href="/variants/s16/r3k2lb2r2g19r3g2r2db6r2g2r21k2lb2r2g2~x2/"><circle cx="214.7" cy="107.7" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #3</title></circle></a><a href="/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8~w4000000-dp1607327/"><circle cx="206.9" cy="123.1" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8/"><circle cx="218.0" cy="149.5" r="4" fill="#3465a4"><title>Seton (Clan)</title></circle></a><circle cx="226.1" cy="123.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

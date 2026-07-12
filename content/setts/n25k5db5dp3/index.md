@@ -1,6 +1,11 @@
 ---
 title: "Lord Willy's (New York)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Lord Willy's"
+  url: "/tartans/l/lo/lord-willy-s/"
 ---
 This is the **Lord Willy's (New York)** sett — one scale-free proportion (`n25k5db5dp3`), colour order pattern
 [BBKB](/stripes/bbkb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/n10k2db2dp1~x5/"><circle cx="388.0" cy="211.0" r="4" fill="#3465a4"><title>Lord Willy's (Corporate)</title></circle></a><a href="/variants/s4/r4db32k15w2~x2/"><circle cx="330.3" cy="186.6" r="4" fill="#3465a4"><title>Scottish Nuclear</title></circle></a><a href="/variants/s4/r5db26k12w2~x4/"><circle cx="294.2" cy="198.6" r="4" fill="#3465a4"><title>Mirror (Corporate)</title></circle></a><a href="/variants/s4/n62w11k4db17~x2/"><circle cx="370.4" cy="188.1" r="4" fill="#3465a4"><title>Thunderlord (Celtic Group, USA)</title></circle></a><a href="/variants/s5/db19r2w2r2k2~x4/"><circle cx="374.8" cy="164.9" r="4" fill="#3465a4"><title>Laing of Archiestown</title></circle></a><a href="/variants/s4/db14k3dr3w1~x2/"><circle cx="384.3" cy="193.1" r="4" fill="#3465a4"><title>Bacon, Blue</title></circle></a><a href="/variants/s4/db31k8dp4w2~x4/"><circle cx="409.9" cy="186.0" r="4" fill="#3465a4"><title>Osborne, Luke Alexander (Personal)</title></circle></a><a href="/variants/s5/k4lb4k4n15dr2~x4/"><circle cx="227.7" cy="213.0" r="4" fill="#3465a4"><title>Oban Grey (Fashion)</title></circle></a><a href="/variants/s5/n10k1db3g3ly1~x6/"><circle cx="293.4" cy="200.9" r="4" fill="#3465a4"><title>Celtic Norse Heritage Society</title></circle></a><a href="/variants/s5/n10k1db3g3y1~x6/"><circle cx="316.9" cy="209.0" r="4" fill="#3465a4"><title>Celtic Norse Heritage Society</title></circle></a><circle cx="375.9" cy="219.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

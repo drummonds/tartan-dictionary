@@ -1,6 +1,13 @@
 ---
 title: "Perry Arisaid (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Perry"
+  url: "/clan/perry/"
+- name: "Perry Arisaid"
+  url: "/tartans/p/pe/perry-arisaid/"
 ---
 This is the **Perry Arisaid (Personal)** sett — one scale-free proportion (`lb65r27w2lb4dy5`), colour order pattern
 [GWWRW](/stripes/gwwrw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r52y2db16y2db3w5~x2/"><circle cx="422.1" cy="128.4" r="4" fill="#3465a4"><title>Brock University Alumni Association</title></circle></a><a href="/variants/s5/r32w4db7y2lb2~x5/"><circle cx="414.5" cy="152.9" r="4" fill="#3465a4"><title>Sildesalaten</title></circle></a><a href="/variants/s5/r32w4db7ly2lb2~x5/"><circle cx="410.7" cy="152.1" r="4" fill="#3465a4"><title>Sildesalaten</title></circle></a><a href="/variants/s7/y2dy4r4lb21w1lb1ri1~x4~r2109032-ri2307033/"><circle cx="368.8" cy="115.7" r="4" fill="#3465a4"><title>Edinburgh Fire (Corporate)</title></circle></a><a href="/variants/s4/r60w28y2lb3~x2/"><circle cx="430.6" cy="165.4" r="4" fill="#3465a4"><title>Willis, H Graham</title></circle></a><a href="/variants/s4/r60w28ly2lb3~x2/"><circle cx="431.6" cy="166.1" r="4" fill="#3465a4"><title>Willis, H Graham</title></circle></a><a href="/variants/s6/lb48n28w4n28lb48y3~x2/"><circle cx="434.9" cy="249.4" r="4" fill="#3465a4"><title>McKerrell of Hillhouse Dress</title></circle></a><a href="/variants/s4/w35db12r2n2~x2/"><circle cx="390.0" cy="181.9" r="4" fill="#3465a4"><title>Triplett, Jack Arnold</title></circle></a><a href="/variants/s5/lb72r16k5y2db16~x2/"><circle cx="354.6" cy="111.7" r="4" fill="#3465a4"><title>Thomas, Jean Marc (Personal)</title></circle></a><a href="/variants/s5/b86g3r3g6r85~x2/"><circle cx="407.9" cy="181.9" r="4" fill="#3465a4"><title>MacNab 2</title></circle></a><circle cx="470.2" cy="160.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

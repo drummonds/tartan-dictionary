@@ -1,6 +1,11 @@
 ---
 title: "Buildbase"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Buildbase"
+  url: "/tartans/b/bu/buildbase/"
 ---
 This is the **Buildbase** sett — one scale-free proportion (`dr8w1k3dr3k10w3k5w25k3dr3k12w3`), colour order pattern
 [BWKBKWKWKBKW](/stripes/bwkbkwkwkbkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k2n2w4n6w27n15k42n2w2/"><circle cx="226.6" cy="133.3" r="4" fill="#3465a4"><title>Swansea City AFC</title></circle></a><a href="/variants/s12/w4k1w2k3w23db5k3db1k1db1k19w2~x2/"><circle cx="258.0" cy="109.0" r="4" fill="#3465a4"><title>Menzies Black Dress Clan Tartan</title></circle></a><a href="/variants/s8/k16b1k1b1k1b9ly18b1~x4/"><circle cx="204.6" cy="147.8" r="4" fill="#3465a4"><title>Kelvingrove (Fashion)</title></circle></a><a href="/variants/s10/lr40k11do8lr2do8k6lr2k16lr1k16~x2/"><circle cx="259.2" cy="114.1" r="4" fill="#3465a4"><title>Lebrun</title></circle></a><a href="/variants/s14/k24n8lb3k3lb3k3lb40k3lb3k3lb3n8k24n8~x2/"><circle cx="213.0" cy="135.4" r="4" fill="#3465a4"><title>O'Sullivan-Beare</title></circle></a><a href="/variants/s11/w4k2o12dr3k3dr3k23o10k2o6k2~x2~o2500000/"><circle cx="194.7" cy="143.4" r="4" fill="#3465a4"><title>Auld Lang Syne, Grey Weavers Tartan</title></circle></a><a href="/variants/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/"><circle cx="181.2" cy="122.7" r="4" fill="#3465a4"><title>MacRae Dress Clan Tartan</title></circle></a><a href="/variants/s10/k3r1k1w20k10r2k2w2k2r2~x4/"><circle cx="254.7" cy="116.7" r="4" fill="#3465a4"><title>Buckleigh Dress (Fashion)</title></circle></a><a href="/variants/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/"><circle cx="162.1" cy="135.9" r="4" fill="#3465a4"><title>McRae, Dress</title></circle></a><a href="/variants/s14/k2lb18k13lb1g16lb1k2lb1g16lb1k13lb18k2lb2~x2/"><circle cx="192.5" cy="148.7" r="4" fill="#3465a4"><title>Hebrides #9</title></circle></a><circle cx="213.8" cy="127.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Caithelyn (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Caithelyn"
+  url: "/tartans/c/ca/caithelyn/"
 ---
 This is the **Caithelyn (Personal)** sett — one scale-free proportion (`dp20k2w2k2dp2k10g3k2g20k2g3k10dp8k2`), colour order pattern
 [BKWKBKGKGKGKBK](/stripes/bkwkbkgkgkgkbk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12~x2~db1406275/"><circle cx="135.4" cy="136.1" r="4" fill="#3465a4"><title>Stewart/Stuart of Appin</title></circle></a><a href="/variants/s16/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1ly2dp1~x2/"><circle cx="161.8" cy="129.0" r="4" fill="#3465a4"><title>Kettles, Ryan &amp; Alan (Personal)</title></circle></a><a href="/variants/s16/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1y2dp1~x2/"><circle cx="165.1" cy="130.0" r="4" fill="#3465a4"><title>Kettles, Ryan &amp; Alan (Personal)</title></circle></a><a href="/variants/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12~x2/"><circle cx="134.9" cy="136.9" r="4" fill="#3465a4"><title>Stewart Old.. Clan Tartan</title></circle></a><a href="/variants/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12/"><circle cx="134.9" cy="136.9" r="4" fill="#3465a4"><title>Stewart Old</title></circle></a><a href="/variants/s13/db26k4db4k4db4k27y5g47y5k27db25k4db4~x2/"><circle cx="159.5" cy="153.6" r="4" fill="#3465a4"><title>Campbell of Breadalbane (Military)</title></circle></a><a href="/variants/s12/db12r2db2r5db26r2k29g27r5g2r2g12~x2/"><circle cx="143.3" cy="143.7" r="4" fill="#3465a4"><title>MacDonald #5</title></circle></a><a href="/variants/s15/db19k3db3k3db3k20g19k2r5k2g19k20db19k3db3~x2/"><circle cx="145.3" cy="158.7" r="4" fill="#3465a4"><title>Safeway</title></circle></a><a href="/variants/s11/k1r1g6k1g1k1g1k6db9k1db1~x2/"><circle cx="155.2" cy="160.2" r="4" fill="#3465a4"><title>Louise of Lorne</title></circle></a><a href="/variants/s13/db8k1db1k1db1k8r1g14r1k8db8k1db1~x4/"><circle cx="166.7" cy="139.2" r="4" fill="#3465a4"><title>Riddoch (Name)</title></circle></a><circle cx="150.1" cy="147.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Clerk Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clerk"
+  url: "/tartans/c/cl/clerk/"
 ---
 This is the **Clerk Family Tartan** sett — one scale-free proportion (`db5k1g1k1r3k1`), colour order pattern
 [BKGKRK](/stripes/bkgkrk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db13k4y4k4r13~x4/"><circle cx="78.5" cy="238.2" r="4" fill="#3465a4"><title>Clark, Red</title></circle></a><a href="/variants/s7/db4k2db10k10g10k2dr3~x2/"><circle cx="122.0" cy="240.8" r="4" fill="#3465a4"><title>MacKinlay (Clan)</title></circle></a><a href="/variants/s6/k3dg11k3b11k18o3~x2/"><circle cx="190.1" cy="222.5" r="4" fill="#3465a4"><title>The Harbour Town, Hilton Head</title></circle></a><a href="/variants/s6/r4db24k12g14k4lb3~x2/"><circle cx="132.3" cy="198.9" r="4" fill="#3465a4"><title>MacPhail Hunting #2</title></circle></a><a href="/variants/s6/n32w4n4k24dp29k4/"><circle cx="171.5" cy="210.5" r="4" fill="#3465a4"><title>Grammar School at Leeds (School)</title></circle></a><a href="/variants/s6/k3db12r2k12g12k3~x2/"><circle cx="142.1" cy="228.8" r="4" fill="#3465a4"><title>Ferguson of Balquhidder #3</title></circle></a><a href="/variants/s5/k4lb4k4n15dr2~x4/"><circle cx="227.7" cy="213.0" r="4" fill="#3465a4"><title>Oban Grey (Fashion)</title></circle></a><a href="/variants/s6/k3db14r2k14g14k3~x2/"><circle cx="148.0" cy="219.2" r="4" fill="#3465a4"><title>Gallamore</title></circle></a><a href="/variants/s7/r4k8r4k8db12k1w2~x2/"><circle cx="171.5" cy="187.6" r="4" fill="#3465a4"><title>MacKean Red</title></circle></a><a href="/variants/s9/k1r1k5r1w1r1db5r1k1~x2/"><circle cx="138.8" cy="185.8" r="4" fill="#3465a4"><title>Gipsy Fancy Tartan</title></circle></a><circle cx="156.5" cy="220.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

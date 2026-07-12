@@ -1,6 +1,13 @@
 ---
 title: "Jacobite, Silk sash"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Jacobite"
+  url: "/clan/jacobite/"
+- name: "Jacobite, Silk sash"
+  url: "/tartans/j/ja/jacobite-silk-sash-2/"
 ---
 This is the **Jacobite, Silk sash** sett — one scale-free proportion (`w2r8o5y6w5g21w6r8b4w2`), colour order pattern
 [WBRWGWGRRW](/stripes/wbrwgwgrrw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w6lb36ly12g19dg6r6dg6r28dg4~g2408144-dg1806142/"><circle cx="119.1" cy="187.1" r="4" fill="#3465a4"><title>Derry Family (Personal)</title></circle></a><a href="/variants/s9/w6lb36y12g19dg6r6dg6r28dg4/"><circle cx="110.1" cy="182.5" r="4" fill="#3465a4"><title>Derry Family (Olney, Buckinghamshire) (Personal)</title></circle></a><a href="/variants/s10/w2ri8dy5y6w5g21w6ri8r4w2~ri2209032-r2208029/"><circle cx="106.1" cy="171.4" r="4" fill="#3465a4"><title>Jacobite Silk sash</title></circle></a><a href="/variants/s7/o17n5db2w12db2y4g7~x2/"><circle cx="125.5" cy="200.6" r="4" fill="#3465a4"><title>Ontario, Northern</title></circle></a><a href="/variants/s10/w3r10o6y8lb8g32b8r10b6w3~x4/"><circle cx="127.6" cy="162.3" r="4" fill="#3465a4"><title>Unidentified, Silk scarf</title></circle></a><a href="/variants/s12/dp3lb1w9r6g5lb2w2lb2w2lb2g12y2~x2/"><circle cx="125.7" cy="159.3" r="4" fill="#3465a4"><title>Fredericton District Tartan</title></circle></a><a href="/variants/s7/r19lb5t2w12t2y4g8~x2/"><circle cx="141.2" cy="188.1" r="4" fill="#3465a4"><title>Northern Ontario (District)</title></circle></a><a href="/variants/s7/y7ly12g30db12r14ri11ly2~x2~ly3608101-ri2308029/"><circle cx="121.1" cy="186.5" r="4" fill="#3465a4"><title>Unidentified, Silk Plaid</title></circle></a><a href="/variants/s7/w3dg24r13g4ly11r8db2~x2~dg1806142-g2304202/"><circle cx="169.8" cy="184.7" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/variants/s9/r22lb6db10y4r4w4g22db8y3/"><circle cx="107.3" cy="189.2" r="4" fill="#3465a4"><title>Unnamed No 14 Tartan</title></circle></a><circle cx="112.1" cy="174.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Ikelman #4 (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ikelman"
+  url: "/clan/ikelman/"
+- name: "Ikelman"
+  url: "/families/ikelman/"
+- name: "Ikelman"
+  url: "/tartans/i/ik/ikelman/"
 ---
 This is the **Ikelman #4 (Personal)** sett — one scale-free proportion (`dr10db15g2db2w1db1w1`), colour order pattern
 [BBGBWBW](/stripes/bbgbwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db42dr2y16dr2db6dr2y8lo3~x2/"><circle cx="410.1" cy="164.8" r="4" fill="#3465a4"><title>Prince George's Police Pipe Band</title></circle></a><a href="/variants/s8/y12dbi2y2dbi30db3dbi2db13w4~x2~dbi1604274-db0805267/"><circle cx="321.0" cy="189.5" r="4" fill="#3465a4"><title>Highlands School, (North Carolina)</title></circle></a><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/"><circle cx="332.5" cy="200.9" r="4" fill="#3465a4"><title>Connacht Irish District Tartan</title></circle></a><a href="/variants/s7/db2y1db18g7r7db1g1~x2/"><circle cx="339.6" cy="166.5" r="4" fill="#3465a4"><title>Unnamed C20th - USA</title></circle></a><a href="/variants/s6/r12db3g5db16y2g2~x2/"><circle cx="296.9" cy="204.5" r="4" fill="#3465a4"><title>Dunbog Primary School</title></circle></a><a href="/variants/s6/db3lb14db3n16db34r3~x2/"><circle cx="311.1" cy="206.0" r="4" fill="#3465a4"><title>Thorburn (Lochcarron)</title></circle></a><a href="/variants/s8/db3r3g18db16w2db26r3g3~x2/"><circle cx="339.8" cy="183.9" r="4" fill="#3465a4"><title>MacHardy Clan Tartan</title></circle></a><a href="/variants/s8/b36w4b4w4b16dg64r9b6~x2/"><circle cx="294.2" cy="169.5" r="4" fill="#3465a4"><title>Colvin</title></circle></a><a href="/variants/s6/db3dg21db3o21db35w3~x2/"><circle cx="286.1" cy="216.3" r="4" fill="#3465a4"><title>Donnolly</title></circle></a><a href="/variants/s8/db16w1db1w1db8g16r1db2~x2/"><circle cx="347.6" cy="167.2" r="4" fill="#3465a4"><title>Roxburgh</title></circle></a><circle cx="371.1" cy="187.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -25,12 +25,12 @@ background: /bg/clans.png
 <li><a class="tartan" href="/variants/s12/dg3dt20dg16dr2dg2dr3dg3dr5dg16dt20dy1k2~x2/"><strong>Alasdair Dhana</strong></a></li>
 <li><a class="tartan" href="/families/albannach/"><img src="/variants/s8/k4dp2r7dp60g15db60t5w3/sett.png" alt="Albannach" width="140"><br><strong>Albannach</strong></a></li>
 <li><a class="tartan" href="/families/alberta/"><img src="/variants/s7/g13k1r1k1t2k1ly4~x8/sett.png" alt="Alberta" width="140"><br><strong>Alberta</strong></a></li>
-<li><a class="tartan" href="/families/alexander/"><img src="/variants/s9/db12r2db4r4k15db4g4db2g12~x2/sett.png" alt="Alexander" width="140"><br><strong>Alexander</strong></a></li>
-<li><a class="tartan" href="/families/alexander-of-menstry/"><img src="/variants/s8/o5g2o2g26k9lr9lb13w5~x2~g2203152-lr2800000-lb3203246/sett.png" alt="Alexander of Menstry" width="140"><br><strong>Alexander of Menstry</strong></a></li>
+<li><a class="tartan" href="/families/alexander/"><img src="/variants/s7/db24k8g8dp2g8k1w2~x2/sett.png" alt="Alexander" width="140"><br><strong>Alexander</strong></a></li>
+<li><a class="tartan" href="/families/alexander-of-menstry/"><img src="/variants/s8/g5o2g2o9k9lr9db30w5~x2~lr2800000/sett.png" alt="Alexander of Menstry" width="140"><br><strong>Alexander of Menstry</strong></a></li>
 <li><a class="tartan" href="/families/algarve/"><img src="/variants/s4/dg1r1w1db1~x20/sett.png" alt="Algarve" width="140"><br><strong>Algarve</strong></a></li>
 <li><a class="tartan" href="/variants/s14/db3k3db12k18g14k2g14k8y2k8lb4r4k2w3~x2/"><strong>Alison / Allison</strong></a></li>
 <li><a class="tartan" href="/families/allandale/"><img src="/variants/s12/k3w2k1w40g17r5k3n2r9g1r2g3~x2/sett.png" alt="Allandale" width="140"><br><strong>Allandale</strong></a></li>
-<li><a class="tartan" href="/families/allanton/"><img src="/variants/s6/g4w28db14y2lb17g4~x2/sett.png" alt="Allanton" width="140"><br><strong>Allanton</strong></a></li>
+<li><a class="tartan" href="/families/allanton/"><img src="/variants/s6/w4lb28db7y2g16lb4~x2/sett.png" alt="Allanton" width="140"><br><strong>Allanton</strong></a></li>
 <li><a class="tartan" href="/families/allen/"><img src="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2/sett.png" alt="Allen" width="140"><br><strong>Allen</strong></a></li>
 <li><a class="tartan" href="/families/allison/"><img src="/variants/s11/db64y3g12k3g12w3db15dbi4r21db3y2~db0804274-dbi1605267/sett.png" alt="Allison" width="140"><br><strong>Allison</strong></a></li>
 <li><a class="tartan" href="/clan/alvis/"><img src="/variants/s5/db9w4g36lb36r4/sett.png" alt="Alvis" width="140"><br><strong>Alvis</strong></a><div class="clan-territory">clan</div></li>
@@ -44,7 +44,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/anderson-of-kinneddar/"><img src="/variants/s20/r4lb5r2lb7r4db5r3k5dy2k3dy2k4w4k4g18r1k2r1g4r3~x2/sett.png" alt="Anderson of Kinneddar" width="140"><br><strong>Anderson of Kinneddar</strong></a></li>
 <li><a class="tartan" href="/families/anderson-of-kinnedear/"><img src="/variants/s20/dr4db6dr2db2dr4db6dr3k4lo2k2lo2k4g2k4dr22db1g2db1dr6db3~x2/sett.png" alt="Anderson of Kinnedear" width="140"><br><strong>Anderson of Kinnedear</strong></a></li>
 <li><a class="tartan" href="/families/andover/"><img src="/variants/s5/r1n12k7do10r1~x4/sett.png" alt="Andover" width="140"><br><strong>Andover</strong></a></li>
-<li><a class="tartan" href="/families/angle/"><img src="/variants/s5/k5g8ly5g3ly5~x4/sett.png" alt="Angle" width="140"><br><strong>Angle</strong></a></li>
+<li><a class="tartan" href="/families/angle/"><img src="/variants/s7/ly1dg11k6dg3ly1dg1ly1~x4/sett.png" alt="Angle" width="140"><br><strong>Angle</strong></a></li>
 <li><a class="tartan" href="/families/angotta/"><img src="/variants/s13/dy6db1dy1db1dy1db5dy2db5dy4db2r1db40r1~x2/sett.png" alt="Angotta" width="140"><br><strong>Angotta</strong></a></li>
 <li><a class="tartan" href="/variants/s15/db18dp2k2db2dp2k1db2k8g1y1g6k8db14k2g2~x2~db1504274-dp1502305/"><strong>Angove, the Black Swan</strong></a></li>
 <li><a class="tartan" href="/families/angus/"><img src="/variants/s9/k3dr1k14db14dr1db1dr1db1dr2~x4/sett.png" alt="Angus" width="140"><br><strong>Angus</strong></a></li>
@@ -64,7 +64,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/asher/"><img src="/variants/s8/dg40dy2db3r4db3dy2dg40w3~x2/sett.png" alt="Asher" width="140"><br><strong>Asher</strong></a></li>
 <li><a class="tartan" href="/clan/ashers/"><img src="/variants/s10/y4k3w3k44y4k22n22w3k3y4/sett.png" alt="Ashers" width="140"><br><strong>Ashers</strong></a><div class="clan-territory">clan</div></li>
 <li><a class="tartan" href="/families/ashers-of-nairn/"><img src="/variants/s10/y4k3w3k44y4k22n22w3k3y4/sett.png" alt="Ashers of Nairn" width="140"><br><strong>Ashers of Nairn</strong></a></li>
-<li><a class="tartan" href="/families/asman/"><img src="/variants/s10/db4dy3db22n6w2k6w2r26k3r4~x2/sett.png" alt="Asman" width="140"><br><strong>Asman</strong></a></li>
+<li><a class="tartan" href="/families/asman/"><img src="/variants/s10/db4y3db17b6w2do6w2r24do3r4~x2/sett.png" alt="Asman" width="140"><br><strong>Asman</strong></a></li>
 <li><a class="tartan" href="/families/atikokan/"><img src="/variants/s7/y6t16lb3r3ly3g3w2~x4~t2607245-lb3200000/sett.png" alt="Atikokan" width="140"><br><strong>Atikokan</strong></a></li>
 <li><a class="tartan" href="/families/atlantic/"><img src="/variants/s6/w3dbi17dy16db2dg17y2~x2~dbi1406275-db1204274/sett.png" alt="Atlantic" width="140"><br><strong>Atlantic</strong></a></li>
 <li><a class="tartan" href="/families/atlin/"><img src="/variants/s6/do14db14do14db40do3db2~x2/sett.png" alt="Atlin" width="140"><br><strong>Atlin</strong></a></li>

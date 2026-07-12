@@ -1,6 +1,11 @@
 ---
 title: "Quebec Plaid Du.. Corporate Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Quebec Plaid Du.."
+  url: "/tartans/q/qu/quebec-plaid-du/"
 ---
 This is the **Quebec Plaid Du.. Corporate Tartan** sett — one scale-free proportion (`db25g5db2y2k2r3g20r20db2w2k2r2`), colour order pattern
 [BGBGKRGRBWKR](/stripes/bgbgkrgrbwkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k25dg5k2y2ki2r3dg20r20k2w2ki2r2~x2~k0504259-ki0700000/"><circle cx="137.6" cy="108.1" r="4" fill="#3465a4"><title>Quebec, Plaid du</title></circle></a><a href="/variants/s13/db2g6db27r2k2w2db2r24g23db2r2k2y2~x2/"><circle cx="140.3" cy="99.4" r="4" fill="#3465a4"><title>Olympic Corporate Tartan</title></circle></a><a href="/variants/s13/r24db2w2k2r2db27dg6db2ly2k2r2db2dg23~x2~dg1605139/"><circle cx="149.9" cy="100.4" r="4" fill="#3465a4"><title>Olympic</title></circle></a><a href="/variants/s13/r24db2w2k2r2db27dg6db2ly2k2r2db2dg23~x2/"><circle cx="152.1" cy="100.3" r="4" fill="#3465a4"><title>Montreal Olympics (1976) (Corporate)</title></circle></a><a href="/variants/s11/w4db5r3db22y4k3g17r7k2r7y2~x2/"><circle cx="100.2" cy="134.2" r="4" fill="#3465a4"><title>Crosser, Crozier</title></circle></a><a href="/variants/s11/r6g2r2g21k2w4k2db23y2db2y6~x2/"><circle cx="121.2" cy="122.8" r="4" fill="#3465a4"><title>Glasgow, City of Culture</title></circle></a><a href="/variants/s13/k25dg5k2y2ki2r2k2dg20r20ki2w2ki2r2~x2~k0504259-ki0700000/"><circle cx="135.5" cy="102.5" r="4" fill="#3465a4"><title>Quebec, Plaid du (District)</title></circle></a><a href="/variants/s11/w4db5r3db22dy4k3g17r7k2r7dy2~x2/"><circle cx="100.6" cy="134.0" r="4" fill="#3465a4"><title>Crosser Crozier Family Tartan</title></circle></a><a href="/variants/s11/w4db5r3db22ly4k3g17r7k2r7ly2~x2/"><circle cx="92.9" cy="132.0" r="4" fill="#3465a4"><title>Crozier/Crosser</title></circle></a><a href="/variants/s10/r15g6db36w2k6w2g30r32k6lb4/"><circle cx="119.5" cy="116.3" r="4" fill="#3465a4"><title>Steiff</title></circle></a><circle cx="130.8" cy="109.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

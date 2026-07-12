@@ -1,6 +1,15 @@
 ---
 title: "Reagan Clan Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Reagan"
+  url: "/clan/reagan/"
+- name: "Reagan"
+  url: "/families/reagan/"
+- name: "Reagan"
+  url: "/tartans/r/re/reagan-3/"
 ---
 This is the **Reagan Clan Tartan** sett — one scale-free proportion (`g2db1r29t29db1lo2`), colour order pattern
 [BRBBYBBRBG](/stripes/brbbybbrbg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y2dt1t29r29dt1g2~x2~dt1703227-t2004245/"><circle cx="370.1" cy="149.1" r="4" fill="#3465a4"><title>Reagan</title></circle></a><a href="/variants/s7/r60db2g24r8db2lb3db2/"><circle cx="369.4" cy="107.2" r="4" fill="#3465a4"><title>Unidentified Cant #12</title></circle></a><a href="/variants/s8/y6r21b2dg6b41lb2b2lb6/"><circle cx="329.6" cy="146.2" r="4" fill="#3465a4"><title>Manitoba</title></circle></a><a href="/variants/s8/r22db3y1g12r6db3lb3w1~x2/"><circle cx="298.5" cy="123.2" r="4" fill="#3465a4"><title>Drummond, (Fingask)</title></circle></a><a href="/variants/s5/r24t3w1g9r12~x8/"><circle cx="375.4" cy="163.7" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s8/r6t22r6g20y2r45t2w5~x2/"><circle cx="320.7" cy="146.3" r="4" fill="#3465a4"><title>Elbrick Dress (Personal)</title></circle></a><a href="/variants/s14/r4lb2r50db26r10g44b4r10b4g44r51db2r4lb2~x2/"><circle cx="298.2" cy="115.9" r="4" fill="#3465a4"><title>MacQuarrie 1</title></circle></a><a href="/variants/s11/db3lb1r30db32r3w1r3g23r31db3w1/"><circle cx="300.6" cy="105.3" r="4" fill="#3465a4"><title>MacDonald of Glenaladale Artifact Tartan</title></circle></a><a href="/variants/s9/dg18g2db5r45dbi3db18dbi3r5w2~dg1806142-g2408144-db1204274-dbi1406275/"><circle cx="278.8" cy="113.0" r="4" fill="#3465a4"><title>MacNiven Family Tartan</title></circle></a><a href="/variants/s8/r26n4r1dp2g1n4g14lb2~x2/"><circle cx="342.8" cy="136.3" r="4" fill="#3465a4"><title>Redpath, Robert A (Personal)</title></circle></a><circle cx="348.0" cy="132.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

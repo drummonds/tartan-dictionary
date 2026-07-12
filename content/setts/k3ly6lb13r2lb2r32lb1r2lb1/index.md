@@ -1,6 +1,15 @@
 ---
 title: "Fueglistal"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Fueglistal"
+  url: "/clan/fueglistal/"
+- name: "Fueglistal"
+  url: "/families/fueglistal/"
+- name: "Fueglistal"
+  url: "/tartans/f/fu/fueglistal-2/"
 ---
 This is the **Fueglistal** sett — one scale-free proportion (`k3ly6lb13r2lb2r32lb1r2lb1`), colour order pattern
 [KYWRWRWRW](/stripes/kywrwrwrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r24lb2lo7lb3k8lb1r4lb1~x2/"><circle cx="267.3" cy="75.7" r="4" fill="#3465a4"><title>VeMMA Corporate Tartan</title></circle></a><a href="/variants/s9/r67y3n6lb3w25r10n6lb7w3~x2/"><circle cx="352.7" cy="109.1" r="4" fill="#3465a4"><title>Drummond of Perth Dress #3</title></circle></a><a href="/variants/s9/r67y3b6dg3w25r10b6dg7w3~x2/"><circle cx="337.1" cy="104.3" r="4" fill="#3465a4"><title>Drummond of Perth, dress</title></circle></a><a href="/variants/s10/g2r2db1r24w1db6r3g12r4db1/"><circle cx="369.1" cy="125.5" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/variants/s9/r40y1k2n1w15r5k5n5w1~x2/"><circle cx="324.4" cy="57.9" r="4" fill="#3465a4"><title>Drummond of Perth Dress Clan Tartan</title></circle></a><a href="/variants/s13/r4w1db1r32w2r2db12r2g16r4w1r4db2/"><circle cx="355.0" cy="95.0" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/variants/s10/g2r2db1r24lb1db6r3g12r4db1~x2/"><circle cx="373.2" cy="126.8" r="4" fill="#3465a4"><title>MacDonell of Keppoch Clan Tartan</title></circle></a><a href="/variants/s10/g2r2db1r24lb1db6r3g12r4db1/"><circle cx="373.2" cy="126.8" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/variants/s8/r36w1db3y1g16r8db3w5/"><circle cx="366.2" cy="104.1" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/variants/s8/r56w2db6w2g32r11db6w5/"><circle cx="348.5" cy="130.8" r="4" fill="#3465a4"><title>Spens Family Tartan</title></circle></a><circle cx="364.9" cy="98.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

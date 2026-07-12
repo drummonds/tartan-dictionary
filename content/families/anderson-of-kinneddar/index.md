@@ -1,6 +1,11 @@
 ---
 title: "Anderson of Kinneddar"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Anderson"
+  url: "/clan/anderson/"
 ---
 A family of [Clan Anderson](/clan/anderson/).
 

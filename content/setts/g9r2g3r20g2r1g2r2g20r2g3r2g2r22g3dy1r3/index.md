@@ -1,6 +1,13 @@
 ---
 title: "Hebrides, Outer"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hebrides"
+  url: "/clan/hebrides/"
+- name: "Hebrides, Outer"
+  url: "/tartans/h/he/hebrides-outer/"
 ---
 This is the **Hebrides, Outer** sett — one scale-free proportion (`g9r2g3r20g2r1g2r2g20r2g3r2g2r22g3dy1r3`), colour order pattern
 [GRGRGRGRGRGRGRGGRGGRGRGRGRGRGRGR](/stripes/grgrgrgrgrgrgrggrggrgrgrgrgrgrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/g9r2g3r20g2r1g2r2g20r2g3r2g2r22g3y1r3~x2/"><circle cx="403.2" cy="135.9" r="4" fill="#3465a4"><title>Hebrides Outer</title></circle></a><a href="/variants/s14/r2g1lo1g12r1g1r1g4r17g3r2g1r2lr2~x4/"><circle cx="342.7" cy="111.6" r="4" fill="#3465a4"><title>Hayes</title></circle></a><a href="/variants/s22/r13g2r13dy2r4dy2r4dy2r42dy2r4dy2r4dy2r13g2r13g8r2g36r2g2~x2/"><circle cx="440.2" cy="114.9" r="4" fill="#3465a4"><title>Unidentified Cant #05</title></circle></a><a href="/variants/s31/r1g17r2db2r17g2r2g2r17db2r2g17r2db17r2g2r17g2r2g2r17g2r2g17r2g17r2db2r17g2r1~x4/"><circle cx="306.4" cy="125.8" r="4" fill="#3465a4"><title>Robertson</title></circle></a><a href="/variants/s23/r32g8r4g8r8db8r12lb1r1g18r1lb1r32lb1r1g18r1lb1r12g6r1lb1r4~x2/"><circle cx="387.5" cy="90.6" r="4" fill="#3465a4"><title>MacAlister (Cockburn Collection 1810-20)</title></circle></a><a href="/variants/s23/r32g8r4g8r8db8r12w1r1g18r1w1r32w1r1g18r1w1r12g6r1w1r4~x2/"><circle cx="380.3" cy="88.3" r="4" fill="#3465a4"><title>MacAlister CC</title></circle></a><a href="/variants/s31/r16g1r1g1r1g1r1g1r6g1db1g6db1r1g1r4g1r1db4r4w1r4g4w1g4r1g1r6g1r8w1~x2/"><circle cx="356.0" cy="103.0" r="4" fill="#3465a4"><title>MacDonald of Staffa #3</title></circle></a><a href="/variants/s20/r26g3r3g3r3g3r26db1ly1r3db6r3ly1db1r3g26r3db1ly1r13~x4/"><circle cx="405.8" cy="92.0" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/variants/s17/w8r83g7r5g7r7g28r7g28r7g7r5g7r83w4r4w8/"><circle cx="435.0" cy="116.3" r="4" fill="#3465a4"><title>Rothesay (Red)</title></circle></a><a href="/variants/s14/g15r1g1r1g1r18g24r1g1r18g1r1g1r3~x2/"><circle cx="417.0" cy="150.5" r="4" fill="#3465a4"><title>Robertson - 1746 (Artefact)</title></circle></a><circle cx="395.5" cy="107.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

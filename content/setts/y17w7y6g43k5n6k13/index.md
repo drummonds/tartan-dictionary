@@ -1,6 +1,15 @@
 ---
 title: "Keeling Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Keeling"
+  url: "/clan/keeling/"
+- name: "Keeling"
+  url: "/families/keeling/"
+- name: "Keeling Dress"
+  url: "/tartans/k/ke/keeling-dress/"
 ---
 This is the **Keeling Dress** sett — one scale-free proportion (`y17w7y6g43k5n6k13`), colour order pattern
 [GWGGKBK](/stripes/gwggkbk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/ly30w4ly20g20k20lo3k6~x2~ly2503076/"><circle cx="168.1" cy="190.7" r="4" fill="#3465a4"><title>St Andrews Bay</title></circle></a><a href="/variants/s7/ly30w4ly20g20k20lo3k6~x2/"><circle cx="155.3" cy="188.5" r="4" fill="#3465a4"><title>St. Andrews Bay Hotel (Corporate)</title></circle></a><a href="/variants/s7/y5k5g17k6n24k6y3~x2/"><circle cx="150.4" cy="210.1" r="4" fill="#3465a4"><title>Cape Breton District Tartan</title></circle></a><a href="/variants/s7/y3k22g4dg18g31r3g3/"><circle cx="182.1" cy="175.5" r="4" fill="#3465a4"><title>MacSween Hunting (Lochs, Isle of Lewis) (Personal)</title></circle></a><a href="/variants/s10/k3y2dg18w3dg13k3y4k3g18w3~x2~dg1806142-g2408144/"><circle cx="159.4" cy="171.6" r="4" fill="#3465a4"><title>Forrester/Foster Hunting</title></circle></a><a href="/variants/s7/g12k1r1k1lb2k1y4~x2/"><circle cx="248.7" cy="148.0" r="4" fill="#3465a4"><title>Alberta District Tartan</title></circle></a><a href="/variants/s7/g12k1r1k1t2k1ly4~x8~r2806019-ly3106095/"><circle cx="241.0" cy="147.1" r="4" fill="#3465a4"><title>Alberta (District)</title></circle></a><a href="/variants/s7/g18k2b2k2lb3k2y6~x4/"><circle cx="213.2" cy="166.4" r="4" fill="#3465a4"><title>Alberta</title></circle></a><a href="/variants/s10/k3y2dg18w3dg18k3y4k3g18w3~x2~dg1806142-g2408144/"><circle cx="183.2" cy="170.2" r="4" fill="#3465a4"><title>Forrester Hunting Clan Tartan</title></circle></a><a href="/variants/s6/w8k16g32db3ly5w5~x2/"><circle cx="158.4" cy="174.2" r="4" fill="#3465a4"><title>Mellor (Name)</title></circle></a><circle cx="162.2" cy="180.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

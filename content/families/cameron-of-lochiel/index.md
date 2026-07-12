@@ -1,6 +1,11 @@
 ---
 title: "Cameron of Lochiel"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cameron"
+  url: "/clan/cameron/"
 ---
 A family of [Clan Cameron](/clan/cameron/).
 

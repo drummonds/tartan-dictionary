@@ -1,6 +1,11 @@
 ---
 title: "Matthew Gloag & Son Ltd (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Matthew Gloag & Son Ltd"
+  url: "/tartans/m/ma/matthew-gloag-son-ltd/"
 ---
 This is the **Matthew Gloag & Son Ltd (Corporate)** sett — one scale-free proportion (`g3dr20k2db3k12db3k2g20dr3db2`), colour order pattern
 [BBGKBKBKBG](/stripes/bbgkbkbkbg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g3r20k2db3k13db3k2g20r3db2~x2/"><circle cx="134.9" cy="156.4" r="4" fill="#3465a4"><title>Matthew Gloag</title></circle></a><a href="/variants/s8/r7g3r2g33k31db31k3db3/"><circle cx="159.1" cy="157.7" r="4" fill="#3465a4"><title>Baird (Old) Clan Tartan</title></circle></a><a href="/variants/s9/r3db6k1db1k1db1k6g9k2~x2/"><circle cx="127.4" cy="182.4" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/variants/s12/db12r2db2r5db26r2k29g27r5g2r2g12~x2/"><circle cx="143.3" cy="143.7" r="4" fill="#3465a4"><title>MacDonald #5</title></circle></a><a href="/variants/s7/r4k4dt24k24g24k2r3~x2/"><circle cx="156.6" cy="182.6" r="4" fill="#3465a4"><title>Black Watch (Coarse Kilt)</title></circle></a><a href="/variants/s14/dp20k2w2k2dp2k10g3k2g20k2g3k10dp8k2~x2/"><circle cx="150.1" cy="147.6" r="4" fill="#3465a4"><title>Caithelyn (Personal)</title></circle></a><a href="/variants/s9/r2g10k12n1k2n14k1n1g2~x2/"><circle cx="150.0" cy="142.6" r="4" fill="#3465a4"><title>MacWilliams Wedding Personal Tartan</title></circle></a><a href="/variants/s11/k10dr1k3do7n1do1n1do1n1do1n7~x4/"><circle cx="209.0" cy="167.0" r="4" fill="#3465a4"><title>Lunar</title></circle></a><a href="/variants/s12/db8r1db2r3db12r1k12g12r3g2r1g8~x2/"><circle cx="135.7" cy="164.5" r="4" fill="#3465a4"><title>MacDonald Clan Tartan</title></circle></a><a href="/variants/s12/db8r1db2r3db12r1k12g12r3g2r1g8/"><circle cx="135.7" cy="164.5" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><circle cx="158.9" cy="168.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

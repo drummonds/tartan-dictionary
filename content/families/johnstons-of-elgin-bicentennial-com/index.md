@@ -1,6 +1,11 @@
 ---
 title: "Johnstons of Elgin Bicentennial (Com"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Johnstons"
+  url: "/clan/johnstons/"
 ---
 A family of [Clan Johnstons](/clan/johnstons/).
 

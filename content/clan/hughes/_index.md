@@ -1,8 +1,11 @@
 ---
 title: "Clan Hughes"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
-*A clan defined by its tartans — the dictionary holds no separate clan history for it, only the cloth that carries its name.*
+Welsh surname tartan woven at Cambrian Woollen Mill; asymmetric warp/weft creates a vertical stripe.
 
 ## Tartan
 

@@ -1,6 +1,11 @@
 ---
 title: "Unidentified (ex Tony Murray)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified"
+  url: "/tartans/u/un/unidentified-3/"
 ---
 This is the **Unidentified (ex Tony Murray)** sett — one scale-free proportion (`r2w10k15ly36w2k2w2`), colour order pattern
 [RWKYWKW](/stripes/rwkywkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r2w8k14o25w2k2w2~x2/"><circle cx="198.3" cy="151.6" r="4" fill="#3465a4"><title>Merric, Dark Camel..</title></circle></a><a href="/variants/s7/w4k2w25dr21w3dr8y3~x2/"><circle cx="246.1" cy="168.9" r="4" fill="#3465a4"><title>MacPherson Dress Burgundy (Dance)</title></circle></a><a href="/variants/s7/dy1k4w2k11w17r2w1~x4/"><circle cx="256.0" cy="141.2" r="4" fill="#3465a4"><title>MacPherson - 1842 (VS) Dress</title></circle></a><a href="/variants/s6/r4ly30k6w13k13w3~x2/"><circle cx="168.6" cy="193.8" r="4" fill="#3465a4"><title>Thomson, Camel (Fashion)</title></circle></a><a href="/variants/s6/w12k3g50w3k13ly6~x2/"><circle cx="270.7" cy="154.1" r="4" fill="#3465a4"><title>Limerick County Crest (Fashion)</title></circle></a><a href="/variants/s6/w12k3g50w3k13dy6~x2/"><circle cx="271.6" cy="153.9" r="4" fill="#3465a4"><title>Limerick County, Crest Range</title></circle></a><a href="/variants/s10/ly15n1ly2lo2ly2n1ly3k8n10ly3~x4/"><circle cx="239.3" cy="148.0" r="4" fill="#3465a4"><title>Annan Trade Tartan</title></circle></a><a href="/variants/s6/r2ly20k5w10k10w2~x2/"><circle cx="156.8" cy="197.5" r="4" fill="#3465a4"><title>Thompson Camel Clan Tartan</title></circle></a><a href="/variants/s9/k10w10k10ly32k2w2k2w2dr5~x2/"><circle cx="186.2" cy="137.0" r="4" fill="#3465a4"><title>Burberry (Counterfeit #4)</title></circle></a><a href="/variants/s9/r4ly24k13ly2k4ly3k1ly3lb2~x2/"><circle cx="287.6" cy="115.7" r="4" fill="#3465a4"><title>Cardiff City Football Club (Corp)</title></circle></a><circle cx="252.4" cy="138.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

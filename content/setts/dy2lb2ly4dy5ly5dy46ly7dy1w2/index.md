@@ -1,6 +1,11 @@
 ---
 title: "KIltwalk, The (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "KIltwalk, The"
+  url: "/tartans/k/ki/kiltwalk-the/"
 ---
 This is the **KIltwalk, The (Corporate)** sett — one scale-free proportion (`dy2lb2ly4dy5ly5dy46ly7dy1w2`), colour order pattern
 [GWYGYGYGW](/stripes/gwygygygw/). It is recorded as a single **variant**, below.

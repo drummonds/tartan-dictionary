@@ -1,6 +1,15 @@
 ---
 title: "Fitzsimmons Red (Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Fitzsimmons"
+  url: "/clan/fitzsimmons/"
+- name: "Fitzsimmons"
+  url: "/families/fitzsimmons/"
+- name: "Fitzsimmons"
+  url: "/tartans/f/fi/fitzsimmons-2/"
 ---
 This is the **Fitzsimmons Red (Name)** sett — one scale-free proportion (`dy3g2ly18k4dr15k4dy6k4ly2g3`), colour order pattern
 [GGYKBKGKYG](/stripes/ggykbkgkyg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lr3ly2k4lo6k4ly15k4dg18k2ly3~x2/"><circle cx="87.9" cy="157.6" r="4" fill="#3465a4"><title>Fitzsimmons</title></circle></a><a href="/variants/s10/r4g7y3g12k16lb5r20lb5k4lb2~x2/"><circle cx="81.1" cy="165.0" r="4" fill="#3465a4"><title>Unidentified Canadian Tartan</title></circle></a><a href="/variants/s14/k3r7k4o7ri3o7k4g3k3g19k2g2k2ri3~x2~r1506028-ri2008029/"><circle cx="101.8" cy="146.3" r="4" fill="#3465a4"><title>Anderson 10</title></circle></a><a href="/variants/s10/y22k11lo10k2g2k2lo10k11y7r2~x2/"><circle cx="121.2" cy="156.8" r="4" fill="#3465a4"><title>Project, Faith Inc (Corporate)</title></circle></a><a href="/variants/s10/k3r9k5do9o3do9k5g24k2o3~x2/"><circle cx="115.7" cy="154.5" r="4" fill="#3465a4"><title>Cavan</title></circle></a><a href="/variants/s11/dr8k3o3dt28k20o28w3o3w3o3w6/"><circle cx="106.3" cy="141.9" r="4" fill="#3465a4"><title>Logan #6</title></circle></a><a href="/variants/s9/r4w1r4g10y1k10w4k2w4/"><circle cx="65.5" cy="170.3" r="4" fill="#3465a4"><title>Cumming LO</title></circle></a><a href="/variants/s8/g28db3g3k10r2k10r20y4~x2/"><circle cx="147.0" cy="148.4" r="4" fill="#3465a4"><title>Garvock (2015)</title></circle></a><a href="/variants/s8/k20ly4r4ly20g20w5g2dg2~x2~g1903114-dg1806142/"><circle cx="72.7" cy="153.2" r="4" fill="#3465a4"><title>Hackett Hunting (Personal)</title></circle></a><a href="/variants/s7/r24w2y3g16k16w2y3~x2/"><circle cx="130.3" cy="157.3" r="4" fill="#3465a4"><title>MacLachlan Old Clan Tartan</title></circle></a><circle cx="87.9" cy="157.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Lamont"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Lamont"
+  url: "/clan/lamont/"
+- name: "Lamont"
+  url: "/families/lamont/"
+- name: "Lamont"
+  url: "/tartans/l/la/lamont-3/"
 ---
 This is the **Lamont** sett — one scale-free proportion (`db9k3db3k3db3k12g12w3g12k12db12k3db3k3db12k12g12w3g12k12db3k3db3k3db5`), colour order pattern
 [BKBKBKGWGKBKBKBKGWGKBKBKB](/stripes/bkbkbkgwgkbkbkbkgwgkbkbkb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s24/k2g8k7db8dp2db8k7g2k2g2k2g10k2g2k2g2k7db8dp2db8k7g8k2g2~x2/"><circle cx="94.8" cy="190.1" r="4" fill="#3465a4"><title>Lochinvar Marine Harvest (Corporate)</title></circle></a><a href="/variants/s24/k1t8k8g8w2g8k8t1k1t1k1t8k1t1k1t1k8g8y2g8k8t8k1t1~x2~w4000000/"><circle cx="94.6" cy="142.1" r="4" fill="#3465a4"><title>Campbell of Argyll (no guards)</title></circle></a><a href="/variants/s17/db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1~x2/"><circle cx="109.4" cy="200.7" r="4" fill="#3465a4"><title>Arbuthnott</title></circle></a><a href="/variants/s17/db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1/"><circle cx="109.4" cy="200.7" r="4" fill="#3465a4"><title>Arbuthnott</title></circle></a><a href="/variants/s29/db14k3db3k3db3k14g14k3w3k3g14k14db14k3r3k3db14k14g14k3w3k3g14k14db3k3db3k3db7~x4/"><circle cx="83.2" cy="155.5" r="4" fill="#3465a4"><title>MacKenzie</title></circle></a><a href="/variants/s25/db2k1db6k6g6r2g6k6db1k1db1k1db6k1db1k1db1k6g6r2g6k6db6k1db1~x8/"><circle cx="104.1" cy="170.9" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/variants/s15/db11k3db3k3db3k11r3g13k3g13r3k11db11k3db3~x2/"><circle cx="94.2" cy="206.7" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/variants/s21/g2r2g12k4db11r2db11k4db2k9db2k9db2k4db11y2db11k4g12r2g2~x2/"><circle cx="116.4" cy="165.6" r="4" fill="#3465a4"><title>Allen, Christopher Holler</title></circle></a><a href="/variants/s13/db3k1db1k1db1k4g4w1g4k4db4k1db1/"><circle cx="101.0" cy="222.2" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s13/db3k1db1k1db1k4g4w1g4k4db4k1db1~x2/"><circle cx="101.0" cy="222.2" r="4" fill="#3465a4"><title>Lamont Clan Tartan</title></circle></a><circle cx="88.3" cy="195.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

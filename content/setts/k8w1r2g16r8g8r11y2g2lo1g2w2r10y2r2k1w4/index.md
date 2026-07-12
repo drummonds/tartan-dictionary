@@ -1,6 +1,11 @@
 ---
 title: "Pernel (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Pernel"
+  url: "/tartans/p/pe/pernel/"
 ---
 This is the **Pernel (Personal)** sett — one scale-free proportion (`k8w1r2g16r8g8r11y2g2lo1g2w2r10y2r2k1w4`), colour order pattern
 [KWRGRGRGGYGWRGRKW](/stripes/kwrgrgrggygwrgrkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/k2g12r2k2r2k2r16y2r3db6r3k1g8k1r3w2~x2/"><circle cx="152.0" cy="92.4" r="4" fill="#3465a4"><title>Innes (D C Stewart)</title></circle></a><a href="/variants/s14/r25w4k4g25y3k15lb13r5lb5r15g4r5k2g3~x2/"><circle cx="105.2" cy="117.2" r="4" fill="#3465a4"><title>Wilson's, No 226</title></circle></a><a href="/variants/s11/lb4r3ly2r9lb3g24lb3r9k3r3w2~x2/"><circle cx="150.0" cy="102.2" r="4" fill="#3465a4"><title>Wilson's No.128</title></circle></a><a href="/variants/s16/y2r15y2dr2y2k14y2g10w1g6w1g10y2r7g10w1~x2/"><circle cx="129.0" cy="112.5" r="4" fill="#3465a4"><title>Dalrymple of Castleton #2</title></circle></a><a href="/variants/s17/r30w2lb4k4y2k2w6k2lb11k15y3g20r14w4r4k2r8~x2/"><circle cx="116.7" cy="88.1" r="4" fill="#3465a4"><title>Wilson's No.156</title></circle></a><a href="/variants/s16/r4k1y3k1r20k4g9r3g9k4lb3k1g7k2r6y2~x2/"><circle cx="169.4" cy="102.6" r="4" fill="#3465a4"><title>Brown-Wells (Personal)</title></circle></a><a href="/variants/s12/r8lb7k8y2k1w2k1g19k1r8lb3r8~x2/"><circle cx="110.0" cy="108.2" r="4" fill="#3465a4"><title>Unnamed No 1 Tartan</title></circle></a><a href="/variants/s12/r14lb4k6y1k2w2k2g12r6k2r2w1~x2/"><circle cx="120.4" cy="109.5" r="4" fill="#3465a4"><title>Stewart Prince Charles Edward Clan Tartan</title></circle></a><a href="/variants/s12/r19lb13k16y3k3w5k3g32k2r15lb5r15~x2/"><circle cx="103.6" cy="119.4" r="4" fill="#3465a4"><title>Wilson's, No 90</title></circle></a><a href="/variants/s15/r25lb9k2lb9k19y3k3w5k3y3g22r16g3r3g3~x2/"><circle cx="80.3" cy="111.7" r="4" fill="#3465a4"><title>Wilson's No 181, (Stewart)</title></circle></a><circle cx="133.7" cy="99.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

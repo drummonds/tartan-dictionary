@@ -12,7 +12,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/gairloch/"><img src="/variants/s5/y25k9y12w2db2~x2/sett.png" alt="Gairloch" width="140"><br><strong>Gairloch</strong></a></li>
 <li><a class="tartan" href="/variants/s20/g7w1t7w2t6w3t5w4t4w5t3w6t2w7t1w8r31dr31k10g4~x2/"><strong>Gallacher</strong></a></li>
 <li><a class="tartan" href="/families/gallaecia/"><img src="/variants/s5/db24lb13db4lb4w2~x2/sett.png" alt="Gallaecia" width="140"><br><strong>Gallaecia</strong></a></li>
-<li><a class="tartan" href="/families/galloway/"><img src="/variants/s6/dg2r1db16r16db1y2~x2/sett.png" alt="Galloway" width="140"><br><strong>Galloway</strong></a></li>
+<li><a class="tartan" href="/families/galloway/"><img src="/variants/s6/g3r2db22r22db2w3~x2/sett.png" alt="Galloway" width="140"><br><strong>Galloway</strong></a></li>
 <li><a class="tartan" href="/variants/s7/db36dy5dr12r9dp5w12dy7~x2/"><strong>Galvez-Brown</strong></a></li>
 <li><a class="tartan" href="/variants/s5/dg5r3g30db30w3~x2/"><strong>Gamba</strong></a></li>
 <li><a class="tartan" href="/families/gammell/"><img src="/variants/s8/db20dy2db2dy2db2dy6g15dy2~x2/sett.png" alt="Gammell" width="140"><br><strong>Gammell</strong></a></li>
@@ -24,8 +24,8 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/gary/"><img src="/variants/s11/dp2r1k4lo2k12lo8k12lo2k4lo1w2~x4/sett.png" alt="Gary" width="140"><br><strong>Gary</strong></a></li>
 <li><a class="tartan" href="/families/gates/"><img src="/variants/s9/db24r3db4r6g8r3g8r30k3~x2/sett.png" alt="Gates" width="140"><br><strong>Gates</strong></a></li>
 <li><a class="tartan" href="/families/gavin/"><img src="/variants/s6/dri26w2dri3dt41dr2dt3~x2~dri1305012-dr1004029/sett.png" alt="Gavin" width="140"><br><strong>Gavin</strong></a></li>
-<li><a class="tartan" href="/families/gayre/"><img src="/variants/s13/db20g4k4n20db4n20k3r6g4n4g4r4k4~x2/sett.png" alt="Gayre" width="140"><br><strong>Gayre</strong></a></li>
-<li><a class="tartan" href="/families/gemmell/"><img src="/variants/s11/dg12r2db5w1k10t15r10k5dg4db40w4~x2~db1409278-t2405255/sett.png" alt="Gemmell" width="140"><br><strong>Gemmell</strong></a></li>
+<li><a class="tartan" href="/families/gayre/"><img src="/variants/s15/lbi20g4k4lb4g16lbi4g16lb4k4r6g4lb4g3r6k4~x2~lbi3203246-lb3200000/sett.png" alt="Gayre" width="140"><br><strong>Gayre</strong></a></li>
+<li><a class="tartan" href="/families/gemmell/"><img src="/variants/s14/lb8k1lb1k1lb1k5g6k1g6k6db3w1r1w1~x4/sett.png" alt="Gemmell" width="140"><br><strong>Gemmell</strong></a></li>
 <li><a class="tartan" href="/clan/genet/"><img src="/variants/s21/w6k20db2k2db29k2db2k3dr2k2dr4k2dr2k3g2k2g29k2g2k20w6~x2/sett.png" alt="Genet" width="140"><br><strong>Genet</strong></a><div class="clan-territory">clan</div></li>
 <li><a class="tartan" href="/families/genet-of-an-gwylvos/"><img src="/variants/s21/w6k20db2k2db29k2db2k3dr2k2dr4k2dr2k3g2k2g29k2g2k20w6~x2/sett.png" alt="Genet of An Gwylvos" width="140"><br><strong>Genet of An Gwylvos</strong></a></li>
 <li><a class="tartan" href="/families/george/"><img src="/variants/s9/r6db2r1db16r3db16g28w2g4~x2/sett.png" alt="George" width="140"><br><strong>George</strong></a></li>
@@ -44,7 +44,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/gleneil/"><img src="/variants/s8/k2r2k1r18g24k1g2lo2~x2/sett.png" alt="Gleneil" width="140"><br><strong>Gleneil</strong></a></li>
 <li><a class="tartan" href="/families/glenfalloch/"><img src="/variants/s12/db4r1db12w1r4w1dg4w1dr4dg12db1w2~x2/sett.png" alt="Glenfalloch" width="140"><br><strong>Glenfalloch</strong></a></li>
 <li><a class="tartan" href="/families/glenfinnan/"><img src="/variants/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/sett.png" alt="Glenfinnan" width="140"><br><strong>Glenfinnan</strong></a></li>
-<li><a class="tartan" href="/families/glenlivet/"><img src="/variants/s14/w16dy5db2dy42o2dy6o2dy42db2dy5w16dy5db2dy5~x2/sett.png" alt="Glenlivet" width="140"><br><strong>Glenlivet</strong></a></li>
+<li><a class="tartan" href="/families/glenlivet/"><img src="/variants/s8/g18r6g75db6g13o35g12db6/sett.png" alt="Glenlivet" width="140"><br><strong>Glenlivet</strong></a></li>
 <li><a class="tartan" href="/families/glenmorangie/"><img src="/variants/s11/dy6dr2dy2dr4dy13do12ly13dr4ly2dr2ly6~x2/sett.png" alt="Glenmorangie" width="140"><br><strong>Glenmorangie</strong></a></li>
 <li><a class="tartan" href="/families/glenmore/"><img src="/variants/s11/w38k10do2k3w2k3g8o3k2o3w2~x2/sett.png" alt="Glenmore" width="140"><br><strong>Glenmore</strong></a></li>
 <li><a class="tartan" href="/families/glenorchy/"><img src="/variants/s15/g3r2w1db18r2g8r4lb1db8r2g18r2w1db3lb1~x2~r2209032-w3502055/sett.png" alt="Glenorchy" width="140"><br><strong>Glenorchy</strong></a></li>
@@ -62,7 +62,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/gordon-of-esslemont/"><img src="/variants/s7/y6g3y3g22k23dp23k4~x2/sett.png" alt="Gordon of Esslemont" width="140"><br><strong>Gordon of Esslemont</strong></a></li>
 <li><a class="tartan" href="/families/gordonstoun/"><img src="/variants/s21/dr4dg4dr1k7dr1k1y1dr1k7dr1dg4dr4y1dp4dr1dg7ly1dg7dr1dp4y1~x4/sett.png" alt="Gordonstoun" width="140"><br><strong>Gordonstoun</strong></a></li>
 <li><a class="tartan" href="/families/gorman/"><img src="/variants/s8/w4lb1y2lb22db20w2db4w2~x2/sett.png" alt="Gorman" width="140"><br><strong>Gorman</strong></a></li>
-<li><a class="tartan" href="/families/gow/"><img src="/variants/s11/r3k1g12k12dbi12db3dbi12k12g12k1y3~x2~dbi1406275-db1204274/sett.png" alt="Gow" width="140"><br><strong>Gow</strong></a></li>
+<li><a class="tartan" href="/families/gow/"><img src="/variants/s5/r4db4r1g4r4/sett.png" alt="Gow" width="140"><br><strong>Gow</strong></a></li>
 <li><a class="tartan" href="/families/gracey/"><img src="/variants/s7/o3dp8g20k20db17k3lb3~x2/sett.png" alt="Gracey" width="140"><br><strong>Gracey</strong></a></li>
 <li><a class="tartan" href="/families/gracie/"><img src="/variants/s5/g47dr3g6db35lo3~x2/sett.png" alt="Gracie" width="140"><br><strong>Gracie</strong></a></li>
 <li><a class="tartan" href="/variants/s7/db3g13lb1r3lb1db10y1~x2/"><strong>Graeme Heckenberg Hunting</strong></a></li>
@@ -80,7 +80,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/grant-of-monymusk/"><img src="/variants/s13/r12g16r3g16r3g16r4db16r5k9r12g3r12~x2/sett.png" alt="Grant of Monymusk" width="140"><br><strong>Grant of Monymusk</strong></a></li>
 <li><a class="tartan" href="/families/grant-of-rothiemurchus/"><img src="/variants/s13/r1g1r32dp32r8g1r1g1r8g32r32g1r1~x2/sett.png" alt="Grant of Rothiemurchus" width="140"><br><strong>Grant of Rothiemurchus</strong></a></li>
 <li><a class="tartan" href="/families/grassi/"><img src="/variants/s14/k70n2k3n12k1o3k1n12k3n2k60o2n2dp3~x2~n1700000-o2500000/sett.png" alt="Grassi" width="140"><br><strong>Grassi</strong></a></li>
-<li><a class="tartan" href="/families/gray/"><img src="/variants/s11/k3w1g29n8m2n2m2n2m8g7k2~x2/sett.png" alt="Gray" width="140"><br><strong>Gray</strong></a></li>
+<li><a class="tartan" href="/families/gray/"><img src="/variants/s18/n33g10r3g3r3g3r8n10r3n10r8g3r3g3r3g10n33r3~x2/sett.png" alt="Gray" width="140"><br><strong>Gray</strong></a></li>
 <li><a class="tartan" href="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/"><strong>Green Rover, The</strong></a></li>
 <li><a class="tartan" href="/families/greenshields/"><img src="/variants/s10/db40lb3db3lb3db3lb4dg8g8n8w2~x2/sett.png" alt="Greenshields" width="140"><br><strong>Greenshields</strong></a></li>
 <li><a class="tartan" href="/variants/s6/dy8g50db4lb2w5y2~x2/"><strong>Greenup</strong></a></li>

@@ -1,6 +1,11 @@
 ---
 title: "Dugan (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Dugan"
+  url: "/tartans/d/du/dugan/"
 ---
 This is the **Dugan (Personal)** sett — one scale-free proportion (`k10n4k34db3g3db3g3db26o2lb3`), colour order pattern
 [KBKBGBGBRW](/stripes/kbkbgbgbrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lb3k1y2k1db10k17db2lb1dy1r1~x2/"><circle cx="208.7" cy="90.2" r="4" fill="#3465a4"><title>Six Frigates (US)</title></circle></a><a href="/variants/s9/k4ly2k34db10lb4db4dp4db23w3~x2/"><circle cx="196.4" cy="97.6" r="4" fill="#3465a4"><title>Heirloom Dark Alba</title></circle></a><a href="/variants/s11/dr1db15k2ly1k1t1k5dr4k1dr2w1~x4/"><circle cx="199.9" cy="101.9" r="4" fill="#3465a4"><title>Glen Stewart</title></circle></a><a href="/variants/s9/db18w2db2r3db21k28dy1k1g2~x2/"><circle cx="274.8" cy="91.0" r="4" fill="#3465a4"><title>St Andrew's College</title></circle></a><a href="/variants/s15/k23db1g1r3db2r1db12y1k1w1k6db4g2k2g3~x2/"><circle cx="228.0" cy="61.4" r="4" fill="#3465a4"><title>Astrobiology</title></circle></a><a href="/variants/s11/dy9k8dy30k4lb8k4db24k54dr14k4lr8~lb3103284-lr2800000/"><circle cx="169.9" cy="124.3" r="4" fill="#3465a4"><title>Dublin County, Crest Range</title></circle></a><a href="/variants/s11/db12r4db64k64g7w7lo7k64db64r4db12/"><circle cx="229.7" cy="117.0" r="4" fill="#3465a4"><title>Sandhu (Name)</title></circle></a><a href="/variants/s10/db9k30db9lb3db5r3db5y3db5g3~x2/"><circle cx="187.4" cy="134.8" r="4" fill="#3465a4"><title>Fed. of Circles &amp; Solitaries (Corp.)</title></circle></a><a href="/variants/s7/dp5lb2k30n26y2n2db4~x2/"><circle cx="197.9" cy="126.6" r="4" fill="#3465a4"><title>Milne-Murtagh (2009)</title></circle></a><a href="/variants/s11/k12g3y2k2g3k18dy4k2dp18g2db2~x2/"><circle cx="198.0" cy="134.7" r="4" fill="#3465a4"><title>Sturm (2016)</title></circle></a><circle cx="233.8" cy="106.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

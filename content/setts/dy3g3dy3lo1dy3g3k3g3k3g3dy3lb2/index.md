@@ -1,6 +1,15 @@
 ---
 title: "Buchanan Hunting (Scott Adie) #2"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Buchanan"
+  url: "/clan/buchanan/"
+- name: "Buchanan"
+  url: "/families/buchanan/"
+- name: "Buchanan Hunting"
+  url: "/tartans/b/bu/buchanan-hunting/"
 ---
 This is the **Buchanan Hunting (Scott Adie) #2** sett — one scale-free proportion (`dy3g3dy3lo1dy3g3k3g3k3g3dy3lb2`), colour order pattern
 [GGGYGGKGKGGW](/stripes/gggyggkgkggw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dy6g6dy6y1dy6g6k6g4k6g6dy6lb1~x4/"><circle cx="109.7" cy="235.5" r="4" fill="#3465a4"><title>Buchanan Hunting (Scott Adie)</title></circle></a><a href="/variants/s12/dy6g6dy6y1dy6g6k6g4k6g6dy6lb1~x2/"><circle cx="109.7" cy="235.5" r="4" fill="#3465a4"><title>Buchanan Hunting Clan Tartan</title></circle></a><a href="/variants/s12/dy14y3dy14g14k14g5k14g14dy14ly3dy14g14~x2~y2602166-ly3307090/"><circle cx="102.1" cy="240.4" r="4" fill="#3465a4"><title>Buchanan Hunting #2</title></circle></a><a href="/variants/s6/g12k10y9db11ly3g9~x2/"><circle cx="61.5" cy="283.5" r="4" fill="#3465a4"><title>Centeno-Oxford</title></circle></a><a href="/variants/s9/r2db4k4g4w1g4k4g4w1~x4/"><circle cx="71.9" cy="245.8" r="4" fill="#3465a4"><title>Arrol</title></circle></a><a href="/variants/s6/k10y9db11g12ly3g9~x2/"><circle cx="61.9" cy="283.7" r="4" fill="#3465a4"><title>Centeno-Oxford (Personal)</title></circle></a><circle cx="32.7" cy="285.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

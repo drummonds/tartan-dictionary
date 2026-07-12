@@ -1,6 +1,11 @@
 ---
 title: "St. Columba (two greens) (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "St Columba"
+  url: "/tartans/s/st/st-columba/"
 ---
 This is the **St. Columba (two greens) (Corporate)** sett — one scale-free proportion (`db20y1w1ly3g4dg10n4y1dp4`), colour order pattern
 [BGBGGYWGB](/stripes/bgbggywgb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db20y1w1ly3g14n4y1dp4~x2/"><circle cx="221.7" cy="139.6" r="4" fill="#3465a4"><title>St. Columba (one green)</title></circle></a><a href="/variants/s7/dy6t16lb3y3o3g3w2~x4~t2405244-lb3200000-y2104086-o2605070/"><circle cx="181.3" cy="185.8" r="4" fill="#3465a4"><title>Atikokan (District)</title></circle></a><a href="/variants/s8/db18n4dr4g12lb3r2w2dp10~x2/"><circle cx="98.2" cy="169.1" r="4" fill="#3465a4"><title>Serco Caledonian Sleeper</title></circle></a><a href="/variants/s9/b4dg30dbi12g3db2lb3db26dp4db2~dg1806142-dbi1406275-g2408144-db1204274/"><circle cx="236.2" cy="166.0" r="4" fill="#3465a4"><title>Begg (Personal)</title></circle></a><a href="/variants/s9/w1db16y1dr3y1dg6g2dg6w1~x2/"><circle cx="259.9" cy="157.6" r="4" fill="#3465a4"><title>Kleto, Susan (Personal)</title></circle></a><a href="/variants/s8/y8t24db21g18lo4lb3dy2lr1~x2~t2405244-lb3200000/"><circle cx="155.2" cy="147.3" r="4" fill="#3465a4"><title>Philpotts, Brian</title></circle></a><a href="/variants/s8/db18n4r4g12lb3ri2w2dp10~x2~r1807033-ri2109032/"><circle cx="89.0" cy="162.6" r="4" fill="#3465a4"><title>Serco Caledonian Sleeper</title></circle></a><a href="/variants/s8/dy31ly6lb3db36dy8g60ly7n7~x2~db1004274-n2203265/"><circle cx="219.7" cy="165.2" r="4" fill="#3465a4"><title>Little-Dowse Wedding</title></circle></a><a href="/variants/s8/dg18g6dy3w1dy3w1lb6db6~x2/"><circle cx="201.1" cy="166.3" r="4" fill="#3465a4"><title>Iroquois Falls Centenary</title></circle></a><a href="/variants/s9/w1db16ly1r3ly1dg6g2dg6w1~x2~dg1806142-g2408144/"><circle cx="213.8" cy="138.7" r="4" fill="#3465a4"><title>Kleto, Susan (Personal)</title></circle></a><circle cx="205.6" cy="125.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

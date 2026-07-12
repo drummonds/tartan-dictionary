@@ -1,6 +1,11 @@
 ---
 title: "Ch. Supt. Everett and Mrs Julene Summerfield Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Ch. Supt. Everett and Mrs Julene Summerfield Dress"
+  url: "/tartans/c/ch/ch-supt-everett-and-mrs-julene-summerfield-dress/"
 ---
 This is the **Ch. Supt. Everett and Mrs Julene Summerfield Dress** sett — one scale-free proportion (`r9w25k7w45lb60dg4ly5`), colour order pattern
 [RWKWWGY](/stripes/rwkwwgy/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r9w27k7w45lb60dg4lo5/"><circle cx="223.5" cy="154.4" r="4" fill="#3465a4"><title>Ch. Supt. Everett and Mrs Julene Sum</title></circle></a><a href="/variants/s5/n10w3lb3g1r1~x10/"><circle cx="298.0" cy="206.3" r="4" fill="#3465a4"><title>Bagpipe Shop (Switzerland)</title></circle></a><a href="/variants/s6/k6w49db50dp6t8y4~db1404245-t2503227/"><circle cx="153.8" cy="144.3" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/variants/s10/w4k2w30g3dp3g3dp7db14g3r3~x2/"><circle cx="169.9" cy="109.8" r="4" fill="#3465a4"><title>Edinburgh Dress (Dance)</title></circle></a><a href="/variants/s7/y2r1lb16k5dp2w11dp1~x4/"><circle cx="153.9" cy="130.7" r="4" fill="#3465a4"><title>Dignan</title></circle></a><a href="/variants/s6/lb53k2w53k2r4lo7~x2/"><circle cx="296.9" cy="141.2" r="4" fill="#3465a4"><title>Galicia</title></circle></a><a href="/variants/s11/w26lb9k2lb2w2lb2n11lb8y2n2r2~x2/"><circle cx="188.8" cy="129.2" r="4" fill="#3465a4"><title>Manchester Blues Dress (Comm)</title></circle></a><a href="/variants/s10/dr2w1dr1w13lb12ly2k2lb2k1y1~x4/"><circle cx="147.0" cy="114.4" r="4" fill="#3465a4"><title>Jong Nederland Born Union (Corp)</title></circle></a><a href="/variants/s9/w4dr13lb54dg22k4ly20lb48dr13w4/"><circle cx="217.0" cy="137.7" r="4" fill="#3465a4"><title>Wynberg Boys' High School</title></circle></a><a href="/variants/s11/lb26w9k2w2lb2w2n11w8y2n2r2~x2/"><circle cx="195.1" cy="131.1" r="4" fill="#3465a4"><title>Manchester Blues Modern</title></circle></a><circle cx="220.7" cy="153.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

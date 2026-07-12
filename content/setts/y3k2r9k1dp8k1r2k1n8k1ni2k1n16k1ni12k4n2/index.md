@@ -1,6 +1,11 @@
 ---
 title: "Golden Glow (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Golden Glow"
+  url: "/tartans/g/go/golden-glow/"
 ---
 This is the **Golden Glow (Fashion)** sett — one scale-free proportion (`y3k2r9k1dp8k1r2k1n8k1ni2k1n16k1ni12k4n2`), colour order pattern
 [BKBKBKBKBKRKBKRKG](/stripes/bkbkbkbkbkrkbkrkg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/y3k2r9k1do8k1r2k1n8k1ni2k1n16k1ni12k4n2~x2~n1602305-ni2001240/"><circle cx="144.1" cy="106.2" r="4" fill="#3465a4"><title>Golden Glow</title></circle></a><a href="/variants/s12/g19ri3g19db7r26k3db7k3dp42k3db7k3~x2~ri2806019-r1807008/"><circle cx="116.0" cy="123.3" r="4" fill="#3465a4"><title>Tartan Spirit</title></circle></a><a href="/variants/s17/k3w4k3r18db1n18k1g18w1db18r1n18g1r18k3w4k3~x2/"><circle cx="78.8" cy="94.3" r="4" fill="#3465a4"><title>Brinkie's Brae (Personal)</title></circle></a><a href="/variants/s13/r24db2w2k2r2db27dg6db2ly2k2r2db2dg23~x2/"><circle cx="152.1" cy="100.3" r="4" fill="#3465a4"><title>Montreal Olympics (1976) (Corporate)</title></circle></a><a href="/variants/s13/r24db2w2k2r2db27dg6db2ly2k2r2db2dg23~x2~dg1605139/"><circle cx="149.9" cy="100.4" r="4" fill="#3465a4"><title>Olympic</title></circle></a><a href="/variants/s14/dr9r5dg2r4dg2r5n38k5dg2k4dg2k5dr8lb4~x2/"><circle cx="178.4" cy="83.7" r="4" fill="#3465a4"><title>Berwick-upon-Tweed (symmetric)</title></circle></a><a href="/variants/s14/dr10w1do1w2n10dr8do2k17do2dr7n19k3y1k1~x2/"><circle cx="145.6" cy="103.5" r="4" fill="#3465a4"><title>Scottish Wildcat</title></circle></a><a href="/variants/s11/dy5k3w2r20db10dg2w1dy1dg20k4dy3~x2~k0700000-db1406275/"><circle cx="144.9" cy="111.7" r="4" fill="#3465a4"><title>MacCulloch (Name)</title></circle></a><a href="/variants/s14/db20w3db4w3db4w3r22g2k1g2dy16w1k2w1~x2/"><circle cx="123.2" cy="77.1" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield Traditional</title></circle></a><a href="/variants/s14/dr27g20k7w3dy3dr2dy3w3dy6dp6k2dr3dy4dp3~x2/"><circle cx="123.9" cy="111.3" r="4" fill="#3465a4"><title>Roman Family Tribute (Personal)</title></circle></a><circle cx="126.9" cy="101.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

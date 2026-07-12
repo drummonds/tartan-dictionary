@@ -1,6 +1,11 @@
 ---
 title: "Strathdee (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Strathdee"
+  url: "/tartans/s/st/strathdee/"
 ---
 This is the **Strathdee (Personal)** sett — one scale-free proportion (`dg25b10w1b5w1b10dg25r1dg3r2`), colour order pattern
 [GBWBWBGRGR](/stripes/gbwbwbgrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g8db3g2db4ly2db5g7db4g4db37r6~db1204274/"><circle cx="396.5" cy="137.8" r="4" fill="#3465a4"><title>Jenkins (Welsh Name)</title></circle></a><a href="/variants/s8/g40db2w2db2y2db23g32r2~x2/"><circle cx="412.4" cy="151.9" r="4" fill="#3465a4"><title>Marshall Fields Corporate Tartan</title></circle></a><a href="/variants/s9/db12ly1g16db1g1db14g3db14r2~x4/"><circle cx="382.6" cy="183.7" r="4" fill="#3465a4"><title>Orlando, City of (District)</title></circle></a><a href="/variants/s7/db120g9r7y12g33y33db26/"><circle cx="373.5" cy="177.1" r="4" fill="#3465a4"><title>Supporter.com</title></circle></a><a href="/variants/s8/db23w1db1w1db8g22r1db3~x4/"><circle cx="368.9" cy="149.6" r="4" fill="#3465a4"><title>Roxburgh, Green (District)</title></circle></a><a href="/variants/s10/db15g7y3g7db40g7y3g7db15r5~x2~db1406275/"><circle cx="394.7" cy="184.4" r="4" fill="#3465a4"><title>Wheadon</title></circle></a><a href="/variants/s8/db16w1db1w1db8g16r1db2~x2/"><circle cx="347.6" cy="167.2" r="4" fill="#3465a4"><title>Roxburgh</title></circle></a><a href="/variants/s8/dg3w5dg3db6dg5db1dg12r1~x2/"><circle cx="316.9" cy="199.2" r="4" fill="#3465a4"><title>Hasegawa (Akasaka) (Personal)</title></circle></a><a href="/variants/s8/db2g2ly1g30db20r2db2r2~x2/"><circle cx="360.8" cy="136.9" r="4" fill="#3465a4"><title>Gretna Green</title></circle></a><a href="/variants/s8/db22y2db1y2db10r2g11r6~x2/"><circle cx="346.9" cy="164.3" r="4" fill="#3465a4"><title>Katsushika Corporate Tartan</title></circle></a><circle cx="409.5" cy="148.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

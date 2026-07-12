@@ -1,6 +1,11 @@
 ---
 title: "Kansai St Andrews Society (Corp)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Kansai St Andrews Society"
+  url: "/tartans/k/ka/kansai-st-andrews-society/"
 ---
 This is the **Kansai St Andrews Society (Corp)** sett — one scale-free proportion (`t33w2r3w2db14ri3g15t20r2t3`), colour order pattern
 [BRBGRBWRWB](/stripes/brbgrbwrwb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dbi30w2r3w2db14lr3g14dbi18r2dbi3~x2~dbi1605267-db0906265/"><circle cx="280.8" cy="145.4" r="4" fill="#3465a4"><title>Kansai St Andrews Society</title></circle></a><a href="/variants/s8/dy6y3t42w4dg18y2t12r3~x2/"><circle cx="347.0" cy="142.1" r="4" fill="#3465a4"><title>Glasgow High (School)</title></circle></a><a href="/variants/s8/db5r3g2r3dg12t34g2w2~x2/"><circle cx="302.6" cy="136.9" r="4" fill="#3465a4"><title>Moran (Wedding) (Personal)</title></circle></a><a href="/variants/s8/db5r3g2r3dg12t34g2w2~x2~dg1804158/"><circle cx="332.9" cy="148.8" r="4" fill="#3465a4"><title>Moran (Drummond) Personal Tartan</title></circle></a><a href="/variants/s12/t40r2t7db5ly2db3w2db10n6t2n4w2~x2/"><circle cx="346.5" cy="115.3" r="4" fill="#3465a4"><title>Plymouth Armada (Commemorative)</title></circle></a><a href="/variants/s9/n18y1n2y1n2db6w4o1g6~x2/"><circle cx="293.1" cy="140.4" r="4" fill="#3465a4"><title>Nickel Lodge, Centennial</title></circle></a><a href="/variants/s9/db3g6db2t11dr3dy4dr3t28w3~x2/"><circle cx="360.9" cy="168.3" r="4" fill="#3465a4"><title>Bains of Caithness</title></circle></a><a href="/variants/s8/lb8db10t69w6t6r8lbi19lb3~lb3200000-t2503227-lbi3203246/"><circle cx="363.7" cy="137.8" r="4" fill="#3465a4"><title>Virginia International Tattoo Hixon</title></circle></a><a href="/variants/s15/db6y2g24db4g8db6g6db8g3db10n14db4r3db34lb4/"><circle cx="274.6" cy="135.6" r="4" fill="#3465a4"><title>Matchpoint Hunting</title></circle></a><a href="/variants/s9/db40r4db10dg10g22ly3g4lyi3g4~x2~dg1806142-g1903114-ly2705081-lyi3407090/"><circle cx="277.1" cy="157.6" r="4" fill="#3465a4"><title>Keith Stanhope Society (Commem.)</title></circle></a><circle cx="318.0" cy="151.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

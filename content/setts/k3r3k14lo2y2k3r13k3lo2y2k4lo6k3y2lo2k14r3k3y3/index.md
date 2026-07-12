@@ -1,6 +1,15 @@
 ---
 title: "Stevens #6"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Stevens"
+  url: "/clan/stevens/"
+- name: "Stevens"
+  url: "/families/stevens/"
+- name: "Stevens"
+  url: "/tartans/s/st/stevens-6/"
 ---
 This is the **Stevens #6** sett — one scale-free proportion (`k3r3k14lo2y2k3r13k3lo2y2k4lo6k3y2lo2k14r3k3y3`), colour order pattern
 [GKRKYGKYKGYKRKGYKRK](/stripes/gkrkygkykgykrkgykrk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k1db1k8r1k1r8db1y8k1y1k8db1k1~x6/"><circle cx="189.5" cy="143.1" r="4" fill="#3465a4"><title>Robieson QAHS</title></circle></a><a href="/variants/s20/w1r7k7r1k7w1r7w1k7r1k7w1y2w1k8r1k8r7w1ly1~x4~y2405105-ly3307090/"><circle cx="195.0" cy="124.6" r="4" fill="#3465a4"><title>Order of the Holy Sepulchre of Jerusalem</title></circle></a><a href="/variants/s20/dy2w2r13k17r2k17w2dy4w2k17r2k17w2r13w2k17r2k17r13w2~x2/"><circle cx="242.7" cy="133.0" r="4" fill="#3465a4"><title>Holy Sepulchre Corporate Tartan</title></circle></a><a href="/variants/s28/r18k3r3k11g9k2g9k11r2k11r3k3r9g2k3g2r9k3r3k11r2k11r3k3r18db2r3db2~x2/"><circle cx="154.3" cy="127.4" r="4" fill="#3465a4"><title>MacInroy #2</title></circle></a><a href="/variants/s11/r2k20r5k4dg4k4r5k2r14k2y2~x2/"><circle cx="231.2" cy="144.0" r="4" fill="#3465a4"><title>Canterbury (Fashion)</title></circle></a><a href="/variants/s10/g8r1k1r8g1r8k1r1k8r1~x6/"><circle cx="241.9" cy="148.0" r="4" fill="#3465a4"><title>Hebrides South Uist #3</title></circle></a><a href="/variants/s14/dr12k2ly2k2dr2k2ly2k2dr12k9dr12k2ly2k2~x2/"><circle cx="271.9" cy="127.1" r="4" fill="#3465a4"><title>City of New Bern 300 (District)</title></circle></a><a href="/variants/s15/r5k5r3g16r3g3r3k10r3b5r12k5r3k3r5~x2/"><circle cx="132.6" cy="184.0" r="4" fill="#3465a4"><title>Grant of Ballindalloch</title></circle></a><a href="/variants/s11/dr3o26k12o3k16o4k16o3k12o26ly3~x2/"><circle cx="222.9" cy="170.3" r="4" fill="#3465a4"><title>Wcwm 1713</title></circle></a><a href="/variants/s12/dp3r4k5r12k24r3k10r26k12dp3r6w3~x2/"><circle cx="205.1" cy="153.2" r="4" fill="#3465a4"><title>MacKinnon Black (Personal)</title></circle></a><circle cx="185.9" cy="139.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

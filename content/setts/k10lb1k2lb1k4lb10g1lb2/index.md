@@ -1,6 +1,11 @@
 ---
 title: "Martin's Own"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Martin's Own"
+  url: "/tartans/m/ma/martin-s-own/"
 ---
 This is the **Martin's Own** sett — one scale-free proportion (`k10lb1k2lb1k4lb10g1lb2`), colour order pattern
 [KWKWKWGW](/stripes/kwkwkwgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w2k11w2k2w16k2w2k11lo2~x4/"><circle cx="250.9" cy="185.6" r="4" fill="#3465a4"><title>MacFie of Colonsay Dress (Fashion?)</title></circle></a><a href="/variants/s9/k12lb1k2lb6k4lb3k4lb21r4~x2/"><circle cx="279.1" cy="142.8" r="4" fill="#3465a4"><title>MacKnight (Name)</title></circle></a><a href="/variants/s7/k16w30lb36k10lb10k83lb6/"><circle cx="276.0" cy="176.0" r="4" fill="#3465a4"><title>Glasgow Warriors</title></circle></a><a href="/variants/s8/lb3k24lb6k8w4k8lb35k2~x2/"><circle cx="274.0" cy="160.3" r="4" fill="#3465a4"><title>Nowell/Noel 1951 (Name)</title></circle></a><a href="/variants/s10/k1t17k17t1r1t1k17t17k1w1~x4/"><circle cx="264.3" cy="136.1" r="4" fill="#3465a4"><title>Sorbie</title></circle></a><a href="/variants/s6/w8k16w2db2w1k1~x4/"><circle cx="304.1" cy="163.8" r="4" fill="#3465a4"><title>Ikelman No 1</title></circle></a><a href="/variants/s9/w6k1w2k4w4k2w4k15r1~x2/"><circle cx="281.3" cy="153.9" r="4" fill="#3465a4"><title>Menzies Dress Tartan</title></circle></a><a href="/variants/s6/w4k26lb26k2lb5w2~x2/"><circle cx="255.2" cy="182.1" r="4" fill="#3465a4"><title>Indian Pipe Band (Corporate)</title></circle></a><a href="/variants/s11/k1lb1lp7k8lb1k8lb1lp2lb1k4lb1~x4/"><circle cx="269.3" cy="177.0" r="4" fill="#3465a4"><title>Clark (Crook)</title></circle></a><a href="/variants/s7/w6t3w20k2w3k25w3~x2/"><circle cx="270.7" cy="176.9" r="4" fill="#3465a4"><title>Forbes Dress (Clans Originaux)</title></circle></a><circle cx="267.5" cy="183.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

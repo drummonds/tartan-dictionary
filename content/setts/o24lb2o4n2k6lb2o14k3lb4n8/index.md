@@ -1,6 +1,11 @@
 ---
 title: "Dobrain (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Dobrain"
+  url: "/tartans/d/do/dobrain/"
 ---
 This is the **Dobrain (Personal)** sett — one scale-free proportion (`o24lb2o4n2k6lb2o14k3lb4n8`), colour order pattern
 [BWKRWKBRWR](/stripes/bwkrwkbrwr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/o15n1o2b2o2n1o3k8n10o3~x4/"><circle cx="278.4" cy="152.8" r="4" fill="#3465a4"><title>Annan</title></circle></a><a href="/variants/s7/k4o2r2o2k2o15y2~x4/"><circle cx="330.0" cy="170.9" r="4" fill="#3465a4"><title>Welsh, National</title></circle></a><a href="/variants/s10/r4g4w3g4r4g14r28k2r2g3~x2/"><circle cx="316.3" cy="136.7" r="4" fill="#3465a4"><title>Scott Red Clan Tartan</title></circle></a><a href="/variants/s7/r4g21r4k7r34lo3r4~x2/"><circle cx="280.0" cy="144.7" r="4" fill="#3465a4"><title>Kirk</title></circle></a><a href="/variants/s10/o1w2k5o3k1oi5k1oi11k1oi1~x4~o2102055-oi2104058/"><circle cx="243.5" cy="149.6" r="4" fill="#3465a4"><title>Braemar, or Blair Atholl</title></circle></a><a href="/variants/s12/r8g1r8g16r4k2lb1k4r8g1r8k1~x2/"><circle cx="285.1" cy="138.6" r="4" fill="#3465a4"><title>MacLeod and MacNicol</title></circle></a><a href="/variants/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/"><circle cx="233.6" cy="164.3" r="4" fill="#3465a4"><title>MacQuarrie Ancient</title></circle></a><a href="/variants/s10/o28k2o28k2o2k2do29k2r2k2~x2/"><circle cx="345.3" cy="136.8" r="4" fill="#3465a4"><title>Ulster</title></circle></a><a href="/variants/s7/r3g16r4k6r28g2lo3~x2/"><circle cx="295.7" cy="153.3" r="4" fill="#3465a4"><title>McInally (Name)</title></circle></a><a href="/variants/s8/k1r9g2r2g4w1g4r1~x2/"><circle cx="258.8" cy="184.8" r="4" fill="#3465a4"><title>Comyn</title></circle></a><circle cx="304.2" cy="155.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

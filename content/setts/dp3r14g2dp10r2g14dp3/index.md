@@ -1,6 +1,11 @@
 ---
 title: "Scottish Netball (1986) (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Scottish Netball"
+  url: "/tartans/s/sc/scottish-netball-2/"
 ---
 This is the **Scottish Netball (1986) (Corporate)** sett — one scale-free proportion (`dp3r14g2dp10r2g14dp3`), colour order pattern
 [BGRBGRB](/stripes/bgrbgrb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g28r4dp27r27g28r5dp2~x2/"><circle cx="280.9" cy="225.3" r="4" fill="#3465a4"><title>Madder</title></circle></a><a href="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r2208029-ri2209032/"><circle cx="243.4" cy="196.5" r="4" fill="#3465a4"><title>Logan Light</title></circle></a><a href="/variants/s8/dg28r4dp25w5r22dg27r4dp2~x2/"><circle cx="263.2" cy="196.4" r="4" fill="#3465a4"><title>New Glasgow (Canada)</title></circle></a><a href="/variants/s6/dp4r3dp26r26g26r4~x2/"><circle cx="245.4" cy="240.2" r="4" fill="#3465a4"><title>Unidentified #21</title></circle></a><a href="/variants/s8/r17db2r2db13r2db2g17db2~x2/"><circle cx="236.5" cy="215.3" r="4" fill="#3465a4"><title>Red Remony Trade Tartan</title></circle></a><a href="/variants/s7/db3r25db17r5g22r9db3~x2/"><circle cx="260.4" cy="234.9" r="4" fill="#3465a4"><title>MacFadyan (MacGregor Hastie)</title></circle></a><a href="/variants/s12/r14g2dp10r2g14dp3g14r2dp10g2r14dp3~x2~r2406019/"><circle cx="217.3" cy="231.3" r="4" fill="#3465a4"><title>Unidentified Scarlett #12</title></circle></a><a href="/variants/s7/db9r3db1r3g9r3db1~x2/"><circle cx="228.4" cy="231.9" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s7/dp2r4g12r3dp6r10w2~x2/"><circle cx="210.8" cy="238.1" r="4" fill="#3465a4"><title>MacKintosh-Geddes (Personal?)</title></circle></a><a href="/variants/s8/dp11o2dp2o2dp2o11g14w2~x2/"><circle cx="197.7" cy="223.0" r="4" fill="#3465a4"><title>Lamont</title></circle></a><circle cx="221.6" cy="244.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

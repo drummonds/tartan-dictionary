@@ -1,6 +1,11 @@
 ---
 title: "Spey"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Spey"
+  url: "/tartans/s/sp/spey/"
 ---
 This is the **Spey** sett — one scale-free proportion (`db1n1r1n1db1n1r1n1db1n1r1t1n1lb1`), colour order pattern
 [BBRBBBRBBBRBBW](/stripes/bbrbbbrbbbrbbw/). It is recorded as a single **variant**, below.

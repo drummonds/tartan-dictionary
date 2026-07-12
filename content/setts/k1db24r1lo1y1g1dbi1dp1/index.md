@@ -1,6 +1,15 @@
 ---
 title: "Way of the Rainbow"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Way"
+  url: "/clan/way/"
+- name: "Way of the Rainbow"
+  url: "/families/way-of-the-rainbow/"
+- name: "Way of the Rainbow"
+  url: "/tartans/w/wa/way-of-the-rainbow/"
 ---
 This is the **Way of the Rainbow** sett — one scale-free proportion (`k1db24r1lo1y1g1dbi1dp1`), colour order pattern
 [BBGGYRBK](/stripes/bbggyrbk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k1db24r1dy1ly1g1dbi1lp1~x7~db1204274-dbi1706275/"><circle cx="450.3" cy="44.9" r="4" fill="#3465a4"><title>Way of the Rainbow</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="403.7" cy="109.5" r="4" fill="#3465a4"><title>Pool, Robert David (Personal)</title></circle></a><a href="/variants/s6/r5db58lb4t6y4k4~x2~lb3103284-t2503227/"><circle cx="395.0" cy="115.9" r="4" fill="#3465a4"><title>Kendle (2013)</title></circle></a><a href="/variants/s6/r5db58lb4n6y4k4~x2~db1406275-n2203265/"><circle cx="411.7" cy="119.1" r="4" fill="#3465a4"><title>Kendle (2013)</title></circle></a><a href="/variants/s6/g5w1r5k5db43r1~x2/"><circle cx="437.7" cy="85.6" r="4" fill="#3465a4"><title>Michael (John) (Personal)</title></circle></a><a href="/variants/s5/ki61w4k11db5dr5~x2~ki0604259/"><circle cx="417.4" cy="150.1" r="4" fill="#3465a4"><title>Edinburgh Crystal</title></circle></a><a href="/variants/s7/db60w1y4k4w1lp8w2~x2/"><circle cx="456.8" cy="59.4" r="4" fill="#3465a4"><title>Nunavut Territory (District)</title></circle></a><a href="/variants/s6/g20dr10ly2db100w1y10/"><circle cx="478.4" cy="107.6" r="4" fill="#3465a4"><title>Ravetta (Name)</title></circle></a><a href="/variants/s7/t6k3n10db2k2dt45lr2~x2~t2503227-db1004274-dt1102249-lr2800000/"><circle cx="396.4" cy="114.6" r="4" fill="#3465a4"><title>Vonarb, Alfred (Personal)</title></circle></a><a href="/variants/s6/w2db45g9r1n9dr1~x2/"><circle cx="430.0" cy="101.2" r="4" fill="#3465a4"><title>Wilton (Name)</title></circle></a><circle cx="446.6" cy="45.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Kipp (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Kipp"
+  url: "/clan/kipp/"
+- name: "Kipp"
+  url: "/families/kipp/"
+- name: "Kipp"
+  url: "/tartans/k/ki/kipp/"
 ---
 This is the **Kipp (Personal)** sett — one scale-free proportion (`db2lo10lb1o8g7dr10lb2`), colour order pattern
 [BYWRGBW](/stripes/bywrgbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y7ly12g30db12r14ri11ly2~x2~ly3608101-ri2308029/"><circle cx="121.1" cy="186.5" r="4" fill="#3465a4"><title>Unidentified, Silk Plaid</title></circle></a><a href="/variants/s9/w6lb36y12g19dg6r6dg6r28dg4/"><circle cx="110.1" cy="182.5" r="4" fill="#3465a4"><title>Derry Family (Olney, Buckinghamshire) (Personal)</title></circle></a><a href="/variants/s7/g21lb21ly3r21n3dp5n3~x2/"><circle cx="125.5" cy="209.8" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/variants/s10/w2ri8dy5y6w5g21w6ri8r4w2~ri2209032-r2208029/"><circle cx="106.1" cy="171.4" r="4" fill="#3465a4"><title>Jacobite Silk sash</title></circle></a><a href="/variants/s9/w6lb36ly12g19dg6r6dg6r28dg4~g2408144-dg1806142/"><circle cx="119.1" cy="187.1" r="4" fill="#3465a4"><title>Derry Family (Personal)</title></circle></a><a href="/variants/s7/w3dg24r13g4ly11r8db2~x2~dg1806142-g2304202/"><circle cx="169.8" cy="184.7" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/variants/s6/r8lo4y3g6lb6dp1~x5/"><circle cx="116.9" cy="246.9" r="4" fill="#3465a4"><title>Pride, The Tartan of</title></circle></a><a href="/variants/s7/o17n5db2w12db2y4g7~x2/"><circle cx="125.5" cy="200.6" r="4" fill="#3465a4"><title>Ontario, Northern</title></circle></a><a href="/variants/s10/w2r8o5y6w5g21w6r8b4w2/"><circle cx="112.1" cy="174.0" r="4" fill="#3465a4"><title>Jacobite, Silk sash</title></circle></a><a href="/variants/s7/dy5ly20r3dg13dy13dp3b3~x2/"><circle cx="112.0" cy="205.2" r="4" fill="#3465a4"><title>Christmas Hill Game Farm</title></circle></a><circle cx="95.1" cy="205.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

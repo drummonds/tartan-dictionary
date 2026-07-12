@@ -1,6 +1,15 @@
 ---
 title: "Ontario Centennial"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ontario"
+  url: "/clan/ontario/"
+- name: "Ontario"
+  url: "/families/ontario/"
+- name: "Ontario"
+  url: "/tartans/o/on/ontario-4/"
 ---
 This is the **Ontario Centennial** sett — one scale-free proportion (`dg50ly16dg8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40dg12dy24r8ly1r1ly1r1ly1r1ly1r1ly1r1ly1r1ly28r6dy4`), colour order pattern
 [GRYRYRYRYRYRYRYRGGGYGYGYGYGYGYGYGGYG](/stripes/gryryryryryryryrgggygygygygygygyggyg/). It is recorded as **2 variants** — the same
@@ -23,6 +32,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s36/dg50ly16dg8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40dg12dy24r8ly1r1ly1r1ly1r1ly1r1ly1r1ly1r1ly28r6dy4~ly2705081/"><circle cx="271.7" cy="49.8" r="4" fill="#3465a4"><title>Ontario Centennial</title></circle></a><a href="/variants/s36/g50r16g8do8r1do1r1do1r1do1r1do1r1do1r1do1r20do40g12do24ly8r1ly1r1ly1r1ly1r1ly1r1ly1r1ly1r28ly6do4/"><circle cx="256.0" cy="41.2" r="4" fill="#3465a4"><title>Newfoundland (Commemorative)</title></circle></a><a href="/variants/s36/lyi50ly16lyi8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40lyi12dy24dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly28dg6dy4~lyi3104101-ly2705081/"><circle cx="265.0" cy="56.6" r="4" fill="#3465a4"><title>Alberta (CIDD 28106)</title></circle></a><a href="/variants/s36/g50r16g8do8r1do1r1do1r1do1r1do1r1do1r1do1r20do40g12do24y8r1y1r1y1r1y1r1y1r1y1r1y1r28y6do4/"><circle cx="276.5" cy="47.6" r="4" fill="#3465a4"><title>Newfoundland (CIDD 28098)</title></circle></a><a href="/variants/s36/g20k1g1k1g1k1g1k1g1k1g1k1g1k8y8g16y50k4r6g28r1g1r1g1r1g1r1g1r1g1r1g1r8k24y12k4/"><circle cx="209.0" cy="19.0" r="4" fill="#3465a4"><title>New Brunswick (PIK Mills, Toronto)</title></circle></a><a href="/variants/s36/k50ly16k8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40k12dy24dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly28dg6dy4~ly2705081/"><circle cx="198.4" cy="17.3" r="4" fill="#3465a4"><title>Alberta (Commemorative)</title></circle></a><a href="/variants/s36/db50ly16db8dg8ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly1dg1ly20dg40db12dg24g8ly1g1ly1g1ly1g1ly1g1ly1g1ly1g1ly28g6dg4/"><circle cx="237.2" cy="50.6" r="4" fill="#3465a4"><title>Nova Scotia (Commemorative)</title></circle></a><a href="/variants/s29/dt13r6dt2r6w1g26r2dt26w1r26w1dt6r2g2r2dt13r2g2r2dt6w1r26w1dt26g26w1r6dt2r6~x2/"><circle cx="241.2" cy="96.8" r="4" fill="#3465a4"><title>Unnamed C18/19th - Antigonish (A) #2</title></circle></a><circle cx="229.3" cy="36.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

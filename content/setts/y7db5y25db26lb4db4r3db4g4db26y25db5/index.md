@@ -1,6 +1,11 @@
 ---
 title: "O Savaaoo"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "O Savanao"
+  url: "/tartans/o/o/o-savanao/"
 ---
 This is the **O Savaaoo** sett — one scale-free proportion (`y7db5y25db26lb4db4r3db4g4db26y25db5`), colour order pattern
 [BGBGBRBWBGBG](/stripes/bgbgbrbwbgbg/). It is recorded as **2 variants** — the same
@@ -23,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/y7db5y25db26lb4db4r3db4g4db26y25db5~x2~db1106275/"><circle cx="266.3" cy="177.6" r="4" fill="#3465a4"><title>O Savaaoo</title></circle></a><a href="/variants/s10/y3g17db3g3db3do5db18r2db8r2~x2/"><circle cx="256.0" cy="187.3" r="4" fill="#3465a4"><title>Donegal</title></circle></a><a href="/variants/s11/db2n18db2n2db20r3db18g2db2g18w2/"><circle cx="265.5" cy="179.2" r="4" fill="#3465a4"><title>American Society of Travel Agents, The</title></circle></a><a href="/variants/s6/r12db3g5db16y2g2~x2/"><circle cx="296.9" cy="204.5" r="4" fill="#3465a4"><title>Dunbog Primary School</title></circle></a><a href="/variants/s8/y8do2y13dr4y12db22y5o3~x2/"><circle cx="289.7" cy="184.3" r="4" fill="#3465a4"><title>Kildare, County</title></circle></a><a href="/variants/s11/r1dy8ly2dy2db6w1db6dy2ly2dy8b1~x4/"><circle cx="223.1" cy="179.4" r="4" fill="#3465a4"><title>MacKessog Glebe (Commemorative)</title></circle></a><a href="/variants/s9/db2n10db1n1db10r1db10g10w2~x2/"><circle cx="248.3" cy="197.0" r="4" fill="#3465a4"><title>American Soc.of Travel Agents (Corp)</title></circle></a><a href="/variants/s9/db32r4db4dy4db9n9db4n16w7~x2/"><circle cx="275.6" cy="193.1" r="4" fill="#3465a4"><title>Nevada State American District Tartan</title></circle></a><a href="/variants/s16/g10db10r1db10n1db1n10db2n10db1n1db10r1db10g10w2~x2/"><circle cx="246.3" cy="182.5" r="4" fill="#3465a4"><title>American Soc of Travel Agents Corporate Tartan</title></circle></a><a href="/variants/s9/dp4db18r2db2r2db9g20db3g4~x2~dp1607327-r1606028/"><circle cx="296.9" cy="200.8" r="4" fill="#3465a4"><title>St. Andrews New Golf Club</title></circle></a><circle cx="278.1" cy="183.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

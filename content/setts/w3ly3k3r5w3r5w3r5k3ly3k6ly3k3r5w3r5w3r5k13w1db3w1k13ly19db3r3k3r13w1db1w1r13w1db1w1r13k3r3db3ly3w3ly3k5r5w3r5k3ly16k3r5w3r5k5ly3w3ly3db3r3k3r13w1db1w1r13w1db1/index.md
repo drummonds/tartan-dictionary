@@ -1,6 +1,15 @@
 ---
 title: "Ogilvie of Strathallan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ogilvie"
+  url: "/clan/ogilvie/"
+- name: "Ogilvie of Strathallan"
+  url: "/families/ogilvie-of-strathallan/"
+- name: "Ogilvie of Strathallan"
+  url: "/tartans/o/og/ogilvie-of-strathallan/"
 ---
 This is the **Ogilvie of Strathallan** sett — one scale-free proportion (`w3ly3k3r5w3r5w3r5k3ly3k6ly3k3r5w3r5w3r5k13w1db3w1k13ly19db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3ly3w3ly3k5r5w3r5k3ly16k3r5w3r5k5ly3w3ly3db3r3k3r13w1db1w1r13w1db1`), colour order pattern
 [BWRWBWRKRBYWYKRWRKYKRWRKYWYBRKRWBWRWBWRKRBYKWBWKRWRWRKYKYKRWRWRKYW](/stripes/bwrwbwrkrbywykrwrkykrwrkywybrkrwbwrwbwrkrbykwbwkrwrwrkykykrwrwrkyw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s36/r14w2db3w2r14k2r2db2y2lb7w2lb7y2k4r7w1r7w1r7k4y5lb7y5k2r2k2r2k2r2k2y2lb7y2db3y2db3~x2/"><circle cx="84.0" cy="77.5" r="4" fill="#3465a4"><title>Ogilvy of Airlie Clan Tartan</title></circle></a><a href="/variants/s40/dg23r6dg23r25k2r2k5r2k2r26k2r2k5r2k2r26w3r12lb33r7lb33r12w3r26dg8r12dg4r26dg12r8dg12r12dg8g7dg8r12dg9w3dg16w2/"><circle cx="164.9" cy="65.2" r="4" fill="#3465a4"><title>Kinnoull (Clan)</title></circle></a><a href="/variants/s16/r15k5w2n7k4w8k2r26k5n2w2k7w2r5w2g2~x2/"><circle cx="136.3" cy="74.5" r="4" fill="#3465a4"><title>Sabrettes</title></circle></a><a href="/variants/s81/dy10ly4k2ly2k2ly2k2ly4r1ly2r1ly4k4ly3r7ly3r7ly1k1ly1r7ly1k1ly1r7ly1k1ly1r7ly3r7ly3k4ly4k2ly2k2ly4k4ly6k2ly6k2ly6k2ly6k2ly6k2ly6k10ly4dy1w2dy1ly2dy1w2dy1ly4k6ly1w2ly1k6ly4dy1w2dy1ly2dy1w2dy1ly4k10ly6k2-h6b3483cbf9b8570e/"><circle cx="88.7" cy="80.3" r="4" fill="#3465a4"><title>Murray, Mungo</title></circle></a><circle cx="104.3" cy="43.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

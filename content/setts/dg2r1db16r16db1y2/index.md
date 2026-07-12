@@ -1,6 +1,15 @@
 ---
 title: "Galloway Dress (Yellow Line)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Galloway"
+  url: "/clan/galloway/"
+- name: "Galloway"
+  url: "/families/galloway/"
+- name: "Galloway Dress"
+  url: "/tartans/g/ga/galloway-dress/"
 ---
 This is the **Galloway Dress (Yellow Line)** sett — one scale-free proportion (`dg2r1db16r16db1y2`), colour order pattern
 [GBRBRG](/stripes/gbrbrg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y2db1r16db16r1g2~x2/"><circle cx="307.8" cy="172.8" r="4" fill="#3465a4"><title>Galloway Dress District Tartan</title></circle></a><a href="/variants/s6/g1r1db16r16db1w1~x2/"><circle cx="326.5" cy="162.9" r="4" fill="#3465a4"><title>Galloway, dress</title></circle></a><a href="/variants/s6/g3r2db22r22db2w3~x2/"><circle cx="274.4" cy="186.4" r="4" fill="#3465a4"><title>Galloway Red</title></circle></a><a href="/variants/s5/db1r14g7db7r1~x4/"><circle cx="310.0" cy="219.5" r="4" fill="#3465a4"><title>Fraser of Boblainy, Hugh (Personal)</title></circle></a><a href="/variants/s6/ri2db13r3db3r16lb2~x4~ri2008029-r1506028/"><circle cx="325.0" cy="225.6" r="4" fill="#3465a4"><title>MacArthur-Fox, dress</title></circle></a><a href="/variants/s6/r2t13dr3t3dr16lb2~x4/"><circle cx="304.2" cy="225.7" r="4" fill="#3465a4"><title>MacArthur-Fox Blue (Personal)</title></circle></a><a href="/variants/s5/db15w2r20db2r4~x2/"><circle cx="349.1" cy="218.8" r="4" fill="#3465a4"><title>Masai Shuka 25 (Artefact)</title></circle></a><a href="/variants/s6/w3g15db18r30db1r2~x2/"><circle cx="287.7" cy="160.7" r="4" fill="#3465a4"><title>Ruthven</title></circle></a><a href="/variants/s6/w3db23r44db26g4y2~x2/"><circle cx="298.3" cy="158.3" r="4" fill="#3465a4"><title>Tartan Lassie (Fashion)</title></circle></a><a href="/variants/s5/b86g3r3g6r85~x2/"><circle cx="407.9" cy="181.9" r="4" fill="#3465a4"><title>MacNab 2</title></circle></a><circle cx="311.7" cy="173.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

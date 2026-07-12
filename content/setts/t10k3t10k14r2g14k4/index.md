@@ -1,6 +1,15 @@
 ---
 title: "Fletcher #2"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Fletcher"
+  url: "/clan/fletcher/"
+- name: "Fletcher"
+  url: "/families/fletcher/"
+- name: "Fletcher"
+  url: "/tartans/f/fl/fletcher/"
 ---
 This is the **Fletcher #2** sett — one scale-free proportion (`t10k3t10k14r2g14k4`), colour order pattern
 [BKBKRGK](/stripes/bkbkrgk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db6k1db6k8r1g8k2/"><circle cx="148.2" cy="217.6" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8k2~x2/"><circle cx="148.2" cy="217.6" r="4" fill="#3465a4"><title>Fletcher Clan Tartan</title></circle></a><a href="/variants/s6/t6k6t18k18g22k5~x2/"><circle cx="137.7" cy="269.3" r="4" fill="#3465a4"><title>Campbell, The 42nd</title></circle></a><a href="/variants/s7/db1k1db6k6g6k1w1~x2/"><circle cx="131.6" cy="212.0" r="4" fill="#3465a4"><title>Forbes #4</title></circle></a><a href="/variants/s7/t10k3t10k14r2g14r5~x2/"><circle cx="100.4" cy="230.5" r="4" fill="#3465a4"><title>Fletcher of Dunans</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8r2/"><circle cx="135.8" cy="215.9" r="4" fill="#3465a4"><title>Fletcher C</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8r2~x2/"><circle cx="135.8" cy="215.9" r="4" fill="#3465a4"><title>Fletcher of Dunans Clan Tartan</title></circle></a><a href="/variants/s7/db4k3db16k14g14r3g3~x2/"><circle cx="127.0" cy="228.3" r="4" fill="#3465a4"><title>Inneryne (Personal)</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="145.6" cy="229.5" r="4" fill="#3465a4"><title>Murray (Variation) Clan Tartan</title></circle></a><a href="/variants/s6/r4g12k12g2db12g3~x2/"><circle cx="125.8" cy="238.4" r="4" fill="#3465a4"><title>Gunn - 1810 (Clan)</title></circle></a><circle cx="120.8" cy="227.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

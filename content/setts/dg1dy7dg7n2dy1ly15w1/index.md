@@ -1,6 +1,11 @@
 ---
 title: "Regalia"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Regalia"
+  url: "/tartans/r/re/regalia/"
 ---
 This is the **Regalia** sett — one scale-free proportion (`dg1dy7dg7n2dy1ly15w1`), colour order pattern
 [GGGBGYW](/stripes/gggbgyw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dg3ly2dg14ly1w10n14ly2n3~x2/"><circle cx="206.0" cy="205.4" r="4" fill="#3465a4"><title>Bannockbane Hunting (MacBean and Bishop)</title></circle></a><a href="/variants/s8/g4dy3g21dy2w14ly22dy3ly4~x2/"><circle cx="214.1" cy="219.1" r="4" fill="#3465a4"><title>Bannock Bane M.406</title></circle></a><a href="/variants/s7/dy17g5db2w12db2y4g7~x4~g2203152-db1106275/"><circle cx="145.7" cy="219.5" r="4" fill="#3465a4"><title>Northern Ontario</title></circle></a><a href="/variants/s8/r1ly1g6ly15do2ly1do6w1~x4/"><circle cx="273.7" cy="157.6" r="4" fill="#3465a4"><title>Connacht #2</title></circle></a><a href="/variants/s9/dg41ly3g7n3w24dg10g7n7w3~x2/"><circle cx="234.3" cy="167.2" r="4" fill="#3465a4"><title>Drummond of Perth Dress (Dance)</title></circle></a><a href="/variants/s7/dg4g3dg24w15ly21dgi3ly4~x2~g2408144-dgi1806142/"><circle cx="168.6" cy="216.5" r="4" fill="#3465a4"><title>Bannockbane Dark Green</title></circle></a><a href="/variants/s8/g2dy10g11y4dy1w18g2dy1~x2/"><circle cx="212.0" cy="184.3" r="4" fill="#3465a4"><title>Aviemore Check District Tartan</title></circle></a><a href="/variants/s6/w15ly98dy72r25dy8lg15~w3600000-lg2704216/"><circle cx="204.9" cy="186.3" r="4" fill="#3465a4"><title>Afternoon Tea / Milk Tea</title></circle></a><a href="/variants/s8/g2dy10g11ly4dy1w18g2dy1~x2/"><circle cx="210.9" cy="184.3" r="4" fill="#3465a4"><title>Aviemore Check (Fashion)</title></circle></a><a href="/variants/s8/do24g2do5ly14g2ly5dy17do2~x2/"><circle cx="264.1" cy="210.0" r="4" fill="#3465a4"><title>Loch Rannoch Trade Tartan</title></circle></a><circle cx="234.3" cy="177.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

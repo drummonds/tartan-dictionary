@@ -1,6 +1,13 @@
 ---
 title: "Waterford, County (District)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Waterford"
+  url: "/clan/waterford/"
+- name: "Waterford, County"
+  url: "/tartans/w/wa/waterford-county/"
 ---
 This is the **Waterford, County (District)** sett — one scale-free proportion (`dg24lo2g16db7do16r5`), colour order pattern
 [GYGBBR](/stripes/gygbbr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg42lo2g16db7do16r5~x2/"><circle cx="298.7" cy="180.4" r="4" fill="#3465a4"><title>Waterford, County</title></circle></a><a href="/variants/s6/g42y2b16db7do16r5~x2/"><circle cx="265.7" cy="170.8" r="4" fill="#3465a4"><title>Waterford</title></circle></a><a href="/variants/s6/lb3db17do16dt2dg17lo2~x2/"><circle cx="219.9" cy="245.9" r="4" fill="#3465a4"><title>Ancient Atlantic (Fashion)</title></circle></a><a href="/variants/s6/r4t19g10n10dy15y2~x2/"><circle cx="187.6" cy="249.4" r="4" fill="#3465a4"><title>Isle of Rona (District)</title></circle></a><a href="/variants/s7/o5dr8dp13dgi21dg34g55o3~dgi1104144/"><circle cx="236.7" cy="181.7" r="4" fill="#3465a4"><title>Lunting Papi (Personal)</title></circle></a><a href="/variants/s8/dg12dgi6r1dg6dgi4dp8dy2w2~x4~dg1403171-dgi1805151/"><circle cx="240.6" cy="211.5" r="4" fill="#3465a4"><title>Connelly Tartan</title></circle></a><a href="/variants/s6/w3dbi17o16db2dg17y2~x2~dbi1604274-db0805267/"><circle cx="160.0" cy="216.6" r="4" fill="#3465a4"><title>Atlantic, Ancient</title></circle></a><a href="/variants/s6/g3db12w1dg12r12dg2~x2/"><circle cx="179.0" cy="207.9" r="4" fill="#3465a4"><title>Patterson, John (Personal)</title></circle></a><a href="/variants/s7/dg12g6r1g10dp8y2w2~x4/"><circle cx="174.0" cy="199.7" r="4" fill="#3465a4"><title>Connelly, James (Personal)</title></circle></a><a href="/variants/s7/o10n3db1lb8db1lo2g5~x4/"><circle cx="170.2" cy="206.1" r="4" fill="#3465a4"><title>Porcupine City of</title></circle></a><circle cx="184.8" cy="221.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "O'Connor Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "O'Connor Dress"
+  url: "/tartans/o/o/o-connor-dress/"
 ---
 This is the **O'Connor Dress** sett — one scale-free proportion (`dy5r5lb11r1dy1`), colour order pattern
 [GRWRG](/stripes/grwrg/). It is recorded as **2 variants** — the same
@@ -23,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dy5r5lb11r1dy1~x4~r2806019-lb3203246/"><circle cx="278.7" cy="232.8" r="4" fill="#3465a4"><title>O'Connor Dress</title></circle></a><a href="/variants/s6/n56w30n8r10n3r20/"><circle cx="328.4" cy="201.5" r="4" fill="#3465a4"><title>Walsh, Michael Edward (Personal)</title></circle></a><a href="/variants/s5/db1r14g7db7r1~x4/"><circle cx="310.0" cy="219.5" r="4" fill="#3465a4"><title>Fraser of Boblainy, Hugh (Personal)</title></circle></a><a href="/variants/s6/w6g15db18r30g2r4~x2/"><circle cx="238.2" cy="195.0" r="4" fill="#3465a4"><title>Ruthven (V.S.)</title></circle></a><a href="/variants/s7/db3r25db17r5g22r9db3~x2/"><circle cx="260.4" cy="234.9" r="4" fill="#3465a4"><title>MacFadyan (MacGregor Hastie)</title></circle></a><a href="/variants/s5/r9db1g2db5w1~x12/"><circle cx="273.7" cy="213.8" r="4" fill="#3465a4"><title>McIntosh, Georgina (Personal)</title></circle></a><a href="/variants/s6/r1db6r1g6r12w1/"><circle cx="286.4" cy="193.0" r="4" fill="#3465a4"><title>Fraser VS</title></circle></a><a href="/variants/s6/r1db6r1g6r12w1~x2/"><circle cx="286.4" cy="193.0" r="4" fill="#3465a4"><title>Fraser VS</title></circle></a><a href="/variants/s5/r12g8r54db45g6/"><circle cx="321.4" cy="231.2" r="4" fill="#3465a4"><title>Wotherspoon Family Tartan</title></circle></a><a href="/variants/s4/r15g7db7r1~x4/"><circle cx="321.8" cy="236.0" r="4" fill="#3465a4"><title>Hugh Fraser of Boblainy</title></circle></a><circle cx="278.5" cy="227.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

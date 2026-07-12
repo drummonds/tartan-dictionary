@@ -1,6 +1,15 @@
 ---
 title: "Christian Hunting (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Christian"
+  url: "/clan/christian/"
+- name: "Christian"
+  url: "/families/christian/"
+- name: "Christian Hunting"
+  url: "/tartans/c/ch/christian-hunting/"
 ---
 This is the **Christian Hunting (Personal)** sett — one scale-free proportion (`r3g2db27k19g27dp2y3`), colour order pattern
 [GBGKBGR](/stripes/gbgkbgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db4k2db16k12w1g13r2g2y4~x2/"><circle cx="124.9" cy="136.8" r="4" fill="#3465a4"><title>Cusack</title></circle></a><a href="/variants/s7/r12db68w7k39g75r6g6/"><circle cx="149.5" cy="162.0" r="4" fill="#3465a4"><title>Rhun (Fashion)</title></circle></a><a href="/variants/s8/r2k8y1k8g13db13lo1r2~x2/"><circle cx="99.1" cy="148.0" r="4" fill="#3465a4"><title>Sey (Name)</title></circle></a><a href="/variants/s9/r1g3t1g5k1g1k9db12w1~x4~t2402222-db1004274/"><circle cx="124.5" cy="132.1" r="4" fill="#3465a4"><title>St Andrews Golf Club</title></circle></a><a href="/variants/s6/dr4k2db24k20g20lo3~x2/"><circle cx="129.2" cy="186.0" r="4" fill="#3465a4"><title>Loudoun's Highlanders</title></circle></a><a href="/variants/s7/w10k52db52dg24y10dg5r5/"><circle cx="109.7" cy="162.0" r="4" fill="#3465a4"><title>Harvey of Cornwall (Personal)</title></circle></a><a href="/variants/s6/dy2g12k10r1db16r2~x2/"><circle cx="156.4" cy="169.4" r="4" fill="#3465a4"><title>MacWilliam Clan Tartan</title></circle></a><a href="/variants/s9/y3k2r3db20k24g20r3k2lb3~x2/"><circle cx="105.8" cy="130.1" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/variants/s9/ly3k2r3db20k24g20r3k2lb3~x2/"><circle cx="101.9" cy="129.0" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/variants/s8/k6w3k2db30r9k4g20dy3~x2/"><circle cx="134.3" cy="129.4" r="4" fill="#3465a4"><title>Minnesota (District)</title></circle></a><circle cx="134.7" cy="149.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,13 @@
 ---
 title: "Inverness Caledonian Thistle F.C Corporate Weavers Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Inverness"
+  url: "/clan/inverness/"
+- name: "Inverness Caledonian Thistle F.C Corporate Weavers"
+  url: "/tartans/i/in/inverness-caledonian-thistle-f-c-corporate-weavers/"
 ---
 This is the **Inverness Caledonian Thistle F.C Corporate Weavers Tartan** sett — one scale-free proportion (`k21db3k12dr2db12k2db12w2`), colour order pattern
 [KBKBBKBW](/stripes/kbkbbkbw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k21db3k12r2db12k2db12w2~x2/"><circle cx="269.4" cy="182.1" r="4" fill="#3465a4"><title>Inverness Caledonian Thistle Football Club</title></circle></a><a href="/variants/s7/db5k2db14k14db2k2r2~x2/"><circle cx="304.4" cy="215.6" r="4" fill="#3465a4"><title>Royal Scotsman Train</title></circle></a><a href="/variants/s8/dg3k3db2k16db2k2db24lb2~x2/"><circle cx="306.5" cy="160.9" r="4" fill="#3465a4"><title>Auckland (Fashion)</title></circle></a><a href="/variants/s7/k2db9k2db9k13w1k2~x4/"><circle cx="303.4" cy="194.4" r="4" fill="#3465a4"><title>Swan 2015, Brian E (Personal)</title></circle></a><a href="/variants/s7/r4k21w2k20db21k2db2~x2/"><circle cx="298.3" cy="176.9" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/variants/s6/k6db17k6db17k27w3~x2/"><circle cx="282.6" cy="230.5" r="4" fill="#3465a4"><title>Swan, Brian E</title></circle></a><a href="/variants/s6/k7r2k33db33k2db7~x2/"><circle cx="349.5" cy="186.7" r="4" fill="#3465a4"><title>Casterton (Corporate)</title></circle></a><a href="/variants/s7/k1db12k12b1k12db12w1~x4/"><circle cx="284.0" cy="197.3" r="4" fill="#3465a4"><title>Marchmont</title></circle></a><a href="/variants/s7/db5w3db33k3db3k36db3~x2~w3600000/"><circle cx="328.6" cy="177.8" r="4" fill="#3465a4"><title>Argentina</title></circle></a><a href="/variants/s7/db5w3db33k3db3k36db3~x2/"><circle cx="324.0" cy="176.4" r="4" fill="#3465a4"><title>St. Andrew Soc. of River Plate (Corp</title></circle></a><circle cx="281.9" cy="188.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

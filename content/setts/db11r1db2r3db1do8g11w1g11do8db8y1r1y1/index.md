@@ -1,6 +1,13 @@
 ---
 title: "Allen Northumbrian Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Allen"
+  url: "/clan/allen/"
+- name: "Allen Northumbrian"
+  url: "/tartans/a/al/allen-northumbrian/"
 ---
 This is the **Allen Northumbrian Family Tartan** sett — one scale-free proportion (`db11r1db2r3db1do8g11w1g11do8db8y1r1y1`), colour order pattern
 [BRBRBBGWGBBGRG](/stripes/brbrbbgwgbbgrg/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db9n3db2lr2db9n6db3lr3db3g18dg8r2~x2/"><circle cx="155.4" cy="178.7" r="4" fill="#3465a4"><title>Patterson, William John Magee (Personal)</title></circle></a><a href="/variants/s13/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1~x4/"><circle cx="158.2" cy="186.3" r="4" fill="#3465a4"><title>Hash House Harriers Hunting (Corp)</title></circle></a><a href="/variants/s13/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1~x4~r2109032/"><circle cx="158.8" cy="186.5" r="4" fill="#3465a4"><title>Hash House Harriers Hunting</title></circle></a><a href="/variants/s12/db9n3db2w2db9n6db3w3db3g18dg8r2~x2/"><circle cx="138.4" cy="174.2" r="4" fill="#3465a4"><title>Patterson, William J.M. (Personal)</title></circle></a><a href="/variants/s11/r6g22dg8g4dg12g2dg18db8lb12db35ly4/"><circle cx="146.1" cy="157.1" r="4" fill="#3465a4"><title>Bruntsfield Links Golfing Society</title></circle></a><a href="/variants/s11/g10m2g2r4g16dp16r2b18y2b8r3~x2/"><circle cx="157.6" cy="182.0" r="4" fill="#3465a4"><title>Commonwealth Games 1998 (Corporate)</title></circle></a><a href="/variants/s11/w3db15r6db3r3db4dg11g3dg3g28lo3~x2/"><circle cx="155.0" cy="160.1" r="4" fill="#3465a4"><title>Wojtek Memorial Trust</title></circle></a><a href="/variants/s11/w3g28dg3g3dg11db4r3db3r6db15wi3~x2~w3502055-wi4000000/"><circle cx="152.5" cy="159.5" r="4" fill="#3465a4"><title>Wojtek Memorial Trust</title></circle></a><a href="/variants/s16/db6b2db2b2db2dg6g8dg1w2dg1g8o2dg4db8b2db2~x2/"><circle cx="123.0" cy="184.1" r="4" fill="#3465a4"><title>Forbes, of Druminnor</title></circle></a><a href="/variants/s12/y3g15r2db8lb2r8g8r2dg15r2dg2lb2~x2/"><circle cx="125.5" cy="180.3" r="4" fill="#3465a4"><title>Gordonstoun Corporate Tartan</title></circle></a><circle cx="150.8" cy="160.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

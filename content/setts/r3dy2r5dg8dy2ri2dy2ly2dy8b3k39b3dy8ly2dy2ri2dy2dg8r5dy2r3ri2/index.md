@@ -1,6 +1,15 @@
 ---
 title: "GRM"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan GRM"
+  url: "/clan/grm/"
+- name: "GRM"
+  url: "/families/grm/"
+- name: "GRM"
+  url: "/tartans/g/gr/grm/"
 ---
 This is the **GRM** sett — one scale-free proportion (`r3dy2r5dg8dy2ri2dy2ly2dy8b3k39b3dy8ly2dy2ri2dy2dg8r5dy2r3ri2`), colour order pattern
 [RGRGGRGYGBKBGYGRGGRGRR](/stripes/rgrggrgygbkbgygrggrgrr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/do28r3k2n2k2r3n8ly2k8ly5k3lyi2k2ly3k1~x2~ly2503076-lyi3104101/"><circle cx="166.8" cy="61.7" r="4" fill="#3465a4"><title>Caithness</title></circle></a><a href="/variants/s15/dy28r3k2n2k2r3n8ly2k8ly5k3lyi2k2ly3k1~x2~ly2503076-lyi3104101/"><circle cx="165.3" cy="61.9" r="4" fill="#3465a4"><title>Caithness (District)</title></circle></a><a href="/variants/s20/y10k2w3k6dy4k2lb8k2dy4k6lb3lg49ly4k42dy42y6dy6y6dy6y8~lb3203246-lg2702249/"><circle cx="80.3" cy="42.7" r="4" fill="#3465a4"><title>Whisky</title></circle></a><a href="/variants/s18/lr6k2dr40k16db6k2db4k2n4k2lb2k2n4db7k2n6db1dr4~x2~db1404245/"><circle cx="203.4" cy="41.8" r="4" fill="#3465a4"><title>Breeding</title></circle></a><a href="/variants/s22/db41r2k42w2g41r3y2r3g3r31k3y2r3k5r3y2k3r31db3r3y2r3~x2/"><circle cx="124.2" cy="46.1" r="4" fill="#3465a4"><title>Hay or Leith</title></circle></a><a href="/variants/s18/lr6k2dr40k16db6k2db4k2n4k2lb2k2n4db7k2n6db1dr4~x2/"><circle cx="200.7" cy="40.3" r="4" fill="#3465a4"><title>Breeding (Name)</title></circle></a><a href="/variants/s17/k2g2k1g2k1g2k1g12db4k3db3k3db3k3db4dp24r2~x2/"><circle cx="145.7" cy="68.9" r="4" fill="#3465a4"><title>Rendell, Charles</title></circle></a><a href="/variants/s20/db24ly1r2dg2r2ly1k24dg24w2db2w2dg24k24ly1r2dg2r2ly1db24dg2~x2~db1204274-ly3307090-dg1802166/"><circle cx="142.3" cy="67.4" r="4" fill="#3465a4"><title>Smithsonian</title></circle></a><a href="/variants/s11/dr64t12k16lo2k4lb3g32dr8k4dr3lb2~x2/"><circle cx="159.1" cy="53.4" r="4" fill="#3465a4"><title>Stewart/Stuart, Royal (No black line)</title></circle></a><a href="/variants/s23/k3r1y1k2r16dp2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/"><circle cx="104.7" cy="42.6" r="4" fill="#3465a4"><title>Hay, or Leith</title></circle></a><circle cx="130.3" cy="46.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

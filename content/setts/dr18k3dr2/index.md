@@ -1,6 +1,15 @@
 ---
 title: "Buie"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Buie"
+  url: "/clan/buie/"
+- name: "Buie"
+  url: "/families/buie/"
+- name: "Buie"
+  url: "/tartans/b/bu/buie/"
 ---
 This is the **Buie** sett — one scale-free proportion (`dr18k3dr2`), colour order pattern
 [BKB](/stripes/bkb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/r18k3r2~x4/"><circle cx="565.4" cy="219.5" r="4" fill="#3465a4"><title>Buie</title></circle></a><a href="/variants/s4/r2k50n2r1~x2/"><circle cx="626.0" cy="116.9" r="4" fill="#3465a4"><title>Galloway Family</title></circle></a><a href="/variants/s5/r27w3r6w2dg3~x4~r1506028/"><circle cx="521.1" cy="181.7" r="4" fill="#3465a4"><title>Martin Family, Robert N Personal Tartan</title></circle></a><a href="/variants/s5/r12w1r2o1n3~x4~o2500000-n1900000/"><circle cx="516.4" cy="196.2" r="4" fill="#3465a4"><title>Glen Shee Plaid (Fashion)</title></circle></a><a href="/variants/s2/dr9lr1~x20/"><circle cx="626.0" cy="312.6" r="4" fill="#3465a4"><title>Roddy &quot;Rowdy&quot; Piper (Personal)</title></circle></a><a href="/variants/s5/dy1r9db2r9db1~x4/"><circle cx="554.3" cy="226.9" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Red</title></circle></a><a href="/variants/s5/db1dr9db2dr9ly1~x4/"><circle cx="621.7" cy="274.0" r="4" fill="#3465a4"><title>Brooks Bros Tattersall Red (Fashion)</title></circle></a><a href="/variants/s3/dr8w1k1~x20/"><circle cx="472.4" cy="219.6" r="4" fill="#3465a4"><title>International Karate Fed. (Corporat)</title></circle></a><a href="/variants/s3/r1n19w1~x2/"><circle cx="626.0" cy="223.8" r="4" fill="#3465a4"><title>Dunbar of Pitgaveny Family Tartan</title></circle></a><a href="/variants/s4/k12dr7k1dr9~x4/"><circle cx="395.1" cy="273.4" r="4" fill="#3465a4"><title>Lendrum (Black &amp; Red) or MacFarlane</title></circle></a><circle cx="626.0" cy="265.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

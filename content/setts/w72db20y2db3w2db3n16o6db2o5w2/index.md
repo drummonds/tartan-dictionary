@@ -1,6 +1,15 @@
 ---
 title: "Stewart dress, Blue"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Stewart"
+  url: "/clan/stewart/"
+- name: "Stewart"
+  url: "/families/stewart/"
+- name: "Stewart dress"
+  url: "/tartans/s/st/stewart-dress-6/"
 ---
 This is the **Stewart dress, Blue** sett — one scale-free proportion (`w72db20y2db3w2db3n16o6db2o5w2`), colour order pattern
 [WBGBWBBRBRW](/stripes/wbgbwbbrbrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w72db20y2db3w2db3n16dy6db2dy5w2~x2/"><circle cx="330.7" cy="85.5" r="4" fill="#3465a4"><title>Stuart/Stewart Dress Blue</title></circle></a><a href="/variants/s10/w55dg12r2dg3w2g10dp9dg2dp6w2~x2/"><circle cx="294.1" cy="91.0" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/variants/s10/w49dg11r2dg3w2do10m9dg2m6w2~x2/"><circle cx="278.0" cy="95.0" r="4" fill="#3465a4"><title>Strathyre dress</title></circle></a><a href="/variants/s12/k3w2k1w40lb17dp5y3w2dp9lb1dp2lb3~x2/"><circle cx="259.1" cy="64.6" r="4" fill="#3465a4"><title>Allandale Blue Dress Tartan</title></circle></a><a href="/variants/s11/w102dp20w4dp4w4dp4dg20r18dp3r10w4/"><circle cx="334.4" cy="84.9" r="4" fill="#3465a4"><title>Grotto Dove (Dance)</title></circle></a><a href="/variants/s12/w63k4lb9y2lb4y2lb4o11r8lb2r4w5~x2/"><circle cx="300.3" cy="57.4" r="4" fill="#3465a4"><title>Seller, Sillar</title></circle></a><a href="/variants/s10/w55dp12ly2dp3w2g10dpi9dp2dpi6w2~x2~dp1105325-dpi1607327/"><circle cx="321.3" cy="103.8" r="4" fill="#3465a4"><title>Stewart Dress, Purple (Dance)</title></circle></a><a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2~r2806019/"><circle cx="248.6" cy="97.7" r="4" fill="#3465a4"><title>Barra Fuschia</title></circle></a><a href="/variants/s11/w72yi20y2db3w2yi3n16dy6yi2dy5w2~x2~yi2402194-db1204274/"><circle cx="327.3" cy="77.0" r="4" fill="#3465a4"><title>Stewart Blue Dress Clan Tartan</title></circle></a><a href="/variants/s7/w60r1db10r22db3ri3g1~x2~r1807008-ri2109032/"><circle cx="349.7" cy="84.2" r="4" fill="#3465a4"><title>Aviemore Dress Tartan</title></circle></a><circle cx="314.3" cy="72.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

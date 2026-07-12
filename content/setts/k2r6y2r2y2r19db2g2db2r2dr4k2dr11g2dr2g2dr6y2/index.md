@@ -1,6 +1,15 @@
 ---
 title: "Harmon (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Harmon"
+  url: "/clan/harmon/"
+- name: "Harmon"
+  url: "/families/harmon/"
+- name: "Harmon"
+  url: "/tartans/h/ha/harmon/"
 ---
 This is the **Harmon (Personal)** sett — one scale-free proportion (`k2r6y2r2y2r19db2g2db2r2dr4k2dr11g2dr2g2dr6y2`), colour order pattern
 [GBGBGBKBRBGBRGRGRK](/stripes/gbgbgbkbrbgbrgrgrk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/k2r6ly2r2ly2r19db2g2db2r2dr4k2dr11g2dr2g2dr6ly2~x2/"><circle cx="150.9" cy="105.2" r="4" fill="#3465a4"><title>Harmon (Name)</title></circle></a><a href="/variants/s18/k2lr6y2lr2y2lr19t2dg2t2lr2dr4k2dr11dg2dr2dg2dr6y2~x2~dg1502166/"><circle cx="132.2" cy="104.9" r="4" fill="#3465a4"><title>Harmon Dress</title></circle></a><a href="/variants/s19/k2lr6y2lr2y2lr19db2g2db2lr2dr4k2dr11g2dr2g2dr11g2y2~x2/"><circle cx="116.8" cy="103.1" r="4" fill="#3465a4"><title>Harmon Dress (Personal)</title></circle></a><a href="/variants/s19/k2lr6y2lr2y2lr19db2dg2db2lr2dr4k2dr11dg2dr2dg2dr11dg2y2~x2~db1406275-dg1806142/"><circle cx="119.2" cy="103.4" r="4" fill="#3465a4"><title>Harmon Dress Name Tartan</title></circle></a><a href="/variants/s15/ri7r5dr5ri31k9dr4r3ri5r3dr4g30ri4r3dr5ri5~x2~ri2209032-r2208029/"><circle cx="184.8" cy="125.9" r="4" fill="#3465a4"><title>MacDougall (Kinloch Anderson)</title></circle></a><a href="/variants/s15/ri7b5r5ri31k9r4b3ri5b3r4g30ri4b3r5ri5~x2~ri2008029-r1506028/"><circle cx="184.2" cy="127.9" r="4" fill="#3465a4"><title>MacDougall 3</title></circle></a><a href="/variants/s13/y1k1r8db1r1dg8r1db8r1dg1r8k1w1~x6/"><circle cx="170.2" cy="125.2" r="4" fill="#3465a4"><title>Robieson</title></circle></a><a href="/variants/s16/k2db12r12db2r2lb2r2lb2r12db6r2dg12k2y1r1y1~x2/"><circle cx="155.9" cy="109.3" r="4" fill="#3465a4"><title>Catalan Dance</title></circle></a><a href="/variants/s15/dy1r1k1ly1r21k1dy12ly1y7g3dy6k1ly1k1r1~x2/"><circle cx="193.6" cy="68.4" r="4" fill="#3465a4"><title>Purdy, R Scott (Personal)</title></circle></a><a href="/variants/s15/db1y3r3k2db8y3r2k1r2y3g8w1k1r12w1~x2/"><circle cx="110.6" cy="114.7" r="4" fill="#3465a4"><title>MacPherson #2</title></circle></a><circle cx="169.1" cy="110.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

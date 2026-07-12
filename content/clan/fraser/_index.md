@@ -1,6 +1,9 @@
 ---
 title: "Clan Fraser"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 **Territory:** The Aird & Stratherrick · **1745 strength:** 700 men
 

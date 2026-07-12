@@ -1,6 +1,15 @@
 ---
 title: "Alberta"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Alberta"
+  url: "/clan/alberta/"
+- name: "Alberta"
+  url: "/families/alberta/"
+- name: "Alberta"
+  url: "/tartans/a/al/alberta/"
 ---
 This is the **Alberta** sett — one scale-free proportion (`g50k4dy6db28dy1db1dy1db1dy1db1dy1db1dy1db1dy1db1dy8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16`), colour order pattern
 [BGKBKBKBKBKBKBKBKGKGBGBGBGBGBGBGBGKG](/stripes/bgkbkbkbkbkbkbkbkgkgbgbgbgbgbgbgbgkg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s36/g52k4dy6db14dy1db1dy1db1dy1db1dy1db1dy1db1dy1db1dy8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16~x2/"><circle cx="183.8" cy="14.0" r="4" fill="#3465a4"><title>Canadian Centennial #3</title></circle></a><a href="/variants/s36/g50db16g8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40g12k24ly8db1ly1db1ly1db1ly1db1ly1db1ly1db1ly1db28ly6k4/"><circle cx="183.7" cy="17.7" r="4" fill="#3465a4"><title>Manitoba (Commemorative)</title></circle></a><a href="/variants/s36/g52k4o6db28o1db1o1db1o1db1o1db1o1db1o1db1o8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16~x2/"><circle cx="207.4" cy="18.5" r="4" fill="#3465a4"><title>13, Centennial Warp</title></circle></a><a href="/variants/s18/db60k2db2k2db5k15db5g20r2k3r2g20db5k15g5db20k2g4~x2/"><circle cx="187.7" cy="49.3" r="4" fill="#3465a4"><title>Whitworth (2003)</title></circle></a><a href="/variants/s30/g10y3g3y1k2r2k2y1g3y3g10db21k2db2k2db21k15g15r2g15k15db2k2db2k2db31k2db2k2db2~x2/"><circle cx="185.6" cy="55.5" r="4" fill="#3465a4"><title>Dundee Discovery</title></circle></a><a href="/variants/s19/dy2dg1dy2dg1lb1dg1lb8k40dy5dg40lb10dg1lb5k15dg1lb7dg1lb1dg1~x2/"><circle cx="210.9" cy="51.5" r="4" fill="#3465a4"><title>Shepherd, Derek (Modern)</title></circle></a><a href="/variants/s36/ly50dg16ly8k8dg1k1dg1k1dg1k1dg1k1dg1k1dg1k1dg20k40ly12k24r8dg1r1dg1r1dg1r1dg1r1dg1r1dg1r1dg28r6k4~ly3104101-r2109032/"><circle cx="175.4" cy="14.0" r="4" fill="#3465a4"><title>New Brunswick (CIDD 28101)</title></circle></a><a href="/variants/s20/lb3k18lb5k5dgi6g1k6dg3dgi6dg50dgi6dg3k6g1dgi6k5lb5k18lb3g1~x2~dgi1806142-g2408144/"><circle cx="197.3" cy="45.0" r="4" fill="#3465a4"><title>Undiscovered Scotland</title></circle></a><circle cx="216.0" cy="23.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

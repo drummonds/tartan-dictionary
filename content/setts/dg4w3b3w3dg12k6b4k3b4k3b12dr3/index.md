@@ -1,6 +1,11 @@
 ---
 title: "Scotch House (Dalgliesh)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Scotch House"
+  url: "/tartans/s/sc/scotch-house-2/"
 ---
 This is the **Scotch House (Dalgliesh)** sett — one scale-free proportion (`dg4w3b3w3dg12k6b4k3b4k3b12dr3`), colour order pattern
 [BBKBKBKGWBWG](/stripes/bbkbkbkgwbwg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db13k3db3k3db3k10lb10w4r4w4lb10k10db14k3db3~x2/"><circle cx="62.5" cy="190.2" r="4" fill="#3465a4"><title>Palatine Union Personal Tartan</title></circle></a><a href="/variants/s12/r3lb3r3lb12k6g3k4db16k4g3k6lb3~x2/"><circle cx="46.9" cy="182.1" r="4" fill="#3465a4"><title>Trinity Presbyterian Church</title></circle></a><a href="/variants/s12/r1k1db4w1db1w1db4k1r1k1g4y1~x4/"><circle cx="70.4" cy="177.5" r="4" fill="#3465a4"><title>Dunedin District (NZ) Tartan</title></circle></a><a href="/variants/s14/g12k5db18k5w5k5db18k3db6k3db6k5g12r5~x2/"><circle cx="117.1" cy="185.0" r="4" fill="#3465a4"><title>Encyclopaedia Britannica (Corporate)</title></circle></a><a href="/variants/s14/w5k5db25k16g18k4g5k4g18k16db25r5db5w5/"><circle cx="78.7" cy="177.7" r="4" fill="#3465a4"><title>Arndt (Personal)</title></circle></a><a href="/variants/s14/db18k3db6k3db6k5g12r4g12k5db18k4w5k4~x2/"><circle cx="127.0" cy="181.4" r="4" fill="#3465a4"><title>Encyclopaedia Britannica</title></circle></a><a href="/variants/s10/db4w1dy1k2db4dy2w1dy1w1dy1~x4/"><circle cx="131.4" cy="224.5" r="4" fill="#3465a4"><title>City of Pointe-Claire</title></circle></a><a href="/variants/s8/lr8g33k21db6k6db33r6db6/"><circle cx="110.6" cy="199.8" r="4" fill="#3465a4"><title>Royal Highland Corporate Tartan</title></circle></a><a href="/variants/s15/g6k3g7r3g6k13db13k3db13k13g3w3g6k3r4~x2/"><circle cx="58.1" cy="195.1" r="4" fill="#3465a4"><title>MacRae #2</title></circle></a><a href="/variants/s10/db1r1db1r1db4k4g4r1g1y1~x4/"><circle cx="64.4" cy="207.7" r="4" fill="#3465a4"><title>Logan, or MacLennan</title></circle></a><circle cx="76.2" cy="206.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

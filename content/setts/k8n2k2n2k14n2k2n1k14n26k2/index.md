@@ -1,6 +1,11 @@
 ---
 title: "Grey Pride of Scotland (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Grey Pride of Scotland"
+  url: "/tartans/g/gr/grey-pride-of-scotland/"
 ---
 This is the **Grey Pride of Scotland (Fashion)** sett — one scale-free proportion (`k8n2k2n2k14n2k2n1k14n26k2`), colour order pattern
 [KBKBKBKBKBK](/stripes/kbkbkbkbkbk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k4w14k2w4k8w3k30w2k4w4~x2/"><circle cx="356.0" cy="157.7" r="4" fill="#3465a4"><title>Kinloch Anderson Black and White</title></circle></a><a href="/variants/s10/n45k17n6k17n6k17n6k17n45k4~x2/"><circle cx="338.7" cy="197.1" r="4" fill="#3465a4"><title>Grey Spirit</title></circle></a><a href="/variants/s11/k68n11k16n4k4n4k4n19k14w4k14/"><circle cx="416.0" cy="124.0" r="4" fill="#3465a4"><title>Stewart Mourning</title></circle></a><a href="/variants/s10/m2n3m1n9k4n13k33n1k4m1~x2/"><circle cx="351.5" cy="101.2" r="4" fill="#3465a4"><title>Myles, Lee</title></circle></a><a href="/variants/s8/k16n1k1n1k8n16k1n2~x2/"><circle cx="357.7" cy="169.7" r="4" fill="#3465a4"><title>Douglas VS</title></circle></a><a href="/variants/s13/k11n2k11n20w2n20k7n1k7n1k7n11w1~x2/"><circle cx="295.5" cy="148.8" r="4" fill="#3465a4"><title>Westwood MacRock (Fashion)</title></circle></a><a href="/variants/s9/n14k19n14k6n14k6n14k47n6/"><circle cx="309.3" cy="217.6" r="4" fill="#3465a4"><title>Grey Breton</title></circle></a><a href="/variants/s7/k17n4k13n4k3n45k3~x2/"><circle cx="363.8" cy="170.9" r="4" fill="#3465a4"><title>Black Spirit Fashion Tartan</title></circle></a><a href="/variants/s6/k13n2k13n31k1n1~x4/"><circle cx="378.9" cy="160.7" r="4" fill="#3465a4"><title>Silver Mist (Corporate)</title></circle></a><a href="/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/"><circle cx="392.4" cy="128.5" r="4" fill="#3465a4"><title>Witches' Blood, The</title></circle></a><circle cx="355.4" cy="132.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

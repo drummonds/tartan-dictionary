@@ -7,7 +7,7 @@ background: /bg/clans.png
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/families/jackson/"><img src="/variants/s8/g5y2dp40w1db15w1db1w1~x2/sett.png" alt="Jackson" width="140"><br><strong>Jackson</strong></a></li>
-<li><a class="tartan" href="/families/jacobite/"><img src="/variants/s17/r16do4w6r6w20do15g4dy15w1do3w1dy5r6g4w3db3w3~x2/sett.png" alt="Jacobite" width="140"><br><strong>Jacobite</strong></a></li>
+<li><a class="tartan" href="/families/jacobite/"><img src="/variants/s32/r2db2w1y8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1y8w1db2r2w1~x4~r2109032/sett.png" alt="Jacobite" width="140"><br><strong>Jacobite</strong></a></li>
 <li><a class="tartan" href="/families/jahore/"><img src="/variants/s5/db20k5db18y26k6~x2/sett.png" alt="Jahore" width="140"><br><strong>Jahore</strong></a></li>
 <li><a class="tartan" href="/families/james/"><img src="/variants/s7/r2k6y1dg12y1db6lr2~x4~db1305279-lr3200000/sett.png" alt="James" width="140"><br><strong>James</strong></a></li>
 <li><a class="tartan" href="/families/james-of-glencarr/"><img src="/variants/s8/db8r8dg17w3r35db10dg15w3~x2/sett.png" alt="James of Glencarr" width="140"><br><strong>James of Glencarr</strong></a></li>
@@ -25,7 +25,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/jewish/"><img src="/variants/s11/w3dbi3w1db44o1db2o1dr4o1db5ly2~x2~dbi1409278-db1404245-o2500000/sett.png" alt="Jewish" width="140"><br><strong>Jewish</strong></a></li>
 <li><a class="tartan" href="/variants/s7/k3dy3ly6k12dyi1n2dy2~x4~dy1303057-dyi1803076/"><strong>Joe Strummer Commemorative</strong></a></li>
 <li><a class="tartan" href="/variants/s7/g5k2g28k10dy26db4g4~x2/"><strong>John Telfar Dunbar Hunting</strong></a></li>
-<li><a class="tartan" href="/families/johnston/"><img src="/variants/s18/k3db3k3db18g20k3g3y3g3k3g20lb3db3lb3db3lb12db3lb3~x2/sett.png" alt="Johnston" width="140"><br><strong>Johnston</strong></a></li>
+<li><a class="tartan" href="/families/johnston/"><img src="/variants/s8/y3g2k1g30t24k2t2k2~x2/sett.png" alt="Johnston" width="140"><br><strong>Johnston</strong></a></li>
 <li><a class="tartan" href="/clan/johnstons/"><img src="/variants/s16/dt8o6dt12t5dy14dt8r14dt25r14dt8dy14t5dt12o6dt8lb2~x2/sett.png" alt="Johnstons" width="140"><br><strong>Johnstons</strong></a><div class="clan-territory">clan</div></li>
 <li><a class="tartan" href="/families/johnstons-of-elgin-bicentennial/"><img src="/variants/s16/dt8o6dt12t5dy14dt8r14dt25r14dt8dy14t5dt12o6dt8lb2~x2/sett.png" alt="Johnstons of Elgin Bicentennial" width="140"><br><strong>Johnstons of Elgin Bicentennial</strong></a></li>
 <li><a class="tartan" href="/families/johnstons-of-elgin-bicentennial-com/"><img src="/variants/s9/dt25r14dt8dy14t5dt12o6dt8lb2~x2/sett.png" alt="Johnstons of Elgin Bicentennial (Com" width="140"><br><strong>Johnstons of Elgin Bicentennial (Com</strong></a></li>
@@ -41,5 +41,5 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/jubilation/"><img src="/variants/s14/r11w13db30w13db11w2db8w2db11w13db30w13r11db2~x2/sett.png" alt="Jubilation" width="140"><br><strong>Jubilation</strong></a></li>
 <li><a class="tartan" href="/families/jubilee/"><img src="/variants/s17/g3lb24g8lb12g44dr6g44lb48g6lb48g44lo6g44lb12g8lb24g3/sett.png" alt="Jubilee" width="140"><br><strong>Jubilee</strong></a></li>
 <li><a class="tartan" href="/families/junor/"><img src="/variants/s16/r9lb2db2lb2db11y2db6r72db6y2db11lb2db2lb2r9k2~x2/sett.png" alt="Junor" width="140"><br><strong>Junor</strong></a></li>
-<li><a class="tartan" href="/families/justus/"><img src="/variants/s7/b1lr4dr1lr1lo1lr4b1~x12/sett.png" alt="Justus" width="140"><br><strong>Justus</strong></a></li>
+<li><a class="tartan" href="/families/justus/"><img src="/variants/s7/db1k4dr1k1lo1k4db1~x12/sett.png" alt="Justus" width="140"><br><strong>Justus</strong></a></li>
 </ul>

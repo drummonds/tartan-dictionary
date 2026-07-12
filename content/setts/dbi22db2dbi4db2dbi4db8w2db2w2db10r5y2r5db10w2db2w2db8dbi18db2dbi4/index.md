@@ -1,6 +1,11 @@
 ---
 title: "Tartan Army Corporate/Sport Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Tartan Army Corporate/Sport"
+  url: "/tartans/t/ta/tartan-army-corporate-sport/"
 ---
 This is the **Tartan Army Corporate/Sport Tartan** sett — one scale-free proportion (`dbi22db2dbi4db2dbi4db8w2db2w2db10r5y2r5db10w2db2w2db8dbi18db2dbi4`), colour order pattern
 [BBBBBBWBWBRGRBWBWBBBB](/stripes/bbbbbbwbwbrgrbwbwbbbb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/t22db2t4db2t4db8w2db2w2db10r5y2r5db10w2db2w2db8t18db2t4~x2/"><circle cx="216.5" cy="143.8" r="4" fill="#3465a4"><title>Tartan Army</title></circle></a><a href="/variants/s16/db4dt24db6r3db4g3db8w3db8g3db4r3db6dt24db4dt3~x2~db1406275/"><circle cx="292.4" cy="185.8" r="4" fill="#3465a4"><title>Scozia</title></circle></a><a href="/variants/s8/b26w2b3db15n26r2n3db4~x2/"><circle cx="291.0" cy="171.8" r="4" fill="#3465a4"><title>Scottish Highlander Universal Tartan</title></circle></a><a href="/variants/s19/g2db5g3r2db11r2db11dg18db11r2db11r2g3r11db3dg5db3r5b2~x2~r1707016-dg1503171/"><circle cx="277.4" cy="187.8" r="4" fill="#3465a4"><title>Jorgensen of Taasinge Family Tartan</title></circle></a><a href="/variants/s11/db4n32db4n4db32m6db32dg4db3dg32w4/"><circle cx="289.0" cy="189.0" r="4" fill="#3465a4"><title>American Society of Travel Agents, The (2001)</title></circle></a><a href="/variants/s16/g10db10r1db10n1db1n10db2n10db1n1db10r1db10g10w2~x2/"><circle cx="246.3" cy="182.5" r="4" fill="#3465a4"><title>American Soc of Travel Agents Corporate Tartan</title></circle></a><a href="/variants/s17/r2lb8dbi1lb4dbi2lb3dbi3lb1dbi15db1dbi4db2dbi2db4dbi1db9w2~x2~dbi1406275-db1404245/"><circle cx="229.3" cy="146.3" r="4" fill="#3465a4"><title>Pride of Lorient (Fashion)</title></circle></a><a href="/variants/s15/db6y2yi24db4yi8db6yi6db8yi3db10n14db4r3db34lb4~yi2400000-n1700000/"><circle cx="298.8" cy="139.1" r="4" fill="#3465a4"><title>MatchPoint Dress</title></circle></a><a href="/variants/s15/db6dy2o24db4o8db6o6db6o3db10n14db4r3db34lb4~o2500000-n1900000/"><circle cx="283.7" cy="132.6" r="4" fill="#3465a4"><title>Matchpoint Dress</title></circle></a><a href="/variants/s13/dg25o2db25lo5dg3dp3dg3lo5db25o2dg27dp5dg2~x2/"><circle cx="284.6" cy="163.7" r="4" fill="#3465a4"><title>Kilkenny Irish County Tartan</title></circle></a><circle cx="257.3" cy="154.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

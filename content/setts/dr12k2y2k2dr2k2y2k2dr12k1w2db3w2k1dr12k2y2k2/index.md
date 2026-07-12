@@ -1,6 +1,11 @@
 ---
 title: "City of New Bern 300"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "City of New Bern 300"
+  url: "/tartans/c/ci/city-of-new-bern-300/"
 ---
 This is the **City of New Bern 300** sett — one scale-free proportion (`dr12k2y2k2dr2k2y2k2dr12k1w2db3w2k1dr12k2y2k2`), colour order pattern
 [BKGKBKGKBKWBWKBKGK](/stripes/bkgkbkgkbkwbwkbkgk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dr12k2ly2k2dr2k2ly2k2dr12k9dr12k2ly2k2~x2/"><circle cx="271.9" cy="127.1" r="4" fill="#3465a4"><title>City of New Bern 300 (District)</title></circle></a><a href="/variants/s12/k2lr1dr2g6dr2db4dr2k2dr15g2dr2k1~x4/"><circle cx="273.3" cy="119.8" r="4" fill="#3465a4"><title>MacClure Clan/Family Tartan</title></circle></a><a href="/variants/s18/k36dg2k2dg2k18o18k3w3k3o18k18dg2k2dg2k18o18k3r3~x2/"><circle cx="267.6" cy="87.8" r="4" fill="#3465a4"><title>Chapman (Personal)</title></circle></a><a href="/variants/s12/ly4k2dr7k15dr3k3dr3k7dr28g7dr6g2~x2/"><circle cx="277.2" cy="142.6" r="4" fill="#3465a4"><title>Walker, Evening (Name)</title></circle></a><a href="/variants/s12/dr16dg4k3ly1k2lr1k3dg4dr4k1dr4lr1~x4/"><circle cx="286.0" cy="125.2" r="4" fill="#3465a4"><title>Unidentified #53</title></circle></a><a href="/variants/s15/dr6k2dr2k4dr2k2dr6g18dr2lo1dr2k2dr10w1dr2~x4/"><circle cx="246.4" cy="108.5" r="4" fill="#3465a4"><title>Ainslie #2</title></circle></a><a href="/variants/s12/dy3k19n2k2n2k2n18k3db3k3n23r3~x2/"><circle cx="254.2" cy="126.0" r="4" fill="#3465a4"><title>MacInnes Homecoming</title></circle></a><a href="/variants/s11/r9k3r9k2t4k4dp4k3dp2k32g6~x2/"><circle cx="245.5" cy="101.0" r="4" fill="#3465a4"><title>Brotherhood of Dirk (Corporate)</title></circle></a><a href="/variants/s19/k2w2k15dp5n5dp10lb2dp10n5dp5n30k2n4k2n30dp4n4k15w2~x2/"><circle cx="226.2" cy="105.8" r="4" fill="#3465a4"><title>Un-named fashion (2013)</title></circle></a><a href="/variants/s11/r9k3r9k2b4k4dp4k3dp2k32g6~x2/"><circle cx="246.0" cy="100.7" r="4" fill="#3465a4"><title>Brotherhood of Dirk, The</title></circle></a><circle cx="254.8" cy="108.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

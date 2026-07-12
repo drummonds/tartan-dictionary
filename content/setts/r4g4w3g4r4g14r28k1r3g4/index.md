@@ -1,6 +1,15 @@
 ---
 title: "Scott - 1842 (Clan)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Scott"
+  url: "/clan/scott/"
+- name: "Scott"
+  url: "/families/scott/"
+- name: "Scott"
+  url: "/tartans/s/sc/scott-6/"
 ---
 This is the **Scott - 1842 (Clan)** sett — one scale-free proportion (`r4g4w3g4r4g14r28k1r3g4`), colour order pattern
 [GRKRGRGWGR](/stripes/grkrgrgwgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r4g4w3g4r4g14r28k2r2g3~x2/"><circle cx="316.3" cy="136.7" r="4" fill="#3465a4"><title>Scott Red Clan Tartan</title></circle></a><a href="/variants/s11/r96g24r10g12k1w4k1g12r10g24r48~x2/"><circle cx="456.7" cy="85.9" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s10/g6w1g12r4db4r2k4r32g1r2~x2/"><circle cx="328.6" cy="77.6" r="4" fill="#3465a4"><title>Seton Family Tartan</title></circle></a><a href="/variants/s12/g4r3k1r28g14r4g4w3g4r4g4w3~x2~w4000000/"><circle cx="307.1" cy="106.6" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s9/r5g20r5g3r4g5r36do2w4~x2~w4000000/"><circle cx="381.1" cy="149.1" r="4" fill="#3465a4"><title>Baluch Regiment (Old Count)</title></circle></a><a href="/variants/s9/r5g20r5g3r4g5r36do2w4~x2/"><circle cx="382.4" cy="149.5" r="4" fill="#3465a4"><title>Baluch Regiment (Military)</title></circle></a><a href="/variants/s10/r4g8w1g8r4g4r2g4r24k2~x2/"><circle cx="337.8" cy="125.7" r="4" fill="#3465a4"><title>Cumming Clan Tartan</title></circle></a><a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x4/"><circle cx="368.4" cy="165.1" r="4" fill="#3465a4"><title>MacPhie/Macfie</title></circle></a><a href="/variants/s9/y1r12g2r1g16r1g2r12w1/"><circle cx="368.4" cy="165.1" r="4" fill="#3465a4"><title>MacFie</title></circle></a><a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x2/"><circle cx="368.4" cy="165.1" r="4" fill="#3465a4"><title>MacPhee MacFie Clan Tartan</title></circle></a><circle cx="350.3" cy="114.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

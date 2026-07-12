@@ -1,6 +1,13 @@
 ---
 title: "Australian Defence Force Academy (Co"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Australian"
+  url: "/clan/australian/"
+- name: "Australian Defence Force Academy (Co"
+  url: "/tartans/a/au/australian-defence-force-academy-co/"
 ---
 This is the **Australian Defence Force Academy (Co** sett — one scale-free proportion (`g3k1lb34k2w2k2y2k2r2db8r2g2k1lb2r2`), colour order pattern
 [GKWKWKGKRBRGKWR](/stripes/gkwkwkgkrbrgkwr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lb57db4k8y4k4lb4k4g8r6k4r4lb2/"><circle cx="256.4" cy="44.5" r="4" fill="#3465a4"><title>Stuart/Stewart Royal variant</title></circle></a><a href="/variants/s12/w2db32lb11w4k11dy7lo11n11w4n4w76lb2/"><circle cx="185.4" cy="37.2" r="4" fill="#3465a4"><title>Antarctic</title></circle></a><a href="/variants/s10/n73k9ly3k5n13w3lb7k5w7r16~n2303265/"><circle cx="221.9" cy="64.4" r="4" fill="#3465a4"><title>Ambulance Victoria (Corporate)</title></circle></a><a href="/variants/s15/g3db1lb34db2w2db2y2db2r2dbi8r2g3db1lb2r2~x2~db1003265-dbi1208266/"><circle cx="256.7" cy="34.5" r="4" fill="#3465a4"><title>Australian Defence Force Academy, The</title></circle></a><a href="/variants/s12/w36db5k5y1k1w1k1g8r4k1r2w1/"><circle cx="254.8" cy="31.0" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1~x2/"><circle cx="254.8" cy="30.6" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1/"><circle cx="254.8" cy="30.6" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/variants/s11/lr64db18lb2db3lr2db3t14b8k2b4lr2~x2~lb3005267-b2409265/"><circle cx="287.3" cy="55.7" r="4" fill="#3465a4"><title>Bennet Dress (Fashion)</title></circle></a><a href="/variants/s14/y3lb2k1lb24k2lb2k2lb2k2g8dp2g8k1w2~x2/"><circle cx="202.9" cy="68.5" r="4" fill="#3465a4"><title>Alexander-Johnstone (Personal)</title></circle></a><a href="/variants/s14/dr2w24t3w3k6lo1k1w1k1g8dr4k1dr2w1~x4/"><circle cx="186.0" cy="57.2" r="4" fill="#3465a4"><title>Stewart Victoria (Royal)</title></circle></a><circle cx="221.7" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

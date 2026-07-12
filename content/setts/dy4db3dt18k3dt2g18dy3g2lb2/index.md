@@ -1,6 +1,11 @@
 ---
 title: "Tombow 21st School Memorial"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Tombow 21st School Memorial"
+  url: "/tartans/t/to/tombow-21st-school-memorial/"
 ---
 This is the **Tombow 21st School Memorial** sett — one scale-free proportion (`dy4db3dt18k3dt2g18dy3g2lb2`), colour order pattern
 [GBBKBGGGW](/stripes/gbbkbgggw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dr3o3dt16k2dt2g16dr3g2w2~x2/"><circle cx="157.6" cy="163.9" r="4" fill="#3465a4"><title>Chinzei Keiai School</title></circle></a><a href="/variants/s8/g1lr1g6db5dg6r1dg1lo1~x4~dg1605139/"><circle cx="143.9" cy="213.9" r="4" fill="#3465a4"><title>Vermont District USA Tartan</title></circle></a><a href="/variants/s8/g1lr1g6db5dg6r1dg1lo1~x4/"><circle cx="131.0" cy="208.2" r="4" fill="#3465a4"><title>Vermont</title></circle></a><a href="/variants/s11/dg19g5k2t3dg5g3t5k2db3g5w2~x2~t2304245-db1204274/"><circle cx="164.8" cy="152.9" r="4" fill="#3465a4"><title>MacLean, Kenneth, baron of Denboig (Personal)</title></circle></a><a href="/variants/s7/lb2k2dg8g8r1g1w1~x4~dg1806142-g2304202/"><circle cx="150.7" cy="179.7" r="4" fill="#3465a4"><title>Lundy (Personal)</title></circle></a><a href="/variants/s9/dbi4t3dbi6k2db12g2db2g24lb2~x2~dbi1406275-t2405244-db1004274-lb3203246/"><circle cx="201.5" cy="143.3" r="4" fill="#3465a4"><title>Halcrow Howell (Name)</title></circle></a><a href="/variants/s13/r2dg18g2dg2g2dg2g12db3k13dg10k2g12y2~x2/"><circle cx="140.8" cy="151.6" r="4" fill="#3465a4"><title>McHeadley Society</title></circle></a><a href="/variants/s7/r3g3db4g17k13dt26w3~x2/"><circle cx="119.2" cy="172.4" r="4" fill="#3465a4"><title>Royal Burgh of Peebles (District)</title></circle></a><a href="/variants/s8/dt4k9g20dp2dg20k5dt6lb2~x2/"><circle cx="102.9" cy="175.4" r="4" fill="#3465a4"><title>Linden</title></circle></a><a href="/variants/s8/dg5g32dp5k10dg8dr3dg8dp3~x2~dg1603171-g2203152/"><circle cx="217.3" cy="177.7" r="4" fill="#3465a4"><title>Scottish Power</title></circle></a><circle cx="175.4" cy="166.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

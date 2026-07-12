@@ -1,6 +1,15 @@
 ---
 title: "Wishart Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Wishart"
+  url: "/clan/wishart/"
+- name: "Wishart"
+  url: "/families/wishart/"
+- name: "Wishart Dress"
+  url: "/tartans/w/wi/wishart-dress/"
 ---
 This is the **Wishart Dress** sett — one scale-free proportion (`k7dbi4r31db3y2db27lb4`), colour order pattern
 [BRBGBWBGBRBK](/stripes/brbgbwbgbrbk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k7dbi4r31db3lo2db27lb4~x2~dbi1406275-db1204274/"><circle cx="190.6" cy="128.2" r="4" fill="#3465a4"><title>Wishart Dress (Clan)</title></circle></a><a href="/variants/s7/k2dbi2r16db2y1db13w2~x2~dbi1406275-db1204274/"><circle cx="208.0" cy="123.2" r="4" fill="#3465a4"><title>Wishart Dress Family Tartan</title></circle></a><a href="/variants/s7/k2dbi2r16db2y1db13w2~x2~dbi1604274-db0805267/"><circle cx="193.4" cy="119.4" r="4" fill="#3465a4"><title>Wishart, dress</title></circle></a><a href="/variants/s9/k2dy1k2dy8r29n9db24w2db2~x2~db1204274/"><circle cx="195.8" cy="93.1" r="4" fill="#3465a4"><title>Lermontov Family Tartan</title></circle></a><a href="/variants/s9/k2y1k2y8r29n9db24w2db2~x2/"><circle cx="187.5" cy="91.8" r="4" fill="#3465a4"><title>Lermontov</title></circle></a><a href="/variants/s6/dg3g3r22k5db22dy2~x2~dg1806142-g2408144/"><circle cx="164.6" cy="152.4" r="4" fill="#3465a4"><title>MacLeod Society of Scotland</title></circle></a><a href="/variants/s10/db4dy3db22n6w2k6w2r26k3r4~x2~db1406275/"><circle cx="151.0" cy="114.3" r="4" fill="#3465a4"><title>Asman Dress Family Tartan</title></circle></a><a href="/variants/s16/k2db12r12db2r2lb2r2lb2r12db6r2dg12k2y1r1y1~x2/"><circle cx="155.9" cy="109.3" r="4" fill="#3465a4"><title>Catalan Dance</title></circle></a><a href="/variants/s14/w3r30k4dg2db17y3db2y3db17dg2k4r30w3r2~x2~dg1806142/"><circle cx="214.2" cy="86.2" r="4" fill="#3465a4"><title>Unidentified Lindley #4</title></circle></a><a href="/variants/s10/db4dy3db22n6w2k6w2r26k3r4~x2/"><circle cx="145.1" cy="113.3" r="4" fill="#3465a4"><title>Asman, Dress (Name)</title></circle></a><circle cx="213.8" cy="112.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

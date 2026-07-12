@@ -1,6 +1,11 @@
 ---
 title: "Chicago University of.. Corporate Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Chicago University of.."
+  url: "/tartans/c/ch/chicago-university-of/"
 ---
 This is the **Chicago University of.. Corporate Tartan** sett — one scale-free proportion (`r30k8r2k2r3k2r8ri15r8k2r3k2r2k8r30w3`), colour order pattern
 [RKRKRKRRRKRKRKRW](/stripes/rkrkrkrrrkrkrkrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/r16k1r8db2k1db16k3r1k1r15db4r2k3r1k1r16~x2/"><circle cx="316.8" cy="90.5" r="4" fill="#3465a4"><title>(5) Ruxton hunting</title></circle></a><a href="/variants/s11/r9db1r2db3r28k12lb1r6lb1db6ri1~x2~r1807033-ri2109032/"><circle cx="352.7" cy="81.6" r="4" fill="#3465a4"><title>New York Caledonian Club Dress</title></circle></a><a href="/variants/s15/dr20y1dr10y10k1dr5w1dr5k1y5dr11k2w4y3dr5~x2/"><circle cx="362.4" cy="125.7" r="4" fill="#3465a4"><title>Motherwell Football Club Official</title></circle></a><a href="/variants/s9/y27k4w4r64w4r4k4r4k12~x2~r2109013/"><circle cx="355.0" cy="77.6" r="4" fill="#3465a4"><title>O'Meehan</title></circle></a><a href="/variants/s13/y3r2k7r2db7r18k2r2k2r18db7r2k2~x2/"><circle cx="270.4" cy="138.2" r="4" fill="#3465a4"><title>Brad Majors</title></circle></a><a href="/variants/s13/ly3r2k7r2db7r18k2r2k2r18db7r2k2~x2/"><circle cx="265.8" cy="136.9" r="4" fill="#3465a4"><title>Brad Majors (Fashion)</title></circle></a><a href="/variants/s14/r16db8r2k3y1k3r2k3y1k3r2db8r16k1~x4/"><circle cx="262.7" cy="113.5" r="4" fill="#3465a4"><title>Leslie Red (VS)</title></circle></a><a href="/variants/s11/r25k4r2k3dy2k2db3r2k3db2k2~x2/"><circle cx="295.3" cy="103.6" r="4" fill="#3465a4"><title>Glennie, The Rhythms of Evelyn</title></circle></a><a href="/variants/s9/dr18k1dy3k1lr1dr3k2dr2lr2~x4/"><circle cx="428.4" cy="120.5" r="4" fill="#3465a4"><title>Anthony Plaid Red</title></circle></a><a href="/variants/s11/r25k4r2k3y2k2db3r2k3db2k2~x2/"><circle cx="294.4" cy="103.5" r="4" fill="#3465a4"><title>The Rhythms of Evelyn Glennie</title></circle></a><circle cx="368.5" cy="108.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

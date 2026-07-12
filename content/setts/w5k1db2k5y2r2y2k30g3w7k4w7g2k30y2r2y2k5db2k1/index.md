@@ -1,6 +1,15 @@
 ---
 title: "Braddock Family (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Braddock"
+  url: "/clan/braddock/"
+- name: "Braddock"
+  url: "/families/braddock/"
+- name: "Braddock"
+  url: "/tartans/b/br/braddock-2/"
 ---
 This is the **Braddock Family (Personal)** sett — one scale-free proportion (`w5k1db2k5y2r2y2k30g3w7k4w7g2k30y2r2y2k5db2k1`), colour order pattern
 [KBKGRGKGWKWGKGRGKBKW](/stripes/kbkgrgkgwkwgkgrgkbkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w2db2k32g9r2w2r2g4k20y1k9db2w2~x2/"><circle cx="319.1" cy="49.2" r="4" fill="#3465a4"><title>Nova Scotia Medical Examiner Service</title></circle></a><a href="/variants/s12/k48db4k8y2k3w3k3g12r6k3r3w3~x2/"><circle cx="301.9" cy="49.7" r="4" fill="#3465a4"><title>Stewart Black Clan Tartan</title></circle></a><a href="/variants/s12/k96db8k12dp3k3dp3k3g20r8k3r4w4~db1406275-dp1607327/"><circle cx="266.1" cy="14.0" r="4" fill="#3465a4"><title>Watt</title></circle></a><a href="/variants/s13/k58db5w5k10y3k3w3k3g14r11k3r4w3~x2/"><circle cx="257.0" cy="54.5" r="4" fill="#3465a4"><title>Stewart Black.. Clan Tartan</title></circle></a><a href="/variants/s12/k43b3k7dg3k2dg3k2g11r6k2r3w3~x2/"><circle cx="284.3" cy="56.0" r="4" fill="#3465a4"><title>Braveheart - ( Warrior)</title></circle></a><a href="/variants/s16/k8dr3k1w2n1y1k25n2y2k3dr5k1w3y7k1n1~x2/"><circle cx="269.2" cy="60.0" r="4" fill="#3465a4"><title>Northern Guard Supporters</title></circle></a><a href="/variants/s12/k36db4k6y1k1w1k1g8r4k1r2w1~x2/"><circle cx="342.2" cy="27.2" r="4" fill="#3465a4"><title>Stewart, Black ground</title></circle></a><a href="/variants/s12/k86n6k4w3k3r3k3n22ly14k3ly6w4/"><circle cx="309.4" cy="46.4" r="4" fill="#3465a4"><title>Langtree Trade Tartan</title></circle></a><a href="/variants/s20/r2k27db10w1g9r2dg9r1k26db1k26dg9k1g9k2w1db10k25r2w2~x2/"><circle cx="256.6" cy="59.4" r="4" fill="#3465a4"><title>Binder (2013)</title></circle></a><a href="/variants/s22/db5w1db5w1db5w1db5w1db5w1lo5b1y5b1lo5y1k36w1b3w1k72w1~x2~db1404245-b1511266/"><circle cx="341.1" cy="14.0" r="4" fill="#3465a4"><title>Khalsa</title></circle></a><circle cx="283.8" cy="25.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

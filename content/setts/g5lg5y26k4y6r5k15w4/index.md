@@ -1,6 +1,13 @@
 ---
 title: "Cornish Christophers (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cornish"
+  url: "/clan/cornish/"
+- name: "Cornish Christophers"
+  url: "/tartans/c/co/cornish-christophers/"
 ---
 This is the **Cornish Christophers (Personal)** sett — one scale-free proportion (`g5lg5y26k4y6r5k15w4`), colour order pattern
 [GYGKGRKW](/stripes/gygkgrkw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r2k2w16dg13g6y2k2w2~x2/"><circle cx="99.1" cy="151.6" r="4" fill="#3465a4"><title>Madewell Dress</title></circle></a><a href="/variants/s8/r2lb1r8k4db1g10w1g2~x4/"><circle cx="142.8" cy="147.5" r="4" fill="#3465a4"><title>Sawyer Family Tartan</title></circle></a><a href="/variants/s8/r2lb1r8k4db1g10lr1g2~x4/"><circle cx="146.7" cy="148.2" r="4" fill="#3465a4"><title>Sawyer</title></circle></a><a href="/variants/s7/ly4y2ly21do11w2k20r3~x2/"><circle cx="112.5" cy="147.1" r="4" fill="#3465a4"><title>Barbour Corporate Tartan</title></circle></a><a href="/variants/s8/dg9w2dg9k2ly14lyi4w2r2~x4~ly2503076-lyi2705081/"><circle cx="127.6" cy="180.2" r="4" fill="#3465a4"><title>MacShane (Clan)</title></circle></a><a href="/variants/s6/k5r2dy7ly18dy2w2~x4/"><circle cx="183.5" cy="166.0" r="4" fill="#3465a4"><title>Shepherd, Derek (Piping)</title></circle></a><a href="/variants/s12/o4k12b2k2b2k2b2ly16dr3ly2lr2ly4~x2/"><circle cx="103.3" cy="126.3" r="4" fill="#3465a4"><title>Cailean #2 (Fashion)</title></circle></a><a href="/variants/s12/dy4k12db2k2db2k2db2ly16dr3ly2w2ly4~x2/"><circle cx="104.6" cy="128.6" r="4" fill="#3465a4"><title>Cailean (Pendleton)</title></circle></a><a href="/variants/s8/g8r11k3y2dp8g15r5w2~x2/"><circle cx="128.9" cy="186.3" r="4" fill="#3465a4"><title>Wilson's, No 109</title></circle></a><a href="/variants/s9/db4g17lb3r3lb3k19y2g17r4~x2/"><circle cx="143.1" cy="150.6" r="4" fill="#3465a4"><title>Wilson's, No 33</title></circle></a><circle cx="122.0" cy="164.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,13 @@
 ---
 title: "Poulter SG 105 (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Poulter"
+  url: "/clan/poulter/"
+- name: "Poulter SG 105"
+  url: "/tartans/p/po/poulter-sg-105/"
 ---
 This is the **Poulter SG 105 (Fashion)** sett — one scale-free proportion (`lg25lo8lg8lo8lg8lo46w46g8w46lo46lg46lo8lg8`), colour order pattern
 [YYYYWGWYYYYYY](/stripes/yyyywgwyyyyyy/). It is recorded as a single **variant**, below.

@@ -1,6 +1,15 @@
 ---
 title: "Kerry (WCWM)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Kerry"
+  url: "/clan/kerry/"
+- name: "Kerry"
+  url: "/families/kerry/"
+- name: "Kerry"
+  url: "/tartans/k/ke/kerry/"
 ---
 This is the **Kerry (WCWM)** sett — one scale-free proportion (`lr24p3lr8p5k3r3k3lr3k3o24r4`), colour order pattern
 [RRKYKRKBYBY](/stripes/rrkykrkbyby/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r23w2r3b4r3w2r5k11ri2w23k3~x2~r2109032-ri2406019/"><circle cx="156.5" cy="120.9" r="4" fill="#3465a4"><title>MacKellar Dress Red Fashion Tartan</title></circle></a><a href="/variants/s9/r12w2o3w2r3k5r2o18w2~x2/"><circle cx="205.9" cy="163.9" r="4" fill="#3465a4"><title>Ballater</title></circle></a><a href="/variants/s9/db3w12k11r4w2r2w2r24ly3~x2/"><circle cx="180.9" cy="128.0" r="4" fill="#3465a4"><title>Hearts Football Club (Corporate)</title></circle></a><a href="/variants/s10/y4w2y2w8r16g3r3g8r6k2~x2/"><circle cx="163.6" cy="169.4" r="4" fill="#3465a4"><title>Carolyn Melieres Family Tartan</title></circle></a><a href="/variants/s15/k4r4w4r28t4r4g25r4t25r4t4r28w4r4k4~x2/"><circle cx="195.5" cy="139.8" r="4" fill="#3465a4"><title>Fitzgerald Red</title></circle></a><a href="/variants/s12/n12w2k4g2k3w3k3w19r30w2r4k2~x2/"><circle cx="154.5" cy="101.9" r="4" fill="#3465a4"><title>MacLean of Duart Dress #2</title></circle></a><a href="/variants/s14/lb4r1lb4y1k1r6w1r4w1r6k1y1lb4w1~x2/"><circle cx="169.7" cy="168.9" r="4" fill="#3465a4"><title>Ogilvy D</title></circle></a><a href="/variants/s9/lr11r4y2k4y2r4y12r20lb2~x2/"><circle cx="221.4" cy="165.1" r="4" fill="#3465a4"><title>Australia Dress</title></circle></a><a href="/variants/s14/w1dr1y1r8k1lb1w8lb1k8lb1w1r8lb1w1~x6/"><circle cx="91.6" cy="110.9" r="4" fill="#3465a4"><title>Praetorian</title></circle></a><a href="/variants/s14/w1dp1y1r8k1lb1w8lb1k8lb1w1r8lb1w1~x6/"><circle cx="91.6" cy="110.9" r="4" fill="#3465a4"><title>Praetorian (Fashion)</title></circle></a><circle cx="165.2" cy="142.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

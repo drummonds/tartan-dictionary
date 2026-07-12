@@ -1,6 +1,11 @@
 ---
 title: "Gearach Woodcock Tweed (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Gearach Woodcock Tweed"
+  url: "/tartans/g/ge/gearach-woodcock-tweed/"
 ---
 This is the **Gearach Woodcock Tweed (Corporate)** sett — one scale-free proportion (`dy2lb1lo1`), colour order pattern
 [GWY](/stripes/gwy/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/y20db10w3~x2/"><circle cx="361.9" cy="301.7" r="4" fill="#3465a4"><title>Masai Shuka 04 (Artefact)</title></circle></a><a href="/variants/s3/ly5db5k3~x4/"><circle cx="83.9" cy="366.0" r="4" fill="#3465a4"><title>Kazakhstan Relic (Artefact)</title></circle></a><a href="/variants/s3/dy1w2db1~x12/"><circle cx="192.6" cy="366.0" r="4" fill="#3465a4"><title>Aquascutum</title></circle></a><a href="/variants/s4/lb6lo28dy20lb3~x2/"><circle cx="307.1" cy="268.0" r="4" fill="#3465a4"><title>Prince of Orange Tartan</title></circle></a><a href="/variants/s3/dp5g4lb2~x2/"><circle cx="218.8" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 209</title></circle></a><a href="/variants/s4/db18w4db3y12~x2/"><circle cx="320.7" cy="288.5" r="4" fill="#3465a4"><title>Genesee Community College</title></circle></a><a href="/variants/s3/r4dg7lb4~x2/"><circle cx="172.4" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.061</title></circle></a><a href="/variants/s4/db18t18ly28n13~x2/"><circle cx="144.7" cy="366.0" r="4" fill="#3465a4"><title>Gold Country (District)</title></circle></a><a href="/variants/s3/r2g2lb1~x4/"><circle cx="190.0" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 207</title></circle></a><a href="/variants/s3/r4g7lb4~x2/"><circle cx="203.8" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 61</title></circle></a><circle cx="221.6" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

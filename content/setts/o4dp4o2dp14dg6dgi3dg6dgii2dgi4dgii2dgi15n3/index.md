@@ -1,6 +1,13 @@
 ---
 title: "Kinloch Anderson Heather"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Kinloch"
+  url: "/clan/kinloch/"
+- name: "Kinloch Anderson Heather"
+  url: "/tartans/k/ki/kinloch-anderson-heather/"
 ---
 This is the **Kinloch Anderson Heather** sett — one scale-free proportion (`o4dp4o2dp14dg6dgi3dg6dgii2dgi4dgii2dgi15n3`), colour order pattern
 [BGGGGGGGBRBR](/stripes/bgggggggbrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/do16dr2do3dr4do2n12dy18lb2dy18n12do12ly2dr2ly2~x2/"><circle cx="288.7" cy="225.6" r="4" fill="#3465a4"><title>Allen - 2012 (Personal)</title></circle></a><a href="/variants/s9/r2do15dg12do2db12do2dg12do15ly2~x4/"><circle cx="341.4" cy="259.9" r="4" fill="#3465a4"><title>Amazing Union (Personal)</title></circle></a><a href="/variants/s7/dgi3dg12o6dgii3dp15oi2dp2~x2~dgi1302166-dgii1602166-oi2402083/"><circle cx="260.1" cy="230.2" r="4" fill="#3465a4"><title>Myres Castle</title></circle></a><circle cx="262.0" cy="229.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

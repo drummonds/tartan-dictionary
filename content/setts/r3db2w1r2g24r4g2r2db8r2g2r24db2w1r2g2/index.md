@@ -1,6 +1,15 @@
 ---
 title: "Stewart of Appin"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Stewart"
+  url: "/clan/stewart/"
+- name: "Stewart of Appin"
+  url: "/families/stewart-of-appin/"
+- name: "Stewart of Appin"
+  url: "/tartans/s/st/stewart-of-appin/"
 ---
 This is the **Stewart of Appin** sett — one scale-free proportion (`r3db2w1r2g24r4g2r2db8r2g2r24db2w1r2g2`), colour order pattern
 [GRWBRGRBRGRGRWBR](/stripes/grwbrgrbrgrgrwbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/r3db2lb1r2g24r4g2r2db8r2g2r24db2lb1r2g2~x2/"><circle cx="306.6" cy="104.9" r="4" fill="#3465a4"><title>Stewart of Appin - 1906</title></circle></a><a href="/variants/s14/g6r2g2r24lb1db1r2db12r2db1lb1r2g24r2~x2/"><circle cx="281.1" cy="114.7" r="4" fill="#3465a4"><title>Unidentified Coat</title></circle></a><a href="/variants/s12/g38r3g3r3db9r3lb2r40db3r3db2r6~x2/"><circle cx="329.4" cy="123.0" r="4" fill="#3465a4"><title>MacLintock</title></circle></a><a href="/variants/s16/r6db1r2db2r28lb2r2db9r2g2r2g24r3db2r6db2~x2/"><circle cx="336.3" cy="98.8" r="4" fill="#3465a4"><title>Drummond Clan Tartan</title></circle></a><a href="/variants/s12/g36r3g3r3db9r3lb2r40db3r3db2r6~x2/"><circle cx="332.3" cy="123.1" r="4" fill="#3465a4"><title>MacLintock Clan Tartan</title></circle></a><a href="/variants/s15/r3db2r2g38r2g2r2db10r2lb2r37db2r2db2r3~x2/"><circle cx="311.4" cy="104.3" r="4" fill="#3465a4"><title>Grant and Drummond</title></circle></a><a href="/variants/s12/r7b2db2r2g32r6db12r41g2r5b2g5~x2/"><circle cx="329.6" cy="128.9" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/variants/s15/r20dp1r1db2r1dp1r4db4g2db4g2db4g19r1dp2~x2/"><circle cx="256.0" cy="120.3" r="4" fill="#3465a4"><title>Ladybird</title></circle></a><a href="/variants/s15/r8db2r2db2r32lb2r2db8r2g2r2g27r2db2r2~x2/"><circle cx="326.3" cy="115.7" r="4" fill="#3465a4"><title>Grant (Official)</title></circle></a><a href="/variants/s14/r45db4r4g48r4db4r4db15r4db4r40g4r4g30/"><circle cx="311.7" cy="167.4" r="4" fill="#3465a4"><title>Bruce Old</title></circle></a><circle cx="301.6" cy="103.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

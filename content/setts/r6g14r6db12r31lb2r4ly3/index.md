@@ -1,6 +1,11 @@
 ---
 title: "Loch Lochy (District)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Loch Lochy"
+  url: "/tartans/l/lo/loch-lochy/"
 ---
 This is the **Loch Lochy (District)** sett — one scale-free proportion (`r6g14r6db12r31lb2r4ly3`), colour order pattern
 [RGRBRWRY](/stripes/rgrbrwry/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r6g14r6db11r31lb2r4y3~x2/"><circle cx="344.4" cy="158.9" r="4" fill="#3465a4"><title>Loch Lochy</title></circle></a><a href="/variants/s7/r6g16r4db12r16lb1r2~x2/"><circle cx="274.5" cy="193.5" r="4" fill="#3465a4"><title>MacQuarrie #6</title></circle></a><a href="/variants/s7/r6g16r4db12r16w1r2~x2/"><circle cx="271.0" cy="192.4" r="4" fill="#3465a4"><title>MacQuarrie LO</title></circle></a><a href="/variants/s7/r52db16k16g22r16y3r16/"><circle cx="271.5" cy="156.6" r="4" fill="#3465a4"><title>Sturrock</title></circle></a><a href="/variants/s6/r2db10r2g10r25w2~x2/"><circle cx="321.6" cy="184.3" r="4" fill="#3465a4"><title>Grant of Lurg</title></circle></a><a href="/variants/s10/g2r2db1r24lb1db6r3g12r4db1~x2/"><circle cx="373.2" cy="126.8" r="4" fill="#3465a4"><title>MacDonell of Keppoch Clan Tartan</title></circle></a><a href="/variants/s10/g2r2db1r24lb1db6r3g12r4db1/"><circle cx="373.2" cy="126.8" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/variants/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/"><circle cx="375.5" cy="124.8" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/variants/s6/r1db6r1g6r12w1/"><circle cx="286.4" cy="193.0" r="4" fill="#3465a4"><title>Fraser VS</title></circle></a><a href="/variants/s6/r1db6r1g6r12w1~x2/"><circle cx="286.4" cy="193.0" r="4" fill="#3465a4"><title>Fraser VS</title></circle></a><circle cx="330.4" cy="157.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

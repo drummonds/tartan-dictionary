@@ -1,6 +1,11 @@
 ---
 title: "Scottish Power Corporate Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Scottish Power"
+  url: "/tartans/s/sc/scottish-power/"
 ---
 This is the **Scottish Power Corporate Tartan** sett — one scale-free proportion (`dg8dr3dg8k10dp5g32dg5g32dp5k10dg8dr3dg8dp3`), colour order pattern
 [BGBGKBGGGBKGBG](/stripes/bgbgkbgggbkgbg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k4t4k2t4k2t22dy27y2r3~x2/"><circle cx="240.1" cy="124.8" r="4" fill="#3465a4"><title>Falkirk District Tartan</title></circle></a><a href="/variants/s13/db10g5db5g60db13g10dbi67g5k5g5k5g13y10~db1106275-dbi1204274/"><circle cx="226.2" cy="125.6" r="4" fill="#3465a4"><title>Princess Beatrice Hunting</title></circle></a><a href="/variants/s13/g5db20g2db2g2db2g25dr2g2dr17k8g2w2~x2/"><circle cx="180.5" cy="131.5" r="4" fill="#3465a4"><title>Cameron Boyle, The (Personal)</title></circle></a><a href="/variants/s16/y4db3y2db2k1r1k1db7k1r1k1g10r1db3y1db3~x2/"><circle cx="156.2" cy="139.2" r="4" fill="#3465a4"><title>Tartan de Longueuil</title></circle></a><a href="/variants/s14/dg3db10t3db2t2db2dg3k5dg2k5dg22r2dg3r2~x2/"><circle cx="247.4" cy="141.1" r="4" fill="#3465a4"><title>Lochcarron Hunting</title></circle></a><a href="/variants/s8/dg5g32dp5k10dg8dr3dg8dp3~x2~dg1603171-g2203152/"><circle cx="217.3" cy="177.7" r="4" fill="#3465a4"><title>Scottish Power</title></circle></a><a href="/variants/s13/db16g4k4n22db5n22k3r5g4n4g4r4k4~x2/"><circle cx="190.9" cy="167.7" r="4" fill="#3465a4"><title>Gayre Hunting Clan Tartan</title></circle></a><a href="/variants/s12/k2g10n5g20n5y3n7k3n7k4n4w2~x2/"><circle cx="186.9" cy="175.4" r="4" fill="#3465a4"><title>Aceo</title></circle></a><a href="/variants/s11/dg19g5k2t3dg5g3t5k2db3g5w2~x2~t2304245-db1204274/"><circle cx="164.8" cy="152.9" r="4" fill="#3465a4"><title>MacLean, Kenneth, baron of Denboig (Personal)</title></circle></a><a href="/variants/s18/dg24dp4dg3dp8k3lb8dp2lb2dp4lb2dp2lb8k3dp8dg3dp4dg24g2~x2~dg1806142-g2408144/"><circle cx="201.7" cy="124.0" r="4" fill="#3465a4"><title>Jones Hunting</title></circle></a><circle cx="208.8" cy="157.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

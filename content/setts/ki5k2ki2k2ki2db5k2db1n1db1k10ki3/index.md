@@ -1,6 +1,15 @@
 ---
 title: "Hopkins (Welsh Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hopkins"
+  url: "/clan/hopkins/"
+- name: "Hopkins"
+  url: "/families/hopkins/"
+- name: "Hopkins"
+  url: "/tartans/h/ho/hopkins-3/"
 ---
 This is the **Hopkins (Welsh Name)** sett — one scale-free proportion (`ki5k2ki2k2ki2db5k2db1n1db1k10ki3`), colour order pattern
 [KKBBBKBKKKKK](/stripes/kkbbbkbkkkkk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dti10k4dt16k4dt10k16dt8k24dt28dr3dti4dr3~dti1500000-dt1300000/"><circle cx="283.7" cy="203.2" r="4" fill="#3465a4"><title>St. Mirren (Corporate)</title></circle></a><a href="/variants/s15/db13k2db2k2db2dbi13dg13k2dg3k2dg13k13dg13k2db3~x2~db0805267-dbi1604274/"><circle cx="231.7" cy="207.6" r="4" fill="#3465a4"><title>Bailey Atlanta National</title></circle></a><a href="/variants/s13/dy6k28dy4k4dy12do32k4do3k4do3k4do14y4/"><circle cx="283.5" cy="176.1" r="4" fill="#3465a4"><title>Etihad Airways</title></circle></a><a href="/variants/s12/db5k2db2k2db2dbi5k2dbi1n1dbi1k10db3~x4~db1204274-dbi1404245/"><circle cx="259.1" cy="190.8" r="4" fill="#3465a4"><title>Hopkins Welsh Name Tartan</title></circle></a><a href="/variants/s13/dg46k5dg6k5dg6k30db38y6db38k30dg36k6dg6/"><circle cx="221.7" cy="195.7" r="4" fill="#3465a4"><title>Dewar Highlander Corporate Tartan</title></circle></a><a href="/variants/s15/do20k6do5k8dy4do6db3k1do3k1db3k9db11k1dy1~x2/"><circle cx="277.0" cy="155.1" r="4" fill="#3465a4"><title>Amble</title></circle></a><a href="/variants/s12/dbi5k2dbi2k2dbi2db5k2db1n1db1k10dbi3~x4~dbi1404245-db1204274/"><circle cx="252.2" cy="189.3" r="4" fill="#3465a4"><title>Hopkins (Wales)</title></circle></a><a href="/variants/s10/dr10k4dr4k6dr28k10dy4db30k4db7~x2/"><circle cx="248.8" cy="205.7" r="4" fill="#3465a4"><title>St George's School</title></circle></a><a href="/variants/s11/ki2k20dg30k2dg4k2dg30k3ki30k35dr2~ki0700000/"><circle cx="288.6" cy="163.3" r="4" fill="#3465a4"><title>Phillips (Welsh Name)</title></circle></a><a href="/variants/s8/dg18db2dg5r2dg5k21ki20k5~x2~db1605267-ki0503265/"><circle cx="214.7" cy="195.4" r="4" fill="#3465a4"><title>MacRae, Special Hunting</title></circle></a><circle cx="280.6" cy="195.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

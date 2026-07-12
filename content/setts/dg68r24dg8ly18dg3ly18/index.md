@@ -1,6 +1,11 @@
 ---
 title: "MacMillan/Isetan (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "MacMillan/Isetan"
+  url: "/tartans/m/ma/macmillan-isetan/"
 ---
 This is the **MacMillan/Isetan (Corporate)** sett — one scale-free proportion (`dg68r24dg8ly18dg3ly18`), colour order pattern
 [GRGYGY](/stripes/grgygy/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g68r24g8dy18g3dy18~x2/"><circle cx="387.8" cy="204.3" r="4" fill="#3465a4"><title>MacMillan/Isetan</title></circle></a><a href="/variants/s6/dg2ly14dg8ly3dg12r2~x2/"><circle cx="285.8" cy="247.3" r="4" fill="#3465a4"><title>Confederate Artillery</title></circle></a><a href="/variants/s7/r30g3db5g21r3g21db2~x2/"><circle cx="349.7" cy="207.8" r="4" fill="#3465a4"><title>Scottish Piping Soc. of London (Corp</title></circle></a><a href="/variants/s7/r8w2dr30g12dr3g12dr3~x2/"><circle cx="314.7" cy="190.2" r="4" fill="#3465a4"><title>Wasko (Personal)</title></circle></a><a href="/variants/s5/ly2dg17g4r15dg1~x2/"><circle cx="295.3" cy="198.4" r="4" fill="#3465a4"><title>Christmas (Fashion)</title></circle></a><a href="/variants/s7/db6r3g1r3g12r3g1~x4/"><circle cx="291.5" cy="215.0" r="4" fill="#3465a4"><title>Skene - 1831 (Clan)</title></circle></a><a href="/variants/s7/db6r3g1r3g12r3g1~x2/"><circle cx="291.5" cy="215.0" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s7/g28r4dp25r22g27r4dp2~x2/"><circle cx="293.2" cy="224.4" r="4" fill="#3465a4"><title>Glasgow, City of</title></circle></a><a href="/variants/s5/r1dy7ly25dy7r1~x2/"><circle cx="386.9" cy="171.8" r="4" fill="#3465a4"><title>Unnamed Brown (Teddy Bear)</title></circle></a><a href="/variants/s6/y70k30w3g30k3y10/"><circle cx="286.2" cy="154.1" r="4" fill="#3465a4"><title>Jacobite #2</title></circle></a><circle cx="340.4" cy="184.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

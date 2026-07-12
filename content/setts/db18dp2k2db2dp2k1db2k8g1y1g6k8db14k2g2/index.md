@@ -1,6 +1,11 @@
 ---
 title: "Angove, the Black Swan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Angove, the Black Swan"
+  url: "/tartans/a/an/angove-the-black-swan-2/"
 ---
 This is the **Angove, the Black Swan** sett — one scale-free proportion (`db18dp2k2db2dp2k1db2k8g1y1g6k8db14k2g2`), colour order pattern
 [BBKBBKBKGGGKBKG](/stripes/bbkbbkbkgggkbkg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/db36g10r2g10w2g10r2k10db14r2db12r3db2r2db4w2~x2/"><circle cx="245.8" cy="100.8" r="4" fill="#3465a4"><title>Rankin</title></circle></a><a href="/variants/s10/y6db3k3db36k10n18db6k2g4k3~x2/"><circle cx="250.8" cy="128.5" r="4" fill="#3465a4"><title>Dinwiddie Hunting</title></circle></a><a href="/variants/s16/k3db42k3y2k3g22k3r2k3g22k3y2k3db42k3r2~x2~db1406275/"><circle cx="261.7" cy="82.7" r="4" fill="#3465a4"><title>Strachan</title></circle></a><a href="/variants/s15/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4/"><circle cx="224.1" cy="137.3" r="4" fill="#3465a4"><title>Shadow Halls</title></circle></a><a href="/variants/s19/k2w2k15dp5n5dp10lb2dp10n5dp5n30k2n4k2n30dp4n4k15w2~x2/"><circle cx="226.2" cy="105.8" r="4" fill="#3465a4"><title>Un-named fashion (2013)</title></circle></a><a href="/variants/s13/db17k2m2db17k14dy1w2dy1k4dy1w2dy1k14~x2/"><circle cx="214.6" cy="111.4" r="4" fill="#3465a4"><title>Presley of Lonmay #2</title></circle></a><a href="/variants/s16/db36g10dr2g10lb2g10dr2g10k14dr2db12dr3db2dr2db4lb2~x2/"><circle cx="200.9" cy="110.3" r="4" fill="#3465a4"><title>Rankin (1998) (Name)</title></circle></a><a href="/variants/s12/db6r2db2r4db24g11r4g2r2g3k1y2~x2/"><circle cx="263.9" cy="101.9" r="4" fill="#3465a4"><title>Law of Heather Athol (Personal)</title></circle></a><a href="/variants/s18/db36g10r2g10w2g10r2k10db14r2db12r2db12r3db2r2db4w2~x2/"><circle cx="262.0" cy="97.9" r="4" fill="#3465a4"><title>Rankin #2</title></circle></a><a href="/variants/s15/dti1dt4k11dt1k1dt1k1dti1k11n4g1n8k8dt8n1~x4~dti1503227-dt1202249/"><circle cx="230.7" cy="141.2" r="4" fill="#3465a4"><title>ShadowHalls</title></circle></a><circle cx="247.4" cy="112.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

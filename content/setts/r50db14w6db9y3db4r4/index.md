@@ -1,6 +1,11 @@
 ---
 title: "Texas Lone Star"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Texas Lone Star"
+  url: "/tartans/t/te/texas-lone-star/"
 ---
 This is the **Texas Lone Star** sett — one scale-free proportion (`r50db14w6db9y3db4r4`), colour order pattern
 [RBGBWBR](/stripes/rbgbwbr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r50db14w6db9ly3db4r4~x2/"><circle cx="358.6" cy="143.1" r="4" fill="#3465a4"><title>Texas Lone Star (Fashion)</title></circle></a><a href="/variants/s6/db1r16db6y4db6w1~x4/"><circle cx="295.3" cy="186.1" r="4" fill="#3465a4"><title>Superfast Ferries (Corporate)</title></circle></a><a href="/variants/s9/r60b15r4db10w2db10w2db10r4~x2/"><circle cx="371.8" cy="111.0" r="4" fill="#3465a4"><title>Robberstad</title></circle></a><a href="/variants/s6/r52y2db16y2db3w5~x2/"><circle cx="422.1" cy="128.4" r="4" fill="#3465a4"><title>Brock University Alumni Association</title></circle></a><a href="/variants/s10/r6y1r24g6db2k1db2k1db12r1~x2/"><circle cx="305.5" cy="95.5" r="4" fill="#3465a4"><title>MacEdward</title></circle></a><a href="/variants/s8/r11w1r32k8db6k1db16k1~x2/"><circle cx="317.6" cy="110.2" r="4" fill="#3465a4"><title>Ostermeier (2015)</title></circle></a><a href="/variants/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/"><circle cx="375.5" cy="124.8" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/variants/s10/r7w2r36db6g3db3g3db3g12r4~x2/"><circle cx="356.9" cy="132.7" r="4" fill="#3465a4"><title>Chisholm of Strathglass Clan Tartan</title></circle></a><a href="/variants/s10/r7w2r36t6dg3t3dg3t3dg12r4~x2/"><circle cx="366.3" cy="134.9" r="4" fill="#3465a4"><title>Chisholm of Strathglass</title></circle></a><a href="/variants/s6/r2db10r2g10r25w2~x2/"><circle cx="321.6" cy="184.3" r="4" fill="#3465a4"><title>Grant of Lurg</title></circle></a><circle cx="362.4" cy="144.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

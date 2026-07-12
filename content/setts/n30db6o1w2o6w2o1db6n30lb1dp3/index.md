@@ -1,6 +1,15 @@
 ---
 title: "Kuehle Family (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Kuehle"
+  url: "/clan/kuehle/"
+- name: "Kuehle"
+  url: "/families/kuehle/"
+- name: "Kuehle"
+  url: "/tartans/k/ku/kuehle/"
 ---
 This is the **Kuehle Family (Personal)** sett — one scale-free proportion (`n30db6o1w2o6w2o1db6n30lb1dp3`), colour order pattern
 [BBRWRWRBBWB](/stripes/bbrwrwrbbwb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/do68k4do18dt20k3w3k10lb8lo4~do1301000-dt1600000/"><circle cx="334.6" cy="99.9" r="4" fill="#3465a4"><title>Carbon</title></circle></a><a href="/variants/s10/n56db9w2db2r2n9lb4db2lb2y3~x2/"><circle cx="493.0" cy="97.3" r="4" fill="#3465a4"><title>Blue Toon</title></circle></a><a href="/variants/s12/n38db4n8o2n4w3n4dr14b7n2b4w2~x2/"><circle cx="377.6" cy="126.3" r="4" fill="#3465a4"><title>Portree, Check</title></circle></a><a href="/variants/s16/n28r1n4dp12n2db4y2db4n2dp12n4r1n48r3w3db3~x2/"><circle cx="466.0" cy="73.5" r="4" fill="#3465a4"><title>Wallenberg, Nicolas Dress (Personal)</title></circle></a><a href="/variants/s12/t48dp4t8lr2t4r3t4dg14dr7t2dr4r2~x2/"><circle cx="398.0" cy="105.1" r="4" fill="#3465a4"><title>Louth, County</title></circle></a><a href="/variants/s14/dp4o2dp2dpi4o2dp8o2n2oi43n2oi43dpi2dp8oi2~dp1105325-dpi1607327-n1900000-oi2500000/"><circle cx="469.3" cy="108.9" r="4" fill="#3465a4"><title>Orkney Heather</title></circle></a><a href="/variants/s12/n60g2db4r1db4g2n3w1dp20w1n5db2~x2/"><circle cx="480.2" cy="69.4" r="4" fill="#3465a4"><title>Scottish Parliament Official (Corp)</title></circle></a><a href="/variants/s11/t49db11w2db2r2db2t10lb4db2lb2y3~x2~t2203246-db1404245/"><circle cx="461.5" cy="112.0" r="4" fill="#3465a4"><title>Blue Toon (Fashion)</title></circle></a><a href="/variants/s10/n110o3lr14w1dp10w1lr6o3dp4n2~x2~n1700000-lr2800000/"><circle cx="574.8" cy="85.9" r="4" fill="#3465a4"><title>Vetoclock</title></circle></a><a href="/variants/s7/lp6w2lp1db6n30lb1r3~x2/"><circle cx="387.0" cy="117.3" r="4" fill="#3465a4"><title>Kuehle (Personal)</title></circle></a><circle cx="450.3" cy="109.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

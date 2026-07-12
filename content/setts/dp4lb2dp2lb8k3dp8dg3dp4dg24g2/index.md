@@ -1,6 +1,15 @@
 ---
 title: "Jones Htg (Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Jones"
+  url: "/clan/jones/"
+- name: "Jones"
+  url: "/families/jones/"
+- name: "Jones Hunting"
+  url: "/tartans/j/jo/jones-hunting-2/"
 ---
 This is the **Jones Htg (Name)** sett — one scale-free proportion (`dp4lb2dp2lb8k3dp8dg3dp4dg24g2`), colour order pattern
 [BWBWKBGBGG](/stripes/bwbwkbgbgg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g9r6g40dp6g6dp6k6dp36ly4dp8ly4/"><circle cx="204.9" cy="148.7" r="4" fill="#3465a4"><title>Boyle Family, Susan (Personal)</title></circle></a><a href="/variants/s13/g5db20g2db2g2db2g25dr2g2dr17k8g2w2~x2/"><circle cx="180.5" cy="131.5" r="4" fill="#3465a4"><title>Cameron Boyle, The (Personal)</title></circle></a><a href="/variants/s9/y3k18w2k4g12n33k4n5g3~x2/"><circle cx="201.8" cy="131.7" r="4" fill="#3465a4"><title>Smoke Showing (UFES)</title></circle></a><a href="/variants/s10/t5dr3t30k6w4k6dg24dr4dg6dr3/"><circle cx="158.8" cy="157.9" r="4" fill="#3465a4"><title>Law Society of Scotland</title></circle></a><a href="/variants/s9/g5db24g7k10g24y2db2y2r2~x2/"><circle cx="204.5" cy="154.7" r="4" fill="#3465a4"><title>Maitland Chiefs own Tartan</title></circle></a><a href="/variants/s9/g5db24g7k10g24dy2db2dy2r2~x2/"><circle cx="205.9" cy="155.0" r="4" fill="#3465a4"><title>Maitland Chief</title></circle></a><a href="/variants/s8/k3r1y1db11g13db5r1y1~x2/"><circle cx="209.4" cy="153.5" r="4" fill="#3465a4"><title>Snodgrass Family Tartan</title></circle></a><a href="/variants/s13/g5db20g20db2g2db2g25r2g2r17k8g2w2~x2/"><circle cx="209.0" cy="131.5" r="4" fill="#3465a4"><title>Boyle, Cameron (Personal)</title></circle></a><a href="/variants/s9/g11k2g1dr4db1dr4db13lb2db1~x4/"><circle cx="180.7" cy="155.6" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/variants/s11/g6k2g24k10db2o2db2o2db10k2lb3~x2/"><circle cx="178.8" cy="134.0" r="4" fill="#3465a4"><title>Scottish Rugby Union (City of Nagasaki)</title></circle></a><circle cx="206.1" cy="146.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

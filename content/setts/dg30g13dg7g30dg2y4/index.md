@@ -1,6 +1,13 @@
 ---
 title: "MacSporran Rejected design"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacSporran"
+  url: "/clan/macsporran/"
+- name: "MacSporran Rejected design"
+  url: "/tartans/m/ma/macsporran-rejected-design/"
 ---
 This is the **MacSporran Rejected design** sett — one scale-free proportion (`dg30g13dg7g30dg2y4`), colour order pattern
 [GGGGGG](/stripes/gggggg/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r2dg19g2dg2g19dg2y2~x2/"><circle cx="354.2" cy="218.1" r="4" fill="#3465a4"><title>Hunting Kenmore</title></circle></a><a href="/variants/s6/dg5g3dg24g24dg3g5~x2/"><circle cx="437.9" cy="293.5" r="4" fill="#3465a4"><title>Erskine Hunting</title></circle></a><a href="/variants/s6/g4dg18dgi6dg6dgi24ly3~x2~dgi1605139/"><circle cx="418.4" cy="295.6" r="4" fill="#3465a4"><title>Park (Estate Check)</title></circle></a><a href="/variants/s6/r3dg2g32dg32g2w3~x2/"><circle cx="330.3" cy="192.5" r="4" fill="#3465a4"><title>Galloway Hunting</title></circle></a><a href="/variants/s6/r3dg1g32dg32g1y3~x2/"><circle cx="391.7" cy="176.6" r="4" fill="#3465a4"><title>Galloway</title></circle></a><a href="/variants/s6/r3dg1g32dg32g1w3~x2/"><circle cx="352.2" cy="163.5" r="4" fill="#3465a4"><title>Galloway, hunting</title></circle></a><a href="/variants/s7/g24r9g4dg19y2dg6g7~x2/"><circle cx="309.4" cy="230.2" r="4" fill="#3465a4"><title>Doyle</title></circle></a><a href="/variants/s7/dt16g4dt3g3lo2g24dr2~x2/"><circle cx="400.7" cy="222.1" r="4" fill="#3465a4"><title>St. Andrews Links (Corporate)</title></circle></a><a href="/variants/s6/dg2g2dgi7dg10dgi1g1~x4~g2408144-dgi1806142/"><circle cx="461.2" cy="290.7" r="4" fill="#3465a4"><title>Emerald, The</title></circle></a><a href="/variants/s6/dy6g2dy29g29dy2g6~x2/"><circle cx="443.3" cy="255.0" r="4" fill="#3465a4"><title>Harmony 11 #2</title></circle></a><circle cx="423.6" cy="264.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

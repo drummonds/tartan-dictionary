@@ -1,6 +1,9 @@
 ---
 title: "Clan MacLeod"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 **Territory:** Glenelg, Skye & Harris · **1745 strength:** 700 men
 

@@ -1,6 +1,11 @@
 ---
 title: "Unnamed C20th - National Archives"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unnamed C20th"
+  url: "/tartans/u/un/unnamed-c20th-3/"
 ---
 This is the **Unnamed C20th - National Archives** sett — one scale-free proportion (`lb8k1r22ly1r6k3dg10w1k3lb20w1`), colour order pattern
 [WKRYRKGWKWW](/stripes/wkryrkgwkww/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/lb8k4y1k2w3k2g12r24lb2r3k2~x2/"><circle cx="164.3" cy="79.2" r="4" fill="#3465a4"><title>MacLean of Duart #2</title></circle></a><a href="/variants/s11/lb16k12y4k4w6k4g32r50lb6r8k3/"><circle cx="136.3" cy="99.2" r="4" fill="#3465a4"><title>MacLean of Duart #3</title></circle></a><a href="/variants/s11/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/"><circle cx="91.3" cy="93.8" r="4" fill="#3465a4"><title>MacCulloch Dress (Name)</title></circle></a><a href="/variants/s10/ly6k2r12dg4r8k10w24lb2w3lb2~x2/"><circle cx="89.7" cy="124.6" r="4" fill="#3465a4"><title>Gillies Red Dress</title></circle></a><a href="/variants/s10/y6k2r15g5r8k12w24lb2w4lb2~x2/"><circle cx="80.2" cy="129.1" r="4" fill="#3465a4"><title>Gillies Dress Red Clan Tartan</title></circle></a><a href="/variants/s11/r27w2r3b4r3w2r5k13ri2w26dg3~x2~r2109032-ri2806019/"><circle cx="148.1" cy="98.1" r="4" fill="#3465a4"><title>MacKellar Dress Red</title></circle></a><a href="/variants/s11/lb16k12y4k4w6k4dg32r50lb6r8k3/"><circle cx="137.2" cy="96.9" r="4" fill="#3465a4"><title>Maclean of Duart (Wilsons) (Clan)</title></circle></a><a href="/variants/s11/lb13k6y2k3w4k3g22r31lb3r4k2~x2/"><circle cx="125.0" cy="102.3" r="4" fill="#3465a4"><title>MacLean of Duart #4</title></circle></a><a href="/variants/s9/lb44db2lb4db2lb6k16r40db2o11/"><circle cx="194.7" cy="106.9" r="4" fill="#3465a4"><title>(1) Stewart, modern</title></circle></a><a href="/variants/s10/w3r28k1n5k1y3g8r5w21k2~x2/"><circle cx="185.2" cy="79.3" r="4" fill="#3465a4"><title>Cape Breton Polish Society</title></circle></a><circle cx="152.0" cy="91.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

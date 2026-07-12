@@ -1,6 +1,15 @@
 ---
 title: "MacEwen (Clans Originaux)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacEwen"
+  url: "/clan/macewen/"
+- name: "MacEwen"
+  url: "/families/macewen/"
+- name: "MacEwen"
+  url: "/tartans/m/ma/macewen/"
 ---
 This is the **MacEwen (Clans Originaux)** sett — one scale-free proportion (`k1g6k6db1k1db1k1db7k1db1k1db1k6g6k1r1k1g6k6db6k1db1k1db6k6g6k1ly1`), colour order pattern
 [KGKBKBKBKBKBKGKRKGKBKBKBKGKY](/stripes/kgkbkbkbkbkbkgkrkgkbkbkbkgky/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s28/k8g8k1y2k1g8k8db8k1db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1~x2/"><circle cx="112.0" cy="126.5" r="4" fill="#3465a4"><title>Campbell of Argyll Clan Tartan</title></circle></a><a href="/variants/s28/k1t8k8g8k1w2k1g8k8t1k1t1k1t8k1t1k1t1k8g8k1y2k1g8k8t8k1t1~x2~w4000000/"><circle cx="103.5" cy="126.8" r="4" fill="#3465a4"><title>Campbell of Argyll #2</title></circle></a><a href="/variants/s28/k16g8k1y2k1g8k8db8k1db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1~x2/"><circle cx="156.1" cy="92.3" r="4" fill="#3465a4"><title>Campbell of Argyll</title></circle></a><a href="/variants/s28/k13g13k1ly3k1g13k13t12k2t2k2t12k13g13k1w3k1g13k13t2k2t2k2t13k2t2k2t2~x4/"><circle cx="117.2" cy="109.9" r="4" fill="#3465a4"><title>Campbell of Argyll (Clan)</title></circle></a><a href="/variants/s29/db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1k8g8db1y2db1g8k8db8k1db1/"><circle cx="105.6" cy="124.7" r="4" fill="#3465a4"><title>Campbell Argyll</title></circle></a><a href="/variants/s29/db1k1db8k8g8k1y2k1g8k8db1k1db1k1db8k1db1k1db1k8g8k1w2k1g8k8db8k1db1~x2/"><circle cx="111.4" cy="123.8" r="4" fill="#3465a4"><title>Campbell of Argyll</title></circle></a><a href="/variants/s29/db4k1db1k1db1k8g8k1w2k1g8k8db8k1db1k1db8k8g8k1ly2k1g8k8db1k1db1k1db4~x8/"><circle cx="108.3" cy="125.3" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/variants/s29/db1k1db8k8g8k1y4k1g8k8db1k1db1k1db16k1db1k1db1k8g8k1w4k1g8k8db8k1db1/"><circle cx="115.9" cy="94.9" r="4" fill="#3465a4"><title>Campbell of Argyll</title></circle></a><a href="/variants/s22/db16k16g2k2g2k2g16k2g2k2g2k16y8k2db2k2y8k16db16k2r5k2~x2/"><circle cx="134.1" cy="126.7" r="4" fill="#3465a4"><title>Lamquet (2015)</title></circle></a><a href="/variants/s26/db8g2db8k2db2k2db2k4g11r2g11k4g2k9g2k9g2k4g11y2g11k4db2k2db2k4~x2/"><circle cx="106.2" cy="157.5" r="4" fill="#3465a4"><title>Stuart/Stewart Hunting #3</title></circle></a><circle cx="112.1" cy="133.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

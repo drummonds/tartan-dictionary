@@ -1,6 +1,11 @@
 ---
 title: "Confederate Artillery"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Confederate Artillery"
+  url: "/tartans/c/co/confederate-artillery/"
 ---
 This is the **Confederate Artillery** sett — one scale-free proportion (`dg2ly14dg8ly3dg12r2`), colour order pattern
 [GYGYGR](/stripes/gygygr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg68r24dg8ly18dg3ly18~x2/"><circle cx="340.4" cy="184.5" r="4" fill="#3465a4"><title>MacMillan/Isetan (Corporate)</title></circle></a><a href="/variants/s6/dg2ly14dg8ly3dg12db2~x2/"><circle cx="306.5" cy="262.9" r="4" fill="#3465a4"><title>Confederate Infantry</title></circle></a><a href="/variants/s7/g1dy8g8r1g8dy8w1~x2/"><circle cx="296.9" cy="244.3" r="4" fill="#3465a4"><title>MacKinnon Hunting Clan Tartan</title></circle></a><a href="/variants/s7/g1dy8g8r1g8dy8w1~x4/"><circle cx="296.9" cy="244.3" r="4" fill="#3465a4"><title>MacKinnon Htg (Clan)</title></circle></a><a href="/variants/s6/ly11dg5ly10g4dg26ly4~x2~dg1806142-g2408144/"><circle cx="342.0" cy="279.4" r="4" fill="#3465a4"><title>North Dakota State University (Corp.</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2~x2/"><circle cx="279.2" cy="231.2" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting)</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2/"><circle cx="279.2" cy="231.2" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3dy2~x2/"><circle cx="277.6" cy="230.4" r="4" fill="#3465a4"><title>Cameron Hunting Clan Tartan</title></circle></a><a href="/variants/s7/r5g20r5g20db24g6y4/"><circle cx="273.9" cy="249.4" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting) Clan/Family Tartan</title></circle></a><a href="/variants/s7/ly12dg4ly24k9ly8dg36dr4/"><circle cx="202.8" cy="199.0" r="4" fill="#3465a4"><title>Harmer (Corporate)</title></circle></a><circle cx="285.8" cy="247.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

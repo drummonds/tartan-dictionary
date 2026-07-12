@@ -1,6 +1,11 @@
 ---
 title: "Louth County, Crest Range"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Louth County, Crest Range"
+  url: "/tartans/l/lo/louth-county-crest-range/"
 ---
 This is the **Louth County, Crest Range** sett — one scale-free proportion (`dy16y5k8y8k16dg48k4g46w8k8r8`), colour order pattern
 [GGKGKGKGWKR](/stripes/ggkgkgkgwkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k4dg10dy4dg10k4g20dg5k2do6k2r10k2w4~x2/"><circle cx="37.9" cy="134.7" r="4" fill="#3465a4"><title>Donegal County, Crest Range</title></circle></a><a href="/variants/s13/r2k1o5k7w2k14db8g15w2g7r5g1lo2~x2/"><circle cx="50.2" cy="105.4" r="4" fill="#3465a4"><title>Nashotah House (Commemorative)</title></circle></a><a href="/variants/s17/k12g16lb2do12g2y10k4y8n27k30lb6n27g20lo4k2lb4k4~x2/"><circle cx="40.4" cy="100.7" r="4" fill="#3465a4"><title>Le Cercle des Femmes (Corporate)</title></circle></a><a href="/variants/s11/k4r1k3r2ly3k12dg10dgi18db3n3db3~x2~dgi1605139/"><circle cx="86.9" cy="109.6" r="4" fill="#3465a4"><title>Blake (Personal)</title></circle></a><a href="/variants/s11/y40k5g48k5dr20k5n14k10w4dr28n10/"><circle cx="82.1" cy="149.8" r="4" fill="#3465a4"><title>Kildare County, Crest Range</title></circle></a><a href="/variants/s13/r2k2o6k10w2k14db8g15w2g7r5g1lo2~x2/"><circle cx="54.3" cy="108.2" r="4" fill="#3465a4"><title>Nashotah House</title></circle></a><a href="/variants/s13/k4dg10ly4dg10k4g20dg5k2ly6k2r10k2w4~x2/"><circle cx="41.6" cy="144.1" r="4" fill="#3465a4"><title>Donegal County Crest (Fashion)</title></circle></a><a href="/variants/s10/g2ly1g13y2g1k12db10r1db1w2~x2/"><circle cx="93.9" cy="109.5" r="4" fill="#3465a4"><title>Bullman (Name)</title></circle></a><a href="/variants/s8/k3dbi3g15db15o5lo3dy2o1~x2~dbi1406275-db1204274/"><circle cx="106.4" cy="131.9" r="4" fill="#3465a4"><title>Young Family Tartan</title></circle></a><a href="/variants/s12/y5g19r2t11lb2r11g11r2k20r2k2lb2~x2~t2503227-lb3103284/"><circle cx="73.4" cy="134.5" r="4" fill="#3465a4"><title>Gordonstoun (Corporate)</title></circle></a><circle cx="52.2" cy="121.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,13 @@
 ---
 title: "North Berwick (Dance)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan North"
+  url: "/clan/north/"
+- name: "North Berwick"
+  url: "/tartans/n/no/north-berwick/"
 ---
 This is the **North Berwick (Dance)** sett — one scale-free proportion (`db10r2db10r10dg2r2dg2r2dg10r1w2`), colour order pattern
 [BRBRGRGRGRW](/stripes/brbrgrgrgrw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db3dg26db3r3db20r3db3r26dg5w3~x2/"><circle cx="205.7" cy="186.6" r="4" fill="#3465a4"><title>Roxburgh Red District Tartan</title></circle></a><a href="/variants/s10/r12y4r38dg25db8dg10db8dg8db25r3/"><circle cx="224.1" cy="192.1" r="4" fill="#3465a4"><title>MacEdward (Personal)</title></circle></a><a href="/variants/s8/db3dbi1g5db3r9db1r1db2~x4~db0906265-dbi1208266/"><circle cx="210.5" cy="202.7" r="4" fill="#3465a4"><title>Unidentified #61</title></circle></a><a href="/variants/s10/db1g4db1r1db1y1db5r6db1y1~x2/"><circle cx="207.5" cy="213.2" r="4" fill="#3465a4"><title>Unidentified Specimen #3</title></circle></a><a href="/variants/s12/db16r2db2r2g14r13w2r13g14db14r2db2~x2/"><circle cx="177.2" cy="201.3" r="4" fill="#3465a4"><title>Fraser of Lovat</title></circle></a><a href="/variants/s10/r12y4r38g25db8g10db8g8db25r3/"><circle cx="208.6" cy="190.2" r="4" fill="#3465a4"><title>MacEdward Tartan</title></circle></a><a href="/variants/s12/db16r1db1r1g12r16w2r16g12db12r1db1~x2/"><circle cx="218.1" cy="163.7" r="4" fill="#3465a4"><title>Fraser of Lovat Clan Tartan</title></circle></a><a href="/variants/s12/db20r2db2r2dg19r18dg2r18dg19db19r2db2~x2/"><circle cx="232.4" cy="207.7" r="4" fill="#3465a4"><title>Fraser - 1800</title></circle></a><a href="/variants/s12/db20r2db2r2g19r18g2r18g19db19r2db2~x2/"><circle cx="210.9" cy="203.9" r="4" fill="#3465a4"><title>Fraser of Stratherrick</title></circle></a><a href="/variants/s12/db28r3db3r3g20r30g4r30g20db22r3db3~x2/"><circle cx="235.3" cy="200.3" r="4" fill="#3465a4"><title>Fraser Stewart of Athol</title></circle></a><circle cx="202.8" cy="190.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

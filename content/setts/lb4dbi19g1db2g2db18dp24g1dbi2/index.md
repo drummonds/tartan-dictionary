@@ -1,6 +1,11 @@
 ---
 title: "Spirit of Alba"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Spirit of Alba"
+  url: "/tartans/s/sp/spirit-of-alba/"
 ---
 This is the **Spirit of Alba** sett — one scale-free proportion (`lb4dbi19g1db2g2db18dp24g1dbi2`), colour order pattern
 [BGBBGBGBWBGBGBBG](/stripes/bgbbgbgbwbgbgbbg/). It is recorded as a single **variant**, below.

@@ -1,6 +1,11 @@
 ---
 title: "Antigua & Barbuda"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Antigua & Barbuda"
+  url: "/tartans/a/an/antigua-barbuda/"
 ---
 This is the **Antigua & Barbuda** sett — one scale-free proportion (`r30g3lo3g3lo3g3lo3g3lo3g3lo3g3lo10r5`), colour order pattern
 [RGYGYGYGYGYGYR](/stripes/rgygygygygygyr/). It is recorded as **2 variants** — the same
@@ -23,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/r30g3lo3g3lo3g3lo3g3lo3g3lo3g3lo10r5~x2~g2408144/"><circle cx="315.2" cy="170.9" r="4" fill="#3465a4"><title>Antigua &amp; Barbuda</title></circle></a><a href="/variants/s11/g1r1ly8r6g1ly1g1r6g6r1ly1~x4/"><circle cx="267.1" cy="213.2" r="4" fill="#3465a4"><title>Strathearn (Royal)</title></circle></a><a href="/variants/s14/r45dp4r4g48r4dp4r4dp15r4dp4r40g4r4g30/"><circle cx="321.2" cy="168.7" r="4" fill="#3465a4"><title>Bruce Old Clan Tartan</title></circle></a><a href="/variants/s12/lo28r3lo3db5lo3g3r3g12r3g3lo6db3~x2~lo2706066-r2109032/"><circle cx="314.4" cy="176.6" r="4" fill="#3465a4"><title>Bird of Paradise</title></circle></a><a href="/variants/s10/dy1r1ly7r7dy1ly1dy1r7ly7r1~x4~r2109032/"><circle cx="295.6" cy="215.8" r="4" fill="#3465a4"><title>Unidentified Lindley #5</title></circle></a><a href="/variants/s14/r2w1g1r16g7r1w1g1w1r1g7w2r1g2~x2/"><circle cx="317.4" cy="142.4" r="4" fill="#3465a4"><title>Mordente (Personal)</title></circle></a><a href="/variants/s14/r2w1g1r16g7r1w1g1w1r1g7w2r1g2~x4/"><circle cx="317.4" cy="142.4" r="4" fill="#3465a4"><title>Mordente (Personal)</title></circle></a><a href="/variants/s14/r1w1g1r16g7r1w1g1w1r1g7w2r1g1~x2/"><circle cx="318.4" cy="137.8" r="4" fill="#3465a4"><title>Mordente Family Tartan</title></circle></a><a href="/variants/s14/r45db4r4g48r4db4r4db15r4db4r40g4r4g30/"><circle cx="311.7" cy="167.4" r="4" fill="#3465a4"><title>Bruce Old</title></circle></a><a href="/variants/s11/g18r3g2r2db6r2g2r24g2r2g6~x2/"><circle cx="328.0" cy="176.0" r="4" fill="#3465a4"><title>MacDonald of Vallay (Uist) (?)</title></circle></a><circle cx="314.1" cy="170.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

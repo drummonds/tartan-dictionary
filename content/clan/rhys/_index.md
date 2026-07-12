@@ -1,8 +1,11 @@
 ---
 title: "Clan Rhys"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
-*A clan defined by its tartans — the dictionary holds no separate clan history for it, only the cloth that carries its name.*
+Welsh surname tartan (Rees, Preece, Reese), woven at Cambrian Woollen Mill; differing warp and weft create predominant vertical stripe.
 
 ## Tartan
 

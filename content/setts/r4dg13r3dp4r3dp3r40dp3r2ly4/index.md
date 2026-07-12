@@ -1,6 +1,11 @@
 ---
 title: "Galway, County"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Galway, County"
+  url: "/tartans/g/ga/galway-county/"
 ---
 This is the **Galway, County** sett — one scale-free proportion (`r4dg13r3dp4r3dp3r40dp3r2ly4`), colour order pattern
 [RGRBRBRBRY](/stripes/rgrbrbrbry/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r7w2r36t6dg3t3dg3t3dg12r4~x2/"><circle cx="366.3" cy="134.9" r="4" fill="#3465a4"><title>Chisholm of Strathglass</title></circle></a><a href="/variants/s6/r29g2r2g2r6dy21~x4/"><circle cx="419.1" cy="164.0" r="4" fill="#3465a4"><title>Maguire Clan Family Tartan</title></circle></a><a href="/variants/s8/r6g14r6db11r31lb2r4y3~x2/"><circle cx="344.4" cy="158.9" r="4" fill="#3465a4"><title>Loch Lochy</title></circle></a><a href="/variants/s7/r6w3n6lb10r38w2n4/"><circle cx="424.3" cy="157.7" r="4" fill="#3465a4"><title>Washington State University Cougar</title></circle></a><a href="/variants/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/"><circle cx="375.5" cy="124.8" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/variants/s14/dp2r1dp1r31dp8r2dp8r3g1r2g1r3g5r2~x2/"><circle cx="459.2" cy="104.7" r="4" fill="#3465a4"><title>Ross, Old</title></circle></a><a href="/variants/s8/r60db8w3db10y3lb4y3r19~x2/"><circle cx="448.6" cy="115.3" r="4" fill="#3465a4"><title>Princess Elizabeth #2</title></circle></a><a href="/variants/s8/r68db27r5y3r5g3r13lb3~x2/"><circle cx="460.6" cy="112.6" r="4" fill="#3465a4"><title>De Nardi #2 (Personal)</title></circle></a><a href="/variants/s7/dg1y1dg1w1dg10r20y1~x4/"><circle cx="385.9" cy="139.6" r="4" fill="#3465a4"><title>Maver (Buckie)</title></circle></a><a href="/variants/s8/r68db26r5y3r5g3r13n3~x2/"><circle cx="471.9" cy="114.3" r="4" fill="#3465a4"><title>De Nardi (Personal)</title></circle></a><circle cx="431.6" cy="122.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

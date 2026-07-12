@@ -1,6 +1,15 @@
 ---
 title: "Manitoba"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Manitoba"
+  url: "/clan/manitoba/"
+- name: "Manitoba"
+  url: "/families/manitoba/"
+- name: "Manitoba"
+  url: "/tartans/m/ma/manitoba-4/"
 ---
 This is the **Manitoba** sett — one scale-free proportion (`y6r21b2dg6b41lb2b2lb6`), colour order pattern
 [GRBGBWBW](/stripes/grbgbwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w8db4y2db36lb48db2lb4r5~x2/"><circle cx="281.8" cy="129.7" r="4" fill="#3465a4"><title>MacRaes of America</title></circle></a><a href="/variants/s7/dr2b16r1dr2r12y1lb1~x2/"><circle cx="309.5" cy="159.4" r="4" fill="#3465a4"><title>Spragg, Andrew</title></circle></a><a href="/variants/s7/db2y1db18g7r7db1g1~x2/"><circle cx="339.6" cy="166.5" r="4" fill="#3465a4"><title>Unnamed C20th - USA</title></circle></a><a href="/variants/s6/y2dt1t29r29dt1g2~x2~dt1703227-t2004245/"><circle cx="370.1" cy="149.1" r="4" fill="#3465a4"><title>Reagan</title></circle></a><a href="/variants/s6/g2db1r29t29db1lo2~x2/"><circle cx="348.0" cy="132.1" r="4" fill="#3465a4"><title>Reagan Clan Tartan</title></circle></a><a href="/variants/s10/r4db2dp14db12y1t32db12t14db2g4~x2~db1003265-t2503227/"><circle cx="272.9" cy="126.9" r="4" fill="#3465a4"><title>Timmins (2013)</title></circle></a><a href="/variants/s10/dp4db20y1db2y1db4y4g4w4r4~x2/"><circle cx="256.9" cy="119.8" r="4" fill="#3465a4"><title>Yukon District Tartan</title></circle></a><a href="/variants/s10/db37w2db2y2r17w2db2g17y2db2~x2/"><circle cx="269.7" cy="121.1" r="4" fill="#3465a4"><title>MDF (Personal)</title></circle></a><a href="/variants/s8/db1lyi1db13ly3y3ly3r1ly1~x4~lyi2705081-ly2503076/"><circle cx="309.0" cy="162.4" r="4" fill="#3465a4"><title>Glen Moray</title></circle></a><a href="/variants/s6/r28ri1db18ly2g1db18~x2~r1807033-ri2109032/"><circle cx="356.7" cy="154.0" r="4" fill="#3465a4"><title>European Judo Union</title></circle></a><circle cx="329.6" cy="146.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

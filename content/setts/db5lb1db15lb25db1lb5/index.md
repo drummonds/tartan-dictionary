@@ -1,6 +1,11 @@
 ---
 title: "Dram! (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Dram!"
+  url: "/tartans/d/dr/dram/"
 ---
 This is the **Dram! (Corporate)** sett — one scale-free proportion (`db5lb1db15lb25db1lb5`), colour order pattern
 [BWBWBW](/stripes/bwbwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db13lb1db3lb6y1lb1~x4/"><circle cx="414.6" cy="214.7" r="4" fill="#3465a4"><title>Hepburn #2</title></circle></a><a href="/variants/s6/db3lb3db16lb16db16w3~x2/"><circle cx="359.6" cy="289.3" r="4" fill="#3465a4"><title>Murray Taylor</title></circle></a><a href="/variants/s7/lb6r1lb17db3lb3db8lb1~x2/"><circle cx="427.5" cy="192.9" r="4" fill="#3465a4"><title>Dominion (Fashion)</title></circle></a><a href="/variants/s6/w8db16w2db2w1db1~x4/"><circle cx="440.0" cy="223.5" r="4" fill="#3465a4"><title>Ikelman #1 (Personal)</title></circle></a><a href="/variants/s7/db36lo5db8lb3db8lb10db3~x2/"><circle cx="491.6" cy="219.6" r="4" fill="#3465a4"><title>Scottish Qualifications Auth. (Corp)</title></circle></a><a href="/variants/s6/db144dr9lb44db4lb4db4/"><circle cx="539.3" cy="162.3" r="4" fill="#3465a4"><title>United French Freemasons (Corporate</title></circle></a><a href="/variants/s6/w4db25lb25db2lb5w2~x2/"><circle cx="338.6" cy="235.5" r="4" fill="#3465a4"><title>Douglas Variation</title></circle></a><a href="/variants/s6/db6w2db29w29db2w6~x2/"><circle cx="376.1" cy="239.8" r="4" fill="#3465a4"><title>Erskine Royal Blue Dress Clan Tartan</title></circle></a><a href="/variants/s8/db2lb2db15lb1w10lb15db2lb2~x2/"><circle cx="290.3" cy="221.5" r="4" fill="#3465a4"><title>Bannockbane Light Blue</title></circle></a><a href="/variants/s8/db28ly3lb1ly3db4lb2dp1lb5~x4/"><circle cx="457.8" cy="148.0" r="4" fill="#3465a4"><title>Baker (Name)</title></circle></a><circle cx="453.6" cy="220.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

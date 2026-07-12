@@ -1,6 +1,15 @@
 ---
 title: "Dunbar Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Dunbar"
+  url: "/clan/dunbar/"
+- name: "Dunbar"
+  url: "/families/dunbar/"
+- name: "Dunbar"
+  url: "/tartans/d/du/dunbar-4/"
 ---
 This is the **Dunbar Family Tartan** sett — one scale-free proportion (`r6g21k8r28k1r4`), colour order pattern
 [RGKRKR](/stripes/rgkrkr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r6g21k8r28k2r4~x2/"><circle cx="290.6" cy="184.1" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/variants/s6/r10g24k10r28lb3r6~x2/"><circle cx="246.8" cy="202.5" r="4" fill="#3465a4"><title>Nisbet</title></circle></a><a href="/variants/s7/r4k2r24k6db6g16r3~x2/"><circle cx="233.0" cy="168.4" r="4" fill="#3465a4"><title>MacDuff #4</title></circle></a><a href="/variants/s6/r5w2r28k12g16r3~x2/"><circle cx="257.2" cy="169.5" r="4" fill="#3465a4"><title>Nisbet Family Tartan</title></circle></a><a href="/variants/s6/r6g21k8r28g1r4~x2/"><circle cx="326.8" cy="158.7" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/variants/s6/r52k32g22r16y3r16/"><circle cx="281.3" cy="173.7" r="4" fill="#3465a4"><title>Sturrock</title></circle></a><a href="/variants/s7/k2r4w1r10g12r2w2~x4/"><circle cx="238.9" cy="174.5" r="4" fill="#3465a4"><title>Starr (1978) (Name)</title></circle></a><a href="/variants/s6/r22db5r2g11r3db1/"><circle cx="407.2" cy="178.6" r="4" fill="#3465a4"><title>MacKintosh D</title></circle></a><a href="/variants/s6/r22db5r2g11r3db1~x2/"><circle cx="407.2" cy="178.6" r="4" fill="#3465a4"><title>MacKintosh Clan Tartan</title></circle></a><a href="/variants/s6/r68db18r9g34r9db3~x2/"><circle cx="400.7" cy="181.1" r="4" fill="#3465a4"><title>MacKintosh #2</title></circle></a><circle cx="321.2" cy="156.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

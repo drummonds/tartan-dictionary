@@ -1,6 +1,11 @@
 ---
 title: "Scottish Motor Trade Association Trade Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Scottish Motor Trade Association"
+  url: "/tartans/s/sc/scottish-motor-trade-association/"
 ---
 This is the **Scottish Motor Trade Association Trade Tartan** sett — one scale-free proportion (`g5t2g16t10k2w3db6t14w2db4w2`), colour order pattern
 [BGBKWBBWBWBWBBWKBGBG](/stripes/bgbkwbbwbwbwbbwkbgbg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g5lb2g16lb10k2w3db6lb14w2db4w2~x2/"><circle cx="140.3" cy="183.4" r="4" fill="#3465a4"><title>Scottish Motor Trade Assoc. (Corp)</title></circle></a><a href="/variants/s18/k3db3k3db18g20k3g3y3g3k3g20lb3db3lb3db3lb12db3lb3~x2/"><circle cx="123.4" cy="146.3" r="4" fill="#3465a4"><title>Johnston Dress (Clan?)</title></circle></a><a href="/variants/s10/t13g19k2t7k2g7k2db18r2t13~x2~db1406275/"><circle cx="140.1" cy="160.8" r="4" fill="#3465a4"><title>South Australia</title></circle></a><a href="/variants/s20/g6k3g18r4db4w4g18k3g6k3db6k3db18w4db4r4db18k3db6k3~x2~db1406275/"><circle cx="113.8" cy="156.9" r="4" fill="#3465a4"><title>Shaw of Carolina Clan Tartan</title></circle></a><a href="/variants/s11/dbi6k3dbi3db13g13k1g13db13w1dbi3k3~x2~dbi1406275-db1404245/"><circle cx="170.8" cy="151.2" r="4" fill="#3465a4"><title>Wacker</title></circle></a><a href="/variants/s18/k3db3k3db18g20k3g3y3g3k3g20lb3db3lb3db3lb12db3lb3~x2~db1406275/"><circle cx="120.4" cy="123.6" r="4" fill="#3465a4"><title>Johnston Dress (Dalgleish)</title></circle></a><a href="/variants/s20/g6k3g18r4db4w4g18k3g6k3db6k3db18w4db4r4db18k3db6k3~x2~r2109032-db1204274/"><circle cx="112.8" cy="156.5" r="4" fill="#3465a4"><title>Shaw of Carolina (Personal)</title></circle></a><a href="/variants/s18/k2b6ly2b2ly2b19r2g2r2b2db4k2db11g2db2g2db6ly2~x2~b2602222-db1404245/"><circle cx="150.9" cy="122.8" r="4" fill="#3465a4"><title>Harmon of Plenderleith Personal Tartan</title></circle></a><a href="/variants/s14/db14lb2db2dr2db3k12g14k2g4k2g14db14lb14dr2~x2/"><circle cx="78.5" cy="170.3" r="4" fill="#3465a4"><title>Scotland's National Dress</title></circle></a><a href="/variants/s14/b4g1b1g6k1g6b1g1b4w1k4g1k4y2~x4/"><circle cx="102.7" cy="181.9" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><circle cx="137.0" cy="160.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

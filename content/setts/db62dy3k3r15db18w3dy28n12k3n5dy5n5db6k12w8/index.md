@@ -1,6 +1,13 @@
 ---
 title: "Clare County, Crest Range"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Clare"
+  url: "/clan/clare/"
+- name: "Clare County, Crest Range"
+  url: "/tartans/c/cl/clare-county-crest-range/"
 ---
 This is the **Clare County, Crest Range** sett — one scale-free proportion (`db62dy3k3r15db18w3dy28n12k3n5dy5n5db6k12w8`), colour order pattern
 [BGKRBWGBKBGBBKW](/stripes/bgkrbwgbkbgbbkw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db62ly3k3r15db18w3ly28n12k3n5ly5n5db6k12w8/"><circle cx="159.6" cy="73.5" r="4" fill="#3465a4"><title>Clare County Crest (Fashion)</title></circle></a><a href="/variants/s13/k2dp4o4dp3g20dp5k4dp3k7dp3k3db35w2~x2/"><circle cx="153.8" cy="96.0" r="4" fill="#3465a4"><title>Spirit of Bannockburn (Fashion)</title></circle></a><a href="/variants/s12/dg4r1dg1r3dg16k12r1db27lb2db3lb1y2~x2/"><circle cx="209.2" cy="82.9" r="4" fill="#3465a4"><title>McGuirk (2013)</title></circle></a><a href="/variants/s14/w4k1db24k1r8w2g8w2db8k1y2k8y2k1~x2/"><circle cx="154.5" cy="72.6" r="4" fill="#3465a4"><title>South Africa</title></circle></a><a href="/variants/s13/g3dp2k4dp2k2dp10dpi2dp2dpi2g3k4db30lb3~x2~dp1406341-dpi1607327/"><circle cx="206.8" cy="95.0" r="4" fill="#3465a4"><title>Scotland 1782 (Fashion)</title></circle></a><a href="/variants/s17/k3db2g2db26b1db1b1db1b1db1b3lb2k10db3g14k3r3~x2/"><circle cx="185.9" cy="55.5" r="4" fill="#3465a4"><title>St Lawrence</title></circle></a><a href="/variants/s11/dr1db15k2ly1k1t1k5dr4k1dr2w1~x4/"><circle cx="199.9" cy="101.9" r="4" fill="#3465a4"><title>Glen Stewart</title></circle></a><a href="/variants/s12/db33r8k12dy2k4w4k4g12db8k4db4w2~x2/"><circle cx="163.1" cy="103.1" r="4" fill="#3465a4"><title>MacLulich</title></circle></a><a href="/variants/s12/db33r8k12y2k4w4k4g12db8k4db4w2~x2/"><circle cx="162.1" cy="102.9" r="4" fill="#3465a4"><title>MacLulich Clan Tartan</title></circle></a><a href="/variants/s12/n20r2db4lb2db4r2db4k1db1k1db1k4~x4/"><circle cx="232.7" cy="104.8" r="4" fill="#3465a4"><title>Broz Sanz Elementary School</title></circle></a><circle cx="190.0" cy="82.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

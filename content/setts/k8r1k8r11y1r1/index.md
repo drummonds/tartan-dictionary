@@ -1,6 +1,11 @@
 ---
 title: "Swanstrom (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Swanstrom"
+  url: "/tartans/s/sw/swanstrom/"
 ---
 This is the **Swanstrom (Personal)** sett — one scale-free proportion (`k8r1k8r11y1r1`), colour order pattern
 [KRKRGR](/stripes/krkrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r8k1r8k12r1~x2/"><circle cx="324.6" cy="209.9" r="4" fill="#3465a4"><title>MacLeod Black &amp; Red</title></circle></a><a href="/variants/s5/r4k1r24k22r2~x2/"><circle cx="361.8" cy="163.8" r="4" fill="#3465a4"><title>Campbell Red (artefact)</title></circle></a><a href="/variants/s5/r4k1r12k12r2~x2/"><circle cx="334.9" cy="204.0" r="4" fill="#3465a4"><title>Campbell of Armaddie</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y1~x2/"><circle cx="274.5" cy="187.7" r="4" fill="#3465a4"><title>MacKeane (Clan?)</title></circle></a><a href="/variants/s6/k31r4k47r47k4r31~x2/"><circle cx="289.4" cy="213.5" r="4" fill="#3465a4"><title>Erskine (Paton)</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y2~x4/"><circle cx="259.1" cy="193.1" r="4" fill="#3465a4"><title>MacDonald of Ardnamurchan (Clan?)</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y2~x2/"><circle cx="259.1" cy="193.1" r="4" fill="#3465a4"><title>MacKeane (MacIan) Clan Tartan</title></circle></a><a href="/variants/s6/k6r3k28r28k3r6~x2/"><circle cx="300.9" cy="198.4" r="4" fill="#3465a4"><title>Erskine, Black &amp; Red (Clan)</title></circle></a><a href="/variants/s5/k13r2k13r19k2~x2/"><circle cx="311.5" cy="221.8" r="4" fill="#3465a4"><title>MacLeod of Raasay (Highland Society of London)</title></circle></a><a href="/variants/s6/k3r1k16r16k1r3~x4/"><circle cx="323.1" cy="171.4" r="4" fill="#3465a4"><title>The Mary Erskine</title></circle></a><circle cx="283.9" cy="185.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

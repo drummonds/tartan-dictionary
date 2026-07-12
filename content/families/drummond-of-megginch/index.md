@@ -1,6 +1,11 @@
 ---
 title: "Drummond of Megginch"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Drummond"
+  url: "/clan/drummond/"
 ---
 A family of [Clan Drummond](/clan/drummond/).
 

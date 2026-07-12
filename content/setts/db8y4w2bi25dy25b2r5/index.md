@@ -1,6 +1,11 @@
 ---
 title: "Kildrummie"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Kildrummie"
+  url: "/tartans/k/ki/kildrummie/"
 ---
 This is the **Kildrummie** sett — one scale-free proportion (`db8y4w2bi25dy25b2r5`), colour order pattern
 [BGWBGBR](/stripes/bgwbgbr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dbi8y4w2db25dy25dbii2r5~x2~dbi1404245-db1106275-dbii1406275/"><circle cx="202.0" cy="169.0" r="4" fill="#3465a4"><title>Kildrummie (Name)</title></circle></a><a href="/variants/s7/r3db25k6lb20y2lb2w3~x2/"><circle cx="155.2" cy="137.5" r="4" fill="#3465a4"><title>Madras College (Corporate)</title></circle></a><a href="/variants/s6/t12db35lb4w3k11dr5~x2/"><circle cx="196.9" cy="157.0" r="4" fill="#3465a4"><title>Ferster, James Carney (Personal)</title></circle></a><a href="/variants/s7/r3db20t20g2lr4lb17w3~x2~t2405244-lr2800000-lb3401240/"><circle cx="101.3" cy="178.2" r="4" fill="#3465a4"><title>Silversea (Corporate)</title></circle></a><a href="/variants/s8/r3lb25db6dbi3r2t5dbi18w3~x2~db1004274-dbi1106275/"><circle cx="161.6" cy="152.4" r="4" fill="#3465a4"><title>Fulbright Foundation</title></circle></a><a href="/variants/s7/r3dt20db20g2lr4lri17w3~x2~lr3001120-lri3001240/"><circle cx="101.0" cy="176.2" r="4" fill="#3465a4"><title>Silversea</title></circle></a><a href="/variants/s7/db36dy5dr12r9dp5w12dy7~x2/"><circle cx="146.0" cy="189.8" r="4" fill="#3465a4"><title>Galvez-Brown</title></circle></a><a href="/variants/s6/dr3db38k13w3n20dy2~x2/"><circle cx="233.5" cy="142.1" r="4" fill="#3465a4"><title>LLoyd of Astargus Canadian Family Tartan</title></circle></a><a href="/variants/s8/db1lb12dp6w1y3db14dbi18w1~x2~db1004274-dbi1404245/"><circle cx="179.2" cy="169.4" r="4" fill="#3465a4"><title>Ancient Gathering</title></circle></a><a href="/variants/s7/dp2g6r1y1db3b10w1~x2/"><circle cx="180.6" cy="172.8" r="4" fill="#3465a4"><title>Manx National</title></circle></a><circle cx="154.7" cy="155.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Cornish Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cornish"
+  url: "/clan/cornish/"
+- name: "Cornish"
+  url: "/families/cornish/"
+- name: "Cornish Hunting"
+  url: "/tartans/c/co/cornish-hunting/"
 ---
 This is the **Cornish Hunting** sett — one scale-free proportion (`k26ly2g24db8k4r3k4db8g24ly2k26w5`), colour order pattern
 [KYGBKRKBGYKW](/stripes/kygbkrkbgykw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k3gi2k12db4g19dr3g19db4k12gi2dy3~x2~gi2504202-g2203152/"><circle cx="152.5" cy="146.6" r="4" fill="#3465a4"><title>Loch Lomond Millenium Comemmorative Tartan</title></circle></a><a href="/variants/s11/k6g20lb2r5lb2k20y3db20g26r3db5~x2/"><circle cx="125.8" cy="134.9" r="4" fill="#3465a4"><title>Stephenson Clan Tartan</title></circle></a><a href="/variants/s11/k6g20lb2dr5lb2k20lo3db20g26dr3db5~x2/"><circle cx="127.7" cy="136.6" r="4" fill="#3465a4"><title>Stephenson (Name)</title></circle></a><a href="/variants/s10/t13k14g6k14t14w1r1ly1g1t3~x2/"><circle cx="161.8" cy="131.4" r="4" fill="#3465a4"><title>Scotshill</title></circle></a><a href="/variants/s11/k6g20lb2r6lb2k20y3db20g26r3db6~x2/"><circle cx="120.9" cy="137.0" r="4" fill="#3465a4"><title>Stevenson</title></circle></a><a href="/variants/s14/k12g12k1r1k1g12k1y3k1g12k12dbi12db3dbi12~x4~dbi1406275-db1204274/"><circle cx="108.2" cy="135.1" r="4" fill="#3465a4"><title>Gow Hunting Family Tartan</title></circle></a><a href="/variants/s13/r2g6db12k3w3k3g16k2g2k2g2k12y2/"><circle cx="98.0" cy="139.2" r="4" fill="#3465a4"><title>MacInnes</title></circle></a><a href="/variants/s13/r2g6db12k3lb3k3g16k2g2k2g2k12y2~x2/"><circle cx="102.0" cy="140.4" r="4" fill="#3465a4"><title>MacInnes</title></circle></a><a href="/variants/s13/r2g6db12k3lb3k3g16k2g2k2g2k12y2/"><circle cx="102.0" cy="140.4" r="4" fill="#3465a4"><title>MacInnes</title></circle></a><a href="/variants/s12/g12r2g2r5g16db3n2k2n3db6k20y3~x2/"><circle cx="112.1" cy="134.2" r="4" fill="#3465a4"><title>Kelsey, William (Personal)</title></circle></a><circle cx="135.6" cy="122.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

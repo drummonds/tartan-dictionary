@@ -1,6 +1,15 @@
 ---
 title: "Rose"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Rose"
+  url: "/clan/rose/"
+- name: "Rose"
+  url: "/families/rose/"
+- name: "Rose"
+  url: "/tartans/r/ro/rose/"
 ---
 This is the **Rose** sett — one scale-free proportion (`r2db10k10g10w1k4w1g10k10db10r1`), colour order pattern
 [RBKGWKWGKBR](/stripes/rbkgwkwgkbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k2db10k9g9w1g2r1g9k9db10k1db2~x4/"><circle cx="115.0" cy="167.9" r="4" fill="#3465a4"><title>Spar (UK) Ltd</title></circle></a><a href="/variants/s12/db20k2db4k2db20k17g18dr2g4lb2g18k18~x2/"><circle cx="124.3" cy="167.6" r="4" fill="#3465a4"><title>Spar (UK) Ltd Corporate Tartan</title></circle></a><a href="/variants/s13/y4k1g12k12db12k1db4k1db12k12g12k1w4~x2/"><circle cx="94.9" cy="155.8" r="4" fill="#3465a4"><title>Campbell of Loudon</title></circle></a><a href="/variants/s14/db10k2db2k2db2k8g8k1w2k1g8k8db9r2~x2/"><circle cx="109.3" cy="158.8" r="4" fill="#3465a4"><title>MacKenzie (Miniture) Clan Tartan</title></circle></a><a href="/variants/s13/db9k1db1k1db1k7g8y2g8k7db8k1r2~x2/"><circle cx="107.5" cy="163.8" r="4" fill="#3465a4"><title>MacLeod of Gesto</title></circle></a><a href="/variants/s13/r4k1g12k12db12k1db4k1db12k12g12k1y4~x2/"><circle cx="102.2" cy="155.9" r="4" fill="#3465a4"><title>MacEwan</title></circle></a><a href="/variants/s13/y3k1g10k7db10g2db2g2db10k7g10k1lb3~x2/"><circle cx="106.3" cy="168.7" r="4" fill="#3465a4"><title>Doon Valley Crafters</title></circle></a><a href="/variants/s10/db6dy2db18k6dy3k6g14r3g10r2~x2/"><circle cx="115.5" cy="181.5" r="4" fill="#3465a4"><title>MacMillan Hunting Clan Tartan</title></circle></a><a href="/variants/s13/ly4k1db12k12g12k1r4k1g12k12db12k1ly2~x4/"><circle cx="91.6" cy="148.9" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s14/db10k1db1k1db1k6g6k1y2k1g6k6db6r3~x2/"><circle cx="114.1" cy="155.8" r="4" fill="#3465a4"><title>MacLeod of Skye</title></circle></a><circle cx="103.7" cy="176.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

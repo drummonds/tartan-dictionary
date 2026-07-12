@@ -1,6 +1,11 @@
 ---
 title: "Chindecella Gorse (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Chindecella Gorse"
+  url: "/tartans/c/ch/chindecella-gorse/"
 ---
 This is the **Chindecella Gorse (Personal)** sett — one scale-free proportion (`ly7db4ly2db4ly23n19db19n4`), colour order pattern
 [BBBYBYBY](/stripes/bbbybyby/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n9do1n1do1n1do7w7do2~x4/"><circle cx="261.5" cy="241.6" r="4" fill="#3465a4"><title>Grey Watch, Dress</title></circle></a><a href="/variants/s8/ly6n2ly2n2ly18n13db13n2~x2/"><circle cx="292.0" cy="249.4" r="4" fill="#3465a4"><title>Heil, Rudiger (Personal)</title></circle></a><a href="/variants/s8/n12dt2n2dt2n2dt10w12dt3~x2~n1900000-dt0900000/"><circle cx="227.3" cy="260.7" r="4" fill="#3465a4"><title>Grey Watch Dress (Fashion)</title></circle></a><a href="/variants/s5/db2ly21db11dbi21db1~x2~db1004274-dbi1404245/"><circle cx="286.3" cy="239.6" r="4" fill="#3465a4"><title>St. Matthews Check (School)</title></circle></a><a href="/variants/s13/n12dt2n2dt2n2dt10w12dt3w12dt10n12dt2n2~x2/"><circle cx="210.1" cy="253.3" r="4" fill="#3465a4"><title>Grey Watch Dress (1989)</title></circle></a><a href="/variants/s6/g4lb31g7dr14g11dr3~x2/"><circle cx="279.4" cy="246.2" r="4" fill="#3465a4"><title>Gleneagles USA (Dalgleish)</title></circle></a><a href="/variants/s9/dy22do3dy3do3dy3do9lb28do3lb6~x2/"><circle cx="268.3" cy="212.9" r="4" fill="#3465a4"><title>Kildonan Brown (Fashion)</title></circle></a><a href="/variants/s7/db3y2db30y19ly14y2ly3~x2/"><circle cx="295.5" cy="208.6" r="4" fill="#3465a4"><title>Bannockbane Brown #2</title></circle></a><a href="/variants/s9/lg22db3lg3db3lg3db9lb22db3lb6~x2/"><circle cx="262.4" cy="253.3" r="4" fill="#3465a4"><title>Lochearn (Fashion)</title></circle></a><a href="/variants/s8/dg3ly2dg14ly1w10n14ly2n3~x2/"><circle cx="206.0" cy="205.4" r="4" fill="#3465a4"><title>Bannockbane Hunting (MacBean and Bishop)</title></circle></a><circle cx="266.0" cy="244.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

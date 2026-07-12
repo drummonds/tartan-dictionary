@@ -1,6 +1,15 @@
 ---
 title: "MacDonald #8"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDonald"
+  url: "/clan/macdonald/"
+- name: "MacDonald"
+  url: "/families/macdonald/"
+- name: "MacDonald 6"
+  url: "/tartans/m/ma/macdonald-6/"
 ---
 This is the **MacDonald #8** sett — one scale-free proportion (`k6r1k1r4k7r1k7g6r5g1r1g5`), colour order pattern
 [GRGRGKRKRKRK](/stripes/grgrgkrkrkrk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/n6k1n1k1n2k4o6k1n2k2~x4/"><circle cx="183.4" cy="212.7" r="4" fill="#3465a4"><title>Tyndrum</title></circle></a><a href="/variants/s10/n6k1n1k1n2k4ly6k1n2k2~x8/"><circle cx="166.5" cy="212.2" r="4" fill="#3465a4"><title>Tyndrum</title></circle></a><a href="/variants/s10/r3k6r3k6g6k1w1k1g6r1~x2/"><circle cx="127.6" cy="201.2" r="4" fill="#3465a4"><title>MacDiarmid #3</title></circle></a><a href="/variants/s13/y18k3y3k3y3k13dg16k4dg16k13y16k3y3~x2/"><circle cx="162.0" cy="212.4" r="4" fill="#3465a4"><title>Campbell Collegiate</title></circle></a><a href="/variants/s13/k28r4k4r4k4r27dg26r4dg26r27k28r4k4/"><circle cx="159.1" cy="184.6" r="4" fill="#3465a4"><title>42nd Regiment (Musicians) (Mil.)</title></circle></a><a href="/variants/s13/ly18k3ly3k3ly3k13dg16k4dg16k13ly16k3ly3~x2/"><circle cx="128.5" cy="203.2" r="4" fill="#3465a4"><title>Campbell Collegiate (Corporate)</title></circle></a><a href="/variants/s17/dy6k1lr1k1lr1k1lr1k1lr1k1lr2k2lr2k2lr2k2lr2~x2/"><circle cx="145.7" cy="188.6" r="4" fill="#3465a4"><title>Carnegie Check</title></circle></a><a href="/variants/s9/lb2dr12k4dr2k2dr2k6g5lb2~x2/"><circle cx="163.9" cy="201.0" r="4" fill="#3465a4"><title>O'Neill (District)</title></circle></a><a href="/variants/s11/dr3o26k12o3k16o4k16o3k12o26ly3~x2/"><circle cx="222.9" cy="170.3" r="4" fill="#3465a4"><title>Wcwm 1713</title></circle></a><a href="/variants/s10/k4w4k4w4k4dr8k2dr8k8lo1~x4/"><circle cx="153.5" cy="206.7" r="4" fill="#3465a4"><title>Little of Morton Rigg</title></circle></a><circle cx="172.8" cy="199.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

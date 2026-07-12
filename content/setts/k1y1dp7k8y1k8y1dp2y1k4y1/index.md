@@ -1,6 +1,15 @@
 ---
 title: "Priest"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Priest"
+  url: "/clan/priest/"
+- name: "Priest"
+  url: "/families/priest/"
+- name: "Priest"
+  url: "/tartans/p/pr/priest-2/"
 ---
 This is the **Priest** sett — one scale-free proportion (`k1y1dp7k8y1k8y1dp2y1k4y1`), colour order pattern
 [GKGBGKGKBGK](/stripes/gkgbgkgkbgk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k1lb1lp7k8lb1k8lb1lp2lb1k4lb1~x4/"><circle cx="269.3" cy="177.0" r="4" fill="#3465a4"><title>Clark (Crook)</title></circle></a><a href="/variants/s11/k1b1dg7k8b1k8b1dg2b1k4b1~x4/"><circle cx="306.0" cy="188.6" r="4" fill="#3465a4"><title>Clergy, or Priest</title></circle></a><a href="/variants/s7/k14dp2k4lb3k12dp8k1~x2/"><circle cx="379.7" cy="184.9" r="4" fill="#3465a4"><title>Punky Princess</title></circle></a><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/"><circle cx="289.5" cy="185.8" r="4" fill="#3465a4"><title>West Point Military Academy (Mil.)</title></circle></a><a href="/variants/s11/dg5k2dg2k2dg2k12r2k12dg6k2dg2~x2/"><circle cx="339.5" cy="208.8" r="4" fill="#3465a4"><title>MacLoughlin of Ardmarnoch (Personal)</title></circle></a><a href="/variants/s11/k4r3k13dp10k3dp5k3dp5k13dp25ly4~x2/"><circle cx="253.6" cy="173.4" r="4" fill="#3465a4"><title>Caledonian Orient (Corporate)</title></circle></a><a href="/variants/s7/k39n3k3n3k14n28r3~x2/"><circle cx="335.7" cy="168.6" r="4" fill="#3465a4"><title>Moffat Family Tartan</title></circle></a><a href="/variants/s11/k1lb1y7k8lb1k8lb1y2lb1k4lb1~x4/"><circle cx="267.7" cy="175.4" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s11/k1lb1y7k8lb1k8lb1y2lb1k4lb1~x2/"><circle cx="267.7" cy="175.4" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s9/n14k19n14k6n14k6n14k47n6/"><circle cx="309.3" cy="217.6" r="4" fill="#3465a4"><title>Grey Breton</title></circle></a><circle cx="306.6" cy="182.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

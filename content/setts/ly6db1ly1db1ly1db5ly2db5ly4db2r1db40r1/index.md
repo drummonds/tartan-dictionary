@@ -1,6 +1,15 @@
 ---
 title: "Angotta (Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Angotta"
+  url: "/clan/angotta/"
+- name: "Angotta"
+  url: "/families/angotta/"
+- name: "Angotta"
+  url: "/tartans/a/an/angotta/"
 ---
 This is the **Angotta (Name)** sett — one scale-free proportion (`ly6db1ly1db1ly1db5ly2db5ly4db2r1db40r1`), colour order pattern
 [RBRBYBYBYBYBY](/stripes/rbrbybybybyby/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db23k1db1w1db1r1db4y2db1y2db1y2db1y2~x2/"><circle cx="451.8" cy="68.9" r="4" fill="#3465a4"><title>King Pootatau Te Wherowhero</title></circle></a><a href="/variants/s9/db62w2db4w5db6y2r8y3w4~x2/"><circle cx="468.1" cy="92.7" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/variants/s11/db63ly3w3db8ly3db3w3db3r14db9ly3~x2/"><circle cx="454.6" cy="105.5" r="4" fill="#3465a4"><title>Ottawa Fire Service (Corporate)</title></circle></a><a href="/variants/s10/db40ly1db1r9db1ly1db6ly1db1r9~x2/"><circle cx="491.6" cy="102.4" r="4" fill="#3465a4"><title>Miyuki</title></circle></a><a href="/variants/s15/w3db4w1db2g1db3r10db2r2db3g1db3r2db32r1~x2/"><circle cx="437.4" cy="78.1" r="4" fill="#3465a4"><title>International School of Aberdeen</title></circle></a><a href="/variants/s12/db50w4db8y1db8y8g1y8db8w1db8y4~x2/"><circle cx="517.7" cy="100.8" r="4" fill="#3465a4"><title>Herry (2016)</title></circle></a><a href="/variants/s14/db60r2db2r6db1r2db1r6db1r2db1r6db2n2~x2/"><circle cx="539.9" cy="65.0" r="4" fill="#3465a4"><title>Abaco Loyalist</title></circle></a><a href="/variants/s9/db66w2db10w2db10w2db12r3lb24~x2/"><circle cx="466.6" cy="113.1" r="4" fill="#3465a4"><title>RAAF</title></circle></a><a href="/variants/s9/t7db5lr6db5r7db2t2db70lr2/"><circle cx="547.5" cy="78.8" r="4" fill="#3465a4"><title>United States (Personal)</title></circle></a><a href="/variants/s20/db35g3w3r3db35r2db3w2db5w1db5r1db8r1db5w1db5w2db3r2~x2/"><circle cx="531.3" cy="68.4" r="4" fill="#3465a4"><title>Martha De Laurentiis</title></circle></a><circle cx="515.6" cy="78.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

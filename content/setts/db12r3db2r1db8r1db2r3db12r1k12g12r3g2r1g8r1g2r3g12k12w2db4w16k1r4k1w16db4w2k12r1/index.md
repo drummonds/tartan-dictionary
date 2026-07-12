@@ -1,6 +1,15 @@
 ---
 title: "MacDonald Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDonald"
+  url: "/clan/macdonald/"
+- name: "MacDonald"
+  url: "/families/macdonald/"
+- name: "MacDonald Dress"
+  url: "/tartans/m/ma/macdonald-dress-3/"
 ---
 This is the **MacDonald Dress** sett — one scale-free proportion (`db12r3db2r1db8r1db2r3db12r1k12g12r3g2r1g8r1g2r3g12k12w2db4w16k1r4k1w16db4w2k12r1`), colour order pattern
 [BRBRBRBRBRKGRGRGRGRGKWBWKRKWBWKR](/stripes/brbrbrbrbrkgrgrgrgrgkwbwkrkwbwkr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s36/db4w52db5w5k26dg25r6dg28k25dg3db26dg6db25dg3k27w50db4r4db4w50k27dg3db25dg6db26dg3k25dg28r6dg25k26w5db5w52db4r4/"><circle cx="66.4" cy="83.6" r="4" fill="#3465a4"><title>Lauder Dress (Can)</title></circle></a><a href="/variants/s32/db12r3db2r1db8r1db2r3db12r1k12g12r3g2r1g8r1g2r3g12k12w2k4w16k1r4k1w16k4w2k12r1~x2/"><circle cx="36.0" cy="86.7" r="4" fill="#3465a4"><title>MacDonald Dress Clan Tartan</title></circle></a><a href="/variants/s33/db18r7db2r2db7r2db2r7db18r2k18w8db7w40db2r8db2w40db7w8r2k18g18r7g2r2g6r2g2r7g18k18r2~x2/"><circle cx="68.0" cy="66.5" r="4" fill="#3465a4"><title>MacDonald Dress Clan Tartan</title></circle></a><a href="/variants/s23/w2db1w12db2w2k8db8k2db2k2db8k8g8k1y2k1g8k8w2db2w12db1w2~x2/"><circle cx="56.2" cy="120.1" r="4" fill="#3465a4"><title>Gordon Dress (Original)</title></circle></a><a href="/variants/s19/r4db4w52db5w5k26dg25r6dg28k25dg3db26dg6db25dg3k27w50db4r4/"><circle cx="81.0" cy="105.7" r="4" fill="#3465a4"><title>Lauder Dress</title></circle></a><a href="/variants/s28/k20g14k2y4k2g14k10w6db6w18db3w4db3w18db6w6k10g14k2w4k2g14k12db12k2db6k2db12/"><circle cx="25.9" cy="133.2" r="4" fill="#3465a4"><title>Campbell of Loch Neil Dress</title></circle></a><a href="/variants/s36/db10k10g10k1db2k1g10k10w2db2w24db2w2db2w24db2w2k10g10k1db2k1g10k10db10k2r3k2db10k10w2db2w24db2w2db2~x2/"><circle cx="92.1" cy="58.0" r="4" fill="#3465a4"><title>Campbell of Cawdor Dress Trade Tartan</title></circle></a><a href="/variants/s22/k15w3db3w18db2r2db2w19db3w3k15w2g13r2g14w2k15db10k2db2k2db10/"><circle cx="56.0" cy="128.1" r="4" fill="#3465a4"><title>Colquhoun Dress Clan Tartan</title></circle></a><a href="/variants/s11/db10k2g2r2g2k2w2k2w4k1w2~x4/"><circle cx="34.1" cy="138.2" r="4" fill="#3465a4"><title>Highfield Dress</title></circle></a><a href="/variants/s19/r4db4w52db5w5k26g25r6g28k25g3db26g6db25g3k27w50db4r4~x2/"><circle cx="79.4" cy="107.4" r="4" fill="#3465a4"><title>Lauder</title></circle></a><circle cx="33.8" cy="87.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

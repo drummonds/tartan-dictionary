@@ -1,6 +1,11 @@
 ---
 title: "Chivas Regal (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Chivas Regal"
+  url: "/tartans/c/ch/chivas-regal/"
 ---
 This is the **Chivas Regal (Corporate)** sett — one scale-free proportion (`db2k2db2o5dy1`), colour order pattern
 [BKBRG](/stripes/bkbrg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db6k6db6o14dy3~x2/"><circle cx="158.5" cy="267.1" r="4" fill="#3465a4"><title>Chivas Regal</title></circle></a><a href="/variants/s5/b10k10b10dg26y5~x2/"><circle cx="181.1" cy="263.2" r="4" fill="#3465a4"><title>Marshall of Keith (Personal)</title></circle></a><a href="/variants/s5/db13k13db13r29y4~x2/"><circle cx="171.4" cy="236.9" r="4" fill="#3465a4"><title>Highland Pub Company</title></circle></a><a href="/variants/s5/db20k5db18y26k6~x2/"><circle cx="238.7" cy="273.5" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/variants/s6/r5db35k25db8ly10r5~x2/"><circle cx="199.8" cy="208.8" r="4" fill="#3465a4"><title>University of Notre Dame</title></circle></a><a href="/variants/s4/dp6k5g5r1~x2/"><circle cx="125.1" cy="271.1" r="4" fill="#3465a4"><title>Unidentified No 60</title></circle></a><a href="/variants/s4/dp8k11g9r2~x2~dp1607327/"><circle cx="116.2" cy="270.8" r="4" fill="#3465a4"><title>Norwich Collection No. 60</title></circle></a><a href="/variants/s6/o4db19o3k20oi24db3~x2~o2102055-oi2104058/"><circle cx="147.4" cy="214.9" r="4" fill="#3465a4"><title>Edinburgh International Conference Centre</title></circle></a><a href="/variants/s4/dr3n16k16lb3~x4/"><circle cx="184.1" cy="246.9" r="4" fill="#3465a4"><title>Thompson, Dress (Clan)</title></circle></a><a href="/variants/s6/db5k1g1k1r3k1~x4/"><circle cx="156.5" cy="220.0" r="4" fill="#3465a4"><title>Clerk Family Tartan</title></circle></a><circle cx="170.8" cy="259.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

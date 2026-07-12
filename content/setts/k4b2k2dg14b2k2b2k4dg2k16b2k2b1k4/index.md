@@ -1,6 +1,15 @@
 ---
 title: "Drummond, (Grey)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Drummond"
+  url: "/clan/drummond/"
+- name: "Drummond"
+  url: "/families/drummond/"
+- name: "Drummond"
+  url: "/tartans/d/dr/drummond-5/"
 ---
 This is the **Drummond, (Grey)** sett — one scale-free proportion (`k4b2k2dg14b2k2b2k4dg2k16b2k2b1k4`), colour order pattern
 [KBKBKGKBKBGKBK](/stripes/kbkbkgkbkbgkbk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k17n2k3g2k3g2k24db8g4db4g3db8~x2/"><circle cx="284.7" cy="146.9" r="4" fill="#3465a4"><title>Kells Irish Pubs</title></circle></a><a href="/variants/s14/k4lb2k2n14lb2k2lb2k4n2k16lb2k2lb1k4~x2/"><circle cx="275.3" cy="125.6" r="4" fill="#3465a4"><title>Drummond (Grey) Clan Tartan</title></circle></a><a href="/variants/s11/dt8k2o2dt2k13dt2k2lr1dt14k26lr2~x2/"><circle cx="341.1" cy="115.4" r="4" fill="#3465a4"><title>Pride of Scotland, Dark (Fashion)</title></circle></a><a href="/variants/s11/dt8k2o2dt2k13dt2k2ly1dt14k26ly2~x2/"><circle cx="339.7" cy="115.5" r="4" fill="#3465a4"><title>Pride of Scotland Hunting/Dark Fashion Tartan</title></circle></a><a href="/variants/s10/dt8k2dt2k14dt2k2lr1dt19k27lr2~x2/"><circle cx="375.8" cy="140.5" r="4" fill="#3465a4"><title>Pride of Scotland, Muted (Fashion)</title></circle></a><a href="/variants/s11/k1b1dg7k8b1k8b1dg2b1k4b1~x4/"><circle cx="306.0" cy="188.6" r="4" fill="#3465a4"><title>Clergy, or Priest</title></circle></a><a href="/variants/s11/k48dp5k9g3k2g3k2g14dp7dy2dp10~x2/"><circle cx="315.6" cy="100.6" r="4" fill="#3465a4"><title>Paxton (Personal)</title></circle></a><a href="/variants/s11/k24dp5k9g3k2g3k2g14dp7k2dp10~x2/"><circle cx="234.3" cy="171.2" r="4" fill="#3465a4"><title>Paxton (Personal)</title></circle></a><a href="/variants/s10/k8g28k8dg17k88dg17k8g28k8r6~g1903114-dg1405139/"><circle cx="276.9" cy="138.2" r="4" fill="#3465a4"><title>Childers (Gurkha Rifles)</title></circle></a><a href="/variants/s12/k17n2k3g2k3g2k24t8g4t4g3t8~x2/"><circle cx="259.8" cy="141.8" r="4" fill="#3465a4"><title>Kells Irish Pubs (Corporate)</title></circle></a><circle cx="309.4" cy="137.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

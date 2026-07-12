@@ -1,6 +1,11 @@
 ---
 title: "Ryukoku University Heian SHS (Corp)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Ryukoku University Heian SHS"
+  url: "/tartans/r/ry/ryukoku-university-heian-shs/"
 ---
 This is the **Ryukoku University Heian SHS (Corp)** sett — one scale-free proportion (`dbi5k15o5n9o2db2o2db2n9k3`), colour order pattern
 [BKRBRBRBBK](/stripes/bkrbrbrbbk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/o4k16oi5n8oi2dp2oi2dp2n8k3~x2~oi2500000-n1900000/"><circle cx="118.1" cy="168.7" r="4" fill="#3465a4"><title>Ryukoku University Heian JHS (Corp)</title></circle></a><a href="/variants/s9/dp8k1dg2k1dy2k6dg8k1w2~x4/"><circle cx="120.5" cy="179.8" r="4" fill="#3465a4"><title>Coffield-Limesand (Personal)</title></circle></a><a href="/variants/s9/db10r7db31k25dg23k8db7r8ly5~x2/"><circle cx="122.0" cy="202.0" r="4" fill="#3465a4"><title>MacAllum of Berwick (Clan?)</title></circle></a><a href="/variants/s12/db10dp2db3r4db14r2k14g14r4g3dp2g10~x2/"><circle cx="89.7" cy="181.3" r="4" fill="#3465a4"><title>MacDonald of Dunyveg Family Tartan</title></circle></a><a href="/variants/s13/db16r2db3r4db18r2k16dg16r4dg3r2k2ly10~x2/"><circle cx="111.4" cy="152.6" r="4" fill="#3465a4"><title>MacSporran</title></circle></a><a href="/variants/s10/n10k3w3k3w3k3n10k7db20r3~x2/"><circle cx="87.7" cy="179.2" r="4" fill="#3465a4"><title>Meeting Professionals International</title></circle></a><a href="/variants/s8/r3dg2r6dg20k15dg3db18w2~x2/"><circle cx="144.8" cy="175.5" r="4" fill="#3465a4"><title>Curry (Personal)</title></circle></a><a href="/variants/s13/db17r3db4r5db20r3k20g20r5g4r3k3y11~x2/"><circle cx="85.9" cy="170.5" r="4" fill="#3465a4"><title>MacSporran Clan Tartan</title></circle></a><a href="/variants/s11/lo2k1dr6k2db7k2db7k2dr7k1lb2~x4/"><circle cx="129.8" cy="189.4" r="4" fill="#3465a4"><title>Mount Isla</title></circle></a><a href="/variants/s12/dg10lo2dg3r4dg13k13r2t13r4t3r2t10~x2~t2105244/"><circle cx="97.4" cy="188.9" r="4" fill="#3465a4"><title>Bowie (Lochcarron)</title></circle></a><circle cx="107.8" cy="180.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

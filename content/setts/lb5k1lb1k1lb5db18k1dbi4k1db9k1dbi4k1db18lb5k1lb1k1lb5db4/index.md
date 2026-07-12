@@ -1,6 +1,15 @@
 ---
 title: "Indigo Blue"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Indigo"
+  url: "/clan/indigo/"
+- name: "Indigo"
+  url: "/families/indigo/"
+- name: "Indigo"
+  url: "/tartans/i/in/indigo-2/"
 ---
 This is the **Indigo Blue** sett — one scale-free proportion (`lb5k1lb1k1lb5db18k1dbi4k1db9k1dbi4k1db18lb5k1lb1k1lb5db4`), colour order pattern
 [BWKWKWBKBKBKBKBWKWKW](/stripes/bwkwkwbkbkbkbkbwkwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k9t4k2t4k2t30k9t4db14dy2~x2~t2503227/"><circle cx="258.6" cy="121.5" r="4" fill="#3465a4"><title>Hannay Blue</title></circle></a><a href="/variants/s9/db4lb1db1lb3db24o9k1o9k3~x2~o2500000/"><circle cx="286.6" cy="104.5" r="4" fill="#3465a4"><title>Historic Scotland</title></circle></a><a href="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2~db1406275/"><circle cx="218.1" cy="106.1" r="4" fill="#3465a4"><title>Scottish Knights Templar International</title></circle></a><a href="/variants/s22/db24k3db2k3db24lb20k3lb2k3lb20db4lb20k3lb2k3lb20db24k3db2k3db24r4~db0705267/"><circle cx="198.5" cy="122.9" r="4" fill="#3465a4"><title>Roberts of Wales</title></circle></a><a href="/variants/s18/db36g10r2g10w2g10r2k10db14r2db12r2db12r3db2r2db4w2~x2/"><circle cx="262.0" cy="97.9" r="4" fill="#3465a4"><title>Rankin #2</title></circle></a><a href="/variants/s13/b9r5b51dg13k13b5dg4b5dg23b11k5b5r5/"><circle cx="278.6" cy="144.2" r="4" fill="#3465a4"><title>Balmoral, Gillies</title></circle></a><a href="/variants/s21/lo7db3lo2db2lo2db30k9lb2db2lo2db2lo3db5lo2db2lo2db2k9lo5db3lo4~x2/"><circle cx="231.9" cy="94.9" r="4" fill="#3465a4"><title>Blue Matheson Hunting (Kinloch Anderson)</title></circle></a><a href="/variants/s16/b19k1g3k1b3k9b20k1y1k7y1k1b21k12b2g1~x2/"><circle cx="321.1" cy="101.3" r="4" fill="#3465a4"><title>Hope Vere / Weir</title></circle></a><a href="/variants/s11/db9k1dbi4k1db18lb5k1lb1k1lb5db4~x2~db1204274-dbi1406275/"><circle cx="323.0" cy="130.2" r="4" fill="#3465a4"><title>Indigo Blue (Corporate)</title></circle></a><a href="/variants/s16/lo3db1dp1lb8dp1db6lb3db4k8lb1db4dp1db2k4db16dp2~x2/"><circle cx="200.5" cy="115.3" r="4" fill="#3465a4"><title>Midnight Sunrise</title></circle></a><circle cx="273.7" cy="101.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

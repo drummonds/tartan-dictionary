@@ -1,6 +1,13 @@
 ---
 title: "Glasgow Clyde College"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Glasgow"
+  url: "/clan/glasgow/"
+- name: "Glasgow Clyde College"
+  url: "/tartans/g/gl/glasgow-clyde-college/"
 ---
 This is the **Glasgow Clyde College** sett — one scale-free proportion (`lb48r1db10r1lb10n2db27w1o3`), colour order pattern
 [RWBBWRBRW](/stripes/rwbbwrbrw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y4db24lb5g2db3k5lb33r2~x2/"><circle cx="213.3" cy="115.6" r="4" fill="#3465a4"><title>Los Angeles</title></circle></a><a href="/variants/s7/lb58ly2db24g2r1dr5w1~x2/"><circle cx="352.0" cy="60.0" r="4" fill="#3465a4"><title>Hier (Personal)</title></circle></a><a href="/variants/s8/dy4w1db42ri1w21db4w4r4~x2~ri2806019-r1807033/"><circle cx="321.0" cy="90.1" r="4" fill="#3465a4"><title>Presley of Memphis</title></circle></a><a href="/variants/s9/y3db24r3db8k1lb16k1db3w3~x2/"><circle cx="254.8" cy="98.1" r="4" fill="#3465a4"><title>MacCormick Festive</title></circle></a><a href="/variants/s6/lb28db15r2db2w1db6~x2/"><circle cx="334.6" cy="154.0" r="4" fill="#3465a4"><title>Corries</title></circle></a><a href="/variants/s6/lb60db19w3db2r2db7~x2/"><circle cx="411.3" cy="135.3" r="4" fill="#3465a4"><title>Federal Bureaux (FBI) Corporate Tartan</title></circle></a><a href="/variants/s8/w8db4y2db36lb48db2lb4r5~x2/"><circle cx="281.8" cy="129.7" r="4" fill="#3465a4"><title>MacRaes of America</title></circle></a><a href="/variants/s10/lb49db25g16db4w3r8ly4lb18ly1db9~x2/"><circle cx="261.9" cy="97.6" r="4" fill="#3465a4"><title>State Seal of Hawaii (Fashion)</title></circle></a><a href="/variants/s8/db45w2lb23db10g2r1dr5wi1~x2~w3904115-wi4000000/"><circle cx="331.5" cy="66.2" r="4" fill="#3465a4"><title>Hier Family, Kilcreggan (Personal)</title></circle></a><a href="/variants/s11/y2db26lb3db3r1db3lb7db6lb15w1lb2~x2/"><circle cx="317.9" cy="113.6" r="4" fill="#3465a4"><title>Vilaro-Thomas (Personal)</title></circle></a><circle cx="333.9" cy="75.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

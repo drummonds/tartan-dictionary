@@ -1,6 +1,15 @@
 ---
 title: "Jenkins (Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Jenkins"
+  url: "/clan/jenkins/"
+- name: "Jenkins"
+  url: "/families/jenkins/"
+- name: "Jenkins"
+  url: "/tartans/j/je/jenkins-2/"
 ---
 This is the **Jenkins (Name)** sett — one scale-free proportion (`db2r30g8r3g8r6db4r3db12w2`), colour order pattern
 [BRGRGRBRBW](/stripes/brgrgrbrbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r7w2r32db7g3db2g3db2g16r3~x2/"><circle cx="322.9" cy="143.1" r="4" fill="#3465a4"><title>Chisholm Hunting (HSL) Clan Tartan</title></circle></a><a href="/variants/s13/db4r1db1r18db10r1g1r6g10r6w1r4db1~x2/"><circle cx="320.4" cy="138.6" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/variants/s9/r2db12r2g11r4db5g2r24w2~x2/"><circle cx="273.6" cy="170.5" r="4" fill="#3465a4"><title>Fraser Gathering, Red (1997)</title></circle></a><a href="/variants/s9/r4g15db8g4r48g4db8g4ly3~x2/"><circle cx="325.5" cy="147.1" r="4" fill="#3465a4"><title>Cruikshank (Name)</title></circle></a><a href="/variants/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/"><circle cx="269.3" cy="168.8" r="4" fill="#3465a4"><title>Glenfinnan</title></circle></a><a href="/variants/s10/db10r2w2r16g6r1g2r1g3r6~x2/"><circle cx="291.8" cy="158.9" r="4" fill="#3465a4"><title>Harkness Family Tartan</title></circle></a><a href="/variants/s9/db2r49db51r9w2r9g51r49db2~x2/"><circle cx="310.1" cy="150.4" r="4" fill="#3465a4"><title>Unidentified #20</title></circle></a><a href="/variants/s13/w1g2r18db2r2db18r2g18r2db2r18g2w1~x2/"><circle cx="275.1" cy="135.2" r="4" fill="#3465a4"><title>Robertson 1820 - White line</title></circle></a><a href="/variants/s11/db3lb1r30db32r3w1r3g23r31db3w1/"><circle cx="300.6" cy="105.3" r="4" fill="#3465a4"><title>MacDonald of Glenaladale Artifact Tartan</title></circle></a><a href="/variants/s10/g2r2db1r24w1db6r3g12r4db1/"><circle cx="369.1" cy="125.5" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><circle cx="303.8" cy="154.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Phoenix Police Honor Guard (Corp.)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Phoenix Police Honor Guard"
+  url: "/tartans/p/ph/phoenix-police-honor-guard/"
 ---
 This is the **Phoenix Police Honor Guard (Corp.)** sett — one scale-free proportion (`db10k3lb65g56y6`), colour order pattern
 [BKWGG](/stripes/bkwgg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db10k3lb65dg56y6/"><circle cx="241.7" cy="154.1" r="4" fill="#3465a4"><title>Phoenix Police Honor Guard</title></circle></a><a href="/variants/s5/db9w4g36lb36r4/"><circle cx="222.5" cy="223.7" r="4" fill="#3465a4"><title>Alvis of Lee (Personal)</title></circle></a><a href="/variants/s6/g35k3dbi26k4db4w3~x2~dbi1406275-db1106275/"><circle cx="219.4" cy="168.3" r="4" fill="#3465a4"><title>Pride of Yorkland (Fashion)</title></circle></a><a href="/variants/s7/k2lb25k2t8k2g28y2~x2/"><circle cx="196.7" cy="156.4" r="4" fill="#3465a4"><title>Presley of Lonmay</title></circle></a><a href="/variants/s6/w3b12db1g15o3w1~x4~b2409265-db1406275/"><circle cx="237.9" cy="187.6" r="4" fill="#3465a4"><title>Eeraerts, Laurent (Personal)</title></circle></a><a href="/variants/s8/o2lb14k1g11k2lr2b2k1~x4~o1604043-lr3103019/"><circle cx="148.2" cy="128.7" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s5/r2w7db30g36y2~x2/"><circle cx="259.7" cy="179.5" r="4" fill="#3465a4"><title>Centennial-King George Lodge No.171</title></circle></a><a href="/variants/s5/g49lb21k3lb3w3~x2/"><circle cx="371.2" cy="182.1" r="4" fill="#3465a4"><title>Irvine of Drum (Clan)</title></circle></a><a href="/variants/s5/g12lo1db8k1db1~x4/"><circle cx="292.7" cy="195.4" r="4" fill="#3465a4"><title>Rowan (Personal)</title></circle></a><a href="/variants/s5/k9lr6dt22g28dy2~x2~lr2901240-dt1703208/"><circle cx="198.6" cy="202.8" r="4" fill="#3465a4"><title>Wellington (Lochcarron)</title></circle></a><circle cx="268.2" cy="167.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

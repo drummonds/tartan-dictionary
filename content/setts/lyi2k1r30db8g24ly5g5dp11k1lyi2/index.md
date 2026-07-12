@@ -1,6 +1,11 @@
 ---
 title: "Guardian of Scotland, Wthd (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Guardian of Scotland, Wthd"
+  url: "/tartans/g/gu/guardian-of-scotland-wthd/"
 ---
 This is the **Guardian of Scotland, Wthd (Fashion)** sett — one scale-free proportion (`lyi2k1r30db8g24ly5g5dp11k1lyi2`), colour order pattern
 [YKBGYGBRKY](/stripes/ykbgygbrky/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dy5k3w2r20db10g2w1dy1g20k4dy3~x2/"><circle cx="111.4" cy="103.6" r="4" fill="#3465a4"><title>MacCulloch</title></circle></a><a href="/variants/s11/dy5k3w2r20db10dg2w1dy1dg20k4dy3~x2~k0700000-db1406275/"><circle cx="144.9" cy="111.7" r="4" fill="#3465a4"><title>MacCulloch (Name)</title></circle></a><a href="/variants/s11/g15r25g4k2y1db1y1k2g4db12w1~x2/"><circle cx="176.1" cy="85.8" r="4" fill="#3465a4"><title>Livingstone (Australia) Dress</title></circle></a><a href="/variants/s11/w3k1r25k2dy2g25dy2y2dy10k1r2~x2/"><circle cx="176.6" cy="79.9" r="4" fill="#3465a4"><title>Bicknell, The Hamish (Personal)</title></circle></a><a href="/variants/s9/g22k2r22db2w1ly12dp1k1y4~x2/"><circle cx="121.1" cy="79.8" r="4" fill="#3465a4"><title>Schreier. Christopher (Personal)</title></circle></a><a href="/variants/s12/n9lb5k8y2k4w4k4g31r50lb4r4k3~x2/"><circle cx="158.7" cy="54.2" r="4" fill="#3465a4"><title>MacLean of Duart</title></circle></a><a href="/variants/s12/do9lb5k8y2k4w4k4g28r44lb4r5k3~x2/"><circle cx="139.5" cy="63.0" r="4" fill="#3465a4"><title>MacLean (rare)</title></circle></a><a href="/variants/s11/o5k3w2r20db10g2w1r1g20k4o3~x2/"><circle cx="111.6" cy="101.1" r="4" fill="#3465a4"><title>MacCullough Family Tartan</title></circle></a><a href="/variants/s16/lb8lo8r6k6b28lo12r6k2r6lo12g28lb2k4r54dr1lb2~x2~lb3300000-r1607033-b2603265/"><circle cx="159.4" cy="32.1" r="4" fill="#3465a4"><title>Finzean's Fancy</title></circle></a><a href="/variants/s13/k2r16w1db2w1y3w2y3w1db2w1g16lb2~x2/"><circle cx="100.1" cy="79.1" r="4" fill="#3465a4"><title>Gibbs Gibson Family Tartan</title></circle></a><circle cx="150.1" cy="81.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

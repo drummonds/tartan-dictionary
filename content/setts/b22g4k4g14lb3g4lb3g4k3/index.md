@@ -1,6 +1,11 @@
 ---
 title: "Graden (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Graden"
+  url: "/tartans/g/gr/graden/"
 ---
 This is the **Graden (Personal)** sett — one scale-free proportion (`b22g4k4g14lb3g4lb3g4k3`), colour order pattern
 [BGKGWGWGK](/stripes/bgkgwgwgk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db21g5k5g15w3g5w3g5k3~x2/"><circle cx="173.7" cy="195.8" r="4" fill="#3465a4"><title>Tweedside, hunting</title></circle></a><a href="/variants/s9/db18g2k2g5w2g2w2g2k2~x4/"><circle cx="214.5" cy="156.1" r="4" fill="#3465a4"><title>Tweedside Hunting</title></circle></a><a href="/variants/s8/b26g6k8g3k8g30w3g3~x2/"><circle cx="209.7" cy="179.8" r="4" fill="#3465a4"><title>Riley (Personal)</title></circle></a><a href="/variants/s9/t12lo1t2lo1t3k5g10lo1g2~x4/"><circle cx="222.7" cy="177.2" r="4" fill="#3465a4"><title>Marie Curie Fields Of Hope</title></circle></a><a href="/variants/s6/r3t25k16t3g25t3~x2~g2405163/"><circle cx="186.7" cy="216.8" r="4" fill="#3465a4"><title>Flower of Scotland</title></circle></a><a href="/variants/s10/b12w2b7g15k2g4k2g15b2k7~x2/"><circle cx="197.8" cy="198.4" r="4" fill="#3465a4"><title>Smeaton</title></circle></a><a href="/variants/s9/b16y2b4y2b5k14g28y2g7~x2/"><circle cx="204.9" cy="166.9" r="4" fill="#3465a4"><title>Marie Curie Fields of Hope</title></circle></a><a href="/variants/s8/k1t1k1t7dy7k1dy1lt1~x6/"><circle cx="199.4" cy="189.8" r="4" fill="#3465a4"><title>Auld Lang Syne</title></circle></a><a href="/variants/s6/g3lb1db7lb1g3k1~x8~db1406275/"><circle cx="203.4" cy="221.0" r="4" fill="#3465a4"><title>Scott Green (Sir Walter)</title></circle></a><a href="/variants/s8/w6g5k6g42db42k5db5k5/"><circle cx="191.4" cy="176.0" r="4" fill="#3465a4"><title>Ben Lomond Fashion Tartan</title></circle></a><circle cx="189.7" cy="194.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

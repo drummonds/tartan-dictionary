@@ -1,6 +1,11 @@
 ---
 title: "Abertay University (Estimated threadcount)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Abertay University"
+  url: "/tartans/a/ab/abertay-university/"
 ---
 This is the **Abertay University (Estimated threadcount)** sett — one scale-free proportion (`r5db15g3db15y3db3`), colour order pattern
 [BGBGBR](/stripes/bgbgbr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db60y6db11r25db11y6~x2/"><circle cx="361.8" cy="198.3" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums</title></circle></a><a href="/variants/s6/db9lb3db6lb3db20dy2~x2/"><circle cx="534.5" cy="239.4" r="4" fill="#3465a4"><title>Oman RAF, Sultanate of (Military)</title></circle></a><a href="/variants/s6/db24lb6db10lb6db32dy3~x2/"><circle cx="529.7" cy="242.3" r="4" fill="#3465a4"><title>Sultan of Qaboo's Air Force</title></circle></a><a href="/variants/s7/db10r1db10r2db10r1g2~x2/"><circle cx="532.9" cy="201.2" r="4" fill="#3465a4"><title>Hebrides #5</title></circle></a><a href="/variants/s9/db10o3t4o3db7t3g7db17dy2~x2/"><circle cx="317.4" cy="214.2" r="4" fill="#3465a4"><title>Ayrshire Tourist Board</title></circle></a><a href="/variants/s6/db11r4y9db4y2db11~x2/"><circle cx="346.7" cy="283.0" r="4" fill="#3465a4"><title>Unidentified Sample</title></circle></a><a href="/variants/s6/r19db6r14db101g7db7/"><circle cx="504.4" cy="173.1" r="4" fill="#3465a4"><title>Lynch Family Tartan</title></circle></a><a href="/variants/s6/r12db3g5db16y2g2~x2/"><circle cx="296.9" cy="204.5" r="4" fill="#3465a4"><title>Dunbog Primary School</title></circle></a><a href="/variants/s6/db2r7db2r7db22y2~x2/"><circle cx="397.6" cy="205.4" r="4" fill="#3465a4"><title>MacQueen variant</title></circle></a><a href="/variants/s6/db24w4db24y4dr5k4~x2/"><circle cx="363.2" cy="199.8" r="4" fill="#3465a4"><title>De Grussa</title></circle></a><circle cx="424.4" cy="251.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Eastern Kentucky University"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Eastern Kentucky University"
+  url: "/tartans/e/ea/eastern-kentucky-university/"
 ---
 This is the **Eastern Kentucky University** sett — one scale-free proportion (`r15n9w4k12r15k5`), colour order pattern
 [KRKWBR](/stripes/krkwbr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y6k8g7r6k2r18w6~x4/"><circle cx="133.3" cy="187.8" r="4" fill="#3465a4"><title>Thirkill (Dalgliesh)</title></circle></a><a href="/variants/s6/r6k9r12w2k2w4~x2/"><circle cx="209.2" cy="226.3" r="4" fill="#3465a4"><title>Brice (Artefact)</title></circle></a><a href="/variants/s5/k6r33k18w20db6~x2/"><circle cx="120.3" cy="228.5" r="4" fill="#3465a4"><title>Brodie Dress</title></circle></a><a href="/variants/s5/r26k18r7k4y4~x2/"><circle cx="238.7" cy="204.1" r="4" fill="#3465a4"><title>Haig &amp; Haig Whisky</title></circle></a><a href="/variants/s5/r9k9r9w1g9~x8/"><circle cx="176.7" cy="236.4" r="4" fill="#3465a4"><title>Unidentified item</title></circle></a><a href="/variants/s5/r3k1g1k1w3~x4/"><circle cx="69.7" cy="264.8" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s5/w3r2w1k2r2~x4/"><circle cx="109.5" cy="307.5" r="4" fill="#3465a4"><title>Oakland Centre</title></circle></a><a href="/variants/s6/k3r15k11y2k4r3~x2/"><circle cx="244.0" cy="205.6" r="4" fill="#3465a4"><title>Brodie (Clan)</title></circle></a><a href="/variants/s5/w5r5w5k15r2~x2/"><circle cx="190.9" cy="222.6" r="4" fill="#3465a4"><title>Braes High School Falkirk (School)</title></circle></a><a href="/variants/s5/r21k21w10k10w21~x2/"><circle cx="78.8" cy="320.0" r="4" fill="#3465a4"><title>Havel</title></circle></a><circle cx="150.6" cy="255.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

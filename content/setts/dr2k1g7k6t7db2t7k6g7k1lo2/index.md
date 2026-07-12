@@ -1,6 +1,15 @@
 ---
 title: "Smith of Pennilands (Clan)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Smith"
+  url: "/clan/smith/"
+- name: "Smith of Pennilands"
+  url: "/families/smith-of-pennilands/"
+- name: "Smith of Pennilands"
+  url: "/tartans/s/sm/smith-of-pennilands/"
 ---
 This is the **Smith of Pennilands (Clan)** sett — one scale-free proportion (`dr2k1g7k6t7db2t7k6g7k1lo2`), colour order pattern
 [BKGKBBBKGKY](/stripes/bkgkbbbkgky/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r3k1g12k12dbi12db3dbi12k12g12k1y3~x2~dbi1605267-db0804274/"><circle cx="78.8" cy="158.0" r="4" fill="#3465a4"><title>Gow Hunting</title></circle></a><a href="/variants/s11/r3k1g12k12dbi12db3dbi12k12g12k1y3~x2~dbi1604274-db0805267/"><circle cx="79.0" cy="158.0" r="4" fill="#3465a4"><title>Gow, hunting</title></circle></a><a href="/variants/s11/r3k1g12k12dbi12db3dbi12k12g12k1y3~x2~dbi1406275-db1204274/"><circle cx="79.4" cy="157.4" r="4" fill="#3465a4"><title>Gow Hunting (Clan)</title></circle></a><a href="/variants/s10/db3t12k11g11y2g11k11t12db3r2~x2~db1404245/"><circle cx="46.0" cy="203.1" r="4" fill="#3465a4"><title>Huntly Gordon 2000</title></circle></a><a href="/variants/s11/dp2t6n1t3lb1t4k6g5k1g5dp2~x4/"><circle cx="68.1" cy="196.9" r="4" fill="#3465a4"><title>Smithers (Name)</title></circle></a><a href="/variants/s11/r2k1db8k7g8y2g8k7db8k1t2~x4/"><circle cx="57.1" cy="177.1" r="4" fill="#3465a4"><title>Adam Smith (Corporate)</title></circle></a><a href="/variants/s13/dbi8k4db15k16g16k4g6k4g16k16w2db6o6~dbi1406275-db1404245/"><circle cx="72.3" cy="172.2" r="4" fill="#3465a4"><title>Free (Universal)</title></circle></a><a href="/variants/s11/k4n10k4g8k12r5g16t16r5t6w2~x2~t2503227/"><circle cx="25.7" cy="181.1" r="4" fill="#3465a4"><title>Manderson Family Tartan</title></circle></a><a href="/variants/s14/db11k8dg8ly2g8k1ly2k1g8ly2dg8k8db11dr2~x2~dg1806142-ly3307090-g2408144/"><circle cx="36.0" cy="158.0" r="4" fill="#3465a4"><title>Scout Mapping Service #2</title></circle></a><a href="/variants/s11/dr2k1g7k6db7t2db7k6g7k1lo2~x4/"><circle cx="45.8" cy="186.7" r="4" fill="#3465a4"><title>Smith (Clan)</title></circle></a><circle cx="40.2" cy="187.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

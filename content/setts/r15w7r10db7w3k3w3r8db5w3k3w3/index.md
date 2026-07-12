@@ -1,6 +1,15 @@
 ---
 title: "Westgaard of Kileughterco (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Westgaard"
+  url: "/clan/westgaard/"
+- name: "Westgaard of Kileughterco"
+  url: "/families/westgaard-of-kileughterco/"
+- name: "Westgaard of Kileughterco"
+  url: "/tartans/w/we/westgaard-of-kileughterco/"
 ---
 This is the **Westgaard of Kileughterco (Personal)** sett — one scale-free proportion (`r15w7r10db7w3k3w3r8db5w3k3w3`), colour order pattern
 [RWRBWKWRBWKW](/stripes/rwrbwkwrbwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r15w7r10ki7w3k3w3r10ki5w3k3w3~x2~ki0604259/"><circle cx="145.8" cy="195.9" r="4" fill="#3465a4"><title>Westgaard of Kileughtero</title></circle></a><a href="/variants/s12/dr9w4dr6b4ly2k2w2dr5b3ly2k2w2~x2/"><circle cx="109.3" cy="204.0" r="4" fill="#3465a4"><title>Westgaard Captain (Personal)</title></circle></a><a href="/variants/s8/n6k2w1k2n3r6n1r6~x4/"><circle cx="157.3" cy="190.4" r="4" fill="#3465a4"><title>Sydney (Nova Scotia)</title></circle></a><a href="/variants/s15/db3r4w3r15db4r4db13r4g13r4db4r15w3r4db3~x2/"><circle cx="221.5" cy="201.5" r="4" fill="#3465a4"><title>Fitzgerald</title></circle></a><a href="/variants/s9/w6o1r4w1db4o1r8w1r2~x2/"><circle cx="228.2" cy="193.5" r="4" fill="#3465a4"><title>Unidentified 34</title></circle></a><a href="/variants/s10/db6w2r6w3k2w6db10r2db3r2~x4~db1406275/"><circle cx="150.5" cy="219.7" r="4" fill="#3465a4"><title>Commonwealth Games 1986</title></circle></a><a href="/variants/s14/lb4r1lb4y1k1r6w1r4w1r6k1y1lb4w1~x2/"><circle cx="169.7" cy="168.9" r="4" fill="#3465a4"><title>Ogilvy D</title></circle></a><a href="/variants/s8/g16dp8r45w6dp45w44dp6w12/"><circle cx="146.2" cy="186.9" r="4" fill="#3465a4"><title>Culloden Red Dress (Dance)</title></circle></a><a href="/variants/s15/r5db5r3g16r3g3r3db10r3lb5r12db5r3db3r5~x2/"><circle cx="183.2" cy="209.3" r="4" fill="#3465a4"><title>Grant of Ballindalloch Clan Tartan</title></circle></a><a href="/variants/s7/r1w1dp4w1r4k1w1~x8/"><circle cx="125.3" cy="218.1" r="4" fill="#3465a4"><title>Tartan Tangerine</title></circle></a><circle cx="153.0" cy="206.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

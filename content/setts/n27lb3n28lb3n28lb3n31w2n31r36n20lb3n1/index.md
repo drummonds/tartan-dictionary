@@ -1,6 +1,11 @@
 ---
 title: "Clydesdale Bank"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clydesdale Bank"
+  url: "/tartans/c/cl/clydesdale-bank/"
 ---
 This is the **Clydesdale Bank** sett — one scale-free proportion (`n27lb3n28lb3n28lb3n31w2n31r36n20lb3n1`), colour order pattern
 [BWBRBWBWBWBWB](/stripes/bwbrbwbwbwbwb/). It is recorded as a single **variant**, below.

@@ -1,6 +1,13 @@
 ---
 title: "Lochaber Cameron"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Lochaber"
+  url: "/clan/lochaber/"
+- name: "Lochaber Cameron"
+  url: "/tartans/l/lo/lochaber-cameron/"
 ---
 This is the **Lochaber Cameron** sett — one scale-free proportion (`db8lb3db40r3k44lb3r3g40r2k4r7`), colour order pattern
 [BWBRKWRGRKR](/stripes/bwbrkwrgrkr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g3db1g1db12k2db2k2db3k12dg24w3~x2~g2408144-dg1804144/"><circle cx="175.8" cy="108.0" r="4" fill="#3465a4"><title>Selby (Name)</title></circle></a><a href="/variants/s13/db4y2g24y2k12db3k2db2k2db14dr1db1dr3~x2/"><circle cx="165.1" cy="101.1" r="4" fill="#3465a4"><title>Baron of Greencastle Htg (Personal)</title></circle></a><a href="/variants/s13/db16r2db2r7db31r2k32w3g31r7g2r2g16~x2/"><circle cx="120.7" cy="121.8" r="4" fill="#3465a4"><title>Clanranald, MacDonald of</title></circle></a><a href="/variants/s14/db20k2g3k2db20r3k20r2k20r3g30y3g1y2~x2/"><circle cx="151.0" cy="92.0" r="4" fill="#3465a4"><title>Glynn of Glynstewart (Personal)</title></circle></a><a href="/variants/s14/db20r2db2r5db30r2k32w2g30r5g4r2g4w2/"><circle cx="141.4" cy="106.9" r="4" fill="#3465a4"><title>MacDonald of Clanranald #5</title></circle></a><a href="/variants/s13/w2db10dg3db2dg3k18dg10ly1dg3ly2dg2k2ly2~x2/"><circle cx="148.5" cy="117.0" r="4" fill="#3465a4"><title>O'Doherty (Name)</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12g16r1g1y2~x2/"><circle cx="132.6" cy="129.7" r="4" fill="#3465a4"><title>Logan and MacLennan</title></circle></a><a href="/variants/s11/lb3g3k4g14k4g3k14db18r1db4r2~x2/"><circle cx="125.8" cy="134.1" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12g16r1k1y2~x2/"><circle cx="128.3" cy="127.2" r="4" fill="#3465a4"><title>Logan #7</title></circle></a><a href="/variants/s14/db20r2db3r6db32r2k32w2g30r6g4r2g4w1~x2/"><circle cx="168.5" cy="82.3" r="4" fill="#3465a4"><title>MacDonald of Clanranald #4</title></circle></a><circle cx="136.2" cy="103.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

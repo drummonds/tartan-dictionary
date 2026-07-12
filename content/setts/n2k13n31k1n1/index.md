@@ -1,6 +1,11 @@
 ---
 title: "Silver Mist"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Silver Mist"
+  url: "/tartans/s/si/silver-mist/"
 ---
 This is the **Silver Mist** sett — one scale-free proportion (`n2k13n31k1n1`), colour order pattern
 [BKBKB](/stripes/bkbkb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w8k16w2db2w1k1~x4/"><circle cx="304.1" cy="163.8" r="4" fill="#3465a4"><title>Ikelman No 1</title></circle></a><a href="/variants/s6/k13n2k13n31k1n1~x4/"><circle cx="378.9" cy="160.7" r="4" fill="#3465a4"><title>Silver Mist (Corporate)</title></circle></a><a href="/variants/s6/n6k16n6k16n45k4~x2/"><circle cx="363.9" cy="208.1" r="4" fill="#3465a4"><title>Grey Spirit Fashion Tartan</title></circle></a><a href="/variants/s6/n6k17n6k17n45k4~x2/"><circle cx="356.6" cy="209.6" r="4" fill="#3465a4"><title>Grey Spirit (Fashion)</title></circle></a><a href="/variants/s5/k37w9k3dg9w3~x2/"><circle cx="331.5" cy="177.8" r="4" fill="#3465a4"><title>Glen Coe Trade Tartan</title></circle></a><a href="/variants/s5/w5k20w10k1r2~x2/"><circle cx="304.1" cy="151.8" r="4" fill="#3465a4"><title>St. Piran Cornish Flag</title></circle></a><a href="/variants/s5/k22w3k3w11k1~x2/"><circle cx="368.0" cy="169.4" r="4" fill="#3465a4"><title>MacPhee MacFee or MacIver</title></circle></a><a href="/variants/s6/k53n22k10n10k2n4~x2/"><circle cx="414.1" cy="165.5" r="4" fill="#3465a4"><title>Black Isle</title></circle></a><a href="/variants/s6/k24n11k5n5k1n2~x4/"><circle cx="398.1" cy="173.3" r="4" fill="#3465a4"><title>Black Isle Corporate Tartan</title></circle></a><a href="/variants/s6/n50k4n12k23lo4k4~x2/"><circle cx="359.1" cy="180.5" r="4" fill="#3465a4"><title>Sligo Irish County Tartan</title></circle></a><circle cx="471.8" cy="157.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

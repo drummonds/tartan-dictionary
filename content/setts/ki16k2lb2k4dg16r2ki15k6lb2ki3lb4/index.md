@@ -1,6 +1,11 @@
 ---
 title: "Scottish Tartans Authority"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Scottish Tartans Authority"
+  url: "/tartans/s/sc/scottish-tartans-authority-2/"
 ---
 This is the **Scottish Tartans Authority** sett — one scale-free proportion (`ki16k2lb2k4dg16r2ki15k6lb2ki3lb4`), colour order pattern
 [KKWKGRKKWKW](/stripes/kkwkgrkkwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/y1k1dg8db1dg1k8dg1db8dg1k1dg8k1w1~x6/"><circle cx="213.2" cy="157.8" r="4" fill="#3465a4"><title>Robieson, Graham Alexander (Personal)</title></circle></a><a href="/variants/s11/dg14k8dg21k2ly5k2dg21k11db18k2dr5~x2/"><circle cx="230.7" cy="179.9" r="4" fill="#3465a4"><title>de Vere-Austin (Clan)</title></circle></a><a href="/variants/s12/k8dr8k42ki4k4ki4k4ki20dg4ki10dg25w8~k0504259-ki0700000/"><circle cx="199.1" cy="158.7" r="4" fill="#3465a4"><title>Bannatyne (Corporate)</title></circle></a><a href="/variants/s11/dp3k2n6k2n2k18dg13lb2dg2k6dp2~x2/"><circle cx="205.9" cy="154.9" r="4" fill="#3465a4"><title>Dama Resort</title></circle></a><a href="/variants/s13/db16g4k4n22db5n22k3r5g4n4g4r4k4~x2/"><circle cx="190.9" cy="167.7" r="4" fill="#3465a4"><title>Gayre Hunting Clan Tartan</title></circle></a><a href="/variants/s12/db3dr2db13k9dy3k2dy14k2dy3k9db15w3~x2/"><circle cx="157.9" cy="180.2" r="4" fill="#3465a4"><title>McWilliams Dress (2014)</title></circle></a><a href="/variants/s12/dg8db8ly1r1k1dg2db2ly1r1k1dg8db8~x4/"><circle cx="230.2" cy="176.1" r="4" fill="#3465a4"><title>Chieftain's</title></circle></a><a href="/variants/s10/db19dg7db7lb2dg20k9dg6k4dg10w3~x2/"><circle cx="215.6" cy="188.6" r="4" fill="#3465a4"><title>O'Connell, William Benedict (Personal)</title></circle></a><a href="/variants/s7/r4k2db16k17dg16k2y4~x2/"><circle cx="156.0" cy="182.6" r="4" fill="#3465a4"><title>Wilson's No.230</title></circle></a><a href="/variants/s7/dg54db14y7r14k7db14r6~x2/"><circle cx="227.4" cy="182.0" r="4" fill="#3465a4"><title>Gloucester County Pipe Band (Corp)</title></circle></a><circle cx="196.9" cy="170.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

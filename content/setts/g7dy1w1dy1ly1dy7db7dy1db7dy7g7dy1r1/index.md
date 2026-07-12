@@ -1,6 +1,11 @@
 ---
 title: "Hash House Harriers Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Hash House Harriers Hunting"
+  url: "/tartans/h/ha/hash-house-harriers-hunting/"
 ---
 This is the **Hash House Harriers Hunting** sett — one scale-free proportion (`g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1`), colour order pattern
 [GGWGYGBGBGGGR](/stripes/ggwgygbgbgggr/). It is recorded as **2 variants** — the same
@@ -23,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1~x4~r2109032/"><circle cx="158.8" cy="186.5" r="4" fill="#3465a4"><title>Hash House Harriers Hunting</title></circle></a><a href="/variants/s12/db9n3db2lr2db9n6db3lr3db3g18dg8r2~x2/"><circle cx="155.4" cy="178.7" r="4" fill="#3465a4"><title>Patterson, William John Magee (Personal)</title></circle></a><a href="/variants/s14/db11r1db2r3db1do8g11w1g11do8db8y1r1y1~x2/"><circle cx="150.8" cy="160.9" r="4" fill="#3465a4"><title>Allen Northumbrian Family Tartan</title></circle></a><a href="/variants/s9/r1dy7db3g1n3g1db3g7w1~x4/"><circle cx="135.9" cy="204.8" r="4" fill="#3465a4"><title>Adamson (Personal)</title></circle></a><a href="/variants/s12/db9n3db2w2db9n6db3w3db3g18dg8r2~x2/"><circle cx="138.4" cy="174.2" r="4" fill="#3465a4"><title>Patterson, William J.M. (Personal)</title></circle></a><a href="/variants/s14/g8dg2w2dg6y2db14g4dg16g16r2g5w2g4dg7/"><circle cx="172.7" cy="181.8" r="4" fill="#3465a4"><title>Scott Hunting special</title></circle></a><a href="/variants/s16/db6b2db2b2db2dg6g8dg1w2dg1g8o2dg4db8b2db2~x2/"><circle cx="123.0" cy="184.1" r="4" fill="#3465a4"><title>Forbes, of Druminnor</title></circle></a><a href="/variants/s8/db34w5db5r5db5do26g33o6~x2/"><circle cx="150.8" cy="196.0" r="4" fill="#3465a4"><title>Blairmore</title></circle></a><a href="/variants/s13/db8r2db3r4db13w2dr13w2g13r4g4y2g8~x2/"><circle cx="95.0" cy="186.8" r="4" fill="#3465a4"><title>Bowie (Dalgety) Family Tartan</title></circle></a><a href="/variants/s13/dg8lo2dg4r4dg13w2dy13w2db13r4db3r2db8~x2/"><circle cx="115.2" cy="192.7" r="4" fill="#3465a4"><title>Bowie (white lines) (Name)</title></circle></a><circle cx="158.2" cy="186.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

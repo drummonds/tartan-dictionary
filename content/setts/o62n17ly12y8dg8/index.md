@@ -1,6 +1,15 @@
 ---
 title: "Dundhuin Dress (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Dundhuin"
+  url: "/clan/dundhuin/"
+- name: "Dundhuin"
+  url: "/families/dundhuin/"
+- name: "Dundhuin Dress"
+  url: "/tartans/d/du/dundhuin-dress/"
 ---
 This is the **Dundhuin Dress (Personal)** sett — one scale-free proportion (`o62n17ly12y8dg8`), colour order pattern
 [GGYBR](/stripes/ggybr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r1g8o8w1~x2/"><circle cx="333.9" cy="271.7" r="4" fill="#3465a4"><title>MacKinnon, hunting</title></circle></a><a href="/variants/s6/o59n28ly5dg3w4ly5~x2/"><circle cx="429.5" cy="182.2" r="4" fill="#3465a4"><title>Dundhuin Gold</title></circle></a><a href="/variants/s4/n70lo16t3o45/"><circle cx="476.4" cy="257.2" r="4" fill="#3465a4"><title>Klymson (Personal)</title></circle></a><a href="/variants/s4/y1o5r5w1~x4/"><circle cx="322.8" cy="297.0" r="4" fill="#3465a4"><title>Manx, Mannin Plaid</title></circle></a><a href="/variants/s6/y15g98n72r25n8lb15/"><circle cx="318.6" cy="232.5" r="4" fill="#3465a4"><title>Afternoon Tea / Afternoon Tea</title></circle></a><a href="/variants/s5/dr3n34db4g47lb3~x2/"><circle cx="429.0" cy="235.8" r="4" fill="#3465a4"><title>Exabyte</title></circle></a><a href="/variants/s5/do18o9n9r1lb1~x4/"><circle cx="357.4" cy="217.7" r="4" fill="#3465a4"><title>Jardine</title></circle></a><a href="/variants/s7/y23o4dy6dg6y4n1y4~x4/"><circle cx="490.7" cy="194.1" r="4" fill="#3465a4"><title>Tricor (Corporate)</title></circle></a><a href="/variants/s5/n57w5g20n5y10/"><circle cx="500.2" cy="258.5" r="4" fill="#3465a4"><title>Jahore District Tartan</title></circle></a><a href="/variants/s6/ly23r22o52r8w6lyi18~ly2503076-lyi2705081/"><circle cx="325.5" cy="265.1" r="4" fill="#3465a4"><title>Lady Boys of Bangkok (Corporate)</title></circle></a><circle cx="411.8" cy="245.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

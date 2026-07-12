@@ -1,6 +1,11 @@
 ---
 title: "Auld Lang Syne (Philip King Tailoring)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Auld Lang Syne"
+  url: "/tartans/a/au/auld-lang-syne-6/"
 ---
 This is the **Auld Lang Syne (Philip King Tailoring)** sett — one scale-free proportion (`k1t1k1t7y7k1y1lb1`), colour order pattern
 [KBKBGKGW](/stripes/kbkbgkgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k1t1k1t7dy7k1dy1lt1~x6/"><circle cx="199.4" cy="189.8" r="4" fill="#3465a4"><title>Auld Lang Syne</title></circle></a><a href="/variants/s7/o19k2w4k2n5k2n5~x2~o2500000-n1900000/"><circle cx="218.7" cy="175.3" r="4" fill="#3465a4"><title>Kyle Tartan</title></circle></a><a href="/variants/s8/n32k3n3k3o5k8oi21k4~x2~n1900000-oi2500000/"><circle cx="216.1" cy="168.6" r="4" fill="#3465a4"><title>Speyside Grey (Fashion)</title></circle></a><a href="/variants/s8/n32k3n3k3t5k8o21k4~x2~n1900000-o2500000/"><circle cx="215.5" cy="169.7" r="4" fill="#3465a4"><title>Speyside Blue (Fashion)</title></circle></a><a href="/variants/s7/y19k2w2k2n5k2n5~x4~y2400000-n1700000/"><circle cx="253.1" cy="173.9" r="4" fill="#3465a4"><title>Kyle</title></circle></a><a href="/variants/s8/k2lb2k2lb15g15k2g2w2~x4/"><circle cx="179.4" cy="181.0" r="4" fill="#3465a4"><title>Ben Lomond (Fashion)</title></circle></a><a href="/variants/s6/r3db12r4g18r6k2~x2/"><circle cx="182.5" cy="208.1" r="4" fill="#3465a4"><title>Eyre (Personal)</title></circle></a><a href="/variants/s9/b22g4k4g14lb3g4lb3g4k3~x2/"><circle cx="189.7" cy="194.0" r="4" fill="#3465a4"><title>Graden (Personal)</title></circle></a><a href="/variants/s8/k4g24db6dp3k6dp12g3dp4~x2/"><circle cx="189.1" cy="194.5" r="4" fill="#3465a4"><title>Gary/Garry (Name)</title></circle></a><a href="/variants/s8/k1t1k1t7g8k1g1ly1~x4/"><circle cx="215.8" cy="190.1" r="4" fill="#3465a4"><title>Banff Centennial (Commemorative)</title></circle></a><circle cx="200.9" cy="189.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

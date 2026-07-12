@@ -1,6 +1,15 @@
 ---
 title: "Mead (Tennessee) Modern Dress (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Mead"
+  url: "/clan/mead/"
+- name: "Mead"
+  url: "/families/mead/"
+- name: "Mead Modern Dress"
+  url: "/tartans/m/me/mead-modern-dress/"
 ---
 This is the **Mead (Tennessee) Modern Dress (Personal)** sett — one scale-free proportion (`dbi36k3r6k3db10r5db3y4k1dbi2`), colour order pattern
 [BKGBRBKRKB](/stripes/bkgbrbkrkb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/b36k3r6k3db10r5db3ly4k1b2~x2/"><circle cx="273.9" cy="77.9" r="4" fill="#3465a4"><title>Mead (Personal)</title></circle></a><a href="/variants/s11/db66k20dbi7n4dbi5n4dbi5n4dbi7k2lr6~db1003265-dbi1605267/"><circle cx="315.5" cy="89.4" r="4" fill="#3465a4"><title>Muir Homes</title></circle></a><a href="/variants/s14/db37dp2db2dp3k13dp10w2dp10g1dp2g2dp2g9dp13~x2/"><circle cx="253.2" cy="92.0" r="4" fill="#3465a4"><title>Strathtummel (District?)</title></circle></a><a href="/variants/s10/db6w1db40o1k12dg12o6dg2dp2dg4~x2/"><circle cx="309.9" cy="79.6" r="4" fill="#3465a4"><title>Scotland the Brave (Fashion)</title></circle></a><a href="/variants/s11/g6dpi2dp2g2dp15g3k2g1k15db43w2~x2~dpi1607327-dp1105325/"><circle cx="247.3" cy="59.3" r="4" fill="#3465a4"><title>Scottish Pride (Fashion)</title></circle></a><a href="/variants/s13/k4n8db54y6db23n4k4r14k4n2db2k4db4/"><circle cx="344.3" cy="82.5" r="4" fill="#3465a4"><title>Blue Brough from Orkney</title></circle></a><a href="/variants/s7/r8y2b7y2db24k2g1~x2/"><circle cx="266.4" cy="112.1" r="4" fill="#3465a4"><title>(4) Traill</title></circle></a><a href="/variants/s8/r16db2n6r3k4lb2db40lb6~x2/"><circle cx="268.7" cy="112.3" r="4" fill="#3465a4"><title>St. Leonards (Corporate)</title></circle></a><a href="/variants/s8/ly4dp2db30k3dp8db5dp1r2~x2/"><circle cx="388.6" cy="108.9" r="4" fill="#3465a4"><title>Royal British Legion Scotland (Corp)</title></circle></a><a href="/variants/s12/db68o5k9o3k3lb3k3n20db9k3db5lb4/"><circle cx="333.2" cy="81.6" r="4" fill="#3465a4"><title>British Caledonian Airways #1</title></circle></a><circle cx="309.2" cy="86.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

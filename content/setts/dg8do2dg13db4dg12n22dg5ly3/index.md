@@ -1,6 +1,11 @@
 ---
 title: "Scottish Pup"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Scottish Pup"
+  url: "/tartans/s/sc/scottish-pup/"
 ---
 This is the **Scottish Pup** sett — one scale-free proportion (`dg8do2dg13db4dg12n22dg5ly3`), colour order pattern
 [GBGBGBGY](/stripes/gbgbgbgy/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dt25r14dt8dy14t5dt12o6dt8lb2~x2/"><circle cx="296.8" cy="203.3" r="4" fill="#3465a4"><title>Johnstons of Elgin Bicentennial (Com</title></circle></a><a href="/variants/s9/n44y2dg27y2g16lb8dg16lb2dg8~x2/"><circle cx="310.1" cy="187.7" r="4" fill="#3465a4"><title>Crumlish (2015)</title></circle></a><a href="/variants/s7/dr30dg18lr3dg18dr20lb3g3~x2~lr2800000-lb3203246/"><circle cx="383.7" cy="247.7" r="4" fill="#3465a4"><title>Tartan for London, A (Fashion)</title></circle></a><a href="/variants/s8/dt14o1dt1o1dt6n14w1n1~x4/"><circle cx="412.0" cy="199.6" r="4" fill="#3465a4"><title>Corrie</title></circle></a><a href="/variants/s10/db20dg6db6lb2dg20dr8dg6dr4dg10lr3~x2/"><circle cx="323.0" cy="232.7" r="4" fill="#3465a4"><title>MacConnell</title></circle></a><a href="/variants/s7/dg4t28dg11w2dg2g14y2~x2/"><circle cx="308.4" cy="212.4" r="4" fill="#3465a4"><title>Rhode Island State American District Tartan</title></circle></a><a href="/variants/s7/dt4t28dt11w2dt2g14y2~x2/"><circle cx="308.9" cy="212.2" r="4" fill="#3465a4"><title>Rhode Island, State of</title></circle></a><a href="/variants/s10/dg9w2dg24db37r3db37dg24w2dg9o4~x2~db1103284/"><circle cx="381.8" cy="190.5" r="4" fill="#3465a4"><title>Hardie</title></circle></a><a href="/variants/s7/r3dg20y2dg20n20b20r3~x2/"><circle cx="268.0" cy="231.7" r="4" fill="#3465a4"><title>Brodie, Silver</title></circle></a><a href="/variants/s11/dg12n4dr4db4dr4n4dg18g5dg5g5db4~x2/"><circle cx="303.6" cy="270.0" r="4" fill="#3465a4"><title>Ralston Personal Tartan</title></circle></a><circle cx="379.6" cy="241.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

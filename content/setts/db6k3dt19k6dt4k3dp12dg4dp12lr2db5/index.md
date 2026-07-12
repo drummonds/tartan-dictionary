@@ -1,6 +1,13 @@
 ---
 title: "Scotland Forever (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Scotland"
+  url: "/clan/scotland/"
+- name: "Scotland Forever"
+  url: "/tartans/s/sc/scotland-forever/"
 ---
 This is the **Scotland Forever (Fashion)** sett — one scale-free proportion (`db6k3dt19k6dt4k3dp12dg4dp12lr2db5`), colour order pattern
 [BKBKBKBGBYB](/stripes/bkbkbkbgbyb/). It is recorded as a single **variant**, below.

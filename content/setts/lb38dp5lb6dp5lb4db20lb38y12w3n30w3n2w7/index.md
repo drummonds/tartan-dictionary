@@ -1,6 +1,11 @@
 ---
 title: "Tom Morris (Official)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Tom Morris"
+  url: "/tartans/t/to/tom-morris/"
 ---
 This is the **Tom Morris (Official)** sett — one scale-free proportion (`lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7`), colour order pattern
 [WBWBWBWGWBWBW](/stripes/wbwbwbwgwbwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/lb38dp5lb6dp5lb4db20lb38o12w3n30w3n2w7~o2500000-n1900000/"><circle cx="240.2" cy="131.6" r="4" fill="#3465a4"><title>Morris, Tom (Corporate)</title></circle></a><a href="/variants/s12/dg1n8lb5n23lb5db3lb5dp3lb5dg5lb3w1~x2/"><circle cx="282.0" cy="141.9" r="4" fill="#3465a4"><title>Hand Name Tartan</title></circle></a><a href="/variants/s12/g1n8lb5n23lb5db3lb5dp3lb5g5lb3w1~x2/"><circle cx="293.4" cy="146.8" r="4" fill="#3465a4"><title>Hand, Edinburgh</title></circle></a><a href="/variants/s9/g4lp46dp8w4dp16w3lb28w3b4~lp3004302-lb3200000/"><circle cx="225.1" cy="156.5" r="4" fill="#3465a4"><title>Heather, (R.S.S.P.C.C.)</title></circle></a><a href="/variants/s17/y3lb20db3g3db3g3db3g3db4lb13dg2lb2dg2lb3b2lb3g3~x2/"><circle cx="250.9" cy="146.0" r="4" fill="#3465a4"><title>Fermanagh</title></circle></a><a href="/variants/s11/lb38db4y4lb19db8lr18dp8lb18y4db4ly4~x2~y2602166-lr3102083/"><circle cx="294.1" cy="184.7" r="4" fill="#3465a4"><title>Cian of Ely</title></circle></a><a href="/variants/s9/db4w3lb28w3dp16w4dp8lp46g4/"><circle cx="217.6" cy="152.5" r="4" fill="#3465a4"><title>Heather (R.S.S.P.C.C.) Corporate Tartan</title></circle></a><a href="/variants/s14/t9w4dt2w2dt2w4dt10t1w16t9wi2t9lb2t9~x2~t2406246-w3502055-wi3704101-lb3203246/"><circle cx="263.7" cy="193.9" r="4" fill="#3465a4"><title>Balamory Fancy Tartan</title></circle></a><a href="/variants/s10/lb40db12ly2db2lb2db2g6w21r2lb2~x2/"><circle cx="250.3" cy="116.1" r="4" fill="#3465a4"><title>Corryvrechan Dress (Corporate)</title></circle></a><a href="/variants/s11/dp2w5dp5ly11w5dg12lb1dg2lb26do2dp2~x2~dp1502305-do1301000/"><circle cx="191.9" cy="131.2" r="4" fill="#3465a4"><title>Chalk, Robert (Personal)</title></circle></a><circle cx="258.8" cy="144.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

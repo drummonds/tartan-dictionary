@@ -1,6 +1,11 @@
 ---
 title: "Collinet (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Collinet"
+  url: "/tartans/c/co/collinet/"
 ---
 This is the **Collinet (Personal)** sett — one scale-free proportion (`ly102ri6g6ri6lr6ri6dg6ri6dg6dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1r8dg4lr4`), colour order pattern
 [YGRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBGRGRYRGRY](/stripes/ygrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbgrgryrgry/). It is recorded as a single **variant**, below.

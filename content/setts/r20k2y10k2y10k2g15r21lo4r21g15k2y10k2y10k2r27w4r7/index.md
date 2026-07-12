@@ -1,6 +1,13 @@
 ---
 title: "East Kilbride District Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan East"
+  url: "/clan/east/"
+- name: "East Kilbride"
+  url: "/tartans/e/ea/east-kilbride/"
 ---
 This is the **East Kilbride District Tartan** sett — one scale-free proportion (`r20k2y10k2y10k2g15r21lo4r21g15k2y10k2y10k2r27w4r7`), colour order pattern
 [RKGKGKGRYRGKGKGKRWR](/stripes/rkgkgkgryrgkgkgkrwr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k4w1r2g16r8g8r15lo1r14y2r2k1w4~x2/"><circle cx="219.6" cy="107.8" r="4" fill="#3465a4"><title>Melieres-Frost</title></circle></a><a href="/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8~w4000000-dp1607327/"><circle cx="206.9" cy="123.1" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/variants/s15/r12lb2r12g8y1k6lb4k1lb1k1lb4r12w1k1r1~x2/"><circle cx="202.7" cy="100.4" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/variants/s12/db6w2k2r6dy2g12r6t3k3t3r28dy4~x2~r2109032-t2503227/"><circle cx="207.3" cy="63.2" r="4" fill="#3465a4"><title>Wren</title></circle></a><a href="/variants/s19/k1r4g8r2g1r2db4r2w1r1w1r2g4r3g4r1k1r8w1~x2/"><circle cx="181.3" cy="142.7" r="4" fill="#3465a4"><title>MacDougall #6</title></circle></a><a href="/variants/s15/dg10r3k2r3dg10r8k2y1b1y1k2r20dg4r8w1~x2/"><circle cx="257.6" cy="84.0" r="4" fill="#3465a4"><title>Livingstone (Australia) Official</title></circle></a><a href="/variants/s14/y4r1y4ly1k1r6w1r4w1r6k1ly1y4w1~x8~w3600000/"><circle cx="195.0" cy="177.0" r="4" fill="#3465a4"><title>Ogilvie (D.C. Stewart)</title></circle></a><a href="/variants/s14/y4r1y4ly1k1r6w1r4w1r6k1ly1y4w1~x8/"><circle cx="187.3" cy="174.4" r="4" fill="#3465a4"><title>Ogilvie - 1893 (Clan)</title></circle></a><a href="/variants/s15/ri7r5dr5ri31k9dr4r3ri5r3dr4g30ri4r3dr5ri5~x2~ri2209032-r2208029/"><circle cx="184.8" cy="125.9" r="4" fill="#3465a4"><title>MacDougall (Kinloch Anderson)</title></circle></a><a href="/variants/s38/dg24r7dg24r26k2r2k5r2k2r24k2r2k5r2k2r26w3r12db33r12w3r26dg4r12dg4r26dg12r8dg12r12dg8g7dg8r12dg9w3dg16w2~dg1806142-g1904115/"><circle cx="200.7" cy="71.0" r="4" fill="#3465a4"><title>Kinnoull (MacRae) - Error?</title></circle></a><circle cx="208.5" cy="115.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

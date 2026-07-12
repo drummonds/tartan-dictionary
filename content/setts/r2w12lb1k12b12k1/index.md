@@ -1,6 +1,15 @@
 ---
 title: "Dutch, dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Dutch"
+  url: "/clan/dutch/"
+- name: "Dutch"
+  url: "/families/dutch/"
+- name: "Dutch, dress"
+  url: "/tartans/d/du/dutch-dress-2/"
 ---
 This is the **Dutch, dress** sett — one scale-free proportion (`r2w12lb1k12b12k1`), colour order pattern
 [KBKWWR](/stripes/kbkwwr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w5k26ly4lb24dp8k3r4~x2/"><circle cx="100.7" cy="152.2" r="4" fill="#3465a4"><title>Pengelly, The Cornish</title></circle></a><a href="/variants/s8/r5w2db20y2k16w18k2w5~x2/"><circle cx="105.7" cy="162.5" r="4" fill="#3465a4"><title>Ailsa Craig Trade Tartan</title></circle></a><a href="/variants/s5/lr2r1t7k7lb1~x8~lr2800000-lb3501240/"><circle cx="136.1" cy="205.4" r="4" fill="#3465a4"><title>Bryson (1988) (Name)</title></circle></a><a href="/variants/s6/y6k2n11k7db24w6~x2/"><circle cx="154.3" cy="181.7" r="4" fill="#3465a4"><title>Clunie (Name)</title></circle></a><a href="/variants/s6/dr4t28k6lb12k12lo3~x2~t2503227-lb3200000/"><circle cx="149.9" cy="187.1" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><a href="/variants/s6/r4lb28k6w12k12y3~x2/"><circle cx="136.7" cy="179.9" r="4" fill="#3465a4"><title>MacTavish Dress Family Tartan</title></circle></a><a href="/variants/s6/r1t10k2w4k4y1~x6/"><circle cx="156.8" cy="175.7" r="4" fill="#3465a4"><title>Thomson Dress (Blue)</title></circle></a><a href="/variants/s5/r2db12k5lb16w2~x4/"><circle cx="152.8" cy="199.6" r="4" fill="#3465a4"><title>RSCDS Australia? (Corporate)</title></circle></a><a href="/variants/s7/y4k4lb5t24y2k24w4~x2/"><circle cx="158.5" cy="154.8" r="4" fill="#3465a4"><title>Mina Perhonen</title></circle></a><a href="/variants/s6/w12db48k13n22k3y6/"><circle cx="189.4" cy="160.8" r="4" fill="#3465a4"><title>Clunie (Personal)</title></circle></a><circle cx="106.8" cy="170.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

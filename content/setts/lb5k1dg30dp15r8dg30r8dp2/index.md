@@ -1,6 +1,15 @@
 ---
 title: "Shaw of Tordarroch, hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Shaw"
+  url: "/clan/shaw/"
+- name: "Shaw of Tordarroch"
+  url: "/families/shaw-of-tordarroch/"
+- name: "Shaw of Tordarroch, hunting"
+  url: "/tartans/s/sh/shaw-of-tordarroch-hunting/"
 ---
 This is the **Shaw of Tordarroch, hunting** sett — one scale-free proportion (`lb5k1dg30dp15r8dg30r8dp2`), colour order pattern
 [BRGRBGKW](/stripes/brgrbgkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb5k1g30dp15r8g30r8dp2/"><circle cx="322.4" cy="135.3" r="4" fill="#3465a4"><title>Shaw of Tordarroch Hunting Clan Tartan</title></circle></a><a href="/variants/s11/n49db15k1n18k4r8g7k5g5n19k5~x2/"><circle cx="362.6" cy="90.7" r="4" fill="#3465a4"><title>State Seal of Virginia (Fashion)</title></circle></a><a href="/variants/s9/dr24lb1k3lb1g14dr8k3dp3lb2~x4/"><circle cx="284.7" cy="115.9" r="4" fill="#3465a4"><title>Leach (1995)</title></circle></a><a href="/variants/s8/dt8y74k8dt42y11k2y16dt4~dt1000000-y2100000/"><circle cx="421.4" cy="131.2" r="4" fill="#3465a4"><title>Orkney Slate</title></circle></a><a href="/variants/s8/n36k18n5db7n5k7r1dg2~x2~dg1806142/"><circle cx="307.7" cy="101.5" r="4" fill="#3465a4"><title>Suttle (Personal)</title></circle></a><a href="/variants/s11/n12lb3do36k12do8k8do16k2do16k4n10~do1400000/"><circle cx="334.3" cy="168.7" r="4" fill="#3465a4"><title>Bute Heather, Midnight</title></circle></a><a href="/variants/s11/n12g3dt36k12dt8k8dt16k2dt18k4n10~dt1600000/"><circle cx="343.1" cy="171.5" r="4" fill="#3465a4"><title>Bute Heather, Hunting (Fashion)</title></circle></a><a href="/variants/s8/n36k18n5db7n5k7r1g2~x2/"><circle cx="306.3" cy="101.2" r="4" fill="#3465a4"><title>Suttle (Personal)</title></circle></a><a href="/variants/s11/n12r3ni36k10ni8k8ni16k2ni16k4n10~n1800000-ni1900000/"><circle cx="342.4" cy="169.1" r="4" fill="#3465a4"><title>Bute Heather, Midnight (Fashion)</title></circle></a><a href="/variants/s11/y6lb1n18k6n4k4n8k1n8k2y5~x2~y2400000-n1700000/"><circle cx="314.0" cy="158.7" r="4" fill="#3465a4"><title>Bute Heather, Grey</title></circle></a><circle cx="343.9" cy="135.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

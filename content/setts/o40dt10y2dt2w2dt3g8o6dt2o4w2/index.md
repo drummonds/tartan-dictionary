@@ -1,6 +1,15 @@
 ---
 title: "Cavalier, Brown"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cavalier"
+  url: "/clan/cavalier/"
+- name: "Cavalier"
+  url: "/families/cavalier/"
+- name: "Cavalier"
+  url: "/tartans/c/ca/cavalier/"
 ---
 This is the **Cavalier, Brown** sett — one scale-free proportion (`o40dt10y2dt2w2dt3g8o6dt2o4w2`), colour order pattern
 [RBGBWBGRBRW](/stripes/rbgbwbgrbrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/o40dt10y2dt2w2dt3r8o6dt2o4w2~x2/"><circle cx="397.4" cy="117.8" r="4" fill="#3465a4"><title>Cavalier, Red</title></circle></a><a href="/variants/s11/y40dt10o2dt2w2dt3g8y6dt2y4w2~x2/"><circle cx="406.4" cy="131.9" r="4" fill="#3465a4"><title>Cavalier, Blue</title></circle></a><a href="/variants/s10/o6w1o24db6g2db1g2db1g12r1~x2/"><circle cx="352.9" cy="132.5" r="4" fill="#3465a4"><title>Chisholm hunting</title></circle></a><a href="/variants/s10/o4g13o3db4o3db3o40db3o2lo4~x2/"><circle cx="454.8" cy="144.5" r="4" fill="#3465a4"><title>Galway Irish County Tartan</title></circle></a><a href="/variants/s12/g21r2w1y3r2g5r21y1ly1y1r1g8~x2~y2405105-ly3307090/"><circle cx="339.6" cy="126.6" r="4" fill="#3465a4"><title>Glendronach</title></circle></a><a href="/variants/s13/g8ly2dy4dp4g3dp4dy42g4r3g4dy4dp5r3~ly3307090-dy1603076/"><circle cx="383.1" cy="123.6" r="4" fill="#3465a4"><title>Sarna (District)</title></circle></a><a href="/variants/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/"><circle cx="403.5" cy="100.6" r="4" fill="#3465a4"><title>Diana, hunting Plaid</title></circle></a><a href="/variants/s13/g8y2o4dp4g3dp4o42g4r3g4o4dp5r3/"><circle cx="393.0" cy="124.7" r="4" fill="#3465a4"><title>Sarna</title></circle></a><a href="/variants/s17/r24y1db1r3g16r3db1y1r3db6r3y1db1r16g2dr2g2~x2~r1908029/"><circle cx="382.3" cy="99.5" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/variants/s9/g15y3g27r2g2r33t2w1t4~x2/"><circle cx="348.0" cy="128.6" r="4" fill="#3465a4"><title>Longmore (Name)</title></circle></a><circle cx="395.3" cy="122.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

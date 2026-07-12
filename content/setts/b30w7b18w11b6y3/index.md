@@ -1,6 +1,11 @@
 ---
 title: "Ochterlonie"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Ochterlonie"
+  url: "/tartans/o/oc/ochterlonie/"
 ---
 This is the **Ochterlonie** sett — one scale-free proportion (`b30w7b18w11b6y3`), colour order pattern
 [BWBWBG](/stripes/bwbwbg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db40w8db25w14db8y4~x2/"><circle cx="421.8" cy="236.4" r="4" fill="#3465a4"><title>Auchterlonie (Personal)</title></circle></a><a href="/variants/s6/y1b15w5b1w5b1~x4/"><circle cx="408.9" cy="210.7" r="4" fill="#3465a4"><title>Whitley (Personal)</title></circle></a><a href="/variants/s5/db67w10y14db10w2/"><circle cx="504.8" cy="173.2" r="4" fill="#3465a4"><title>St. John (Corporate?)</title></circle></a><a href="/variants/s6/w8db16w2db2w1db1~x4/"><circle cx="440.0" cy="223.5" r="4" fill="#3465a4"><title>Ikelman #1 (Personal)</title></circle></a><a href="/variants/s6/lb10n1lb1n10lb18n5~x2/"><circle cx="535.7" cy="275.5" r="4" fill="#3465a4"><title>Harmony 13</title></circle></a><a href="/variants/s5/db37w9db3r9w3~x2/"><circle cx="372.7" cy="198.0" r="4" fill="#3465a4"><title>Glen Moy Trade Tartan</title></circle></a><a href="/variants/s6/lb48n28w4n28lb48y3~x2/"><circle cx="434.9" cy="249.4" r="4" fill="#3465a4"><title>McKerrell of Hillhouse Dress</title></circle></a><a href="/variants/s6/b21y38b20y2b64w6/"><circle cx="536.1" cy="220.4" r="4" fill="#3465a4"><title>European Union</title></circle></a><a href="/variants/s10/db20lb2w5r2db10lb5db20lb2w5r5~x2/"><circle cx="320.8" cy="180.9" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/variants/s10/db20t2w5r2db10t5db20t2w5r5~x2/"><circle cx="326.7" cy="183.3" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><circle cx="448.7" cy="253.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

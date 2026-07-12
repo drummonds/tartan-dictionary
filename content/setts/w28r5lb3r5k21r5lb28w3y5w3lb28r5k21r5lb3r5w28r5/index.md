@@ -1,6 +1,13 @@
 ---
 title: "Stirling & Bannockburn Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Stirling"
+  url: "/clan/stirling/"
+- name: "Stirling & Bannockburn Dress"
+  url: "/tartans/s/st/stirling-bannockburn-dress-2/"
 ---
 This is the **Stirling & Bannockburn Dress** sett — one scale-free proportion (`w28r5lb3r5k21r5lb28w3y5w3lb28r5k21r5lb3r5w28r5`), colour order pattern
 [RWRWRKRWWGWWRKRWRW](/stripes/rwrwrkrwwgwwrkrwrw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db4w2r6k1db12g4w2r6db1r6w2g8r2w16r4~x2/"><circle cx="99.1" cy="126.1" r="4" fill="#3465a4"><title>MacFarlane Dress Clan Tartan</title></circle></a><a href="/variants/s15/db2k1db6k1r5y3r5k2w3k2w9k1w2k1y2~x2/"><circle cx="48.4" cy="147.5" r="4" fill="#3465a4"><title>Unidentified 32</title></circle></a><a href="/variants/s22/g3lo19w2db3w3db6w2db3w2y4db14y4w2db3w2db6w3db3w2lo19g3k2~x2~w4000000/"><circle cx="85.1" cy="103.6" r="4" fill="#3465a4"><title>Unidentified Lindley #3</title></circle></a><a href="/variants/s10/r5w28r5lb3r5k21r5lb28w3y5~x2/"><circle cx="73.4" cy="150.1" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn Dress (Dist)</title></circle></a><a href="/variants/s12/w5lb2w2lb3w17k6n2k2n2k2n14r3~x2/"><circle cx="122.0" cy="144.5" r="4" fill="#3465a4"><title>Unidentified (Fashion)</title></circle></a><a href="/variants/s13/w3k2t4w4t3w11k2g3y3k3t12r19k2~x2/"><circle cx="47.0" cy="128.7" r="4" fill="#3465a4"><title>Badminton Cup</title></circle></a><a href="/variants/s17/r3w5r2w12y1k2y1w2y1k2y2k2r1g4r2g4r2~x2/"><circle cx="104.0" cy="120.4" r="4" fill="#3465a4"><title>Anderson Dress Clan Tartan</title></circle></a><a href="/variants/s15/db4w2r6k1db12dg4db2r6db1r6w2dg8r2w16r4~x2/"><circle cx="97.4" cy="123.9" r="4" fill="#3465a4"><title>MacFarlane Dress</title></circle></a><a href="/variants/s16/r3lb7k1r2k1lb12k4w3k2r1k1r1db3r2db4r2~x2/"><circle cx="107.1" cy="118.9" r="4" fill="#3465a4"><title>Royal Canadian Air Force #2</title></circle></a><a href="/variants/s11/r16k6r14g22k16db16w10r6w45k4r4/"><circle cx="79.4" cy="148.3" r="4" fill="#3465a4"><title>MacDuff Dress #4</title></circle></a><circle cx="63.9" cy="129.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

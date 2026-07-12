@@ -1,6 +1,15 @@
 ---
 title: "MacGillivray #2"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacGillivray"
+  url: "/clan/macgillivray/"
+- name: "MacGillivray"
+  url: "/families/macgillivray/"
+- name: "MacGillivray"
+  url: "/tartans/m/ma/macgillivray-5/"
 ---
 This is the **MacGillivray #2** sett — one scale-free proportion (`k6lb1dp1r57lb2r2dp23r4g30r6lb1r6dp2`), colour order pattern
 [BRWRGRBRWRBWK](/stripes/brwrgrbrwrbwk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r62dr1r6dr9n2k2dr9w6n1w6n20w2~x2/"><circle cx="331.4" cy="49.1" r="4" fill="#3465a4"><title>Canfor</title></circle></a><a href="/variants/s14/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3~x2/"><circle cx="287.1" cy="39.1" r="4" fill="#3465a4"><title>Lendrum (Clan)</title></circle></a><a href="/variants/s14/r42k1g12w2r3k1r3w2g2dr12k4r3w4g3~x2/"><circle cx="289.3" cy="40.0" r="4" fill="#3465a4"><title>MacFarlane</title></circle></a><a href="/variants/s14/r42k1g12w2r3k1r3w2g2dr12k4r3w4g3/"><circle cx="289.3" cy="40.0" r="4" fill="#3465a4"><title>MacFarlane</title></circle></a><a href="/variants/s14/r42k1dg12w2r3k1r3w2dg2dp12k4r3w4dg3~x2/"><circle cx="288.3" cy="37.4" r="4" fill="#3465a4"><title>MacFarlane (Lord Lyon sett)</title></circle></a><a href="/variants/s14/r42k1g12w2r3k1r3w2g2db12k4r3w4g3/"><circle cx="281.6" cy="39.1" r="4" fill="#3465a4"><title>MacFarlane</title></circle></a><a href="/variants/s13/dg2r36dg11k5w1dg1y1k1w1k1dg16r5w1~x2/"><circle cx="289.9" cy="53.2" r="4" fill="#3465a4"><title>Campagna Center (Corporate)</title></circle></a><a href="/variants/s14/r98k3dg21w5r5k2r5w5dg2db21k7r7w8dg4~db1204274/"><circle cx="328.5" cy="21.1" r="4" fill="#3465a4"><title>MacFarlane Red</title></circle></a><a href="/variants/s14/r103k8g16w4r9k3r9w4g7db41k14r14w10g6/"><circle cx="267.6" cy="49.2" r="4" fill="#3465a4"><title>MacFarlane Red Artifact Tartan</title></circle></a><a href="/variants/s14/r98k3dg21w5r5k2r5w5dg2db21k7r7w8dg4/"><circle cx="326.9" cy="21.0" r="4" fill="#3465a4"><title>MacFarlane Red (Clan)</title></circle></a><circle cx="318.7" cy="50.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

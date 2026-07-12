@@ -1,6 +1,15 @@
 ---
 title: "Muskoka (District)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Muskoka"
+  url: "/clan/muskoka/"
+- name: "Muskoka"
+  url: "/families/muskoka/"
+- name: "Muskoka"
+  url: "/tartans/m/mu/muskoka/"
 ---
 This is the **Muskoka (District)** sett — one scale-free proportion (`w2g5lb10g20ri1dy2r2dy1`), colour order pattern
 [GRGRGWGW](/stripes/grgrgwgw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w4g10lb24g42r3dy4dr4y2/"><circle cx="290.5" cy="123.8" r="4" fill="#3465a4"><title>Muskoka Canadian Tartan</title></circle></a><a href="/variants/s8/w4g10lb24g42ri3y4r4ly2~ri2008029-y2405105-r1506028-ly3307090/"><circle cx="301.3" cy="127.3" r="4" fill="#3465a4"><title>Muskoka</title></circle></a><a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1707016-ri2008029/"><circle cx="296.6" cy="178.7" r="4" fill="#3465a4"><title>Manitoba</title></circle></a><a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1807008-ri2109032/"><circle cx="296.3" cy="178.1" r="4" fill="#3465a4"><title>Manitoba District Tartan</title></circle></a><a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1707016-ri2209032/"><circle cx="296.9" cy="178.6" r="4" fill="#3465a4"><title>Manitoba Red</title></circle></a><a href="/variants/s8/r5w4lg6db2g43db2lg4r3~x2~lg2704216-db1108266/"><circle cx="374.0" cy="128.4" r="4" fill="#3465a4"><title>Mullikin (2013)</title></circle></a><a href="/variants/s8/r5w4dbi6db2g43db2dbi4r3~x2~dbi1406275-db1204274/"><circle cx="360.5" cy="121.3" r="4" fill="#3465a4"><title>Mullikin (2013)</title></circle></a><a href="/variants/s5/w8r6y2g34db3~x2/"><circle cx="356.7" cy="170.2" r="4" fill="#3465a4"><title>Milling-Christensen</title></circle></a><a href="/variants/s12/y2g16lb2w2lb2w2lb6g7r2w1lb1dp1~x2/"><circle cx="265.7" cy="133.6" r="4" fill="#3465a4"><title>Fredericton</title></circle></a><a href="/variants/s12/y2g16lb2w2lb2w2lb6g7r2w1lb1dp1~x6/"><circle cx="265.7" cy="133.6" r="4" fill="#3465a4"><title>Fredericton #2</title></circle></a><circle cx="316.1" cy="137.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

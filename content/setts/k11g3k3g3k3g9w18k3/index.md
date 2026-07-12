@@ -1,6 +1,15 @@
 ---
 title: "Lamont Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Lamont"
+  url: "/clan/lamont/"
+- name: "Lamont"
+  url: "/families/lamont/"
+- name: "Lamont Dress"
+  url: "/tartans/l/la/lamont-dress/"
 ---
 This is the **Lamont Dress** sett — one scale-free proportion (`k11g3k3g3k3g9w18k3`), colour order pattern
 [KGKGKGWK](/stripes/kgkgkgwk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/lb12k2lb2k2lb2k10g12k3g12k10lb12k2lb2~x2/"><circle cx="123.0" cy="204.0" r="4" fill="#3465a4"><title>Sutherland (District)</title></circle></a><a href="/variants/s6/lb3g12k14lb11k3lb3~x2/"><circle cx="131.7" cy="255.5" r="4" fill="#3465a4"><title>Wilson's, No 166</title></circle></a><a href="/variants/s13/lb14k3lb3k3lb3k16g16k3g16k16lb16k3lb3~x2/"><circle cx="125.3" cy="208.1" r="4" fill="#3465a4"><title>Campbell (Clan)</title></circle></a><a href="/variants/s7/k4w19k11dg15k3dg16y3~x2/"><circle cx="132.6" cy="219.8" r="4" fill="#3465a4"><title>Lawson, William 2002</title></circle></a><a href="/variants/s6/k2g13k11lb4w9k2~x2/"><circle cx="95.0" cy="221.4" r="4" fill="#3465a4"><title>Loch Leven, Check</title></circle></a><a href="/variants/s7/k9w38k22g31k5g31y5/"><circle cx="138.6" cy="215.5" r="4" fill="#3465a4"><title>Lawsons' Whisky</title></circle></a><a href="/variants/s6/k4g14k14g2w14t3~x2/"><circle cx="103.1" cy="222.3" r="4" fill="#3465a4"><title>MacKay, Dress (Corporate)</title></circle></a><a href="/variants/s10/n6k1n1k1n2k4ly6k1n2k2~x8/"><circle cx="166.5" cy="212.2" r="4" fill="#3465a4"><title>Tyndrum</title></circle></a><a href="/variants/s10/g9lb1k6lb4g2lb4k6lb1g9k2~x2/"><circle cx="176.3" cy="209.6" r="4" fill="#3465a4"><title>Norwich No.049</title></circle></a><a href="/variants/s12/n25k4n4k4n4w20k5w20k20n4k4n4~x2/"><circle cx="131.2" cy="194.3" r="4" fill="#3465a4"><title>Grey Watch Trade Tartan</title></circle></a><circle cx="131.6" cy="210.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

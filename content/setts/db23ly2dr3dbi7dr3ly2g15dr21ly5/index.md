@@ -1,6 +1,11 @@
 ---
 title: "Land's End Maroon"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Land's End Maroon"
+  url: "/tartans/l/la/land-s-end-maroon/"
 ---
 This is the **Land's End Maroon** sett — one scale-free proportion (`db23ly2dr3dbi7dr3ly2g15dr21ly5`), colour order pattern
 [BYBBBYGBY](/stripes/bybbbygby/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dr1g6ly1dr2ly1dr2ly1db6ly1~x8/"><circle cx="156.7" cy="235.6" r="4" fill="#3465a4"><title>Stevenson (Name)</title></circle></a><a href="/variants/s9/r1g8y1r2y1r2y1db8y1~x4/"><circle cx="190.0" cy="201.5" r="4" fill="#3465a4"><title>Stevenson Family Tartan</title></circle></a><a href="/variants/s7/g3dy32g4lb3g18dp18lo3~x2/"><circle cx="246.7" cy="210.7" r="4" fill="#3465a4"><title>Wcwm 9275-1410</title></circle></a><a href="/variants/s11/do6ly4do3db2do5db2do3db2g14dr3db2~x2/"><circle cx="193.5" cy="220.5" r="4" fill="#3465a4"><title>Limerick, County</title></circle></a><a href="/variants/s9/dbi16db7dy4db2dy16db2g24db8lb11~x2~dbi1406275-db1004274/"><circle cx="152.2" cy="219.2" r="4" fill="#3465a4"><title>Wicklow County, Crest Range</title></circle></a><a href="/variants/s7/lbi4dg13g6dr16lb2dr2g2~x2~lbi3200000-lb3103284/"><circle cx="223.6" cy="226.0" r="4" fill="#3465a4"><title>Caledonian Brewery (Corporate)</title></circle></a><a href="/variants/s11/dt2y10dg4lp5dg2lp3dg2lp5dg4dt15lr2~x2~y2302166-dg1806142/"><circle cx="156.4" cy="215.3" r="4" fill="#3465a4"><title>Elwyn Glen (Corporate)</title></circle></a><a href="/variants/s8/dr4g46dr10db10dy33db5dy4ly3~x2/"><circle cx="276.5" cy="191.7" r="4" fill="#3465a4"><title>State Seal of Minnesota (Fashion)</title></circle></a><a href="/variants/s8/w5n49w3dg24dr5ly4dy30w4~x2/"><circle cx="232.8" cy="169.0" r="4" fill="#3465a4"><title>State Seal of New Mexico (Fashion)</title></circle></a><a href="/variants/s8/dp11dy2dp2dy2dp2dy11g14w2~x2/"><circle cx="216.9" cy="237.6" r="4" fill="#3465a4"><title>Lamont #2</title></circle></a><circle cx="204.2" cy="203.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

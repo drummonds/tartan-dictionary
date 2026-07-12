@@ -14,20 +14,20 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/keilar/"><img src="/variants/s16/y15r3y3r1y35g5w2db2g35r1g3r3g15y5w2db2~x2/sett.png" alt="Keilar" width="140"><br><strong>Keilar</strong></a></li>
 <li><a class="tartan" href="/families/keith/"><img src="/variants/s8/g9t4k4t3k4t4g9k2~x4/sett.png" alt="Keith" width="140"><br><strong>Keith</strong></a></li>
 <li><a class="tartan" href="/variants/s5/k3w2n27k31o3~x2/"><strong>Kelley Oliphint</strong></a></li>
-<li><a class="tartan" href="/clan/kelly/"><img src="/variants/s12/dg8k8dg56n8dg8k20dg8n8dg8n16w3dr6/sett.png" alt="Kelly" width="140"><br><strong>Kelly</strong></a><div class="clan-territory">clan</div></li>
-<li><a class="tartan" href="/families/kelly-of-sleat/"><img src="/variants/s12/dg8k8dg56n8dg8k20dg8n8dg8n16w3dr6/sett.png" alt="Kelly of Sleat" width="140"><br><strong>Kelly of Sleat</strong></a></li>
+<li><a class="tartan" href="/clan/kelly/"><img src="/variants/s12/r4k4r28dp4g4k10g4dp4g4dp8k1w3~x2/sett.png" alt="Kelly" width="140"><br><strong>Kelly</strong></a><div class="clan-territory">clan</div></li>
+<li><a class="tartan" href="/families/kelly-of-sleat/"><img src="/variants/s12/r4k4r28dp4g4k10g4dp4g4dp8k1w3~x2/sett.png" alt="Kelly of Sleat" width="140"><br><strong>Kelly of Sleat</strong></a></li>
 <li><a class="tartan" href="/families/kelvingrove/"><img src="/variants/s8/k16t1k1t1k1t9g18t1~x4/sett.png" alt="Kelvingrove" width="140"><br><strong>Kelvingrove</strong></a></li>
 <li><a class="tartan" href="/variants/s6/r5db58lb4n6y4k4~x2~db1406275-n2203265/"><strong>Kendle</strong></a></li>
-<li><a class="tartan" href="/families/kenmore/"><img src="/variants/s3/dr1g22lo1~x4/sett.png" alt="Kenmore" width="140"><br><strong>Kenmore</strong></a></li>
+<li><a class="tartan" href="/families/kenmore/"><img src="/variants/s9/do22ly11dg2ly4dg2ly6dg16do42lr6~x2/sett.png" alt="Kenmore" width="140"><br><strong>Kenmore</strong></a></li>
 <li><a class="tartan" href="/families/kennedy/"><img src="/variants/s17/k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1707016-ri2008022/sett.png" alt="Kennedy" width="140"><br><strong>Kennedy</strong></a></li>
 <li><a class="tartan" href="/families/kennewell/"><img src="/variants/s17/db25lb15dt6o3r2db10lb5lr5k2lb15db25o5dt2lb25db15k6lr3/sett.png" alt="Kennewell" width="140"><br><strong>Kennewell</strong></a></li>
-<li><a class="tartan" href="/families/keogh/"><img src="/variants/s13/dgii11dg1dgii1dg1dgii1dg8g8dgi1g8dg8dgii8g1dgii1~x4~dgii1806142-g2408144-dgi1605139/sett.png" alt="Keogh" width="140"><br><strong>Keogh</strong></a></li>
-<li><a class="tartan" href="/families/kerr/"><img src="/variants/s10/g16k2g2k2g4k10t19k2t2k3~x2/sett.png" alt="Kerr" width="140"><br><strong>Kerr</strong></a></li>
-<li><a class="tartan" href="/families/kerr-of-ardgowan/"><img src="/variants/s13/dp2y1lb42lo2lb6lr1r1lr1g4lo4lr1y1dp1~x2/sett.png" alt="Kerr of Ardgowan" width="140"><br><strong>Kerr of Ardgowan</strong></a></li>
+<li><a class="tartan" href="/families/keogh/"><img src="/variants/s8/g29k4dg6lo4dg28ly28k1lb5~x2~g2408144-dg1806142/sett.png" alt="Keogh" width="140"><br><strong>Keogh</strong></a></li>
+<li><a class="tartan" href="/families/kerr/"><img src="/variants/s10/g20k1g2k1g3k14r28k1r2k4~x2/sett.png" alt="Kerr" width="140"><br><strong>Kerr</strong></a></li>
+<li><a class="tartan" href="/families/kerr-of-ardgowan/"><img src="/variants/s13/lo2y1r42g2r6lr1g1lr1lo4lb4g1y1lo1~x2/sett.png" alt="Kerr of Ardgowan" width="140"><br><strong>Kerr of Ardgowan</strong></a></li>
 <li><a class="tartan" href="/families/kerr-of-ardgowan-arisaid/"><img src="/variants/s13/y2lb1lr42lo2lr6dp1r1dp1g4lo4dp1lb1lr1~x2/sett.png" alt="Kerr of Ardgowan Arisaid" width="140"><br><strong>Kerr of Ardgowan Arisaid</strong></a></li>
 <li><a class="tartan" href="/families/kerr-of-ardgowan-clergy/"><img src="/variants/s12/ly2db1dpi42lb2dpi6db1lo1db1dp4b4g1dpi1~x2~dpi1607327-dp1406332/sett.png" alt="Kerr of Ardgowan Clergy" width="140"><br><strong>Kerr of Ardgowan Clergy</strong></a></li>
 <li><a class="tartan" href="/families/kerry/"><img src="/variants/s11/lr24p3lr8p5k3r3k3lr3k3o24r4~x2/sett.png" alt="Kerry" width="140"><br><strong>Kerry</strong></a></li>
-<li><a class="tartan" href="/families/kervegant/"><img src="/variants/s10/dr60db12t1db2w1db12dr5k1dr2o2~x2~db1004274-t2503227-o2500000/sett.png" alt="Kervegant" width="140"><br><strong>Kervegant</strong></a></li>
+<li><a class="tartan" href="/families/kervegant/"><img src="/variants/s10/n60db12t1db2w1db12n5k1n2r2~x2~n1900000-db1004274-t2503227/sett.png" alt="Kervegant" width="140"><br><strong>Kervegant</strong></a></li>
 <li><a class="tartan" href="/variants/s13/db6k2w3k2db6k4lb9k2r2k46lb2k2db6~x2/"><strong>Kieck</strong></a></li>
 <li><a class="tartan" href="/families/kildonan/"><img src="/variants/s9/dy22do3dy3do3dy3do9lb28do3lb6~x2/sett.png" alt="Kildonan" width="140"><br><strong>Kildonan</strong></a></li>
 <li><a class="tartan" href="/variants/s7/db8y4w2bi25dy25b2r5~x2~db1108266-bi1813263-b1511266/"><strong>Kildrummie</strong></a></li>
@@ -52,7 +52,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/kozlosky/"><img src="/variants/s6/dy21ri8r14dy6ri3r10~x2~ri2806019-r2109032/sett.png" alt="Kozlosky" width="140"><br><strong>Kozlosky</strong></a></li>
 <li><a class="tartan" href="/variants/s8/db20dr1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><strong>Kruenaegel and Schropp</strong></a></li>
 <li><a class="tartan" href="/variants/s4/db8dr1k1n1~x10/"><strong>Kucher, Gregory</strong></a></li>
-<li><a class="tartan" href="/families/kuehle/"><img src="/variants/s11/g30db6o1w2o6w2o1db6g30lb1dp3~x2/sett.png" alt="Kuehle" width="140"><br><strong>Kuehle</strong></a></li>
+<li><a class="tartan" href="/families/kuehle/"><img src="/variants/s11/n30db6o1w2o6w2o1db6n30lb1dp3~x2/sett.png" alt="Kuehle" width="140"><br><strong>Kuehle</strong></a></li>
 <li><a class="tartan" href="/families/kukri/"><img src="/variants/s18/db8k2db3dg3k3r3dg10g3k3w3k3m16dg6k3db8ly13k2m2~x2~r2109032-m2610337/sett.png" alt="Kukri" width="140"><br><strong>Kukri</strong></a></li>
 <li><a class="tartan" href="/families/kumikyoku/"><img src="/variants/s33/n38db3n5db3n5db3dr13db3lb5db3dr13db3o5db3n12db3w5db3n12db3lg5db3dr13db3lb5db3dr13db3n5db3n5db3n36~db0906265-lg2704216/sett.png" alt="Kumikyoku" width="140"><br><strong>Kumikyoku</strong></a></li>
 <li><a class="tartan" href="/families/kutztown/"><img src="/variants/s18/w2db2dg8k2db6dg5r5ly5r4w2r4ly5r5dg5db6k2r10ly2~x2/sett.png" alt="Kutztown" width="140"><br><strong>Kutztown</strong></a></li>

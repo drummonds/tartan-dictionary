@@ -1,6 +1,11 @@
 ---
 title: "Croy, Jake (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Croy, Jake"
+  url: "/tartans/c/cr/croy-jake/"
 ---
 This is the **Croy, Jake (Personal)** sett — one scale-free proportion (`n10k7lt2lb2k27t7lt2t7`), colour order pattern
 [BKWWKBWB](/stripes/bkwwkbwb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n6dp4n2w2n25k26y4~x2/"><circle cx="223.6" cy="148.2" r="4" fill="#3465a4"><title>New York State Troopers</title></circle></a><a href="/variants/s8/k5w5k5t11k3n17k30t3~x2/"><circle cx="226.5" cy="171.5" r="4" fill="#3465a4"><title>Australian Police</title></circle></a><a href="/variants/s7/n6dp4n2w2n24k25ly4~x2/"><circle cx="217.7" cy="151.8" r="4" fill="#3465a4"><title>New York State Troopers (Corporate)</title></circle></a><a href="/variants/s8/k35o2k3dp13g8w4g8dp8~x2/"><circle cx="194.3" cy="128.0" r="4" fill="#3465a4"><title>SheBoom</title></circle></a><a href="/variants/s9/db8w2k8g12r2db3r2db24r2~x2/"><circle cx="239.4" cy="145.5" r="4" fill="#3465a4"><title>Burt #2 (Name)</title></circle></a><a href="/variants/s9/w8g15k15g5k2g6k40db20r6/"><circle cx="184.3" cy="131.2" r="4" fill="#3465a4"><title>Luker (Personal)</title></circle></a><a href="/variants/s12/w4k2db9k3b3k3b3k25g10k2b6w2~x2/"><circle cx="167.3" cy="121.8" r="4" fill="#3465a4"><title>Auld Lang Syne Blue Fashion Tartan</title></circle></a><a href="/variants/s10/k4db16k3db3k32ly7k3r10k2w4~x2/"><circle cx="207.2" cy="112.0" r="4" fill="#3465a4"><title>Model T Ford (Corporate)</title></circle></a><a href="/variants/s10/b6w1k12g6dp2w1dp2w1k12lb1~x2/"><circle cx="184.0" cy="121.7" r="4" fill="#3465a4"><title>Head of the Lakes</title></circle></a><a href="/variants/s6/k2w1k12g5db11r1~x2/"><circle cx="181.6" cy="169.2" r="4" fill="#3465a4"><title>New England (Fashion)</title></circle></a><circle cx="219.0" cy="144.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

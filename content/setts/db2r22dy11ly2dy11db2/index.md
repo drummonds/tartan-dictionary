@@ -1,6 +1,15 @@
 ---
 title: "Cetoloni Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cetoloni"
+  url: "/clan/cetoloni/"
+- name: "Cetoloni"
+  url: "/families/cetoloni/"
+- name: "Cetoloni"
+  url: "/tartans/c/ce/cetoloni-2/"
 ---
 This is the **Cetoloni Family Tartan** sett — one scale-free proportion (`db2r22dy11ly2dy11db2`), colour order pattern
 [BGYGRB](/stripes/bgygrb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/ly15r98do72m25do8lb15~r2208029-m2610337/"><circle cx="248.0" cy="188.9" r="4" fill="#3465a4"><title>Afternoon Tea / Apple Tea</title></circle></a><a href="/variants/s6/db18y2o6y2o19r3~x2/"><circle cx="312.7" cy="217.3" r="4" fill="#3465a4"><title>Balfour blue &amp; brown</title></circle></a><a href="/variants/s7/g3dy4g2dy22n5r16ly3~x2~dy1603076-ly3307090/"><circle cx="315.4" cy="205.4" r="4" fill="#3465a4"><title>Pubcrawlers (Corporate)</title></circle></a><a href="/variants/s5/o23dr4o23dr32lo4~x2/"><circle cx="395.5" cy="277.5" r="4" fill="#3465a4"><title>Hamilton, Red (Fashion?)</title></circle></a><a href="/variants/s6/o15r5o30db32o4y3~x2/"><circle cx="339.7" cy="215.1" r="4" fill="#3465a4"><title>Cameron, hunting</title></circle></a><a href="/variants/s6/db1r12g6y1g6db1~x4/"><circle cx="300.1" cy="208.6" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/variants/s6/ri8r1g4r1g1lb2~x2~ri2209032-r2208029/"><circle cx="289.3" cy="222.5" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s7/ly36do15ly9r31lyi5do4r16~x2~ly2503076-lyi2705081/"><circle cx="300.2" cy="246.5" r="4" fill="#3465a4"><title>Manhattan Ethnic</title></circle></a><a href="/variants/s4/dr5o35dr46ly5~x2/"><circle cx="410.6" cy="262.1" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s8/db4y1r12y2r2y12r1y4~x4/"><circle cx="384.5" cy="220.1" r="4" fill="#3465a4"><title>Glassary #3</title></circle></a><circle cx="331.1" cy="218.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

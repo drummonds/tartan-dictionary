@@ -1,6 +1,15 @@
 ---
 title: "Hay - Stewart (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hay"
+  url: "/clan/hay/"
+- name: "Hay"
+  url: "/families/hay/"
+- name: "Hay"
+  url: "/tartans/h/ha/hay-3/"
 ---
 This is the **Hay - Stewart (Fashion)** sett — one scale-free proportion (`w9r5w29db3k10ly2k3w3k3g12r6k3r3w2`), colour order pattern
 [WRKRGKWKYKBWRW](/stripes/wrkrgkwkykbwrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w9r5w29k10y2k3w3k3g12r6k3r3w2~x2/"><circle cx="160.7" cy="110.6" r="4" fill="#3465a4"><title>Hay, or Stewart</title></circle></a><a href="/variants/s13/w9r5w29k10y2k3w3k3dg12r6k3r3w2~x2/"><circle cx="160.6" cy="109.0" r="4" fill="#3465a4"><title>Hay or Stewart</title></circle></a><a href="/variants/s13/dr4w25t4k6ly2k2w2k2g8dr4k2dr4w2~x2/"><circle cx="107.6" cy="75.1" r="4" fill="#3465a4"><title>Hay-Stewart</title></circle></a><a href="/variants/s13/r4w16lb5k5y2k2w2k2g5r5k2r2w2~x2/"><circle cx="62.7" cy="131.3" r="4" fill="#3465a4"><title>Victoria (Wilsons)</title></circle></a><a href="/variants/s13/lb10w18lb4lo6lb45k30lb4k4y4r4y4r4y4/"><circle cx="131.3" cy="102.3" r="4" fill="#3465a4"><title>Les Coeurs de Lions en Bleu</title></circle></a><a href="/variants/s16/db20g5k5w22db5w22k2y2k2r6g4w4g3r4k2y2~x2/"><circle cx="107.2" cy="102.6" r="4" fill="#3465a4"><title>Gayre Arisaidh Clan Tartan</title></circle></a><a href="/variants/s15/r4g1r1g5k1lo1k1lo1k6lb1k1lb15w1lb1w1~x4/"><circle cx="130.0" cy="76.5" r="4" fill="#3465a4"><title>Estes</title></circle></a><a href="/variants/s13/lb2w1lb12dt6k3w1g1w1g4w2k1w1r1~x4~lb3402028-r2109032/"><circle cx="106.6" cy="111.6" r="4" fill="#3465a4"><title>Diana Pink (Commemorative)</title></circle></a><a href="/variants/s14/r2w24lb3w3k6y1k1w1k1g8r4k1r2w1~x2/"><circle cx="185.8" cy="53.9" r="4" fill="#3465a4"><title>Stewart Victoria Royal Family Tartan</title></circle></a><a href="/variants/s12/w15db2k3y1k1w1k1g3r4k1r1w1~x2/"><circle cx="169.9" cy="79.1" r="4" fill="#3465a4"><title>Stewart Dress MINI Tartan</title></circle></a><circle cx="132.1" cy="93.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

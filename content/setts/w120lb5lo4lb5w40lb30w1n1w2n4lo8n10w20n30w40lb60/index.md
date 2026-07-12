@@ -1,6 +1,11 @@
 ---
 title: "Langara College"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Langara College"
+  url: "/tartans/l/la/langara-college/"
 ---
 This is the **Langara College** sett — one scale-free proportion (`w120lb5lo4lb5w40lb30w1n1w2n4lo8n10w20n30w40lb60`), colour order pattern
 [WWBWBYBWBWWWWYWW](/stripes/wwbwbybwbwwwwyww/). It is recorded as a single **variant**, below.

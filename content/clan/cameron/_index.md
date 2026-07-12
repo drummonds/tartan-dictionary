@@ -1,8 +1,13 @@
 ---
 title: "Clan Cameron"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 **Territory:** Lochaber · **1745 strength:** 800 men
+
+Designed in the 1940s by J.G. MacKay of Portree, evoking the blue and yellow worn by Camerons at Killiecrankie (1689).
 
 ## Tartan
 

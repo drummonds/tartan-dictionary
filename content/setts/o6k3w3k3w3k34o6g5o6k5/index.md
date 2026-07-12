@@ -1,6 +1,11 @@
 ---
 title: "Woodberry Forest School (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Woodberry Forest School"
+  url: "/tartans/w/wo/woodberry-forest-school/"
 ---
 This is the **Woodberry Forest School (Corporate)** sett — one scale-free proportion (`o6k3w3k3w3k34o6g5o6k5`), colour order pattern
 [KRGRKWKWKR](/stripes/krgrkwkwkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y4k3w3k44y4k22n22w3k3y4/"><circle cx="309.8" cy="123.3" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/variants/s9/k38lb2o24w2k16o6lb2k3lb5~x2/"><circle cx="284.8" cy="120.5" r="4" fill="#3465a4"><title>Universal Scientific Indust (Corp.)</title></circle></a><a href="/variants/s12/k20o4k20ly2o2ly7k2o2ly2o7ly2o2~x4/"><circle cx="264.0" cy="145.2" r="4" fill="#3465a4"><title>Black Forest</title></circle></a><a href="/variants/s12/k20o2ly2o7ly2o2k2ly7o2ly2k20o4~x4/"><circle cx="264.0" cy="145.2" r="4" fill="#3465a4"><title>Black Forest (Fashion)</title></circle></a><a href="/variants/s7/k11w1k1w1k4n8r1~x8/"><circle cx="272.6" cy="159.2" r="4" fill="#3465a4"><title>Dunfermline Athletic (2008) (Corp)</title></circle></a><a href="/variants/s18/o6g5o6k34w3k3w3k3o6k3w3k3w3k34o6g5o6k5~x2/"><circle cx="266.0" cy="102.0" r="4" fill="#3465a4"><title>Woodberry Forest School</title></circle></a><a href="/variants/s13/w1y2k8dp6k15y1k1w1k15dp5w8y1w1~x2/"><circle cx="256.5" cy="120.5" r="4" fill="#3465a4"><title>Freger</title></circle></a><a href="/variants/s10/k4dg13k4g8k44g8k4dg13k4w3~x2~dg1806142-g2203152/"><circle cx="269.6" cy="134.5" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/variants/s10/y2k2r2w8k14r1k1r1k1r1~x2/"><circle cx="235.9" cy="114.4" r="4" fill="#3465a4"><title>Barbecue Plaid (Fashion)</title></circle></a><a href="/variants/s11/g17lb2ly2lb2k21lb2k3g30k2lb2k4~x2~g1903114-ly2706114/"><circle cx="268.0" cy="125.2" r="4" fill="#3465a4"><title>Fort William</title></circle></a><circle cx="273.5" cy="126.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

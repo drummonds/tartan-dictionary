@@ -1,6 +1,15 @@
 ---
 title: "Sutherland of Duffus (Clan)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Sutherland"
+  url: "/clan/sutherland/"
+- name: "Sutherland of Duffus"
+  url: "/families/sutherland-of-duffus/"
+- name: "Sutherland of Duffus"
+  url: "/tartans/s/su/sutherland-of-duffus/"
 ---
 This is the **Sutherland of Duffus (Clan)** sett — one scale-free proportion (`r22lb3ly14k3ly14k3ly14y3ly14y3`), colour order pattern
 [GYGYKYKYWR](/stripes/gygykykywr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w12lo12w12k5lo45k5lb5lo10~x2/"><circle cx="303.8" cy="176.1" r="4" fill="#3465a4"><title>Tennessee Volunteer</title></circle></a><a href="/variants/s18/ly14y3ly14k3ly14k3ly14lb3r22lb3ly14k3ly14k3ly14y3ly14y3~x2/"><circle cx="289.2" cy="163.7" r="4" fill="#3465a4"><title>Sutherland of Duffus</title></circle></a><a href="/variants/s12/w1db1r7g2r2g6r1g6r2g2r8lo1~x4/"><circle cx="274.3" cy="186.8" r="4" fill="#3465a4"><title>Bruce County (District)</title></circle></a><a href="/variants/s12/y1r8g2r2g6r1g6r2g2r7db1w1~x4/"><circle cx="277.7" cy="188.2" r="4" fill="#3465a4"><title>Bruce County</title></circle></a><a href="/variants/s12/y1r8g2r2g6r1g6r2g2r7db1w1~x2/"><circle cx="277.7" cy="188.2" r="4" fill="#3465a4"><title>Bruce County District Tartan</title></circle></a><a href="/variants/s8/k1r9g2r2g4w1g4r1~x2/"><circle cx="258.8" cy="184.8" r="4" fill="#3465a4"><title>Comyn</title></circle></a><circle cx="253.8" cy="185.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

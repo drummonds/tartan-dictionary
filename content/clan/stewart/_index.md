@@ -1,12 +1,15 @@
 ---
 title: "Clan Stewart"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 *A clan defined by its tartans — the dictionary holds no separate clan history for it, only the cloth that carries its name.*
 
 ## Tartan
 
-<a class="tartan" href="/variants/s26/db9dg4db9k3db3k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27y4dg27k8db3k3db3k3/"><img src="/variants/s26/db9dg4db9k3db3k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27y4dg27k8db3k3db3k3/sett.png" alt="Stewart Htg (Clan)" width="240"><br>Stewart Htg (Clan)</a>
+<a class="tartan" href="/variants/s28/db14k12db3dg26k6ly2k2db2k2dg8r4k2r4lb2r4k2r4dg8k2db2k2ly2k6dg26db3k12db14k4~x2~dg1405139/"><img src="/variants/s28/db14k12db3dg26k6ly2k2db2k2dg8r4k2r4lb2r4k2r4dg8k2db2k2ly2k6dg26db3k12db14k4~x2~dg1405139/sett.png" alt="Stewart" width="240"><br>Stewart</a>
 
 ## Families
 

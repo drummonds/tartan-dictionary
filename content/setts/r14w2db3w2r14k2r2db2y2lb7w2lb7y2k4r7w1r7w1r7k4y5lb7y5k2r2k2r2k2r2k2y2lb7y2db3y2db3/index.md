@@ -1,6 +1,15 @@
 ---
 title: "Ogilvy of Airlie Clan Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ogilvy"
+  url: "/clan/ogilvy/"
+- name: "Ogilvy of Airlie"
+  url: "/families/ogilvy-of-airlie/"
+- name: "Ogilvy of Airlie"
+  url: "/tartans/o/og/ogilvy-of-airlie/"
 ---
 This is the **Ogilvy of Airlie Clan Tartan** sett — one scale-free proportion (`r14w2db3w2r14k2r2db2y2lb7w2lb7y2k4r7w1r7w1r7k4y5lb7y5k2r2k2r2k2r2k2y2lb7y2db3y2db3`), colour order pattern
 [BGBGWGKRKRKRKGWGKRWRWRKGWWWGBRKRWBWR](/stripes/bgbgwgkrkrkrkgwgkrwrwrkgwwwgbrkrwbwr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s28/k5w4r19lb12k2lb2k2lb12k20ly3g26r19lb5r20lb5r19g26ly3k20lb12k2lb2k2lb12r19w4k5r5~x2~w4000000-ly3307090/"><circle cx="60.9" cy="92.4" r="4" fill="#3465a4"><title>Wilson's No.043</title></circle></a><a href="/variants/s36/lb6y1k1r1k1r1k1r1k1y4lb3y4k3r3w1r3w1r3k3y1lb3w1lb3y1db1r1k1r4w1db1w1r4w1db1w1r4~x4/"><circle cx="18.1" cy="121.1" r="4" fill="#3465a4"><title>Ogilvie (Paton) #2</title></circle></a><a href="/variants/s15/r8w2r8n15y1k15n8k1g1k1n8r8w2k2r3~x2/"><circle cx="116.3" cy="80.4" r="4" fill="#3465a4"><title>Unidentified Scarlett #14</title></circle></a><a href="/variants/s40/dg23r6dg23r25k2r2k5r2k2r26k2r2k5r2k2r26w3r12lb33r7lb33r12w3r26dg8r12dg4r26dg12r8dg12r12dg8g7dg8r12dg9w3dg16w2/"><circle cx="164.9" cy="65.2" r="4" fill="#3465a4"><title>Kinnoull (Clan)</title></circle></a><a href="/variants/s20/r4lb5r2lb7ri3r4ri3k4lo2k2lo2k4w4k4r18ri1k2ri1r4ri3~x2~r2109032-ri2308029/"><circle cx="113.8" cy="79.5" r="4" fill="#3465a4"><title>Anderson, Red (Fashion)</title></circle></a><a href="/variants/s38/g10r2g10r9k1r1k2r1k1r9k1r1k2r1k1r9w1r4db11r2db11r4w1r9g2r4g2r9g5r3g4r3g3y1g3r3g6w1~x2/"><circle cx="152.8" cy="86.2" r="4" fill="#3465a4"><title>MacRae Prince's Own</title></circle></a><a href="/variants/s16/r15k5w2n7k4w8k2r26k5n2w2k7w2r5w2g2~x2/"><circle cx="136.3" cy="74.5" r="4" fill="#3465a4"><title>Sabrettes</title></circle></a><a href="/variants/s14/r21y9k2y2k2y9k18ly3dg21r13k3r13w2r13~x2/"><circle cx="82.9" cy="105.9" r="4" fill="#3465a4"><title>Wilson's No.155</title></circle></a><a href="/variants/s34/db3lb2r12k2r2db2lo2o6lb2o6lo2k3r6lb2r6lb2r6k3lo4o6lo4k2r2k2r2k2r2k2lo2o6lo2db2lo2db2~x2~db1406275-o2500000/"><circle cx="25.8" cy="128.3" r="4" fill="#3465a4"><title>Ogilvie</title></circle></a><a href="/variants/s29/r2k2w2r22t8k2t2k2t8k12ly2g16r22t4r22t4r22g16ly2k12t8k2t2k2t8r22w1k1r1~x2/"><circle cx="170.9" cy="57.0" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><circle cx="84.0" cy="77.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

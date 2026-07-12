@@ -1,6 +1,13 @@
 ---
 title: "Blue Watch (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Blue"
+  url: "/clan/blue/"
+- name: "Blue Watch"
+  url: "/tartans/b/bl/blue-watch/"
 ---
 This is the **Blue Watch (Fashion)** sett — one scale-free proportion (`db11k1db1k1db1k8w8k1w8k8db8k1db1`), colour order pattern
 [BKBKBKWKWKBKB](/stripes/bkbkbkwkwkbkb/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k4w2k2w2k2w4k2w2k4db12w1~x4/"><circle cx="167.1" cy="171.2" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/variants/s11/k4w2k2w2k2w4k2w2k4db12w1~x2/"><circle cx="167.1" cy="171.2" r="4" fill="#3465a4"><title>Napier Clan Tartan</title></circle></a><a href="/variants/s11/k2w2k2w2k2w4k2w2k4db12w1~x2/"><circle cx="159.1" cy="167.9" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x4/"><circle cx="186.0" cy="177.5" r="4" fill="#3465a4"><title>Grant Hunting or Black Watch</title></circle></a><a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1/"><circle cx="186.0" cy="177.5" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x2/"><circle cx="186.0" cy="177.5" r="4" fill="#3465a4"><title>Black Watch, A&amp;S Highlanders</title></circle></a><a href="/variants/s12/w4r1db18k6w5k4w4k4w3k2r1db2~x2/"><circle cx="151.0" cy="126.7" r="4" fill="#3465a4"><title>Knights Templar St Andrews Corporate Tartan</title></circle></a><a href="/variants/s14/k24n8lb3k3lb3k3lb40k3lb3k3lb3n8k24n8~x2/"><circle cx="213.0" cy="135.4" r="4" fill="#3465a4"><title>O'Sullivan-Beare</title></circle></a><a href="/variants/s10/w4r2db20k6w5k4w3k2r2db2~x2/"><circle cx="166.3" cy="148.3" r="4" fill="#3465a4"><title>Knights Templar St Andrews Corporate Tartan</title></circle></a><a href="/variants/s9/db27k4db4k4db4k14lb14w2lb27/"><circle cx="175.1" cy="162.8" r="4" fill="#3465a4"><title>(1) Abercrombie</title></circle></a><circle cx="159.7" cy="167.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Albert (Silk)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Albert"
+  url: "/tartans/a/al/albert/"
 ---
 This is the **Albert (Silk)** sett — one scale-free proportion (`r2lb11w4lb5db6ly1k1w1k1g8r8k1r4w1`), colour order pattern
 [RWWWBYKWKGRKRW](/stripes/rwwwbykwkgrkrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w3k2t4w4t3w11k2g3y3k3t12r19k2~x2/"><circle cx="47.0" cy="128.7" r="4" fill="#3465a4"><title>Badminton Cup</title></circle></a><a href="/variants/s11/lb4r4lb12w12k4g4db8r1w1db1y1~x2/"><circle cx="44.4" cy="123.4" r="4" fill="#3465a4"><title>Arisaig NS Canada</title></circle></a><a href="/variants/s14/db4w2r6k1db12g4w2r6b6w2g8r2w16r4~x2/"><circle cx="61.2" cy="122.0" r="4" fill="#3465a4"><title>MacFarlane, dress</title></circle></a><a href="/variants/s16/dp10w3k3g19r14lb3k2ly3k2lb3r14g19k3w3dp10lb3~x2/"><circle cx="52.0" cy="116.5" r="4" fill="#3465a4"><title>Wilson's No.110</title></circle></a><a href="/variants/s14/r12w1k1g12y2db5lb6r2lb2r4g2r2k2g2~x2/"><circle cx="95.6" cy="108.2" r="4" fill="#3465a4"><title>Unidentified #31</title></circle></a><a href="/variants/s13/w6db3w18k5w5do10o17y4o17do10lb10do2lb4~x2/"><circle cx="39.3" cy="154.1" r="4" fill="#3465a4"><title>Gordon, dress 5</title></circle></a><a href="/variants/s14/r5w23db5w5k7y3k3w2k3g16r8g3r6w3~x2/"><circle cx="71.4" cy="121.0" r="4" fill="#3465a4"><title>Victoria Highland Dress</title></circle></a><a href="/variants/s14/w8db3w10ly8y2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="46.2" cy="138.3" r="4" fill="#3465a4"><title>MacInnes Ancient Htg (Clan?)</title></circle></a><a href="/variants/s14/w8db3w10o8y2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="48.7" cy="137.2" r="4" fill="#3465a4"><title>MacInnes, Ancient hunting</title></circle></a><a href="/variants/s22/r3g6k1r2k1g6r2db5r2k2y2k2y2k3w3k3lb14k1r2k1lb6r3~x2/"><circle cx="14.0" cy="83.6" r="4" fill="#3465a4"><title>Anderson Variant Clan Tartan</title></circle></a><circle cx="38.7" cy="116.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

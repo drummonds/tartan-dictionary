@@ -1,6 +1,15 @@
 ---
 title: "Strathyre Dress District Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Strathyre"
+  url: "/clan/strathyre/"
+- name: "Strathyre"
+  url: "/families/strathyre/"
+- name: "Strathyre Dress"
+  url: "/tartans/s/st/strathyre-dress-2/"
 ---
 This is the **Strathyre Dress District Tartan** sett — one scale-free proportion (`w36g6dr2g3w2g3dy6p4g2p2w2`), colour order pattern
 [GBGWGGBGBWBGBGGWGBGW](/stripes/gbgwggbgbwbgbggwgbgw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w36g6dr2g3w2g3dy6b4g2b2w2~x2/"><circle cx="322.4" cy="119.3" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/variants/s10/w55dg12r2dg3w2dgi10dp9dg2dp6w2~x2~dgi1806142-dp1607327/"><circle cx="195.3" cy="72.7" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/variants/s10/w55dg12r2dg3w2g10dp9dg2dp6w2~x2/"><circle cx="294.1" cy="91.0" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/variants/s15/g2w2db1w30g1w1g5t8g4db1g1db8w1db2y1~x2/"><circle cx="276.2" cy="88.2" r="4" fill="#3465a4"><title>Borderland Dress (Estimated threadcount)</title></circle></a><a href="/variants/s25/lb22r1lo4lb4lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo9dy24db2~x4/"><circle cx="247.2" cy="60.5" r="4" fill="#3465a4"><title>Allen Hunting (?Thomson)</title></circle></a><a href="/variants/s17/g3dg15ly3dg3dp1dg1dp1dg1dp1dg1dp1dg1dp1dg1dp12w15g3~x2/"><circle cx="174.6" cy="120.7" r="4" fill="#3465a4"><title>Prickly Thistle</title></circle></a><a href="/variants/s10/w55dp12ly2dp3w2dg10dpi9dp2dpi6w2~x2~dp1105325-dg1806142-dpi1607327/"><circle cx="219.9" cy="84.5" r="4" fill="#3465a4"><title>Stewart Dress Purple Dance Tartan</title></circle></a><a href="/variants/s14/n3w20dr1db1dr1db3dr4db2dr4db2dr4db1g8dy1~x4/"><circle cx="161.1" cy="106.2" r="4" fill="#3465a4"><title>Cairn (Fashion)</title></circle></a><a href="/variants/s12/n12lb2do4y2do3w3do3ly20w29lb2w4do2~x2/"><circle cx="202.7" cy="138.1" r="4" fill="#3465a4"><title>MacLean of Duart (Reproduction Colours)</title></circle></a><a href="/variants/s13/w4lb1db1w22lb2w2db12r2g16r4lb1r4db2~x2/"><circle cx="171.0" cy="112.3" r="4" fill="#3465a4"><title>MacGillivray Dress, Janice</title></circle></a><circle cx="218.2" cy="99.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

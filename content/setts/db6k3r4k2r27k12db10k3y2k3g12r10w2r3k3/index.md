@@ -1,6 +1,11 @@
 ---
 title: "Unidentified #16"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified 30"
+  url: "/tartans/u/un/unidentified-30/"
 ---
 This is the **Unidentified #16** sett — one scale-free proportion (`db6k3r4k2r27k12db10k3y2k3g12r10w2r3k3`), colour order pattern
 [BKRKRKBKGKGRWRK](/stripes/bkrkrkbkgkgrwrk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/k20r6k4r6dg15w2g5w2dg15r30k4r5lb2r6~x2/"><circle cx="145.0" cy="100.5" r="4" fill="#3465a4"><title>Drummond - 1739 Lord John (Artefact)</title></circle></a><a href="/variants/s14/db12r30db2lb2k8lb2k4ly2k4dg15r8k2r4lb2~x2/"><circle cx="148.0" cy="89.0" r="4" fill="#3465a4"><title>Brown of Castledean (Artefact)</title></circle></a><a href="/variants/s11/r4k4r32g4w3g4k13g3db18r2y3~x2/"><circle cx="148.5" cy="96.2" r="4" fill="#3465a4"><title>Norwell</title></circle></a><a href="/variants/s14/r21db9k2db2k2db9k18y3g21r13k3r13w2r13~x2/"><circle cx="129.7" cy="129.3" r="4" fill="#3465a4"><title>Caledonia</title></circle></a><a href="/variants/s13/w2k1t2lb1dg4r1dg4r3k3r12lb1r2k1~x4/"><circle cx="166.5" cy="104.6" r="4" fill="#3465a4"><title>Peacock (Personal)</title></circle></a><a href="/variants/s16/k2db12r12db2r2lb2r2lb2r12db6r2dg12k2y1r1y1~x2/"><circle cx="155.9" cy="109.3" r="4" fill="#3465a4"><title>Catalan Dance</title></circle></a><a href="/variants/s11/k3r30g10k3y2k3w2k6r2db12w2~x2/"><circle cx="147.8" cy="91.6" r="4" fill="#3465a4"><title>Kilmorie</title></circle></a><a href="/variants/s12/k2lb6w1r14k1r14w1k6dg10ly1dg2ly2~x2~dg1403152-ly2705081/"><circle cx="162.4" cy="106.5" r="4" fill="#3465a4"><title>Ogg of Tarragann</title></circle></a><a href="/variants/s14/r20w6r100db15k10db15k40y5g54r15k5r15k6w8/"><circle cx="177.6" cy="72.5" r="4" fill="#3465a4"><title>Unidentified Bedspread</title></circle></a><a href="/variants/s12/r14lb4k6y1k2w2k2g12r6k2r2w1~x2/"><circle cx="120.4" cy="109.5" r="4" fill="#3465a4"><title>Stewart Prince Charles Edward Clan Tartan</title></circle></a><circle cx="134.6" cy="97.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

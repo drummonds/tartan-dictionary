@@ -1,6 +1,11 @@
 ---
 title: "Same Sex Marriage"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Same Sex Marriage"
+  url: "/tartans/s/sa/same-sex-marriage/"
 ---
 This is the **Same Sex Marriage** sett — one scale-free proportion (`dp2k2dp1k14db1k2db2k2db1k14g1k2g2k2g1k36lo1k2lo2k2lo1k14r1k2r2`), colour order pattern
 [BKBKBKBKBKGKGKGKKKKKKKYKYKYKRKR](/stripes/bkbkbkbkbkgkgkgkkkkkkkykykykrkr/). It is recorded as a single **variant**, below.

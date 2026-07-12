@@ -1,6 +1,11 @@
 ---
 title: "Royal College of Physicians Corporate Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Royal College of Physicians"
+  url: "/tartans/r/ro/royal-college-of-physicians-2/"
 ---
 This is the **Royal College of Physicians Corporate Tartan** sett — one scale-free proportion (`g23r3k9r3db18r3k9r3g23y3`), colour order pattern
 [GGRKRBRKRG](/stripes/ggrkrbrkrg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db4g8k8db4y3g21k3lb4k3lb4~x2/"><circle cx="143.9" cy="175.5" r="4" fill="#3465a4"><title>Wellecomme, Bernard (Personal)</title></circle></a><a href="/variants/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x4/"><circle cx="169.1" cy="149.6" r="4" fill="#3465a4"><title>Reid, Green</title></circle></a><a href="/variants/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x2/"><circle cx="169.1" cy="149.6" r="4" fill="#3465a4"><title>Reid Family Tartan</title></circle></a><a href="/variants/s12/n3g12k5g2k5n2dr2n2k5g12w2n3~x2/"><circle cx="142.8" cy="180.5" r="4" fill="#3465a4"><title>Wilcox, Yu, Cruikshank Reunion</title></circle></a><a href="/variants/s13/g22r4g2r2g2r4g12k12r2db10r4db4y3~x2/"><circle cx="161.4" cy="142.5" r="4" fill="#3465a4"><title>Cochrane (1974)</title></circle></a><a href="/variants/s13/g22r4g2r2g2r4g12k12r2db10r4db4y3/"><circle cx="161.4" cy="142.5" r="4" fill="#3465a4"><title>Cochrane LC</title></circle></a><a href="/variants/s10/k6r2k2r2k6db7g20y2g3r2~x2/"><circle cx="156.6" cy="144.3" r="4" fill="#3465a4"><title>Connolly Hunting</title></circle></a><a href="/variants/s10/k6r2k2r2k6db7g20ly2g3r2~x2/"><circle cx="152.9" cy="143.3" r="4" fill="#3465a4"><title>Connolly Hunting (Name)</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4lo3k4g24r3k4~x2/"><circle cx="153.0" cy="145.9" r="4" fill="#3465a4"><title>Skene (Maclan)</title></circle></a><a href="/variants/s7/t11k4g4o1g4k1r1~x4/"><circle cx="173.6" cy="175.7" r="4" fill="#3465a4"><title>Ednie (Personal)</title></circle></a><circle cx="158.4" cy="171.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

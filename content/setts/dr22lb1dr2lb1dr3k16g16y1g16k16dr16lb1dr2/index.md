@@ -1,6 +1,11 @@
 ---
 title: "Beartrap (Military)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Beartrap"
+  url: "/tartans/b/be/beartrap/"
 ---
 This is the **Beartrap (Military)** sett — one scale-free proportion (`dr22lb1dr2lb1dr3k16g16y1g16k16dr16lb1dr2`), colour order pattern
 [BWBKGGGKBWBWB](/stripes/bwbkgggkbwbwb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr12g6k4g2k4g1k12dr24r4g3w3k10~x2/"><circle cx="191.9" cy="113.7" r="4" fill="#3465a4"><title>Fullerton, Terence (Personal)</title></circle></a><a href="/variants/s11/dp4g3k1g3dp2g20k10dr20dp2k2lo4~x2/"><circle cx="161.7" cy="119.6" r="4" fill="#3465a4"><title>Moffat (1994)</title></circle></a><a href="/variants/s14/o19dg2db8dg4db8dg2k19dg2k2dg11ly2dg11o1dg2~x2~o2404072-ly3207098/"><circle cx="155.6" cy="126.0" r="4" fill="#3465a4"><title>Eildon (1996)</title></circle></a><a href="/variants/s10/dy12n2k2n42k13g25n6k2r4k10~x2/"><circle cx="195.1" cy="123.3" r="4" fill="#3465a4"><title>Dinwoodie (Name)</title></circle></a><a href="/variants/s13/n20k2n2k2n2k20dy20ly4dy20k20n20k1ly4~x2/"><circle cx="169.6" cy="144.7" r="4" fill="#3465a4"><title>MacIsaac (Name?)</title></circle></a><a href="/variants/s15/k3ly8do2ly8dt11do2ly4dr4do27dt1do2dt2do2dt13do3~x2/"><circle cx="216.3" cy="102.2" r="4" fill="#3465a4"><title>Strathdon District Tartan</title></circle></a><a href="/variants/s10/dr4db12k18db4y22lb1y2lb2y3lb2~x4/"><circle cx="171.4" cy="118.9" r="4" fill="#3465a4"><title>Windsor</title></circle></a><a href="/variants/s15/dr11w4dr8dy1dr1dy28ly2dy28k2dy2k23dr3ly6dr3k5~x2/"><circle cx="233.4" cy="90.3" r="4" fill="#3465a4"><title>Scottish Register of Tartans Corporate Tartan</title></circle></a><a href="/variants/s10/y4k1r16k16w3r1k16g16k1y4~x2/"><circle cx="149.7" cy="129.2" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/variants/s11/db6k3r2k3dg31k6dg2k6lo13k2dg2~x2/"><circle cx="193.8" cy="110.6" r="4" fill="#3465a4"><title>Rourke-Frew Hunting</title></circle></a><circle cx="181.6" cy="118.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

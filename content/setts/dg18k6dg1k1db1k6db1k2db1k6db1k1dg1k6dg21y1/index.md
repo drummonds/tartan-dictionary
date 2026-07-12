@@ -1,6 +1,11 @@
 ---
 title: "Grand Lodge of Scotland Corporate Weavers Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Grand Lodge of Scotland Corporate Weavers"
+  url: "/tartans/g/gr/grand-lodge-of-scotland-corporate-weavers/"
 ---
 This is the **Grand Lodge of Scotland Corporate Weavers Tartan** sett — one scale-free proportion (`dg18k6dg1k1db1k6db1k2db1k6db1k1dg1k6dg21y1`), colour order pattern
 [GGKGKBKBKBKBKGKG](/stripes/ggkgkbkbkbkbkgkg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k20dg4k4db4dg28ly1dg28db4k20dg8k4dg4k4~x2/"><circle cx="344.6" cy="133.8" r="4" fill="#3465a4"><title>Sawicki, Peter (Personal)</title></circle></a><a href="/variants/s7/dg42k10y2k6dg10k11dg2~x2/"><circle cx="421.9" cy="119.2" r="4" fill="#3465a4"><title>Laggen Dress (Fashion)</title></circle></a><a href="/variants/s13/k10dg2k2db2dg14ly1dg14db2k10dg4k2dg2k2~x2/"><circle cx="310.9" cy="157.8" r="4" fill="#3465a4"><title>Sawicki, Peter (Personal)</title></circle></a><a href="/variants/s14/dg78k4dg4k4dg4k6db26k4w8k4db26k6dg48g3/"><circle cx="341.0" cy="94.6" r="4" fill="#3465a4"><title>Proctor</title></circle></a><a href="/variants/s11/dt8k2o2dt2k13dt2k2ly1dt14k26ly2~x2/"><circle cx="339.7" cy="115.5" r="4" fill="#3465a4"><title>Pride of Scotland Hunting/Dark Fashion Tartan</title></circle></a><a href="/variants/s12/dg8k8dg56n8dg8k20dg8n8dg8n16w3dr6/"><circle cx="300.4" cy="130.9" r="4" fill="#3465a4"><title>Kelly of Sleat Hunting (Name)</title></circle></a><a href="/variants/s11/dt8k2o2dt2k13dt2k2lr1dt14k26lr2~x2/"><circle cx="341.1" cy="115.4" r="4" fill="#3465a4"><title>Pride of Scotland, Dark (Fashion)</title></circle></a><a href="/variants/s16/k12db3t4db3k39db3t2k3t2db3k39db3t4db3k12t4~x2/"><circle cx="300.5" cy="104.5" r="4" fill="#3465a4"><title>Hughes (USA) (Personal)</title></circle></a><a href="/variants/s12/dg6k6r1w1k6dg32k6r1w1k6dg6y2~x4/"><circle cx="339.2" cy="82.7" r="4" fill="#3465a4"><title>Schwarzen Keiler, Die</title></circle></a><a href="/variants/s14/dg39k2dg2k2dg2k3dt13k2lb4k2dt13k3dg24y3~x2~dg1703152-dt1602249-lb3500000/"><circle cx="343.4" cy="114.6" r="4" fill="#3465a4"><title>Proctor Name Tartan</title></circle></a><circle cx="365.5" cy="117.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Eichelberger (Perrsonal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Eichelberger"
+  url: "/tartans/e/ei/eichelberger/"
 ---
 This is the **Eichelberger (Perrsonal)** sett — one scale-free proportion (`k20r6ly3db24g3r8w4`), colour order pattern
 [KRYBGRW](/stripes/krybgrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k10r3y4db12g4r4w2~x4/"><circle cx="39.7" cy="194.7" r="4" fill="#3465a4"><title>Eichelberger Family, Jörg (Personal)</title></circle></a><a href="/variants/s6/db31lb4db6k19r20y4~x2/"><circle cx="157.9" cy="193.5" r="4" fill="#3465a4"><title>Fife (McGill)</title></circle></a><a href="/variants/s9/r17k5w4k6y5db31k5g6w3~x2/"><circle cx="102.3" cy="134.4" r="4" fill="#3465a4"><title>Dean/Dundas (Melbourne, Australia) (Personal)</title></circle></a><a href="/variants/s10/y3k21r7k2g10k2r7k2db21w3~x2/"><circle cx="86.5" cy="132.5" r="4" fill="#3465a4"><title>Tantallon</title></circle></a><a href="/variants/s9/r17k5w4k6ly5db31k5g6w3~x2/"><circle cx="98.3" cy="133.4" r="4" fill="#3465a4"><title>Dean/Dundas (Personal)</title></circle></a><a href="/variants/s10/y3k22r7k2g10k2r7k2db22w3~x2/"><circle cx="92.0" cy="128.9" r="4" fill="#3465a4"><title>Tantallon #2</title></circle></a><a href="/variants/s9/w8db50k4r8k6r12g17dp7k4/"><circle cx="141.2" cy="120.1" r="4" fill="#3465a4"><title>Edinburgh</title></circle></a><a href="/variants/s9/dp2g4k8lo1k1db4lb1db1lb2~x8/"><circle cx="81.6" cy="157.8" r="4" fill="#3465a4"><title>Scottish Cultural Society (Corporate</title></circle></a><a href="/variants/s9/w3db1w1db3k1y1k8g3dp2~x2/"><circle cx="75.7" cy="153.2" r="4" fill="#3465a4"><title>Scottish Cultural Society Ltd</title></circle></a><a href="/variants/s8/n6k2n23k23w2dp24db3r6~x2/"><circle cx="126.4" cy="150.8" r="4" fill="#3465a4"><title>Culloden Grey</title></circle></a><circle cx="89.3" cy="162.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

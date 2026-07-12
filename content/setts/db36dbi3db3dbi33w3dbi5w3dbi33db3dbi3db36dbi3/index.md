@@ -1,6 +1,11 @@
 ---
 title: "Argentina Argentinian District Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Argentina Argentinian"
+  url: "/tartans/a/ar/argentina-argentinian/"
 ---
 This is the **Argentina Argentinian District Tartan** sett — one scale-free proportion (`db36dbi3db3dbi33w3dbi5w3dbi33db3dbi3db36dbi3`), colour order pattern
 [BBBBBWBWBBBB](/stripes/bbbbbwbwbbbb/). It is recorded as a single **variant**, below.

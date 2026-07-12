@@ -1,6 +1,13 @@
 ---
 title: "Commonwealth Bid (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Commonwealth"
+  url: "/clan/commonwealth/"
+- name: "Commonwealth Bid"
+  url: "/tartans/c/co/commonwealth-bid/"
 ---
 This is the **Commonwealth Bid (Corporate)** sett — one scale-free proportion (`t60o7ly2o2t20db15t5lb2y2lb6t5db2g3db1r3db1g3db2t5lb6y2lb2t5db15`), colour order pattern
 [BBWGWBBGBRBGBBWGWBBBRYRB](/stripes/bbwgwbbgbrbgbbwgwbbbryrb/). It is recorded as a single **variant**, below.

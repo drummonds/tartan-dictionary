@@ -1,6 +1,11 @@
 ---
 title: "Salaberry-de-Valleyfield (District)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Salaberry-de-Valleyfield"
+  url: "/tartans/s/sa/salaberry-de-valleyfield/"
 ---
 This is the **Salaberry-de-Valleyfield (District)** sett — one scale-free proportion (`db20w3db4w3db4w3r22g2k1g2ly16w1k2w1`), colour order pattern
 [BWBWBWRGKGYWKW](/stripes/bwbwbwrgkgywkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db20w3db4w3db4w3r22g2k1g2dy16w1k2w1~x2/"><circle cx="123.2" cy="77.1" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield Traditional</title></circle></a><a href="/variants/s11/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/"><circle cx="91.3" cy="93.8" r="4" fill="#3465a4"><title>MacCulloch Dress (Name)</title></circle></a><a href="/variants/s9/w37k4db12g12w2lr2r23k4r6~x2~lr2805035-r1506019/"><circle cx="75.7" cy="88.4" r="4" fill="#3465a4"><title>Hebridean Arisaid Red (Dance)</title></circle></a><a href="/variants/s18/r5t6r2t9r14k5ly2k2ly2k5w5k5lb23r1k2r1lb5t4~x2/"><circle cx="70.9" cy="78.6" r="4" fill="#3465a4"><title>Westwood MacAndreas</title></circle></a><a href="/variants/s11/dy5k3g2r20db10w2g1dy1w20k4dy3~x2~db1406275/"><circle cx="88.2" cy="69.2" r="4" fill="#3465a4"><title>MacCulloch Dress Clan/Family Tartan</title></circle></a><a href="/variants/s13/k4lg9lb30k2lb4w5k2w2k1w2dr7r15k3~x2/"><circle cx="131.2" cy="62.8" r="4" fill="#3465a4"><title>Un-named (USA Bedheads)</title></circle></a><a href="/variants/s18/r23db2lp3db21k1db1g9lp3db2lp3k10db3w2db3w26r2lp4db2~x2/"><circle cx="84.4" cy="62.3" r="4" fill="#3465a4"><title>Cooper Dress (Dalgliesh #1)</title></circle></a><a href="/variants/s13/ly6w4k3lb14w3r34k34w4lb3ly8w3g4k2~x2/"><circle cx="86.6" cy="82.8" r="4" fill="#3465a4"><title>Mazarian</title></circle></a><a href="/variants/s21/k1o4w13o1k5dp4w1dp4k5w1k3r5n3w1n3r5k13r1w20n3r1~x2/"><circle cx="91.2" cy="65.7" r="4" fill="#3465a4"><title>Aberdeen (Johnston and Smith)</title></circle></a><a href="/variants/s22/r8lb16k2r4k2lb51k8w8k6y4k4y4k12r4k12r4g16k2r4k2r16g8/"><circle cx="95.7" cy="50.4" r="4" fill="#3465a4"><title>Anderson (MacGregor-Hastie #1)</title></circle></a><circle cx="114.8" cy="75.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

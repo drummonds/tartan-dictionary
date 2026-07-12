@@ -1,6 +1,11 @@
 ---
 title: "Royal Stewart"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Royal Stewart"
+  url: "/tartans/r/ro/royal-stewart-2/"
 ---
 This is the **Royal Stewart** sett — one scale-free proportion (`r64lb12k16y2k4w3dg32r8k4r3w2`), colour order pattern
 [RWKGKWGRKRW](/stripes/rwkgkwgrkrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r48lb8k10y2k3w2g25r10k3r3w2~x2/"><circle cx="232.7" cy="68.5" r="4" fill="#3465a4"><title>Follower's Plaid Artifact Tartan</title></circle></a><a href="/variants/s12/db3r2db2r35dy2db3k2db5k4g13k1w3~x2/"><circle cx="234.1" cy="44.9" r="4" fill="#3465a4"><title>Celtic Nations</title></circle></a><a href="/variants/s12/db3r2db2r35ly2db3k2db5k4g13k1w3~x2/"><circle cx="232.1" cy="44.5" r="4" fill="#3465a4"><title>Celtic Nations (Fashion)</title></circle></a><a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x4/"><circle cx="261.0" cy="57.2" r="4" fill="#3465a4"><title>Royal Stewart Royal Family Tartan</title></circle></a><a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x2/"><circle cx="261.0" cy="57.2" r="4" fill="#3465a4"><title>Royal Stewart MINI Design Tartan</title></circle></a><a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x8/"><circle cx="261.0" cy="57.2" r="4" fill="#3465a4"><title>Royal Stewart (Universal)</title></circle></a><a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x8~db1406275/"><circle cx="262.0" cy="57.4" r="4" fill="#3465a4"><title>Stewart/Stuart, Royal #2</title></circle></a><a href="/variants/s12/r18b2k3y1k1w1k1g4r2k1r1w1~x4/"><circle cx="261.9" cy="57.7" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/variants/s12/r68n5k9y3k3lb3k3dg20r9k3r5lb4/"><circle cx="301.5" cy="50.0" r="4" fill="#3465a4"><title>British Caledonian Airways #4</title></circle></a><a href="/variants/s13/r41g13k8w2y2r1y2w2db6k2r3y2w5/"><circle cx="233.0" cy="30.0" r="4" fill="#3465a4"><title>MacGill</title></circle></a><circle cx="227.4" cy="53.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

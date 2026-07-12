@@ -1,6 +1,13 @@
 ---
 title: "Roberts (Welsh Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Roberts"
+  url: "/clan/roberts/"
+- name: "Roberts"
+  url: "/tartans/r/ro/roberts/"
 ---
 This is the **Roberts (Welsh Name)** sett — one scale-free proportion (`db4lb20k3lb2k3lb20db24k3db2k3db24r4`), colour order pattern
 [BWKWKWBKBKBR](/stripes/bwkwkwbkbkbr/). It is recorded as **2 variants** — the same
@@ -23,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db4lb20k3lb2k3lb20db24k3db2k3db24r4~db0705267/"><circle cx="211.6" cy="144.5" r="4" fill="#3465a4"><title>Roberts Welsh Name Tartan</title></circle></a><a href="/variants/s10/k9lb4k2lb4k2lb30k9lb4db14dy2~x2/"><circle cx="230.5" cy="136.1" r="4" fill="#3465a4"><title>Hannay Blue (Fashion?)</title></circle></a><a href="/variants/s12/lb5k1w1k1lb5k7b10k1lb15b3k1w2~x4/"><circle cx="203.1" cy="137.7" r="4" fill="#3465a4"><title>Faulds</title></circle></a><a href="/variants/s14/db3g1k1db2lb16db2k4g1k1db16lb2db2k1g3~x2/"><circle cx="210.5" cy="111.2" r="4" fill="#3465a4"><title>Tiger of Sweden</title></circle></a><a href="/variants/s11/k3lo2b14k14lb2k14lb2b6lb2b16lb3~x2/"><circle cx="187.3" cy="178.4" r="4" fill="#3465a4"><title>Immanuel Presbyterian Church (Corp)</title></circle></a><a href="/variants/s9/db27k4db4k4db4k14lb14w2lb27/"><circle cx="175.1" cy="162.8" r="4" fill="#3465a4"><title>(1) Abercrombie</title></circle></a><a href="/variants/s10/lb4r2db20k6lb5k4lb3k2r2db2~x2/"><circle cx="178.4" cy="151.5" r="4" fill="#3465a4"><title>Scottish Knights Templar MTS (Corp)</title></circle></a><a href="/variants/s10/w4r2db20k6w5k4w3k2r2db2~x2/"><circle cx="166.3" cy="148.3" r="4" fill="#3465a4"><title>Knights Templar St Andrews Corporate Tartan</title></circle></a><a href="/variants/s9/k2r9w2db2w4db2w2db20w2~x4/"><circle cx="233.9" cy="144.5" r="4" fill="#3465a4"><title>Yudo (Corporate)</title></circle></a><a href="/variants/s13/b9r5b51dg13k13b5dg4b5dg23b11k5b5r5/"><circle cx="278.6" cy="144.2" r="4" fill="#3465a4"><title>Balmoral, Gillies</title></circle></a><circle cx="219.3" cy="147.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

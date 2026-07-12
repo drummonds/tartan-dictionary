@@ -1,6 +1,11 @@
 ---
 title: "Duke of Sussex"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Duke of Sussex"
+  url: "/tartans/d/du/duke-of-sussex/"
 ---
 This is the **Duke of Sussex** sett — one scale-free proportion (`r18g1k5g1k1g1r9`), colour order pattern
 [RGKGKGR](/stripes/rgkgkgr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r12g6k1g2k1g1k6r24w2~x4/"><circle cx="355.6" cy="104.6" r="4" fill="#3465a4"><title>Stuart of Bute, The Htg (Clan)</title></circle></a><a href="/variants/s9/r12g6k1g2k1g1k6r24w2~x2/"><circle cx="355.6" cy="104.6" r="4" fill="#3465a4"><title>Stuart of Bute Clan Tartan</title></circle></a><a href="/variants/s8/dr64k8w3k8w3b4w3dr18~x2/"><circle cx="435.3" cy="108.6" r="4" fill="#3465a4"><title>Inverness - 2000 (Fashion)</title></circle></a><a href="/variants/s7/r48w3k3g2y6g2r6~x4/"><circle cx="491.6" cy="90.9" r="4" fill="#3465a4"><title>Ferguson the Astronomer</title></circle></a><a href="/variants/s8/r72k6lb2k11y2db2y2r18~x2/"><circle cx="478.4" cy="55.8" r="4" fill="#3465a4"><title>Princess Elizabeth (Royal)</title></circle></a><a href="/variants/s8/r42k4w1k6y1db1y1r12~x2/"><circle cx="490.7" cy="49.7" r="4" fill="#3465a4"><title>Princess Elizabeth Royal Family Tartan</title></circle></a><a href="/variants/s8/y4k1r30k15r24k2r4k1~x4/"><circle cx="426.5" cy="115.1" r="4" fill="#3465a4"><title>Oilmens Corporate Tartan</title></circle></a><a href="/variants/s8/y8k2r23k1r17k1g4w3~x2/"><circle cx="371.3" cy="111.3" r="4" fill="#3465a4"><title>Hoa Sen</title></circle></a><a href="/variants/s5/r75k15r4k15r4~x2/"><circle cx="462.1" cy="154.2" r="4" fill="#3465a4"><title>Masai Shuka 07 (Artefact)</title></circle></a><a href="/variants/s6/r30g12k5w2lb6r30~x2/"><circle cx="370.2" cy="156.5" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><circle cx="448.0" cy="136.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

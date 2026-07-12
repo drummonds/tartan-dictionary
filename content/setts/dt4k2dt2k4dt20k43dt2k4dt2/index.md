@@ -1,6 +1,11 @@
 ---
 title: "Dark Island Black (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Dark Island"
+  url: "/tartans/d/da/dark-island/"
 ---
 This is the **Dark Island Black (Fashion)** sett — one scale-free proportion (`dt4k2dt2k4dt20k43dt2k4dt2`), colour order pattern
 [BKBKBKBKB](/stripes/bkbkbkbkb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dg5k2dg2k2dg2k12r2k12dg6k2dg2~x2/"><circle cx="339.5" cy="208.8" r="4" fill="#3465a4"><title>MacLoughlin of Ardmarnoch (Personal)</title></circle></a><a href="/variants/s10/dt8k2dt2k14dt2k2lr1dt19k27lr2~x2/"><circle cx="375.8" cy="140.5" r="4" fill="#3465a4"><title>Pride of Scotland, Muted (Fashion)</title></circle></a><a href="/variants/s11/dt8k2o2dt2k13dt2k2lr1dt14k26lr2~x2/"><circle cx="341.1" cy="115.4" r="4" fill="#3465a4"><title>Pride of Scotland, Dark (Fashion)</title></circle></a><a href="/variants/s11/dt8k2o2dt2k13dt2k2ly1dt14k26ly2~x2/"><circle cx="339.7" cy="115.5" r="4" fill="#3465a4"><title>Pride of Scotland Hunting/Dark Fashion Tartan</title></circle></a><a href="/variants/s16/k4dt2k43dt20k4dt2k2dt4k2dt2k4dt20k43dt2k4dt2~x2/"><circle cx="490.4" cy="141.4" r="4" fill="#3465a4"><title>Dark Island</title></circle></a><a href="/variants/s7/k46dg6k6dg6k42dg47k12/"><circle cx="421.1" cy="242.9" r="4" fill="#3465a4"><title>Taiheiyo Club, Inc.</title></circle></a><a href="/variants/s8/dg8ly3k60dg3k3dg3k3dg4~x2/"><circle cx="501.5" cy="121.5" r="4" fill="#3465a4"><title>Aberdeen-Angus Cattle Society (Corp)</title></circle></a><a href="/variants/s13/k20dg4k4db4dg28ly1dg28db4k20dg8k4dg4k4~x2/"><circle cx="344.6" cy="133.8" r="4" fill="#3465a4"><title>Sawicki, Peter (Personal)</title></circle></a><circle cx="491.6" cy="161.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

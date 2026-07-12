@@ -1,6 +1,15 @@
 ---
 title: "Lumsden Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Lumsden"
+  url: "/clan/lumsden/"
+- name: "Lumsden"
+  url: "/families/lumsden/"
+- name: "Lumsden Hunting"
+  url: "/tartans/l/lu/lumsden-hunting/"
 ---
 This is the **Lumsden Hunting** sett — one scale-free proportion (`g34db2k2db2g34r3db34r2db34r3k33db2g2db2g2db2k33`), colour order pattern
 [GBKBGRBRBRKBGBGBK](/stripes/gbkbgrbrbrkbgbgbk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/g34k2db2k2g34r3k34r2k34r3db33k2g2k2g2k2db33/"><circle cx="163.3" cy="113.5" r="4" fill="#3465a4"><title>Stewart, Old - 1819 (Clan)</title></circle></a><a href="/variants/s17/g34k2db2k2g34r3k34r2k34r3db33k2g2k2g2k2db33~db1204274/"><circle cx="166.1" cy="113.4" r="4" fill="#3465a4"><title>Stewart/Stuart</title></circle></a><a href="/variants/s16/k2db18lb1k13lb1g16db3k2db3g16lb1k13lb1db18k2db2~x2/"><circle cx="183.3" cy="129.1" r="4" fill="#3465a4"><title>Hebrides #10</title></circle></a><a href="/variants/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12~x2/"><circle cx="134.9" cy="136.9" r="4" fill="#3465a4"><title>Stewart Old.. Clan Tartan</title></circle></a><a href="/variants/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12/"><circle cx="134.9" cy="136.9" r="4" fill="#3465a4"><title>Stewart Old</title></circle></a><a href="/variants/s8/g28r2k15db2k2db2k2db18~x2/"><circle cx="181.9" cy="122.6" r="4" fill="#3465a4"><title>Riddoch Personal Tartan</title></circle></a><a href="/variants/s13/db8k1db1k1db1k8y1g14y1k8db8k1db1~x2/"><circle cx="171.4" cy="142.8" r="4" fill="#3465a4"><title>Black from Cumnock (Personal)</title></circle></a><a href="/variants/s13/db8k1db1k1db1k8y1g14y1k8db8k1db1/"><circle cx="171.4" cy="142.8" r="4" fill="#3465a4"><title>Breadalbane Fencibles</title></circle></a><a href="/variants/s13/db8k1db1k1db1k8r1g14r1k8db8k1db1~x4/"><circle cx="166.7" cy="139.2" r="4" fill="#3465a4"><title>Riddoch (Name)</title></circle></a><a href="/variants/s14/g19k1g4k1g3k10db20y1k7y1db20k10y3g1~x2/"><circle cx="191.9" cy="128.4" r="4" fill="#3465a4"><title>Hope-Vere/Weir #2</title></circle></a><circle cx="167.4" cy="115.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

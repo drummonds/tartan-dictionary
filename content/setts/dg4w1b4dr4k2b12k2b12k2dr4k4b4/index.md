@@ -1,6 +1,13 @@
 ---
 title: "Otago Peninsula"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Otago"
+  url: "/clan/otago/"
+- name: "Otago Peninsula"
+  url: "/tartans/o/ot/otago-peninsula/"
 ---
 This is the **Otago Peninsula** sett — one scale-free proportion (`dg4w1b4dr4k2b12k2b12k2dr4k4b4`), colour order pattern
 [BKBKBKBKBBWG](/stripes/bkbkbkbkbbwg/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr4y4db9w3y2k9db21y2db2y2db8y3~x2/"><circle cx="250.3" cy="146.7" r="4" fill="#3465a4"><title>Ruxton, dress</title></circle></a><a href="/variants/s9/k22b16dr3b16k2b16g3b3lb5~x2/"><circle cx="248.1" cy="165.1" r="4" fill="#3465a4"><title>Jethart (District)</title></circle></a><a href="/variants/s12/k5lb2t10lb2k5db15k2db15k5db10lb1y2~x2~t2105244-db1406275/"><circle cx="237.5" cy="146.9" r="4" fill="#3465a4"><title>Goodwin, Robert Richard (Personal)</title></circle></a><a href="/variants/s12/r4dy4db9w3dy2k9db21dy2db2dy2db8dy3~x2/"><circle cx="264.2" cy="150.3" r="4" fill="#3465a4"><title>Ruxton Dress</title></circle></a><a href="/variants/s9/db8w2k8g12r2db3r2db24r2~x2/"><circle cx="239.4" cy="145.5" r="4" fill="#3465a4"><title>Burt #2 (Name)</title></circle></a><a href="/variants/s13/lb4k1db14k8db6dr2db6dr3db6dr2db6k2lo2~x2/"><circle cx="272.5" cy="152.6" r="4" fill="#3465a4"><title>Aberdale (Fashion)</title></circle></a><a href="/variants/s13/ri1db14k10db10k1db2k1db10k10dr8db2r2w1~x2~ri2806019-r2510029/"><circle cx="233.2" cy="131.0" r="4" fill="#3465a4"><title>Hynett, William (Personal)</title></circle></a><a href="/variants/s10/db10k1g2k2lb3k2g2k1db10w1~x8/"><circle cx="244.0" cy="146.3" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><a href="/variants/s9/r3db21r3db3k13db13lb3db3w2~x2/"><circle cx="280.6" cy="154.4" r="4" fill="#3465a4"><title>Fitzgerald Blue Irish Family Tartan</title></circle></a><a href="/variants/s11/dr4lb3db6t4db24k6g4db2lb23db23g4~x2/"><circle cx="202.1" cy="131.0" r="4" fill="#3465a4"><title>New Millennium</title></circle></a><circle cx="239.8" cy="154.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

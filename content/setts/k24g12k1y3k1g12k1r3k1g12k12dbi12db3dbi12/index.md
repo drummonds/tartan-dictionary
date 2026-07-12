@@ -1,6 +1,15 @@
 ---
 title: "Gow, hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Gow"
+  url: "/clan/gow/"
+- name: "Gow"
+  url: "/families/gow/"
+- name: "Gow Hunting"
+  url: "/tartans/g/go/gow-hunting-2/"
 ---
 This is the **Gow, hunting** sett — one scale-free proportion (`k24g12k1y3k1g12k1r3k1g12k12dbi12db3dbi12`), colour order pattern
 [BBBKGKRKGKGKGK](/stripes/bbbkgkrkgkgkgk/). It is recorded as **2 variants** — the same
@@ -23,6 +32,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/k24g12k1y3k1g12k1r3k1g12k12dbi12db3dbi12~x4~dbi1605267-db0804274/"><circle cx="128.0" cy="100.8" r="4" fill="#3465a4"><title>Gow Hunting #2</title></circle></a><a href="/variants/s14/k12g12k1r1k1g12k1y3k1g12k12dbi12db3dbi12~x4~dbi1406275-db1204274/"><circle cx="108.2" cy="135.1" r="4" fill="#3465a4"><title>Gow Hunting Family Tartan</title></circle></a><a href="/variants/s9/lb4k1g19lo1k19db13dr2db4dr2~x4/"><circle cx="109.6" cy="100.4" r="4" fill="#3465a4"><title>Whitson</title></circle></a><a href="/variants/s13/y4k1g10r2g10r4g10r2g10k16db28k1b4~x2/"><circle cx="148.6" cy="96.9" r="4" fill="#3465a4"><title>California</title></circle></a><a href="/variants/s12/g19k20r1db8t8g8db3r1n12k8r1n1~x2~db1003265-t2105244/"><circle cx="94.6" cy="117.5" r="4" fill="#3465a4"><title>Vine (2015)</title></circle></a><a href="/variants/s14/r3dg4g2dg10k18dg2db18dg3db18dg2k18dg16w1r3~x2~dg1806142-g2408144/"><circle cx="119.4" cy="120.0" r="4" fill="#3465a4"><title>Paget Family Tartan</title></circle></a><a href="/variants/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/"><circle cx="136.5" cy="125.8" r="4" fill="#3465a4"><title>Campbell Red</title></circle></a><a href="/variants/s15/dy5k2t6w1t6k2dy7k16g7k2dr4g2dr4k2g4~x2/"><circle cx="85.6" cy="124.0" r="4" fill="#3465a4"><title>Redgate Hunting #2 (Name)</title></circle></a><a href="/variants/s13/db24k4db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="144.8" cy="115.2" r="4" fill="#3465a4"><title>Craigclowan School</title></circle></a><a href="/variants/s14/g17k3g3k3g3k16t18k1r3k1t18k16g9dp2~x2/"><circle cx="129.9" cy="125.8" r="4" fill="#3465a4"><title>Fleming of Castle Carrick (Personal)</title></circle></a><circle cx="128.1" cy="100.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

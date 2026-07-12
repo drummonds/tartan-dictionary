@@ -1,6 +1,11 @@
 ---
 title: "Unidentified Scarlett #10"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified Scarlett"
+  url: "/tartans/u/un/unidentified-scarlett-9/"
 ---
 This is the **Unidentified Scarlett #10** sett — one scale-free proportion (`g28r2lb2r18db9r9lb9y1r3`), colour order pattern
 [GWRBRWRGRWRBRWGR](/stripes/gwrbrwrgrwrbrwgr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/r4lb2r50db26r10g44b4r10b4g44r51db2r4lb2~x2/"><circle cx="298.2" cy="115.9" r="4" fill="#3465a4"><title>MacQuarrie 1</title></circle></a><a href="/variants/s15/lb3ly8r2ly8db11r2ly4ri4r27db1r2db2r2db13r2~x2~r1706009-ri2109032/"><circle cx="222.5" cy="100.8" r="4" fill="#3465a4"><title>Strathdon (District?)</title></circle></a><a href="/variants/s15/r12dp2r4dp4r39lb2r4dp11r6g4r6g45r4dp4db10/"><circle cx="282.1" cy="105.4" r="4" fill="#3465a4"><title>Grant or New Bruce Clan Tartan</title></circle></a><a href="/variants/s20/w2r2lp2r22db2r2g8r8g8lp2r2lp2db9r3g1r3g22r2lp2w2~x2/"><circle cx="229.6" cy="99.9" r="4" fill="#3465a4"><title>MacDougall Clan Tartan</title></circle></a><a href="/variants/s14/db30r14db2r14g20w1g2w1g20r44db4r10lb1r4~x2/"><circle cx="307.3" cy="91.5" r="4" fill="#3465a4"><title>Perth (Duke of.. ) Portrait Tartan</title></circle></a><a href="/variants/s18/ri6r3ri6db22ri7r2w1ri2db2ri2w1r2ri7g22ri7g2ri2r2~x2~ri2109032-r1807008/"><circle cx="218.6" cy="102.9" r="4" fill="#3465a4"><title>MacColl Hunting</title></circle></a><a href="/variants/s14/ri4lb2ri50db26ri10g44r4ri10r4g44ri51db2ri4lb2~x2~ri2209032-r2208029/"><circle cx="296.0" cy="113.3" r="4" fill="#3465a4"><title>MacQuarrie #2</title></circle></a><a href="/variants/s19/t5r30g26r5w1r5t32r30lb1t3lb1t31r5w1r5g26r32t5w1~x2/"><circle cx="291.4" cy="109.7" r="4" fill="#3465a4"><title>Unidentified Scarlett #11</title></circle></a><a href="/variants/s12/r64lb16dp18y4dp4w4dp18g32r14lb4r14w3~x2/"><circle cx="236.3" cy="111.0" r="4" fill="#3465a4"><title>Wilson's No 4</title></circle></a><a href="/variants/s21/r16w1db6w1r6w1db32w1r24g1dg16g1r4g1dg6g1r4w1db6w1r16~x2~g2408144-dg1806142/"><circle cx="266.1" cy="71.3" r="4" fill="#3465a4"><title>MacDonald of Boisdale Clan Tartan</title></circle></a><circle cx="242.8" cy="114.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

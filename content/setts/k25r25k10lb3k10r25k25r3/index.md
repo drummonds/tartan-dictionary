@@ -1,6 +1,11 @@
 ---
 title: "bodog.com Corporate Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "bodog.com"
+  url: "/tartans/b/bo/bodog-com-2/"
 ---
 This is the **bodog.com Corporate Tartan** sett — one scale-free proportion (`k25r25k10lb3k10r25k25r3`), colour order pattern
 [KRKWKRKR](/stripes/krkwkrkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k30r3k2r3k2r27k30r4~x2/"><circle cx="366.9" cy="161.0" r="4" fill="#3465a4"><title>Murray of Ochtertyre #2</title></circle></a><a href="/variants/s10/k9r18w2k2w4k2w2r12k9r6~x2/"><circle cx="241.0" cy="174.0" r="4" fill="#3465a4"><title>Brice</title></circle></a><a href="/variants/s5/r26k18r7k4y4~x2/"><circle cx="238.7" cy="204.1" r="4" fill="#3465a4"><title>Haig &amp; Haig Whisky</title></circle></a><a href="/variants/s8/k12r3k2r16k8r12k2r3~x2/"><circle cx="308.8" cy="206.9" r="4" fill="#3465a4"><title>MacLeod #2</title></circle></a><a href="/variants/s6/k2r12k2r12k33r2~x2/"><circle cx="357.4" cy="165.8" r="4" fill="#3465a4"><title>Cameron Black &amp; Red (Dress)</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y1~x2/"><circle cx="274.5" cy="187.7" r="4" fill="#3465a4"><title>MacKeane (Clan?)</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y2~x4/"><circle cx="259.1" cy="193.1" r="4" fill="#3465a4"><title>MacDonald of Ardnamurchan (Clan?)</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y2~x2/"><circle cx="259.1" cy="193.1" r="4" fill="#3465a4"><title>MacKeane (MacIan) Clan Tartan</title></circle></a><a href="/variants/s8/db1r1k2r7k7r1k2w1~x6/"><circle cx="218.1" cy="170.8" r="4" fill="#3465a4"><title>Nakayama (Personal)</title></circle></a><a href="/variants/s8/b1r1k2r7k7r1k2w1~x6/"><circle cx="217.2" cy="170.7" r="4" fill="#3465a4"><title>Nakayama (Fashion)</title></circle></a><circle cx="260.7" cy="205.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

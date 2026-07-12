@@ -1,6 +1,15 @@
 ---
 title: "MacNaughton Clan Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacNaughton"
+  url: "/clan/macnaughton/"
+- name: "MacNaughton"
+  url: "/families/macnaughton/"
+- name: "MacNaughton"
+  url: "/tartans/m/ma/macnaughton-2/"
 ---
 This is the **MacNaughton Clan Tartan** sett — one scale-free proportion (`db5r17dg16k10db10r17db5`), colour order pattern
 [BRBKGRB](/stripes/brbkgrb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r10db6k8g10r6g3r6~x2/"><circle cx="111.6" cy="281.9" r="4" fill="#3465a4"><title>MacDuff #3</title></circle></a><a href="/variants/s6/dg14db8dg14r14k3r14~x2/"><circle cx="168.6" cy="276.3" r="4" fill="#3465a4"><title>Tulsa, City of</title></circle></a><a href="/variants/s5/n11k4dr4lo4n11~x4/"><circle cx="144.0" cy="262.2" r="4" fill="#3465a4"><title>Ikelman #3 (Personal)</title></circle></a><a href="/variants/s8/dg6dp3k3dp3k3dp3dg6k2~x2~dg1605139-dp1607327/"><circle cx="122.6" cy="283.3" r="4" fill="#3465a4"><title>Wilson's No.173</title></circle></a><a href="/variants/s7/r2g4db8r9g9k2r2~x4/"><circle cx="132.0" cy="241.3" r="4" fill="#3465a4"><title>Stewart (Artefact)</title></circle></a><a href="/variants/s7/r2g4db8r9g9k2r2~x2/"><circle cx="132.0" cy="241.3" r="4" fill="#3465a4"><title>Stewart, Plaid</title></circle></a><a href="/variants/s8/r2k4r2k4db1lb1db4r1~x4/"><circle cx="121.5" cy="233.6" r="4" fill="#3465a4"><title>MacKean Red (Personal)</title></circle></a><a href="/variants/s8/r2k4r2k4db1w1db4r1~x4/"><circle cx="116.5" cy="232.1" r="4" fill="#3465a4"><title>MacKean</title></circle></a><a href="/variants/s10/dr5db1dr3db1dr5db4g3k3g3lo2~x4/"><circle cx="118.4" cy="234.5" r="4" fill="#3465a4"><title>MacGaugh (Name)</title></circle></a><a href="/variants/s5/db6k6db6o14dy3~x2/"><circle cx="158.5" cy="267.1" r="4" fill="#3465a4"><title>Chivas Regal</title></circle></a><circle cx="127.8" cy="269.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

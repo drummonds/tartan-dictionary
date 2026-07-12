@@ -1,6 +1,15 @@
 ---
 title: "MacBean (1847)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacBean"
+  url: "/clan/macbean/"
+- name: "MacBean"
+  url: "/families/macbean/"
+- name: "MacBean"
+  url: "/tartans/m/ma/macbean-5/"
 ---
 This is the **MacBean (1847)** sett — one scale-free proportion (`r57w2k4db2w2db2k2w2k2g10k2w2r4o4g2o4r4w2g7`), colour order pattern
 [GWRRGRRWKGKWKBWBKWR](/stripes/gwrrgrrwkgkwkbwbkwr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s19/r57w2k4db2w2db2k2w2k2g10k2w2r4dr4g2dr4r4w2g7~x2/"><circle cx="271.2" cy="14.0" r="4" fill="#3465a4"><title>MacBean Clan Tartan</title></circle></a><a href="/variants/s19/ri60w2lb5k2w2k2lb5w2k2g12k2w2ri5r5g2r5ri5w2g10~x2~ri2109032-r1807008/"><circle cx="260.8" cy="19.4" r="4" fill="#3465a4"><title>MacBain Clan Tartan</title></circle></a><a href="/variants/s19/ri60w2lb5k2w2k2lb5w2k2g12k2w2ri5r5g2r5ri5w2g10~x2~ri2008029-r1707016/"><circle cx="260.5" cy="19.7" r="4" fill="#3465a4"><title>MacBain/MacBean</title></circle></a><a href="/variants/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5dr5g2dr5r5w2g10~x2~r1908029/"><circle cx="257.0" cy="19.8" r="4" fill="#3465a4"><title>MacBain</title></circle></a><a href="/variants/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5dr5g2dr5r5w2g10~r1908029/"><circle cx="257.0" cy="19.8" r="4" fill="#3465a4"><title>MacBain</title></circle></a><a href="/variants/s19/dr60w2lb5k2w2k2lb5w2k2g12k2w2dr5r5g2r5dr5w2g10~x2/"><circle cx="246.1" cy="19.6" r="4" fill="#3465a4"><title>MacBean (Lord Lyon version)</title></circle></a><a href="/variants/s20/r60y2w5k2y2k2w5y2k2g12k2w2r5dp5g2dp5r5w2k2g6/"><circle cx="256.1" cy="14.0" r="4" fill="#3465a4"><title>MacBain</title></circle></a><a href="/variants/s16/r94k3w2g21w3y3r5k2r5y3w3n21k7r7y8w4~x2/"><circle cx="319.1" cy="14.0" r="4" fill="#3465a4"><title>MacKintosh 8</title></circle></a><a href="/variants/s16/r60k2w1g16w2y3r3k1r3y3n2w16k4r4y6w2/"><circle cx="281.7" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan D</title></circle></a><a href="/variants/s14/g2r30db4r4k6y1k1w1k1g10r4k1r1w1~x2/"><circle cx="280.9" cy="34.9" r="4" fill="#3465a4"><title>Stuart/Stewart</title></circle></a><circle cx="274.5" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

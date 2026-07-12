@@ -1,6 +1,15 @@
 ---
 title: "Wagland"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Wagland"
+  url: "/clan/wagland/"
+- name: "Wagland"
+  url: "/families/wagland/"
+- name: "Wagland"
+  url: "/tartans/w/wa/wagland-3/"
 ---
 This is the **Wagland** sett — one scale-free proportion (`r3db6y2db15dg12b39w3`), colour order pattern
 [RBGBGBW](/stripes/rbgbgbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db35w3db8t36dg9o3~x2~db1605267-t2605232/"><circle cx="290.0" cy="208.2" r="4" fill="#3465a4"><title>Georgian Bay, Waters of</title></circle></a><a href="/variants/s6/r15t98db72y25db8w15~t2304245-db1404245/"><circle cx="253.6" cy="208.0" r="4" fill="#3465a4"><title>Afternoon Tea / Earl Grey</title></circle></a><a href="/variants/s6/m1g2n10r1db15w1~x4/"><circle cx="296.9" cy="162.6" r="4" fill="#3465a4"><title>Oren Peterson</title></circle></a><a href="/variants/s9/w2db20dg2b2dg2b4dg8y2r1~x2/"><circle cx="264.6" cy="130.4" r="4" fill="#3465a4"><title>Nova Scotia</title></circle></a><a href="/variants/s6/w1db15r1n10g2lp1~x4/"><circle cx="292.9" cy="162.9" r="4" fill="#3465a4"><title>Peterson, Oren (Name)</title></circle></a><a href="/variants/s7/y3db38g7dp4lb5r5w3~x2/"><circle cx="276.7" cy="129.8" r="4" fill="#3465a4"><title>Blairgowrie Golf Club, The</title></circle></a><a href="/variants/s6/b9lb1g2lb1db4r1~x12/"><circle cx="281.4" cy="210.6" r="4" fill="#3465a4"><title>McIntosh, Georgina (Personal)</title></circle></a><a href="/variants/s9/y2g20db8r3db2r2db16w1lb2~x2/"><circle cx="245.6" cy="133.3" r="4" fill="#3465a4"><title>Scotland’s Golf Coast</title></circle></a><a href="/variants/s8/db3lb3g30db25dp4r3y2dp1~x2~dp1507327-r2108022/"><circle cx="260.3" cy="117.0" r="4" fill="#3465a4"><title>Young</title></circle></a><a href="/variants/s7/dp8g31r4y4db17b64w4/"><circle cx="251.7" cy="145.1" r="4" fill="#3465a4"><title>Manx National</title></circle></a><circle cx="284.0" cy="153.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Savannah Harley Davidson"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Savannah Harley Davidson"
+  url: "/tartans/s/sa/savannah-harley-davidson/"
 ---
 This is the **Savannah Harley Davidson** sett — one scale-free proportion (`k25w1n3w1k31n3k31w2r9`), colour order pattern
 [KWBWKBKWR](/stripes/kwbwkbkwr/). It is recorded as **2 variants** — the same
@@ -23,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k25w1n3w1k31n3k31w2r9~x2~n1700000/"><circle cx="471.5" cy="104.0" r="4" fill="#3465a4"><title>Savannah Harley Davidson</title></circle></a><a href="/variants/s9/k50w1n15w1k40n13k62w4dr21~x2/"><circle cx="424.7" cy="105.5" r="4" fill="#3465a4"><title>Provincewide HOG Chapter</title></circle></a><a href="/variants/s7/n3k31w6k8n3k12w2~x2/"><circle cx="427.1" cy="156.1" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/variants/s7/n3k31w6k7n3k12w2~x2/"><circle cx="425.2" cy="154.8" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/"><circle cx="425.8" cy="81.8" r="4" fill="#3465a4"><title>Capco</title></circle></a><a href="/variants/s6/k4r4k20r1k20w4~x6/"><circle cx="469.1" cy="155.5" r="4" fill="#3465a4"><title>Lanoir</title></circle></a><a href="/variants/s8/k44r2w10r3k6r1w2k18~x2/"><circle cx="462.8" cy="88.0" r="4" fill="#3465a4"><title>Mull Rugby Club</title></circle></a><a href="/variants/s7/k24w1r6k21ly2k24g1~x2/"><circle cx="497.8" cy="122.0" r="4" fill="#3465a4"><title>Gourlay, George (Personal)</title></circle></a><a href="/variants/s7/k24w1r6k21y2k24g1~x2/"><circle cx="506.1" cy="124.3" r="4" fill="#3465a4"><title>Gourlay, George (Personal)</title></circle></a><a href="/variants/s6/k36y5k1y1n5k12~x2/"><circle cx="522.6" cy="121.9" r="4" fill="#3465a4"><title>Merola (2016)</title></circle></a><circle cx="469.6" cy="103.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

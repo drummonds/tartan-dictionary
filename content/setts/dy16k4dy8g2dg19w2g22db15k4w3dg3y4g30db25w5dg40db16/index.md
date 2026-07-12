@@ -1,6 +1,11 @@
 ---
 title: "Les Cercles de Fermieres du Quebec"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Cercles de Fermieres"
+  url: "/tartans/c/ce/cercles-de-fermieres/"
 ---
 This is the **Les Cercles de Fermieres du Quebec** sett — one scale-free proportion (`dy16k4dy8g2dg19w2g22db15k4w3dg3y4g30db25w5dg40db16`), colour order pattern
 [BGWBGGGWKBGWGGGKG](/stripes/bgwbgggwkbgwgggkg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/db16dg40w5db25g30y4dg3w3k4db15g22w2dg19g2o8k4o16~x2/"><circle cx="82.6" cy="101.0" r="4" fill="#3465a4"><title>Les Cercles de Fermieres du Quebec</title></circle></a><a href="/variants/s14/dg3g15dg2g2k10dy2db12k1g2k1db12k10dg18r3~x2~dg1806142-g2203152/"><circle cx="89.9" cy="124.2" r="4" fill="#3465a4"><title>Leinster</title></circle></a><a href="/variants/s13/db4g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2~x2~db1204274-dbi1406275/"><circle cx="109.3" cy="115.7" r="4" fill="#3465a4"><title>Clack (Personal)</title></circle></a><a href="/variants/s24/g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2dbi18dg1dbi2k6g2dg12g2k6dbi2dg1g17db4~x2~dbi1406275-db1204274/"><circle cx="107.0" cy="93.6" r="4" fill="#3465a4"><title>Clack Personal Tartan</title></circle></a><a href="/variants/s9/w4k2t18y4t18dy26dg18k1o2~x2/"><circle cx="172.8" cy="104.1" r="4" fill="#3465a4"><title>Hughes Interconnection Int.</title></circle></a><a href="/variants/s15/g15db3g3db3g3db16o16k5y2k5o16db16g15r1k4~x2/"><circle cx="100.3" cy="130.8" r="4" fill="#3465a4"><title>Loseby, Luke (Personal)</title></circle></a><a href="/variants/s26/dg18k10db12k1g2k1db12dy2k10g2dg2g15dg3g15dg2g2k10dy2db12k1g2k1db12k10dg18r3~x2~dg1806142-db1204274-g2203152/"><circle cx="83.1" cy="102.4" r="4" fill="#3465a4"><title>Leinster Irish District Tartan</title></circle></a><a href="/variants/s17/k12g16lb2do12g2y10k4y8n27k30lb6n27g20lo4k2lb4k4~x2/"><circle cx="40.4" cy="100.7" r="4" fill="#3465a4"><title>Le Cercle des Femmes (Corporate)</title></circle></a><a href="/variants/s11/k4r1k3r2dy3k12dg10dgi18db3n3db3~x2~dgi1705139/"><circle cx="108.2" cy="116.6" r="4" fill="#3465a4"><title>Blake, William &amp; Agnes (Australia)</title></circle></a><a href="/variants/s14/db4dy2db14dy4db4o1k8g13y3g13k8dy10k3dy3~x2/"><circle cx="76.9" cy="148.1" r="4" fill="#3465a4"><title>Humble, Gordon (Personal)</title></circle></a><circle cx="93.8" cy="106.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

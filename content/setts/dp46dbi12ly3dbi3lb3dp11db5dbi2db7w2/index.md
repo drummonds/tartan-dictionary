@@ -1,6 +1,11 @@
 ---
 title: "Diamond Jubilee (Lochcarron) (Comm.)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Diamond Jubilee"
+  url: "/tartans/d/di/diamond-jubilee/"
 ---
 This is the **Diamond Jubilee (Lochcarron) (Comm.)** sett — one scale-free proportion (`dp46dbi12ly3dbi3lb3dp11db5dbi2db7w2`), colour order pattern
 [BBYBWBBBBW](/stripes/bbybwbbbbw/). It is recorded as a single **variant**, below.

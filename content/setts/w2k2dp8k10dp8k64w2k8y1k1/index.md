@@ -1,6 +1,15 @@
 ---
 title: "Payne of Wallins Creek (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Payne"
+  url: "/clan/payne/"
+- name: "Payne of Wallins Creek"
+  url: "/families/payne-of-wallins-creek/"
+- name: "Payne of Wallins Creek"
+  url: "/tartans/p/pa/payne-of-wallins-creek/"
 ---
 This is the **Payne of Wallins Creek (Personal)** sett — one scale-free proportion (`w2k2dp8k10dp8k64w2k8y1k1`), colour order pattern
 [KGKWKBKBKW](/stripes/kgkwkbkbkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k93dr2k4w2k8n8k2n16w2~x2/"><circle cx="494.9" cy="57.4" r="4" fill="#3465a4"><title>Wcwm 1669-3</title></circle></a><a href="/variants/s9/k78y16k2dt2k2y2k3r2k10~x2~y2100000-dt1700000/"><circle cx="521.7" cy="62.7" r="4" fill="#3465a4"><title>Scotland's Lionheart</title></circle></a><a href="/variants/s9/db7k5b6k5r7k2db2k70b2/"><circle cx="480.0" cy="69.2" r="4" fill="#3465a4"><title>United States</title></circle></a><a href="/variants/s8/db10lb2k2db1k6lb1k45lo2~x2/"><circle cx="485.3" cy="73.6" r="4" fill="#3465a4"><title>Marine Harvest (Scotland)</title></circle></a><a href="/variants/s10/k64r1k4r1k6r7w2r7k6lb2~x2/"><circle cx="494.4" cy="40.4" r="4" fill="#3465a4"><title>Noordermeer (Personal)</title></circle></a><a href="/variants/s14/k70n2k3n12k1o3k1n12k3n2k60o2n2dp3~x2~n1700000-o2500000/"><circle cx="509.0" cy="45.6" r="4" fill="#3465a4"><title>Grassi (2009)</title></circle></a><a href="/variants/s10/k75dr1k4n15k2n1k3db1k2dr1~x2/"><circle cx="562.4" cy="50.3" r="4" fill="#3465a4"><title>Selkirk Silver Band (Corporate)</title></circle></a><a href="/variants/s8/k60r3k15r3lb2r5db3r2~x2/"><circle cx="493.0" cy="79.5" r="4" fill="#3465a4"><title>Whitaker (2014)</title></circle></a><a href="/variants/s9/y2k4y1k4r5k50n1k2r1~x2/"><circle cx="570.4" cy="48.2" r="4" fill="#3465a4"><title>Magdalene</title></circle></a><a href="/variants/s13/k61w1k1r2k1w1k16w1r4k2r6k1y4~x2/"><circle cx="502.4" cy="23.5" r="4" fill="#3465a4"><title>Coeur D'Alene Firefighters Richard Gaines Memorial</title></circle></a><circle cx="517.3" cy="55.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

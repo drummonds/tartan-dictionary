@@ -1,6 +1,15 @@
 ---
 title: "MacBeth Dress (Clan)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacBeth"
+  url: "/clan/macbeth/"
+- name: "MacBeth"
+  url: "/families/macbeth/"
+- name: "MacBeth Dress"
+  url: "/tartans/m/ma/macbeth-dress-2/"
 ---
 This is the **MacBeth Dress (Clan)** sett — one scale-free proportion (`w1dr3k1dr3g4k1w1k1w1k1db6lo2db4w14db1w1`), colour order pattern
 [WBKBGKWKWKBYBWBW](/stripes/wbkbgkwkwkbybwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/lb30g8r2k8y2k8r2g8db11r2lb10r3lb2r2db3~x2/"><circle cx="116.4" cy="95.3" r="4" fill="#3465a4"><title>Mungall Family Tartan</title></circle></a><a href="/variants/s16/db20g5k5w22db5w22k2y2k2r6g4w4g3r4k2y2~x2/"><circle cx="107.2" cy="102.6" r="4" fill="#3465a4"><title>Gayre Arisaidh Clan Tartan</title></circle></a><a href="/variants/s9/g2db8g2k5w12lo1db1w1dr1~x4/"><circle cx="104.5" cy="106.1" r="4" fill="#3465a4"><title>Haymarket Dress (Dance)</title></circle></a><a href="/variants/s15/r4g1r1g5k1lo1k1lo1k6lb1k1lb15w1lb1w1~x4/"><circle cx="130.0" cy="76.5" r="4" fill="#3465a4"><title>Estes</title></circle></a><a href="/variants/s16/w31k2g2k2g2db8k2w2k2db8k2y2k2g8k2r2~x2/"><circle cx="127.1" cy="67.3" r="4" fill="#3465a4"><title>Cockburn of Ormiston Dress</title></circle></a><a href="/variants/s12/r5w2db2w2y5w2lb2w2k7db14lb30w4~x2~lb3201240/"><circle cx="139.7" cy="98.4" r="4" fill="#3465a4"><title>St. Andrews Management School</title></circle></a><a href="/variants/s13/lb10w18lb4lo6lb45k30lb4k4y4r4y4r4y4/"><circle cx="131.3" cy="102.3" r="4" fill="#3465a4"><title>Les Coeurs de Lions en Bleu</title></circle></a><a href="/variants/s19/ly6db2lo2db1k1db1lyi4lb2lyi2db17k2lb3k8lb3k2lb17k2lb2lyi2~x2~ly3104101-lyi3407090/"><circle cx="93.6" cy="80.5" r="4" fill="#3465a4"><title>Ferrari (Name)</title></circle></a><a href="/variants/s16/r1w1db8lb12y1lb1k2w3k6db1lb1y1lb1db1w1r1~x6/"><circle cx="95.0" cy="95.0" r="4" fill="#3465a4"><title>Buchanan, John &amp; Isabella</title></circle></a><a href="/variants/s12/r5w2db2w2y5w2lb2w2k7db14lb30w4~x2/"><circle cx="141.2" cy="98.0" r="4" fill="#3465a4"><title>St. Andrews Management School (Corp)</title></circle></a><circle cx="107.3" cy="88.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

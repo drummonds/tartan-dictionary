@@ -1,6 +1,11 @@
 ---
 title: "Holroyd, John (Personal"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Holroyd, John"
+  url: "/tartans/h/ho/holroyd-john/"
 ---
 This is the **Holroyd, John (Personal** sett — one scale-free proportion (`w3g7db2g5dbi8db3ly3db3g3db12lb21ly3`), colour order pattern
 [WGBGBBYBGBWY](/stripes/wgbgbbybgbwy/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/y3lb21db12g3db3y3db3gi8g5db2g7w3~x2~db1003265-gi1902194/"><circle cx="119.3" cy="175.1" r="4" fill="#3465a4"><title>Holroyd, John (Personal)</title></circle></a><a href="/variants/s10/ly7g11db4lb31db4g11dy4db14w3db4~x2/"><circle cx="141.0" cy="179.9" r="4" fill="#3465a4"><title>State Seal of Nebraska (Fashion)</title></circle></a><a href="/variants/s9/w30t4db6dp4db6g6db12g13lb4~x2~t2405244-lb3203246/"><circle cx="124.0" cy="194.1" r="4" fill="#3465a4"><title>Sound of Iona</title></circle></a><a href="/variants/s9/w30lb4db6dp4db6g6db12g13lt4~x2~lb3203246-db1404245-g2203152-lt3606199/"><circle cx="131.4" cy="196.4" r="4" fill="#3465a4"><title>Sound of Iona</title></circle></a><a href="/variants/s13/ly3g4n14dp3n2dp18lb16g14n2dp3lb3n2lr1~x2/"><circle cx="162.7" cy="152.0" r="4" fill="#3465a4"><title>Enable (Corporate)</title></circle></a><a href="/variants/s11/lb14db9lb14lo4g3lbi3g3lo4db14lo2w3~x2~lb3203246-lbi3300000/"><circle cx="142.8" cy="204.4" r="4" fill="#3465a4"><title>Bouguet, Adrian (Personal)</title></circle></a><a href="/variants/s11/y2b16g2b2g16dp2w15lb2w2lb16y2~x2/"><circle cx="116.5" cy="190.9" r="4" fill="#3465a4"><title>Robinson, Barbara Ann (Personal)</title></circle></a><a href="/variants/s9/r5w1db10g10w1y1g2lb2w1~x2/"><circle cx="150.6" cy="167.1" r="4" fill="#3465a4"><title>Mary, Queen of Scots</title></circle></a><a href="/variants/s11/dy11w3db5w2y1db4w1db2dbi11db3g2~x2~db0705267-dbi1605267/"><circle cx="127.8" cy="172.6" r="4" fill="#3465a4"><title>Scottish Bear (Mathan Albannach)</title></circle></a><a href="/variants/s9/w3db19w1lb17y11g10w1db3w1~x2/"><circle cx="176.5" cy="170.4" r="4" fill="#3465a4"><title>Bird Family (Australia) (Personal)</title></circle></a><circle cx="115.9" cy="173.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

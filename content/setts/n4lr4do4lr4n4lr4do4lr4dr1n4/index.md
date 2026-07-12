@@ -1,6 +1,15 @@
 ---
 title: "Brook (Estate Check)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Brook"
+  url: "/clan/brook/"
+- name: "Brook"
+  url: "/families/brook/"
+- name: "Brook"
+  url: "/tartans/b/br/brook-2/"
 ---
 This is the **Brook (Estate Check)** sett — one scale-free proportion (`n4lr4do4lr4n4lr4do4lr4dr1n4`), colour order pattern
 [BBYBYBYBYB](/stripes/bbybybybyb/). It is recorded as a single **variant**, below.

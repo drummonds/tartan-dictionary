@@ -1,6 +1,13 @@
 ---
 title: "Glen Lyon #2"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Glen"
+  url: "/clan/glen/"
+- name: "Glen Lyon"
+  url: "/tartans/g/gl/glen-lyon/"
 ---
 This is the **Glen Lyon #2** sett — one scale-free proportion (`lb2g4k5g4lb1`), colour order pattern
 [WGKGW](/stripes/wgkgw/). It is recorded as **2 variants** — the same
@@ -23,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/lb2g4k5g4lb1~x2~g2203152/"><circle cx="185.2" cy="279.8" r="4" fill="#3465a4"><title>Wilson's No.053</title></circle></a><a href="/variants/s6/g7k1g7lb1k6lb1~x4/"><circle cx="277.0" cy="229.4" r="4" fill="#3465a4"><title>Innes, Georgina (Portrait)</title></circle></a><a href="/variants/s6/g7k1g7lb1k6lb1~x2/"><circle cx="277.0" cy="229.4" r="4" fill="#3465a4"><title>Innes</title></circle></a><a href="/variants/s6/y1g6k5g1db5g1~x2/"><circle cx="157.1" cy="231.9" r="4" fill="#3465a4"><title>MacKay (Bonner)</title></circle></a><a href="/variants/s5/k5g14k16db12g4~x2/"><circle cx="149.6" cy="289.5" r="4" fill="#3465a4"><title>Unidentified #29</title></circle></a><a href="/variants/s6/dr3k9g20k16g7t3~x2/"><circle cx="190.2" cy="226.1" r="4" fill="#3465a4"><title>Holman (Personal)</title></circle></a><a href="/variants/s4/k5g14db12g4~x4/"><circle cx="214.1" cy="306.6" r="4" fill="#3465a4"><title>MacCurdie (Clan?)</title></circle></a><a href="/variants/s6/k2g9lb1k6b4g2~x2/"><circle cx="179.2" cy="213.0" r="4" fill="#3465a4"><title>Unnamed 3</title></circle></a><a href="/variants/s6/lb3g6k6lb4r1lb1~x2/"><circle cx="116.2" cy="236.6" r="4" fill="#3465a4"><title>Wellington or Waterloo Commemorative Tartan</title></circle></a><a href="/variants/s4/g4k5g4ly1~x2/"><circle cx="230.6" cy="293.8" r="4" fill="#3465a4"><title>Wilson's No.053 #2</title></circle></a><circle cx="179.4" cy="281.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

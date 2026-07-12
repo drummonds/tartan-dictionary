@@ -1,6 +1,11 @@
 ---
 title: "Unidentified #42"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified 24"
+  url: "/tartans/u/un/unidentified-24/"
 ---
 This is the **Unidentified #42** sett — one scale-free proportion (`y1r3g7r3g7r3y1`), colour order pattern
 [GRGRGRG](/stripes/grgrgrg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1g6r1g6r15y1~x2/"><circle cx="412.7" cy="205.0" r="4" fill="#3465a4"><title>Cameron Clan D</title></circle></a><a href="/variants/s6/r1g3r1g3r8y1~x8/"><circle cx="396.6" cy="238.5" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/variants/s7/r8y2r15g10r4g10r4~x2/"><circle cx="361.2" cy="263.7" r="4" fill="#3465a4"><title>Caspari (Corporate)</title></circle></a><a href="/variants/s7/dg2r1dg8r5g5r1g2~x4~dg1405139-g2104115/"><circle cx="301.5" cy="264.7" r="4" fill="#3465a4"><title>Glen Esk (Fashion)</title></circle></a><a href="/variants/s6/r2g2r16g15r2g2~x2/"><circle cx="389.8" cy="243.9" r="4" fill="#3465a4"><title>Unidentified NW Highlands</title></circle></a><a href="/variants/s4/g16r1g2r11~x8/"><circle cx="443.0" cy="247.8" r="4" fill="#3465a4"><title>Middleton</title></circle></a><a href="/variants/s4/r18g7r2g18~x4/"><circle cx="390.5" cy="289.2" r="4" fill="#3465a4"><title>Applecross (District)</title></circle></a><a href="/variants/s4/r18g7r2g18~x2/"><circle cx="390.5" cy="289.2" r="4" fill="#3465a4"><title>Applecross (MacDonald) District Tartan</title></circle></a><a href="/variants/s4/dg18r2dg7r18~x2~dg1806142-r2109032/"><circle cx="409.0" cy="293.8" r="4" fill="#3465a4"><title>Applecross</title></circle></a><a href="/variants/s6/r4ly1r3g1ly8g2~x4/"><circle cx="306.3" cy="250.1" r="4" fill="#3465a4"><title>Buchele Check (Fashion?)</title></circle></a><circle cx="352.8" cy="267.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Campbell of Lochlane"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Campbell"
+  url: "/clan/campbell/"
+- name: "Campbell of Lochlane"
+  url: "/families/campbell-of-lochlane/"
+- name: "Campbell of Lochlane"
+  url: "/tartans/c/ca/campbell-of-lochlane/"
 ---
 This is the **Campbell of Lochlane** sett — one scale-free proportion (`k2dr1k6dr6k1dr1k1`), colour order pattern
 [KBKBKBK](/stripes/kbkbkbk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k4dr2k22dr22k3dr4lb2~x2/"><circle cx="330.8" cy="189.2" r="4" fill="#3465a4"><title>Menzies of Culdares</title></circle></a><a href="/variants/s7/dr2k4dr2k4dr6k1lo1~x4/"><circle cx="273.2" cy="245.8" r="4" fill="#3465a4"><title>MacIan</title></circle></a><a href="/variants/s4/k3dr20k20dr3~x2/"><circle cx="374.7" cy="276.6" r="4" fill="#3465a4"><title>Clan Anord (Corporate)</title></circle></a><a href="/variants/s5/k2dr4k7dr1k2~x2/"><circle cx="445.3" cy="266.9" r="4" fill="#3465a4"><title>Romsdal Tresfjord</title></circle></a><a href="/variants/s7/k46dg6k6dg6k42dg47k12/"><circle cx="421.1" cy="242.9" r="4" fill="#3465a4"><title>Taiheiyo Club, Inc.</title></circle></a><a href="/variants/s11/dg5k2dg2k2dg2k12r2k12dg6k2dg2~x2/"><circle cx="339.5" cy="208.8" r="4" fill="#3465a4"><title>MacLoughlin of Ardmarnoch (Personal)</title></circle></a><a href="/variants/s7/k4r5k4dr28k4g5k4~x2/"><circle cx="259.0" cy="177.9" r="4" fill="#3465a4"><title>Montgomery</title></circle></a><a href="/variants/s7/k4r5k4dr28k4g5k4/"><circle cx="259.0" cy="177.9" r="4" fill="#3465a4"><title>Montgomery</title></circle></a><circle cx="376.4" cy="241.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

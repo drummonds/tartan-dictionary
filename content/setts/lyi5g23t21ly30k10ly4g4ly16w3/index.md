@@ -1,6 +1,11 @@
 ---
 title: "State Seal of Kansas (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "State Seal of Kansas"
+  url: "/tartans/s/st/state-seal-of-kansas/"
 ---
 This is the **State Seal of Kansas (Fashion)** sett — one scale-free proportion (`lyi5g23t21ly30k10ly4g4ly16w3`), colour order pattern
 [WYGYKYBGY](/stripes/wygykybgy/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g9lb2g9k2dy14ly4lb2r2~x4~dy1603076-ly3307090/"><circle cx="149.4" cy="191.1" r="4" fill="#3465a4"><title>McShane (Personal)</title></circle></a><a href="/variants/s7/r2w2y27g14y2db14y2~x2/"><circle cx="288.1" cy="184.3" r="4" fill="#3465a4"><title>Fraser Yellow Tartan</title></circle></a><a href="/variants/s11/y3dg14g9db4g8w2g12r12g2r5w2~x2~dg1806142-g2203152/"><circle cx="182.3" cy="210.6" r="4" fill="#3465a4"><title>Muirhead (Clan)</title></circle></a><a href="/variants/s9/dg3y2dr10dg10g20dg12r3g10w2~x2/"><circle cx="204.5" cy="200.9" r="4" fill="#3465a4"><title>Patel (2013)</title></circle></a><a href="/variants/s9/dg3lb12dg10lb6dg8g6dg8o23oi3~x2~dg1806142-g2408144-o2005046-oi2007033/"><circle cx="187.8" cy="229.7" r="4" fill="#3465a4"><title>Lawrence's Seven Pillars of Khaki</title></circle></a><a href="/variants/s7/dg12g6r1g10dp8y2w2~x4/"><circle cx="174.0" cy="199.7" r="4" fill="#3465a4"><title>Connelly, James (Personal)</title></circle></a><a href="/variants/s10/dg12g24t48r23w8r23t24y4g12dg12/"><circle cx="166.5" cy="196.7" r="4" fill="#3465a4"><title>Swiss Highlander (Corporate)</title></circle></a><a href="/variants/s11/t30r6dy16lp6g10lp14g24y4dy10lp3dy28/"><circle cx="139.3" cy="190.9" r="4" fill="#3465a4"><title>Greyfriars (District)</title></circle></a><a href="/variants/s11/b16w3b2dy4g24r2g4r5g4r2t8~x2/"><circle cx="216.1" cy="162.3" r="4" fill="#3465a4"><title>Currie of Arran</title></circle></a><a href="/variants/s7/lb2k2dg8g8r1g1w1~x4~dg1806142-g2304202/"><circle cx="150.7" cy="179.7" r="4" fill="#3465a4"><title>Lundy (Personal)</title></circle></a><circle cx="176.4" cy="187.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

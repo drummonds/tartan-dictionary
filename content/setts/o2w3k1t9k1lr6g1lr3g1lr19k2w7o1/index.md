@@ -1,6 +1,11 @@
 ---
 title: "Cahaba Memorial (Commemorative)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Cahaba Memorial"
+  url: "/tartans/c/ca/cahaba-memorial-2/"
 ---
 This is the **Cahaba Memorial (Commemorative)** sett — one scale-free proportion (`o2w3k1t9k1lr6g1lr3g1lr19k2w7o1`), colour order pattern
 [RWKBKYGYGYKWR](/stripes/rwkbkygygykwr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/lb18y2lb2y1r3g3r2g2r1k2lb3w7lb2w2lb1w4~x4~w3600000/"><circle cx="207.8" cy="93.6" r="4" fill="#3465a4"><title>Inverness County (Canada)</title></circle></a><a href="/variants/s16/lb18y2lb2y1r3g3r2g2r1k2lb3w7lb2w2lb1w4~x4/"><circle cx="194.9" cy="89.0" r="4" fill="#3465a4"><title>Inverness County (Canada) (District)</title></circle></a><a href="/variants/s14/lb18k1r1w1r4db4lb4g4r1g1r1g1r1g1~x4/"><circle cx="225.8" cy="76.3" r="4" fill="#3465a4"><title>Hill 70</title></circle></a><a href="/variants/s14/dy4lb1dy2lb1dy2lb16k1g8dy8r8k1lb24k1w4~x2/"><circle cx="209.9" cy="77.2" r="4" fill="#3465a4"><title>Ethiopia</title></circle></a><a href="/variants/s11/y4lb1y2lb20y2r8y2lb20db16k1w4~x2/"><circle cx="218.0" cy="109.7" r="4" fill="#3465a4"><title>Congo, The Democratic Republic of the</title></circle></a><a href="/variants/s14/t14lb2ly2lb2t25k6w17r3w3r3w3r3w3r3~x2/"><circle cx="154.8" cy="113.1" r="4" fill="#3465a4"><title>Letang (Personal)</title></circle></a><a href="/variants/s8/g22r3w1g2r3lb16k3dy2~x4/"><circle cx="163.1" cy="86.3" r="4" fill="#3465a4"><title>Stirling University #2</title></circle></a><a href="/variants/s11/lb26w9k2w2lb2w2n11w8y2n2dr2~x2/"><circle cx="189.9" cy="129.7" r="4" fill="#3465a4"><title>Manchester Blues Modern</title></circle></a><a href="/variants/s13/lo2w3k1b9k1bi6g1bi3g1bi19k2w7lo1~x2~b1511266-bi2501240/"><circle cx="196.0" cy="93.3" r="4" fill="#3465a4"><title>Cahaba Memorial</title></circle></a><a href="/variants/s14/y3lb2k1lb24k2lb2k2lb2k2g8dp2g8k1w2~x2/"><circle cx="202.9" cy="68.5" r="4" fill="#3465a4"><title>Alexander-Johnstone (Personal)</title></circle></a><circle cx="220.6" cy="102.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

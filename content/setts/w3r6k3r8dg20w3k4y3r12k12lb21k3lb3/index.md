@@ -1,6 +1,15 @@
 ---
 title: "Dykes, of Perthshire"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Dykes"
+  url: "/clan/dykes/"
+- name: "Dykes of Perthshire"
+  url: "/families/dykes-of-perthshire/"
+- name: "Dykes of Perthshire"
+  url: "/tartans/d/dy/dykes-of-perthshire/"
 ---
 This is the **Dykes, of Perthshire** sett — one scale-free proportion (`w3r6k3r8dg20w3k4y3r12k12lb21k3lb3`), colour order pattern
 [WKWKRGKWGRKRW](/stripes/wkwkrgkwgrkrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k13lb7k2r14g14w2lb3w2g14r14k15lb7~x2/"><circle cx="14.0" cy="135.9" r="4" fill="#3465a4"><title>Coulter (Personal)</title></circle></a><a href="/variants/s12/lb1dg8k1lb2k1y2k1lb2k1r8w1lb1~x4/"><circle cx="60.1" cy="128.8" r="4" fill="#3465a4"><title>MacWhirter</title></circle></a><a href="/variants/s13/k3r19db12k3y3g3k2w11db3w4db4k2w3~x2/"><circle cx="38.8" cy="125.9" r="4" fill="#3465a4"><title>Badminton World Federation</title></circle></a><a href="/variants/s13/r6k2r12g10k3w2k3y2k8w4db6w12r4/"><circle cx="14.0" cy="166.6" r="4" fill="#3465a4"><title>Victoria (Patons)</title></circle></a><a href="/variants/s12/r4oi14w2o4w2k6oi3k6db14r2db4r4~x2~oi2104058-o2102055/"><circle cx="38.4" cy="158.0" r="4" fill="#3465a4"><title>Kinloch Anderson, dress</title></circle></a><a href="/variants/s17/lb7k9ly2k2ly2r14g14w2lb3w2g14r14k2lb7k9ly2k2~x2/"><circle cx="14.0" cy="140.3" r="4" fill="#3465a4"><title>Coulter (Personal)</title></circle></a><a href="/variants/s10/k2n10k5dg8k12r20lb16r4lb5w2~x2/"><circle cx="44.8" cy="154.5" r="4" fill="#3465a4"><title>Manderson #2</title></circle></a><a href="/variants/s15/oi4o3w24o4oi4k12dr16k2w4k2dr16k12do16k2oi4~oi2104058-o2102055/"><circle cx="26.4" cy="118.9" r="4" fill="#3465a4"><title>Dunkeld</title></circle></a><a href="/variants/s12/lyi3ly3lyi12k2ly2lo2ly8k2db12dp8k2dp2~x2~lyi3202083-ly2804101/"><circle cx="27.2" cy="166.4" r="4" fill="#3465a4"><title>Merise and Lars (Personal)</title></circle></a><a href="/variants/s14/r9lb8k2lb2k2lb8k16y3dg18r10k3r10w2r5~x2/"><circle cx="62.7" cy="137.7" r="4" fill="#3465a4"><title>Caledonia - 1819 (Wilsons') No.155</title></circle></a><circle cx="20.5" cy="145.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "MacConnell"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacConnell"
+  url: "/clan/macconnell/"
+- name: "MacConnell"
+  url: "/families/macconnell/"
+- name: "MacConnell"
+  url: "/tartans/m/ma/macconnell/"
 ---
 This is the **MacConnell** sett — one scale-free proportion (`db20dg6db6lb2dg20dr8dg6dr4dg10lr3`), colour order pattern
 [BGBWGBGBGY](/stripes/bgbwgbgbgy/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w2t4dy3dt3dy3dt20dy3t16dt8lb2~x2~t2102222-dt1102249/"><circle cx="309.9" cy="205.2" r="4" fill="#3465a4"><title>Sverker</title></circle></a><a href="/variants/s8/dt5db4dr1db14dt14dr1dt5lo3~x2/"><circle cx="422.4" cy="251.7" r="4" fill="#3465a4"><title>Edinburgh Monarchs</title></circle></a><a href="/variants/s8/dg8do2dg13db4dg12n22dg5ly3~x2/"><circle cx="379.6" cy="241.9" r="4" fill="#3465a4"><title>Scottish Pup</title></circle></a><a href="/variants/s9/dt5dp1dt4db4dt7db8w1db2y1~x4/"><circle cx="359.1" cy="261.1" r="4" fill="#3465a4"><title>Romantic Scotland (Madonna)</title></circle></a><a href="/variants/s9/dt25r14dt8dy14t5dt12o6dt8lb2~x2/"><circle cx="296.8" cy="203.3" r="4" fill="#3465a4"><title>Johnstons of Elgin Bicentennial (Com</title></circle></a><a href="/variants/s9/db16dr2db2dr2db2dr6dg13ly2dg3~x2/"><circle cx="328.1" cy="243.0" r="4" fill="#3465a4"><title>Dewar, Christian (Personal)</title></circle></a><a href="/variants/s10/db4dy7y3dy12g15dy5db20dy5g4dy2~x2/"><circle cx="275.5" cy="239.2" r="4" fill="#3465a4"><title>Tupper. Sir Charles.. Family Tartan</title></circle></a><a href="/variants/s19/lb4dr10db6dg10db6dr22g6dr4db22dr4db22dg36db22dr4db22dr4g6db10g3/"><circle cx="320.2" cy="196.9" r="4" fill="#3465a4"><title>Jorgensen of Taasinge (Personal)</title></circle></a><a href="/variants/s9/dg3y2dr10dg10db20dg12r3db10w2~x2/"><circle cx="230.0" cy="203.5" r="4" fill="#3465a4"><title>Patel (2013)</title></circle></a><a href="/variants/s7/r3dg10r3dg14db16dg3dy2~x2/"><circle cx="345.8" cy="248.5" r="4" fill="#3465a4"><title>Cameron of Locheil Htg (1952) (Clan)</title></circle></a><circle cx="323.0" cy="232.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

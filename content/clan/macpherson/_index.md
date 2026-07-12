@@ -1,6 +1,9 @@
 ---
 title: "Clan MacPherson"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 **Territory:** Badenoch (Cluny) · **1745 strength:** 300 men
 

@@ -1,6 +1,11 @@
 ---
 title: "Birrell (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Birrell"
+  url: "/tartans/b/bi/birrell/"
 ---
 This is the **Birrell (Fashion)** sett — one scale-free proportion (`dp34k2dp4k6dp4k20dp5k2dp2k2dp5k2dp8`), colour order pattern
 [BKBKBKBKKKBKKKBKB](/stripes/bkbkbkbkkkbkkkbkb/). It is recorded as a single **variant**, below.

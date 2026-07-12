@@ -1,6 +1,15 @@
 ---
 title: "Hannay Dress (Dance)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hannay"
+  url: "/clan/hannay/"
+- name: "Hannay"
+  url: "/families/hannay/"
+- name: "Hannay Dress"
+  url: "/tartans/h/ha/hannay-dress/"
 ---
 This is the **Hannay Dress (Dance)** sett — one scale-free proportion (`k9r4k2r4k2r29k9r4lg14y2`), colour order pattern
 [GYRKRKRKRK](/stripes/gyrkrkrkrk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w8k9y9r21y6k6w4k6y6r49k22w4/"><circle cx="191.3" cy="129.3" r="4" fill="#3465a4"><title>Normandy (Fashion)</title></circle></a><a href="/variants/s10/k10lb1k1r10lb1k1lb1r10g6r2~x2/"><circle cx="215.0" cy="149.9" r="4" fill="#3465a4"><title>Scoepaig fragment Artifact Tartan</title></circle></a><a href="/variants/s12/y4k2r7k15r3k3r3k7r28dg7r6dg2/"><circle cx="252.9" cy="124.8" r="4" fill="#3465a4"><title>Walker</title></circle></a><a href="/variants/s15/r5k1r2k2r16lb2r2k9r2g2r2g13r2k2r4~x2/"><circle cx="239.0" cy="113.0" r="4" fill="#3465a4"><title>Unidentified No 3 #2</title></circle></a><a href="/variants/s12/r2y1k2r13k2r2k2r2k12r2y1g2~x2/"><circle cx="241.3" cy="118.2" r="4" fill="#3465a4"><title>Hallingdal District Tartan</title></circle></a><a href="/variants/s10/g4r2k2r20lb1k7r2g10r3k2~x2/"><circle cx="250.6" cy="119.7" r="4" fill="#3465a4"><title>MacKillop (Scottish Tartan Society)</title></circle></a><a href="/variants/s10/g4r4k2r20lb1k7r2g10r3k2~x2/"><circle cx="257.9" cy="123.0" r="4" fill="#3465a4"><title>MacKillop Clan Tartan</title></circle></a><a href="/variants/s11/db6k3r2k3r31k6ly2k6ly13k2ly2~x2/"><circle cx="194.0" cy="111.9" r="4" fill="#3465a4"><title>Rourke-Frew (Name)</title></circle></a><a href="/variants/s8/r45k2r2k28w16r4k4lo2/"><circle cx="247.4" cy="107.9" r="4" fill="#3465a4"><title>Barbecue Plaid</title></circle></a><a href="/variants/s9/lb2k2r27g27k12lb12r27k2lb2~x2/"><circle cx="206.9" cy="154.6" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><circle cx="232.4" cy="128.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

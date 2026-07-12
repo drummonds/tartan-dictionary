@@ -1,6 +1,15 @@
 ---
 title: "Beck (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Beck"
+  url: "/clan/beck/"
+- name: "Beck"
+  url: "/families/beck/"
+- name: "Beck"
+  url: "/tartans/b/be/beck/"
 ---
 This is the **Beck (Personal)** sett — one scale-free proportion (`k4w2lb15r6lb25w2k4w2lb15w4k2w4k2w4k2`), colour order pattern
 [KWKWKWWWKWWRWWK](/stripes/kwkwkwwwkwwrwwk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/k2w2lb15r6y12r6lb25w2k4w2lb15w4k2w4k2w4k1~x2/"><circle cx="203.6" cy="86.8" r="4" fill="#3465a4"><title>Beck (Personal)</title></circle></a><a href="/variants/s15/k4lb2w15r6w25lb2k4lb2w15lb4k2lb4k2lb4k2~x2/"><circle cx="243.0" cy="122.0" r="4" fill="#3465a4"><title>Beck Dress (Personal)</title></circle></a><a href="/variants/s13/w4r2w11n2k2w1n1w1n4w2k1w1r1~x2/"><circle cx="265.7" cy="139.6" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/variants/s13/lb9r5lb51n13k13lb5n4lb5n23lb11k5lb5r5/"><circle cx="262.4" cy="139.1" r="4" fill="#3465a4"><title>Balmoral Gillies (Royal)</title></circle></a><a href="/variants/s13/lb9r5lb47n13k11lb5n5lb5n21lb11k5lb5r5/"><circle cx="252.4" cy="154.7" r="4" fill="#3465a4"><title>Balmoral (Old and Rare) Royal Tartan</title></circle></a><a href="/variants/s13/w2r1w8n2k2w1n1w1n4w2k1w1r1~x4/"><circle cx="218.7" cy="161.3" r="4" fill="#3465a4"><title>Balmoral (Ghillies white variation)</title></circle></a><a href="/variants/s13/lb5r3lb24n7k6lb3n3lb3n11lb6k3lb3r3~x2/"><circle cx="236.6" cy="166.5" r="4" fill="#3465a4"><title>Balmoral (Royal)</title></circle></a><a href="/variants/s13/w4r2w11y2k2w1y1w1y4w2k1w1r1~x2/"><circle cx="263.2" cy="137.6" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/variants/s12/lb98n12k16w5k5w5k5n28lb16k5lb16w6/"><circle cx="302.4" cy="104.1" r="4" fill="#3465a4"><title>Glen Moy Tartan</title></circle></a><a href="/variants/s14/r6w56db9w8k16w4k3w4k3w36r36k3r12w3~x2/"><circle cx="251.2" cy="103.1" r="4" fill="#3465a4"><title>Duke of Rothesay (Royal)</title></circle></a><circle cx="249.7" cy="123.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

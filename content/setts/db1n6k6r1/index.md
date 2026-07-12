@@ -1,6 +1,11 @@
 ---
 title: "Mayer, Chris (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Mayer, Chris"
+  url: "/tartans/m/ma/mayer-chris/"
 ---
 This is the **Mayer, Chris (Personal)** sett — one scale-free proportion (`db1n6k6r1`), colour order pattern
 [BBKR](/stripes/bbkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/dr5n32k31w5~x2/"><circle cx="196.4" cy="233.7" r="4" fill="#3465a4"><title>Loganair</title></circle></a><a href="/variants/s4/r5n32k31w5~x2/"><circle cx="193.1" cy="231.5" r="4" fill="#3465a4"><title>Loganair, Uniform Skirt</title></circle></a><a href="/variants/s4/r5n32k31w5/"><circle cx="193.1" cy="231.5" r="4" fill="#3465a4"><title>Loganair Uniform Skirt Corporate Tartan</title></circle></a><a href="/variants/s4/dr3n16k16lb3~x4/"><circle cx="184.1" cy="246.9" r="4" fill="#3465a4"><title>Thompson, Dress (Clan)</title></circle></a><a href="/variants/s4/n24r11k6db4~x4/"><circle cx="252.7" cy="243.1" r="4" fill="#3465a4"><title>Nebar (Corporate)</title></circle></a><a href="/variants/s4/k19db18w9r3~x4/"><circle cx="126.9" cy="248.4" r="4" fill="#3465a4"><title>Raven (Fashion)</title></circle></a><a href="/variants/s5/w3k25n9db17ly3~x2/"><circle cx="160.4" cy="200.8" r="4" fill="#3465a4"><title>Teylu Coleman (Name)</title></circle></a><a href="/variants/s4/r4k25y25w4~x2/"><circle cx="180.6" cy="228.2" r="4" fill="#3465a4"><title>Bonhill Primary School</title></circle></a><a href="/variants/s5/lr2r1t7k7lb1~x8~lr2800000-lb3501240/"><circle cx="136.1" cy="205.4" r="4" fill="#3465a4"><title>Bryson (1988) (Name)</title></circle></a><a href="/variants/s5/k14r4k25db30w4~x2/"><circle cx="226.6" cy="218.0" r="4" fill="#3465a4"><title>Britannia</title></circle></a><circle cx="196.8" cy="236.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

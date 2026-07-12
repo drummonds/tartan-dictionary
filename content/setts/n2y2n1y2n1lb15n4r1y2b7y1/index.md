@@ -1,6 +1,15 @@
 ---
 title: "Hutt Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hutt"
+  url: "/clan/hutt/"
+- name: "Hutt"
+  url: "/families/hutt/"
+- name: "Hutt"
+  url: "/tartans/h/hu/hutt-3/"
 ---
 This is the **Hutt Tartan** sett — one scale-free proportion (`n2y2n1y2n1lb15n4r1y2b7y1`), colour order pattern
 [BGBGBWBRGBG](/stripes/bgbgbwbrgbg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/n2y2n1y2n1lb15n4r1y2dg7y1~x4/"><circle cx="223.0" cy="148.3" r="4" fill="#3465a4"><title>Hutt #1 (Personal)</title></circle></a><a href="/variants/s9/o9w9o9n25o1w1o1w1g3~x2~o2500000-n1900000/"><circle cx="306.8" cy="160.3" r="4" fill="#3465a4"><title>Ailsa, Grey (Fashion)</title></circle></a><a href="/variants/s10/lb30t1lb1t16g5r5ly2t2dy15t1~x2~ly3307090-dy1603076/"><circle cx="243.1" cy="118.2" r="4" fill="#3465a4"><title>Lyon, Jeffrey M (Hunting) (Personal)</title></circle></a><a href="/variants/s16/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4~x2/"><circle cx="201.2" cy="125.3" r="4" fill="#3465a4"><title>Spirit of Romania</title></circle></a><a href="/variants/s20/dg7y2r1n4lb15n1y2n1y2n2y2n1y2n1lb15n4r1y2dg7y1~x4/"><circle cx="211.5" cy="125.0" r="4" fill="#3465a4"><title>Hutt #1 (Personal)</title></circle></a><a href="/variants/s10/lb38db18lb4lyi3g10ly3g4lb3ly17r4~x2~lyi3407090-ly2503076/"><circle cx="206.2" cy="155.3" r="4" fill="#3465a4"><title>State Seal of Delaware (Fashion)</title></circle></a><a href="/variants/s12/o4w2o2w3o20db6lb3db2lb2db2lb16r3~x2/"><circle cx="198.0" cy="155.0" r="4" fill="#3465a4"><title>Callum, Scotch House</title></circle></a><a href="/variants/s11/b16w3b2dy4g24r2g4r5g4r2lb8~x2/"><circle cx="200.3" cy="155.6" r="4" fill="#3465a4"><title>Currie of Arran (Clan/family)</title></circle></a><a href="/variants/s8/lb12g2lb2g2lb2o8b8o1~x2/"><circle cx="279.0" cy="218.8" r="4" fill="#3465a4"><title>Universal, Ancient</title></circle></a><a href="/variants/s11/b16w3b2dy4g24r2g4r5g4r2t8~x2/"><circle cx="216.1" cy="162.3" r="4" fill="#3465a4"><title>Currie of Arran</title></circle></a><circle cx="247.0" cy="156.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

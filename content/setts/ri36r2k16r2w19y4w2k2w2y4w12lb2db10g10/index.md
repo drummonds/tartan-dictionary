@@ -1,6 +1,15 @@
 ---
 title: "Dundee, dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Dundee"
+  url: "/clan/dundee/"
+- name: "Dundee"
+  url: "/families/dundee/"
+- name: "Dundee Dress"
+  url: "/tartans/d/du/dundee-dress/"
 ---
 This is the **Dundee, dress** sett — one scale-free proportion (`ri36r2k16r2w19y4w2k2w2y4w12lb2db10g10`), colour order pattern
 [GBWWGWKWGWRKRR](/stripes/gbwwgwkwgwrkrr/). It is recorded as **2 variants** — the same
@@ -23,6 +32,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/ri36r2k16r2w19y4w2k2w2y4w12lb2db10g10~x2~ri2008029-r1707016/"><circle cx="35.9" cy="59.0" r="4" fill="#3465a4"><title>Dundee, dress</title></circle></a><a href="/variants/s14/r36ri2k16ri2w19y4w2k2w2y4w12lb2db10g10~x2~r2109032-ri2806019/"><circle cx="36.0" cy="59.0" r="4" fill="#3465a4"><title>Dundee Dress</title></circle></a><a href="/variants/s14/r42b2k15b2g22y4w2dp2w2y4lb7w2dp6w6~x2/"><circle cx="88.5" cy="45.7" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/variants/s14/r30b2k6b2g17y7w2k2w2y4lb7w2k6w6~x2/"><circle cx="65.8" cy="84.1" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/variants/s14/r42ri2k15ri2g22dy4w2dp2w2dy4lb7w2dp6w6~x2~r2109032-ri2406019/"><circle cx="81.9" cy="40.9" r="4" fill="#3465a4"><title>Dundee (1819) (District)</title></circle></a><a href="/variants/s14/ri42r2k15r2g22y4w2dp2w2y4lb7w2dp6w6~x2~ri2209032-r2208029/"><circle cx="82.7" cy="40.8" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/variants/s14/r30ri2k6ri2g17y7w2k2w2y4lb7w2k6w6~x2~r2109032-ri2406019/"><circle cx="60.8" cy="79.9" r="4" fill="#3465a4"><title>Dundee District Tartan</title></circle></a><a href="/variants/s14/ri30r2k6r2g17y7w2k2w2y4lb7w2k6w6~x2~ri2209032-r2208029/"><circle cx="60.4" cy="79.2" r="4" fill="#3465a4"><title>Dundee #2</title></circle></a><a href="/variants/s13/dr3w34k2n4k2lo7k2lo7k2n4k2do34lb3~x2/"><circle cx="89.9" cy="65.6" r="4" fill="#3465a4"><title>Buchanan Dress (Fashion)</title></circle></a><a href="/variants/s20/r4g6r2g6r3db4r1k4y1k1y1k3w3k3lb18r1k2r1lb6r3~x2/"><circle cx="57.8" cy="66.3" r="4" fill="#3465a4"><title>Anderson Family Tartan</title></circle></a><circle cx="36.1" cy="58.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

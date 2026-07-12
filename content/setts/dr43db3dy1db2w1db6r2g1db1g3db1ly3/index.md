@@ -1,6 +1,11 @@
 ---
 title: "Langholm Millennium"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Langholm Millennium"
+  url: "/tartans/l/la/langholm-millennium/"
 ---
 This is the **Langholm Millennium** sett — one scale-free proportion (`dr43db3dy1db2w1db6r2g1db1g3db1ly3`), colour order pattern
 [BBGBWBRGBGBY](/stripes/bbgbwbrgbgby/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db5g9r3db18dr80y3dr40db18r3g9db5w2~x2/"><circle cx="409.4" cy="84.8" r="4" fill="#3465a4"><title>Roseline</title></circle></a><a href="/variants/s12/dr43k3dy1k2w1k6r2dg1k1dg3k1y3~x2~dy1603076-dg1104144/"><circle cx="384.9" cy="14.0" r="4" fill="#3465a4"><title>Langholm Millennium</title></circle></a><a href="/variants/s16/dr100b6k14ly2k3w3k4dg14dr6k3dr3w2dr3k3dr6dg14~x2/"><circle cx="391.3" cy="15.2" r="4" fill="#3465a4"><title>Wcwm 1438</title></circle></a><a href="/variants/s9/dy60db8o16db4lo8dy4r2db6w1~x2~o2007033-lo2905070/"><circle cx="391.6" cy="82.0" r="4" fill="#3465a4"><title>Wattenhofer (2016)</title></circle></a><a href="/variants/s12/dy63k4lb9y2db4y2db4dy11r8lb2r4w5~x2/"><circle cx="311.6" cy="34.6" r="4" fill="#3465a4"><title>Seller Sillar Family Tartan</title></circle></a><a href="/variants/s12/dr42db3dr6lo2dr2lb2dr2g14r8dr2r3lb2~x2/"><circle cx="354.7" cy="88.1" r="4" fill="#3465a4"><title>Wcwm 1286-9</title></circle></a><circle cx="404.0" cy="30.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

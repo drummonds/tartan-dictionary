@@ -1,6 +1,15 @@
 ---
 title: "Drummond #3"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Drummond"
+  url: "/clan/drummond/"
+- name: "Drummond"
+  url: "/families/drummond/"
+- name: "Drummond"
+  url: "/tartans/d/dr/drummond-10/"
 ---
 This is the **Drummond #3** sett — one scale-free proportion (`r4g1r1g18k1g1k1g8r28g1r1g4`), colour order pattern
 [GRGRGKGKGRGR](/stripes/grgrgkgkgrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r24g2r2g40r25g2r2g2r2g20~x2/"><circle cx="421.7" cy="183.4" r="4" fill="#3465a4"><title>Donachie</title></circle></a><a href="/variants/s8/r36g18r4g6k1lr2k1g2~x2/"><circle cx="321.8" cy="86.4" r="4" fill="#3465a4"><title>Strang (Personal)</title></circle></a><a href="/variants/s12/g4r3k1r28g14r4g4w3g4r4g4w3~x2~w4000000/"><circle cx="307.1" cy="106.6" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s11/g18r3g2r2db6r2g2r24g1r2g6~x2/"><circle cx="352.6" cy="148.4" r="4" fill="#3465a4"><title>MacDonell of Glengarry #4</title></circle></a><a href="/variants/s10/r4g4w3g4r4g14r28k1r3g4~x2/"><circle cx="350.3" cy="114.9" r="4" fill="#3465a4"><title>Scott - 1842 (Clan)</title></circle></a><a href="/variants/s14/r60db2r2g63r2db2r2db20r2db2r54g2r2g40/"><circle cx="356.6" cy="120.9" r="4" fill="#3465a4"><title>Bruce - 1819 (Old)</title></circle></a><a href="/variants/s14/r2w1g1r16g7r1w1g1w1r1g7w2r1g2~x2/"><circle cx="317.4" cy="142.4" r="4" fill="#3465a4"><title>Mordente (Personal)</title></circle></a><a href="/variants/s14/r2w1g1r16g7r1w1g1w1r1g7w2r1g2~x4/"><circle cx="317.4" cy="142.4" r="4" fill="#3465a4"><title>Mordente (Personal)</title></circle></a><a href="/variants/s8/k2r2k2r24g31k1g2y2~x2/"><circle cx="315.1" cy="107.4" r="4" fill="#3465a4"><title>Gleneil</title></circle></a><a href="/variants/s14/r1w1g1r16g7r1w1g1w1r1g7w2r1g1~x2/"><circle cx="318.4" cy="137.8" r="4" fill="#3465a4"><title>Mordente Family Tartan</title></circle></a><circle cx="361.5" cy="111.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Blaylock Hunting (Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Blaylock"
+  url: "/clan/blaylock/"
+- name: "Blaylock"
+  url: "/families/blaylock/"
+- name: "Blaylock Hunting"
+  url: "/tartans/b/bl/blaylock-hunting/"
 ---
 This is the **Blaylock Hunting (Name)** sett — one scale-free proportion (`dg4n2dg8do8y2n8y16k2do5n2y5ly2`), colour order pattern
 [GBGBGBGKBBGY](/stripes/gbgbgbgkbbgy/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dg4n2dg8do8o2do8o16k2do5n2o5y2~x2/"><circle cx="194.0" cy="189.6" r="4" fill="#3465a4"><title>Blaylock Hunting</title></circle></a><a href="/variants/s7/k2o15dy15dg15r2dg3ly2~x2~dy1603076-ly3307090/"><circle cx="176.9" cy="201.0" r="4" fill="#3465a4"><title>Crossbill</title></circle></a><a href="/variants/s11/dt2y10dg4o5dg2o3dg2o5dg4dt15lr2~x2~y2302166-dg1806142/"><circle cx="201.8" cy="224.3" r="4" fill="#3465a4"><title>Elwyn Glen (Scottish Borders)</title></circle></a><a href="/variants/s15/lg2y1g2dg8g8o9g3y2r1o1r1o1r1o1r1~x2/"><circle cx="175.8" cy="167.7" r="4" fill="#3465a4"><title>Dixon, Clyde (Personal)</title></circle></a><a href="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2/"><circle cx="169.2" cy="181.1" r="4" fill="#3465a4"><title>Allen - 2001 (Personal)</title></circle></a><a href="/variants/s10/n6db3k1o10n12g6k1g6n1db2~x4~o2500000/"><circle cx="219.4" cy="194.1" r="4" fill="#3465a4"><title>Berkshire #2</title></circle></a><a href="/variants/s11/ri6db3y3r26db20dg26o3dg4o3dg4o6~ri1707016-r1506028/"><circle cx="206.8" cy="184.2" r="4" fill="#3465a4"><title>Bonnie Brae</title></circle></a><a href="/variants/s13/dr2do1k1do10dr1do10k13n4k1n11dy9n2lr1~x2~n1700000-lr3000000/"><circle cx="183.7" cy="157.0" r="4" fill="#3465a4"><title>Bruma</title></circle></a><a href="/variants/s12/dy30g4w2g14dr13ly2dr13g14w2g4dy30k2~x2~dy1603076-ly3307090/"><circle cx="242.2" cy="144.6" r="4" fill="#3465a4"><title>Red Rum</title></circle></a><a href="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2~w4000000/"><circle cx="168.4" cy="180.8" r="4" fill="#3465a4"><title>Allen - Northumbrian (Personal)</title></circle></a><circle cx="172.9" cy="191.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

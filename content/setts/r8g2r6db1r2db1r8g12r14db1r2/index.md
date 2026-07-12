@@ -1,6 +1,15 @@
 ---
 title: "MacDonell of Keppoch Clan Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDonell"
+  url: "/clan/macdonell/"
+- name: "MacDonell of Keppoch"
+  url: "/families/macdonell-of-keppoch/"
+- name: "MacDonell of Keppoch"
+  url: "/tartans/m/ma/macdonell-of-keppoch/"
 ---
 This is the **MacDonell of Keppoch Clan Tartan** sett — one scale-free proportion (`r8g2r6db1r2db1r8g12r14db1r2`), colour order pattern
 [RBRGRBRBRGR](/stripes/rbrgrbrbrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r9g4r6k2r4k2r8g14r24k2r4~x2/"><circle cx="385.4" cy="161.3" r="4" fill="#3465a4"><title>MacDonell of Keppach</title></circle></a><a href="/variants/s12/r36dg4r13dg13r4dg4r4dg13r13dg4r36lo4~x2/"><circle cx="451.2" cy="188.7" r="4" fill="#3465a4"><title>Wolfe</title></circle></a><a href="/variants/s9/r5dp10r20g2r20g10r5g10r5~x2/"><circle cx="374.1" cy="225.5" r="4" fill="#3465a4"><title>Murray, Lord George (Plaid)</title></circle></a><a href="/variants/s7/dg4r4dg13r13dg4r36lo4~x2/"><circle cx="435.6" cy="205.0" r="4" fill="#3465a4"><title>Wolfe (Name)</title></circle></a><a href="/variants/s7/r58y3r6g16r12g16r6/"><circle cx="500.5" cy="180.2" r="4" fill="#3465a4"><title>Cameron Ancient</title></circle></a><a href="/variants/s12/r9g2r3g2r9g3r3db3r3g3r3db3~x2/"><circle cx="341.1" cy="243.9" r="4" fill="#3465a4"><title>Unidentified Early 18th Centuary #2</title></circle></a><a href="/variants/s9/g2r2db1r24db6r3g12r4db1~x2/"><circle cx="399.0" cy="148.7" r="4" fill="#3465a4"><title>MacDonald #7</title></circle></a><a href="/variants/s7/r6lb2r30g12r3g12r3~x2/"><circle cx="421.6" cy="196.4" r="4" fill="#3465a4"><title>Crawford</title></circle></a><a href="/variants/s7/r6w2r30g12r3g12r3~x2/"><circle cx="412.8" cy="193.6" r="4" fill="#3465a4"><title>Crawford (Clan)</title></circle></a><a href="/variants/s7/r6w2r30g12r3g12r3/"><circle cx="412.8" cy="193.6" r="4" fill="#3465a4"><title>Crawford</title></circle></a><circle cx="448.1" cy="181.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

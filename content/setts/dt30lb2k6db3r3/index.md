@@ -1,6 +1,13 @@
 ---
 title: "Edinburgh Crystal"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Edinburgh"
+  url: "/clan/edinburgh/"
+- name: "Edinburgh Crystal"
+  url: "/tartans/e/ed/edinburgh-crystal/"
 ---
 This is the **Edinburgh Crystal** sett — one scale-free proportion (`dt30lb2k6db3r3`), colour order pattern
 [BWKBR](/stripes/bwkbr/). It is recorded as **2 variants** — the same
@@ -23,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dt30lb2k6db3r3~x4~db1406275/"><circle cx="281.8" cy="130.8" r="4" fill="#3465a4"><title>Edinburgh Crystal Corporate Tartan</title></circle></a><a href="/variants/s5/dt30w2k6db3r3~x4/"><circle cx="376.9" cy="151.5" r="4" fill="#3465a4"><title>Edinburgh Crystal (Corporate)</title></circle></a><a href="/variants/s4/dg43k14b14r2~x2/"><circle cx="337.7" cy="191.9" r="4" fill="#3465a4"><title>St. Andrews International Golf Club</title></circle></a><a href="/variants/s5/db46k6g9dy9r4/"><circle cx="337.8" cy="177.1" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><a href="/variants/s6/db6k17y4dg51dy3g4~x2~dg1806142-g2203152/"><circle cx="303.2" cy="133.4" r="4" fill="#3465a4"><title>U.S. Army (Military)</title></circle></a><a href="/variants/s6/db12k17y4dg51ly3g4~x2~y2203076-ly3307090/"><circle cx="285.8" cy="141.2" r="4" fill="#3465a4"><title>US Army Regimental Tartan</title></circle></a><a href="/variants/s4/dr14k3dg3w1~x2/"><circle cx="395.3" cy="190.0" r="4" fill="#3465a4"><title>Bacon, Red (Fashion)</title></circle></a><a href="/variants/s5/r17db7y8dg58k6~x2/"><circle cx="319.0" cy="183.3" r="4" fill="#3465a4"><title>St Johns County's Sheriff's Office</title></circle></a><a href="/variants/s5/k2db36g12w3r2~x2/"><circle cx="347.2" cy="141.0" r="4" fill="#3465a4"><title>Cleland</title></circle></a><a href="/variants/s5/g27db14k2db2y2~x4/"><circle cx="332.6" cy="189.9" r="4" fill="#3465a4"><title>Irving of Bonshaw</title></circle></a><circle cx="395.0" cy="157.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

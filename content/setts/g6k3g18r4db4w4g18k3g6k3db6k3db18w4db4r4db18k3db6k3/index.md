@@ -1,6 +1,15 @@
 ---
 title: "Shaw of Carolina (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Shaw"
+  url: "/clan/shaw/"
+- name: "Shaw of Carolina"
+  url: "/families/shaw-of-carolina/"
+- name: "Shaw of Carolina"
+  url: "/tartans/s/sh/shaw-of-carolina/"
 ---
 This is the **Shaw of Carolina (Personal)** sett — one scale-free proportion (`g6k3g18r4db4w4g18k3g6k3db6k3db18w4db4r4db18k3db6k3`), colour order pattern
 [GKGRBWGKGKBKBWBRBKBK](/stripes/gkgrbwgkgkbkbwbrbkbk/). It is recorded as **2 variants** — the same
@@ -23,6 +32,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/g6k3g18r4db4w4g18k3g6k3db6k3db18w4db4r4db18k3db6k3~x2~r2109032-db1204274/"><circle cx="112.8" cy="156.5" r="4" fill="#3465a4"><title>Shaw of Carolina (Personal)</title></circle></a><a href="/variants/s15/t12k2t2k2t2k10g5r3w2r3g5k10t11k2t2~x2/"><circle cx="101.8" cy="169.7" r="4" fill="#3465a4"><title>Blanton (Dress)</title></circle></a><a href="/variants/s17/t6k1t1k1t1k7g6ly1k1db1k1ly1g6k7t7k1t1~x4~t2205244-db1106275/"><circle cx="109.1" cy="150.4" r="4" fill="#3465a4"><title>Polaris Military</title></circle></a><a href="/variants/s18/k3db3k3db18g20k3g3y3g3k3g20lb3db3lb3db3lb12db3lb3~x2/"><circle cx="123.4" cy="146.3" r="4" fill="#3465a4"><title>Johnston Dress (Clan?)</title></circle></a><a href="/variants/s20/y5g2y2g15k9db2k2db2k2db9g5db9k2db2k2db2k9g15k2w4~x2/"><circle cx="89.3" cy="147.3" r="4" fill="#3465a4"><title>Fyvie</title></circle></a><a href="/variants/s22/db16k16g2db2g2db2g16db2g2db2g2db16ly8k2db2k2ly8k16db16k2r5k2~x2/"><circle cx="108.9" cy="126.6" r="4" fill="#3465a4"><title>Lamquet (2015)</title></circle></a><a href="/variants/s21/g2r2g12k4db11r2db11k4db2k9db2k9db2k4db11y2db11k4g12r2g2~x2/"><circle cx="116.4" cy="165.6" r="4" fill="#3465a4"><title>Allen, Christopher Holler</title></circle></a><a href="/variants/s15/t12k2t2k2t2k12dg12w2r2w2dg12k12t12r3t2~x2/"><circle cx="82.3" cy="170.9" r="4" fill="#3465a4"><title>Morgan Mackenzie (Personal?)</title></circle></a><a href="/variants/s14/b4g1b1g6k1g6b1g1b4w1k4g1k4y2~x4/"><circle cx="102.7" cy="181.9" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/variants/s26/db12w11r2w11db12dg11k2dg3k2dg11k8db2r2db2w2db11w2db2r2db2k8dg11k2dg3k2dg11~x2/"><circle cx="50.1" cy="149.0" r="4" fill="#3465a4"><title>Scottish National Dress District Tartan</title></circle></a><circle cx="113.8" cy="156.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

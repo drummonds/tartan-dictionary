@@ -1,6 +1,13 @@
 ---
 title: "Wcwm 1475-2"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Wcwm"
+  url: "/clan/wcwm/"
+- name: "Wcwm 1475-2"
+  url: "/tartans/w/wc/wcwm-1475-2/"
 ---
 This is the **Wcwm 1475-2** sett — one scale-free proportion (`dr2db34k2lb2k2n30db3n6dr2`), colour order pattern
 [BBBBKWKBB](/stripes/bbbbkwkbb/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lo2n28k2w2k2t26n3t5lo2~x2/"><circle cx="294.8" cy="155.4" r="4" fill="#3465a4"><title>Clyde (WCWM Fashion)</title></circle></a><a href="/variants/s10/db6y3k2y5dbi30g2k4g2dbi6db4~x2~db1204274-dbi1406275/"><circle cx="323.5" cy="137.1" r="4" fill="#3465a4"><title>St. Andrews University (Corporate)</title></circle></a><a href="/variants/s9/k4db4k2db4k2db22dy27y2r3~x2/"><circle cx="279.1" cy="153.1" r="4" fill="#3465a4"><title>Falkirk (District)</title></circle></a><a href="/variants/s7/db50dg26k9dg4w2r2dg10~x2/"><circle cx="330.3" cy="146.9" r="4" fill="#3465a4"><title>Java St Andrew Society hunting</title></circle></a><a href="/variants/s8/r4dg4k2dg29db21k3db3y3~x2/"><circle cx="302.4" cy="161.7" r="4" fill="#3465a4"><title>Peter of Lee (Chief) (Personal)</title></circle></a><a href="/variants/s9/dg24lb4dg3db11dp8db37k3db2r4~x2/"><circle cx="304.9" cy="138.9" r="4" fill="#3465a4"><title>Stewmann (Personal)</title></circle></a><a href="/variants/s11/dbi19k4dbi4db1dbi1db1dbi1dg5b3k1b4~x6~dbi1003265-dg1304144/"><circle cx="347.8" cy="132.5" r="4" fill="#3465a4"><title>Spirit of Scotland</title></circle></a><a href="/variants/s10/dt4dp2dt22k2dt1db2dt1k2db24w2~x2/"><circle cx="343.9" cy="131.4" r="4" fill="#3465a4"><title>Spirit of Wales (Fashion)</title></circle></a><a href="/variants/s8/k4dr2lr2dr28db27dr2k2lo2~x2/"><circle cx="293.9" cy="142.7" r="4" fill="#3465a4"><title>Toronto Fire Services (Corporate)</title></circle></a><a href="/variants/s9/dg24lb4dg3db11dp8db37k3db2o4~x2/"><circle cx="310.8" cy="141.7" r="4" fill="#3465a4"><title>Stewmann (2009) (Personal)</title></circle></a><circle cx="315.2" cy="139.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

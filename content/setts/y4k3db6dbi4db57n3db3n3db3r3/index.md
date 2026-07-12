@@ -1,6 +1,11 @@
 ---
 title: "U.S. Law Enforcement"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "U.S. Law Enforcement"
+  url: "/tartans/u/u/u-s-law-enforcement/"
 ---
 This is the **U.S. Law Enforcement** sett — one scale-free proportion (`y4k3db6dbi4db57n3db3n3db3r3`), colour order pattern
 [GKBBBBBBBR](/stripes/gkbbbbbbbr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db73g16db10r8db10k4db10w2~x2/"><circle cx="481.1" cy="97.1" r="4" fill="#3465a4"><title>Scotch Whisky Heritage Centre</title></circle></a><a href="/variants/s8/db73g16db10r8db10k4db10w2/"><circle cx="481.1" cy="97.1" r="4" fill="#3465a4"><title>Scotch Whisky Heritage Corporate Tartan</title></circle></a><a href="/variants/s13/r2db42lr1db2n5db1lb1db2lri2n3ly1n1y2~x2~r1906028-lr2801060-n1800000-lri3002055-ly3203114-y2504115/"><circle cx="460.9" cy="22.7" r="4" fill="#3465a4"><title>Registers of Scotland, The (Corp)</title></circle></a><a href="/variants/s9/dbi7db5lr6db5r7db2dbi2db70lr2~dbi1406275-db1404245/"><circle cx="567.2" cy="113.4" r="4" fill="#3465a4"><title>United States Trade sett Tartan</title></circle></a><a href="/variants/s10/g8db13w1db40r5db40w1db13g8k4~x2/"><circle cx="487.7" cy="101.2" r="4" fill="#3465a4"><title>London Scottish Rugby Club Corporate Sport Tartan</title></circle></a><a href="/variants/s10/db51t4db7o2db2g2db2dg10db13w2~x2~db1406275/"><circle cx="549.6" cy="110.6" r="4" fill="#3465a4"><title>Visit Scotland</title></circle></a><a href="/variants/s10/db57y2db10dg4db4dg9r12db4r4lr2~x2/"><circle cx="452.1" cy="106.2" r="4" fill="#3465a4"><title>Unidentified #64</title></circle></a><a href="/variants/s10/db51t4db7o2db2g2db2dg10db13w2~x2/"><circle cx="533.9" cy="107.7" r="4" fill="#3465a4"><title>Visit Scotland Corporate)</title></circle></a><a href="/variants/s12/y4db55n4k4db2y2db2w5db3r2n2k2~x2/"><circle cx="396.8" cy="42.3" r="4" fill="#3465a4"><title>London '88</title></circle></a><a href="/variants/s11/db6k1y6k1db28w1k2w1db16w1r5~x2/"><circle cx="410.7" cy="84.1" r="4" fill="#3465a4"><title>Historic Caledonian Railway Enthusiasts', The</title></circle></a><circle cx="530.6" cy="96.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

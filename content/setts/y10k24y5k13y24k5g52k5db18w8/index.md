@@ -1,6 +1,11 @@
 ---
 title: "Leitrim County, Crest Range"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Leitrim County, Crest Range"
+  url: "/tartans/l/le/leitrim-county-crest-range/"
 ---
 This is the **Leitrim County, Crest Range** sett — one scale-free proportion (`y10k24y5k13y24k5g52k5db18w8`), colour order pattern
 [GKGKGKGKBW](/stripes/gkgkgkgkbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/t22k4t4k4t4k22g22r5g6k2y3~x2/"><circle cx="113.0" cy="152.6" r="4" fill="#3465a4"><title>Grant (Wilson's 1819 Key Pattern Book)</title></circle></a><a href="/variants/s9/r2g10k12n1ly2n14k1n1g2~x2/"><circle cx="147.3" cy="142.1" r="4" fill="#3465a4"><title>McWilliams Wedding (Personal)</title></circle></a><a href="/variants/s12/n12k3n14k12ly1k12n2g12k1r2k1g12~x2/"><circle cx="126.6" cy="148.5" r="4" fill="#3465a4"><title>Wells, Greg #2 (Personal)</title></circle></a><a href="/variants/s12/g2w1g1w1g8k4dg2k1dg1k1dg8r1~x4/"><circle cx="121.8" cy="156.0" r="4" fill="#3465a4"><title>Scotch House (Fashion)</title></circle></a><a href="/variants/s13/db4k1db2k1db6o2k4o2k8lb2g12o2g4~x2/"><circle cx="91.4" cy="148.8" r="4" fill="#3465a4"><title>MacKusick (Piper) #1 (Personal)</title></circle></a><a href="/variants/s9/r2g10k12n1k2n14k1n1g2~x2/"><circle cx="150.0" cy="142.6" r="4" fill="#3465a4"><title>MacWilliams Wedding Personal Tartan</title></circle></a><a href="/variants/s12/dy4w2dy2w3dy18k6g3k2g2k2g14lo3~x2/"><circle cx="132.7" cy="146.2" r="4" fill="#3465a4"><title>Dorcas Check Trade Tartan</title></circle></a><a href="/variants/s7/ly4k2t20k10g15k2r3~x2/"><circle cx="118.0" cy="178.9" r="4" fill="#3465a4"><title>MacLeod (Clan)</title></circle></a><a href="/variants/s14/t9k1t1k1t1k7g8k1y2k1g8k7t8r2~x4/"><circle cx="99.5" cy="159.0" r="4" fill="#3465a4"><title>MacLeod of Skye (Johnston)</title></circle></a><a href="/variants/s10/k3db9k2ly5db1ly5k2dg15k1r3~x2/"><circle cx="105.8" cy="138.4" r="4" fill="#3465a4"><title>New Zealand (2003)</title></circle></a><circle cx="92.7" cy="161.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Nicolson Dress (Clan)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Nicolson"
+  url: "/clan/nicolson/"
+- name: "Nicolson"
+  url: "/families/nicolson/"
+- name: "Nicolson Dress"
+  url: "/tartans/n/ni/nicolson-dress/"
 ---
 This is the **Nicolson Dress (Clan)** sett — one scale-free proportion (`r62db8w20k3g4`), colour order pattern
 [GKWBR](/stripes/gkwbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb5k1w11k1r42k1~x2/"><circle cx="422.7" cy="83.3" r="4" fill="#3465a4"><title>Davet (2014)</title></circle></a><a href="/variants/s6/r30g12k5w2lb6r30~x2/"><circle cx="370.2" cy="156.5" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s6/r30g12k5w2lb6r30/"><circle cx="370.2" cy="156.5" r="4" fill="#3465a4"><title>Sinclair Clan Tartan</title></circle></a><a href="/variants/s5/r50k25g10n5y2~x2/"><circle cx="269.0" cy="127.7" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><a href="/variants/s5/r50k25dg10n5ly2~x2/"><circle cx="272.2" cy="127.9" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><a href="/variants/s6/r28g16k4w1lb6r28~x2/"><circle cx="372.5" cy="138.9" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s6/r28g16k4w1lb6r28/"><circle cx="372.5" cy="138.9" r="4" fill="#3465a4"><title>Sinclair Dress</title></circle></a><a href="/variants/s6/r28g16k4w1db6r28~x2/"><circle cx="369.7" cy="137.8" r="4" fill="#3465a4"><title>Sinclair (Logan)</title></circle></a><a href="/variants/s6/r36t8w1k5g20r18~x4/"><circle cx="338.2" cy="133.2" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s5/r48k12n7k5w3~x2/"><circle cx="343.9" cy="142.5" r="4" fill="#3465a4"><title>Turner (Personal)</title></circle></a><circle cx="338.2" cy="123.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

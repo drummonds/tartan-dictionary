@@ -1,6 +1,11 @@
 ---
 title: "BC Corps of Commissionaires"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "BC Corps of Commissionaires"
+  url: "/tartans/b/bc/bc-corps-of-commissionaires/"
 ---
 This is the **BC Corps of Commissionaires** sett — one scale-free proportion (`db12lb1dr3lb1dr3lb1db6`), colour order pattern
 [BWBWBWB](/stripes/bwbwbwb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db12lb1r3lb1r3lb1db6~x4/"><circle cx="403.5" cy="201.3" r="4" fill="#3465a4"><title>BC Corps of Commissionaires, The</title></circle></a><a href="/variants/s6/db144dr9lb44db4lb4db4/"><circle cx="539.3" cy="162.3" r="4" fill="#3465a4"><title>United French Freemasons (Corporate</title></circle></a><a href="/variants/s6/db35lr8db21lr13db6ly4~x2/"><circle cx="437.6" cy="259.4" r="4" fill="#3465a4"><title>Ochterlonie</title></circle></a><a href="/variants/s5/db24t13db4t4w2~x2/"><circle cx="435.5" cy="262.9" r="4" fill="#3465a4"><title>Gallaecia - Galicia National</title></circle></a><a href="/variants/s7/db36lo5db8lb3db8lb10db3~x2/"><circle cx="491.6" cy="219.6" r="4" fill="#3465a4"><title>Scottish Qualifications Auth. (Corp)</title></circle></a><a href="/variants/s9/n1lb6db4lb1db16dt1db4dt6lb1~x4~dt1602194/"><circle cx="393.6" cy="198.2" r="4" fill="#3465a4"><title>Fujisankei Serene</title></circle></a><a href="/variants/s5/dr1db9ly2db9ly1~x4/"><circle cx="541.5" cy="258.5" r="4" fill="#3465a4"><title>Brooks Bros Tattersall Blue (Fashion</title></circle></a><a href="/variants/s4/db60y6db11r25~x2/"><circle cx="431.5" cy="216.5" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums (Corp</title></circle></a><a href="/variants/s5/db13lb3db1r3lb1~x6/"><circle cx="405.9" cy="200.5" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><a href="/variants/s6/db50do4db12do23ly4do4~x2/"><circle cx="524.1" cy="257.4" r="4" fill="#3465a4"><title>Sligo, County</title></circle></a><circle cx="468.4" cy="237.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

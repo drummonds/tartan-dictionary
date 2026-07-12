@@ -1,6 +1,11 @@
 ---
 title: "MDF (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "MDF"
+  url: "/tartans/m/md/mdf/"
 ---
 This is the **MDF (Personal)** sett — one scale-free proportion (`db37w2db2y2r17w2db2g17y2db2`), colour order pattern
 [BGGBWRGBWB](/stripes/bggbwrgbwb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w4dp40g2dp2g2dp2g2dp3g16db15m3~x2/"><circle cx="300.3" cy="117.5" r="4" fill="#3465a4"><title>Solway Spirit (District)</title></circle></a><a href="/variants/s8/db1lyi1db13ly3y3ly3r1ly1~x4~lyi2705081-ly2503076/"><circle cx="309.0" cy="162.4" r="4" fill="#3465a4"><title>Glen Moray</title></circle></a><a href="/variants/s13/w2r5db4g8db40r5w2r5db4g8db4r5w2~x2/"><circle cx="310.2" cy="118.9" r="4" fill="#3465a4"><title>Yamaue</title></circle></a><a href="/variants/s8/b36w4b4w4b16dg64r9b6~x2/"><circle cx="294.2" cy="169.5" r="4" fill="#3465a4"><title>Colvin</title></circle></a><a href="/variants/s8/db20m1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><circle cx="294.1" cy="142.5" r="4" fill="#3465a4"><title>Kruenaegel-Schropp Name Tartan</title></circle></a><a href="/variants/s10/dp4db20y1db2y1db4y4g4w4r4~x2/"><circle cx="256.9" cy="119.8" r="4" fill="#3465a4"><title>Yukon District Tartan</title></circle></a><a href="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-r1707033/"><circle cx="232.0" cy="139.6" r="4" fill="#3465a4"><title>Michigan State District Tartan</title></circle></a><a href="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-lo2804072/"><circle cx="238.9" cy="142.1" r="4" fill="#3465a4"><title>Michigan, State of (District)</title></circle></a><a href="/variants/s11/dg2db2lb23db2lb2db6lb2db2dg33r2lb2~x2/"><circle cx="264.9" cy="131.0" r="4" fill="#3465a4"><title>Maine, Original State of (Fashion)</title></circle></a><a href="/variants/s10/dp4db16y1db1y1db5y4g4w4r4~x2/"><circle cx="215.1" cy="138.9" r="4" fill="#3465a4"><title>Yukon #1906 District Tartan</title></circle></a><circle cx="269.7" cy="121.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

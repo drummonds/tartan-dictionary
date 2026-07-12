@@ -1,6 +1,15 @@
 ---
 title: "Stewart Grey Dress Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Stewart"
+  url: "/clan/stewart/"
+- name: "Stewart"
+  url: "/families/stewart/"
+- name: "Stewart Grey Dress"
+  url: "/tartans/s/st/stewart-grey-dress/"
 ---
 This is the **Stewart Grey Dress Tartan** sett — one scale-free proportion (`w30n5k6n2k2w2k13n5k2n2w2`), colour order pattern
 [WBKBKWKBKBW](/stripes/wbkbkwkbkbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k3r1k1w20k10r2k2w2k2r2~x4/"><circle cx="254.7" cy="116.7" r="4" fill="#3465a4"><title>Buckleigh Dress (Fashion)</title></circle></a><a href="/variants/s12/w4k1w2k3w23db5k3db1k1db1k19w2~x2/"><circle cx="258.0" cy="109.0" r="4" fill="#3465a4"><title>Menzies Black Dress Clan Tartan</title></circle></a><a href="/variants/s11/y3k2y2k2y2k28lb32y2lb3y2lb3~x2/"><circle cx="249.6" cy="117.3" r="4" fill="#3465a4"><title>General Choi</title></circle></a><a href="/variants/s13/k8w13db2w1db2w1db2w1db2w1db2w1db2~x2/"><circle cx="220.9" cy="139.1" r="4" fill="#3465a4"><title>Hanna Personal Tartan</title></circle></a><a href="/variants/s13/k16w25db4w2db4w2db4w2db4w2db4w2db4/"><circle cx="215.5" cy="142.2" r="4" fill="#3465a4"><title>Hanna</title></circle></a><a href="/variants/s8/lb40k3lb3k3lb3n8k24n8~x2/"><circle cx="250.7" cy="160.7" r="4" fill="#3465a4"><title>O'Sullivan-Beare (Family)</title></circle></a><a href="/variants/s10/k14w2k3w2b10w32b10k10w2k3~x2/"><circle cx="196.2" cy="146.3" r="4" fill="#3465a4"><title>Fraser, Arisaid</title></circle></a><a href="/variants/s10/k9w4k2w4k2w30k9w4db14y2~x2/"><circle cx="222.2" cy="135.0" r="4" fill="#3465a4"><title>Hannay Family Tartan</title></circle></a><a href="/variants/s10/k9w4k2w4k2w29k9w4db14y2~x2/"><circle cx="217.0" cy="137.8" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/variants/s12/lb16g1lb1g1lb1k12g1lb1g1lb1g6dp2~x4/"><circle cx="205.3" cy="112.9" r="4" fill="#3465a4"><title>Stephen-Mathieson (Name)</title></circle></a><circle cx="232.9" cy="132.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

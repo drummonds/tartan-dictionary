@@ -1,6 +1,15 @@
 ---
 title: "Strathtummel"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Strathtummel"
+  url: "/clan/strathtummel/"
+- name: "Strathtummel"
+  url: "/families/strathtummel/"
+- name: "Strathtummel"
+  url: "/tartans/s/st/strathtummel/"
 ---
 This is the **Strathtummel** sett — one scale-free proportion (`db37ki2db2ki3k13ki10w2ki10dg1ki2dg2ki2dg9ki13`), colour order pattern
 [BKBKKKWKGKGKGK](/stripes/bkbkkkwkgkgkgk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db37dp2db2dp3k13dp10w2dp10g1dp2g2dp2g9dp13~x2/"><circle cx="253.2" cy="92.0" r="4" fill="#3465a4"><title>Strathtummel (District?)</title></circle></a><a href="/variants/s18/db24k2dt1db2dt1k2dt22dp2dt4dp2dt22k2dt1db2dt1k2db24w2~x2~db1204274-dp1607327/"><circle cx="375.2" cy="124.5" r="4" fill="#3465a4"><title>Spirit of Wales</title></circle></a><a href="/variants/s15/k15ki4k4ki4k4ki16db16ki2g3ki2db16ki16k18ki1w2~x2~k0504259-ki0700000/"><circle cx="264.7" cy="168.1" r="4" fill="#3465a4"><title>McCruden, Raymond (Personal)</title></circle></a><a href="/variants/s11/k26db3k1o2k1db3k3db12dg14k2w2~x2~k0503265-db1003265/"><circle cx="312.0" cy="123.1" r="4" fill="#3465a4"><title>Royal Highland Yacht Club</title></circle></a><a href="/variants/s14/dbi2k1dbi4db5dp3db20k8dbi4k1dbi2k1dbi33ly1dbi1~x2~dbi1406275-db1204274/"><circle cx="422.6" cy="112.9" r="4" fill="#3465a4"><title>Payne (Name)</title></circle></a><circle cx="320.2" cy="113.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

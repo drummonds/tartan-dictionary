@@ -1,6 +1,15 @@
 ---
 title: "Laggen Dress (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Laggen"
+  url: "/clan/laggen/"
+- name: "Laggen"
+  url: "/families/laggen/"
+- name: "Laggen Dress"
+  url: "/tartans/l/la/laggen-dress/"
 ---
 This is the **Laggen Dress (Fashion)** sett — one scale-free proportion (`dg42k10y2k6dg10k11dg2`), colour order pattern
 [GKGKKKGKKKG](/stripes/gkgkkkgkkkg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dg42k10lr2k2r2k2dg10r6k2r3dg2~x2/"><circle cx="377.0" cy="102.2" r="4" fill="#3465a4"><title>Dryfe</title></circle></a><a href="/variants/s10/dg40dr5k2w2k2y3k2dg10dr3k3~x2/"><circle cx="421.1" cy="106.2" r="4" fill="#3465a4"><title>Palmer, Arnold</title></circle></a><a href="/variants/s16/dg18k6dg1k1db1k6db1k2db1k6db1k1dg1k6dg21y1~x2/"><circle cx="365.5" cy="117.3" r="4" fill="#3465a4"><title>Grand Lodge of Scotland Corporate Weavers Tartan</title></circle></a><a href="/variants/s10/dt36k3dg3g1dg3k3dt4dg6k1g2~x4~dg1605139-g2408144/"><circle cx="469.9" cy="113.9" r="4" fill="#3465a4"><title>Verdon</title></circle></a><a href="/variants/s10/dg40r5k2w2k2y3k2dg10r3k3~x2~dg1605139/"><circle cx="382.9" cy="93.3" r="4" fill="#3465a4"><title>Arnold Palmer Corporate Tartan</title></circle></a><a href="/variants/s10/dg68k2dg2k2dg2dy8r8k8dy2db7~x2/"><circle cx="450.3" cy="88.5" r="4" fill="#3465a4"><title>Moran Family Ubique</title></circle></a><a href="/variants/s9/r1db2dg1k3dg19db3y1db2y1~x4/"><circle cx="391.0" cy="127.1" r="4" fill="#3465a4"><title>Pagus Wasia</title></circle></a><a href="/variants/s6/k8r2k13dy2dg48db6~x2/"><circle cx="387.8" cy="140.4" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/variants/s8/dg47y2dg5y2dg4k15db19r2~x2/"><circle cx="366.7" cy="135.9" r="4" fill="#3465a4"><title>Unidentified, Toy Bear</title></circle></a><a href="/variants/s15/dg32do1lo1dg1k1o1k1o1k1do3dg2k1o4k1lo1~x4/"><circle cx="429.0" cy="49.2" r="4" fill="#3465a4"><title>Anderson Green</title></circle></a><circle cx="421.9" cy="119.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

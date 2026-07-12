@@ -1,6 +1,15 @@
 ---
 title: "Ogg of Tarragann"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ogg"
+  url: "/clan/ogg/"
+- name: "Ogg of Tarragann"
+  url: "/families/ogg-of-tarragann/"
+- name: "Ogg of Tarragann"
+  url: "/tartans/o/og/ogg-of-tarragann/"
 ---
 This is the **Ogg of Tarragann** sett — one scale-free proportion (`k2lb6w1r14k1r14w1k6dg10ly1dg2ly2`), colour order pattern
 [KWWRKRWKGYGY](/stripes/kwwrkrwkgygy/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k2lb6w1r14k1r14w1k6g10ly1g2ly2~x2/"><circle cx="157.2" cy="107.2" r="4" fill="#3465a4"><title>Ogg of Tarragann (Personal)</title></circle></a><a href="/variants/s13/w2k1t2lb1dg4r1dg4r3k3r12lb1r2k1~x4/"><circle cx="166.5" cy="104.6" r="4" fill="#3465a4"><title>Peacock (Personal)</title></circle></a><a href="/variants/s13/k1r14lb8k9y1k2w2k2g10r15k4r12w1~x2/"><circle cx="167.4" cy="107.7" r="4" fill="#3465a4"><title>Wilson's, No 1</title></circle></a><a href="/variants/s13/k2r14lb8k9y1k2w2k2g10r15k4r12w2~x2/"><circle cx="155.9" cy="111.6" r="4" fill="#3465a4"><title>Harden (Name)</title></circle></a><a href="/variants/s11/lb16k12y4k4w6k4dg32r50lb6r8k3/"><circle cx="137.2" cy="96.9" r="4" fill="#3465a4"><title>Maclean of Duart (Wilsons) (Clan)</title></circle></a><a href="/variants/s12/r14lb4k6y1k2w2k2g12r6k2r2w1~x2/"><circle cx="120.4" cy="109.5" r="4" fill="#3465a4"><title>Stewart Prince Charles Edward Clan Tartan</title></circle></a><a href="/variants/s14/r20w6r100db15k10db15k40y5g54r15k5r15k6w8/"><circle cx="177.6" cy="72.5" r="4" fill="#3465a4"><title>Unidentified Bedspread</title></circle></a><a href="/variants/s15/r44g25k2w6k2y3k16lb12r6lb12k16y3k2w6r44~x2/"><circle cx="168.2" cy="74.9" r="4" fill="#3465a4"><title>Wilson's, No 17</title></circle></a><a href="/variants/s14/k20r6k4r6dg15w2g5w2dg15r30k4r5lb2r6~x2/"><circle cx="145.0" cy="100.5" r="4" fill="#3465a4"><title>Drummond - 1739 Lord John (Artefact)</title></circle></a><a href="/variants/s11/r3db1r1db2r12lb1r1k4w1g6r1~x4/"><circle cx="213.8" cy="106.1" r="4" fill="#3465a4"><title>McLinden, Thomas (Personal)</title></circle></a><circle cx="162.4" cy="106.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

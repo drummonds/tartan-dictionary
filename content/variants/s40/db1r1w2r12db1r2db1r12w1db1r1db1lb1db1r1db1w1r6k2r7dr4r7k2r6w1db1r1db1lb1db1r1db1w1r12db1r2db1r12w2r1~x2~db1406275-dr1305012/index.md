@@ -69,7 +69,7 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s28/r15db1r1db1r1db1r1db1r3g3r1db1r4db1r1k2r3y1r3g2w1g2r1db1r3db1r6y1~x2/"><circle cx="326.1" cy="55.3" r="4" fill="#3465a4"><title>MacDonald of Staffa</title></circle></a><a href="/variants/s28/r15db1r1db1r1db1r1db1r3g4r1db1r3db1r1k2r3y1r3g2w1g2r1db1r3db1r6y1~x2/"><circle cx="313.7" cy="55.9" r="4" fill="#3465a4"><title>MacDonald of Staffa</title></circle></a><a href="/variants/s23/r20w1r20k2r20g8y1k4db1k1db4r1db4k1db1k4g8y1r20k2r20w1r20~x2/"><circle cx="361.3" cy="53.8" r="4" fill="#3465a4"><title>Cromdale</title></circle></a><circle cx="343.6" cy="45.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 

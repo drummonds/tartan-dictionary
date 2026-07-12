@@ -1,6 +1,15 @@
 ---
 title: "LLoyd of Astargus Canadian Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan LLoyd"
+  url: "/clan/lloyd/"
+- name: "LLoyd of Astargus"
+  url: "/families/lloyd-of-astargus/"
+- name: "Lloyd of Astargus"
+  url: "/tartans/l/ll/lloyd-of-astargus/"
 ---
 This is the **LLoyd of Astargus Canadian Family Tartan** sett — one scale-free proportion (`dr3db38k13w3n20dy2`), colour order pattern
 [BBKWBG](/stripes/bbkwbg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="230.0" cy="140.2" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s6/dg10w2k10dy10db35r6~x2/"><circle cx="220.8" cy="154.3" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s8/n18k3g3r2w3db36k2y6~x2/"><circle cx="220.8" cy="100.8" r="4" fill="#3465a4"><title>M'Kleod</title></circle></a><a href="/variants/s6/r2w6k12db36n12y1~x2/"><circle cx="247.7" cy="105.8" r="4" fill="#3465a4"><title>Alan Stone Family (Personal)</title></circle></a><a href="/variants/s6/dy3db40k35g5w2r3~x2/"><circle cx="234.4" cy="124.9" r="4" fill="#3465a4"><title>Italian National</title></circle></a><a href="/variants/s6/w12db48k13n22k3y6/"><circle cx="189.4" cy="160.8" r="4" fill="#3465a4"><title>Clunie (Personal)</title></circle></a><a href="/variants/s7/dbi49g3k22r2t33db3t7~x2~dbi1406275-db1106275/"><circle cx="205.7" cy="124.0" r="4" fill="#3465a4"><title>U.S. 2001 Air Force (Military?)</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="279.2" cy="129.2" r="4" fill="#3465a4"><title>Marion (Personal)</title></circle></a><a href="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/"><circle cx="251.3" cy="147.5" r="4" fill="#3465a4"><title>Shearer (2016)</title></circle></a><a href="/variants/s6/m1g2n10r1db15w1~x4/"><circle cx="296.9" cy="162.6" r="4" fill="#3465a4"><title>Oren Peterson</title></circle></a><circle cx="233.5" cy="142.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

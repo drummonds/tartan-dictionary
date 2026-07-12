@@ -1,6 +1,15 @@
 ---
 title: "MacDougall #11"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDougall of Lorn"
+  url: "/clan/macdougall/"
+- name: "MacDougall"
+  url: "/families/macdougall/"
+- name: "MacDougall 10"
+  url: "/tartans/m/ma/macdougall-10/"
 ---
 This is the **MacDougall #11** sett — one scale-free proportion (`r6dr3w3r4g33dr3w3r4w3dr3db9r33dr3w4r4`), colour order pattern
 [RBWRGBWRWBBRBWR](/stripes/rbwrgbwrwbbrbwr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/ri7b5r5ri31k9r4b3ri5b3r4g30ri4b3r5ri5~x2~ri2008029-r1506028/"><circle cx="184.2" cy="127.9" r="4" fill="#3465a4"><title>MacDougall 3</title></circle></a><a href="/variants/s14/w3r5g3dp3r14g36r3dp8g3r36g14b3r5w3~x2/"><circle cx="257.4" cy="138.2" r="4" fill="#3465a4"><title>MacKinnon 3</title></circle></a><a href="/variants/s12/dg6y5w1dg2w1dg5w1dg2w1r15dp2w1~x2/"><circle cx="191.7" cy="135.5" r="4" fill="#3465a4"><title>Dunblane</title></circle></a><a href="/variants/s12/dg6y5w1dg2w1dg5w1dg2w1r15dp2w1~x4/"><circle cx="191.7" cy="135.5" r="4" fill="#3465a4"><title>Dunblane (District)</title></circle></a><a href="/variants/s14/w3ri5r3g14ri36g3dp8ri3g36ri14dp3g3ri5w3~x2~ri2209032-r2208029/"><circle cx="256.3" cy="136.5" r="4" fill="#3465a4"><title>MacKinnon #11</title></circle></a><a href="/variants/s17/dp3o15n3o3r1o1r1o1r1o1r1o1r1o1r12w15dp3~x2/"><circle cx="191.4" cy="107.8" r="4" fill="#3465a4"><title>Purple Thistle</title></circle></a><a href="/variants/s14/y4dr23r4dr2r4lb19w4lb19r4dr2r4dr23y4dr2~x2~r2108022/"><circle cx="206.5" cy="145.4" r="4" fill="#3465a4"><title>Scottish Institute of Sport</title></circle></a><a href="/variants/s14/n3dg19r2dg2r2db10r17dg2r2dg2r3lb2r3lb3~x2/"><circle cx="208.5" cy="147.9" r="4" fill="#3465a4"><title>Manx Heritage</title></circle></a><a href="/variants/s14/dp2r3g2db2r6g16r2db4g2r16g8dp2r4w2~x2/"><circle cx="218.6" cy="166.1" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/variants/s14/w2r4lb2g8r16g2db4r2g16r6db2g2r3lb2~x2/"><circle cx="218.1" cy="166.9" r="4" fill="#3465a4"><title>MacKinnon #2</title></circle></a><circle cx="204.2" cy="122.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Boxing Scotland"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Boxing Scotland"
+  url: "/tartans/b/bo/boxing-scotland/"
 ---
 This is the **Boxing Scotland** sett — one scale-free proportion (`db26r2t16db23t16r2w2y1`), colour order pattern
 [BRBBBRWG](/stripes/brbbbrwg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db51t8w4t30r1t9~x2/"><circle cx="387.5" cy="154.8" r="4" fill="#3465a4"><title>Navy-Radar</title></circle></a><a href="/variants/s8/db22y2db1y2db10r2g11r6~x2/"><circle cx="346.9" cy="164.3" r="4" fill="#3465a4"><title>Katsushika Corporate Tartan</title></circle></a><a href="/variants/s8/lb8db10dbi69w6dbi6r8t19lb3~lb3300000-db0705267-dbi1404245-t2105244/"><circle cx="319.6" cy="120.7" r="4" fill="#3465a4"><title>Virginia International Tattoo Hixon</title></circle></a><a href="/variants/s6/db47g14do5o2r3g7~x2/"><circle cx="375.1" cy="147.7" r="4" fill="#3465a4"><title>Round Table of Britain and Ireland, RtbI.</title></circle></a><a href="/variants/s8/db6w2b2w3db24r1dbi35r2~x2~db0805267-dbi1604274/"><circle cx="322.8" cy="119.3" r="4" fill="#3465a4"><title>Raith Rovers F.C.</title></circle></a><a href="/variants/s7/db120g9r7y12g33y33db26/"><circle cx="373.5" cy="177.1" r="4" fill="#3465a4"><title>Supporter.com</title></circle></a><a href="/variants/s7/db2y1db18g7r7db1g1~x2/"><circle cx="339.6" cy="166.5" r="4" fill="#3465a4"><title>Unnamed C20th - USA</title></circle></a><a href="/variants/s10/db34ly6dg6r2w2r2dg10ly8db23w2~x2/"><circle cx="301.1" cy="136.7" r="4" fill="#3465a4"><title>International Pairs (Corporate)</title></circle></a><a href="/variants/s5/db25r1g1n9w4~x2/"><circle cx="366.5" cy="149.2" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><a href="/variants/s8/t16r4t4dy2db56r18lb1db7~x2~t2405244-lb3200000/"><circle cx="383.1" cy="102.7" r="4" fill="#3465a4"><title>Union Memorial Tartan</title></circle></a><circle cx="342.0" cy="156.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

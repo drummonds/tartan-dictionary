@@ -1,6 +1,13 @@
 ---
 title: "Longniddry Lavender (Dance)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Longniddry"
+  url: "/clan/longniddry/"
+- name: "Longniddry Lavender"
+  url: "/tartans/l/lo/longniddry-lavender/"
 ---
 This is the **Longniddry Lavender (Dance)** sett — one scale-free proportion (`db42r2lb2r2db5b12lb32db4`), colour order pattern
 [BRWRBBWB](/stripes/brwrbbwb/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db14r6db52lb4db4lb51y8/"><circle cx="288.5" cy="180.0" r="4" fill="#3465a4"><title>International Police Association (IPA 2010)</title></circle></a><a href="/variants/s7/db7r3db26lb2db2lb26y4~x2/"><circle cx="287.5" cy="179.9" r="4" fill="#3465a4"><title>Int. Police Association (Official)</title></circle></a><a href="/variants/s11/db6w2db2w2db4w6db28b4db4b45r4/"><circle cx="315.2" cy="133.2" r="4" fill="#3465a4"><title>Edinburgh, '86</title></circle></a><a href="/variants/s13/db4r3b23db16w5b3r2b3w5b11db2r1db4~x2/"><circle cx="283.2" cy="144.1" r="4" fill="#3465a4"><title>Illinois, St Andrews Society</title></circle></a><a href="/variants/s9/db12lb2db2t6db4lb3db4lb18r1~x4~db1406275-t2405244/"><circle cx="280.1" cy="175.5" r="4" fill="#3465a4"><title>Thorburn #1 (Name)</title></circle></a><a href="/variants/s9/r4t12db36w4db4t16w3db6t3~x2/"><circle cx="301.3" cy="180.4" r="4" fill="#3465a4"><title>Callaway (Name)</title></circle></a><a href="/variants/s11/db10w3db3w3db5w8db38lb8db8lb61r6/"><circle cx="273.1" cy="131.2" r="4" fill="#3465a4"><title>Caleys Windsor (Corporate)</title></circle></a><a href="/variants/s11/db3w1db1w1db2w3db15lb2db2lb22r2~x2/"><circle cx="277.0" cy="124.0" r="4" fill="#3465a4"><title>Commonwealth Games 1986 #2</title></circle></a><a href="/variants/s11/db3w1db1w1db2w3db15t2db2t22r2~x2/"><circle cx="299.6" cy="134.8" r="4" fill="#3465a4"><title>Commonwealth Games 1986 (Corp)</title></circle></a><a href="/variants/s6/lb28db15r2db2w1db6~x2/"><circle cx="334.6" cy="154.0" r="4" fill="#3465a4"><title>Corries</title></circle></a><circle cx="305.2" cy="151.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

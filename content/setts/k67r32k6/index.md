@@ -1,6 +1,13 @@
 ---
 title: "Lendrum or MacFarlane Clan Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Lendrum"
+  url: "/clan/lendrum/"
+- name: "Lendrum or MacFarlane"
+  url: "/tartans/l/le/lendrum-or-macfarlane/"
 ---
 This is the **Lendrum or MacFarlane Clan Tartan** sett — one scale-free proportion (`k67r32k6`), colour order pattern
 [KRKR](/stripes/krkr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/k30r17k3~x4/"><circle cx="289.5" cy="243.8" r="4" fill="#3465a4"><title>MacFarlane Red &amp; Black (Artefact)</title></circle></a><a href="/variants/s4/r28k4w2k13~x2/"><circle cx="287.4" cy="156.0" r="4" fill="#3465a4"><title>Dunbar Ancient</title></circle></a><a href="/variants/s4/k1r8k8y1~x6/"><circle cx="263.0" cy="218.1" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/variants/s4/k1r8k8y1~x4/"><circle cx="263.0" cy="218.1" r="4" fill="#3465a4"><title>Wallace (Clan)</title></circle></a><a href="/variants/s4/k1r8k8y1/"><circle cx="263.0" cy="218.1" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/variants/s4/k1r8k8y1~x2/"><circle cx="263.0" cy="218.1" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/variants/s4/k23r3k1r12~x4/"><circle cx="368.8" cy="149.1" r="4" fill="#3465a4"><title>Ewing</title></circle></a><a href="/variants/s4/g1r8k13ly1~x6/"><circle cx="281.0" cy="178.0" r="4" fill="#3465a4"><title>Billy Apple</title></circle></a><a href="/variants/s6/db1r12k6y1k6db1~x4/"><circle cx="227.4" cy="167.1" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/variants/s5/k2r4k7ri1k1~x2~r1506028-ri2008029/"><circle cx="355.9" cy="223.8" r="4" fill="#3465a4"><title>Romsdal, Tresfjord</title></circle></a><circle cx="306.1" cy="232.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Mowat"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Mowat"
+  url: "/clan/mowat/"
+- name: "Mowat"
+  url: "/families/mowat/"
+- name: "Mowat"
+  url: "/tartans/m/mo/mowat/"
 ---
 This is the **Mowat** sett — one scale-free proportion (`db26k1db2k18y2g16k16`), colour order pattern
 [BKBKGGK](/stripes/bkbkggk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db18k1db2k18y2g16k16/"><circle cx="224.6" cy="177.1" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/variants/s7/db18k1db2k18y2g16k16~x2/"><circle cx="224.6" cy="177.1" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/variants/s7/k2g10k9db9r1k1db2~x2/"><circle cx="155.9" cy="193.5" r="4" fill="#3465a4"><title>Reid and Taylor</title></circle></a><a href="/variants/s8/r3k2db25k28g25k2r1db2~x2/"><circle cx="199.7" cy="129.2" r="4" fill="#3465a4"><title>Common Kilt Tartan</title></circle></a><a href="/variants/s8/r2k4db23k14g16y1k4y2~x2/"><circle cx="163.6" cy="133.1" r="4" fill="#3465a4"><title>Thomas, baron of Craigie, Robert (Personal)</title></circle></a><a href="/variants/s8/n15k14t1y2t1k14n15k2~x4~n1802249-t2503227/"><circle cx="261.8" cy="173.3" r="4" fill="#3465a4"><title>South African Air Force</title></circle></a><a href="/variants/s8/db15k14lb1y2lb1k14db15k2~x4/"><circle cx="276.6" cy="177.4" r="4" fill="#3465a4"><title>South African Air Force (Military)</title></circle></a><a href="/variants/s7/db5k10db48k72w12dg48r5/"><circle cx="177.6" cy="161.3" r="4" fill="#3465a4"><title>Colquhoun (Clan)</title></circle></a><a href="/variants/s8/r7g3r2g33k31db31k3db3/"><circle cx="159.1" cy="157.7" r="4" fill="#3465a4"><title>Baird (Old) Clan Tartan</title></circle></a><a href="/variants/s7/r4k4db24k24g24k2r3~x2/"><circle cx="151.6" cy="179.8" r="4" fill="#3465a4"><title>Black Watch</title></circle></a><circle cx="227.8" cy="160.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

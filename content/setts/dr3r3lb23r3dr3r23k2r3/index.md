@@ -1,6 +1,15 @@
 ---
 title: "Hose #2"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hose"
+  url: "/clan/hose/"
+- name: "Hose"
+  url: "/families/hose/"
+- name: "Hose"
+  url: "/tartans/h/ho/hose-3/"
 ---
 This is the **Hose #2** sett — one scale-free proportion (`dr3r3lb23r3dr3r23k2r3`), colour order pattern
 [BRWRBRKR](/stripes/brwrbrkr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r3ri3w23ri3r3ri23k2ri3~x2~r2109013-ri2209032/"><circle cx="261.6" cy="144.1" r="4" fill="#3465a4"><title>Cameron Hose #2</title></circle></a><a href="/variants/s8/r3k2r23b3r3w23r3b3~x2/"><circle cx="256.8" cy="145.3" r="4" fill="#3465a4"><title>Cameron, Hose for E</title></circle></a><a href="/variants/s8/r35db2w2db2r4dr10w25r3~x2/"><circle cx="284.8" cy="140.0" r="4" fill="#3465a4"><title>Longniddry Dress, Red (Dance)</title></circle></a><a href="/variants/s7/k1r8g1r1w8r1k1~x6/"><circle cx="212.2" cy="162.2" r="4" fill="#3465a4"><title>Cameron Hose</title></circle></a><a href="/variants/s7/w5r2w34r34k2r2db4~x2/"><circle cx="271.0" cy="132.7" r="4" fill="#3465a4"><title>Cunningham Dress Clan Tartan</title></circle></a><a href="/variants/s7/w5r2w34r34k2r2y4~x2/"><circle cx="276.1" cy="134.1" r="4" fill="#3465a4"><title>Cunningham Dress Burgundy (Dance)</title></circle></a><a href="/variants/s9/r12w2o3w2r3k5r2o18w2~x2/"><circle cx="205.9" cy="163.9" r="4" fill="#3465a4"><title>Ballater</title></circle></a><a href="/variants/s7/r107k9r5dp41r5g51r14/"><circle cx="325.0" cy="138.8" r="4" fill="#3465a4"><title>Buccleuch</title></circle></a><a href="/variants/s7/r107k9r5db41r5g51r14/"><circle cx="312.3" cy="137.1" r="4" fill="#3465a4"><title>Buccleuch Family Tartan</title></circle></a><a href="/variants/s9/y27k4w4r64w4r4k4r4k12~x2/"><circle cx="295.8" cy="110.3" r="4" fill="#3465a4"><title>O'Meehan (Name)</title></circle></a><circle cx="281.7" cy="151.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

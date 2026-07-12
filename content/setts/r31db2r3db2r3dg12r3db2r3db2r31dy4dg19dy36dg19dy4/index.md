@@ -1,6 +1,11 @@
 ---
 title: "O'Brian #1 (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "O'Brian"
+  url: "/tartans/o/o/o-brian/"
 ---
 This is the **O'Brian #1 (Fashion)** sett — one scale-free proportion (`r31db2r3db2r3dg12r3db2r3db2r31dy4dg19dy36dg19dy4`), colour order pattern
 [GGGGGRBRBRGRBRBR](/stripes/gggggrbrbrgrbrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/ri6r3ri6db22ri7r2w1ri2db2ri2w1r2ri7dg22ri7dg2ri2r2~x2~ri2008029-r1707016/"><circle cx="237.1" cy="107.1" r="4" fill="#3465a4"><title>MacColl, hunting</title></circle></a><a href="/variants/s12/r3dg14r3ly1r3dp8r3ly1r3dg14r3ly1~x4~r2109032-dg1605139-dp1105325/"><circle cx="300.3" cy="172.2" r="4" fill="#3465a4"><title>Wilson's No.213</title></circle></a><a href="/variants/s11/r2dp3ri2r15dp2g20dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><circle cx="243.9" cy="180.9" r="4" fill="#3465a4"><title>Drumlithie</title></circle></a><a href="/variants/s17/r2dy2r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2/"><circle cx="223.7" cy="164.6" r="4" fill="#3465a4"><title>Mauthe Unidentified</title></circle></a><a href="/variants/s17/ri7r3ri6db26ri8r2ri2db2ri2g1r2ri8g26ri8g2ri2r2~x2~ri2209032-r1707016/"><circle cx="244.7" cy="109.7" r="4" fill="#3465a4"><title>MacColl Ancient</title></circle></a><a href="/variants/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><circle cx="244.1" cy="182.9" r="4" fill="#3465a4"><title>Drumlithie Rock and Wheel Tartan</title></circle></a><a href="/variants/s15/r12db3r4db4r36lb6r4db18r4dg2r4dg36r4db4r8~r2109032-db0906265-lb3203246-dg1405139/"><circle cx="289.0" cy="127.8" r="4" fill="#3465a4"><title>Drummond of Megginch - 1969 Carpet</title></circle></a><a href="/variants/s12/do12r1do2r1do2lb2do3o9r1o2r1o3~x4~o2500000/"><circle cx="251.3" cy="146.6" r="4" fill="#3465a4"><title>Shieldhall</title></circle></a><a href="/variants/s12/r7ri2db2r2g32r6db12r41g2r5ri2g5~x2~r1707016-ri2208029/"><circle cx="344.5" cy="134.1" r="4" fill="#3465a4"><title>MacDougall #5</title></circle></a><a href="/variants/s11/r2dp3ri2r15dp2dg20dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><circle cx="268.2" cy="186.7" r="4" fill="#3465a4"><title>Drumlithie - 1790 (Fashion)</title></circle></a><circle cx="284.6" cy="144.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

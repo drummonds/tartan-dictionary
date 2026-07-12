@@ -1,6 +1,11 @@
 ---
 title: "Moss"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Moss"
+  url: "/tartans/m/mo/moss/"
 ---
 This is the **Moss** sett — one scale-free proportion (`g4k2g28r4g4k18g4lp4g4lp7k1w3`), colour order pattern
 [GKGRGKGWGWKW](/stripes/gkgrgkgwgwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lr1lb3k2g5dp4g1k14lb1k4g25lb2lr1~x2/"><circle cx="223.3" cy="86.5" r="4" fill="#3465a4"><title>Walker, Gauvin (Personal)</title></circle></a><a href="/variants/s9/w4g30k1g1k1g3k12db10r3/"><circle cx="240.2" cy="95.8" r="4" fill="#3465a4"><title>MacDonnald of ye Ylis</title></circle></a><a href="/variants/s9/w4g30k1g1k1g3k12db10r3~x2/"><circle cx="240.2" cy="95.8" r="4" fill="#3465a4"><title>MacDonald of The Isles</title></circle></a><a href="/variants/s13/g25w1k23b7y2b2y2b7k23w1g39b4g14~x2/"><circle cx="245.4" cy="89.9" r="4" fill="#3465a4"><title>Duffy</title></circle></a><a href="/variants/s11/k3g3y2g30k2g3r12g6lp6k3g3~x2/"><circle cx="287.8" cy="119.0" r="4" fill="#3465a4"><title>McAlifyfe (Personal)</title></circle></a><a href="/variants/s13/g44r4g2r2g2r4g12k12r2db10r4db4ly3~x2/"><circle cx="269.4" cy="87.9" r="4" fill="#3465a4"><title>Cochrane of Dundonald</title></circle></a><a href="/variants/s10/g2k1g14r2g2k10g2r4k1w2~x4/"><circle cx="214.7" cy="139.9" r="4" fill="#3465a4"><title>MacCarthy (Fashion?)</title></circle></a><a href="/variants/s15/g34r4g3r2g4r2g3r4g17k17r2db17r4db4ly3~x2/"><circle cx="206.9" cy="105.5" r="4" fill="#3465a4"><title>Cochrane</title></circle></a><a href="/variants/s15/g34r4g4r2g4r2g3r4g17k17r2db17r4db4y3~x2/"><circle cx="211.6" cy="107.3" r="4" fill="#3465a4"><title>Cochrane (1984) Clan Tartan</title></circle></a><a href="/variants/s10/w2g4k6r2k2r2k3r2g20w1~x2/"><circle cx="253.6" cy="115.1" r="4" fill="#3465a4"><title>Keirnan Irish Family Tartan</title></circle></a><circle cx="228.9" cy="93.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

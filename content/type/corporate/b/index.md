@@ -86,8 +86,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s9/db3w2g14r14k2db7k9dy2k2~x2/"><img src="/variants/s9/db3w2g14r14k2db7k9dy2k2~x2/sett.png" alt="Black Hills" width="140"><br>Black Hills</a></li>
 <li><a class="tartan" href="/variants/s6/k53n22k10n10k2n4~x2/"><img src="/variants/s6/k53n22k10n10k2n4~x2/sett.png" alt="Black Isle" width="140"><br>Black Isle</a></li>
 <li><a class="tartan" href="/variants/s14/r20dp3k8dp3db2dp24r2dp3r2dp24k15dp1n3dp2~x2/"><img src="/variants/s14/r20dp3k8dp3db2dp24r2dp3r2dp24k15dp1n3dp2~x2/sett.png" alt="Black Rose" width="140"><br>Black Rose</a></li>
-<li><a class="tartan" href="/variants/s13/db21k2db2k2db2k16dg16k2dg16k16db16k2r1~x2/"><img src="/variants/s13/db21k2db2k2db2k16dg16k2dg16k16db16k2r1~x2/sett.png" alt="Black Watch/Isetan Men's" width="140"><br>Black Watch/Isetan Men's</a></li>
 <li><a class="tartan" href="/variants/s13/db16k2db2k2db2k12dg13k2dg13k12db12k2r1~x2/"><img src="/variants/s13/db16k2db2k2db2k12dg13k2dg13k12db12k2r1~x2/sett.png" alt="Black Watch/Isetan Men's" width="140"><br>Black Watch/Isetan Men's</a></li>
+<li><a class="tartan" href="/variants/s13/db21k2db2k2db2k16dg16k2dg16k16db16k2r1~x2/"><img src="/variants/s13/db21k2db2k2db2k16dg16k2dg16k16db16k2r1~x2/sett.png" alt="Black Watch/Isetan Men's" width="140"><br>Black Watch/Isetan Men's</a></li>
 <li><a class="tartan" href="/variants/s7/k4dt4dy1dt4dr4db4lr1~x8/"><img src="/variants/s7/k4dt4dy1dt4dr4db4lr1~x8/sett.png" alt="Blackdown Hills" width="140"><br>Blackdown Hills</a></li>
 <li><a class="tartan" href="/variants/s7/w8r4k8ki20db6ki3db5~x2~k0700000-ki0803152/"><img src="/variants/s7/w8r4k8ki20db6ki3db5~x2~k0700000-ki0803152/sett.png" alt="BlackRock (Asymmetrical)" width="140"><br>BlackRock (Asymmetrical)</a></li>
 <li><a class="tartan" href="/variants/s8/k10dg3k6dg20ki8dr4w4dg10~x2~k0504259-ki0700000/"><img src="/variants/s8/k10dg3k6dg20ki8dr4w4dg10~x2~k0504259-ki0700000/sett.png" alt="BlackRock (Symmetrical)" width="140"><br>BlackRock (Symmetrical)</a></li>
@@ -138,8 +138,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s12/r68n5k9y3k3lb3k3dg20r9k3r5lb4/"><img src="/variants/s12/r68n5k9y3k3lb3k3dg20r9k3r5lb4/sett.png" alt="British Caledonian Airways #4" width="140"><br>British Caledonian Airways #4</a></li>
 <li><a class="tartan" href="/variants/s6/db52k12dp18dy1dp1dy4~x2/"><img src="/variants/s6/db52k12dp18dy1dp1dy4~x2/sett.png" alt="British Energy" width="140"><br>British Energy</a></li>
 <li><a class="tartan" href="/variants/s6/r12db2r12db17w2r2~x2~r1807033/"><img src="/variants/s6/r12db2r12db17w2r2~x2~r1807033/sett.png" alt="British European" width="140"><br>British European</a></li>
-<li><a class="tartan" href="/variants/s5/r2g17r8db8y2~x4/"><img src="/variants/s5/r2g17r8db8y2~x4/sett.png" alt="British Hills" width="140"><br>British Hills</a></li>
 <li><a class="tartan" href="/variants/s5/ly2db8r8g17r1~x4/"><img src="/variants/s5/ly2db8r8g17r1~x4/sett.png" alt="British Hills" width="140"><br>British Hills</a></li>
+<li><a class="tartan" href="/variants/s5/r2g17r8db8y2~x4/"><img src="/variants/s5/r2g17r8db8y2~x4/sett.png" alt="British Hills" width="140"><br>British Hills</a></li>
 <li><a class="tartan" href="/variants/s6/dr28r1db18y2g6db18~x2/"><img src="/variants/s6/dr28r1db18y2g6db18~x2/sett.png" alt="British Judo Association" width="140"><br>British Judo Association</a></li>
 <li><a class="tartan" href="/variants/s26/db28w1db2w1db3w1db2w2db2w2db25k10w1k2lb2k20r1k2lr3k2r1k20lb2k1w1k10~x2~lb3203246-lr2800000/"><img src="/variants/s26/db28w1db2w1db3w1db2w2db2w2db25k10w1k2lb2k20r1k2lr3k2r1k20lb2k1w1k10~x2~lb3203246-lr2800000/sett.png" alt="Britten-Norman" width="140"><br>Britten-Norman</a></li>
 <li><a class="tartan" href="/variants/s7/dy3k2dy32dr3dy3k5w3~x2/"><img src="/variants/s7/dy3k2dy32dr3dy3k5w3~x2/sett.png" alt="Bro-Dreger" width="140"><br>Bro-Dreger</a></li>

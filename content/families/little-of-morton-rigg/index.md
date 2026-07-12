@@ -1,6 +1,11 @@
 ---
 title: "Little of Morton Rigg"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Little"
+  url: "/clan/little/"
 ---
 A family of [Clan Little](/clan/little/).
 

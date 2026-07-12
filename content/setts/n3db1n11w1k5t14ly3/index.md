@@ -1,6 +1,13 @@
 ---
 title: "Glen Lyon (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Glen"
+  url: "/clan/glen/"
+- name: "Glen Lyon"
+  url: "/tartans/g/gl/glen-lyon-2/"
 ---
 This is the **Glen Lyon (Fashion)** sett — one scale-free proportion (`n3db1n11w1k5t14ly3`), colour order pattern
 [BBBWKBY](/stripes/bbbwkby/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r3g20k2n11k2db20lr2~x2/"><circle cx="133.8" cy="169.7" r="4" fill="#3465a4"><title>Grandfather Mountain Games American Corporate Tartan</title></circle></a><a href="/variants/s7/db20r2g9w6y4k2g8~x2/"><circle cx="123.6" cy="170.5" r="4" fill="#3465a4"><title>Crofters (Personal)</title></circle></a><a href="/variants/s7/r6b2g20k3db8dg2b4~x2/"><circle cx="163.1" cy="165.1" r="4" fill="#3465a4"><title>Royal British Legion, The</title></circle></a><a href="/variants/s9/r2k1y2g3y4g3db12k1w2~x4/"><circle cx="130.4" cy="137.9" r="4" fill="#3465a4"><title>Federated Women's Institutes of</title></circle></a><a href="/variants/s7/g27dr2g4r15db26k2db6~x2/"><circle cx="195.4" cy="172.1" r="4" fill="#3465a4"><title>Bailies of Bennachie (Corporate)</title></circle></a><a href="/variants/s8/k16w6k4b64m19k8g42y6/"><circle cx="135.0" cy="128.5" r="4" fill="#3465a4"><title>Unidentified (Woven sample)</title></circle></a><a href="/variants/s7/r3w2y7n25k8y15dg2~x2~y2400000-n1700000/"><circle cx="184.1" cy="160.1" r="4" fill="#3465a4"><title>Allman-Jones (Personal)</title></circle></a><a href="/variants/s7/lo4dr2t32k10dp4lb21dp2~x2/"><circle cx="167.7" cy="136.8" r="4" fill="#3465a4"><title>Dignan School of Dancing</title></circle></a><a href="/variants/s6/k1y1db8g10lb7w1~x2/"><circle cx="118.7" cy="179.3" r="4" fill="#3465a4"><title>Porteous Family Tartan</title></circle></a><a href="/variants/s7/r3w2o7n25k8o15dg2~x2~o2500000-n1900000/"><circle cx="177.8" cy="157.2" r="4" fill="#3465a4"><title>Allman-Jones (Personal)</title></circle></a><circle cx="163.3" cy="162.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

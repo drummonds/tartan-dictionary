@@ -1,6 +1,13 @@
 ---
 title: "Australian Federal Police"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Australian"
+  url: "/clan/australian/"
+- name: "Australian Federal Police"
+  url: "/tartans/a/au/australian-federal-police/"
 ---
 This is the **Australian Federal Police** sett — one scale-free proportion (`k94db20g34w3g4w3g3ly5g5k5db7w5db5r5db12`), colour order pattern
 [BRBWBKGYGWGWGBK](/stripes/brbwbkgygwgwgbk/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/w2k32lr5dt3lr2dt3lr2dt3lr1dt6y3k2y1k3y2k2w1~x2~lr3000000-dt1100000/"><circle cx="208.2" cy="27.0" r="4" fill="#3465a4"><title>Cornish Pascoe, The</title></circle></a><a href="/variants/s17/w2k32o5n3o2n3o2n3o1n6y3k2y1ly3y2k2w1~x2~o2500000-n1900000/"><circle cx="204.5" cy="25.7" r="4" fill="#3465a4"><title>Cornish Pascoe (Name)</title></circle></a><a href="/variants/s13/t3k3w1dr3k8t2dg36t2k8w1k3t3y2~x2/"><circle cx="252.7" cy="54.5" r="4" fill="#3465a4"><title>U.S. Special Forces (Military)</title></circle></a><a href="/variants/s12/k4n6k4o4n29o6k64db10k4db6lb4w2~n1900000-o2500000/"><circle cx="246.2" cy="51.2" r="4" fill="#3465a4"><title>Earthrise</title></circle></a><a href="/variants/s15/k56dt3lb6dt3w3dt3db6dt26t6dt3w3dt3db3dt3lb6~dt1102249-db1605267-t2003208/"><circle cx="180.5" cy="65.0" r="4" fill="#3465a4"><title>AIS Group</title></circle></a><a href="/variants/s10/oi4w1k35n1db2o4w1db14o8w1~x2~oi2500000-n1900000/"><circle cx="231.2" cy="58.4" r="4" fill="#3465a4"><title>Voluntary Service Aberdeen</title></circle></a><a href="/variants/s15/k23db1g1r3db2r1db12y1k1w1k6db4g2k2g3~x2/"><circle cx="228.0" cy="61.4" r="4" fill="#3465a4"><title>Astrobiology</title></circle></a><a href="/variants/s11/lb11k2lb2k2dy2k11dg30r2dg3k1w5~x2/"><circle cx="188.7" cy="68.3" r="4" fill="#3465a4"><title>Labrador</title></circle></a><a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2/"><circle cx="254.6" cy="39.5" r="4" fill="#3465a4"><title>Hudson's Bay (Corporate)</title></circle></a><a href="/variants/s17/k3db2g2db26t1db1t1db1t1db1t3lg2k10db3g14k3r3~x2/"><circle cx="184.2" cy="56.0" r="4" fill="#3465a4"><title>St. Lawrence</title></circle></a><circle cx="203.7" cy="37.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

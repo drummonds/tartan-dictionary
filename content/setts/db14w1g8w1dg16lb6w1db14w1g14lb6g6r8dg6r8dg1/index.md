@@ -1,6 +1,15 @@
 ---
 title: "Gordon #3"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Gordon (Duke of Gordon)"
+  url: "/clan/gordon/"
+- name: "Gordon"
+  url: "/families/gordon/"
+- name: "Gordon 1"
+  url: "/tartans/g/go/gordon-1/"
 ---
 This is the **Gordon #3** sett — one scale-free proportion (`db14w1g8w1dg16lb6w1db14w1g14lb6g6r8dg6r8dg1`), colour order pattern
 [BWGWGWWBWGWGRGRG](/stripes/bwgwgwwbwgwgrgrg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/db13r2db9r4y1r4y2r5dy3w5dy6w2g7r2g13r7~x2/"><circle cx="83.4" cy="152.5" r="4" fill="#3465a4"><title>Riley-Utter Union (Personal)</title></circle></a><a href="/variants/s16/w2n1lr12o2lr2o2lr2o2lr2dp10o1dp10g12n2g4lr2~x2~n1900000-lr3000000-o2404317-dp1105325/"><circle cx="121.3" cy="140.1" r="4" fill="#3465a4"><title>Cribb (2016)</title></circle></a><a href="/variants/s11/r6g22dg8g4dg12g2dg18db8lb12db35ly4/"><circle cx="146.1" cy="157.1" r="4" fill="#3465a4"><title>Bruntsfield Links Golfing Society</title></circle></a><a href="/variants/s14/db11r1db2r3db1do8g11w1g11do8db8y1r1y1~x2/"><circle cx="150.8" cy="160.9" r="4" fill="#3465a4"><title>Allen Northumbrian Family Tartan</title></circle></a><a href="/variants/s9/r5db1r5g13db8lb5r5w1db3~x2/"><circle cx="127.2" cy="166.9" r="4" fill="#3465a4"><title>Norwich No.056</title></circle></a><a href="/variants/s16/db12r3db9r4y1r4y2r5dy3w5dy6w2dg7r2dg13r7~x2/"><circle cx="90.4" cy="155.0" r="4" fill="#3465a4"><title>Riley-Utter Union (Personal)</title></circle></a><a href="/variants/s19/g2dg2db5dg4db10t15dg10r12dg6g4dg6r12dg10t18lb2db2t18db1g2/"><circle cx="164.0" cy="144.2" r="4" fill="#3465a4"><title>Watkins Welsh Name Tartan</title></circle></a><a href="/variants/s9/r26lb7dp8y3r3w3g20dp10w2~x2/"><circle cx="107.9" cy="139.5" r="4" fill="#3465a4"><title>Wilson's No.227</title></circle></a><a href="/variants/s13/r4g1w5g1r2g1w5db4t20db8y2db8y4~x2/"><circle cx="130.6" cy="123.0" r="4" fill="#3465a4"><title>Pille Family (Belgium) (Personal)</title></circle></a><a href="/variants/s14/db2lb2db3lb8g4db4g3db8r12g7r3g2k1w1~x2/"><circle cx="72.1" cy="142.9" r="4" fill="#3465a4"><title>Jones-MacGregor</title></circle></a><circle cx="79.5" cy="145.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Lumsden of Clova (Clan?)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Lumsden"
+  url: "/clan/lumsden/"
+- name: "Lumsden of Clova"
+  url: "/families/lumsden-of-clova/"
+- name: "Lumsden of Clova"
+  url: "/tartans/l/lu/lumsden-of-clova/"
 ---
 This is the **Lumsden of Clova (Clan?)** sett — one scale-free proportion (`dg9r2dg9r9dg2r4dg2r9w1r4dp11r2dp11r4w1r9dp1r1dp2r1dp1r9dp9r2dp9`), colour order pattern
 [BRBRBRBRBRWRBRBRWRGRGRGRG](/stripes/brbrbrbrbrwrbrbrwrgrgrgrg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s25/dp9r2dp9r9dp1r1dp2r1dp1r9w1r4dp11r2dp11r4w1r9g2r4g2r9g9r2g9~x2/"><circle cx="238.2" cy="157.0" r="4" fill="#3465a4"><title>Lumsden of Clova</title></circle></a><a href="/variants/s11/db25dbi2r25g10r4db25r2g2r25g2r2~x2~db1204274-dbi1406275/"><circle cx="287.5" cy="142.9" r="4" fill="#3465a4"><title>Hebrides #2</title></circle></a><a href="/variants/s20/dg20r3dg20r20db3r3db6r3db3r20db3r3db6r3db3r20w3r4db20r4/"><circle cx="236.6" cy="170.2" r="4" fill="#3465a4"><title>MacRae Red Clan Tartan</title></circle></a><a href="/variants/s18/db3n1db2r14n2r1n2db10r10db10w2r2w2r14n6r10db10w2~x2/"><circle cx="259.7" cy="153.6" r="4" fill="#3465a4"><title>Ensemble Pour L'Avenir</title></circle></a><a href="/variants/s31/g23r6g23r26g4r9g4r26w3r8dp31r6dp31r8w3r26dp2r2dp4r2dp2r26dp2r2dp4r2dp2r26g23r6g23~x2/"><circle cx="266.5" cy="123.6" r="4" fill="#3465a4"><title>Ross #3</title></circle></a><a href="/variants/s31/db9r2db9r9g1r1g2r1g1r9g1r1g2r1g1r9w1r4db11r2db11r4w1r9g2r4g2r9g9r2g9~x2/"><circle cx="228.8" cy="139.7" r="4" fill="#3465a4"><title>Lumsden, of Clova</title></circle></a><a href="/variants/s33/dg32r7dg32r33dg4r12dg4r33w3r12dy3dp33r7dp33dy3r12w3r33dp2r2dp5r2dp2r33dp2r2dp5r2dp2r33dg32r6dg23/"><circle cx="268.9" cy="101.6" r="4" fill="#3465a4"><title>Huntly (District)</title></circle></a><a href="/variants/s21/db4r1db1r2db11r2db1r1y1r1db1r16db8r4g4r16g11r8db4r2y2~x2/"><circle cx="289.9" cy="127.7" r="4" fill="#3465a4"><title>MacLeod Red</title></circle></a><a href="/variants/s21/k4r5dp6r8g12r13g2r2dp12r20dp2r2dp4r2dp2r3dp6r3dp2r2dp4~x2/"><circle cx="255.9" cy="139.7" r="4" fill="#3465a4"><title>Murray of Tullibardine #3</title></circle></a><a href="/variants/s20/r25lb2db25r2g2r25g2r2db25r4db25r2g2r25g2r2db25lb2r25g10~x2/"><circle cx="271.9" cy="142.2" r="4" fill="#3465a4"><title>Hebrides #4</title></circle></a><circle cx="251.3" cy="159.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

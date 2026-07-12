@@ -1,6 +1,13 @@
 ---
 title: "MacBean MacVean"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacBean"
+  url: "/clan/macbean/"
+- name: "MacBean MacVean"
+  url: "/tartans/m/ma/macbean-macvean/"
 ---
 This is the **MacBean MacVean** sett — one scale-free proportion (`r32w2db2dbi2lb2w2lb2dbi2db2w2k2g9k2w2ri3r3rii3g2rii3r3ri3w2g6`), colour order pattern
 [GWRRRGRRRWKGKWBBWWWBBWR](/stripes/gwrrrgrrrwkgkwbbwwwbbwr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s23/ri32w2db2dbi2lb2w2lb2dbi2db2w2k2g9k2w2dr3ri3r3g2r3ri3dr3w2g6~x2~ri2008029-db0805267-dbi1604274-r1506028/"><circle cx="95.0" cy="14.0" r="4" fill="#3465a4"><title>MacBean, MacVean</title></circle></a><a href="/variants/s21/ri52w2g43y4w2k2w2y4k18lb8w2dp8w8dp8w2lb8ri10k3rii2r2ri4~x2~ri2109032-rii2406019-r2108022/"><circle cx="64.0" cy="14.0" r="4" fill="#3465a4"><title>Dundee Wallace Family Tartan</title></circle></a><a href="/variants/s21/ri52w2g43y4w2k2w2y4k18lb8w2dp8w8dp8w2lb8ri10k3r2rii2ri4~x2~ri2109032-r1807008-rii2806019/"><circle cx="63.7" cy="14.0" r="4" fill="#3465a4"><title>Dundee Wallace</title></circle></a><a href="/variants/s21/ri52w2g43y4w2k2w2y4k18lb8w2dp8w8dp8w2lb8ri10k3b2r2ri4~x2~ri2008029-r2008022/"><circle cx="66.5" cy="14.0" r="4" fill="#3465a4"><title>Dundee, Wallace</title></circle></a><a href="/variants/s25/w2k1ri3lb3ri3r3ri12r3ri3db3ri3db19y3g19ri3db3ri3r3ri12r3ri3lb3ri3k1w2~x2~ri2109032-r1807008/"><circle cx="114.1" cy="46.4" r="4" fill="#3465a4"><title>Fitzgerald Family Tartan</title></circle></a><a href="/variants/s14/ri42r2k15r2g22y4w2dp2w2y4lb7w2dp6w6~x2~ri2209032-r2208029/"><circle cx="82.7" cy="40.8" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/variants/s25/w2k1ri3lb3ri3r3ri12r3ri3db3ri3db19y3g19ri3db3ri3r3ri12r3ri3lb3ri3k1w2~x2~ri2008029-r1707016/"><circle cx="115.3" cy="47.2" r="4" fill="#3465a4"><title>Fitzgerald dress</title></circle></a><a href="/variants/s18/r25w2o5dg2db2o5w2g12w2b2o2r5k2r5o2b2w2o9~x2/"><circle cx="128.8" cy="70.9" r="4" fill="#3465a4"><title>Campbell, New Louden</title></circle></a><a href="/variants/s14/r42b2k15b2g22y4w2dp2w2y4lb7w2dp6w6~x2/"><circle cx="88.5" cy="45.7" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/variants/s14/r42ri2k15ri2g22dy4w2dp2w2dy4lb7w2dp6w6~x2~r2109032-ri2406019/"><circle cx="81.9" cy="40.9" r="4" fill="#3465a4"><title>Dundee (1819) (District)</title></circle></a><circle cx="97.0" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

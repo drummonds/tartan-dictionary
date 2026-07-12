@@ -1,6 +1,15 @@
 ---
 title: "MacGlashan Clan Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacGlashan"
+  url: "/clan/macglashan/"
+- name: "MacGlashan"
+  url: "/families/macglashan/"
+- name: "MacGlashan"
+  url: "/tartans/m/ma/macglashan-2/"
 ---
 This is the **MacGlashan Clan Tartan** sett — one scale-free proportion (`r25do3w2ly25w3y5r4do2r4y5w3db4do5r6w1db1`), colour order pattern
 [BWRBBWGRBRGWYWBR](/stripes/bwrbbwgrbrgwywbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/r25do3w2o25w3y5r4do2r4y5w3db4do5r6w1db1~x2/"><circle cx="234.1" cy="96.0" r="4" fill="#3465a4"><title>MacGlashan</title></circle></a><a href="/variants/s16/r39dr3w2g14w2y4r4dr2r4y4w2lb12dr6r6y7w2~x2/"><circle cx="240.5" cy="93.4" r="4" fill="#3465a4"><title>North West Mounted Police Corporate Tartan</title></circle></a><a href="/variants/s16/r20k3w2ly25w2y5r4k2r4y5w3lb4k5r6w1lb1~x2/"><circle cx="134.3" cy="66.0" r="4" fill="#3465a4"><title>MacGlashan #3</title></circle></a><a href="/variants/s16/ri39r3w2g14w2y4ri4r2ri4y4w2lb12r6ri6y7w2~x2~ri2008029-r1506028/"><circle cx="244.1" cy="93.6" r="4" fill="#3465a4"><title>North West, Mounted Police</title></circle></a><a href="/variants/s12/n12b2o4y2o3w3o3w19r30n2r4o2~x2/"><circle cx="196.2" cy="115.4" r="4" fill="#3465a4"><title>MacLean of Duart, dress</title></circle></a><a href="/variants/s12/yi12n2dy4y2dy3w3dy3w19r30yi2r4dy2~x2~yi2400000-n1700000/"><circle cx="180.3" cy="111.3" r="4" fill="#3465a4"><title>MacLean of Duart Dress #3</title></circle></a><a href="/variants/s12/n12o2dy4ly2dy3w3dy3w19r30o2r4dy2~x2~n1900000-o2500000/"><circle cx="172.2" cy="108.1" r="4" fill="#3465a4"><title>MacLean of Duart Dress</title></circle></a><a href="/variants/s14/r35y7w1dg3w1y7dg19w2g17r12g5b5r5g2~x2/"><circle cx="236.7" cy="94.3" r="4" fill="#3465a4"><title>Unidentified 9</title></circle></a><a href="/variants/s17/dp3o15n3o3r1o1r1o1r1o1r1o1r1o1r12w15dp3~x2/"><circle cx="191.4" cy="107.8" r="4" fill="#3465a4"><title>Purple Thistle</title></circle></a><a href="/variants/s18/y2ri5r3w54r5g3r5db20ri5r3ri5g16r2db4r48ri6r3w2~x2~ri2806019-r2109032/"><circle cx="168.9" cy="57.9" r="4" fill="#3465a4"><title>Somerville Dress (Name?)</title></circle></a><circle cx="197.2" cy="85.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,13 @@
 ---
 title: "Rikaco Eve"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Rikaco"
+  url: "/clan/rikaco/"
+- name: "Rikaco Eve"
+  url: "/tartans/r/ri/rikaco-eve/"
 ---
 This is the **Rikaco Eve** sett — one scale-free proportion (`o4n4o2w36n14w2lb4o7m5w3`), colour order pattern
 [RBRWBWWRRW](/stripes/rbrwbwwrrw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w6r2w38g8db6w2db2w2ly14r7g2r3w2~x2/"><circle cx="260.3" cy="108.5" r="4" fill="#3465a4"><title>Grant of Auchnarrow</title></circle></a><a href="/variants/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="253.0" cy="103.2" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/variants/s11/w68lb3w3lb8w3lb3o24n16r3n20lb3~x2/"><circle cx="272.6" cy="117.0" r="4" fill="#3465a4"><title>Ben Vorlich (Fashion)</title></circle></a><a href="/variants/s11/w38g10r2g3w2g3gi8lr3g2lr3w2~x2~g2001180-gi2104144/"><circle cx="307.2" cy="114.2" r="4" fill="#3465a4"><title>Glenmore Green Fashion Tartan</title></circle></a><a href="/variants/s8/y42db2w2db2y5lo12w32r4~x2/"><circle cx="268.1" cy="138.6" r="4" fill="#3465a4"><title>Comrie, Gold (Dance)</title></circle></a><a href="/variants/s8/db4w1db2w18g3w1r9y4~x4/"><circle cx="220.0" cy="142.9" r="4" fill="#3465a4"><title>Manitoba Dress (1958) (District)</title></circle></a><a href="/variants/s11/w60o3w3o8w3o3dg24n12o3n16o4/"><circle cx="249.0" cy="127.0" r="4" fill="#3465a4"><title>Ben Ledi (Fashion)</title></circle></a><a href="/variants/s10/w3db2w30db4o26w2o2dp4o2w3~x2/"><circle cx="279.9" cy="140.2" r="4" fill="#3465a4"><title>Harris Lilac</title></circle></a><a href="/variants/s10/w68o3w3o8w3o27dy16r3dy20o3~x2/"><circle cx="265.5" cy="123.7" r="4" fill="#3465a4"><title>Ben Cleuch (Fashion)</title></circle></a><a href="/variants/s10/w49dg11r2dg3w2do10m9dg2m6w2~x2/"><circle cx="278.0" cy="95.0" r="4" fill="#3465a4"><title>Strathyre dress</title></circle></a><circle cx="260.5" cy="128.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Highlands of Durham #2"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Highlands of Durham"
+  url: "/tartans/h/hi/highlands-of-durham-2/"
 ---
 This is the **Highlands of Durham #2** sett — one scale-free proportion (`k37g27w2k4r6k4w2g27k37y2`), colour order pattern
 [GKGWKRKWGK](/stripes/gkgwkrkwgk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k12r2k28g12k1w3k1g12r4~x2/"><circle cx="272.1" cy="116.6" r="4" fill="#3465a4"><title>MacDiarmid Clan Tartan</title></circle></a><a href="/variants/s9/k12r2k28dg12k1w3k1dg12r4~x2/"><circle cx="295.9" cy="120.6" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><a href="/variants/s7/r3g14k2b2g14k36y3~x2/"><circle cx="243.7" cy="129.8" r="4" fill="#3465a4"><title>Vipont</title></circle></a><a href="/variants/s7/dy3k36g14b2k2g14r3~x2/"><circle cx="245.4" cy="130.2" r="4" fill="#3465a4"><title>Vipont (Yellow line)</title></circle></a><a href="/variants/s7/k2r1y1g8k15g2dp1~x2/"><circle cx="266.0" cy="128.8" r="4" fill="#3465a4"><title>Coalfields Regeneration Trust, The</title></circle></a><a href="/variants/s10/k28r3y2r3k13g28k1g3k1g16~x2/"><circle cx="232.6" cy="102.6" r="4" fill="#3465a4"><title>Bomb Disposal</title></circle></a><a href="/variants/s10/k4dg13k4g8k44g8k4dg13k4w3~x2~dg1806142-g2203152/"><circle cx="269.6" cy="134.5" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/variants/s10/k7g6ly3k12dr19k12g62k62g12dr7/"><circle cx="233.4" cy="129.1" r="4" fill="#3465a4"><title>Danareth (Corporate)</title></circle></a><a href="/variants/s10/k7g6y3k12dr19k12g62k62g12dr7/"><circle cx="235.3" cy="129.6" r="4" fill="#3465a4"><title>Danareth</title></circle></a><a href="/variants/s8/k4ly8k26o6g15o6k26w2~x2/"><circle cx="230.5" cy="151.9" r="4" fill="#3465a4"><title>Holestone (Corporate)</title></circle></a><circle cx="245.3" cy="118.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

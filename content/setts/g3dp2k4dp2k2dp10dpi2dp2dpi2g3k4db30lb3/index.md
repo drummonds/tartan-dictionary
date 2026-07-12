@@ -1,6 +1,15 @@
 ---
 title: "Scotland 1782 (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Scotland"
+  url: "/clan/scotland/"
+- name: "Scotland"
+  url: "/families/scotland/"
+- name: "Scotland 1782"
+  url: "/tartans/s/sc/scotland-1782/"
 ---
 This is the **Scotland 1782 (Fashion)** sett — one scale-free proportion (`g3dp2k4dp2k2dp10dpi2dp2dpi2g3k4db30lb3`), colour order pattern
 [GBKBKBBBBGKBW](/stripes/gbkbkbbbbgkbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dr1db15k2ly1k1t1k5dr4k1dr2w1~x4/"><circle cx="199.9" cy="101.9" r="4" fill="#3465a4"><title>Glen Stewart</title></circle></a><a href="/variants/s15/db62dy3k3r15db18w3dy28n12k3n5dy5n5db6k12w8/"><circle cx="190.0" cy="82.4" r="4" fill="#3465a4"><title>Clare County, Crest Range</title></circle></a><a href="/variants/s11/dr2db6lr2db2k9dbi30k9db5lr4db2dr2~x2~db1106275-dbi1406275/"><circle cx="204.3" cy="125.4" r="4" fill="#3465a4"><title>Rangers Football Club Dress</title></circle></a><a href="/variants/s13/dp4k3dp20k10db19o2db2o2db25g3db4k6w4~x2/"><circle cx="204.4" cy="127.5" r="4" fill="#3465a4"><title>Highland Destiny (Fashion)</title></circle></a><a href="/variants/s10/k3ly1dbi1db6r2db1r1db1dbi10lb1~x4~dbi1605267-db1003265/"><circle cx="178.9" cy="143.8" r="4" fill="#3465a4"><title>Ertico</title></circle></a><a href="/variants/s24/db30k4g3dpi2dp2dpi2dp10k2dp2k4dp2g3dp2k4dp2k2dp10dpi2dp2dpi2g3k4db30lb3~x2~dpi1607327-dp1406341/"><circle cx="218.8" cy="74.7" r="4" fill="#3465a4"><title>Scotland 1782</title></circle></a><a href="/variants/s13/k2dp4o4dp3g20dp5k4dp3k7dp3k3db35w2~x2/"><circle cx="153.8" cy="96.0" r="4" fill="#3465a4"><title>Spirit of Bannockburn (Fashion)</title></circle></a><a href="/variants/s10/k4dp30k3dp2db2r2g12k3db18r3~x2/"><circle cx="206.6" cy="132.4" r="4" fill="#3465a4"><title>Wardlaw</title></circle></a><a href="/variants/s9/db1w2t12k2db2k2dp15db2y1~x2/"><circle cx="167.6" cy="120.5" r="4" fill="#3465a4"><title>Hek Family (Sunningdale, Berwick on Tweed)</title></circle></a><a href="/variants/s12/dg4r1dg1r3dg16k12r1db27lb2db3lb1y2~x2/"><circle cx="209.2" cy="82.9" r="4" fill="#3465a4"><title>McGuirk (2013)</title></circle></a><circle cx="206.8" cy="95.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

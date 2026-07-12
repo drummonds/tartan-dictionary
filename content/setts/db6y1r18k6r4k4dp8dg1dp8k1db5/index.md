@@ -1,6 +1,11 @@
 ---
 title: "Bute Heather, Autumn"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Bute Heather, Autumn"
+  url: "/tartans/b/bu/bute-heather-autumn/"
 ---
 This is the **Bute Heather, Autumn** sett — one scale-free proportion (`db6y1r18k6r4k4dp8dg1dp8k1db5`), colour order pattern
 [BGRKRKBGBKB](/stripes/bgrkrkbgbkb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y2dp16k1r5k1o8k1r5k16g2~x4/"><circle cx="120.2" cy="111.8" r="4" fill="#3465a4"><title>Tribal #2</title></circle></a><a href="/variants/s12/dr6n5dr23k20m6k3o4k10dr14r45k7r6/"><circle cx="134.6" cy="109.6" r="4" fill="#3465a4"><title>Sweetheart, The</title></circle></a><a href="/variants/s12/dr6lb5dr23k20rii6k3r4k10dr14ri45k7ri6~rii2806019-r1807033-ri2109032/"><circle cx="130.4" cy="109.0" r="4" fill="#3465a4"><title>Sweetheart (Fashion)</title></circle></a><a href="/variants/s14/y2r11k3r4k7y2k3dp4k3dp11k3dg1g1y1~x2~y2505139-g2408144/"><circle cx="93.4" cy="124.2" r="4" fill="#3465a4"><title>King, Garry (Personal)</title></circle></a><a href="/variants/s10/db4dy3db22n6w2k6w2r26k3r4~x2~db1406275/"><circle cx="151.0" cy="114.3" r="4" fill="#3465a4"><title>Asman Dress Family Tartan</title></circle></a><a href="/variants/s11/g10n1k3dp22n1dp8k2r26ly1r6k3~x2/"><circle cx="194.7" cy="85.1" r="4" fill="#3465a4"><title>Faulkner (Personal)</title></circle></a><a href="/variants/s10/y2dp16k1r5k1lo8k1r5k16lg2~x4/"><circle cx="102.5" cy="106.2" r="4" fill="#3465a4"><title>Tribal</title></circle></a><a href="/variants/s11/dp7o2ri2r2dp23r2k2r1k15ri29lp2~x2~ri2109032-r2109013/"><circle cx="187.5" cy="72.0" r="4" fill="#3465a4"><title>MacHatters of the Old Pueblo</title></circle></a><a href="/variants/s14/y2ri15y3r2y3k14y2db6w2db6y2ri7db10w1~x2~ri2109032-r1807008/"><circle cx="83.2" cy="116.7" r="4" fill="#3465a4"><title>Dalrymple of Castleton Portrait Tartan</title></circle></a><a href="/variants/s14/y2ri15y3r2y3k14y2db6w2db6y2ri7db10w1~x2~ri2008029-r1707016/"><circle cx="84.6" cy="117.4" r="4" fill="#3465a4"><title>Dalrymple, of Castleton</title></circle></a><circle cx="140.3" cy="119.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

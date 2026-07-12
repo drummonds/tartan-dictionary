@@ -1,6 +1,13 @@
 ---
 title: "Stuart / Stewart, Plaid"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Stuart"
+  url: "/clan/stuart/"
+- name: "Stuart / Stewart"
+  url: "/tartans/s/st/stuart-stewart/"
 ---
 This is the **Stuart / Stewart, Plaid** sett — one scale-free proportion (`r6w2b40w2lb14g14y3w2g6dp6y2lb6dp30r12w2`), colour order pattern
 [RWBWWGGWGBGWBRW](/stripes/rwbwwggwgbgwbrw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/lb24lg2lb4b2lg2lb4b4lg5g5ly3r7dp2r2dp3r1dp23lb4~x2/"><circle cx="154.8" cy="75.6" r="4" fill="#3465a4"><title>Scotland's Grace</title></circle></a><a href="/variants/s15/r6w2dy40w2lb14g14y3w2g6dp6y2lb6dp30r12w2~x2/"><circle cx="106.6" cy="94.9" r="4" fill="#3465a4"><title>Stuart/Stewart Plaid</title></circle></a><a href="/variants/s13/r2b22dy4lr3dg7ly2dg4lr2dg9dp6ly2dp4lr2~x2/"><circle cx="121.8" cy="135.5" r="4" fill="#3465a4"><title>Man, Isle of</title></circle></a><a href="/variants/s13/r4g1w5g1r2g1w5db4t20db8y2db8y4~x2/"><circle cx="130.6" cy="123.0" r="4" fill="#3465a4"><title>Pille Family (Belgium) (Personal)</title></circle></a><a href="/variants/s15/ly2g2dg20lb2r2lb2r10lb2r2lb2db20ri2r1db2w1~x2~r2109032-ri2307033/"><circle cx="116.8" cy="65.3" r="4" fill="#3465a4"><title>British Airways (Corporate)</title></circle></a><a href="/variants/s16/w2n1lr12o2lr2o2lr2o2lr2dp10o1dp10g12n2g4lr2~x2~n1900000-lr3000000-o2404317-dp1105325/"><circle cx="121.3" cy="140.1" r="4" fill="#3465a4"><title>Cribb (2016)</title></circle></a><a href="/variants/s19/w7dp7w1g13w1dp2w1db14w1dp2w1r11w1dp2w1y7w1dp2w7~x2/"><circle cx="79.2" cy="118.4" r="4" fill="#3465a4"><title>Four Quarters (Personal)</title></circle></a><a href="/variants/s16/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4~x2~db1108266-t2205244/"><circle cx="195.0" cy="121.8" r="4" fill="#3465a4"><title>Spirit of Romania</title></circle></a><a href="/variants/s15/r1w1db8lb12y1lb1db2w3db6lb1y1lb1db1w1r1~x6~db1004274/"><circle cx="127.9" cy="112.4" r="4" fill="#3465a4"><title>Buchanan, John &amp; Isabella (Commemor)</title></circle></a><a href="/variants/s23/ri5w3db2w1db4r1db1r3db1r1db4n4lb1n1lb1n4db4t25w1t2w2t2w3~x2~ri2109032-r1706009/"><circle cx="169.2" cy="55.4" r="4" fill="#3465a4"><title>Alabama (Provisional) (District)</title></circle></a><circle cx="113.8" cy="98.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

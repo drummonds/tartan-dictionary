@@ -1,6 +1,11 @@
 ---
 title: "Indiana #2"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Indiana"
+  url: "/tartans/i/in/indiana/"
 ---
 This is the **Indiana #2** sett — one scale-free proportion (`db50y4db3y4db8k2dbi12w5`), colour order pattern
 [BGBGBKBW](/stripes/bgbgbkbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db35g10lb10k10db23y1db3r2~x2/"><circle cx="322.7" cy="104.5" r="4" fill="#3465a4"><title>Lapsley, The Tom</title></circle></a><a href="/variants/s7/db3g6db2y3db42k6w3~x2/"><circle cx="409.9" cy="110.7" r="4" fill="#3465a4"><title>Bro-sant-Brieg</title></circle></a><a href="/variants/s6/k1y2k3n12k18w1~x2~k0704259-n1902277/"><circle cx="359.5" cy="163.8" r="4" fill="#3465a4"><title>Jon's Theme</title></circle></a><a href="/variants/s10/w4db32k1y2k1db10y18db10k1dr2~x2/"><circle cx="353.2" cy="93.9" r="4" fill="#3465a4"><title>European Union (Fashion)</title></circle></a><a href="/variants/s7/db20dy1db1dy1dg8k1w3~x2/"><circle cx="330.3" cy="124.1" r="4" fill="#3465a4"><title>Chestico</title></circle></a><a href="/variants/s7/db35k10db4w2db3r2y2~x2/"><circle cx="411.9" cy="121.1" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers (Corp)</title></circle></a><a href="/variants/s8/db73g16db10r8db10k4db10w2~x2/"><circle cx="481.1" cy="97.1" r="4" fill="#3465a4"><title>Scotch Whisky Heritage Centre</title></circle></a><a href="/variants/s8/db73g16db10r8db10k4db10w2/"><circle cx="481.1" cy="97.1" r="4" fill="#3465a4"><title>Scotch Whisky Heritage Corporate Tartan</title></circle></a><a href="/variants/s10/y1db2w1db15k4y1db1y1db5w1~x4/"><circle cx="391.8" cy="124.9" r="4" fill="#3465a4"><title>SPA Association (Corporate)</title></circle></a><a href="/variants/s8/db18r1db1r1db1k7db13w2~x4/"><circle cx="431.6" cy="139.4" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><circle cx="409.8" cy="108.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

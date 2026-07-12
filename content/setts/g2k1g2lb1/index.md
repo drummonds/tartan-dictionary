@@ -1,6 +1,11 @@
 ---
 title: "Wilson's No.045"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Wilson's No.045"
+  url: "/tartans/w/wi/wilson-s-no-045/"
 ---
 This is the **Wilson's No.045** sett — one scale-free proportion (`g2k1g2lb1`), colour order pattern
 [GKGW](/stripes/gkgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/k5g14db12g4~x4/"><circle cx="214.1" cy="306.6" r="4" fill="#3465a4"><title>MacCurdie (Clan?)</title></circle></a><a href="/variants/s5/dy4g7k4g7db4~x2/"><circle cx="142.4" cy="342.5" r="4" fill="#3465a4"><title>Daks (House)</title></circle></a><a href="/variants/s5/db4g7k4g7y4~x2/"><circle cx="141.6" cy="343.0" r="4" fill="#3465a4"><title>DAKS House (C.6700.040)</title></circle></a><a href="/variants/s4/g2r2g2lb1~x4~r2109032/"><circle cx="258.3" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.207</title></circle></a><a href="/variants/s4/g4dp5g4lb2~x2/"><circle cx="247.3" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.209</title></circle></a><a href="/variants/s3/g7k4lb4~x2/"><circle cx="120.0" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.052</title></circle></a><a href="/variants/s5/g7db1g2k3g2~x4/"><circle cx="366.3" cy="243.8" r="4" fill="#3465a4"><title>Peterhead</title></circle></a><a href="/variants/s3/g3k2db2~x4/"><circle cx="103.7" cy="366.0" r="4" fill="#3465a4"><title>Glenlyon #2</title></circle></a><a href="/variants/s5/g9lb1g2k4g2~x4/"><circle cx="369.2" cy="223.5" r="4" fill="#3465a4"><title>Peterhead (Personal)</title></circle></a><a href="/variants/s4/g4k5g4r2~x2/"><circle cx="168.6" cy="338.4" r="4" fill="#3465a4"><title>Wilson's No.094</title></circle></a><circle cx="244.7" cy="346.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

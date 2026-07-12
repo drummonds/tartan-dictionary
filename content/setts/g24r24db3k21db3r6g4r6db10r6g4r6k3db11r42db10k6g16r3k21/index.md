@@ -1,6 +1,11 @@
 ---
 title: "Unidentified Cant #07"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified Cant"
+  url: "/tartans/u/un/unidentified-cant-9/"
 ---
 This is the **Unidentified Cant #07** sett — one scale-free proportion (`g24r24db3k21db3r6g4r6db10r6g4r6k3db11r42db10k6g16r3k21`), colour order pattern
 [KRGKBRBKRGRBRGRBKBRGRBKBRGRBRGRKBRBKGR](/stripes/krgkbrbkrgrbrgrbkbrgrbkbrgrbrgrkbrbkgr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s25/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4g4r14g27r9db6r6k3/"><circle cx="209.8" cy="112.9" r="4" fill="#3465a4"><title>Murray of Tullibardine #4</title></circle></a><a href="/variants/s18/lb5k1r15k2lb3k10r5db15r5k2dy4k2r1k2db15r15k4r2~x2/"><circle cx="129.4" cy="84.5" r="4" fill="#3465a4"><title>Grand Lodge of Canada (Corporate)</title></circle></a><a href="/variants/s37/g12k1r6db1r1lb1r1db1r6k12r1db12r6k1r6db12r1k12r6lb1g12r6k1r6g12r6db1r1lb1r1db1r6k12r1db12r6k1~x2/"><circle cx="93.2" cy="91.9" r="4" fill="#3465a4"><title>Unidentified #38</title></circle></a><a href="/variants/s18/t5k1r15k2t3k10r5db15r5k2dy4k2r1k2db15r15k4r2~x2~t2405244/"><circle cx="133.2" cy="86.1" r="4" fill="#3465a4"><title>Grand Lodge of Canada</title></circle></a><a href="/variants/s16/r15k5w2n7k4w8k2r26k5n2w2k7w2r5w2g2~x2/"><circle cx="136.3" cy="74.5" r="4" fill="#3465a4"><title>Sabrettes</title></circle></a><a href="/variants/s28/r18k3r3k11g9k2g9k11r2k11r3k3r9g2k3g2r9k3r3k11r2k11r3k3r18db2r3db2~x2/"><circle cx="154.3" cy="127.4" r="4" fill="#3465a4"><title>MacInroy #2</title></circle></a><a href="/variants/s21/db4r2db2r3db12r3db2r2k5r2db2r22db26r6g6r22g23r14db8r7k3~x2/"><circle cx="215.8" cy="122.2" r="4" fill="#3465a4"><title>Murray of Tullibardine</title></circle></a><a href="/variants/s22/db3r2g4r7k2y2k2y2k5db4r21db4k5y2k2y2k2r7g4r2db3y2~x4/"><circle cx="144.7" cy="105.9" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/variants/s21/db4r1db1r2db10r2db1r1k1r1db1r12db6r4g4r12g10r6db4r2k2~x4/"><circle cx="224.7" cy="129.1" r="4" fill="#3465a4"><title>MacLeod of Tullibardine</title></circle></a><a href="/variants/s28/r4k4r6g24r4k3r6g3r4k24r6g4r4lb4r4g4r6k24r4g3r6k3r4g24r6k4r4lb4~x2/"><circle cx="110.6" cy="124.0" r="4" fill="#3465a4"><title>Kilbarchan Unidentified No. 7</title></circle></a><circle cx="160.5" cy="93.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

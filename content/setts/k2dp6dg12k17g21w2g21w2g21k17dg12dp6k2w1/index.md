@@ -1,6 +1,11 @@
 ---
 title: "Hibernian Football Club (2004)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Hibernian Football Club"
+  url: "/tartans/h/hi/hibernian-football-club/"
 ---
 This is the **Hibernian Football Club (2004)** sett — one scale-free proportion (`k2dp6dg12k17g21w2g21w2g21k17dg12dp6k2w1`), colour order pattern
 [KBGKGWGWGKGBKW](/stripes/kbgkgwgwgkgbkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/g5dg22g13k5w4k7g5k2dy7k2dg2g6dg1k2w2~x2/"><circle cx="128.0" cy="115.3" r="4" fill="#3465a4"><title>Ireland's National</title></circle></a><a href="/variants/s12/g8w2db3w2g16k10g3y6g1w3g1y6~x2/"><circle cx="169.1" cy="139.9" r="4" fill="#3465a4"><title>Green Bay, Wisconsin (District)</title></circle></a><a href="/variants/s7/t18k7g5r4g7k1y2~x2/"><circle cx="122.6" cy="144.5" r="4" fill="#3465a4"><title>Wilson's No.232</title></circle></a><a href="/variants/s12/dg12w2k5g24k4dg9k2g13k4dg13k2y3~x2/"><circle cx="163.8" cy="159.8" r="4" fill="#3465a4"><title>Handley (Personal)</title></circle></a><a href="/variants/s14/g17k3g3k3g3k16t18k1r3k1t18k16g9dp2~x2/"><circle cx="129.9" cy="125.8" r="4" fill="#3465a4"><title>Fleming of Castle Carrick (Personal)</title></circle></a><a href="/variants/s12/dr6g1lb2g24k3g3k3g3k8db8lb2db4~x2/"><circle cx="193.8" cy="106.6" r="4" fill="#3465a4"><title>Kerby/Kirby</title></circle></a><a href="/variants/s16/t22k3t3k3t3k15g19k1lb3k1g19r2k15t19k3t3~x2/"><circle cx="147.0" cy="109.5" r="4" fill="#3465a4"><title>Sempill (Clan)</title></circle></a><a href="/variants/s8/g21w2g21k17dg12dp6k2w1~x2/"><circle cx="210.4" cy="150.2" r="4" fill="#3465a4"><title>Hibernian F. C. (2004) (C orporate)</title></circle></a><a href="/variants/s11/dp3dg6k9g11w1g11w1g11k9dg6dp3~x4/"><circle cx="145.7" cy="182.9" r="4" fill="#3465a4"><title>Hibernian F.C.</title></circle></a><a href="/variants/s12/n12k3n14k12ly1k12n2g12k1r2k1g12~x2/"><circle cx="126.6" cy="148.5" r="4" fill="#3465a4"><title>Wells, Greg #2 (Personal)</title></circle></a><circle cx="161.8" cy="131.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

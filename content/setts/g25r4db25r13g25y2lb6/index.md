@@ -1,6 +1,15 @@
 ---
 title: "Rotary"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Rotary"
+  url: "/clan/rotary/"
+- name: "Rotary"
+  url: "/families/rotary/"
+- name: "Rotary"
+  url: "/tartans/r/ro/rotary-2/"
 ---
 This is the **Rotary** sett — one scale-free proportion (`g25r4db25r13g25y2lb6`), colour order pattern
 [GRBRGGW](/stripes/grbrggw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db24r27g20y6g20r2lb3~x2/"><circle cx="195.8" cy="203.8" r="4" fill="#3465a4"><title>Buchanhaven Heritage</title></circle></a><a href="/variants/s7/k4g16db11r16g25y2lb3~x2/"><circle cx="209.4" cy="171.0" r="4" fill="#3465a4"><title>Mayo</title></circle></a><a href="/variants/s7/g19r3lb19r11g19y2db4~x2/"><circle cx="238.9" cy="221.0" r="4" fill="#3465a4"><title>Rotary Corporate Tartan</title></circle></a><a href="/variants/s7/g15r3lb15r8g15ly2db4~x2/"><circle cx="216.9" cy="233.4" r="4" fill="#3465a4"><title>Rotary International</title></circle></a><a href="/variants/s10/db22g6db5lb2g22r6g5r4g9w3~x2/"><circle cx="235.7" cy="179.5" r="4" fill="#3465a4"><title>MacConnell Clan Tartan</title></circle></a><a href="/variants/s7/r6db27lb2g2lb2g30w4~x2/"><circle cx="240.7" cy="164.8" r="4" fill="#3465a4"><title>MX-5 Owners' Club</title></circle></a><a href="/variants/s5/ly2db8r8g17r1~x4/"><circle cx="268.8" cy="207.9" r="4" fill="#3465a4"><title>British Hills</title></circle></a><a href="/variants/s7/g10r3g30n10w2db15r4~x2/"><circle cx="289.7" cy="189.5" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s10/g22r3db10t2db10r21g22r3y2db2~x2/"><circle cx="228.2" cy="179.3" r="4" fill="#3465a4"><title>Glasgow Cathedral 2000</title></circle></a><a href="/variants/s5/r2g17r8db8y2~x4/"><circle cx="248.6" cy="240.7" r="4" fill="#3465a4"><title>British Hills</title></circle></a><circle cx="239.7" cy="205.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

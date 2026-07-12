@@ -1,6 +1,11 @@
 ---
 title: "Mantle (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Mantle"
+  url: "/tartans/m/ma/mantle/"
 ---
 This is the **Mantle (Personal)** sett — one scale-free proportion (`dr3g2dr3g18k14w2db16g3`), colour order pattern
 [BGBGKWBG](/stripes/bgbgkwbg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g3db12w1k12g13r2g2~x4/"><circle cx="151.1" cy="170.4" r="4" fill="#3465a4"><title>MacFadzean/MacPhedran</title></circle></a><a href="/variants/s7/g3db12w1k12g13r2g2~x2/"><circle cx="151.1" cy="170.4" r="4" fill="#3465a4"><title>Paterson (Personal)</title></circle></a><a href="/variants/s7/g3db12b1k12g13r2g2~x2/"><circle cx="156.0" cy="171.9" r="4" fill="#3465a4"><title>MacPhadran</title></circle></a><a href="/variants/s9/k3y3g22db6k17g6db22r3db3~x2/"><circle cx="129.8" cy="182.6" r="4" fill="#3465a4"><title>Maresh</title></circle></a><a href="/variants/s7/r12db68w7k39g75r6g6/"><circle cx="149.5" cy="162.0" r="4" fill="#3465a4"><title>Rhun (Fashion)</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17g18ly4~x2/"><circle cx="131.9" cy="163.2" r="4" fill="#3465a4"><title>Scotch House 2000 Original</title></circle></a><a href="/variants/s8/r5k2db19g4k19g28k2y5~x2/"><circle cx="142.9" cy="154.0" r="4" fill="#3465a4"><title>Tait #1</title></circle></a><a href="/variants/s9/db11k1db1k1db1k7dg8dr1lg6~x4/"><circle cx="124.0" cy="161.0" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><a href="/variants/s10/g8w1g1r1g4k4db8k1db1k1~x2/"><circle cx="152.0" cy="165.3" r="4" fill="#3465a4"><title>Scott #2</title></circle></a><a href="/variants/s7/db27g5y8k20y3g15r3~x2/"><circle cx="111.1" cy="192.5" r="4" fill="#3465a4"><title>Nelson Mandela (Personal)</title></circle></a><circle cx="128.8" cy="175.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

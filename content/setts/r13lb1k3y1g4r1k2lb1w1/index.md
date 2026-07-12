@@ -1,6 +1,15 @@
 ---
 title: "Gillespie"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Gillespie"
+  url: "/clan/gillespie/"
+- name: "Gillespie"
+  url: "/families/gillespie/"
+- name: "Gillespie"
+  url: "/tartans/g/gi/gillespie/"
 ---
 This is the **Gillespie** sett — one scale-free proportion (`r13lb1k3y1g4r1k2lb1w1`), colour order pattern
 [RWKGGRKWW](/stripes/rwkggrkww/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r13lb1k3dy1g4r1k2lb1w1~x4/"><circle cx="203.2" cy="98.8" r="4" fill="#3465a4"><title>Gillespie Family Tartan</title></circle></a><a href="/variants/s9/r13y1k3ly1dg4r1k2y1w1~x4~y2602166-ly3307090/"><circle cx="206.2" cy="98.6" r="4" fill="#3465a4"><title>Gillespie</title></circle></a><a href="/variants/s9/r19y1k2lb1g7r2k1lb1w1~x4/"><circle cx="296.5" cy="77.2" r="4" fill="#3465a4"><title>Drummond Old Clan Tartan</title></circle></a><a href="/variants/s11/r3db1r1db2r12lb1r1k4w1g6r1~x4/"><circle cx="213.8" cy="106.1" r="4" fill="#3465a4"><title>McLinden, Thomas (Personal)</title></circle></a><a href="/variants/s12/r8ly2r24k6dy3g2dy3g2dy3k3w3k2~x2/"><circle cx="199.5" cy="93.7" r="4" fill="#3465a4"><title>Burns 250th Anniversary (Commem.)</title></circle></a><a href="/variants/s10/y2r3dy3r21db3r2dy6k6dy4w2~x2/"><circle cx="201.9" cy="120.2" r="4" fill="#3465a4"><title>Hello Kitty Red</title></circle></a><a href="/variants/s11/r48lb8k10y2k3w2g25r10k3r3w2~x2/"><circle cx="232.7" cy="68.5" r="4" fill="#3465a4"><title>Follower's Plaid Artifact Tartan</title></circle></a><a href="/variants/s13/w2k1t2lb1dg4r1dg4r3k3r12lb1r2k1~x4/"><circle cx="166.5" cy="104.6" r="4" fill="#3465a4"><title>Peacock (Personal)</title></circle></a><a href="/variants/s12/k2lb6w1r14k1r14w1k6dg10ly1dg2ly2~x2~dg1403152-ly2705081/"><circle cx="162.4" cy="106.5" r="4" fill="#3465a4"><title>Ogg of Tarragann</title></circle></a><a href="/variants/s11/lb4k2db3r33g9y3r5db10r6g2k2~x2/"><circle cx="255.0" cy="93.1" r="4" fill="#3465a4"><title>MacArthur-Fox Dress</title></circle></a><circle cx="203.8" cy="99.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

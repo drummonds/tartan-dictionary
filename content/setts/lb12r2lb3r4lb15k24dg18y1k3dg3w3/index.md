@@ -1,6 +1,11 @@
 ---
 title: "Groen (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Groen"
+  url: "/tartans/g/gr/groen/"
 ---
 This is the **Groen (Personal)** sett — one scale-free proportion (`lb12r2lb3r4lb15k24dg18y1k3dg3w3`), colour order pattern
 [WGKGGKWRWRW](/stripes/wgkggkwrwrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/lb12r2lb3r4lb15k24g18y1k3g3w3~x2/"><circle cx="109.6" cy="99.9" r="4" fill="#3465a4"><title>Groen (Personal)</title></circle></a><a href="/variants/s12/lb6k1t20r2g3r2k15r2g3r2k6ly3~x2~lb3200000-t2503227/"><circle cx="100.8" cy="92.4" r="4" fill="#3465a4"><title>Royal Scottish P.B. Assoc. (Corp.)</title></circle></a><a href="/variants/s12/b6k1lb20r2g3r2k15r2g3r2k6y3~x2/"><circle cx="97.9" cy="90.1" r="4" fill="#3465a4"><title>Royal Scottish Pipe Band Association</title></circle></a><a href="/variants/s11/k9r2g3r2k15r2g3r2t20k1lb6~x2~t2503227-lb3200000/"><circle cx="97.6" cy="89.6" r="4" fill="#3465a4"><title>Royal Scottish Pipe Band Association</title></circle></a><a href="/variants/s11/k16w4k2w4k2r8y8g8k1db24w6~x2/"><circle cx="66.1" cy="102.6" r="4" fill="#3465a4"><title>Zimbabwe</title></circle></a><a href="/variants/s11/ly4db7ly4k26g3k1g3w9r2w4r2~x2/"><circle cx="131.5" cy="76.5" r="4" fill="#3465a4"><title>Beaudoux - Amis Picards (District)</title></circle></a><a href="/variants/s9/g3dp4g23k10r2k10lb18k1w3~x2/"><circle cx="108.0" cy="112.3" r="4" fill="#3465a4"><title>Birch Family Tartan</title></circle></a><a href="/variants/s9/lb16y3lb9t14lb1t8k32dr1w4~x2/"><circle cx="140.3" cy="98.7" r="4" fill="#3465a4"><title>Wrens (WRNS) (Military)</title></circle></a><a href="/variants/s10/g4lb3g18k14y2k2dp18ly1dp2ly3~x2~y2203076-ly2705081/"><circle cx="117.4" cy="114.7" r="4" fill="#3465a4"><title>Caisteal Leòdhais</title></circle></a><a href="/variants/s10/r7g20ly2g4k5db4k2db20k3w1~x2/"><circle cx="139.0" cy="114.3" r="4" fill="#3465a4"><title>McMeeken (Name)</title></circle></a><circle cx="112.1" cy="98.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

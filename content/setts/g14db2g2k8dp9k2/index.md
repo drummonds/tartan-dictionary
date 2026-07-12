@@ -1,6 +1,15 @@
 ---
 title: "MacArthur of Milton Hunting Clan Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacArthur"
+  url: "/clan/macarthur/"
+- name: "MacArthur of Milton"
+  url: "/families/macarthur-of-milton/"
+- name: "MacArthur of Milton Hunting"
+  url: "/tartans/m/ma/macarthur-of-milton-hunting/"
 ---
 This is the **MacArthur of Milton Hunting Clan Tartan** sett — one scale-free proportion (`g14db2g2k8dp9k2`), colour order pattern
 [GBGKBK](/stripes/gbgkbk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g18lb2g4k14dp12k3~x2/"><circle cx="167.3" cy="212.8" r="4" fill="#3465a4"><title>Coburg</title></circle></a><a href="/variants/s6/g21y2g4k16dp14k3~x2/"><circle cx="179.0" cy="203.4" r="4" fill="#3465a4"><title>Wilson's, No 160</title></circle></a><a href="/variants/s6/g21w2g4k17dp14k3~x2/"><circle cx="171.3" cy="202.1" r="4" fill="#3465a4"><title>Wilson's No 158</title></circle></a><a href="/variants/s7/y6g3y3g22k23dp23k4~x2/"><circle cx="128.4" cy="206.6" r="4" fill="#3465a4"><title>Gordon of Esslemont Family Tartan</title></circle></a><a href="/variants/s7/g8lb1g1k6dp6k1dp3~x4/"><circle cx="145.0" cy="209.0" r="4" fill="#3465a4"><title>Unnamed 19th Century Plaid</title></circle></a><a href="/variants/s6/g52lb7g9k35db35k7/"><circle cx="161.5" cy="219.8" r="4" fill="#3465a4"><title>Redland</title></circle></a><a href="/variants/s6/g8lb1g1k6db6k1~x4/"><circle cx="156.9" cy="214.0" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><a href="/variants/s6/r1t7k4t1dg7t1~x4/"><circle cx="193.3" cy="224.2" r="4" fill="#3465a4"><title>Flower of Scotland Commemorative Tartan</title></circle></a><a href="/variants/s6/r1t7k4t1dg7t1~x2/"><circle cx="193.3" cy="224.2" r="4" fill="#3465a4"><title>Flower of Scotland MINI Tartan</title></circle></a><a href="/variants/s6/k3g14k14g2db14g3/"><circle cx="169.8" cy="239.6" r="4" fill="#3465a4"><title>MacKay</title></circle></a><circle cx="172.7" cy="218.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

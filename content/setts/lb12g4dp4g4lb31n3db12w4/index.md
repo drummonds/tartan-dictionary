@@ -1,6 +1,11 @@
 ---
 title: "Yes Scotland"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Yes Scotland"
+  url: "/tartans/y/ye/yes-scotland/"
 ---
 This is the **Yes Scotland** sett — one scale-free proportion (`lb12g4dp4g4lb31n3db12w4`), colour order pattern
 [WBBWGBGW](/stripes/wbbwgbgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db3g6db2t11dr3dy4dr3t28w3~x2/"><circle cx="360.9" cy="168.3" r="4" fill="#3465a4"><title>Bains of Caithness</title></circle></a><a href="/variants/s11/lb38db4y4lb19db8lr18dp8lb18y4db4ly4~x2~y2602166-lr3102083/"><circle cx="294.1" cy="184.7" r="4" fill="#3465a4"><title>Cian of Ely</title></circle></a><a href="/variants/s6/w4lb28db7y2g16lb4~x2/"><circle cx="296.3" cy="202.7" r="4" fill="#3465a4"><title>Allanton (Fashion)</title></circle></a><a href="/variants/s6/g4w28db14y2lb17g4~x2/"><circle cx="198.8" cy="204.0" r="4" fill="#3465a4"><title>Allanton Dress (Fashion)</title></circle></a><a href="/variants/s6/w8lb30g5w3db8r5/"><circle cx="246.9" cy="195.4" r="4" fill="#3465a4"><title>Roseberry</title></circle></a><a href="/variants/s6/w4lb28dp7y2dg16lb4~x2/"><circle cx="272.5" cy="190.2" r="4" fill="#3465a4"><title>Manx Laxey (Blue)</title></circle></a><a href="/variants/s7/dp8g31r4dy4db17lb64w4/"><circle cx="213.0" cy="131.8" r="4" fill="#3465a4"><title>Manx National #2</title></circle></a><a href="/variants/s6/w15y2db5lr3n40db10~lr2800000-n2402249/"><circle cx="318.8" cy="176.4" r="4" fill="#3465a4"><title>Herriot (New Zealand) (Name)</title></circle></a><a href="/variants/s6/w15y2db5n3lb40db10/"><circle cx="310.8" cy="173.3" r="4" fill="#3465a4"><title>Herriot New Zealand</title></circle></a><a href="/variants/s7/dp2g8r1dy1db6lb15w1~x4/"><circle cx="180.8" cy="140.1" r="4" fill="#3465a4"><title>Manx National District Tartan</title></circle></a><circle cx="283.8" cy="178.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

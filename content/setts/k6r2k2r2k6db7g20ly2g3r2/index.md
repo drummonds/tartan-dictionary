@@ -1,6 +1,15 @@
 ---
 title: "Connolly Hunting (Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Connolly"
+  url: "/clan/connolly/"
+- name: "Connolly"
+  url: "/families/connolly/"
+- name: "Connolly Hunting"
+  url: "/tartans/c/co/connolly-hunting/"
 ---
 This is the **Connolly Hunting (Name)** sett — one scale-free proportion (`k6r2k2r2k6db7g20ly2g3r2`), colour order pattern
 [KRKRKBGYGR](/stripes/krkrkbgygr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k6r2k2r2k6db7g20y2g3r2~x2/"><circle cx="156.6" cy="144.3" r="4" fill="#3465a4"><title>Connolly Hunting</title></circle></a><a href="/variants/s11/dy4k2lo3k2dy7k9g20k2lb3k2g4~x2/"><circle cx="142.6" cy="147.1" r="4" fill="#3465a4"><title>Choinka Family (Personal)</title></circle></a><a href="/variants/s12/dy4w2dy2w3dy18k6g3k2g2k2g14lo3~x2/"><circle cx="132.7" cy="146.2" r="4" fill="#3465a4"><title>Dorcas Check Trade Tartan</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4lo3k4g24r3k4~x2/"><circle cx="153.0" cy="145.9" r="4" fill="#3465a4"><title>Skene (Maclan)</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4/"><circle cx="156.1" cy="147.1" r="4" fill="#3465a4"><title>Skene N</title></circle></a><a href="/variants/s9/r4db11k3db3k3db4k15g36w3~x2/"><circle cx="174.6" cy="138.2" r="4" fill="#3465a4"><title>Semple Family Tartan</title></circle></a><a href="/variants/s11/g6k2g24k10db2o2db2o2db10k2lb3~x2/"><circle cx="178.8" cy="134.0" r="4" fill="#3465a4"><title>Scottish Rugby Union (City of Nagasaki)</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4~x2~r1908029-y1904072/"><circle cx="158.5" cy="148.0" r="4" fill="#3465a4"><title>Skene N</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4~r1908029-y1904072/"><circle cx="158.5" cy="148.0" r="4" fill="#3465a4"><title>Skene N</title></circle></a><a href="/variants/s12/w4k2t9k3o3k3o3k23g10k2o6w2~x2/"><circle cx="148.2" cy="125.9" r="4" fill="#3465a4"><title>Auld Lang Syne Blue</title></circle></a><circle cx="152.9" cy="143.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Nicolson of Taransay Hunting (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Nicolson"
+  url: "/clan/nicolson/"
+- name: "Nicolson of Taransay"
+  url: "/families/nicolson-of-taransay/"
+- name: "Nicolson of Taransay Hunting"
+  url: "/tartans/n/ni/nicolson-of-taransay-hunting/"
 ---
 This is the **Nicolson of Taransay Hunting (Personal)** sett — one scale-free proportion (`r11db3dbi8w3y3g5k5`), colour order pattern
 [KGGWBBR](/stripes/kggwbbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dbi8r11g5db3y3w5k3~x2~dbi1406275-db1004274/"><circle cx="14.0" cy="217.6" r="4" fill="#3465a4"><title>Nicolson of Assynt &amp; Coigach (Name)</title></circle></a><a href="/variants/s6/g3dbi8r11db3k2dp2~x4~dbi1406275-db1404245/"><circle cx="127.4" cy="206.7" r="4" fill="#3465a4"><title>Nicolson of Tiree &amp; Coll (Clan)</title></circle></a><a href="/variants/s6/lbi3lb2db3r3k3ly1~x8~lbi3203246-lb3103284/"><circle cx="14.0" cy="272.1" r="4" fill="#3465a4"><title>Becker (Name)</title></circle></a><a href="/variants/s7/lb4dp3b1g9w1r8k1~x4/"><circle cx="86.0" cy="157.1" r="4" fill="#3465a4"><title>Wilson's, No 121</title></circle></a><a href="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/"><circle cx="76.3" cy="211.3" r="4" fill="#3465a4"><title>Huntly Gordon</title></circle></a><a href="/variants/s8/g14lb14db12lr8dy3k3dy3k5~x2/"><circle cx="14.0" cy="211.4" r="4" fill="#3465a4"><title>Somerset #2</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11dg13k2~x2~r2109032-db1406275-dg1806142/"><circle cx="66.1" cy="175.2" r="4" fill="#3465a4"><title>Kentucky State American District Tartan</title></circle></a><a href="/variants/s6/n2dg2r9k9g2y2~x4~dg1204144-g2408144/"><circle cx="77.4" cy="194.7" r="4" fill="#3465a4"><title>Wolves Wod Kindred</title></circle></a><a href="/variants/s6/y3dy6g10k18r22w3~x2/"><circle cx="82.0" cy="181.6" r="4" fill="#3465a4"><title>Tyrolean (Fashion?)</title></circle></a><a href="/variants/s7/k16y16r16g3db7w7k7~x2/"><circle cx="17.7" cy="208.3" r="4" fill="#3465a4"><title>Eusa</title></circle></a><circle cx="14.0" cy="213.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

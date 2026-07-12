@@ -1,6 +1,11 @@
 ---
 title: "Eeraerts, Laurent (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Eeraerts, Laurent"
+  url: "/tartans/e/ee/eeraerts-laurent/"
 ---
 This is the **Eeraerts, Laurent (Personal)** sett — one scale-free proportion (`w3b12db1g15o3w1`), colour order pattern
 [WBBGRW](/stripes/wbbgrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g35k3dbi26k4db4w3~x2~dbi1406275-db1106275/"><circle cx="219.4" cy="168.3" r="4" fill="#3465a4"><title>Pride of Yorkland (Fashion)</title></circle></a><a href="/variants/s5/r2g23db11dbi22r2~x2~db0805267-dbi1604274/"><circle cx="237.1" cy="233.6" r="4" fill="#3465a4"><title>Skibo</title></circle></a><a href="/variants/s5/db10k3lb65g56y6/"><circle cx="268.2" cy="167.5" r="4" fill="#3465a4"><title>Phoenix Police Honor Guard (Corp.)</title></circle></a><a href="/variants/s5/db10k3lb65dg56y6/"><circle cx="241.7" cy="154.1" r="4" fill="#3465a4"><title>Phoenix Police Honor Guard</title></circle></a><a href="/variants/s7/k2lb25k2t8k2g28y2~x2/"><circle cx="196.7" cy="156.4" r="4" fill="#3465a4"><title>Presley of Lonmay</title></circle></a><a href="/variants/s7/g2db14lg6n1g1n6r1~x4~db0906265-lg2704216/"><circle cx="239.9" cy="175.4" r="4" fill="#3465a4"><title>Loch Ness in Scotland</title></circle></a><a href="/variants/s5/db9w4g36lb36r4/"><circle cx="222.5" cy="223.7" r="4" fill="#3465a4"><title>Alvis of Lee (Personal)</title></circle></a><a href="/variants/s5/db9w4dg36lb36r4~x2/"><circle cx="196.9" cy="210.7" r="4" fill="#3465a4"><title>Alvis of Lee (Personal)</title></circle></a><a href="/variants/s6/w8lb30g5w3db8r5/"><circle cx="246.9" cy="195.4" r="4" fill="#3465a4"><title>Roseberry</title></circle></a><a href="/variants/s6/g42y2b16db7do16r5~x2/"><circle cx="265.7" cy="170.8" r="4" fill="#3465a4"><title>Waterford</title></circle></a><circle cx="237.9" cy="187.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

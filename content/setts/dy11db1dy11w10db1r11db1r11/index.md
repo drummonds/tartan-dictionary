@@ -1,6 +1,11 @@
 ---
 title: "St. Andrews (Queens University)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "St. Andrews"
+  url: "/tartans/s/st/st-andrews-3/"
 ---
 This is the **St. Andrews (Queens University)** sett — one scale-free proportion (`dy11db1dy11w10db1r11db1r11`), colour order pattern
 [BRBWGBGBGWBRBR](/stripes/brbwgbgbgwbrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g16dp8r45w6dp45w44dp6w12/"><circle cx="146.2" cy="186.9" r="4" fill="#3465a4"><title>Culloden Red Dress (Dance)</title></circle></a><a href="/variants/s7/dy1w2lb16dy8r16dy2w1~x2/"><circle cx="218.3" cy="175.2" r="4" fill="#3465a4"><title>Jones (2016)</title></circle></a><a href="/variants/s14/r5g16r5db4w2db4r22db4w2db4r5g16r5db2~x4/"><circle cx="225.7" cy="169.4" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/variants/s16/dr15n20lr6k4n10lr22k28n6dr6lr22n6dr2lr12k2lr3n10~x2/"><circle cx="138.6" cy="149.9" r="4" fill="#3465a4"><title>Alexander Brothers - 1993 (Corp.)</title></circle></a><a href="/variants/s14/y4dr23r4dr2r4lb19w4lb19r4dr2r4dr23y4dr2~x2~r2108022/"><circle cx="206.5" cy="145.4" r="4" fill="#3465a4"><title>Scottish Institute of Sport</title></circle></a><a href="/variants/s15/lb2r3db3r5g14r3db2r5g2r3db14r5g3r3lb2~x2/"><circle cx="183.7" cy="189.3" r="4" fill="#3465a4"><title>Glen Orchy #1</title></circle></a><a href="/variants/s8/r20db2r2db2ly3db12w18db3~x2~ly2705081/"><circle cx="179.6" cy="183.9" r="4" fill="#3465a4"><title>Heriot</title></circle></a><a href="/variants/s12/db16r1db1r1g12r16w2r16g12db12r1db1~x2/"><circle cx="218.1" cy="163.7" r="4" fill="#3465a4"><title>Fraser of Lovat Clan Tartan</title></circle></a><a href="/variants/s8/dr4w2dr1w18dr18r18ri3r4~x2~r1807033-ri2109032/"><circle cx="189.6" cy="162.3" r="4" fill="#3465a4"><title>Gigha, Cherry (Dance)</title></circle></a><a href="/variants/s9/ly3do2r14ly8do14dg16r13do2ly3~x2/"><circle cx="166.9" cy="204.1" r="4" fill="#3465a4"><title>Monaghan, County</title></circle></a><circle cx="164.5" cy="176.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

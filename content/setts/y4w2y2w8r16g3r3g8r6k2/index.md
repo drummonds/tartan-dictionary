@@ -1,6 +1,11 @@
 ---
 title: "Carolyn Melieres Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Carolyn Melieres"
+  url: "/tartans/c/ca/carolyn-melieres/"
 ---
 This is the **Carolyn Melieres Family Tartan** sett — one scale-free proportion (`y4w2y2w8r16g3r3g8r6k2`), colour order pattern
 [GWGWRGRGRK](/stripes/gwgwrgrgrk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8/"><circle cx="218.0" cy="149.5" r="4" fill="#3465a4"><title>Seton (Clan)</title></circle></a><a href="/variants/s14/y4r1y4ly1k1r6w1r4w1r6k1ly1y4w1~x8/"><circle cx="187.3" cy="174.4" r="4" fill="#3465a4"><title>Ogilvie - 1893 (Clan)</title></circle></a><a href="/variants/s9/lb1k1r10g10k5lb5r10k1lb1~x4/"><circle cx="177.2" cy="171.1" r="4" fill="#3465a4"><title>Graham Red</title></circle></a><a href="/variants/s9/k2r1g8r3g3r14y1r1w2~x2/"><circle cx="265.9" cy="129.6" r="4" fill="#3465a4"><title>Melieres, Michel (Personal)</title></circle></a><a href="/variants/s11/lr24p3lr8p5k3r3k3lr3k3o24r4~x2/"><circle cx="165.2" cy="142.0" r="4" fill="#3465a4"><title>Kerry (WCWM)</title></circle></a><a href="/variants/s7/r20k5g5r5w5n3g3~x4/"><circle cx="204.5" cy="175.7" r="4" fill="#3465a4"><title>Mangles, Peter and Annette (Personal)</title></circle></a><a href="/variants/s9/r12w2ly3w2r3k5r2ly18w2~x2/"><circle cx="185.0" cy="162.3" r="4" fill="#3465a4"><title>Ballater Trade or 'Fancy' Tartan</title></circle></a><a href="/variants/s9/w2k2r14g15k8w7r14k2w2/"><circle cx="136.4" cy="185.7" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s14/k4r3g2db2r6g15r2db4g2r15g7k2r4w2~x2/"><circle cx="157.2" cy="152.0" r="4" fill="#3465a4"><title>MacKinnon #5</title></circle></a><a href="/variants/s13/db2r11g2r11g21r2k9lb2db11r11g2r11db2~x2/"><circle cx="174.2" cy="148.2" r="4" fill="#3465a4"><title>Nicholson Clan Tartan</title></circle></a><circle cx="163.6" cy="169.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "European Congress of Immunology 2012"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "European Congress of Immunology 2012"
+  url: "/tartans/e/eu/european-congress-of-immunology-2012/"
 ---
 This is the **European Congress of Immunology 2012** sett — one scale-free proportion (`dp13y2k18r22k28db6w2db6k28r22db18y2dp13`), colour order pattern
 [BGBRKBWBKRKGB](/stripes/bgbrkbwbkrkgb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/y2r11k3r4k7y2k3dp4k3dp11k3dg1g1y1~x2~y2505139-g2408144/"><circle cx="93.4" cy="124.2" r="4" fill="#3465a4"><title>King, Garry (Personal)</title></circle></a><a href="/variants/s11/k4g2w2dp22k16r8k3r4k3dy4k3~x2/"><circle cx="140.1" cy="118.5" r="4" fill="#3465a4"><title>Hines Snr, Raymond Lee (Personal)</title></circle></a><a href="/variants/s14/db6o4k13o4db6w1db6o4k6ly1k6o4db6k1~x4~ly3106085/"><circle cx="107.4" cy="144.7" r="4" fill="#3465a4"><title>Amnesty International Corporate Tartan</title></circle></a><a href="/variants/s12/db20lb6k8y2k4w4k4db13r7k4r4w2~x2~db0804274/"><circle cx="103.8" cy="136.0" r="4" fill="#3465a4"><title>Stuart/Stewart Black</title></circle></a><a href="/variants/s14/r2dp5r2dp10k16m6lb2dpi14k1dpi14k6dp12k16m1~x2~dp0804317-dpi1508310/"><circle cx="135.4" cy="125.5" r="4" fill="#3465a4"><title>Katie Targett-Adams</title></circle></a><a href="/variants/s15/dg10y6dg20k20db20k6db8r6db20r6w4r16w4db6w1~x2/"><circle cx="92.5" cy="123.3" r="4" fill="#3465a4"><title>Watson - Kirby (Personal)</title></circle></a><a href="/variants/s11/db6y1r18k6r4k4dp8dg1dp8k1db5~x2~db1003265-dp1206332/"><circle cx="140.3" cy="119.0" r="4" fill="#3465a4"><title>Bute Heather, Autumn</title></circle></a><a href="/variants/s15/r6db2r6g10y1k10db6k1db2k1db6r6w2k2r2~x2/"><circle cx="58.0" cy="135.3" r="4" fill="#3465a4"><title>MacPherson #7</title></circle></a><a href="/variants/s12/k9w6k46db24r8db6r6db6r16g6r6y6/"><circle cx="100.0" cy="132.2" r="4" fill="#3465a4"><title>Fowdar (Personal)</title></circle></a><a href="/variants/s10/dg3g3r22k5db22y2db22k5r22g3~x2~dg1806142-g2408144/"><circle cx="158.3" cy="139.0" r="4" fill="#3465a4"><title>MacLeod Society of Scotland Clan Tartan</title></circle></a><circle cx="118.2" cy="130.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

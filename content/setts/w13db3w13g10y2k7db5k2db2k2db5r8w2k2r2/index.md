@@ -1,6 +1,15 @@
 ---
 title: "MacPherson Dress Clan Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacPherson"
+  url: "/clan/macpherson/"
+- name: "MacPherson"
+  url: "/families/macpherson/"
+- name: "MacPherson Dress"
+  url: "/tartans/m/ma/macpherson-dress-4/"
 ---
 This is the **MacPherson Dress Clan Tartan** sett — one scale-free proportion (`w13db3w13g10y2k7db5k2db2k2db5r8w2k2r2`), colour order pattern
 [RKWRBKBKBKGGWBW](/stripes/rkwrbkbkbkggwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k2w1db7k4r1w8r2w8k1dg7w1dg7y2~x4/"><circle cx="47.5" cy="149.4" r="4" fill="#3465a4"><title>MacLellan/McLellan Dress (Personal)</title></circle></a><a href="/variants/s17/db4ly2db4lb6w2k2lb6w2k2lb13ly3k4ly3k8db6w2r4~x2/"><circle cx="29.0" cy="158.4" r="4" fill="#3465a4"><title>Clauwaert (Personal)</title></circle></a><a href="/variants/s12/k2w1db7k4r1w8r2w8k1g7w1y2~x2/"><circle cx="70.4" cy="147.7" r="4" fill="#3465a4"><title>MacLellan, dress McLellan</title></circle></a><a href="/variants/s20/lb3k3o1k1o1k1o1k1o3lb2k1y1k1o1k2db2w7k1w2o1~x2/"><circle cx="14.9" cy="129.5" r="4" fill="#3465a4"><title>Unidentified 29</title></circle></a><a href="/variants/s14/w8db3w10dy8y2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="47.0" cy="137.4" r="4" fill="#3465a4"><title>MacInnes Hunting Dress Clan Tartan</title></circle></a><a href="/variants/s17/r3k8w2k3w2k2w6db3w6k2w2dy3w2dy4y2dy10w3~x2/"><circle cx="29.6" cy="163.9" r="4" fill="#3465a4"><title>Clanedin Commemorative Tartan</title></circle></a><a href="/variants/s16/dr3k8w2k3w2k2w6b3w6dy2w2dy3w2dy4ly10w3~x2/"><circle cx="30.1" cy="173.1" r="4" fill="#3465a4"><title>Clanedin/Commonwealth</title></circle></a><a href="/variants/s13/r4w16lb5k5y2k2w2k2g5r5k2r2w2~x2/"><circle cx="62.7" cy="131.3" r="4" fill="#3465a4"><title>Victoria (Wilsons)</title></circle></a><a href="/variants/s15/k6g10w10k2w23db10w2k6y2k8g10r12g4r8w4/"><circle cx="39.6" cy="137.0" r="4" fill="#3465a4"><title>Stuart/Stewart variant</title></circle></a><a href="/variants/s10/b2w2b1w9k5dg3dr2dg5k1ly2~x4/"><circle cx="51.9" cy="156.4" r="4" fill="#3465a4"><title>Firth of Tay</title></circle></a><circle cx="36.6" cy="147.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

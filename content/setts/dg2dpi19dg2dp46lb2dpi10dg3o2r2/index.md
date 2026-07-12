@@ -1,6 +1,11 @@
 ---
 title: "Spirit of Hoxa"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Spirit of Hoxa"
+  url: "/tartans/s/sp/spirit-of-hoxa/"
 ---
 This is the **Spirit of Hoxa** sett — one scale-free proportion (`dg2dpi19dg2dp46lb2dpi10dg3o2r2`), colour order pattern
 [GBGBWBGRR](/stripes/gbgbwbgrr/). It is recorded as a single **variant**, below.

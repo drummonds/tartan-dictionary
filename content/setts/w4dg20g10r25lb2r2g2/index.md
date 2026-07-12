@@ -1,6 +1,13 @@
 ---
 title: "Caledonian Brewery (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Caledonian"
+  url: "/clan/caledonian/"
+- name: "Caledonian Brewery"
+  url: "/tartans/c/ca/caledonian-brewery-2/"
 ---
 This is the **Caledonian Brewery (Corporate)** sett — one scale-free proportion (`w4dg20g10r25lb2r2g2`), colour order pattern
 [GRWRGGW](/stripes/grwrggw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w4dg20g10r25b2r2g2~x2/"><circle cx="217.5" cy="173.8" r="4" fill="#3465a4"><title>Caledonian Brewery</title></circle></a><a href="/variants/s10/g6dg2g3dg2g6db8r20ly2r3g2~x2/"><circle cx="216.1" cy="169.2" r="4" fill="#3465a4"><title>Connolly Dress (Name)</title></circle></a><a href="/variants/s8/r30db3r2db3r6db14g26dg6~g2408144-dg1806142/"><circle cx="242.0" cy="179.6" r="4" fill="#3465a4"><title>Cranston Dress Family Tartan</title></circle></a><a href="/variants/s5/r15w1db4y1g15~x4/"><circle cx="257.3" cy="189.9" r="4" fill="#3465a4"><title>Eglinton, Duke of (Artefact)</title></circle></a><a href="/variants/s8/r3dr14g8r2g2w2g2r1~x2/"><circle cx="242.1" cy="175.5" r="4" fill="#3465a4"><title>Scott Hunting Clan Tartan</title></circle></a><a href="/variants/s6/w15ly98dy72r25dy8lg15~w3600000-lg2704216/"><circle cx="204.9" cy="186.3" r="4" fill="#3465a4"><title>Afternoon Tea / Milk Tea</title></circle></a><a href="/variants/s9/ly25r2w2db2w2r13dy28db2r3~x2/"><circle cx="184.0" cy="142.7" r="4" fill="#3465a4"><title>Brousseau (Personal)</title></circle></a><a href="/variants/s8/r15db2r1db2r3db7g13dg3~x2~g2408144-dg1806142/"><circle cx="234.7" cy="182.5" r="4" fill="#3465a4"><title>Cranston Dress</title></circle></a><a href="/variants/s6/db8y4r30dg30lo3dg4~x2/"><circle cx="247.9" cy="195.0" r="4" fill="#3465a4"><title>Hutcheson (Name)</title></circle></a><a href="/variants/s7/r3b1r12o3dg12w1dg2~x4/"><circle cx="261.6" cy="175.4" r="4" fill="#3465a4"><title>Leckie (Personal)</title></circle></a><circle cx="215.4" cy="173.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,13 @@
 ---
 title: "Commonwealth Games Council (Corp.)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Commonwealth"
+  url: "/clan/commonwealth/"
+- name: "Commonwealth Games Council"
+  url: "/tartans/c/co/commonwealth-games-council/"
 ---
 This is the **Commonwealth Games Council (Corp.)** sett — one scale-free proportion (`o3k17dt11o2oi20w2`), colour order pattern
 [RKBRRW](/stripes/rkbrrw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dp6k3dp21k23w3g24r3~x2/"><circle cx="115.3" cy="187.1" r="4" fill="#3465a4"><title>Colquhoun #3</title></circle></a><a href="/variants/s9/o18k3o4lb3o4k18n20k2r4~x2~o2500000-n1900000/"><circle cx="120.7" cy="160.1" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/variants/s7/lbi4k13g6dr16lb2dr2g2~x2~lbi3200000-lb3103284/"><circle cx="139.2" cy="180.9" r="4" fill="#3465a4"><title>Caledonian Brewery Corporate Tartan</title></circle></a><a href="/variants/s7/k4t21dy10y4k20r6t3~x2/"><circle cx="108.7" cy="195.6" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><a href="/variants/s6/r10dbi24r4k30g36db5~dbi1604274-db0805267/"><circle cx="100.1" cy="199.6" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s9/lr18k3lr4lb3lr4k19n20k2r4~x2~lr2800000-n1700000/"><circle cx="113.3" cy="158.1" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/variants/s6/db6g27db3k19dp27w3~x2/"><circle cx="114.3" cy="198.3" r="4" fill="#3465a4"><title>Gold Brothers</title></circle></a><a href="/variants/s8/db18k5r26k5g25k5db18y2~x2/"><circle cx="120.8" cy="170.5" r="4" fill="#3465a4"><title>St. Clement of Rome (Corporate)</title></circle></a><a href="/variants/s6/w2dp20dr3k10g20lo2~x2/"><circle cx="119.9" cy="169.7" r="4" fill="#3465a4"><title>Morris of Balgonie (Personal)</title></circle></a><a href="/variants/s8/db18k5r26k5g25k5db18y2~x2~db1204274/"><circle cx="124.7" cy="170.6" r="4" fill="#3465a4"><title>St. Clement of Rome School</title></circle></a><circle cx="128.8" cy="181.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

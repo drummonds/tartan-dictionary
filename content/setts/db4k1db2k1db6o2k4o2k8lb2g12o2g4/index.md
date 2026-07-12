@@ -1,6 +1,15 @@
 ---
 title: "MacKusick (Piper) #1 (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacKusick"
+  url: "/clan/mackusick/"
+- name: "MacKusick"
+  url: "/families/mackusick/"
+- name: "MacKusick"
+  url: "/tartans/m/ma/mackusick-3/"
 ---
 This is the **MacKusick (Piper) #1 (Personal)** sett — one scale-free proportion (`db4k1db2k1db6o2k4o2k8lb2g12o2g4`), colour order pattern
 [BKBKBRKRKWGRG](/stripes/bkbkbrkrkwgrg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/ly4k1db12k12g12k1r4k1g12k12db12k1ly2~x4/"><circle cx="91.6" cy="148.9" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s13/db8r1db2r3db12r1k12w1g12r3g2r1g8/"><circle cx="113.2" cy="142.6" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><a href="/variants/s13/db8r1db2r3db12r1k12w1g12r3g2r1g8~x2/"><circle cx="113.2" cy="142.6" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><a href="/variants/s13/r4k1g12k12db12k1db4k1db12k12g12k1y4~x2/"><circle cx="102.2" cy="155.9" r="4" fill="#3465a4"><title>MacEwan</title></circle></a><a href="/variants/s13/y4k1g12k12db12k1db4k1db12k12g12k1w4~x2/"><circle cx="94.9" cy="155.8" r="4" fill="#3465a4"><title>Campbell of Loudon</title></circle></a><a href="/variants/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/"><circle cx="108.9" cy="152.9" r="4" fill="#3465a4"><title>MacDonell of Glengarry #2</title></circle></a><a href="/variants/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/"><circle cx="84.8" cy="153.9" r="4" fill="#3465a4"><title>MacRae Hunting (Wilsons)</title></circle></a><a href="/variants/s11/db11k2db2k2db2k11g11r2g3k1y3~x2/"><circle cx="114.7" cy="154.7" r="4" fill="#3465a4"><title>Grant Hunting Clan Tartan</title></circle></a><a href="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2~x2/"><circle cx="128.7" cy="137.9" r="4" fill="#3465a4"><title>Cameron of Erracht (Clan)</title></circle></a><a href="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2/"><circle cx="128.7" cy="137.9" r="4" fill="#3465a4"><title>Cameron of Erracht</title></circle></a><circle cx="91.4" cy="148.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Jardine Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Jardine,"
+  url: "/clan/jardine/"
+- name: "Jardine"
+  url: "/families/jardine/"
+- name: "Jardine Dress"
+  url: "/tartans/j/ja/jardine-dress/"
 ---
 This is the **Jardine Dress** sett — one scale-free proportion (`r26k2r6k2r6k20lr2db44lr2k6dg64k3`), colour order pattern
 [KRKRKYBYKGKGKYBYKRKRKR](/stripes/krkrkybykgkgkybykrkrkr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/k2g2k1g2k1g2k1g12db4k3db3k3db3k3db4dp24r2~x2/"><circle cx="145.7" cy="68.9" r="4" fill="#3465a4"><title>Rendell, Charles</title></circle></a><a href="/variants/s18/r2m3db2g32db3g1db3k14m3db2m3g12db1k1db30m4db2m2~x2/"><circle cx="191.7" cy="62.4" r="4" fill="#3465a4"><title>Cooper/Couper</title></circle></a><a href="/variants/s20/db24ly1r2dg2r2ly1k24dg24w2db2w2dg24k24ly1r2dg2r2ly1db24dg2~x2~db1204274-ly3307090-dg1802166/"><circle cx="142.3" cy="67.4" r="4" fill="#3465a4"><title>Smithsonian</title></circle></a><a href="/variants/s17/k2g2b1g2b1g2b1g12db4k3db3k3db3k3db4dp24r2~x2/"><circle cx="147.6" cy="69.9" r="4" fill="#3465a4"><title>Rendell, Charles (Personal)</title></circle></a><a href="/variants/s18/lr6k2dr40k16db6k2db4k2n4k2lb2k2n4db7k2n6db1dr4~x2~db1404245/"><circle cx="203.4" cy="41.8" r="4" fill="#3465a4"><title>Breeding</title></circle></a><a href="/variants/s18/lr6k2dr40k16db6k2db4k2n4k2lb2k2n4db7k2n6db1dr4~x2/"><circle cx="200.7" cy="40.3" r="4" fill="#3465a4"><title>Breeding (Name)</title></circle></a><a href="/variants/s10/g4lb2db33r2k35g33k1r2k1g4~x2~db1406275/"><circle cx="159.6" cy="66.9" r="4" fill="#3465a4"><title>Lochaber</title></circle></a><a href="/variants/s14/db22r2db2r6db2r2db38k46r2dy42n2dy2n2dy15~x2/"><circle cx="215.2" cy="104.5" r="4" fill="#3465a4"><title>Applestone</title></circle></a><a href="/variants/s13/dr4k2dr24y2k12db3k2db2k2db12w1db1w3~x2/"><circle cx="202.9" cy="93.6" r="4" fill="#3465a4"><title>Baron of Greencastle Dress #2 (Personal)</title></circle></a><a href="/variants/s14/db88k15g9r12g20k3y8k3g20r12g9k15db24k36~x2/"><circle cx="186.2" cy="92.8" r="4" fill="#3465a4"><title>Gillies</title></circle></a><circle cx="194.4" cy="61.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

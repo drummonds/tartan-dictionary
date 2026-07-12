@@ -1,6 +1,15 @@
 ---
 title: "Gayre Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Gayre"
+  url: "/clan/gayre/"
+- name: "Gayre"
+  url: "/families/gayre/"
+- name: "Gayre Dress"
+  url: "/tartans/g/ga/gayre-dress/"
 ---
 This is the **Gayre Dress** sett — one scale-free proportion (`lb8g2k2w2g8lb2g8w2k2dg3g2w2g1lb2k2`), colour order pattern
 [KWGWGGKWGWGWKGW](/stripes/kwgwggkwgwgwkgw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/lbi20g4k4lb4g16lbi4g16lb4k4r6g4lb4g3r6k4~x2~lbi3203246-lb3200000/"><circle cx="105.9" cy="168.4" r="4" fill="#3465a4"><title>Gayre</title></circle></a><a href="/variants/s12/r4g16db24k4w4g24k3g3k3g3w24g4/"><circle cx="126.3" cy="155.0" r="4" fill="#3465a4"><title>MacInnes Dress (Dalgliesh)</title></circle></a><a href="/variants/s18/g14lb2r3lb2k16y2lb16g16r3g16lb16y2k16lb2r3lb2g14k6~x2/"><circle cx="100.0" cy="153.3" r="4" fill="#3465a4"><title>Norwich No.038</title></circle></a><a href="/variants/s15/lb14g4k4w4g12lb4g12w4k4r6g4w4g3lb4k4~x2/"><circle cx="65.0" cy="195.9" r="4" fill="#3465a4"><title>Gayre Dress Clan Tartan</title></circle></a><a href="/variants/s13/r4g8db24k4w4k4g24k3g3k3g3w24g4~x2/"><circle cx="98.1" cy="146.4" r="4" fill="#3465a4"><title>MacInnes Dress Clan Tartan</title></circle></a><a href="/variants/s15/db18g4k4w4g16db4g16w4k4r5g4w4g4r5k4~x2/"><circle cx="93.0" cy="180.3" r="4" fill="#3465a4"><title>Gayre</title></circle></a><a href="/variants/s10/k3y2g18w3g18k3y4k3b18w3~x2/"><circle cx="174.4" cy="165.0" r="4" fill="#3465a4"><title>Forrester / Foster, hunting</title></circle></a><a href="/variants/s15/dp2k2g6lb4k2db5k4g20k4lb5k2lb4g6k2dp2~x2/"><circle cx="142.8" cy="137.4" r="4" fill="#3465a4"><title>Letham Hunting (Name)</title></circle></a><a href="/variants/s12/k4g4k2g12k6w3k6n2w4n2w15r3~x2/"><circle cx="71.1" cy="167.1" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/variants/s13/db1r1db8k3g8r1g1r1g8k3w10r1w1~x4/"><circle cx="92.6" cy="142.2" r="4" fill="#3465a4"><title>Blair Dress Clan Tartan</title></circle></a><circle cx="115.4" cy="164.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

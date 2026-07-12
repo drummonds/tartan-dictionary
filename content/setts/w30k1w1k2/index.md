@@ -1,6 +1,11 @@
 ---
 title: "Covenanter"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Covenanter"
+  url: "/tartans/c/co/covenanter/"
 ---
 This is the **Covenanter** sett — one scale-free proportion (`w30k1w1k2`), colour order pattern
 [KWKW](/stripes/kwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/n25k9n10w2~x4/"><circle cx="431.9" cy="223.1" r="4" fill="#3465a4"><title>Graham Grey - 1820 (Fashion?)</title></circle></a><a href="/variants/s4/w1n12dp1w1~x4/"><circle cx="584.3" cy="235.2" r="4" fill="#3465a4"><title>Lochnagar</title></circle></a><a href="/variants/s5/n2k13n31k1n1~x4/"><circle cx="471.8" cy="157.0" r="4" fill="#3465a4"><title>Silver Mist</title></circle></a><a href="/variants/s3/r1n19w1~x2/"><circle cx="626.0" cy="223.8" r="4" fill="#3465a4"><title>Dunbar of Pitgaveny Family Tartan</title></circle></a><a href="/variants/s3/r35w94k6/"><circle cx="390.5" cy="209.3" r="4" fill="#3465a4"><title>St Georges Check</title></circle></a><a href="/variants/s7/db3o1w1o25w1o1dp3~x4~db1406275-o2500000-dp1607327/"><circle cx="626.0" cy="122.7" r="4" fill="#3465a4"><title>St. Giles Check</title></circle></a><a href="/variants/s4/w35db12r2n2~x2/"><circle cx="390.0" cy="181.9" r="4" fill="#3465a4"><title>Triplett, Jack Arnold</title></circle></a><a href="/variants/s6/w162k10dg10b9y6dg3/"><circle cx="487.5" cy="63.4" r="4" fill="#3465a4"><title>Young, Christina</title></circle></a><a href="/variants/s7/k7w3k7w45r3w3r3~x2/"><circle cx="386.9" cy="134.3" r="4" fill="#3465a4"><title>White Stripes (Corporate)</title></circle></a><a href="/variants/s6/w54k7r7lo6ly4r1~x2~ly3307090/"><circle cx="374.1" cy="74.6" r="4" fill="#3465a4"><title>Young, Christina</title></circle></a><circle cx="621.5" cy="153.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

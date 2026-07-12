@@ -1,6 +1,15 @@
 ---
 title: "MacKinlay Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacKinlay"
+  url: "/clan/mackinlay/"
+- name: "MacKinlay"
+  url: "/families/mackinlay/"
+- name: "MacKinlay Dress"
+  url: "/tartans/m/ma/mackinlay-dress/"
 ---
 This is the **MacKinlay Dress** sett — one scale-free proportion (`dr2k1db8k6lb8k2lb2k2lb8k6g8k1dr2k1g8k6lb2k2lb2k2lb6k2lb2k2lb2k6db8k1dr2`), colour order pattern
 [BKBKWKWKWKGKBKGKWKWKWKWKWKBKB](/stripes/bkbkwkwkwkgkbkgkwkwkwkwkwkbkb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s26/db12w11r2w11db12dg11k2dg3k2dg11k8db2r2db2w2db11w2db2r2db2k8dg11k2dg3k2dg11~x2/"><circle cx="50.1" cy="149.0" r="4" fill="#3465a4"><title>Scottish National Dress District Tartan</title></circle></a><a href="/variants/s28/k20g14k2y4k2g14k10w6db6w18db3w4db3w18db6w6k10g14k2w4k2g14k12db12k2db6k2db12/"><circle cx="25.9" cy="133.2" r="4" fill="#3465a4"><title>Campbell of Loch Neil Dress</title></circle></a><a href="/variants/s22/db4k3g17k17db15k3r4k3db15k17w3db4w25db3w6db3w25db4w3k17g17k3~x2/"><circle cx="39.1" cy="134.0" r="4" fill="#3465a4"><title>Argyle Dress</title></circle></a><a href="/variants/s25/db10k2db2k2db10k10w3db4w15db2w4db2w15db4w3k10g11k3g11k9db10k2db2k2db10~x2/"><circle cx="70.4" cy="158.1" r="4" fill="#3465a4"><title>Black Watch Dress Tartan</title></circle></a><a href="/variants/s22/db6r2db7r2db7r2k7dg8r2dg3r2dg5w2dg5r2dg3r2dg8k9w15k9r2~x2/"><circle cx="25.6" cy="150.6" r="4" fill="#3465a4"><title>MacDonell of Glengarry Dress</title></circle></a><a href="/variants/s14/t8k1t1k1t1k5g6k1g6k5db3t1dr1t1~x4~t2405244/"><circle cx="83.2" cy="136.8" r="4" fill="#3465a4"><title>Gemmell Clan/Family Tartan</title></circle></a><a href="/variants/s26/db12k2db6k2db12k12g14k2w4k2g14k10w6db6w18db3w4db3w18db6w6k10g14k2y4k2/"><circle cx="26.9" cy="139.5" r="4" fill="#3465a4"><title>Campbell of Loch Neil Dress Clan Tartan</title></circle></a><a href="/variants/s26/k11g15k2y3k2g15k11w5k5w19k2w5k2w19k5w5k11g15k2w3k2g15k11db11k3db11~x2/"><circle cx="48.5" cy="135.5" r="4" fill="#3465a4"><title>Campbell of Argyll Dress Trade Tartan</title></circle></a><a href="/variants/s26/r5k3db10k3g20k3r5k3db5k3r5db5k3db5r5k3db5k3r5k3g20k3db10k3r5w3~x2/"><circle cx="41.6" cy="139.0" r="4" fill="#3465a4"><title>Schneidersohne Centenary</title></circle></a><a href="/variants/s20/db10k10g9k2w2k2g9k10w2db2w14db2w2db2w14db2w2k10db10r2~x2/"><circle cx="39.2" cy="149.8" r="4" fill="#3465a4"><title>MacKenzie Dress Clan Tartan</title></circle></a><circle cx="57.5" cy="135.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

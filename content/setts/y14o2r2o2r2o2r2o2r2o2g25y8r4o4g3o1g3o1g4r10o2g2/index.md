@@ -1,6 +1,15 @@
 ---
 title: "Ontario"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ontario"
+  url: "/clan/ontario/"
+- name: "Ontario"
+  url: "/families/ontario/"
+- name: "Ontario"
+  url: "/tartans/o/on/ontario-3/"
 ---
 This is the **Ontario** sett — one scale-free proportion (`y14o2r2o2r2o2r2o2r2o2g25y8r4o4g3o1g3o1g4r10o2g2`), colour order pattern
 [GRRGRGRGRRGGRRRRRRRRRG](/stripes/grrgrgrgrrggrrrrrrrrrg/). It is recorded as a single **variant**, below.

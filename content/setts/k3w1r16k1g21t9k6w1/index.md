@@ -1,6 +1,11 @@
 ---
 title: "Ford & Etal"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Ford & Etal"
+  url: "/tartans/f/fo/ford-etal/"
 ---
 This is the **Ford & Etal** sett — one scale-free proportion (`k3w1r16k1g21t9k6w1`), colour order pattern
 [KWRKGBKW](/stripes/kwrkgbkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r8ly44k32w2n52k7n7w3/"><circle cx="169.8" cy="122.4" r="4" fill="#3465a4"><title>Golden Wedding (Fashion)</title></circle></a><a href="/variants/s7/w2k1g16k12r12k1w2~x2/"><circle cx="147.4" cy="156.5" r="4" fill="#3465a4"><title>Prince Edward Island District Tartan</title></circle></a><a href="/variants/s12/lb6k1t20r2g3r2k15r2g3r2k6ly3~x2~lb3200000-t2503227/"><circle cx="100.8" cy="92.4" r="4" fill="#3465a4"><title>Royal Scottish P.B. Assoc. (Corp.)</title></circle></a><a href="/variants/s9/r2g10k12n1ly2n14k1n1g2~x2/"><circle cx="147.3" cy="142.1" r="4" fill="#3465a4"><title>McWilliams Wedding (Personal)</title></circle></a><a href="/variants/s9/k3dy14lo4dy9lo14k14g28k1o3~x2/"><circle cx="119.5" cy="129.4" r="4" fill="#3465a4"><title>Dutch Friendship</title></circle></a><a href="/variants/s8/y1k6g32k12r12b9k6w1~x2/"><circle cx="159.2" cy="101.8" r="4" fill="#3465a4"><title>McGeachie (Personal)</title></circle></a><a href="/variants/s9/w2db4r16k12g36dy1db6k2w2~x2/"><circle cx="186.3" cy="76.1" r="4" fill="#3465a4"><title>National Millennium</title></circle></a><a href="/variants/s8/g28db3g3k10r2k10r20y4~x2/"><circle cx="147.0" cy="148.4" r="4" fill="#3465a4"><title>Garvock (2015)</title></circle></a><a href="/variants/s11/dp4g3k1g3dp2g20k10dr20dp2k2lo4~x2/"><circle cx="161.7" cy="119.6" r="4" fill="#3465a4"><title>Moffat (1994)</title></circle></a><a href="/variants/s6/lb3dr30k18db6g30k2~x2/"><circle cx="149.9" cy="174.1" r="4" fill="#3465a4"><title>Bryant (Dalgleish) (Personal)</title></circle></a><circle cx="152.6" cy="130.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

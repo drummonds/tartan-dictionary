@@ -1,6 +1,11 @@
 ---
 title: "Mary, Queen of Scots"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Mary, Queen of Scots"
+  url: "/tartans/m/ma/mary-queen-of-scots/"
 ---
 This is the **Mary, Queen of Scots** sett — one scale-free proportion (`r5w1db10g10w1y1g2lb2w1`), colour order pattern
 [RWBGWGGWW](/stripes/rwbgwggww/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r2g6lb1g1lb1g1lb3dt8y1t1~x4~dt1102249-t2308259/"><circle cx="129.3" cy="174.0" r="4" fill="#3465a4"><title>Haines Family (Personal)</title></circle></a><a href="/variants/s11/w3g28dg3g3dg11db4r3db3r6db15wi3~x2~w3502055-wi4000000/"><circle cx="152.5" cy="159.5" r="4" fill="#3465a4"><title>Wojtek Memorial Trust</title></circle></a><a href="/variants/s11/w3db15r6db3r3db4dg11g3dg3g28lo3~x2/"><circle cx="155.0" cy="160.1" r="4" fill="#3465a4"><title>Wojtek Memorial Trust</title></circle></a><a href="/variants/s10/ly7g11db4lb31db4g11dy4db14w3db4~x2/"><circle cx="141.0" cy="179.9" r="4" fill="#3465a4"><title>State Seal of Nebraska (Fashion)</title></circle></a><a href="/variants/s10/do3db2g19db6g2db6ly14w2dp4w2~x2/"><circle cx="142.3" cy="179.4" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society Commemorative Tartan</title></circle></a><a href="/variants/s7/b16r1g16w1dy1w8dr3~x2/"><circle cx="173.4" cy="160.5" r="4" fill="#3465a4"><title>Chambers, Christopher J (Personal)</title></circle></a><a href="/variants/s7/r2ly2db9dy1dg9r1w1~x2/"><circle cx="165.0" cy="176.7" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><a href="/variants/s9/db16w6r8db3lo1g1lg3db1g10~x4/"><circle cx="158.2" cy="147.0" r="4" fill="#3465a4"><title>Ogilvie of Inverquharity or Ohio</title></circle></a><a href="/variants/s12/y3lb21db12g3db3y3db3gi8g5db2g7w3~x2~db1003265-gi1902194/"><circle cx="119.3" cy="175.1" r="4" fill="#3465a4"><title>Holroyd, John (Personal)</title></circle></a><a href="/variants/s8/db2r1db10w1o4g8y1g2~x4/"><circle cx="190.9" cy="176.8" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><circle cx="150.6" cy="167.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

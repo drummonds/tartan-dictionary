@@ -1,6 +1,13 @@
 ---
 title: "Young, Melvina"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Young"
+  url: "/clan/young/"
+- name: "Young, Melvina"
+  url: "/tartans/y/yo/young-melvina/"
 ---
 This is the **Young, Melvina** sett — one scale-free proportion (`k4w1db26k5db5k32g23k2r4k2g13k1`), colour order pattern
 [KGKRKGKBKBWK](/stripes/kgkrkgkbkbwk/). It is recorded as **2 variants** — the same
@@ -23,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k4w1db26k5db5k32g23k2r4k2g13k1~x2~g2408144-r2109032/"><circle cx="173.1" cy="88.6" r="4" fill="#3465a4"><title>Young, Melvina</title></circle></a><a href="/variants/s8/db28y1db2k26g24k1g2r3~x2/"><circle cx="180.2" cy="90.7" r="4" fill="#3465a4"><title>Ogilvie of Inverarity (V.S.)</title></circle></a><a href="/variants/s10/g4lb2db33r2k35g33k1r2k1g4~x2/"><circle cx="182.0" cy="87.7" r="4" fill="#3465a4"><title>Lochaber District Tartan</title></circle></a><a href="/variants/s13/db24k4db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="144.8" cy="115.2" r="4" fill="#3465a4"><title>Craigclowan School</title></circle></a><a href="/variants/s14/db20k2g3k2db20r3k20r2k20r3g30y3g1y2~x2/"><circle cx="151.0" cy="92.0" r="4" fill="#3465a4"><title>Glynn of Glynstewart (Personal)</title></circle></a><a href="/variants/s12/db4w2db24k3db3k3db8k24g48k3g3r2~x2/"><circle cx="193.8" cy="93.6" r="4" fill="#3465a4"><title>Urquhart (White Line)</title></circle></a><a href="/variants/s12/db4w2db24k3db3k3db8k24g48k3g3r2/"><circle cx="193.8" cy="93.6" r="4" fill="#3465a4"><title>Urquhart White Line Clan Tartan</title></circle></a><a href="/variants/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="156.5" cy="100.5" r="4" fill="#3465a4"><title>Robertson Hunting</title></circle></a><a href="/variants/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="152.7" cy="101.4" r="4" fill="#3465a4"><title>Robertson Htg - 1816 (Clan)</title></circle></a><a href="/variants/s11/g3db1g1db12k2db2k2db3k12dg24w3~x2~g2408144-dg1806142/"><circle cx="172.1" cy="108.3" r="4" fill="#3465a4"><title>Selby</title></circle></a><circle cx="172.8" cy="88.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "New Mexico (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "New Mexico"
+  url: "/tartans/n/ne/new-mexico-3/"
 ---
 This is the **New Mexico (Fashion)** sett — one scale-free proportion (`g10dp42r5dg42g42ly5g6`), colour order pattern
 [GBRGGYG](/stripes/gbrggyg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g10db42r5dg42g42y5g10/"><circle cx="219.0" cy="227.6" r="4" fill="#3465a4"><title>New Mexico</title></circle></a><a href="/variants/s9/dy21r2g18r2g18r2dg8w6dy10~x2/"><circle cx="200.1" cy="200.8" r="4" fill="#3465a4"><title>Red Dirt Girl</title></circle></a><a href="/variants/s9/g4r1db2r1g10dy5r3dy10y1~x4/"><circle cx="235.3" cy="200.5" r="4" fill="#3465a4"><title>Moncton, City of</title></circle></a><a href="/variants/s7/r6g4dy14w4dy7g30y4~x2/"><circle cx="249.5" cy="210.0" r="4" fill="#3465a4"><title>Newfoundland</title></circle></a><a href="/variants/s7/dg12g6r1g10dp8y2w2~x4/"><circle cx="174.0" cy="199.7" r="4" fill="#3465a4"><title>Connelly, James (Personal)</title></circle></a><a href="/variants/s7/r4g3dy8w3dy4g18y3~x2/"><circle cx="228.7" cy="222.8" r="4" fill="#3465a4"><title>Newfoundland District Tartan</title></circle></a><a href="/variants/s7/g24r9g4dg19y2dg6g7~x2/"><circle cx="309.4" cy="230.2" r="4" fill="#3465a4"><title>Doyle</title></circle></a><a href="/variants/s5/r3g28db9dg18w3~x2/"><circle cx="230.4" cy="225.9" r="4" fill="#3465a4"><title>Simple Technology (Corporate)</title></circle></a><a href="/variants/s7/g32o7g7o16db32y3o8~x2/"><circle cx="234.6" cy="229.2" r="4" fill="#3465a4"><title>Strange Of Balcaskie</title></circle></a><a href="/variants/s6/db30y3dy11y3g33r6~x2/"><circle cx="216.9" cy="207.6" r="4" fill="#3465a4"><title>Balfour Hunting</title></circle></a><circle cx="200.4" cy="217.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

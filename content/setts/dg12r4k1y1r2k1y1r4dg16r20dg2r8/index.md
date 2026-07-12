@@ -1,6 +1,13 @@
 ---
 title: "Livingstone (Australia) NSW"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Livingstone"
+  url: "/clan/livingstone/"
+- name: "Livingstone NSW"
+  url: "/tartans/l/li/livingstone-nsw/"
 ---
 This is the **Livingstone (Australia) NSW** sett — one scale-free proportion (`dg12r4k1y1r2k1y1r4dg16r20dg2r8`), colour order pattern
 [GRKGRKGRGRGR](/stripes/grkgrkgrgrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dg12r4k1ly1r2k1ly1r4dg16r20dg2r8~x2/"><circle cx="314.5" cy="121.8" r="4" fill="#3465a4"><title>Livingstone Australia (NSW) (Clan)</title></circle></a><a href="/variants/s10/g12r4k1r2k1r4g16r20g2r8~x2/"><circle cx="346.3" cy="157.4" r="4" fill="#3465a4"><title>Livingstone #2</title></circle></a><a href="/variants/s10/g12r3k1r3k1r4g16r20g2r8~x2/"><circle cx="346.2" cy="157.6" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/variants/s9/g20k2r3k2r6g20r29g3r10~x2/"><circle cx="312.3" cy="175.2" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/variants/s11/ri4g8k6r8ri6g2ri2g2ri24g1ri3~x2~ri2008029-r1707016/"><circle cx="334.8" cy="120.0" r="4" fill="#3465a4"><title>MacDougal 3</title></circle></a><a href="/variants/s10/o28k2o28k2o2k2do29k2r2k2~x2/"><circle cx="345.3" cy="136.8" r="4" fill="#3465a4"><title>Ulster</title></circle></a><a href="/variants/s11/ri4g8k6r8ri6g2ri2g2ri24g1ri3~x2~ri2209032-r1707016/"><circle cx="324.4" cy="115.3" r="4" fill="#3465a4"><title>MacDougall #8</title></circle></a><a href="/variants/s10/r4g8w1g8r4g4r2g4r24k2~x2/"><circle cx="337.8" cy="125.7" r="4" fill="#3465a4"><title>Cumming Clan Tartan</title></circle></a><a href="/variants/s12/r8g1r8g16r4k2lb1k4r8g1r8k1~x2/"><circle cx="285.1" cy="138.6" r="4" fill="#3465a4"><title>MacLeod and MacNicol</title></circle></a><a href="/variants/s13/y4k1r22g5r4g12r6g12r4g5r22k1w4~x2/"><circle cx="301.6" cy="119.2" r="4" fill="#3465a4"><title>Bruce</title></circle></a><circle cx="321.3" cy="124.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

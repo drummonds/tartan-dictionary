@@ -1,6 +1,9 @@
 ---
 title: "Clan Murray (Duke of Atholl)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 **Territory:** Atholl · **1745 strength:** 3000 men
 

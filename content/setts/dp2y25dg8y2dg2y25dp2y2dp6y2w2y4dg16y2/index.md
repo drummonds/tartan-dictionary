@@ -1,6 +1,11 @@
 ---
 title: "Beechgrove Garden, The"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Beechgrove Garden, The"
+  url: "/tartans/b/be/beechgrove-garden-the-2/"
 ---
 This is the **Beechgrove Garden, The** sett — one scale-free proportion (`dp2y25dg8y2dg2y25dp2y2dp6y2w2y4dg16y2`), colour order pattern
 [BGGGGGBGBGWGGG](/stripes/bgggggbgbgwggg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/w2g4dg16g2dp2g25dg8g2dg2g25dp2g2dp6g2w2~x2~g2408144-dg1806142/"><circle cx="395.7" cy="184.1" r="4" fill="#3465a4"><title>Beechgrove Garden, The</title></circle></a><a href="/variants/s14/g14dy4db4dy27g3dy4ly5dy4g3dy27db4dy4g14ly5~x2~g2408144-dy1603076-db1406275-ly3307090/"><circle cx="352.3" cy="203.7" r="4" fill="#3465a4"><title>Invertere (Daks #2)</title></circle></a><a href="/variants/s14/g68r4g6db4dg34db4g6r4g68db4dg16r4dg19db4~x2/"><circle cx="394.8" cy="154.4" r="4" fill="#3465a4"><title>ASDA Wal-Mart</title></circle></a><a href="/variants/s12/dg27g39db3g3db4g3db3g39db3g3db4g3~x2/"><circle cx="469.0" cy="198.6" r="4" fill="#3465a4"><title>Montgomerie Artifact Tartan</title></circle></a><a href="/variants/s10/g12loi6lo16dg10w6dg8g12dg70loi9dg7~g2408144-loi2906085-lo2706066-dg1806142/"><circle cx="392.4" cy="191.0" r="4" fill="#3465a4"><title>Rams Timeless</title></circle></a><a href="/variants/s10/g12y6lo16dg10w6dg8g12dg70y9dg7~g2408144-dg1806142/"><circle cx="391.7" cy="191.1" r="4" fill="#3465a4"><title>Rams Timeless</title></circle></a><a href="/variants/s10/g3dr6g2dr1g2dr1g16lr1g2lr3~x4/"><circle cx="458.5" cy="166.8" r="4" fill="#3465a4"><title>Prince of Wales Fashion Weavers Tartan</title></circle></a><a href="/variants/s12/r2db2g16y1db6r1y1r1db6y1g16y2~x2/"><circle cx="349.2" cy="157.7" r="4" fill="#3465a4"><title>Monroig, Eric (Personal)</title></circle></a><a href="/variants/s14/n9g4w5g30r2g4r2g4r2g30w5g4n9g5~x2/"><circle cx="437.7" cy="165.4" r="4" fill="#3465a4"><title>Welsh Assembly</title></circle></a><a href="/variants/s7/dt16g4dt3g3lo2g24dr2~x2/"><circle cx="400.7" cy="222.1" r="4" fill="#3465a4"><title>St. Andrews Links (Corporate)</title></circle></a><circle cx="404.1" cy="182.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

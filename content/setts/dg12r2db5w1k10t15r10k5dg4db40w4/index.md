@@ -1,6 +1,15 @@
 ---
 title: "Gemmell of Dumfries & Galloway (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Gemmell"
+  url: "/clan/gemmell/"
+- name: "Gemmell"
+  url: "/families/gemmell/"
+- name: "Gemmell Dress"
+  url: "/tartans/g/ge/gemmell-dress/"
 ---
 This is the **Gemmell of Dumfries & Galloway (Personal)** sett — one scale-free proportion (`dg12r2db5w1k10t15r10k5dg4db40w4`), colour order pattern
 [GRBWKBRKGBW](/stripes/grbwkbrkgbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/b16y3b8db12b1db6k32r1w2~x2/"><circle cx="175.1" cy="89.9" r="4" fill="#3465a4"><title>Wrens</title></circle></a><a href="/variants/s11/g9r2m2g3m18g2k2g1k19db33w2~x2/"><circle cx="151.2" cy="71.7" r="4" fill="#3465a4"><title>Pride of Scotland</title></circle></a><a href="/variants/s10/w5lb7db4lb2db25k13r1k2r4ri3~x2~r1807033-ri2109032/"><circle cx="157.0" cy="87.3" r="4" fill="#3465a4"><title>Bell Rock Lighthouse 200th Aniversar</title></circle></a><a href="/variants/s8/k6r2k6r12w2db36y1g3~x2/"><circle cx="257.8" cy="70.0" r="4" fill="#3465a4"><title>Fremont Presbyterian Church (P)</title></circle></a><a href="/variants/s12/t33db3t7db3t33r2k22g3dbi49g3k22r2~x2~db1106275-dbi1406275/"><circle cx="167.8" cy="97.5" r="4" fill="#3465a4"><title>U.S. 2001 Air Force</title></circle></a><a href="/variants/s8/lg2dg9k16r2db30lg3dg6w1~x2~lg3304130-dg1202138/"><circle cx="201.8" cy="99.5" r="4" fill="#3465a4"><title>Climb, The</title></circle></a><a href="/variants/s10/w6n8dt4n2dt31k16dr1k2dr4r3~x2~n2002277-dt1203265/"><circle cx="203.5" cy="83.9" r="4" fill="#3465a4"><title>Bell Rock Lighthouse 200th Anniversary, The</title></circle></a><a href="/variants/s12/k4w1db26k5db5k32b23k2r4k2b13k2~x2/"><circle cx="191.4" cy="90.6" r="4" fill="#3465a4"><title>Naomia Melvina Young Wedding Dress</title></circle></a><a href="/variants/s11/k3db28w2y2db1g4k8w3r4y10k2~x2/"><circle cx="165.8" cy="71.6" r="4" fill="#3465a4"><title>Colours of Hope</title></circle></a><a href="/variants/s10/g1b28k11dr5w1dr5k11ly1k2g1~x2/"><circle cx="195.8" cy="78.8" r="4" fill="#3465a4"><title>Scragg, Moran (Personal)</title></circle></a><circle cx="172.2" cy="73.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

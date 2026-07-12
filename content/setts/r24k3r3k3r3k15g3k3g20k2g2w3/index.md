@@ -1,6 +1,11 @@
 ---
 title: "Duns Pipe Band"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Duns Pipe Band"
+  url: "/tartans/d/du/duns-pipe-band/"
 ---
 This is the **Duns Pipe Band** sett — one scale-free proportion (`r24k3r3k3r3k15g3k3g20k2g2w3`), colour order pattern
 [RKRKRKGKGKGW](/stripes/rkrkrkgkgkgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k2y2g2k2g17k2r2k2r17k2r5g2~x2/"><circle cx="191.9" cy="142.9" r="4" fill="#3465a4"><title>Hampson (Name)</title></circle></a><a href="/variants/s12/k6r3k3r24lb4k10r2g4r2g24r6lb2~x2/"><circle cx="174.0" cy="136.5" r="4" fill="#3465a4"><title>Bates (Name)</title></circle></a><a href="/variants/s10/dp3r4g26k3dp4k16dp4k3r26g2~x2/"><circle cx="147.1" cy="144.8" r="4" fill="#3465a4"><title>Famous Grouse, The</title></circle></a><a href="/variants/s12/k6r3k3r24lb4k10r2g4r2g24r6lb2~x2~g2408144/"><circle cx="170.9" cy="136.0" r="4" fill="#3465a4"><title>Bates</title></circle></a><a href="/variants/s10/g3r20k2db3k13db3k2g20r3db2~x2/"><circle cx="134.9" cy="156.4" r="4" fill="#3465a4"><title>Matthew Gloag</title></circle></a><a href="/variants/s10/g20k1g2k1g3k14r28k1r2k4~x2/"><circle cx="231.9" cy="114.2" r="4" fill="#3465a4"><title>Kerr</title></circle></a><a href="/variants/s13/r26k2r3k2r3k16g18ly4g18k16r18k2r3~x2/"><circle cx="160.0" cy="144.6" r="4" fill="#3465a4"><title>Red Watch (Fashion) #3</title></circle></a><a href="/variants/s9/r20k2r2k2r2k8g24db2g3~x2/"><circle cx="201.1" cy="144.4" r="4" fill="#3465a4"><title>Mostyn</title></circle></a><a href="/variants/s9/g12dg1g1dg1g1k5r10k1r2~x2/"><circle cx="194.1" cy="149.2" r="4" fill="#3465a4"><title>Lindsay #2</title></circle></a><a href="/variants/s10/k21g2k2g2k3g15r29g2r2g4~x2/"><circle cx="204.2" cy="144.0" r="4" fill="#3465a4"><title>City of Armadale (District)</title></circle></a><circle cx="152.6" cy="132.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

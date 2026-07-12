@@ -1,6 +1,11 @@
 ---
 title: "Scottish Funereal Association"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Scottish Funereal Association"
+  url: "/tartans/s/sc/scottish-funereal-association/"
 ---
 This is the **Scottish Funereal Association** sett — one scale-free proportion (`k12dbi1k2db1k1db4dg1k1`), colour order pattern
 [KBKBKBGK](/stripes/kbkbkbgk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k3lb1k32db6k4db16k3r2~x2/"><circle cx="391.0" cy="114.7" r="4" fill="#3465a4"><title>Little of Morton Rigg Red (Personal)</title></circle></a><a href="/variants/s7/k19r2k20db6k8db6ly2~x2/"><circle cx="330.8" cy="168.1" r="4" fill="#3465a4"><title>Wyse (2016)</title></circle></a><a href="/variants/s7/k5db15k5lb1k35dp1k2~x4/"><circle cx="481.8" cy="115.0" r="4" fill="#3465a4"><title>Gibson, Robert (Personal)</title></circle></a><a href="/variants/s8/r4dg3k2dg38db30k3db3k3~x2/"><circle cx="351.4" cy="159.1" r="4" fill="#3465a4"><title>Peter of Lee Family Tartan</title></circle></a><a href="/variants/s7/k25dy5k5dg25k25db3k10~x2/"><circle cx="381.8" cy="223.5" r="4" fill="#3465a4"><title>London Community Gospel Choir, The</title></circle></a><a href="/variants/s9/db23k2db2k2db2k28dr2k4t2~x2/"><circle cx="344.9" cy="145.9" r="4" fill="#3465a4"><title>Trotter (Personal)</title></circle></a><a href="/variants/s6/k7r2k33db33k2db7~x2/"><circle cx="349.5" cy="186.7" r="4" fill="#3465a4"><title>Casterton (Corporate)</title></circle></a><circle cx="477.6" cy="172.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

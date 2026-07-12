@@ -1,6 +1,15 @@
 ---
 title: "Glasgow District Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Glasgow"
+  url: "/clan/glasgow/"
+- name: "Glasgow"
+  url: "/families/glasgow/"
+- name: "Glasgow"
+  url: "/tartans/g/gl/glasgow-3/"
 ---
 This is the **Glasgow District Tartan** sett — one scale-free proportion (`r10g14r3db14r10g14r3db4`), colour order pattern
 [BRGRBRGR](/stripes/brgrbrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g25r4db24r21g25r3db4~x2/"><circle cx="256.1" cy="247.5" r="4" fill="#3465a4"><title>Glasgow #2</title></circle></a><a href="/variants/s7/db30r5g30r22db30r5g4/"><circle cx="252.9" cy="247.9" r="4" fill="#3465a4"><title>GS Gaelic School (School)</title></circle></a><a href="/variants/s9/g3r9lb1g9r1g1r8db9r1~x4/"><circle cx="238.7" cy="202.6" r="4" fill="#3465a4"><title>Baronage</title></circle></a><a href="/variants/s9/g3r9lb1g9r1g1r9db9r1~x4/"><circle cx="245.3" cy="201.7" r="4" fill="#3465a4"><title>Convention of the Baronage (Corp)</title></circle></a><a href="/variants/s8/r3db3r3db10g10r3g3r3~x2/"><circle cx="170.0" cy="275.7" r="4" fill="#3465a4"><title>Flora MacDonald</title></circle></a><a href="/variants/s5/r4dg4r1db4r4~x12~dg1605139/"><circle cx="187.1" cy="301.8" r="4" fill="#3465a4"><title>Gow</title></circle></a><a href="/variants/s7/db9r6g2r6g18r6g2/"><circle cx="263.9" cy="237.8" r="4" fill="#3465a4"><title>Skene D</title></circle></a><a href="/variants/s7/db9r6g2r6g18r6g2~x2/"><circle cx="263.9" cy="237.8" r="4" fill="#3465a4"><title>Skene D</title></circle></a><a href="/variants/s11/g16r12db16r6db4r6db7r20db8g8db12~x2/"><circle cx="192.0" cy="266.8" r="4" fill="#3465a4"><title>Fiddes #2</title></circle></a><a href="/variants/s7/db9r3db1r3g9r3db1~x2/"><circle cx="228.4" cy="231.9" r="4" fill="#3465a4"><title>Skene</title></circle></a><circle cx="192.5" cy="278.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

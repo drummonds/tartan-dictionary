@@ -1,6 +1,13 @@
 ---
 title: "Cates Armigers (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cates"
+  url: "/clan/cates/"
+- name: "Cates Armigers"
+  url: "/tartans/c/ca/cates-armigers/"
 ---
 This is the **Cates Armigers (Personal)** sett — one scale-free proportion (`dg20r8dg20y8g20k5`), colour order pattern
 [GRGGGK](/stripes/grgggk/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg4g18dg3k17dg18b4~x2/"><circle cx="157.3" cy="241.6" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/variants/s6/g2lo1g5k4do5dr1~x4/"><circle cx="111.8" cy="238.5" r="4" fill="#3465a4"><title>Forres</title></circle></a><a href="/variants/s8/g9lb2g9k2dy14ly4lb2r2~x4~dy1603076-ly3307090/"><circle cx="149.4" cy="191.1" r="4" fill="#3465a4"><title>McShane (Personal)</title></circle></a><a href="/variants/s6/g11w1g11k9dg6dp3~x4/"><circle cx="196.6" cy="209.4" r="4" fill="#3465a4"><title>Hibernian Football Club (Corporate)</title></circle></a><a href="/variants/s9/r3g6k2g2k1y1g2db3w1~x4/"><circle cx="113.5" cy="190.1" r="4" fill="#3465a4"><title>Bisset Clan Tartan</title></circle></a><a href="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/"><circle cx="113.9" cy="188.3" r="4" fill="#3465a4"><title>Bisset</title></circle></a><a href="/variants/s4/dp6g15dg15k2~x2/"><circle cx="217.4" cy="268.7" r="4" fill="#3465a4"><title>Thistle and Kudzu Scottish Socie Corporate Tartan</title></circle></a><a href="/variants/s6/r4k15lb4dt15dg24y4~x2/"><circle cx="112.0" cy="210.5" r="4" fill="#3465a4"><title>Haughfoot (Commemorative)</title></circle></a><a href="/variants/s8/g14dt11y3k5y3dt11g14ly2~x2/"><circle cx="181.5" cy="225.4" r="4" fill="#3465a4"><title>Wilson's No.122</title></circle></a><a href="/variants/s5/lg11db19dt38dr7k7~x2/"><circle cx="185.1" cy="236.8" r="4" fill="#3465a4"><title>Rose, Danny and Hanna (Personal)</title></circle></a><circle cx="182.6" cy="269.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

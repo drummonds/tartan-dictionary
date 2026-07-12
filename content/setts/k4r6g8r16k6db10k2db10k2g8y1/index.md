@@ -1,6 +1,11 @@
 ---
 title: "MacBrine (Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "MacBrine"
+  url: "/tartans/m/ma/macbrine/"
 ---
 This is the **MacBrine (Name)** sett — one scale-free proportion (`k4r6g8r16k6db10k2db10k2g8y1`), colour order pattern
 [GGKBKBKRGRK](/stripes/ggkbkbkrgrk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k9lo1dg3r5dg16k17r2t16r5t3r3t9~x2~t2105244/"><circle cx="113.1" cy="141.2" r="4" fill="#3465a4"><title>Bowie, Black</title></circle></a><a href="/variants/s12/k9lo1dg3r5dg16k17r2t16r5t3r3t9~x2/"><circle cx="107.5" cy="140.5" r="4" fill="#3465a4"><title>Bowie, Black (Name)</title></circle></a><a href="/variants/s8/db18k5r26k5g25k5db18y2~x2~db1204274/"><circle cx="124.7" cy="170.6" r="4" fill="#3465a4"><title>St. Clement of Rome School</title></circle></a><a href="/variants/s8/db6y1db6k3r14k3g14k3~x4/"><circle cx="98.0" cy="162.7" r="4" fill="#3465a4"><title>Kilgour (Cant)</title></circle></a><a href="/variants/s8/db6k3r14k3g14k3db6y1~x4/"><circle cx="98.0" cy="162.7" r="4" fill="#3465a4"><title>Kilgour (Clan)</title></circle></a><a href="/variants/s8/db6k3r14k3g14k3db6y1~x4~db1406275/"><circle cx="101.0" cy="163.0" r="4" fill="#3465a4"><title>Kilgour (Asymmetrical)</title></circle></a><a href="/variants/s8/db6k3g14k3r14k3db6y1~x4/"><circle cx="98.0" cy="162.7" r="4" fill="#3465a4"><title>Kilgour (Symmetrical)</title></circle></a><a href="/variants/s8/db18k5r26k5g25k5db18y2~x2/"><circle cx="120.8" cy="170.5" r="4" fill="#3465a4"><title>St. Clement of Rome (Corporate)</title></circle></a><a href="/variants/s11/r6db6r3db3r3db28k21g28r21k2y4/"><circle cx="105.9" cy="138.2" r="4" fill="#3465a4"><title>MacLagan of Glenquiech</title></circle></a><a href="/variants/s10/r4g6y3g12k14db5r20db5k4db2~x2/"><circle cx="93.4" cy="167.0" r="4" fill="#3465a4"><title>Sir George Etienne-Cartier Canada Tartan</title></circle></a><circle cx="94.3" cy="156.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

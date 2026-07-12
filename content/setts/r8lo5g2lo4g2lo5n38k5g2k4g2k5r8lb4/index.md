@@ -1,6 +1,15 @@
 ---
 title: "Berwick District Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Berwick"
+  url: "/clan/berwick/"
+- name: "Berwick"
+  url: "/families/berwick/"
+- name: "Berwick"
+  url: "/tartans/b/be/berwick-2/"
 ---
 This is the **Berwick District Tartan** sett — one scale-free proportion (`r8lo5g2lo4g2lo5n38k5g2k4g2k5r8lb4`), colour order pattern
 [RYGYGYBKGKGKRW](/stripes/rygygybkgkgkrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dr9r5dg2r4dg2r5n38k5dg2k4dg2k5dr8lb4~x2/"><circle cx="178.4" cy="83.7" r="4" fill="#3465a4"><title>Berwick-upon-Tweed (symmetric)</title></circle></a><a href="/variants/s14/r16ly5g2ly4g2ly5n38k5g2k4g2k5r8lb4~x2/"><circle cx="143.7" cy="80.8" r="4" fill="#3465a4"><title>Berwick -upon-Tweed (asymmetric)</title></circle></a><a href="/variants/s12/db8g2k2ly2k2y2k2g18r2g2r29k3~x2/"><circle cx="169.1" cy="87.9" r="4" fill="#3465a4"><title>Cats (Fashion)</title></circle></a><a href="/variants/s12/y5g22k2db2k2db2k10r38g5r4k4w5~x2/"><circle cx="158.6" cy="79.5" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/variants/s12/y5g22k2db2k2db2k10r38g5r4k4w5/"><circle cx="158.6" cy="79.5" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/variants/s11/g15r25g4k2y1db1y1k2g4db12w1~x2/"><circle cx="176.1" cy="85.8" r="4" fill="#3465a4"><title>Livingstone (Australia) Dress</title></circle></a><a href="/variants/s13/w2r16k1lb2k1y4k1y4k1lb2k1dg16lb2~x4/"><circle cx="112.3" cy="88.9" r="4" fill="#3465a4"><title>Buchanan (Logan)</title></circle></a><a href="/variants/s12/w5k4r4g5r39k10db2k2db2k2g22ly5~x2/"><circle cx="159.9" cy="76.6" r="4" fill="#3465a4"><title>Boyd (Clan)</title></circle></a><a href="/variants/s16/db12k2ly28k2n2k2lo2k2ly28k2db12r12k3lo2k3r12~x2~ly2503076-lo3006076/"><circle cx="159.6" cy="93.2" r="4" fill="#3465a4"><title>Oneness</title></circle></a><a href="/variants/s11/lb13k6y2k3w4k3g22r31lb3r4k2~x2/"><circle cx="125.0" cy="102.3" r="4" fill="#3465a4"><title>MacLean of Duart #4</title></circle></a><circle cx="157.3" cy="76.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

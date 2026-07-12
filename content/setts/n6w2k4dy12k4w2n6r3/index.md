@@ -1,6 +1,15 @@
 ---
 title: "Strathblane"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Strathblane"
+  url: "/clan/strathblane/"
+- name: "Strathblane"
+  url: "/families/strathblane/"
+- name: "Strathblane"
+  url: "/tartans/s/st/strathblane-3/"
 ---
 This is the **Strathblane** sett — one scale-free proportion (`n6w2k4dy12k4w2n6r3`), colour order pattern
 [BWKGKWBR](/stripes/bwkgkwbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db8k3db18g6k8g6o12r5o12r3~x2/"><circle cx="76.8" cy="213.6" r="4" fill="#3465a4"><title>Longford</title></circle></a><a href="/variants/s7/dp9k7g5r4g7k1y1~x2/"><circle cx="105.4" cy="204.0" r="4" fill="#3465a4"><title>MacLaren #2</title></circle></a><a href="/variants/s9/db20b3db4r3db3k10g21k4r20~x2/"><circle cx="88.6" cy="181.9" r="4" fill="#3465a4"><title>Holland &amp; Sherry (Corporate)</title></circle></a><a href="/variants/s7/dg3n12y2k10o10y3o2~x2/"><circle cx="93.0" cy="215.4" r="4" fill="#3465a4"><title>Rothesay</title></circle></a><a href="/variants/s10/o5k15lb5n9lb2dp2lb2dp2n9k3~x2/"><circle cx="87.4" cy="172.4" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior Corporate Tartan</title></circle></a><a href="/variants/s5/dp11y2k10g10lo2~x2~dp1607327/"><circle cx="82.6" cy="219.3" r="4" fill="#3465a4"><title>Selkirk (Personal) Original</title></circle></a><a href="/variants/s7/k6lb2db12g8r5k2g3~x4/"><circle cx="70.8" cy="214.8" r="4" fill="#3465a4"><title>Cooke (Personal)</title></circle></a><a href="/variants/s12/r20g3r3g13r6k10db14w3r3w3db14k12~x2/"><circle cx="55.2" cy="179.2" r="4" fill="#3465a4"><title>Glengarry Highland Games</title></circle></a><a href="/variants/s10/r4g6y3g12k14db5r20db5k4db2~x2/"><circle cx="93.4" cy="167.0" r="4" fill="#3465a4"><title>Sir George Etienne-Cartier Canada Tartan</title></circle></a><a href="/variants/s8/y8g4db16g4k14y14db4t3~x2/"><circle cx="86.3" cy="222.7" r="4" fill="#3465a4"><title>Hinnigan (Personal)</title></circle></a><circle cx="72.0" cy="208.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

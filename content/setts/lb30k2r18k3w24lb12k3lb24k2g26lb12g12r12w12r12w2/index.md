@@ -1,6 +1,11 @@
 ---
 title: "Red Hackle Pipe Band (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Red Hackle Pipe Band"
+  url: "/tartans/r/re/red-hackle-pipe-band/"
 ---
 This is the **Red Hackle Pipe Band (Corporate)** sett — one scale-free proportion (`lb30k2r18k3w24lb12k3lb24k2g26lb12g12r12w12r12w2`), colour order pattern
 [WKRKWWKWKGWGRWRW](/stripes/wkrkwwkwkgwgrwrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db4w2r6k1db12g4w2r6db1r6w2g8r2w16r4~x2/"><circle cx="99.1" cy="126.1" r="4" fill="#3465a4"><title>MacFarlane Dress Clan Tartan</title></circle></a><a href="/variants/s17/r3w5r2w12y1k2y1w2y1k2y2k2r1g4r2g4r2~x2/"><circle cx="104.0" cy="120.4" r="4" fill="#3465a4"><title>Anderson Dress Clan Tartan</title></circle></a><a href="/variants/s14/g10w2g2w2t8r8k1r7k1r8t8g8w2g2~x2/"><circle cx="114.9" cy="172.0" r="4" fill="#3465a4"><title>Teirney (Estimated threadcount)</title></circle></a><a href="/variants/s16/g10w4r4dr4g2dr4r4w4g10w4lb4w2lb4w23k2r2~x2/"><circle cx="117.4" cy="114.7" r="4" fill="#3465a4"><title>MacBean Dress</title></circle></a><a href="/variants/s14/db4w2r6k1db12g4w2r6b6w2g8r2w16r4~x2/"><circle cx="61.2" cy="122.0" r="4" fill="#3465a4"><title>MacFarlane, dress</title></circle></a><a href="/variants/s10/r5k1r5g9k7w3db3w15db1r2~x2/"><circle cx="95.8" cy="139.7" r="4" fill="#3465a4"><title>MacDuff, dress</title></circle></a><a href="/variants/s18/w28r5lb3r5k21r5lb28w3y5w3lb28r5k21r5lb3r5w28r5~x2~lb3203246/"><circle cx="63.9" cy="129.9" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn Dress</title></circle></a><a href="/variants/s11/r16k6r14g22k16db16w10r6w45k4r4/"><circle cx="79.4" cy="148.3" r="4" fill="#3465a4"><title>MacDuff Dress #4</title></circle></a><a href="/variants/s15/db4w2r6k1db12dg4db2r6db1r6w2dg8r2w16r4~x2/"><circle cx="97.4" cy="123.9" r="4" fill="#3465a4"><title>MacFarlane Dress</title></circle></a><a href="/variants/s14/r5w23db5w5k7y3k3w2k3g16r8g3r6w3~x2/"><circle cx="71.4" cy="121.0" r="4" fill="#3465a4"><title>Victoria Highland Dress</title></circle></a><circle cx="117.5" cy="142.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

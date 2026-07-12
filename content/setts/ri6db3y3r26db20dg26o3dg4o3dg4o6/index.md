@@ -1,6 +1,11 @@
 ---
 title: "Bonnie Brae"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Bonnie Brae"
+  url: "/tartans/b/bo/bonnie-brae/"
 ---
 This is the **Bonnie Brae** sett — one scale-free proportion (`ri6db3y3r26db20dg26o3dg4o3dg4o6`), colour order pattern
 [RBGRBGRGRGR](/stripes/rbgrbgrgrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dr6db2dg3db3r2g18dr2db16dr18dbi3dr3dbi2dr2db6~x2~db1004274-dbi1406275/"><circle cx="209.0" cy="168.4" r="4" fill="#3465a4"><title>Minster</title></circle></a><a href="/variants/s12/o8dti8o4dti28dt12n6dt12dr4n8dr4n29lb6~o2500000-dti1102249-dt0900000-n1900000/"><circle cx="188.6" cy="208.5" r="4" fill="#3465a4"><title>Kinloch Anderson Granite (Corporate)</title></circle></a><a href="/variants/s14/dr6db2t3db3r2g18dr2db16dr18dbi3dr3dbi2dr2db6~x2~db1004274-dbi1406275/"><circle cx="201.4" cy="165.8" r="4" fill="#3465a4"><title>Minster (Fashion)</title></circle></a><a href="/variants/s13/dbi3g4r2g3r3g16db16dr16dbi3dr3dbi2dr4y3~x2~dbi1406275-db1404245/"><circle cx="152.9" cy="178.6" r="4" fill="#3465a4"><title>Cuthill (Personal)</title></circle></a><a href="/variants/s13/dr2do1k1do10dr1do10k13n4k1n11dy9n2lr1~x2~n1700000-lr3000000/"><circle cx="183.7" cy="157.0" r="4" fill="#3465a4"><title>Bruma</title></circle></a><a href="/variants/s19/dg3dr2o2dr2n20b3n3dr8dg2dr2dg2dr2dg8o2dg2o2dg2o8ly3~x2/"><circle cx="190.7" cy="156.4" r="4" fill="#3465a4"><title>Wcwm 1528</title></circle></a><a href="/variants/s8/do3o16do2dp12dg12do2dy16lb3~x2/"><circle cx="162.1" cy="227.9" r="4" fill="#3465a4"><title>YPO Dress</title></circle></a><a href="/variants/s7/dgi3dg12o6dgii3dp15oi2dp2~x2~dgi1302166-dgii1602166-oi2402083/"><circle cx="260.1" cy="230.2" r="4" fill="#3465a4"><title>Myres Castle</title></circle></a><a href="/variants/s11/db30r6dy16dp8g10dp14g24y4dy10dp3dy28/"><circle cx="172.3" cy="202.1" r="4" fill="#3465a4"><title>Greyfriars</title></circle></a><a href="/variants/s11/r6db3y3o32db24g32y3g3y3g3y6/"><circle cx="205.2" cy="177.9" r="4" fill="#3465a4"><title>Bonnie Brae Corporate Tartan</title></circle></a><circle cx="206.8" cy="184.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

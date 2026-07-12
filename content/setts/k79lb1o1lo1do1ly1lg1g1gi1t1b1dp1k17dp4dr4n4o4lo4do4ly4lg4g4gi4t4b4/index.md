@@ -1,6 +1,11 @@
 ---
 title: "(1) Trithart"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Trithart"
+  url: "/tartans/t/tr/trithart/"
 ---
 This is the **(1) Trithart** sett — one scale-free proportion (`k79lb1o1lo1do1ly1lg1g1gi1t1b1dp1k17dp4dr4n4o4lo4do4ly4lg4g4gi4t4b4`), colour order pattern
 [BBGGYYBYRBBBKKBBBGGYYBYRWK](/stripes/bbggyybyrbbbkkbbbggyybyrwk/). It is recorded as a single **variant**, below.

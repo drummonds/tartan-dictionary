@@ -1,6 +1,11 @@
 ---
 title: "Dean Brae"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Dean Brae"
+  url: "/tartans/d/de/dean-brae/"
 ---
 This is the **Dean Brae** sett — one scale-free proportion (`k22ly4k4g4k16r36y3r6`), colour order pattern
 [KYKGKRGR](/stripes/kykgkrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y6k5o4k48r36w6/"><circle cx="216.1" cy="141.1" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s9/r60ly4k22g5k25lb8k4r4k4~x2/"><circle cx="218.7" cy="106.9" r="4" fill="#3465a4"><title>State Seal of Alabama (Fashion)</title></circle></a><a href="/variants/s7/k51r21ly4r12g8db4r5~x2/"><circle cx="213.8" cy="133.7" r="4" fill="#3465a4"><title>Tott (Personal))</title></circle></a><a href="/variants/s7/k51r21y4r12g8db4r5~x2/"><circle cx="216.3" cy="134.1" r="4" fill="#3465a4"><title>Totté (from Hofstade de Baerebeeck) (Personal)</title></circle></a><a href="/variants/s7/k23r27db3r5w3k14y6~x2/"><circle cx="178.6" cy="165.4" r="4" fill="#3465a4"><title>Hoffman Texas German</title></circle></a><a href="/variants/s8/k15dg1k3r9dg1r3lo11k1~x4/"><circle cx="181.5" cy="141.7" r="4" fill="#3465a4"><title>Island of Innis, The</title></circle></a><a href="/variants/s5/db4y4r33k30w2~x2/"><circle cx="218.6" cy="143.2" r="4" fill="#3465a4"><title>Wormeck (2013) Germany</title></circle></a><a href="/variants/s10/dy4k30r30k2r2dy2k2r5w5g2~x2/"><circle cx="204.1" cy="96.3" r="4" fill="#3465a4"><title>Haileybury</title></circle></a><a href="/variants/s10/r16db1r1dy1r4k18w1k1w1k1~x4/"><circle cx="242.4" cy="83.1" r="4" fill="#3465a4"><title>Regimbal, Leonel–Jean (Personal)</title></circle></a><a href="/variants/s7/r10k15g2k2w1k1w1~x4/"><circle cx="273.9" cy="133.0" r="4" fill="#3465a4"><title>Ikelman No 4</title></circle></a><circle cx="197.9" cy="137.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

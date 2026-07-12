@@ -1,6 +1,11 @@
 ---
 title: "Cole-Dale (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Cole-Dale"
+  url: "/tartans/c/co/cole-dale/"
 ---
 This is the **Cole-Dale (Personal)** sett — one scale-free proportion (`n8g4n8db2lb8r1m1lb8db2`), colour order pattern
 [BGBBWRRWB](/stripes/bgbbwrrwb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w3lb2n14o8lb14db16n13lb2w3~x2~n1900000-o2500000/"><circle cx="153.5" cy="218.9" r="4" fill="#3465a4"><title>Caitriot</title></circle></a><a href="/variants/s10/b29db8y21r3y8b16w3db3w3y8~x2/"><circle cx="243.5" cy="194.5" r="4" fill="#3465a4"><title>Morneau (Quebec), Richard (Personal)</title></circle></a><a href="/variants/s11/g10m2g2r4g16dp16r2b18y2b8r3~x2/"><circle cx="157.6" cy="182.0" r="4" fill="#3465a4"><title>Commonwealth Games 1998 (Corporate)</title></circle></a><a href="/variants/s12/lb16g2lb16db18y2db13g11r2g9db12r2y2~x2~g2408144/"><circle cx="134.7" cy="176.9" r="4" fill="#3465a4"><title>E.C.R. (Corporate)</title></circle></a><a href="/variants/s8/b13ly3b13g23dy16do13b23r5~x2~ly3608101-dy1103057/"><circle cx="175.8" cy="234.7" r="4" fill="#3465a4"><title>Unidentified 2</title></circle></a><a href="/variants/s11/db4y3db17r7w2o7w2db7b17o3b4~x2/"><circle cx="157.2" cy="180.6" r="4" fill="#3465a4"><title>Asman Hunting</title></circle></a><a href="/variants/s8/g3dp7b11db3o8w2db3b3~x2/"><circle cx="123.5" cy="232.0" r="4" fill="#3465a4"><title>Scotia</title></circle></a><a href="/variants/s12/lb18db3lb10db3lb10db14ly2r7ly2g14ly2db14~x2/"><circle cx="150.3" cy="195.7" r="4" fill="#3465a4"><title>Ralston (UK)</title></circle></a><a href="/variants/s8/db1lb9w3y3db9y1g1r1~x4/"><circle cx="133.2" cy="168.7" r="4" fill="#3465a4"><title>Curd (2013)</title></circle></a><a href="/variants/s12/db9n3db2w2db9n6db3w3db3g18dg8r2~x2~db1706275-g1903114/"><circle cx="179.3" cy="184.7" r="4" fill="#3465a4"><title>Patterson, William J.M. American Personal Tartan</title></circle></a><circle cx="168.3" cy="206.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

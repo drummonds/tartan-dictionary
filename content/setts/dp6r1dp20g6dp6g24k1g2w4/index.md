@@ -1,6 +1,15 @@
 ---
 title: "MacNeill"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacNeill"
+  url: "/clan/macneill/"
+- name: "MacNeill"
+  url: "/families/macneill/"
+- name: "MacNeill"
+  url: "/tartans/m/ma/macneill-2/"
 ---
 This is the **MacNeill** sett — one scale-free proportion (`dp6r1dp20g6dp6g24k1g2w4`), colour order pattern
 [BRBGBGKGW](/stripes/brbgbgkgw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y3k18w2k4g12n33k4n5g3~x2/"><circle cx="201.8" cy="131.7" r="4" fill="#3465a4"><title>Smoke Showing (UFES)</title></circle></a><a href="/variants/s10/dy4n2k2n42k13g25n6k2r4k2~x2/"><circle cx="248.0" cy="110.7" r="4" fill="#3465a4"><title>Dinwiddie Clan Tartan</title></circle></a><a href="/variants/s7/db3g4db20g24k2lr3r1~x2/"><circle cx="275.1" cy="134.5" r="4" fill="#3465a4"><title>Nowell/Noel (Name)</title></circle></a><a href="/variants/s8/g45w2r3k15r3db15r3db15~x2/"><circle cx="203.3" cy="123.9" r="4" fill="#3465a4"><title>MacNeil 3</title></circle></a><a href="/variants/s10/y7n2k2n41k12g22n6k2r4k2~x2/"><circle cx="244.8" cy="115.5" r="4" fill="#3465a4"><title>Dinwiddie</title></circle></a><a href="/variants/s11/g9r6g40dp6g6dp6k6dp36ly4dp8ly4/"><circle cx="204.9" cy="148.7" r="4" fill="#3465a4"><title>Boyle Family, Susan (Personal)</title></circle></a><a href="/variants/s7/dp6r2dp1g25db16k2db4~x2~dp1105325/"><circle cx="251.7" cy="139.6" r="4" fill="#3465a4"><title>Laurie Clan Tartan</title></circle></a><a href="/variants/s12/lb4dy1g1dr30g22k3g22dr30g1dy1lb4g2~x2/"><circle cx="289.9" cy="100.4" r="4" fill="#3465a4"><title>Connemarra Irish District Tartan</title></circle></a><a href="/variants/s10/o38k4w4k4n10k4n10k4w2dp3~x2~o2500000-n1900000/"><circle cx="206.0" cy="107.0" r="4" fill="#3465a4"><title>Penman Grey (Personal)</title></circle></a><a href="/variants/s8/db18dp2db16k13g3k2g42lo3~x2/"><circle cx="219.4" cy="132.9" r="4" fill="#3465a4"><title>McFadden (Personal)</title></circle></a><circle cx="256.2" cy="123.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -27,8 +27,8 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/thirkill/"><img src="/variants/s9/y4k2dg7g7r5k2r15k2w4~x2/sett.png" alt="Thirkill" width="140"><br><strong>Thirkill</strong></a></li>
 <li><a class="tartan" href="/clan/thomas/"><img src="/variants/s8/y2k4y1dg16k14db23k4r1~x2/sett.png" alt="Thomas" width="140"><br><strong>Thomas</strong></a><div class="clan-territory">clan</div></li>
 <li><a class="tartan" href="/families/thomas-of-craigie/"><img src="/variants/s8/y2k4y1dg16k14db23k4r1~x2/sett.png" alt="Thomas of Craigie" width="140"><br><strong>Thomas of Craigie</strong></a></li>
-<li><a class="tartan" href="/families/thompson/"><img src="/variants/s6/dr1n6k1w3k3dr1~x8/sett.png" alt="Thompson" width="140"><br><strong>Thompson</strong></a></li>
-<li><a class="tartan" href="/families/thomson/"><img src="/variants/s6/r1t10k2w4k4y1~x6/sett.png" alt="Thomson" width="140"><br><strong>Thomson</strong></a></li>
+<li><a class="tartan" href="/families/thompson/"><img src="/variants/s6/g3k15r8g2n8k2~x4/sett.png" alt="Thompson" width="140"><br><strong>Thompson</strong></a></li>
+<li><a class="tartan" href="/families/thomson/"><img src="/variants/s6/lb4r28k6lb12k12lb3~x2/sett.png" alt="Thomson" width="140"><br><strong>Thomson</strong></a></li>
 <li><a class="tartan" href="/families/thorburn/"><img src="/variants/s9/db12lb4db4t12db8lb5db8lb35r4~x2~lb3203246-t2405244/sett.png" alt="Thorburn" width="140"><br><strong>Thorburn</strong></a></li>
 <li><a class="tartan" href="/families/thunderlord/"><img src="/variants/s4/n62w11k4db17~x2/sett.png" alt="Thunderlord" width="140"><br><strong>Thunderlord</strong></a></li>
 <li><a class="tartan" href="/families/tilburg/"><img src="/variants/s5/db9y9db9lb23r3~x2/sett.png" alt="Tilburg" width="140"><br><strong>Tilburg</strong></a></li>

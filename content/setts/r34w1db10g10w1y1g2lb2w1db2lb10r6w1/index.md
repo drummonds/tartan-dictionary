@@ -1,6 +1,13 @@
 ---
 title: "Holyrood, Chair"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Holyrood"
+  url: "/clan/holyrood/"
+- name: "Holyrood, Chair"
+  url: "/tartans/h/ho/holyrood-chair/"
 ---
 This is the **Holyrood, Chair** sett — one scale-free proportion (`r34w1db10g10w1y1g2lb2w1db2lb10r6w1`), colour order pattern
 [RWBGWGGWWBWRW](/stripes/rwbgwggwwbwrw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r34w1db10dg10w1ly1dg2lb2w1db2lb10r6w1~x2/"><circle cx="179.9" cy="53.0" r="4" fill="#3465a4"><title>Holyrood (Chair)</title></circle></a><a href="/variants/s17/r65w2dp8lb4w2lb4dp8w2g32w2r8b4dp2b4r8w2dp16~x2/"><circle cx="260.3" cy="55.1" r="4" fill="#3465a4"><title>Birral, Burrell</title></circle></a><a href="/variants/s17/r65w2dp8lb4w2lb4dp8w2g32w2r8ri4dp2ri4r8w2dp16~x2~r2109032-ri2406019/"><circle cx="259.2" cy="52.3" r="4" fill="#3465a4"><title>Birral (Clan)</title></circle></a><a href="/variants/s17/lb4dp8w2g32w2r8ri4dp2ri4r8w2dp16r65w2dp8lb4w2~x2~w3600000-r2109032-ri2406019/"><circle cx="264.8" cy="54.2" r="4" fill="#3465a4"><title>Birral/Burrell</title></circle></a><a href="/variants/s12/r64lb16dp18y4dp4w4dp18g32r14lb4r14w3~x2/"><circle cx="236.3" cy="111.0" r="4" fill="#3465a4"><title>Wilson's No 4</title></circle></a><a href="/variants/s17/w1t4db6r16g32ly1db6w1r68w1db6ly1g32r16db6t4w1~x2/"><circle cx="301.8" cy="46.8" r="4" fill="#3465a4"><title>Drummond</title></circle></a><a href="/variants/s9/g18b2db5r45dbi3db18dbi3r5w2~db0805267-dbi1604274/"><circle cx="257.8" cy="107.2" r="4" fill="#3465a4"><title>MacNiven</title></circle></a><a href="/variants/s9/dg18g2db5r45dbi3db18dbi3r5w2~dg1806142-g2408144-db1204274-dbi1406275/"><circle cx="278.8" cy="113.0" r="4" fill="#3465a4"><title>MacNiven Family Tartan</title></circle></a><a href="/variants/s11/r52y2r1y2lb8db4g18r11w2db5lb8~x2/"><circle cx="340.4" cy="62.3" r="4" fill="#3465a4"><title>Doig (Personal)</title></circle></a><a href="/variants/s20/r5y1r8w1db20w1lb20w1g20y1r5y1r5y1g20y2r52w1y5w1~x2/"><circle cx="247.3" cy="39.6" r="4" fill="#3465a4"><title>Whitworth Artifact Tartan</title></circle></a><circle cx="275.2" cy="72.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Burnett"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Burnett"
+  url: "/clan/burnett/"
 ---
 A family of [Clan Burnett](/clan/burnett/).
 

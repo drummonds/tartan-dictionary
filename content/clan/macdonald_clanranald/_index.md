@@ -1,8 +1,13 @@
 ---
 title: "Clan MacDonald of Clanranald"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 **Territory:** Moidart & the Isles · **1745 strength:** 700 men
+
+Clan tartan distinguished by two white lines; sett from Lord Lyon records, matching Smith (1850) and Grant (1886).
 
 ## Tartan
 

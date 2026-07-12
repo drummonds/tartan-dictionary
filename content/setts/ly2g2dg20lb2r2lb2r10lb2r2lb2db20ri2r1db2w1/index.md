@@ -1,6 +1,11 @@
 ---
 title: "British Airways (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "British Airways"
+  url: "/tartans/b/br/british-airways/"
 ---
 This is the **British Airways (Corporate)** sett — one scale-free proportion (`ly2g2dg20lb2r2lb2r10lb2r2lb2db20ri2r1db2w1`), colour order pattern
 [WBRRBWRWRWRWGGY](/stripes/wbrrbwrwrwrwggy/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r6w2dy40w2lb14g14y3w2g6dp6y2lb6dp30r12w2~x2/"><circle cx="106.6" cy="94.9" r="4" fill="#3465a4"><title>Stuart/Stewart Plaid</title></circle></a><a href="/variants/s15/r6w2b40w2lb14g14y3w2g6dp6y2lb6dp30r12w2~x2/"><circle cx="113.8" cy="98.9" r="4" fill="#3465a4"><title>Stuart / Stewart, Plaid</title></circle></a><a href="/variants/s15/lb17g15y5w2g8dp6w2db8do32r18w2r8w2dy50w2~x2/"><circle cx="82.4" cy="63.4" r="4" fill="#3465a4"><title>Culloden Worn by Pr Charles</title></circle></a><a href="/variants/s13/r2b22dy4lr3dg7ly2dg4lr2dg9dp6ly2dp4lr2~x2/"><circle cx="121.8" cy="135.5" r="4" fill="#3465a4"><title>Man, Isle of</title></circle></a><a href="/variants/s19/w20t43db2t6db2t4db4t2db6t2db14dr20k7y7r4y3r2y20r13~t2105244-db1004274/"><circle cx="82.0" cy="69.2" r="4" fill="#3465a4"><title>Declaration of Scottish Independence, Arbroath 1320</title></circle></a><a href="/variants/s15/r16w4o100w4db34g30y10w3g16b12w4db16do64r26w4/"><circle cx="130.9" cy="68.7" r="4" fill="#3465a4"><title>Stuart / Stewart, Plaid</title></circle></a><a href="/variants/s14/m42dr2k15dr2dg22ly4lbi2dp2lbi2ly4lb7lbi2dp6lbi6~x2~lbi3200000-lb3103284/"><circle cx="94.6" cy="44.3" r="4" fill="#3465a4"><title>Dundee Pink Variation</title></circle></a><a href="/variants/s17/lb24lg2lb4b2lg2lb4b4lg5g5ly3r7dp2r2dp3r1dp23lb4~x2/"><circle cx="154.8" cy="75.6" r="4" fill="#3465a4"><title>Scotland's Grace</title></circle></a><a href="/variants/s11/w3dbi1g18r3lb4r3db4dbi3db2dbi24ri1~x2~dbi1406275-r2108022-db1204274-ri2109032/"><circle cx="200.9" cy="94.7" r="4" fill="#3465a4"><title>Queen of the South Football Club</title></circle></a><a href="/variants/s16/g4w1k3w1dy2w1k3w1dy2w1k3w1g3db14r1y2~x2/"><circle cx="69.2" cy="86.5" r="4" fill="#3465a4"><title>City Of Dorval</title></circle></a><circle cx="116.8" cy="65.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Mississippi"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Mississippi"
+  url: "/clan/mississippi/"
+- name: "Mississippi"
+  url: "/families/mississippi/"
+- name: "Mississippi"
+  url: "/tartans/m/mi/mississippi-2/"
 ---
 This is the **Mississippi** sett — one scale-free proportion (`k20g40db4k20g20r8k20g20y1ly1y1ly1w4`), colour order pattern
 [KGBKGRKGGYGYW](/stripes/kgbkgrkggygyw/). It is recorded as **2 variants** — the same
@@ -23,6 +32,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k20g40db4k20g20r8k20g20y1ly1y1ly1w4~x2/"><circle cx="195.2" cy="60.4" r="4" fill="#3465a4"><title>Mississippi (Fashion)</title></circle></a><a href="/variants/s10/dp6k2ly6k60g60r6k25y4k2w6/"><circle cx="200.7" cy="56.6" r="4" fill="#3465a4"><title>US Army Civil Affairs</title></circle></a><a href="/variants/s11/y7dg1k1y2k9g22dg7k27t4k3w4~x2~dg1806142-g2408144/"><circle cx="164.5" cy="87.3" r="4" fill="#3465a4"><title>Gilhooley (Name)</title></circle></a><a href="/variants/s11/y7dg1k1y2k9g22dg7k27db4k3w4~x2~dg1806142-g2408144/"><circle cx="165.3" cy="87.0" r="4" fill="#3465a4"><title>Gilhooley (Personal)</title></circle></a><a href="/variants/s9/y2w2r2k14g20k16b2lb1b2~x2/"><circle cx="174.7" cy="89.6" r="4" fill="#3465a4"><title>Brooke</title></circle></a><a href="/variants/s11/g9lo1g2r3g28k16lb1g8lb1db8r1~x2/"><circle cx="267.9" cy="84.7" r="4" fill="#3465a4"><title>New York Caledonian Club Day</title></circle></a><a href="/variants/s8/g92dy3k28n18r12db18w2g12/"><circle cx="257.8" cy="67.6" r="4" fill="#3465a4"><title>Mull Millennium</title></circle></a><a href="/variants/s9/db4k1r2k32g32y2k1g3lb2~x2~db1407270/"><circle cx="219.0" cy="67.3" r="4" fill="#3465a4"><title>Roderick Dhu Canada Tartan</title></circle></a><a href="/variants/s9/db4k1r2k32g32y2k1g3lb2~x2/"><circle cx="219.2" cy="67.4" r="4" fill="#3465a4"><title>Roderick, Dhu</title></circle></a><a href="/variants/s20/k40g8r1g57y5g9w5g57r1g8k40o7k4g4k2w4k2g4k4o7~x2/"><circle cx="250.9" cy="23.0" r="4" fill="#3465a4"><title>Unidentified Phyllis Gordon</title></circle></a><circle cx="195.2" cy="60.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Manderson (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Manderson"
+  url: "/clan/manderson/"
+- name: "Manderson"
+  url: "/families/manderson/"
+- name: "Manderson"
+  url: "/tartans/m/ma/manderson-4/"
 ---
 This is the **Manderson (Personal)** sett — one scale-free proportion (`k8n30dg16k24dr8dg32lb32dr7lb12lbi4`), colour order pattern
 [KBGKBGWBWW](/stripes/kbgkbgwbww/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k4n10k4g8k12r5g16t16r5t6w2~x2~t2503227/"><circle cx="25.7" cy="181.1" r="4" fill="#3465a4"><title>Manderson Family Tartan</title></circle></a><a href="/variants/s9/r3db16o2db2o12k8g12k12w3~x2/"><circle cx="38.9" cy="175.6" r="4" fill="#3465a4"><title>Celtic Women International</title></circle></a><a href="/variants/s9/y3lp9k3lp4k9g15k9db11w2~x4/"><circle cx="33.6" cy="184.6" r="4" fill="#3465a4"><title>Hoban (Name)</title></circle></a><a href="/variants/s13/dp3k3dp10k11g14db3g14k11w3lb3db15lb2w2~x2/"><circle cx="33.8" cy="162.6" r="4" fill="#3465a4"><title>North of Scotland Tartan Army</title></circle></a><a href="/variants/s11/dp6k3n19k6n4k3o12lb4o12w2dp5~x2~n1900000-o2500000/"><circle cx="84.8" cy="161.4" r="4" fill="#3465a4"><title>Scotland Forever Antique (Fashion)</title></circle></a><a href="/variants/s12/dr4y14lb2do4lb2k6y3k6db13dr2db4dr4~x2/"><circle cx="49.3" cy="169.6" r="4" fill="#3465a4"><title>Kinloch Anderson Old Dress</title></circle></a><a href="/variants/s9/g13w2g10k5r13k3r5db15o5~x2/"><circle cx="55.1" cy="186.8" r="4" fill="#3465a4"><title>Glen Chalmadale</title></circle></a><a href="/variants/s10/r3g18r4lb3r4k13r3db18g2y3~x2/"><circle cx="60.4" cy="148.8" r="4" fill="#3465a4"><title>Stirling and Bannockburn District Tartan</title></circle></a><a href="/variants/s10/db2r2db2w1db8k8dg8r2dg2ly2~x2/"><circle cx="79.6" cy="165.1" r="4" fill="#3465a4"><title>Logan Rogers (Personal)</title></circle></a><a href="/variants/s11/dr2k1g7k6db7t2db7k6g7k1lo2~x4/"><circle cx="45.8" cy="186.7" r="4" fill="#3465a4"><title>Smith (Clan)</title></circle></a><circle cx="37.7" cy="181.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

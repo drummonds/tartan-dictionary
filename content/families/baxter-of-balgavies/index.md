@@ -1,6 +1,11 @@
 ---
 title: "Baxter of Balgavies"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Baxter"
+  url: "/clan/baxter/"
 ---
 A family of [Clan Baxter](/clan/baxter/).
 

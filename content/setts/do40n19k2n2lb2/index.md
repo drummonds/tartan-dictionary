@@ -1,6 +1,11 @@
 ---
 title: "National Ballet of Canada"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "National Ballet of Canada"
+  url: "/tartans/n/na/national-ballet-of-canada/"
 ---
 This is the **National Ballet of Canada** sett — one scale-free proportion (`do40n19k2n2lb2`), colour order pattern
 [BBKBW](/stripes/bbkbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k42n2k2n17db8y4~x2~k0800000-n1900000/"><circle cx="410.6" cy="172.9" r="4" fill="#3465a4"><title>Connecticut State Police Pipe Band</title></circle></a><a href="/variants/s6/o59n28ly5dg3w4ly5~x2/"><circle cx="429.5" cy="182.2" r="4" fill="#3465a4"><title>Dundhuin Gold</title></circle></a><a href="/variants/s4/n10k2db2dp1~x5/"><circle cx="388.0" cy="211.0" r="4" fill="#3465a4"><title>Lord Willy's (Corporate)</title></circle></a><a href="/variants/s4/n25k5db5dp3~x2/"><circle cx="375.9" cy="219.9" r="4" fill="#3465a4"><title>Lord Willy's (New York)</title></circle></a><a href="/variants/s7/db13k3db20dy70db20dy30w3~x2/"><circle cx="459.4" cy="183.6" r="4" fill="#3465a4"><title>Unidentified #44</title></circle></a><a href="/variants/s7/dp3n42k2g17n9dp3w2~x2/"><circle cx="426.8" cy="148.8" r="4" fill="#3465a4"><title>Barrance, Paul and Kelly (Personal)</title></circle></a><a href="/variants/s4/dr14k3dg3w1~x2/"><circle cx="395.3" cy="190.0" r="4" fill="#3465a4"><title>Bacon, Red (Fashion)</title></circle></a><a href="/variants/s5/do18o9n9r1lb1~x4/"><circle cx="357.4" cy="217.7" r="4" fill="#3465a4"><title>Jardine</title></circle></a><a href="/variants/s5/n10k1db3g3y1~x6/"><circle cx="316.9" cy="209.0" r="4" fill="#3465a4"><title>Celtic Norse Heritage Society</title></circle></a><a href="/variants/s5/dg42o10dg3dr10o3~x2/"><circle cx="517.3" cy="237.7" r="4" fill="#3465a4"><title>Glen Trool (Fashion)</title></circle></a><circle cx="461.1" cy="185.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

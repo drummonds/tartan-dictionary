@@ -1,6 +1,11 @@
 ---
 title: "Braemar, or Blair Atholl"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Braemar, or Blair Atholl"
+  url: "/tartans/b/br/braemar-or-blair-atholl-2/"
 ---
 This is the **Braemar, or Blair Atholl** sett — one scale-free proportion (`o1w2k5o3k1oi5k1oi11k1oi1`), colour order pattern
 [RKRKRKRKWR](/stripes/rkrkrkrkwr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/do1lr2k5do3k1y4k1y10k1y1~x4/"><circle cx="225.5" cy="160.2" r="4" fill="#3465a4"><title>Braemar, Camel</title></circle></a><a href="/variants/s9/k4ly15dg5k3dg7k3dg30r20dg3~x2/"><circle cx="212.6" cy="168.4" r="4" fill="#3465a4"><title>MacKillen</title></circle></a><a href="/variants/s10/o15n1o2b2o2n1o3k8n10o3~x4/"><circle cx="278.4" cy="152.8" r="4" fill="#3465a4"><title>Annan</title></circle></a><a href="/variants/s10/o24lb2o4n2k6lb2o14k3lb4n8~x2/"><circle cx="304.2" cy="155.4" r="4" fill="#3465a4"><title>Dobrain (Personal)</title></circle></a><a href="/variants/s12/w3y3r2y13k3y4k22y4k3y16dp2w3~x2/"><circle cx="204.4" cy="129.2" r="4" fill="#3465a4"><title>Loch Sween</title></circle></a><a href="/variants/s8/r5k2dg1k2r5k2dg18ly3~x2/"><circle cx="250.9" cy="136.2" r="4" fill="#3465a4"><title>Midpac Tissue (non woven)</title></circle></a><a href="/variants/s9/db5r19k2g8r3g18k2g9k2~x2/"><circle cx="233.5" cy="180.4" r="4" fill="#3465a4"><title>Hubbard (2016)</title></circle></a><a href="/variants/s8/do2lr2k6do3k2o14k1o1~x4/"><circle cx="231.2" cy="143.7" r="4" fill="#3465a4"><title>Braemar or Blair Atholl</title></circle></a><a href="/variants/s9/db1k1r12g12k6db5r12k1db1~x2/"><circle cx="200.1" cy="161.1" r="4" fill="#3465a4"><title>Montrose Clan Tartan</title></circle></a><a href="/variants/s7/r4k2r24k6db6g16r3~x2/"><circle cx="233.0" cy="168.4" r="4" fill="#3465a4"><title>MacDuff #4</title></circle></a><circle cx="243.5" cy="149.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "MacKellar, dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacKellar"
+  url: "/clan/mackellar/"
+- name: "MacKellar"
+  url: "/families/mackellar/"
+- name: "MacKellar, dress"
+  url: "/tartans/m/ma/mackellar-dress-5/"
 ---
 This is the **MacKellar, dress** sett — one scale-free proportion (`o35w4o3y7o3w4o7do15n4w36n5`), colour order pattern
 [BWBBRWRGRWR](/stripes/bwbbrwrgrwr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/r6w2r25dy2w9lg2lgi4lg2w9lg2lgi15dy2lgi2dy4~x2~lg2809145-lgi3204144/"><circle cx="163.3" cy="140.2" r="4" fill="#3465a4"><title>Sakura (Japanese Four Seasons)</title></circle></a><a href="/variants/s10/do2w20r2w2do3w3y3r8y26w2~x2/"><circle cx="236.1" cy="158.2" r="4" fill="#3465a4"><title>Liama, The</title></circle></a><a href="/variants/s12/g6y5w1g2w1g5w1g2w1r15db2w1~x2/"><circle cx="204.7" cy="144.7" r="4" fill="#3465a4"><title>Dunblane District Tartan</title></circle></a><a href="/variants/s12/o4w2o2w3o20db6lb3db2lb2db2lb16r3~x2/"><circle cx="198.0" cy="155.0" r="4" fill="#3465a4"><title>Callum, Scotch House</title></circle></a><a href="/variants/s9/g12w1r1w4r1w1r8dy2r1~x4/"><circle cx="218.0" cy="169.6" r="4" fill="#3465a4"><title>Karibu (Corporate)</title></circle></a><a href="/variants/s9/g12w1r1w4r1w1r8y2r1~x4/"><circle cx="226.3" cy="172.7" r="4" fill="#3465a4"><title>Karibu</title></circle></a><a href="/variants/s12/db3o14g2o2g2o3g6w18db3o2db2o2~x2/"><circle cx="183.1" cy="171.6" r="4" fill="#3465a4"><title>Raibert, Check</title></circle></a><a href="/variants/s12/n12lb2do4y2do3w3do3o20w29lb2w4do2~x2/"><circle cx="179.8" cy="120.9" r="4" fill="#3465a4"><title>MacLean of Duart 7</title></circle></a><a href="/variants/s13/g1r2lg12r15w15g3w1g3w15r15lg3dy12lg1~x2/"><circle cx="135.4" cy="153.5" r="4" fill="#3465a4"><title>St. John New Brunswick (District)</title></circle></a><a href="/variants/s16/y5g16db8g4db4g4lr38g4lr38g4db4g4db8g16y5r3~x2/"><circle cx="228.3" cy="135.5" r="4" fill="#3465a4"><title>Nova Scotia Dress #2</title></circle></a><circle cx="191.3" cy="149.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

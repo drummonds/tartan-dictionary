@@ -1,6 +1,15 @@
 ---
 title: "Daks (Brown)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Daks"
+  url: "/clan/daks/"
+- name: "Daks"
+  url: "/families/daks/"
+- name: "Daks"
+  url: "/tartans/d/da/daks-2/"
 ---
 This is the **Daks (Brown)** sett — one scale-free proportion (`dy3k7dy2w2ly12k2ly2dy3`), colour order pattern
 [GKGWYKYG](/stripes/gkgwykyg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g6k1r1lb2r2~x4~r2109032/"><circle cx="129.9" cy="206.3" r="4" fill="#3465a4"><title>Wilson's No.193</title></circle></a><a href="/variants/s6/k3g25o3k15r24g3~x2/"><circle cx="158.3" cy="198.8" r="4" fill="#3465a4"><title>Un-named (D C Dalgliesh) #3</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2/"><circle cx="105.1" cy="196.9" r="4" fill="#3465a4"><title>Aberlour (Corporate)</title></circle></a><a href="/variants/s8/w13k3w3k3w3k15ly18r3~x2/"><circle cx="111.3" cy="202.4" r="4" fill="#3465a4"><title>Holden Beige (Corporate)</title></circle></a><a href="/variants/s7/dy3y18lo12k18lo2k2lo3~x2/"><circle cx="142.0" cy="189.3" r="4" fill="#3465a4"><title>Kinloch Anderson Check (Fashion)</title></circle></a><a href="/variants/s8/o3k7o2w2oi12k2oi2o3~x2~o2102055-oi2104058/"><circle cx="161.1" cy="198.3" r="4" fill="#3465a4"><title>Daks</title></circle></a><a href="/variants/s7/o6k2dg12ly8o5k2dg3~x4/"><circle cx="135.7" cy="228.8" r="4" fill="#3465a4"><title>Londonderry, County</title></circle></a><a href="/variants/s7/ly12dg4ly24k9ly8dg36dr4/"><circle cx="202.8" cy="199.0" r="4" fill="#3465a4"><title>Harmer (Corporate)</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/"><circle cx="105.6" cy="196.4" r="4" fill="#3465a4"><title>Aberlour</title></circle></a><a href="/variants/s6/w5k26ly26lb7k3r3~x2/"><circle cx="139.3" cy="172.3" r="4" fill="#3465a4"><title>Cornish National (District)</title></circle></a><circle cx="138.8" cy="196.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

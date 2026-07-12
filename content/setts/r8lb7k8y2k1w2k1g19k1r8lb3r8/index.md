@@ -1,6 +1,11 @@
 ---
 title: "Unnamed No 1 Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified No 1"
+  url: "/tartans/u/un/unidentified-no-1/"
 ---
 This is the **Unnamed No 1 Tartan** sett — one scale-free proportion (`r8lb7k8y2k1w2k1g19k1r8lb3r8`), colour order pattern
 [RWKGKWKGKRWR](/stripes/rwkgkwkgkrwr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r19lb13k16y3k3w5k3g32k2r15lb5r15~x2/"><circle cx="103.6" cy="119.4" r="4" fill="#3465a4"><title>Wilson's, No 90</title></circle></a><a href="/variants/s11/r8lb7k8y2k1b1g19k1r8lb3r8~x2/"><circle cx="120.8" cy="115.4" r="4" fill="#3465a4"><title>Unnamed No 1</title></circle></a><a href="/variants/s14/r25w4k4g25y3k15lb13r5lb5r15g4r5k2g3~x2/"><circle cx="105.2" cy="117.2" r="4" fill="#3465a4"><title>Wilson's, No 226</title></circle></a><a href="/variants/s15/r25lb9k2lb9k19y3k3w5k3y3g22r16g3r3g3~x2/"><circle cx="80.3" cy="111.7" r="4" fill="#3465a4"><title>Wilson's No 181, (Stewart)</title></circle></a><a href="/variants/s11/o5k3w2r20db10g2w1r1g20k4o3~x2/"><circle cx="111.6" cy="101.1" r="4" fill="#3465a4"><title>MacCullough Family Tartan</title></circle></a><a href="/variants/s14/ly10w2dy1w2n10ly8dy2k17dy2ly7n19k3y1k1~x2/"><circle cx="102.6" cy="97.4" r="4" fill="#3465a4"><title>Scottish Wildcat</title></circle></a><a href="/variants/s13/r32lb14k16y3k4w4k4r1g28r13k4r4w2~x2/"><circle cx="136.6" cy="72.3" r="4" fill="#3465a4"><title>Carolina, States of</title></circle></a><a href="/variants/s10/r15g6db36w2k6w2g30r32k6lb4/"><circle cx="119.5" cy="116.3" r="4" fill="#3465a4"><title>Steiff</title></circle></a><a href="/variants/s11/dy5k3w2r20db10g2w1dy1g20k4dy3~x2/"><circle cx="111.4" cy="103.6" r="4" fill="#3465a4"><title>MacCulloch</title></circle></a><a href="/variants/s12/db4w1k3y1g1w1k1g8r12w1r2k1~x2/"><circle cx="120.5" cy="105.3" r="4" fill="#3465a4"><title>MacLean</title></circle></a><circle cx="110.0" cy="108.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

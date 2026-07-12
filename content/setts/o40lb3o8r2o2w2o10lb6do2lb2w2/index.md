@@ -1,6 +1,15 @@
 ---
 title: "Spencer"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Spencer"
+  url: "/clan/spencer/"
+- name: "Spencer"
+  url: "/families/spencer/"
+- name: "Spencer"
+  url: "/tartans/s/sp/spencer/"
 ---
 This is the **Spencer** sett — one scale-free proportion (`o40lb3o8r2o2w2o10lb6do2lb2w2`), colour order pattern
 [RWRRRWRWBWW](/stripes/rwrrrwrwbww/). It is recorded as a single **variant**, below.

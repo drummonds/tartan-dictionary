@@ -1,6 +1,11 @@
 ---
 title: "Glenn"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Glenn"
+  url: "/tartans/g/gl/glenn/"
 ---
 This is the **Glenn** sett — one scale-free proportion (`dg4lb2db18r2k4r6lb1w1`), colour order pattern
 [GWBRKRWW](/stripes/gwbrkrww/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/"><circle cx="260.4" cy="78.3" r="4" fill="#3465a4"><title>Stewart Blue MINI Tartan</title></circle></a><a href="/variants/s9/w8db50k4r8k6r12g17dp7k4/"><circle cx="141.2" cy="120.1" r="4" fill="#3465a4"><title>Edinburgh</title></circle></a><a href="/variants/s7/db40dr3k10lo2lb15w2lb4~x2/"><circle cx="231.7" cy="108.9" r="4" fill="#3465a4"><title>U.S. Forces Thurso (Military)</title></circle></a><a href="/variants/s7/y4g22r3k17r3db37w3~x2/"><circle cx="143.5" cy="142.8" r="4" fill="#3465a4"><title>Souza Nery</title></circle></a><a href="/variants/s9/w3db22k2r3k2r5g7b2k2~x2/"><circle cx="156.1" cy="119.3" r="4" fill="#3465a4"><title>Edinburgh</title></circle></a><a href="/variants/s7/db35r2k16y2lb25w2lb6~x2/"><circle cx="151.0" cy="124.2" r="4" fill="#3465a4"><title>US Forces (Thurso) Regimental Tartan</title></circle></a><a href="/variants/s8/r2lb5k4y1k4db16k3g2~x4/"><circle cx="160.0" cy="124.6" r="4" fill="#3465a4"><title>Arundel County (Dalgleish)</title></circle></a><a href="/variants/s9/db46y4db4y4db6k16n66w11r6/"><circle cx="188.1" cy="117.4" r="4" fill="#3465a4"><title>Scottish Association for N.S. (Corp)</title></circle></a><a href="/variants/s10/db4w1k2db25k12t1k2r16k2lo1~x2/"><circle cx="198.1" cy="79.4" r="4" fill="#3465a4"><title>Sidey Dress Tartan (Name)</title></circle></a><a href="/variants/s10/db4w1k2db25k12b1k2r16k2lo1~x2/"><circle cx="198.4" cy="79.4" r="4" fill="#3465a4"><title>Sidey (Dundee) Dress (Personal)</title></circle></a><circle cx="193.3" cy="109.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

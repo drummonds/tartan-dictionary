@@ -1,6 +1,11 @@
 ---
 title: "Shawn Jones Afghan Memorial, The"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Shawn Jones Afghan Memorial, The"
+  url: "/tartans/s/sh/shawn-jones-afghan-memorial-the-2/"
 ---
 This is the **Shawn Jones Afghan Memorial, The** sett — one scale-free proportion (`ri12g4k8dr3ly62r8`), colour order pattern
 [RGKBYR](/stripes/rgkbyr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r2y33k5w3g2~x2/"><circle cx="408.1" cy="132.8" r="4" fill="#3465a4"><title>Port Moresby City Pipes and Drums</title></circle></a><a href="/variants/s5/g24t2r25y2k3~x2/"><circle cx="253.6" cy="175.9" r="4" fill="#3465a4"><title>Bronte (Name)</title></circle></a><a href="/variants/s5/g24db2r25y2k3~x2/"><circle cx="249.1" cy="174.0" r="4" fill="#3465a4"><title>Bronte</title></circle></a><a href="/variants/s5/r2y36k12w3g2~x2/"><circle cx="334.4" cy="133.3" r="4" fill="#3465a4"><title>Port Moresby City Pipes &amp; Drums</title></circle></a><a href="/variants/s6/ly5w15r40y4g2lb2~x2/"><circle cx="328.9" cy="124.5" r="4" fill="#3465a4"><title>Tomomi</title></circle></a><a href="/variants/s6/r12g4k8dy3y62dr8~x2/"><circle cx="360.3" cy="119.0" r="4" fill="#3465a4"><title>Shawn Jones Afghan Memorial, The</title></circle></a><a href="/variants/s6/r20w1k1b6y1g18~x2/"><circle cx="238.0" cy="137.8" r="4" fill="#3465a4"><title>Gordon of Abergeldie, (Red..)</title></circle></a><a href="/variants/s6/r20w1k1o6dy1g18~x2/"><circle cx="246.4" cy="137.4" r="4" fill="#3465a4"><title>Gordon of Abergeldie (Red..) Portrait Tartan</title></circle></a><a href="/variants/s6/w43k5r3g5y27o5~x2/"><circle cx="195.3" cy="135.5" r="4" fill="#3465a4"><title>Reekie, Charlene</title></circle></a><a href="/variants/s6/w43k5r3g5ly27dp5~x2/"><circle cx="196.7" cy="137.2" r="4" fill="#3465a4"><title>Reekie, Charlene (Personal)</title></circle></a><circle cx="307.7" cy="103.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Swiss Highlander (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Swiss Highlander"
+  url: "/tartans/s/sw/swiss-highlander/"
 ---
 This is the **Swiss Highlander (Corporate)** sett — one scale-free proportion (`dg12g24t48r23w8r23t24y4g12dg12`), colour order pattern
 [GGBRWRBGGG](/stripes/ggbrwrbggg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dg12g24db48r23w8r23db24y4g12dg12/"><circle cx="138.1" cy="182.7" r="4" fill="#3465a4"><title>Swiss Highlander</title></circle></a><a href="/variants/s11/t30r6dy16lp6g10lp14g24y4dy10lp3dy28/"><circle cx="139.3" cy="190.9" r="4" fill="#3465a4"><title>Greyfriars (District)</title></circle></a><a href="/variants/s11/y3dg14g9db4g8w2g12r12g2r5w2~x2~dg1806142-g2203152/"><circle cx="182.3" cy="210.6" r="4" fill="#3465a4"><title>Muirhead (Clan)</title></circle></a><a href="/variants/s12/lo5t2o14do9dg8t3o3t3o3t3dg19lr3~x2/"><circle cx="167.9" cy="179.9" r="4" fill="#3465a4"><title>Meath Irish County Tartan</title></circle></a><a href="/variants/s7/o10n3db1lb8db1lo2g5~x4/"><circle cx="170.2" cy="206.1" r="4" fill="#3465a4"><title>Porcupine City of</title></circle></a><a href="/variants/s11/g10m2g2r4g16dp16r2b18y2b8r3~x2/"><circle cx="157.6" cy="182.0" r="4" fill="#3465a4"><title>Commonwealth Games 1998 (Corporate)</title></circle></a><a href="/variants/s7/dg12g6r1g10dp8y2w2~x4/"><circle cx="174.0" cy="199.7" r="4" fill="#3465a4"><title>Connelly, James (Personal)</title></circle></a><a href="/variants/s12/y3g15r2db8lb2r8g8r2dg15r2dg2lb2~x2/"><circle cx="125.5" cy="180.3" r="4" fill="#3465a4"><title>Gordonstoun Corporate Tartan</title></circle></a><a href="/variants/s9/r1dy7db3g1n3g1db3g7w1~x4/"><circle cx="135.9" cy="204.8" r="4" fill="#3465a4"><title>Adamson (Personal)</title></circle></a><a href="/variants/s9/dg3lb12dg10lb6dg8g6dg8o23oi3~x2~dg1806142-g2408144-o2005046-oi2007033/"><circle cx="187.8" cy="229.7" r="4" fill="#3465a4"><title>Lawrence's Seven Pillars of Khaki</title></circle></a><circle cx="166.5" cy="196.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

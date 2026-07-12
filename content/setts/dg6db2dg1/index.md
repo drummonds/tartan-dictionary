@@ -1,6 +1,15 @@
 ---
 title: "Montgomery - 1842 (VS"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Montgomery"
+  url: "/clan/montgomery/"
+- name: "Montgomery"
+  url: "/families/montgomery/"
+- name: "Montgomery"
+  url: "/tartans/m/mo/montgomery/"
 ---
 This is the **Montgomery - 1842 (VS** sett — one scale-free proportion (`dg6db2dg1`), colour order pattern
 [BGBG](/stripes/bgbg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/dr1dg3db3dg1~x4/"><circle cx="430.8" cy="366.0" r="4" fill="#3465a4"><title>Barwell</title></circle></a><a href="/variants/s5/dg31lo1dg18db18dr1~x2/"><circle cx="607.0" cy="242.6" r="4" fill="#3465a4"><title>Miramichi</title></circle></a><a href="/variants/s5/dr2dg8db27dg11do2~x2/"><circle cx="519.1" cy="278.6" r="4" fill="#3465a4"><title>Hector, James (Corporate)</title></circle></a><a href="/variants/s4/dg8dr1db1n1~x10/"><circle cx="622.9" cy="292.3" r="4" fill="#3465a4"><title>Jodi Williams (Personal)</title></circle></a><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><circle cx="403.7" cy="296.6" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/variants/s4/t4g8t18w3~x2/"><circle cx="471.8" cy="323.3" r="4" fill="#3465a4"><title>Blue Meadow Check (Fashion)</title></circle></a><a href="/variants/s4/dg4dp4dg1dp1~x4/"><circle cx="499.6" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.211</title></circle></a><a href="/variants/s4/dg4dp4dg1dp1~x4~dp1105325/"><circle cx="497.3" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.116</title></circle></a><a href="/variants/s5/db4b1dg14db14dr1~x4~db0906265-b1611266/"><circle cx="476.9" cy="266.0" r="4" fill="#3465a4"><title>Wcwm 1255-1</title></circle></a><a href="/variants/s5/dgi40dg15g4dg4g4~x2~dgi1806142-g2203152/"><circle cx="585.5" cy="312.4" r="4" fill="#3465a4"><title>Celtic 2009 (Sports)</title></circle></a><circle cx="584.6" cy="364.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

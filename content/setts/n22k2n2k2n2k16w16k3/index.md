@@ -1,6 +1,11 @@
 ---
 title: "Laksaa (Manx)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Laksaa"
+  url: "/tartans/l/la/laksaa/"
 ---
 This is the **Laksaa (Manx)** sett — one scale-free proportion (`n22k2n2k2n2k16w16k3`), colour order pattern
 [BKBKBKWK](/stripes/bkbkbkwk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n21k2n2k2n2k15w17k3~x2/"><circle cx="181.5" cy="179.6" r="4" fill="#3465a4"><title>Laksaa</title></circle></a><a href="/variants/s8/n32k3n3k3t5k8o21k4~x2~n1900000-o2500000/"><circle cx="215.5" cy="169.7" r="4" fill="#3465a4"><title>Speyside Blue (Fashion)</title></circle></a><a href="/variants/s8/n32k3n3k3o5k8oi21k4~x2~n1900000-oi2500000/"><circle cx="216.1" cy="168.6" r="4" fill="#3465a4"><title>Speyside Grey (Fashion)</title></circle></a><a href="/variants/s9/w2k11w2k2w16k2w2k11lo2~x4/"><circle cx="250.9" cy="185.6" r="4" fill="#3465a4"><title>MacFie of Colonsay Dress (Fashion?)</title></circle></a><a href="/variants/s8/k16b1k1b1k1b9ly18b1~x4/"><circle cx="204.6" cy="147.8" r="4" fill="#3465a4"><title>Kelvingrove (Fashion)</title></circle></a><a href="/variants/s11/w4k2o12dr3k3dr3k23o10k2o6k2~x2~o2500000/"><circle cx="194.7" cy="143.4" r="4" fill="#3465a4"><title>Auld Lang Syne, Grey Weavers Tartan</title></circle></a><a href="/variants/s8/lb40k3lb3k3lb3n8k24n8~x2/"><circle cx="250.7" cy="160.7" r="4" fill="#3465a4"><title>O'Sullivan-Beare (Family)</title></circle></a><a href="/variants/s10/y1k4b2k10w1b2w10b1w4y1~x4/"><circle cx="159.8" cy="158.0" r="4" fill="#3465a4"><title>Chieftain</title></circle></a><a href="/variants/s9/g24k3g2k3g4k4r20k3r6~x2~g2504202/"><circle cx="224.5" cy="163.5" r="4" fill="#3465a4"><title>Alma College</title></circle></a><a href="/variants/s11/w2lb7w2lb3w2k15w2k15lb15w2lb2~x2/"><circle cx="197.5" cy="184.3" r="4" fill="#3465a4"><title>Clark (Clan)</title></circle></a><circle cx="188.4" cy="176.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

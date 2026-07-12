@@ -1,6 +1,15 @@
 ---
 title: "Cornell (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cornell"
+  url: "/clan/cornell/"
+- name: "Cornell"
+  url: "/families/cornell/"
+- name: "Cornell"
+  url: "/tartans/c/co/cornell-2/"
 ---
 This is the **Cornell (Corporate)** sett — one scale-free proportion (`r74w27r13lb7r13w13r74k7`), colour order pattern
 [KRWRWRWR](/stripes/krwrwrwr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k2r35db6r5db2r2db2r14w2~x2/"><circle cx="496.0" cy="109.2" r="4" fill="#3465a4"><title>Rose of Kilravock (Personal)</title></circle></a><a href="/variants/s8/r15db5k2db5r15b3r15w2~x2/"><circle cx="360.5" cy="178.5" r="4" fill="#3465a4"><title>Goodwillie (Fashion)</title></circle></a><a href="/variants/s9/g2r28db6r5db2r2db2r11w2/"><circle cx="487.3" cy="144.0" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/variants/s9/g2r28db6r5db2r2db2r11w2~x2/"><circle cx="487.3" cy="144.0" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/variants/s9/g4r32db9r6db2r3db2r12w3~x2/"><circle cx="447.4" cy="144.9" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/variants/s6/r30g12k5w2lb6r30~x2/"><circle cx="370.2" cy="156.5" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s6/r30g12k5w2lb6r30/"><circle cx="370.2" cy="156.5" r="4" fill="#3465a4"><title>Sinclair Clan Tartan</title></circle></a><a href="/variants/s7/k2r1k2r14w1r1w1~x8/"><circle cx="418.1" cy="125.1" r="4" fill="#3465a4"><title>White Stripes Dress, (Corporate)</title></circle></a><a href="/variants/s7/r18g1k5g1k1g1r9~x2/"><circle cx="448.0" cy="136.6" r="4" fill="#3465a4"><title>Duke of Sussex</title></circle></a><a href="/variants/s8/r28w2k12y3r12y3r12g3~x2/"><circle cx="341.8" cy="135.9" r="4" fill="#3465a4"><title>Hackston or Halkerston Family Tartan</title></circle></a><circle cx="419.7" cy="154.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

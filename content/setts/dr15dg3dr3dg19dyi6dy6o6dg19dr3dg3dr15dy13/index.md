@@ -1,6 +1,11 @@
 ---
 title: "Maple Leaf (District)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Maple Leaf"
+  url: "/tartans/m/ma/maple-leaf-3/"
 ---
 This is the **Maple Leaf (District)** sett — one scale-free proportion (`dr15dg3dr3dg19dyi6dy6o6dg19dr3dg3dr15dy13`), colour order pattern
 [BGBGGGRGBGBG](/stripes/bgbgggrgbgbg/). It is recorded as a single **variant**, below.

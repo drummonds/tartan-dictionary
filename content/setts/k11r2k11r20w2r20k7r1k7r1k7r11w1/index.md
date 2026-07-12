@@ -1,6 +1,13 @@
 ---
 title: "Westwood MacBrick (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Westwood"
+  url: "/clan/westwood/"
+- name: "Westwood MacBrick"
+  url: "/tartans/w/we/westwood-macbrick/"
 ---
 This is the **Westwood MacBrick (Fashion)** sett — one scale-free proportion (`k11r2k11r20w2r20k7r1k7r1k7r11w1`), colour order pattern
 [KRKRWRKRKRKRW](/stripes/krkrwrkrkrkrw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r16k2r2k2r13k12r2k12r13k13r2y2~x2/"><circle cx="254.9" cy="176.5" r="4" fill="#3465a4"><title>German National (US) (Fashion)</title></circle></a><a href="/variants/s15/r5k1r2k2r16lb2r2k9r2k2r2k13r2k2r4~x2/"><circle cx="284.4" cy="120.2" r="4" fill="#3465a4"><title>Walkers Shortbread (Corporate)</title></circle></a><a href="/variants/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/"><circle cx="286.0" cy="103.6" r="4" fill="#3465a4"><title>Hebrides #12</title></circle></a><a href="/variants/s10/k9r4k2r4k2r30k9r4k14lo2~x2/"><circle cx="293.6" cy="136.8" r="4" fill="#3465a4"><title>Hanna of Falkirk (Clan?)</title></circle></a><a href="/variants/s9/r4k12w1k12r4k4r24g1r4~x4/"><circle cx="295.3" cy="114.7" r="4" fill="#3465a4"><title>Wemyss</title></circle></a><a href="/variants/s9/r4k12w1k12r4k4r24g1r4~x2/"><circle cx="295.3" cy="114.7" r="4" fill="#3465a4"><title>Wemyss Clan Tartan</title></circle></a><a href="/variants/s12/k6r31k1r6k1w2k1r4k6r2k31r6~x2/"><circle cx="317.1" cy="87.1" r="4" fill="#3465a4"><title>University of Georgia (Corporate)</title></circle></a><a href="/variants/s9/y1r12k2r2k16r2k2r12w1/"><circle cx="289.5" cy="125.1" r="4" fill="#3465a4"><title>MacIvor</title></circle></a><a href="/variants/s9/y1r12k2r2k16r2k2r12w1~x2/"><circle cx="289.5" cy="125.1" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s9/y1r9k2r2k12r2k2r9w1~x4/"><circle cx="267.0" cy="143.9" r="4" fill="#3465a4"><title>MacIver Clan Tartan</title></circle></a><circle cx="287.4" cy="130.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

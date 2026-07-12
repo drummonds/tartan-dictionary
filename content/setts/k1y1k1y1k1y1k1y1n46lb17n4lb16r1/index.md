@@ -1,6 +1,15 @@
 ---
 title: "Saunders (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Saunders"
+  url: "/clan/saunders/"
+- name: "Saunders"
+  url: "/families/saunders/"
+- name: "Saunders"
+  url: "/tartans/s/sa/saunders/"
 ---
 This is the **Saunders (Personal)** sett — one scale-free proportion (`k1y1k1y1k1y1k1y1n46lb17n4lb16r1`), colour order pattern
 [KGKGKGKGBWBWR](/stripes/kgkgkgkgbwbwr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k1y1k1y1k1y1n46lb17n4lb16r1~x2/"><circle cx="371.8" cy="66.9" r="4" fill="#3465a4"><title>Saunders (Personal)</title></circle></a><a href="/variants/s11/r2lb2r1lb24o1n3k3lb3o12lb4r1~x2~o2500000-n1900000/"><circle cx="334.2" cy="105.4" r="4" fill="#3465a4"><title>Dabney Grey (Personal)</title></circle></a><a href="/variants/s10/r25k1y2k1y2k1r10t18w2t12~x2/"><circle cx="279.1" cy="110.9" r="4" fill="#3465a4"><title>Richardson (Personal?)</title></circle></a><a href="/variants/s12/t12n4r4n4k2n56r18w1db4w3db4w1~x2~t2405244-r2109032-db1406275/"><circle cx="365.9" cy="57.8" r="4" fill="#3465a4"><title>Confederate Memorial</title></circle></a><a href="/variants/s17/w2o15b10o4b2k2b2o4b50o4b2k2b2o4b10o15lb2~x2/"><circle cx="376.5" cy="84.6" r="4" fill="#3465a4"><title>Australian, The</title></circle></a><a href="/variants/s12/t50r3t4k8n4k2y3k2r12w2r4t4~x2/"><circle cx="292.7" cy="61.6" r="4" fill="#3465a4"><title>City of Barrie</title></circle></a><a href="/variants/s14/n3db1n1r1n1r1db10lb1n9lb35y2lb2y1n2~x2/"><circle cx="341.9" cy="73.5" r="4" fill="#3465a4"><title>De Clercq, Christian Family (Belgium)</title></circle></a><a href="/variants/s9/lb4dr2lb7n30lb8n7r5k1w2~x2/"><circle cx="315.4" cy="100.0" r="4" fill="#3465a4"><title>Hebridean Fire</title></circle></a><a href="/variants/s10/w5n38o3db11o1db11o3n4w5lr1~x2~n1900000-o2500000/"><circle cx="316.6" cy="105.8" r="4" fill="#3465a4"><title>Ballarat</title></circle></a><a href="/variants/s13/r6ri1db2r2g40r6db13lb1r48g2r4ri1g4~x2~r1807008-ri2406019/"><circle cx="352.0" cy="71.7" r="4" fill="#3465a4"><title>MacDonald of Glencoe Artifact Tartan</title></circle></a><circle cx="356.0" cy="52.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

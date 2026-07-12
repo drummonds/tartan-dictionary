@@ -1,6 +1,15 @@
 ---
 title: "Colquhoun (Clan)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Colquhoun"
+  url: "/clan/colquhoun/"
+- name: "Colquhoun"
+  url: "/families/colquhoun/"
+- name: "Colquhoun"
+  url: "/tartans/c/co/colquhoun-2/"
 ---
 This is the **Colquhoun (Clan)** sett — one scale-free proportion (`db5k10db48k72w12dg48r5`), colour order pattern
 [BKBKWGR](/stripes/bkbkwgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r5dg19w3k19db19k3db2~x2/"><circle cx="126.6" cy="188.7" r="4" fill="#3465a4"><title>Fruin Colquhoun (Commemorative?)</title></circle></a><a href="/variants/s7/db20k6dy4db3k16g20w2~x2/"><circle cx="116.1" cy="188.2" r="4" fill="#3465a4"><title>Deloughery, Paul</title></circle></a><a href="/variants/s7/y8k4n39k37db36k6db7/"><circle cx="171.0" cy="201.4" r="4" fill="#3465a4"><title>Oceanic (Corporate?)</title></circle></a><a href="/variants/s8/y3k12db1g5db12r1k2r1~x4/"><circle cx="157.2" cy="152.8" r="4" fill="#3465a4"><title>Sandberg of Greenock (Personal)</title></circle></a><a href="/variants/s7/k2r1g15k15db15y1k2~x2/"><circle cx="158.4" cy="151.9" r="4" fill="#3465a4"><title>MacCaskill Family Tartan</title></circle></a><a href="/variants/s6/b8k11w3k11dg22dr2~x2/"><circle cx="153.8" cy="192.9" r="4" fill="#3465a4"><title>Loch Katrine</title></circle></a><a href="/variants/s6/dr4k2db24k20g20lo3~x2/"><circle cx="129.2" cy="186.0" r="4" fill="#3465a4"><title>Loudoun's Highlanders</title></circle></a><a href="/variants/s6/dr4k2db24k20dg20lo3~x2/"><circle cx="171.3" cy="197.4" r="4" fill="#3465a4"><title>Loudoun's Highlanders - 1747 #1 (Mil</title></circle></a><a href="/variants/s6/ly4k28r2db22t8dy3~x2/"><circle cx="160.6" cy="147.0" r="4" fill="#3465a4"><title>Loch Long One Design (Corporate)</title></circle></a><a href="/variants/s9/dg14k2dg4r2dg4k14dp15k1w3~x2/"><circle cx="166.9" cy="152.9" r="4" fill="#3465a4"><title>MacRae Hunting #2</title></circle></a><circle cx="177.6" cy="161.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

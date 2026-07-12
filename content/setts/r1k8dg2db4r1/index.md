@@ -1,6 +1,15 @@
 ---
 title: "Nairn"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Nairn"
+  url: "/clan/nairn/"
+- name: "Nairn"
+  url: "/families/nairn/"
+- name: "Nairn"
+  url: "/tartans/n/na/nairn-2/"
 ---
 This is the **Nairn** sett — one scale-free proportion (`r1k8dg2db4r1`), colour order pattern
 [RBGKR](/stripes/rbgkr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r1k8g2db4r1~x8/"><circle cx="212.9" cy="203.4" r="4" fill="#3465a4"><title>Nairn (Name)</title></circle></a><a href="/variants/s5/r1k8g2db4r1~x4/"><circle cx="212.9" cy="203.4" r="4" fill="#3465a4"><title>Nairn Family Tartan</title></circle></a><a href="/variants/s4/db8k3r4y1~x2/"><circle cx="221.2" cy="231.9" r="4" fill="#3465a4"><title>Unidentified #17</title></circle></a><a href="/variants/s5/db16r1k16w1r1~x4/"><circle cx="275.4" cy="166.2" r="4" fill="#3465a4"><title>Christie (2016)</title></circle></a><a href="/variants/s5/dr2db9k5g6db1~x4/"><circle cx="189.2" cy="233.9" r="4" fill="#3465a4"><title>Frobo Nairn</title></circle></a><a href="/variants/s5/w3k25n9db17ly3~x2/"><circle cx="160.4" cy="200.8" r="4" fill="#3465a4"><title>Teylu Coleman (Name)</title></circle></a><a href="/variants/s5/k14r4k25db30w4~x2/"><circle cx="226.6" cy="218.0" r="4" fill="#3465a4"><title>Britannia</title></circle></a><a href="/variants/s6/k2w1k12g5db11r1~x2/"><circle cx="181.6" cy="169.2" r="4" fill="#3465a4"><title>New England (Fashion)</title></circle></a><a href="/variants/s7/r3k12g4db12r1k2r1~x4/"><circle cx="184.1" cy="171.6" r="4" fill="#3465a4"><title>Sandberg</title></circle></a><a href="/variants/s4/db1n6k6r1~x10/"><circle cx="196.8" cy="236.3" r="4" fill="#3465a4"><title>Mayer, Chris (Personal)</title></circle></a><circle cx="232.8" cy="208.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

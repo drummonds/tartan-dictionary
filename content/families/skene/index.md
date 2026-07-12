@@ -1,6 +1,11 @@
 ---
 title: "Skene"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Skene"
+  url: "/clan/skene/"
 ---
 A family of [Clan Skene](/clan/skene/).
 

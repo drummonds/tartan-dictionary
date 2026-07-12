@@ -1,6 +1,11 @@
 ---
 title: "Unidentified #12"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified 23"
+  url: "/tartans/u/un/unidentified-23/"
 ---
 This is the **Unidentified #12** sett — one scale-free proportion (`y2k1g36k1r2k1r2k1g36k1lb2`), colour order pattern
 [GKGKRKRKGKW](/stripes/gkgkrkrkgkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g26t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="341.2" cy="56.4" r="4" fill="#3465a4"><title>Princess Mary #2</title></circle></a><a href="/variants/s7/dr5k3dr9dg56lb4dg2w3/"><circle cx="442.8" cy="106.2" r="4" fill="#3465a4"><title>MTV</title></circle></a><a href="/variants/s7/r5k3r9dg56db4dg2w3/"><circle cx="419.6" cy="93.3" r="4" fill="#3465a4"><title>MTV</title></circle></a><a href="/variants/s7/r2g24k2g12y6k1r2~x2/"><circle cx="454.7" cy="153.9" r="4" fill="#3465a4"><title>Inman (2016)</title></circle></a><a href="/variants/s5/g62r7k4r4g62~x2/"><circle cx="607.9" cy="207.0" r="4" fill="#3465a4"><title>MacNab, Ancient</title></circle></a><a href="/variants/s10/dg40r5k2w2k2y3k2dg10r3k3~x2~dg1605139/"><circle cx="382.9" cy="93.3" r="4" fill="#3465a4"><title>Arnold Palmer Corporate Tartan</title></circle></a><a href="/variants/s8/k2w2db8k4g33r2g16w2~x2/"><circle cx="358.1" cy="130.1" r="4" fill="#3465a4"><title>Sarros (Personal) XX</title></circle></a><a href="/variants/s8/g83k6g3k9r2k5g2y2~x2/"><circle cx="487.9" cy="74.6" r="4" fill="#3465a4"><title>Stewart from Cairnie</title></circle></a><a href="/variants/s8/g165k12g6k18r4k10g4y4/"><circle cx="486.7" cy="74.9" r="4" fill="#3465a4"><title>Crane of Clunie</title></circle></a><a href="/variants/s8/g82k6g3k9r2k5g2dy2~x2/"><circle cx="485.1" cy="75.0" r="4" fill="#3465a4"><title>Crane of Cluny (Personal)</title></circle></a><circle cx="543.1" cy="72.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,8 +1,11 @@
 ---
 title: "Clan Carnegie"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
-*A clan defined by its tartans — the dictionary holds no separate clan history for it, only the cloth that carries its name.*
+Variant of MacDonell of Glengarry, adopted by Lord Southesk in the 1715 rebellion; Glengarry's white becomes yellow.
 
 ## Tartan
 

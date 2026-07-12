@@ -1,6 +1,11 @@
 ---
 title: "Wilson's No.212"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Wilson's No.212"
+  url: "/tartans/w/wi/wilson-s-no-212/"
 ---
 This is the **Wilson's No.212** sett — one scale-free proportion (`r2g9r2lb2`), colour order pattern
 [RGRW](/stripes/rgrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g6k1r1lb2r2~x4/"><circle cx="209.6" cy="228.1" r="4" fill="#3465a4"><title>Wilson's, No 193</title></circle></a><a href="/variants/s5/r2g17r8db8y2~x4/"><circle cx="248.6" cy="240.7" r="4" fill="#3465a4"><title>British Hills</title></circle></a><a href="/variants/s3/r17g9r2~x2/"><circle cx="371.6" cy="295.3" r="4" fill="#3465a4"><title>MacGregor of Glenstrae #2</title></circle></a><a href="/variants/s4/r3g20r25w3~x4/"><circle cx="350.4" cy="253.0" r="4" fill="#3465a4"><title>MacKinnon #6</title></circle></a><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="387.2" cy="258.0" r="4" fill="#3465a4"><title>Bryce Family Tartan</title></circle></a><a href="/variants/s3/g9r2lb2~x4/"><circle cx="421.3" cy="305.9" r="4" fill="#3465a4"><title>Wilson's, No 212</title></circle></a><a href="/variants/s3/g7lb2r4~x2/"><circle cx="289.7" cy="341.2" r="4" fill="#3465a4"><title>Wilson's, No 208</title></circle></a><a href="/variants/s3/g7lb2r4~x2~r2109032/"><circle cx="257.9" cy="328.1" r="4" fill="#3465a4"><title>Wilson's No.208</title></circle></a><a href="/variants/s4/g16r1g2r11~x8/"><circle cx="443.0" cy="247.8" r="4" fill="#3465a4"><title>Middleton</title></circle></a><a href="/variants/s4/dg18r2dg7r18~x2~dg1806142-r2109032/"><circle cx="409.0" cy="293.8" r="4" fill="#3465a4"><title>Applecross</title></circle></a><circle cx="355.6" cy="285.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

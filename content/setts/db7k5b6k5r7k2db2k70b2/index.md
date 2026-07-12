@@ -1,6 +1,11 @@
 ---
 title: "United States"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "United States"
+  url: "/tartans/u/un/united-states-2/"
 ---
 This is the **United States** sett — one scale-free proportion (`db7k5b6k5r7k2db2k70b2`), colour order pattern
 [BKBKRKBKB](/stripes/bkbkrkbkb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k5db15k5lb1k35dp1k2~x4/"><circle cx="481.8" cy="115.0" r="4" fill="#3465a4"><title>Gibson, Robert (Personal)</title></circle></a><a href="/variants/s8/k21r1k1y1k1r1k3w3~x6/"><circle cx="460.4" cy="87.2" r="4" fill="#3465a4"><title>Black Country (District)</title></circle></a><a href="/variants/s8/k62r3k3lo3k3r3k9n5~x2/"><circle cx="518.7" cy="91.5" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><a href="/variants/s8/k62r3k3dy3k3r3k9n5~x2/"><circle cx="540.6" cy="98.1" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><a href="/variants/s10/w2k2dp8k10dp8k64w2k8y1k1~x2/"><circle cx="517.3" cy="55.2" r="4" fill="#3465a4"><title>Payne of Wallins Creek (Personal)</title></circle></a><a href="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/"><circle cx="450.5" cy="111.7" r="4" fill="#3465a4"><title>Laird Abdullah (Personal)</title></circle></a><a href="/variants/s9/y2k4y1k4r5k50n1k2r1~x2/"><circle cx="570.4" cy="48.2" r="4" fill="#3465a4"><title>Magdalene</title></circle></a><a href="/variants/s8/k198lr9k17lb13lr9k4lr13k4/"><circle cx="534.0" cy="59.3" r="4" fill="#3465a4"><title>London Fog Black (Fashion)</title></circle></a><a href="/variants/s9/k78y16k2dt2k2y2k3r2k10~x2~y2100000-dt1700000/"><circle cx="521.7" cy="62.7" r="4" fill="#3465a4"><title>Scotland's Lionheart</title></circle></a><a href="/variants/s9/dp3n2o2k60n2k3n12k1o3~x2~n1900000-o2500000/"><circle cx="460.5" cy="55.1" r="4" fill="#3465a4"><title>Grassi (Personal)</title></circle></a><circle cx="480.0" cy="69.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

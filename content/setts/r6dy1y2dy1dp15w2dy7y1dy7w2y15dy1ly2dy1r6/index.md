@@ -1,6 +1,13 @@
 ---
 title: "Wells, Greg Dress (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Wells"
+  url: "/clan/wells/"
+- name: "Wells, Greg Dress"
+  url: "/tartans/w/we/wells-greg-dress/"
 ---
 This is the **Wells, Greg Dress (Personal)** sett — one scale-free proportion (`r6dy1y2dy1dp15w2dy7y1dy7w2y15dy1ly2dy1r6`), colour order pattern
 [RGGGBWGGGWGGYGR](/stripes/rgggbwgggwggygr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/lb6dg2lb2dg5dr20o2dr2o25r2o2r4g10dr2~x2/"><circle cx="185.4" cy="136.3" r="4" fill="#3465a4"><title>Strathtay</title></circle></a><a href="/variants/s9/r26lb7dp8y3r3w3g20dp10w2~x2/"><circle cx="107.9" cy="139.5" r="4" fill="#3465a4"><title>Wilson's No.227</title></circle></a><a href="/variants/s9/r22y3db5ly2r2w2dg11db4w3~x2/"><circle cx="112.2" cy="128.2" r="4" fill="#3465a4"><title>Norwich No.014</title></circle></a><a href="/variants/s15/r13lr4r13g28lr3dy26lr10dy2do2dy2lr10r14lr4dy4r4~x2/"><circle cx="158.3" cy="147.9" r="4" fill="#3465a4"><title>MacPherson #9</title></circle></a><a href="/variants/s12/db21dp21y2lo2o2r21lo21y21db2r2dp2o21~x2/"><circle cx="73.7" cy="165.5" r="4" fill="#3465a4"><title>Watret</title></circle></a><a href="/variants/s14/db24g4dg2g8dg2g4db12g3r22y3b8g3r22y6~x2/"><circle cx="157.3" cy="146.2" r="4" fill="#3465a4"><title>Devon 2000</title></circle></a><a href="/variants/s14/db24g4dg2g8dg2g4db12g3r22dy3lb8g3r22dy6~x2/"><circle cx="147.4" cy="142.6" r="4" fill="#3465a4"><title>Devon 2000</title></circle></a><a href="/variants/s13/lb6dg2lb2dg5r20ri2r2ri25dr2ri2dr4ly10r2~x2~r1706009-ri2607041/"><circle cx="175.0" cy="127.8" r="4" fill="#3465a4"><title>Strathtay (District?)</title></circle></a><a href="/variants/s18/db12dg4r2y3g4dg4r20w4r14dg4g4y3r2dg4db12y2db8y2~x2~dg1503152-g2407139/"><circle cx="131.5" cy="144.3" r="4" fill="#3465a4"><title>Béguinot, Stéphane (Personal)</title></circle></a><a href="/variants/s12/o3lr14dy3lr3dy3lr4dy11dt11r11o11lr1dt1~x2/"><circle cx="133.6" cy="171.5" r="4" fill="#3465a4"><title>Bridge of Weir Leather Co. (Corp)</title></circle></a><circle cx="129.2" cy="124.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

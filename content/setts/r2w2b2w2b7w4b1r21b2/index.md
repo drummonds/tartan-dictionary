@@ -1,6 +1,11 @@
 ---
 title: "American"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "American"
+  url: "/tartans/a/am/american/"
 ---
 This is the **American** sett — one scale-free proportion (`r2w2b2w2b7w4b1r21b2`), colour order pattern
 [BRBWBWBWR](/stripes/brbwbwbwr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db2r21db1w4db7w2db2w2r2~x2/"><circle cx="329.2" cy="138.4" r="4" fill="#3465a4"><title>31, Tartan (The.. )</title></circle></a><a href="/variants/s9/w29db2w2db2w2db14r31db2r3~x2/"><circle cx="245.9" cy="157.8" r="4" fill="#3465a4"><title>Lindsay Dress Clan Tartan</title></circle></a><a href="/variants/s10/db6n3db3n15r7db7r5db17r46n4/"><circle cx="352.0" cy="172.8" r="4" fill="#3465a4"><title>Harry (Welsh Name)</title></circle></a><a href="/variants/s9/w6r3db36r4db12w24r72w8db4/"><circle cx="281.5" cy="122.9" r="4" fill="#3465a4"><title>Snoozzzeee</title></circle></a><a href="/variants/s10/w18r9w1r1w2r1w1r9db3r4~x4~w3600000/"><circle cx="330.3" cy="158.6" r="4" fill="#3465a4"><title>Swiss Red</title></circle></a><a href="/variants/s10/db6ly3db3ly15r7db7r5db17r46ly4/"><circle cx="313.2" cy="160.5" r="4" fill="#3465a4"><title>Harry/Parry</title></circle></a><a href="/variants/s8/r42b2w2b2r5ri12w32r4~x2~r1707016-ri2008029/"><circle cx="292.1" cy="133.3" r="4" fill="#3465a4"><title>Longniddry, dress Burgundy</title></circle></a><a href="/variants/s9/r60b15r4db10w2db10w2db10r4~x2/"><circle cx="371.8" cy="111.0" r="4" fill="#3465a4"><title>Robberstad</title></circle></a><a href="/variants/s10/w18r9w1r1w2r1w1r9db3r4~x4/"><circle cx="317.6" cy="154.9" r="4" fill="#3465a4"><title>Swiss Red (Fashion)</title></circle></a><a href="/variants/s12/w4m1w2m3w24r5m3r1m1r1m20w2~x2/"><circle cx="324.3" cy="119.3" r="4" fill="#3465a4"><title>Menzies Dress, Cerise (Dance)</title></circle></a><circle cx="351.2" cy="146.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Pinder, Nigel (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Pinder, Nigel"
+  url: "/tartans/p/pi/pinder-nigel/"
 ---
 This is the **Pinder, Nigel (Personal)** sett — one scale-free proportion (`g12k4g12w1t6w1y4`), colour order pattern
 [GKGWBWG](/stripes/gkgwbwg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k17g48y4r10db12g4/"><circle cx="233.1" cy="167.3" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/variants/s7/g10r3g30n10w2db15r4~x2/"><circle cx="289.7" cy="189.5" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s7/g41r6g12db8k2y5w8~x2/"><circle cx="312.6" cy="129.2" r="4" fill="#3465a4"><title>Decatur Presbyterian Church</title></circle></a><a href="/variants/s6/k4g21w3g21db21r4~x2/"><circle cx="226.9" cy="211.3" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/variants/s6/k4g21w3g21db21r4/"><circle cx="226.9" cy="211.3" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/variants/s6/g20k2g20dp25w2lb3~x2/"><circle cx="268.0" cy="180.6" r="4" fill="#3465a4"><title>Lawrence of Broughty Ferry</title></circle></a><a href="/variants/s7/g12k1r1k1t2k1ly4~x8~r2806019-ly3106095/"><circle cx="241.0" cy="147.1" r="4" fill="#3465a4"><title>Alberta (District)</title></circle></a><a href="/variants/s7/g12k1r1k1lb2k1y4~x2/"><circle cx="248.7" cy="148.0" r="4" fill="#3465a4"><title>Alberta District Tartan</title></circle></a><a href="/variants/s7/g13k1r1k1t2k1ly4~x8/"><circle cx="256.3" cy="140.3" r="4" fill="#3465a4"><title>Alberta (Province)</title></circle></a><a href="/variants/s10/k3y2g18w3g18k3y4k3b18w3~x2/"><circle cx="174.4" cy="165.0" r="4" fill="#3465a4"><title>Forrester / Foster, hunting</title></circle></a><circle cx="270.5" cy="191.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

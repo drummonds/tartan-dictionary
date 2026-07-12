@@ -1,6 +1,11 @@
 ---
 title: "Masai Shuka 13 (Artefact)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Masai Shuka 13"
+  url: "/tartans/m/ma/masai-shuka-13/"
 ---
 This is the **Masai Shuka 13 (Artefact)** sett — one scale-free proportion (`lb25w5r1w1r1w20`), colour order pattern
 [WRWRWW](/stripes/wrwrww/). It is recorded as a single **variant**, below.

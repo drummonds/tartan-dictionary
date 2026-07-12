@@ -1,6 +1,11 @@
 ---
 title: "Blueheart"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Blueheart"
+  url: "/tartans/b/bl/blueheart/"
 ---
 This is the **Blueheart** sett — one scale-free proportion (`k1db18lb5db1lb3db18k1`), colour order pattern
 [KBWBWBK](/stripes/kbwbwbk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db5k1lb2k1w6k1lb2db25lb2~x2/"><circle cx="361.4" cy="100.5" r="4" fill="#3465a4"><title>Christopher Newport University</title></circle></a><a href="/variants/s6/db9k9db9k9db42lb5~x2/"><circle cx="417.8" cy="212.4" r="4" fill="#3465a4"><title>Dollar Academy</title></circle></a><a href="/variants/s6/k1y2k3n12k18w1~x2~k0704259-n1902277/"><circle cx="359.5" cy="163.8" r="4" fill="#3465a4"><title>Jon's Theme</title></circle></a><a href="/variants/s5/db13lb3db1r3lb1~x6/"><circle cx="405.9" cy="200.5" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><a href="/variants/s8/db18r1db1r1db1k7db13w2~x4/"><circle cx="431.6" cy="139.4" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><a href="/variants/s5/db68lb7db16k16ly4~x2/"><circle cx="445.5" cy="167.8" r="4" fill="#3465a4"><title>Burnetts &amp; Struth</title></circle></a><a href="/variants/s8/r5db20r3db20w6db3lb2db1~x2/"><circle cx="417.0" cy="153.4" r="4" fill="#3465a4"><title>Masai Shuka 29 (Artefact)</title></circle></a><a href="/variants/s6/db35k10db4w2db3r2~x2/"><circle cx="452.4" cy="145.6" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers</title></circle></a><a href="/variants/s5/db100lb10k5lb10r8/"><circle cx="463.9" cy="143.6" r="4" fill="#3465a4"><title>Waugh</title></circle></a><a href="/variants/s5/db12lb1k2db1r1~x8/"><circle cx="459.8" cy="167.6" r="4" fill="#3465a4"><title>Lochcarron (1985)</title></circle></a><circle cx="471.4" cy="156.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Dalrymple, of Castleton"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Dalrymple"
+  url: "/clan/dalrymple/"
+- name: "Dalrymple of Castleton"
+  url: "/families/dalrymple-of-castleton/"
+- name: "Dalrymple of Castleton"
+  url: "/tartans/d/da/dalrymple-of-castleton-3/"
 ---
 This is the **Dalrymple, of Castleton** sett — one scale-free proportion (`y2ri15y3r2y3k14y2db6w2db6y2ri7db10w1`), colour order pattern
 [GRGRGKGBWBGRBW](/stripes/grgrgkgbwbgrbw/). It is recorded as **2 variants** — the same
@@ -23,6 +32,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/y2ri15y3r2y3k14y2db6w2db6y2ri7db10w1~x2~ri2008029-r1707016/"><circle cx="84.6" cy="117.4" r="4" fill="#3465a4"><title>Dalrymple, of Castleton</title></circle></a><a href="/variants/s13/db23r6db6k10y3k2w2k2g11r12k2r10w2~x2/"><circle cx="78.7" cy="125.1" r="4" fill="#3465a4"><title>Prince Albert</title></circle></a><a href="/variants/s15/r6db2r6g10y1k10db6k1db2k1db6r6w2k2r2~x2/"><circle cx="58.0" cy="135.3" r="4" fill="#3465a4"><title>MacPherson #7</title></circle></a><a href="/variants/s14/r13w2r13k3dr13g21db3k18db9k2db2k2db15w2~x2/"><circle cx="35.8" cy="135.5" r="4" fill="#3465a4"><title>Taiwan Scottish</title></circle></a><a href="/variants/s14/y2r11k3r4k7y2k3dp4k3dp11k3dg1g1y1~x2~y2505139-g2408144/"><circle cx="93.4" cy="124.2" r="4" fill="#3465a4"><title>King, Garry (Personal)</title></circle></a><a href="/variants/s15/oi4o3w24o4oi4k12dr16k2w4k2dr16k12do16k2oi4~oi2104058-o2102055/"><circle cx="26.4" cy="118.9" r="4" fill="#3465a4"><title>Dunkeld</title></circle></a><a href="/variants/s10/y2dp16k1r5k1lo8k1r5k16lg2~x4/"><circle cx="102.5" cy="106.2" r="4" fill="#3465a4"><title>Tribal</title></circle></a><a href="/variants/s17/r14db4r2db2r4db2r2db14k4db4k15g20k2y4r2k1w4~x2/"><circle cx="65.5" cy="87.6" r="4" fill="#3465a4"><title>Caledonian Society of P.E.I. (Corp)</title></circle></a><a href="/variants/s14/lb8k16r17db19r4k2lb7k3r3k2w5k1r3k3~x2/"><circle cx="88.9" cy="108.6" r="4" fill="#3465a4"><title>Popular</title></circle></a><a href="/variants/s17/db14k4db4k15g20k2lb4r2k1w4r14db4r2db2r4db2r2~x2/"><circle cx="64.5" cy="87.9" r="4" fill="#3465a4"><title>Caledonian Society of Prince Edward Island</title></circle></a><circle cx="83.2" cy="116.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

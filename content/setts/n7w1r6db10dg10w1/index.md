@@ -1,6 +1,11 @@
 ---
 title: "McEachern, Andrew"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "McEachern, Andrew"
+  url: "/tartans/m/mc/mceachern-andrew/"
 ---
 This is the **McEachern, Andrew** sett — one scale-free proportion (`n7w1r6db10dg10w1`), colour order pattern
 [BWRBGW](/stripes/bwrbgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/n7w1r6db10g10w1~x4/"><circle cx="135.8" cy="229.7" r="4" fill="#3465a4"><title>McEachem (Name)</title></circle></a><a href="/variants/s7/r2ly2db9dy1dg9r1w1~x2/"><circle cx="165.0" cy="176.7" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><a href="/variants/s7/g21db21y3r21n3dp5n3~x2/"><circle cx="122.4" cy="206.8" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/variants/s6/r5t3g24db24r4y2~x2~t2405244-db1406275/"><circle cx="236.4" cy="196.7" r="4" fill="#3465a4"><title>Canine All Dogs</title></circle></a><a href="/variants/s6/r10dbi6g24db24r6y3~dbi1406275-db1004274/"><circle cx="163.3" cy="226.7" r="4" fill="#3465a4"><title>Canine All Dogs (Fashion)</title></circle></a><a href="/variants/s6/y15db8r25db72dg98w15/"><circle cx="227.6" cy="196.2" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/variants/s5/dp10db10g10w1dy1~x6/"><circle cx="202.8" cy="247.6" r="4" fill="#3465a4"><title>Edelstein (Personal)</title></circle></a><a href="/variants/s6/dg5t2dg9db19r9ly2~x2/"><circle cx="219.5" cy="217.2" r="4" fill="#3465a4"><title>Lyle and Scott</title></circle></a><a href="/variants/s6/dg5dbi2dg9db19r9y2~x2~dbi1406275-db0705267/"><circle cx="220.2" cy="215.1" r="4" fill="#3465a4"><title>Lyle and Scott</title></circle></a><a href="/variants/s6/g3db12w1dg12r12dg2~x2/"><circle cx="179.0" cy="207.9" r="4" fill="#3465a4"><title>Patterson, John (Personal)</title></circle></a><circle cx="144.5" cy="229.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Baxter (Clan)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Baxter"
+  url: "/clan/baxter/"
+- name: "Baxter of Balgavies"
+  url: "/families/baxter-of-balgavies/"
+- name: "Baxter of Balgavies"
+  url: "/tartans/b/ba/baxter-of-balgavies/"
 ---
 This is the **Baxter (Clan)** sett — one scale-free proportion (`w2r16k1lb2k1y4k1lb2k1g16lb1`), colour order pattern
 [WGKWKGKWKRW](/stripes/wgkwkgkwkrw/). It is recorded as **2 variants** — the same
@@ -23,6 +32,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x2/"><circle cx="143.2" cy="96.7" r="4" fill="#3465a4"><title>Baxter of Balgavies</title></circle></a><a href="/variants/s13/w2r12k1lb2k1y3k1y3k1lb2k1g12lb2~x2/"><circle cx="80.7" cy="110.5" r="4" fill="#3465a4"><title>Buchanan #3</title></circle></a><a href="/variants/s13/w2r16k1t2k1ly4k1ly4k1t2k1g16t1~x4/"><circle cx="114.0" cy="90.7" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/variants/s13/w2r16k1lb2k1y4k1y4k1lb2k1g16lb2~x2/"><circle cx="116.4" cy="94.0" r="4" fill="#3465a4"><title>Buchanan D</title></circle></a><a href="/variants/s13/w2r16k1lb2k1y4k1y4k1lb2k1dg16lb2~x4/"><circle cx="112.3" cy="88.9" r="4" fill="#3465a4"><title>Buchanan (Logan)</title></circle></a><a href="/variants/s13/w3r31k2lb4k2y8k2y8k2lb4k2g31lb3~x2/"><circle cx="118.6" cy="94.5" r="4" fill="#3465a4"><title>Buchanan #2</title></circle></a><a href="/variants/s12/lb1g8k1lb2k1y2k1lb2k1r8w1lb1~x4/"><circle cx="61.2" cy="132.4" r="4" fill="#3465a4"><title>MacWhirter Clan Tartan</title></circle></a><a href="/variants/s13/w4r25k2lb4k2y8k3y8k2lb4k2g25lb4~x2/"><circle cx="77.0" cy="112.5" r="4" fill="#3465a4"><title>Buchanan Clan Tartan</title></circle></a><a href="/variants/s14/r16ly5g2ly4g2ly5n38k5g2k4g2k5r8lb4~x2/"><circle cx="143.7" cy="80.8" r="4" fill="#3465a4"><title>Berwick -upon-Tweed (asymmetric)</title></circle></a><a href="/variants/s11/w3k1r25k2dy2g25dy2y2dy10k1r2~x2/"><circle cx="176.6" cy="79.9" r="4" fill="#3465a4"><title>Bicknell, The Hamish (Personal)</title></circle></a><circle cx="143.2" cy="96.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

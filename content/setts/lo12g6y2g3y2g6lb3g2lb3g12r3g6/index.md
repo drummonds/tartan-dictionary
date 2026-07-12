@@ -1,6 +1,11 @@
 ---
 title: "O'Brien Irish Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "O'Brien"
+  url: "/tartans/o/o/o-brien/"
 ---
 This is the **O'Brien Irish Family Tartan** sett — one scale-free proportion (`lo12g6y2g3y2g6lb3g2lb3g12r3g6`), colour order pattern
 [GRGWGWGGGGGY](/stripes/grgwgwgggggy/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lo13g6y2g3y2g6lb3g2lb3g12r3g6~x2/"><circle cx="293.7" cy="222.9" r="4" fill="#3465a4"><title>O'Brien (Name)</title></circle></a><a href="/variants/s12/lo13g6y2g3y2g6lb3g2lb3g12r3g6~x2~lo2706066-g2203152/"><circle cx="352.4" cy="239.3" r="4" fill="#3465a4"><title>O'Brien</title></circle></a><a href="/variants/s12/b13g6y2g3y2g6lb3g2lb3g12r3g6~x2/"><circle cx="299.6" cy="226.8" r="4" fill="#3465a4"><title>O'Brien</title></circle></a><a href="/variants/s10/g8r2lb3y2g4n4g14db2n2db2~x2/"><circle cx="312.5" cy="203.9" r="4" fill="#3465a4"><title>Lévesque, Pascal (Personal)</title></circle></a><a href="/variants/s7/r4g3o8w3o4g18y3~x2/"><circle cx="278.3" cy="239.0" r="4" fill="#3465a4"><title>Newfoundland</title></circle></a><a href="/variants/s12/r3g8r2g18dr5g3do3g3do16g3do3g3~x2/"><circle cx="318.2" cy="202.4" r="4" fill="#3465a4"><title>Dublin</title></circle></a><a href="/variants/s14/g19dy3g19r3g19dy3g19r3g3r21lb3r21g3r3~x2/"><circle cx="323.0" cy="204.0" r="4" fill="#3465a4"><title>Burnett of Powis (Modern) (Personal)</title></circle></a><a href="/variants/s9/g5r9g10y2g2w2g10r9g5~x2/"><circle cx="304.0" cy="260.6" r="4" fill="#3465a4"><title>Wilson's, No 169</title></circle></a><a href="/variants/s16/g17r3g17lb19g3lb19g17y3g17lb5g4lb10g3lb10g4lb5/"><circle cx="301.3" cy="231.2" r="4" fill="#3465a4"><title>Jubilee Commemorative Tartan</title></circle></a><circle cx="295.2" cy="228.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

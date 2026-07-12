@@ -11,7 +11,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/waggrall/"><img src="/variants/s81/r11w1ri4w1r11ri2w1y2dp6w1dp6y2w2dg6g2ly2w1ly2g2dg6w2ri2r11w1ri4w1r11ri2w2dg6g2ly2w1ly2g2dg6w2y2dp6w1dp6y2w1ri2r11w1ri4w1r11ri2w2y2dp6w1dp6y2w2dg10g4w2g4dg10w2g4ly4w1dp5w1ly4g4w2dp11y4w2y4dp11w2ri2r11w-he7d7900006fe9af8/sett.png" alt="Waggrall" width="140"><br><strong>Waggrall</strong></a></li>
 <li><a class="tartan" href="/families/wagland/"><img src="/variants/s12/db6y2db15g12dg39w3dg39g12db15y2db6r3~x2~dg1605139/sett.png" alt="Wagland" width="140"><br><strong>Wagland</strong></a></li>
 <li><a class="tartan" href="/families/waipu/"><img src="/variants/s22/g8db16k5y2dp1y2k5db7r2db7g16db7r2db7k5y2dp1y2k5db16g8w1~x2/sett.png" alt="Waipu" width="140"><br><strong>Waipu</strong></a></li>
-<li><a class="tartan" href="/families/walker/"><img src="/variants/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2/sett.png" alt="Walker" width="140"><br><strong>Walker</strong></a></li>
+<li><a class="tartan" href="/families/walker/"><img src="/variants/s12/dy4db2r7db15r4db3r4db7r28dg7r6dg2/sett.png" alt="Walker" width="140"><br><strong>Walker</strong></a></li>
 <li><a class="tartan" href="/families/wallace/"><img src="/variants/s4/k1r8k8y1/sett.png" alt="Wallace" width="140"><br><strong>Wallace</strong></a></li>
 <li><a class="tartan" href="/families/walter/"><img src="/variants/s7/r24w3y4dg18dp18g3lb4~x2/sett.png" alt="Walter" width="140"><br><strong>Walter</strong></a></li>
 <li><a class="tartan" href="/families/walters/"><img src="/variants/s4/dg2dp2dg24g1~x4~dg1806142-g2408144/sett.png" alt="Walters" width="140"><br><strong>Walters</strong></a></li>
@@ -73,7 +73,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/wolverine/"><img src="/variants/s6/y8w3db40k12w3y3~x2/sett.png" alt="Wolverine" width="140"><br><strong>Wolverine</strong></a></li>
 <li><a class="tartan" href="/variants/s12/dg19w2dg5k4db21k4w2dg5w1y1w1do14~x2/"><strong>Womack</strong></a></li>
 <li><a class="tartan" href="/families/womble/"><img src="/variants/s9/w4dbi8w1db1g6db3r6db1w4~x2~dbi1604274-db0805267/sett.png" alt="Womble" width="140"><br><strong>Womble</strong></a></li>
-<li><a class="tartan" href="/families/wombles/"><img src="/variants/s9/w4db8w1dbi1lo6dbi3r6dbi1w4~x2~db0804274-dbi1605267/sett.png" alt="Wombles" width="140"><br><strong>Wombles</strong></a></li>
+<li><a class="tartan" href="/families/wombles/"><img src="/variants/s9/w4db8w1dbi1r6dbi3lo6dbi1w4~x2~db0804274-dbi1605267/sett.png" alt="Wombles" width="140"><br><strong>Wombles</strong></a></li>
 <li><a class="tartan" href="/families/wood/"><img src="/variants/s8/g11lb3g5r3g5k22db22k5~x2/sett.png" alt="Wood" width="140"><br><strong>Wood</strong></a></li>
 <li><a class="tartan" href="/variants/s7/db30dp9g6dp9r4db17w5~x2/"><strong>Woodcock</strong></a></li>
 <li><a class="tartan" href="/variants/s5/db4y4r33k30w2~x2/"><strong>Wormeck German</strong></a></li>

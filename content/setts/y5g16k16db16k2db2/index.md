@@ -1,6 +1,13 @@
 ---
 title: "Hudson Valley Reg. Police P & D (Cor"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hudson"
+  url: "/clan/hudson/"
+- name: "Hudson Valley Reg. Police P & D (Cor"
+  url: "/tartans/h/hu/hudson-valley-reg-police-p-d-cor/"
 ---
 This is the **Hudson Valley Reg. Police P & D (Cor** sett — one scale-free proportion (`y5g16k16db16k2db2`), colour order pattern
 [BKBKGG](/stripes/bkbkgg/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r2g8w1k8db8k1db1~x4/"><circle cx="102.8" cy="188.7" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/variants/s7/r2g8w1k8db8k1db1~x2/"><circle cx="102.8" cy="188.7" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/variants/s7/r3g16w2k16db16k2db2~x2/"><circle cx="108.8" cy="186.7" r="4" fill="#3465a4"><title>Colquhoun Clan Tartan</title></circle></a><a href="/variants/s6/db2k2db12k11g16w2~x2/"><circle cx="141.6" cy="213.6" r="4" fill="#3465a4"><title>Campbell of Argyll (Smiths)</title></circle></a><a href="/variants/s6/db2k2db12k11g12w2~x2/"><circle cx="124.1" cy="228.6" r="4" fill="#3465a4"><title>Campbell, The White Stripe</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="145.6" cy="229.5" r="4" fill="#3465a4"><title>Murray (Variation) Clan Tartan</title></circle></a><a href="/variants/s7/lb4g14y2k14db14k2db3~x2/"><circle cx="95.1" cy="200.6" r="4" fill="#3465a4"><title>Hogarth of Firhill (Clan)</title></circle></a><a href="/variants/s7/b2g6y1k6db6k1db1~x2/"><circle cx="89.6" cy="211.0" r="4" fill="#3465a4"><title>Hogarth, of Firhill</title></circle></a><a href="/variants/s7/lb2g6y1k6db6k1db1~x2/"><circle cx="80.0" cy="207.9" r="4" fill="#3465a4"><title>Hogarth of Firhill</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8r2/"><circle cx="135.8" cy="215.9" r="4" fill="#3465a4"><title>Fletcher C</title></circle></a><circle cx="127.1" cy="222.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

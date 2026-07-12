@@ -1,6 +1,13 @@
 ---
 title: "Buchanan, John & Isabella"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Buchanan"
+  url: "/clan/buchanan/"
+- name: "Buchanan, John & Isabella"
+  url: "/tartans/b/bu/buchanan-john-isabella-2/"
 ---
 This is the **Buchanan, John & Isabella** sett — one scale-free proportion (`r1w1db8lb12y1lb1k2w3k6db1lb1y1lb1db1w1r1`), colour order pattern
 [RWBWGWBKWKWGWBWR](/stripes/rwbwgwbkwkwgwbwr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s19/ly6db2lo2db1k1db1lyi4lb2lyi2db17k2lb3k8lb3k2lb17k2lb2lyi2~x2~ly3104101-lyi3407090/"><circle cx="93.6" cy="80.5" r="4" fill="#3465a4"><title>Ferrari (Name)</title></circle></a><a href="/variants/s16/w1dr3k1dr3g4k1w1k1w1k1db6lo2db4w14db1w1~x4/"><circle cx="107.3" cy="88.2" r="4" fill="#3465a4"><title>MacBeth Dress (Clan)</title></circle></a><a href="/variants/s19/ly6lb2dy2lb1k1lb1y4db2y2lb17k2db3k8db3k2db17k2db2y2~x2/"><circle cx="97.6" cy="80.4" r="4" fill="#3465a4"><title>Ferrari (Coldrerio)</title></circle></a><a href="/variants/s14/w1ki1y1db8k1lb1w8lb1k8lb1w1db8lb1w1~x6~ki0705267-db1505255/"><circle cx="87.4" cy="121.5" r="4" fill="#3465a4"><title>Praetorian Blue</title></circle></a><a href="/variants/s9/w37k4db12t12w2lb2dp23k4dp6~x2/"><circle cx="82.5" cy="94.1" r="4" fill="#3465a4"><title>Hebridean Arisaid Blue (Dance)</title></circle></a><a href="/variants/s15/lb30g8r2k8y2k8r2g8db11r2lb10r3lb2r2db3~x2/"><circle cx="116.4" cy="95.3" r="4" fill="#3465a4"><title>Mungall Family Tartan</title></circle></a><a href="/variants/s16/db81r4db8r8db4r12w16k8w32k16y6db8g16r8w4r24/"><circle cx="129.0" cy="73.2" r="4" fill="#3465a4"><title>Royal Stuart/Stewart (Variant)</title></circle></a><a href="/variants/s12/r5w2db2w2y5w2lb2w2k7db14lb30w4~x2/"><circle cx="141.2" cy="98.0" r="4" fill="#3465a4"><title>St. Andrews Management School (Corp)</title></circle></a><a href="/variants/s9/g2db8g2k5w12lo1db1w1dr1~x4/"><circle cx="104.5" cy="106.1" r="4" fill="#3465a4"><title>Haymarket Dress (Dance)</title></circle></a><a href="/variants/s12/db6n3k4dy3k3n3k3dg14lb28n3lb3k2~x2/"><circle cx="128.3" cy="101.7" r="4" fill="#3465a4"><title>Buffalo (Fashion)</title></circle></a><circle cx="95.0" cy="95.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

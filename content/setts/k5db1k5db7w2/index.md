@@ -1,6 +1,13 @@
 ---
 title: "Grampian T.V. Corporate Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Grampian"
+  url: "/clan/grampian/"
+- name: "Grampian T.V."
+  url: "/tartans/g/gr/grampian-t-v/"
 ---
 This is the **Grampian T.V. Corporate Tartan** sett — one scale-free proportion (`k5db1k5db7w2`), colour order pattern
 [KBKBW](/stripes/kbkbw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k12t3k12t18w5~x2/"><circle cx="209.4" cy="241.7" r="4" fill="#3465a4"><title>Grampian Television</title></circle></a><a href="/variants/s5/k9db3k28db25w2~x2/"><circle cx="336.3" cy="207.4" r="4" fill="#3465a4"><title>Press &amp; Journal</title></circle></a><a href="/variants/s6/db9k9r3db9k9ly1~x4/"><circle cx="211.5" cy="233.2" r="4" fill="#3465a4"><title>Old Brigade</title></circle></a><a href="/variants/s6/db9k9r3db9k9y1~x4/"><circle cx="219.9" cy="235.7" r="4" fill="#3465a4"><title>Old Brigade</title></circle></a><a href="/variants/s5/k14r4k25db30w4~x2/"><circle cx="226.6" cy="218.0" r="4" fill="#3465a4"><title>Britannia</title></circle></a><a href="/variants/s5/k15y2k10db18w3~x2/"><circle cx="235.6" cy="216.6" r="4" fill="#3465a4"><title>College of Radiographers</title></circle></a><a href="/variants/s5/k15dy2k10db18w3~x2/"><circle cx="240.2" cy="218.1" r="4" fill="#3465a4"><title>College of Radiographers Corporate Tartan</title></circle></a><a href="/variants/s6/k6db17k6db17k27w3~x2/"><circle cx="282.6" cy="230.5" r="4" fill="#3465a4"><title>Swan, Brian E</title></circle></a><a href="/variants/s5/k15lo2k10db18lr3~x2/"><circle cx="244.8" cy="220.1" r="4" fill="#3465a4"><title>College of Radiographers</title></circle></a><a href="/variants/s6/k3w2k18b18k2b3~x4/"><circle cx="267.1" cy="196.4" r="4" fill="#3465a4"><title>Swan</title></circle></a><circle cx="224.1" cy="252.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Fearns McIntosh Millennium (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Fearns McIntosh Millennium"
+  url: "/tartans/f/fe/fearns-mcintosh-millennium/"
 ---
 This is the **Fearns McIntosh Millennium (Personal)** sett — one scale-free proportion (`r8dt2lb1o1r8dt2lb1o1r8g2`), colour order pattern
 [GRRWBRRWBR](/stripes/grrwbrrwbr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r5db10r5dg5r25y1~x4/"><circle cx="442.0" cy="161.9" r="4" fill="#3465a4"><title>AON</title></circle></a><a href="/variants/s7/r23k1g9r3db1lb1r1~x4/"><circle cx="421.9" cy="103.3" r="4" fill="#3465a4"><title>Perthshire Clayquhat District Tartan</title></circle></a><a href="/variants/s9/o48ly14o9dg14k6o11g6o10dg3~x2~o2208036-dg1806142/"><circle cx="335.4" cy="135.8" r="4" fill="#3465a4"><title>Justerini &amp; Brooks</title></circle></a><a href="/variants/s6/r65g16r4dp4r4w5~x2/"><circle cx="499.1" cy="151.0" r="4" fill="#3465a4"><title>Howard, Vincent (Personal)</title></circle></a><a href="/variants/s7/dg4r4dg13r13dg4r36lo4~x2/"><circle cx="435.6" cy="205.0" r="4" fill="#3465a4"><title>Wolfe (Name)</title></circle></a><a href="/variants/s8/r6g14r6db11r31lb2r4y3~x2/"><circle cx="344.4" cy="158.9" r="4" fill="#3465a4"><title>Loch Lochy</title></circle></a><a href="/variants/s6/r34w4lb7ly10lb7r18~x2/"><circle cx="378.0" cy="219.4" r="4" fill="#3465a4"><title>Ploysongsang, Edward Thiravej (Pers</title></circle></a><a href="/variants/s6/r34w4db7y10db7r18~x2/"><circle cx="362.3" cy="212.9" r="4" fill="#3465a4"><title>Ploysongsang, Edward Thiravej (Personal)</title></circle></a><a href="/variants/s8/r6g14r6db12r31lb2r4ly3~x2/"><circle cx="330.4" cy="157.2" r="4" fill="#3465a4"><title>Loch Lochy (District)</title></circle></a><a href="/variants/s10/r50y7o6g4k4g4o6y7r50db13~x2/"><circle cx="366.9" cy="119.7" r="4" fill="#3465a4"><title>Harding (Florida) (Personal)</title></circle></a><circle cx="406.4" cy="179.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Jones of Wales"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Jones"
+  url: "/clan/jones/"
+- name: "Jones of Wales"
+  url: "/families/jones-of-wales/"
+- name: "Jones of Wales"
+  url: "/tartans/j/jo/jones-of-wales/"
 ---
 This is the **Jones of Wales** sett — one scale-free proportion (`dg46db17dg5db7dg7lb15db3lb3db6lb3db3lb15dg7db7dg5db17dg46dgi4`), colour order pattern
 [GBGBGWBWBWBWGBGBGG](/stripes/gbgbgwbwbwbwgbgbgg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db6lb3db3lb15dg7db7dg5db17dg46dgi4~dgi1605139/"><circle cx="328.5" cy="180.8" r="4" fill="#3465a4"><title>Jones (Welsh Name)</title></circle></a><a href="/variants/s11/db10dr3db3dr6db26g12dr6g2dr3g6lo2~x2/"><circle cx="311.3" cy="197.1" r="4" fill="#3465a4"><title>Law of Atholl (Personal)</title></circle></a><a href="/variants/s15/g16dp6g6db46g5db8g5dp10g6dy8g48dp6g6dp6g16/"><circle cx="318.1" cy="189.0" r="4" fill="#3465a4"><title>Aberlour Bicentenary</title></circle></a><a href="/variants/s16/db36y4db10y4db36g28w3g3w3g8y6g8w3g3w3g28/"><circle cx="261.9" cy="172.4" r="4" fill="#3465a4"><title>MacOrrell</title></circle></a><a href="/variants/s15/g16dp6g6db46g5db8g5dp10g6ly8g48dp6g6dp6g16/"><circle cx="308.0" cy="186.0" r="4" fill="#3465a4"><title>Aberlour Bicentenary (Commemorative)</title></circle></a><a href="/variants/s10/do2db4g12db3do6lb2db24do2db2g2~x2/"><circle cx="360.3" cy="191.4" r="4" fill="#3465a4"><title>Wicklow</title></circle></a><a href="/variants/s13/db23g4db1w1db3g5db1dp4db3y1g3w1g4~x4/"><circle cx="353.6" cy="122.3" r="4" fill="#3465a4"><title>Riyadh Caledonian (Corporate)</title></circle></a><a href="/variants/s12/dr3g3db3g14db3g3db3lb5db18y2db8y2~x2/"><circle cx="273.4" cy="193.8" r="4" fill="#3465a4"><title>California Burns (Personal)</title></circle></a><a href="/variants/s8/dg20db2g6db2dg4db27lo2db8~x2/"><circle cx="411.4" cy="183.3" r="4" fill="#3465a4"><title>Kinross</title></circle></a><a href="/variants/s10/y2w1db4w1db1y1dg12y1dg2y1~x4/"><circle cx="323.4" cy="175.7" r="4" fill="#3465a4"><title>Henry, David G (Personal)</title></circle></a><circle cx="322.9" cy="157.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

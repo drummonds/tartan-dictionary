@@ -1,6 +1,11 @@
 ---
 title: "United Services Planning Association"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "United Services Planning Association"
+  url: "/tartans/u/un/united-services-planning-association/"
 ---
 This is the **United Services Planning Association** sett — one scale-free proportion (`db20dr2db12g6lb2g4t4g4lb2g16lb2g4t4g4lb2g6db12dr2db20y3`), colour order pattern
 [BBBGWGBGWGWGBGWGBBBG](/stripes/bbbgwgbgwgwgbgwgbbbg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/g13db5y3t6y3db5n6db28w2db28n6db5y3t6y3db5g13dp4~x2~t2503227/"><circle cx="258.3" cy="136.0" r="4" fill="#3465a4"><title>Highland Blue</title></circle></a><a href="/variants/s11/g16lb2g4t4g4lb2g6db12dr2db20y3~x2/"><circle cx="227.3" cy="185.8" r="4" fill="#3465a4"><title>First Command Fin. Planning (Corp)</title></circle></a><a href="/variants/s12/dr3g3db3g14db3g3db3lb5db18y2db8y2~x2/"><circle cx="273.4" cy="193.8" r="4" fill="#3465a4"><title>California Burns (Personal)</title></circle></a><a href="/variants/s19/dr5db3dr3r2db2y2db2y1db14g2db7g4db4g7db2g9y1n2g5~x2/"><circle cx="209.7" cy="148.5" r="4" fill="#3465a4"><title>Hart of Scotland (Corporate)</title></circle></a><a href="/variants/s15/db6y2g24db4g8db6g6db8g3db10n14db4r3db34lb4/"><circle cx="274.6" cy="135.6" r="4" fill="#3465a4"><title>Matchpoint Hunting</title></circle></a><a href="/variants/s15/db6dy2g24db4g8db6g6db8g3db10n14db4r3db34lb4/"><circle cx="275.3" cy="135.8" r="4" fill="#3465a4"><title>Matchpoint Hunting</title></circle></a><a href="/variants/s11/db20n2lb2n4g20w2db16n7lb2db3lb5~x2/"><circle cx="244.8" cy="191.5" r="4" fill="#3465a4"><title>U.S.I. Limited</title></circle></a><a href="/variants/s16/g10db10r1db10n1db1n10db2n10db1n1db10r1db10g10w2~x2/"><circle cx="246.3" cy="182.5" r="4" fill="#3465a4"><title>American Soc of Travel Agents Corporate Tartan</title></circle></a><a href="/variants/s7/n6dbi8n8g12db29w3db4~x2~dbi1105279/"><circle cx="250.4" cy="206.2" r="4" fill="#3465a4"><title>Dickson Name Tartan</title></circle></a><a href="/variants/s17/y3lb20db3g3db3g3db3g3db4lb13dg2lb2dg2lb3b2lb3g3~x2/"><circle cx="250.9" cy="146.0" r="4" fill="#3465a4"><title>Fermanagh</title></circle></a><circle cx="237.8" cy="160.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

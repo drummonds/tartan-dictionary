@@ -1,6 +1,11 @@
 ---
 title: "Unidentified pattern #2"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified pattern"
+  url: "/tartans/u/un/unidentified-pattern-3/"
 ---
 This is the **Unidentified pattern #2** sett — one scale-free proportion (`g12db3y1`), colour order pattern
 [GBG](/stripes/gbg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/y1g10db4lb1~x2/"><circle cx="392.5" cy="250.0" r="4" fill="#3465a4"><title>Wilson's No.174</title></circle></a><a href="/variants/s4/lb9g52dy15ly4~x2/"><circle cx="424.6" cy="241.6" r="4" fill="#3465a4"><title>McGuigan, Julia (Personal)</title></circle></a><a href="/variants/s3/g12db3g1~x2/"><circle cx="487.3" cy="272.6" r="4" fill="#3465a4"><title>Montgomerie</title></circle></a><a href="/variants/s4/w1g10db4lb1~x2/"><circle cx="371.1" cy="244.7" r="4" fill="#3465a4"><title>Wilson's, No 205</title></circle></a><a href="/variants/s4/db8g20w4r1~x5/"><circle cx="345.3" cy="204.5" r="4" fill="#3465a4"><title>Farooq (Personal)</title></circle></a><a href="/variants/s5/db5ly5dy13g41r3~x2/"><circle cx="356.8" cy="192.4" r="4" fill="#3465a4"><title>Clare, Richard (Personal)</title></circle></a><a href="/variants/s5/g50k6b11g25ly4~x2/"><circle cx="454.5" cy="206.7" r="4" fill="#3465a4"><title>Glen of Daviot (Dalgleish)</title></circle></a><a href="/variants/s3/g6db2g1~x4/"><circle cx="423.4" cy="315.4" r="4" fill="#3465a4"><title>Montgomery</title></circle></a><a href="/variants/s3/g9n4ly1~x16/"><circle cx="536.4" cy="340.1" r="4" fill="#3465a4"><title>Ledford (Name)</title></circle></a><a href="/variants/s4/g56dy13y13n5~x2/"><circle cx="505.0" cy="280.8" r="4" fill="#3465a4"><title>Colonial Marine (Aliens Legacy)</title></circle></a><circle cx="534.1" cy="277.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

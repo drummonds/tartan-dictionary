@@ -1,6 +1,15 @@
 ---
 title: "Frame (Ferniegair) (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Frame"
+  url: "/clan/frame/"
+- name: "Frame"
+  url: "/families/frame/"
+- name: "Frame"
+  url: "/tartans/f/fr/frame-3/"
 ---
 This is the **Frame (Ferniegair) (Personal)** sett — one scale-free proportion (`g4dy14r1dy1g1dy1r1dy14r14dy1r1g1`), colour order pattern
 [GGRGGGRGRGRG](/stripes/ggrgggrgrgrg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dg4dy14r1dy1dg1dy1r1dy14r14dy1r1dg1~x4/"><circle cx="417.0" cy="171.9" r="4" fill="#3465a4"><title>Frame - Ferniegair (Personal)</title></circle></a><a href="/variants/s16/dy13r1dy2r2dy2r1dy2r5dy11r1dy2g2dy2r1dy2g7~x2/"><circle cx="409.6" cy="172.4" r="4" fill="#3465a4"><title>Särna District Tartan</title></circle></a><a href="/variants/s14/r45dp4r4g48r4dp4r4dp15r4dp4r40g4r4g30/"><circle cx="321.2" cy="168.7" r="4" fill="#3465a4"><title>Bruce Old Clan Tartan</title></circle></a><a href="/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x4/"><circle cx="376.9" cy="159.8" r="4" fill="#3465a4"><title>MacColl</title></circle></a><a href="/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x2/"><circle cx="376.9" cy="159.8" r="4" fill="#3465a4"><title>MacColl Clan Tartan</title></circle></a><a href="/variants/s11/g4ri34db20ri4db8ri6r2ri5db2ri3g4~ri2109032-db1404245/"><circle cx="369.2" cy="147.7" r="4" fill="#3465a4"><title>Hughes (Welsh Name)</title></circle></a><a href="/variants/s12/r7ri2db2r2g32r6db12r41g2r5ri2g5~x2~r1707016-ri2208029/"><circle cx="344.5" cy="134.1" r="4" fill="#3465a4"><title>MacDougall #5</title></circle></a><a href="/variants/s14/g20r3g6r6g6r8dp2r2g20r2dp2r46dp3r8~x2/"><circle cx="397.8" cy="137.5" r="4" fill="#3465a4"><title>MacAlister of Glenbarr</title></circle></a><a href="/variants/s6/r29g2r2g2r6dy21~x4/"><circle cx="419.1" cy="164.0" r="4" fill="#3465a4"><title>Maguire Clan Family Tartan</title></circle></a><a href="/variants/s11/g18r3g2r2db6r2g2r24g2r2g6~x2/"><circle cx="328.0" cy="176.0" r="4" fill="#3465a4"><title>MacDonald of Vallay (Uist) (?)</title></circle></a><circle cx="392.1" cy="164.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

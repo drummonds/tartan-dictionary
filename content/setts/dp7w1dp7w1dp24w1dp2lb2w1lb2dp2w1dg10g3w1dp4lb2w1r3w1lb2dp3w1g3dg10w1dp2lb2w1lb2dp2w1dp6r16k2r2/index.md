@@ -1,6 +1,15 @@
 ---
 title: "Mackintosh #7"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Mackintosh (Clan Chattan)"
+  url: "/clan/mackintosh/"
+- name: "MacKintosh"
+  url: "/families/mackintosh/"
+- name: "Mackintosh"
+  url: "/tartans/m/ma/mackintosh-5/"
 ---
 This is the **Mackintosh #7** sett — one scale-free proportion (`dp7w1dp7w1dp24w1dp2lb2w1lb2dp2w1dg10g3w1dp4lb2w1r3w1lb2dp3w1g3dg10w1dp2lb2w1lb2dp2w1dp6r16k2r2`), colour order pattern
 [BWBWBWBWWWBWGGWBWWRWWBWGGWBWWWBWBRKR](/stripes/bwbwbwbwwwbwggwbwwrwwbwggwbwwwbwbrkr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s25/w2k1ri3db3ri3r3ri19r3ri3db3ri3db29ly3g29ri3db3ri3r3ri19r3ri3db3ri3k1w2~x4~ri2108029-r1807016/"><circle cx="168.0" cy="27.0" r="4" fill="#3465a4"><title>Fitzgerald Dress</title></circle></a><a href="/variants/s24/r16g1r1g1r1g4k1lb1k1y1k1t6db4t6k1y1k1lb1k1g4r12g1r1k1~x4~lb3200000-t2503227/"><circle cx="150.5" cy="46.2" r="4" fill="#3465a4"><title>Macan of Lurgyvallan</title></circle></a><a href="/variants/s34/b3y1db2k3y1b4g5db8y1k2g3y1g3k2y1db22y1db4r4y1r4db4y1db22y1k2g3y1g3k2y1r14lb6w1~x2/"><circle cx="130.4" cy="15.1" r="4" fill="#3465a4"><title>Hebrides Inner</title></circle></a><a href="/variants/s22/k7r3y2r60g7r2y2r7g50w2k50r2db50r7y2r2db7r60k7y2r3k7~db1404245/"><circle cx="163.8" cy="14.0" r="4" fill="#3465a4"><title>Hay &amp; Leith #2</title></circle></a><a href="/variants/s34/g3y1db2k3y1g4dg5db8y1k2dg3y1dg3k2y1db22y1db4r4y1r4db4y1db22y1k2dg3y1dg3k2y1r14lb6w1~x2~g2408144-dg1806142/"><circle cx="131.3" cy="15.7" r="4" fill="#3465a4"><title>Hebrides Inner.. Artifact Tartan</title></circle></a><a href="/variants/s23/k14r4y4k8r70dp8r3y3r8dp64r3k63w3g64r8y3r3g8r70k8y4r4k14/"><circle cx="138.2" cy="15.7" r="4" fill="#3465a4"><title>Leith (Hay)</title></circle></a><a href="/variants/s23/k3r1y1k2r16dp2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/"><circle cx="104.7" cy="42.6" r="4" fill="#3465a4"><title>Hay, or Leith</title></circle></a><a href="/variants/s24/r16g1r1g1r1g4k1w1k1y1k1lb6db4lb6k1y1k1w1k1g4r12g1r1k1~x2/"><circle cx="137.9" cy="41.4" r="4" fill="#3465a4"><title>Macan of Lurgyvallan Portrait Tartan</title></circle></a><a href="/variants/s11/db20y1dy1db3k1o2k1r10k1o2r4~x2~o2500000/"><circle cx="170.9" cy="56.4" r="4" fill="#3465a4"><title>Blais Family Tartan</title></circle></a><a href="/variants/s25/w2k1ri3lb3ri3r3ri12r3ri3db3ri6db19ly3dg19ri3db3ri3r3ri12r3ri3lb3ri3k1w2~x2~ri2108029-r1807016/"><circle cx="121.3" cy="46.8" r="4" fill="#3465a4"><title>Fitzgerald Dress (Name)</title></circle></a><circle cx="142.1" cy="14.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

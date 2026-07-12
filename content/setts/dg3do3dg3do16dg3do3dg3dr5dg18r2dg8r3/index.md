@@ -1,6 +1,11 @@
 ---
 title: "Dublin, County"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Dublin, County"
+  url: "/tartans/d/du/dublin-county/"
 ---
 This is the **Dublin, County** sett — one scale-free proportion (`dg3do3dg3do16dg3do3dg3dr5dg18r2dg8r3`), colour order pattern
 [GBGBGBGBGRGR](/stripes/gbgbgbgbgrgr/). It is recorded as a single **variant**, below.

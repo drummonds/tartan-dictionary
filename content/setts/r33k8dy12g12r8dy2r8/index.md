@@ -1,6 +1,11 @@
 ---
 title: "Tipperary, County"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Tipperary, County"
+  url: "/tartans/t/ti/tipperary-county/"
 ---
 This is the **Tipperary, County** sett — one scale-free proportion (`r33k8dy12g12r8dy2r8`), colour order pattern
 [RGRGGKR](/stripes/rgrggkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r52db16k16g22r16y3r16/"><circle cx="271.5" cy="156.6" r="4" fill="#3465a4"><title>Sturrock</title></circle></a><a href="/variants/s6/r52k32g22r16y3r16/"><circle cx="281.3" cy="173.7" r="4" fill="#3465a4"><title>Sturrock</title></circle></a><a href="/variants/s7/r33k8do12g12r8do2r8~x2/"><circle cx="300.3" cy="165.6" r="4" fill="#3465a4"><title>Tipperary</title></circle></a><a href="/variants/s7/r3g16r4k6r28g2lo3~x2/"><circle cx="295.7" cy="153.3" r="4" fill="#3465a4"><title>McInally (Name)</title></circle></a><a href="/variants/s6/r33k20dg12r8k2r8~x2/"><circle cx="275.2" cy="154.7" r="4" fill="#3465a4"><title>Tipperary Irish County Tartan</title></circle></a><a href="/variants/s7/r36db9k12g17r10k3r10~x2/"><circle cx="258.1" cy="178.8" r="4" fill="#3465a4"><title>MacDuff #6</title></circle></a><a href="/variants/s7/r107k9r5dp41r5g51r14/"><circle cx="325.0" cy="138.8" r="4" fill="#3465a4"><title>Buccleuch</title></circle></a><a href="/variants/s7/r36db9k12dg17r10k3r10~x2/"><circle cx="265.0" cy="179.0" r="4" fill="#3465a4"><title>MacDuff - 1819 (Clan)</title></circle></a><a href="/variants/s6/r100k15g48db5r7db16~x2/"><circle cx="305.4" cy="143.6" r="4" fill="#3465a4"><title>Plummer (Personal)</title></circle></a><a href="/variants/s6/r5w2r28k12g16r3~x2/"><circle cx="257.2" cy="169.5" r="4" fill="#3465a4"><title>Nisbet Family Tartan</title></circle></a><circle cx="299.0" cy="165.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

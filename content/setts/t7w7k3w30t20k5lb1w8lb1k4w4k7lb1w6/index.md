@@ -1,6 +1,13 @@
 ---
 title: "Skye Dress Blue, Isle of (Dance)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Skye"
+  url: "/clan/skye/"
+- name: "Skye Dress Blue, Isle of"
+  url: "/tartans/s/sk/skye-dress-blue-isle-of/"
 ---
 This is the **Skye Dress Blue, Isle of (Dance)** sett — one scale-free proportion (`t7w7k3w30t20k5lb1w8lb1k4w4k7lb1w6`), colour order pattern
 [BWKWBKWWWKWKWW](/stripes/bwkwbkwwwkwkww/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w8k1w40dp1k16db16w6db3dp3db6~x2/"><circle cx="268.8" cy="95.5" r="4" fill="#3465a4"><title>Lochnagar Dress fashion Tartan</title></circle></a><a href="/variants/s13/w8k4w2k4w24db2w1r2w1db12r12w8k2~x2/"><circle cx="241.0" cy="113.4" r="4" fill="#3465a4"><title>Spirit of South Korea</title></circle></a><a href="/variants/s9/w5db3w25k2w2k16g8k1w4/"><circle cx="248.7" cy="119.8" r="4" fill="#3465a4"><title>Unidentified (shirt fabric)</title></circle></a><a href="/variants/s10/k9w4k2w4k2w30k9w4b14lo2~x2/"><circle cx="230.0" cy="140.1" r="4" fill="#3465a4"><title>Hannay (Clan)</title></circle></a><a href="/variants/s12/lb98n12k16w5k5w5k5n28lb16k5lb16w6/"><circle cx="302.4" cy="104.1" r="4" fill="#3465a4"><title>Glen Moy Tartan</title></circle></a><a href="/variants/s16/k6g4k1w16lb1w4lb6w1lb6w4lb1w16k1g4k6y1~x2/"><circle cx="184.5" cy="109.3" r="4" fill="#3465a4"><title>Henderson Dress #1</title></circle></a><a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2~r2806019/"><circle cx="248.6" cy="97.7" r="4" fill="#3465a4"><title>Barra Fuschia</title></circle></a><a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2/"><circle cx="248.2" cy="97.2" r="4" fill="#3465a4"><title>Barra, Fuschia (Dance)</title></circle></a><a href="/variants/s10/k9w4k2w4k2w30k9w4db14y2~x2/"><circle cx="222.2" cy="135.0" r="4" fill="#3465a4"><title>Hannay Family Tartan</title></circle></a><a href="/variants/s11/w60dt24n3dt5w3dt5o16n8k3n6w4/"><circle cx="214.1" cy="97.8" r="4" fill="#3465a4"><title>Glenmore Pink</title></circle></a><circle cx="245.0" cy="102.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

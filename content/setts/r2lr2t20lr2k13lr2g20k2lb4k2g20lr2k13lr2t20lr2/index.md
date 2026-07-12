@@ -1,6 +1,15 @@
 ---
 title: "Stirling"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Stirling"
+  url: "/clan/stirling/"
+- name: "Stirling"
+  url: "/families/stirling/"
+- name: "Stirling"
+  url: "/tartans/s/st/stirling/"
 ---
 This is the **Stirling** sett — one scale-free proportion (`r2lr2t20lr2k13lr2g20k2lb4k2g20lr2k13lr2t20lr2`), colour order pattern
 [RYBYKYGKWKGYKYBY](/stripes/rybykygkwkgykyby/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/g20k2w2k2y2k2g19r5k19r5t20k2g2k2g2k2t20~x2/"><circle cx="91.2" cy="115.2" r="4" fill="#3465a4"><title>MacNicol Htg (Clan)</title></circle></a><a href="/variants/s12/g7r2g3r5g17y2k15y2t22g3w2t7~x2/"><circle cx="108.2" cy="141.3" r="4" fill="#3465a4"><title>Paisley</title></circle></a><a href="/variants/s11/lb6g13k12t3k3ly3t30k3n11ly3n5~x2/"><circle cx="98.2" cy="145.9" r="4" fill="#3465a4"><title>State Seal of Kentucky (Fashion)</title></circle></a><a href="/variants/s17/k2g2lo1g2o1g2o1g10db3k2db2k2db2k2db3lr9o2~x2/"><circle cx="61.8" cy="122.8" r="4" fill="#3465a4"><title>Kennedy Dress, (Pendleton)</title></circle></a><a href="/variants/s12/db7w2g3db18y2k15y2g17r5g3r2g7~x2/"><circle cx="95.1" cy="146.7" r="4" fill="#3465a4"><title>Paisley District Tartan</title></circle></a><a href="/variants/s12/g30w3g4y5g4w3g6k14lb3k14db18w4~x2/"><circle cx="102.2" cy="136.9" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><a href="/variants/s14/lb8k1lb1k1lb1k5g6k1g6k6db3w1r1w1~x4/"><circle cx="53.7" cy="140.1" r="4" fill="#3465a4"><title>Gemmell</title></circle></a><a href="/variants/s12/g30w3g4ly5g4w3g6k14lb3k14db18w4~x2/"><circle cx="99.9" cy="136.4" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><a href="/variants/s17/db10k1g1k1g1k1db10r3k10r3g10k1y1k1w1k1g10/"><circle cx="89.5" cy="112.7" r="4" fill="#3465a4"><title>MacNicol Hunting</title></circle></a><a href="/variants/s17/db10k1g1k1g1k1db10r3k10r3g10k1y1k1w1k1g10~x2/"><circle cx="89.5" cy="112.7" r="4" fill="#3465a4"><title>Cunningham, hunting</title></circle></a><circle cx="82.0" cy="128.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

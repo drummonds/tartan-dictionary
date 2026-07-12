@@ -1,6 +1,13 @@
 ---
 title: "Commonwealth Games"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Commonwealth"
+  url: "/clan/commonwealth/"
+- name: "Commonwealth Games"
+  url: "/tartans/c/co/commonwealth-games/"
 ---
 This is the **Commonwealth Games** sett — one scale-free proportion (`dp3db17n13dp2k20w2`), colour order pattern
 [BBBBKW](/stripes/bbbbkw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/w3k25n9db17ly3~x2/"><circle cx="160.4" cy="200.8" r="4" fill="#3465a4"><title>Teylu Coleman (Name)</title></circle></a><a href="/variants/s7/r5dg19w3k19db19k3db2~x2/"><circle cx="126.6" cy="188.7" r="4" fill="#3465a4"><title>Fruin Colquhoun (Commemorative?)</title></circle></a><a href="/variants/s6/ly5db24k8dbi18ly6dy3~ly3307090-db1204274-dbi1406275-dy1603076/"><circle cx="138.1" cy="206.6" r="4" fill="#3465a4"><title>Cala Homes (Corporate)</title></circle></a><a href="/variants/s6/y5db24k8dbi18y6o3~db0805267-dbi1604274/"><circle cx="166.5" cy="216.0" r="4" fill="#3465a4"><title>CALA Homes</title></circle></a><a href="/variants/s7/r1n5k5db1k1db6y1~x8/"><circle cx="134.0" cy="208.6" r="4" fill="#3465a4"><title>Lopez-Gasparotto</title></circle></a><a href="/variants/s7/y8k4n39k37db36k6db7/"><circle cx="171.0" cy="201.4" r="4" fill="#3465a4"><title>Oceanic (Corporate?)</title></circle></a><a href="/variants/s6/db6g27db3k19dp27w3~x2/"><circle cx="114.3" cy="198.3" r="4" fill="#3465a4"><title>Gold Brothers</title></circle></a><a href="/variants/s9/n12k2n2k2n2k12db12b3w1~x2~db1308266-b2009265/"><circle cx="142.2" cy="159.0" r="4" fill="#3465a4"><title>de Franck, Matt (Personal)</title></circle></a><a href="/variants/s8/r3dg2r6dg20k15dg3db18w2~x2/"><circle cx="144.8" cy="175.5" r="4" fill="#3465a4"><title>Curry (Personal)</title></circle></a><a href="/variants/s7/k1dg8w1k8w1db8r1~x4/"><circle cx="116.3" cy="182.4" r="4" fill="#3465a4"><title>Caie (2013)</title></circle></a><circle cx="146.5" cy="191.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

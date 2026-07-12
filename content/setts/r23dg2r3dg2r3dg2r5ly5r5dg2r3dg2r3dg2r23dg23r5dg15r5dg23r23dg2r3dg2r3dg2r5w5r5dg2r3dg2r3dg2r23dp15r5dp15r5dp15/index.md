@@ -1,6 +1,15 @@
 ---
 title: "MacRae of Inverinate"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacRae"
+  url: "/clan/macrae/"
+- name: "MacRae of Inverinate"
+  url: "/families/macrae-of-inverinate/"
+- name: "MacRae of Inverinate"
+  url: "/tartans/m/ma/macrae-of-inverinate/"
 ---
 This is the **MacRae of Inverinate** sett — one scale-free proportion (`r23dg2r3dg2r3dg2r5ly5r5dg2r3dg2r3dg2r23dg23r5dg15r5dg23r23dg2r3dg2r3dg2r5w5r5dg2r3dg2r3dg2r23dp15r5dp15r5dp15`), colour order pattern
 [BRBRBRGRGRGRWRGRGRGRGRGRGRGRGRGRYRGRGRGR](/stripes/brbrbrgrgrgrwrgrgrgrgrgrgrgrgrgryrgrgrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s33/dg32r7dg32r33dg4r12dg4r33w3r12dy3dp33r7dp33dy3r12w3r33dp2r2dp5r2dp2r33dp2r2dp5r2dp2r33dg32r6dg23/"><circle cx="268.9" cy="101.6" r="4" fill="#3465a4"><title>Huntly (District)</title></circle></a><a href="/variants/s33/g8r2g8r12g2r3g2r12w1r3y1db12r3db12y1r3w1r12db1r1db2r1db1r12db1r1db2r1db1r12g8r2g8~x2/"><circle cx="245.9" cy="111.1" r="4" fill="#3465a4"><title>Huntly District Tartan</title></circle></a><a href="/variants/s33/g32r7g32r33g4r12g4r33lb3r12ly3dp33r7dp33ly3r12lb3r33dp2r2dp5r2dp2r33dp2r2dp5r2dp2r33g32r7g32~x2/"><circle cx="257.9" cy="103.1" r="4" fill="#3465a4"><title>Marchioness of Huntly's</title></circle></a><a href="/variants/s33/dg8r2dg8r12dg2r3dg2r12w1r3ly1dp12r3dp12ly1r3w1r12dp1r1dp2r1dp1r12dp1r1dp2r1dp1r12dg8r2dg8~x2/"><circle cx="269.1" cy="83.2" r="4" fill="#3465a4"><title>Huntly</title></circle></a><a href="/variants/s40/r23g2r3g2r3g2r5y5r5g2r3g2r3g2r23g23r5g15r5g23r23g2r3g2r3g2r5w5r5g2r3g2r3g2r23db15r5db15r5db15~x2/"><circle cx="248.8" cy="102.5" r="4" fill="#3465a4"><title>MacRae of Inverinate Clan Tartan</title></circle></a><a href="/variants/s31/g23r6g23r26g4r9g4r26w3r8dp31r6dp31r8w3r26dp2r2dp4r2dp2r26dp2r2dp4r2dp2r26g23r6g23~x2/"><circle cx="266.5" cy="123.6" r="4" fill="#3465a4"><title>Ross #3</title></circle></a><a href="/variants/s44/r8g1dg2r2lb1r1w1r1lb1r2dg3r1w1r6lb1r1dg12r1lb1r16lb1r1dg12r1lb1r6w1r1db4r1w1r2dg3g1r2g1dg3r3w1r1db2r1w1r8~x2/"><circle cx="242.2" cy="51.2" r="4" fill="#3465a4"><title>MacAlister Clan Tartan</title></circle></a><a href="/variants/s30/r12g3y1r2y1g3r3db3r6lb1r1g8r1lb1r12lb1r1g8r1lb1r6g2r1lb1r2lb1r1g3y1r4~x4/"><circle cx="304.4" cy="114.6" r="4" fill="#3465a4"><title>MacAlister (Gourlay Steele Collection)</title></circle></a><a href="/variants/s30/r9db1r1db2r1db1r9w1r4db11r2db11r4w1r9g2r4g2r9g5r3g4r3g3y1g3r3g6w1g6~x2/"><circle cx="215.4" cy="132.8" r="4" fill="#3465a4"><title>Lumsden (Short)</title></circle></a><a href="/variants/s44/r8g1dg2r2lb1r1w1r1lb1r2dg3r1w1r6lb1r1dg12r1lb1r16lb1r1dg12r1lb1r6w1r1db4r1w1r2dg3g1r2g1dg3r3w1r1db2r1w1r8~x2~g2408144-dg1806142/"><circle cx="252.1" cy="56.6" r="4" fill="#3465a4"><title>MacAlister (Clan)</title></circle></a><circle cx="259.7" cy="100.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

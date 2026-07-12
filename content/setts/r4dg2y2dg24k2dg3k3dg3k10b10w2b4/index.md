@@ -1,6 +1,11 @@
 ---
 title: "Kerby, from the Tennessee Cumberland Basin"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Kerby, from the Tennessee Cumberland Basin"
+  url: "/tartans/k/ke/kerby-from-the-tennessee-cumberland-basin/"
 ---
 This is the **Kerby, from the Tennessee Cumberland Basin** sett — one scale-free proportion (`r4dg2y2dg24k2dg3k3dg3k10b10w2b4`), colour order pattern
 [BWBKGKGKGGGR](/stripes/bwbkgkgkgggr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dg28lb2dg3lo4dg3lb2dg3k14lg2db28lb3~x2/"><circle cx="167.4" cy="115.7" r="4" fill="#3465a4"><title>Wcwm 1290</title></circle></a><a href="/variants/s12/db37r3k17r3g22k4g22r3k17r3db37w3~x2/"><circle cx="140.6" cy="128.4" r="4" fill="#3465a4"><title>Souza Nery (Personal)</title></circle></a><a href="/variants/s12/dt10r3dt32y12k5y2k4y2k17o4k2lb2~x2~dt1600000-y2200000/"><circle cx="186.2" cy="104.9" r="4" fill="#3465a4"><title>Scottish Spirit Fashion Tartan</title></circle></a><a href="/variants/s11/k3gi2k12db4g19dr3g19db4k12gi2dy3~x2~gi2504202-g2203152/"><circle cx="152.5" cy="146.6" r="4" fill="#3465a4"><title>Loch Lomond Millenium Comemmorative Tartan</title></circle></a><a href="/variants/s11/db4y2db24k2db5r3k14g14w3r3db3~x2/"><circle cx="157.6" cy="123.1" r="4" fill="#3465a4"><title>Czech National (District)</title></circle></a><a href="/variants/s12/r8g2k2ly2k2y2k2g18db2g2db29k3~x2/"><circle cx="167.4" cy="94.9" r="4" fill="#3465a4"><title>Cats Winter (Fashion)</title></circle></a><a href="/variants/s12/ni9r3ni32n12k5n2k4n2k17dp4k2lb2~x2~ni1700000/"><circle cx="197.2" cy="111.1" r="4" fill="#3465a4"><title>Scottish Spirit</title></circle></a><a href="/variants/s14/n31k4n4k4n4k4n6w5k4o3db19k3n4r3~x2/"><circle cx="183.4" cy="111.0" r="4" fill="#3465a4"><title>Sydney Academy</title></circle></a><a href="/variants/s11/db50k10db6k10db6g5lp5g5o8g23w5~x2/"><circle cx="163.4" cy="128.8" r="4" fill="#3465a4"><title>Scottish Hockey Union (Sports)</title></circle></a><a href="/variants/s13/y2db2w1db15k5g11k1r3k1g11k5db17w1~x2/"><circle cx="166.2" cy="108.9" r="4" fill="#3465a4"><title>Sacramento City Fire Department (P&amp;D</title></circle></a><circle cx="172.7" cy="117.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

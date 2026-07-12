@@ -1,6 +1,15 @@
 ---
 title: "Leinster Irish District Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Leinster"
+  url: "/clan/leinster/"
+- name: "Leinster"
+  url: "/families/leinster/"
+- name: "Leinster"
+  url: "/tartans/l/le/leinster-2/"
 ---
 This is the **Leinster Irish District Tartan** sett — one scale-free proportion (`dg18k10db12k1g2k1db12dy2k10g2dg2g15dg3g15dg2g2k10dy2db12k1g2k1db12k10dg18r3`), colour order pattern
 [GKBKGKBGKGGGGGGGKGBKGKBKGR](/stripes/gkbkgkbgkgggggggkgbkgkbkgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s24/g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2dbi18dg1dbi2k6g2dg12g2k6dbi2dg1g17db4~x2~dbi1406275-db1204274/"><circle cx="107.0" cy="93.6" r="4" fill="#3465a4"><title>Clack Personal Tartan</title></circle></a><a href="/variants/s14/dg3g15dg2g2k10dy2db12k1g2k1db12k10dg18r3~x2~dg1806142-g2203152/"><circle cx="89.9" cy="124.2" r="4" fill="#3465a4"><title>Leinster</title></circle></a><a href="/variants/s24/r12db6k8g6r1g6r2g3k1y2k1g1r1g2r1g7k9db11k1w2k1db11k9db8~x2/"><circle cx="65.3" cy="108.7" r="4" fill="#3465a4"><title>MacDonald of Pr Edward Island Tartan</title></circle></a><a href="/variants/s28/db14k12db3dg26k6ly2k2db2k2dg8r4k2r4lb2r4k2r4dg8k2db2k2ly2k6dg26db3k12db14k4~x2~dg1405139/"><circle cx="120.0" cy="86.9" r="4" fill="#3465a4"><title>Stewart</title></circle></a><a href="/variants/s31/y4k3w2k2dg12b2dg12b2dg12k2w2k3y2k3b4k3y2k3w2k2g12b2g12b26k2w2k3y2k3b4k3~x2/"><circle cx="46.8" cy="81.5" r="4" fill="#3465a4"><title>Hawick</title></circle></a><a href="/variants/s21/db18k2db4k20g10dr2g10k1lb3k1g10dr2g10k20dr1db14dr3db2dr2db4lb1~x2/"><circle cx="123.6" cy="102.6" r="4" fill="#3465a4"><title>Rankin (Dalgleish)</title></circle></a><a href="/variants/s11/db50k10db6k10db6dg5lp5dg5o8dg23w5~x2~db1204274-dg1405139/"><circle cx="113.7" cy="117.9" r="4" fill="#3465a4"><title>Scottish Hockey Union</title></circle></a><a href="/variants/s17/dy16k4dy8g2dg19w2g22db15k4w3dg3y4g30db25w5dg40db16~x2/"><circle cx="93.8" cy="106.8" r="4" fill="#3465a4"><title>Les Cercles de Fermieres du Quebec</title></circle></a><a href="/variants/s17/db16dg40w5db25g30y4dg3w3k4db15g22w2dg19g2o8k4o16~x2/"><circle cx="82.6" cy="101.0" r="4" fill="#3465a4"><title>Les Cercles de Fermieres du Quebec</title></circle></a><a href="/variants/s15/dg15db3dg3db3dg3db16o16k5lo2k5o16db16dg15r1k4~x2/"><circle cx="121.2" cy="134.5" r="4" fill="#3465a4"><title>Loseby, Luke (Personal)</title></circle></a><circle cx="83.1" cy="102.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

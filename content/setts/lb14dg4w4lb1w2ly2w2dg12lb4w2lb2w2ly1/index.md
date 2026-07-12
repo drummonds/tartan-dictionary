@@ -1,6 +1,11 @@
 ---
 title: "Entrelacs"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Entrelacs"
+  url: "/tartans/e/en/entrelacs/"
 ---
 This is the **Entrelacs** sett — one scale-free proportion (`lb14dg4w4lb1w2ly2w2dg12lb4w2lb2w2ly1`), colour order pattern
 [WGWWWYWGWWWWY](/stripes/wgwwwywgwwwwy/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y6w1y5w12y1db1lb1db1lb4~x4/"><circle cx="253.5" cy="198.1" r="4" fill="#3465a4"><title>MacGrath (Personal)</title></circle></a><a href="/variants/s10/db2w18lb2w2db3t3db3lb6g24w2~x2~t2105244/"><circle cx="203.2" cy="175.2" r="4" fill="#3465a4"><title>Blue Spruce, The</title></circle></a><a href="/variants/s10/db2w18lb2w2db3t3db3lb6g24w2~x2/"><circle cx="204.0" cy="175.7" r="4" fill="#3465a4"><title>Blue Spruce, The (Fashion)</title></circle></a><a href="/variants/s10/db14w2db3w2g10w32g10db10w2db3~x2/"><circle cx="257.1" cy="188.1" r="4" fill="#3465a4"><title>Fraser, Arisaid</title></circle></a><a href="/variants/s8/db4dy3db21dy2w14ly22dy3ly4~x2/"><circle cx="186.0" cy="205.1" r="4" fill="#3465a4"><title>Bannock Bane M.407</title></circle></a><a href="/variants/s12/db3dy14g2dy2g2dy3g6w18db3dy2db2dy2~x2/"><circle cx="186.0" cy="181.4" r="4" fill="#3465a4"><title>Raibert Check</title></circle></a><a href="/variants/s12/dr3t16db2t2db2t3db6ly20w3ly2w2ly3~x2~t1903246-db0906265/"><circle cx="212.8" cy="180.6" r="4" fill="#3465a4"><title>Callum</title></circle></a><a href="/variants/s8/do4y2do13y1w8lb13y2lb4~x2/"><circle cx="203.9" cy="209.8" r="4" fill="#3465a4"><title>Bannockbane, Dark Tan</title></circle></a><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2~db1004274/"><circle cx="248.5" cy="190.7" r="4" fill="#3465a4"><title>Norwich No.052</title></circle></a><a href="/variants/s16/w11n4w4db2w4n4w11dr26n4w3n4w2db14dg10w16dg6~x2/"><circle cx="158.2" cy="161.5" r="4" fill="#3465a4"><title>Stuart-Houghton Dress (Personal)</title></circle></a><circle cx="229.9" cy="177.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

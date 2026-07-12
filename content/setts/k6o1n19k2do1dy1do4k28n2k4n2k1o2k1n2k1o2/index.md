@@ -1,6 +1,13 @@
 ---
 title: "North Sea Oil (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan North"
+  url: "/clan/north/"
+- name: "North Sea Oil"
+  url: "/tartans/n/no/north-sea-oil/"
 ---
 This is the **North Sea Oil (Fashion)** sett — one scale-free proportion (`k6o1n19k2do1dy1do4k28n2k4n2k1o2k1n2k1o2`), colour order pattern
 [KRBKBGBKBKBKRKBKR](/stripes/krbkbgbkbkbkrkbkr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/k8dr3k1w2n1y1k25n2y2k3dr5k1w3y7k1n1~x2/"><circle cx="269.2" cy="60.0" r="4" fill="#3465a4"><title>Northern Guard Supporters</title></circle></a><a href="/variants/s12/k86n6k4lb3k3dr3k3n22o14k3o6lb4/"><circle cx="327.4" cy="50.9" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/variants/s14/dg42k2dg12w2r3k2r3w2k2dp12k4r3w4k3~x2/"><circle cx="267.9" cy="75.2" r="4" fill="#3465a4"><title>MacFarlane Hunting (MacGregor Hastie)</title></circle></a><a href="/variants/s21/dp3ly1k4dp1k4dp1k41dp1k4dp1k4dr15ly1dr3ly2dr3ly3dr1ly6k1w2~x2/"><circle cx="289.5" cy="16.7" r="4" fill="#3465a4"><title>New Star (Fashion)</title></circle></a><a href="/variants/s12/k96db8k12dp3k3dp3k3g20r8k3r4w4~db1406275-dp1607327/"><circle cx="266.1" cy="14.0" r="4" fill="#3465a4"><title>Watt</title></circle></a><a href="/variants/s12/k86n6k4w3k3r3k3n22o14k3o6w4/"><circle cx="319.4" cy="47.9" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/variants/s15/k23db1g1r3db2r1db12y1k1w1k6db4g2k2g3~x2/"><circle cx="228.0" cy="61.4" r="4" fill="#3465a4"><title>Astrobiology</title></circle></a><a href="/variants/s18/db8k50y2k2dy2k24db8k2y2n1y2n8y2n8y2n1y2k2~x2~y2400000-n1700000/"><circle cx="350.0" cy="28.0" r="4" fill="#3465a4"><title>Quraysh</title></circle></a><a href="/variants/s12/k4n6k4o4n29o6k64db10k4db6lb4w2~n1900000-o2500000/"><circle cx="246.2" cy="51.2" r="4" fill="#3465a4"><title>Earthrise</title></circle></a><a href="/variants/s13/r21k3y1k5db1k3db8k29y4k2y1k7y3~x2/"><circle cx="241.0" cy="62.5" r="4" fill="#3465a4"><title>(5) Ruxton</title></circle></a><circle cx="283.5" cy="52.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

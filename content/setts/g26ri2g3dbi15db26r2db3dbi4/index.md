@@ -1,6 +1,15 @@
 ---
 title: "Grampian"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Grampian"
+  url: "/clan/grampian/"
+- name: "Grampian"
+  url: "/families/grampian/"
+- name: "Grampian"
+  url: "/tartans/g/gr/grampian/"
 ---
 This is the **Grampian** sett — one scale-free proportion (`g26ri2g3dbi15db26r2db3dbi4`), colour order pattern
 [BBRBBGRG](/stripes/bbrbbgrg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dbi4db3dr2db26k3dbi3g3dbi3g17ly3~x2~dbi1406275-db1204274/"><circle cx="203.0" cy="132.0" r="4" fill="#3465a4"><title>Boyle (Personal)</title></circle></a><a href="/variants/s7/g2db14lg6n1g1n6r1~x4~db0906265-lg2704216/"><circle cx="239.9" cy="175.4" r="4" fill="#3465a4"><title>Loch Ness in Scotland</title></circle></a><a href="/variants/s10/g11r4g4r7g41dy11lb4db41r4db8/"><circle cx="217.2" cy="171.2" r="4" fill="#3465a4"><title>Stewart of Appin Hunting Clan Tartan</title></circle></a><a href="/variants/s10/g11r4g4r7g41o11lb4db41r4db8/"><circle cx="217.6" cy="171.0" r="4" fill="#3465a4"><title>Stewart of Appin, Ancient hunting</title></circle></a><a href="/variants/s6/db30y3dy11y3g33r6~x2/"><circle cx="216.9" cy="207.6" r="4" fill="#3465a4"><title>Balfour Hunting</title></circle></a><a href="/variants/s6/y15db8r25db72dg98w15/"><circle cx="227.6" cy="196.2" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/variants/s7/dr4dg27o2db25ly5dg3o3~x2/"><circle cx="278.4" cy="184.2" r="4" fill="#3465a4"><title>Kilkenny, County (District)</title></circle></a><a href="/variants/s7/dg6r2db1r3db16g20w2~x2/"><circle cx="225.7" cy="163.9" r="4" fill="#3465a4"><title>MacCord / McCord (Personal)</title></circle></a><a href="/variants/s8/db60lb5w4o12g42dp12lb5dp12/"><circle cx="188.3" cy="152.1" r="4" fill="#3465a4"><title>St Columba</title></circle></a><a href="/variants/s9/db10y3db30y5k8g16b4g16b2~x2/"><circle cx="192.9" cy="165.7" r="4" fill="#3465a4"><title>MacMillan, hunting</title></circle></a><circle cx="213.5" cy="179.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

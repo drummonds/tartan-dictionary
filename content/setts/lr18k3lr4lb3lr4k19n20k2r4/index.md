@@ -1,6 +1,11 @@
 ---
 title: "Heart of the Highlands"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Heart of the Highlands"
+  url: "/tartans/h/he/heart-of-the-highlands/"
 ---
 This is the **Heart of the Highlands** sett — one scale-free proportion (`lr18k3lr4lb3lr4k19n20k2r4`), colour order pattern
 [RKBKYWYKY](/stripes/rkbkywyky/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/o18k3o4lb3o4k18n20k2r4~x2~o2500000-n1900000/"><circle cx="120.7" cy="160.1" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/variants/s9/n12k2n2k2n2k12lp12lb3w1~x2/"><circle cx="119.1" cy="149.8" r="4" fill="#3465a4"><title>de Franck, Matt (Personal)</title></circle></a><a href="/variants/s10/o4k16lb5n8lb2dp2lb2dp2n8k3~x2/"><circle cx="102.3" cy="163.8" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior High School</title></circle></a><a href="/variants/s10/o5k15lb5n9lb2dp2lb2dp2n9k3~x2/"><circle cx="87.4" cy="172.4" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior Corporate Tartan</title></circle></a><a href="/variants/s10/k1g8k4r1db8r1db1r8g1w1~x4/"><circle cx="90.4" cy="159.9" r="4" fill="#3465a4"><title>Rattray of Lude</title></circle></a><a href="/variants/s10/r3g18r4db3r4k13r3db18g2y3~x2/"><circle cx="92.2" cy="163.0" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn (District)</title></circle></a><a href="/variants/s9/db20b3db4r3db3k10g21k4r20~x2/"><circle cx="88.6" cy="181.9" r="4" fill="#3465a4"><title>Holland &amp; Sherry (Corporate)</title></circle></a><a href="/variants/s10/dr4k1dr4g8k6lb3db2lb11db1dr2~x4/"><circle cx="87.4" cy="165.8" r="4" fill="#3465a4"><title>MacDuff Dress #2</title></circle></a><a href="/variants/s7/db4n19lr2k19n2lr25lb2~x2~lr2800000-lb3300000/"><circle cx="150.9" cy="164.1" r="4" fill="#3465a4"><title>Ritchie, Stephen James (Personal)</title></circle></a><a href="/variants/s13/dg8r1dg2r2dg12w1k12r1lb12r2lb2r1lb8~x4/"><circle cx="110.7" cy="133.2" r="4" fill="#3465a4"><title>Boston Pipe Band, Greater</title></circle></a><circle cx="113.3" cy="158.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

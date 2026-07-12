@@ -1,6 +1,15 @@
 ---
 title: "Carnegie Dress Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Carnegie"
+  url: "/clan/carnegie/"
+- name: "Carnegie"
+  url: "/families/carnegie/"
+- name: "Carnegie Dress"
+  url: "/tartans/c/ca/carnegie-dress/"
 ---
 This is the **Carnegie Dress Family Tartan** sett — one scale-free proportion (`w8r2w2r6w13r2k13g13r6g2r2g4y3`), colour order pattern
 [GGRGRGKRWRWRW](/stripes/ggrgrgkrwrwrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w9r2w2r6w14r2k14g14r6g2r2g8y3~x2/"><circle cx="48.8" cy="169.5" r="4" fill="#3465a4"><title>Valley of the Green #2</title></circle></a><a href="/variants/s13/w18dr3w3dr10w26dr3k26g28dr10g3dr3g8lo6/"><circle cx="68.4" cy="151.5" r="4" fill="#3465a4"><title>Carnegie Dress #2 (Fashion)</title></circle></a><a href="/variants/s10/y5g2r2g12k9lb12r2lb2r2lb2~x2/"><circle cx="72.0" cy="182.3" r="4" fill="#3465a4"><title>Lobban (Personal)</title></circle></a><a href="/variants/s12/k4g4k2g12k6w3k6n2w4n2w15r3~x2/"><circle cx="71.1" cy="167.1" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/variants/s18/r2lb2r2lb12k9g12r2g2y5g2r2g12k9lb12r2lb2r2lb2~x2/"><circle cx="61.4" cy="158.2" r="4" fill="#3465a4"><title>Lobban (Personal)</title></circle></a><a href="/variants/s12/k4g4k2g14k6w3k6n2w4n2w15r3~x2/"><circle cx="70.5" cy="164.7" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/variants/s11/r16k6r14g22k16db16w10r6w45k4r4/"><circle cx="79.4" cy="148.3" r="4" fill="#3465a4"><title>MacDuff Dress #4</title></circle></a><a href="/variants/s13/g18r18k3r3db3r3db4r3k9r4g18w6k3~x2/"><circle cx="100.5" cy="164.7" r="4" fill="#3465a4"><title>Maguire</title></circle></a><a href="/variants/s16/r2k2r5lb5k1lb1k1lb5g6y1g6r6w1r1k1r1~x2/"><circle cx="57.7" cy="152.2" r="4" fill="#3465a4"><title>Unidentified No 3</title></circle></a><a href="/variants/s9/r4w1r4g10y1k10w4k2w4/"><circle cx="65.5" cy="170.3" r="4" fill="#3465a4"><title>Cumming LO</title></circle></a><circle cx="47.5" cy="170.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Hyndman Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hyndman"
+  url: "/clan/hyndman/"
+- name: "Hyndman"
+  url: "/families/hyndman/"
+- name: "Hyndman"
+  url: "/tartans/h/hy/hyndman/"
 ---
 This is the **Hyndman Family Tartan** sett — one scale-free proportion (`dbi8dr4dbi6dr10dbi24dg12ly4dg4k4db18r10db4r6lr3`), colour order pattern
 [BBBBBGYGKBRBRY](/stripes/bbbbbgygkbrbry/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dbi8r4dbi6r10dbi24dg12o4dg4k4db18ri10db4ri6b3~dbi1604274-r1506028-db0805267-ri2008029/"><circle cx="85.3" cy="150.0" r="4" fill="#3465a4"><title>Hyndman (Omagh)</title></circle></a><a href="/variants/s12/y4dg19db4dg4db4dg6db12dbi12r15k4r4w4~db1204274-dbi1406275/"><circle cx="45.5" cy="178.1" r="4" fill="#3465a4"><title>Chattahoochee Commemorative Tartan</title></circle></a><a href="/variants/s12/db16dp2db2dp2db2dp8dg8dy8r8k1w1r2~x2~db1406275-k0700000/"><circle cx="158.4" cy="129.0" r="4" fill="#3465a4"><title>Salt Lake City Arts Council (Corp)</title></circle></a><circle cx="73.5" cy="146.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

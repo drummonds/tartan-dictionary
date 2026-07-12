@@ -1,6 +1,13 @@
 ---
 title: "Victoria Highland Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Victoria"
+  url: "/clan/victoria/"
+- name: "Victoria Highland Dress"
+  url: "/tartans/v/vi/victoria-highland-dress/"
 ---
 This is the **Victoria Highland Dress** sett — one scale-free proportion (`r5w23db5w5k7y3k3w2k3g16r8g3r6w3`), colour order pattern
 [RWBWKGKWKGRGRW](/stripes/rwbwkgkwkgrgrw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dy2w2k2w12dy1w1dy1w1ly4do5ly2do9dy3r2~x2/"><circle cx="90.4" cy="121.5" r="4" fill="#3465a4"><title>Harrods (Corporate)</title></circle></a><a href="/variants/s14/lo35dr3k21dr3g21lo6w3k3w3lo6lb15w3k6w6~x2/"><circle cx="76.7" cy="114.0" r="4" fill="#3465a4"><title>Dundee (2003)</title></circle></a><a href="/variants/s14/r2o3do9oi2do5oi4w1o1w1o1w12k2w2o2~x2~o2102055-oi2104058/"><circle cx="97.4" cy="122.3" r="4" fill="#3465a4"><title>Harrods</title></circle></a><a href="/variants/s14/w8db3w10ly8y2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="46.2" cy="138.3" r="4" fill="#3465a4"><title>MacInnes Ancient Htg (Clan?)</title></circle></a><a href="/variants/s15/k6g10w10k2w23db10w2k6y2k8g10r12g4r8w4/"><circle cx="39.6" cy="137.0" r="4" fill="#3465a4"><title>Stuart/Stewart variant</title></circle></a><a href="/variants/s13/lb2w1lb12dt6k3w1g1w1g4w2k1w1r1~x4~lb3402028-r2109032/"><circle cx="106.6" cy="111.6" r="4" fill="#3465a4"><title>Diana Pink (Commemorative)</title></circle></a><a href="/variants/s13/w3k2t4w4t3w11k2g3y3k3t12r19k2~x2/"><circle cx="47.0" cy="128.7" r="4" fill="#3465a4"><title>Badminton Cup</title></circle></a><a href="/variants/s15/w6g6w6g12lb8g14ly24k4lb4k4dp44w12g20k4lb5/"><circle cx="55.0" cy="125.3" r="4" fill="#3465a4"><title>Wexford County Crest (Fashion)</title></circle></a><a href="/variants/s14/w8db3w10o8y2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="48.7" cy="137.2" r="4" fill="#3465a4"><title>MacInnes, Ancient hunting</title></circle></a><a href="/variants/s10/y6k2g15r6g8k12w25lb2w3lb2~x2/"><circle cx="77.3" cy="134.8" r="4" fill="#3465a4"><title>Gillies, dress Green</title></circle></a><circle cx="71.4" cy="121.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

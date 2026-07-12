@@ -1,6 +1,13 @@
 ---
 title: "Glasgow Celtic Society Corporate Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Glasgow"
+  url: "/clan/glasgow/"
+- name: "Glasgow Celtic Society"
+  url: "/tartans/g/gl/glasgow-celtic-society/"
 ---
 This is the **Glasgow Celtic Society Corporate Tartan** sett — one scale-free proportion (`db8dy3db3dy3db3dy3db4g4k3g3k3g3k3g13r8g4db3k6`), colour order pattern
 [BGBGBGBGKGKGKGRGBK](/stripes/bgbgbgbgkgkgkgrgbk/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/db8o3db3o3db3o3db4g4k3g3k3g3k3g13r8g4db3k6~x2/"><circle cx="48.4" cy="197.3" r="4" fill="#3465a4"><title>Glasgow, Celtic Society</title></circle></a><a href="/variants/s14/db4y14k14g4db16g4y8g4db16g4k14y14db4t3~x2/"><circle cx="71.4" cy="202.0" r="4" fill="#3465a4"><title>Hinnigan (Personal)</title></circle></a><a href="/variants/s15/g6k3g7r3g6k13db13k3db13k13g3w3g6k3r4~x2/"><circle cx="58.1" cy="195.1" r="4" fill="#3465a4"><title>MacRae #2</title></circle></a><a href="/variants/s14/w3dgi7k3dgi3k3dgi3k13dg16ly3dg16k13dgi16k3w3~x2~dgi1802166/"><circle cx="85.0" cy="182.9" r="4" fill="#3465a4"><title>Terre D'Ecosse</title></circle></a><a href="/variants/s15/db8k4y3k4db14k4dg4g6dg3g10k10g9k3r3k4~x2/"><circle cx="32.8" cy="191.1" r="4" fill="#3465a4"><title>Wells, Edward G. (Personal)</title></circle></a><a href="/variants/s14/w3dgi7k3dgi3k3dgi3k13dg16ly4dg16k13dgi16k3w3~x2~dgi1804158/"><circle cx="79.2" cy="185.3" r="4" fill="#3465a4"><title>Terre De'Ecosse</title></circle></a><a href="/variants/s13/t18r5t3r5t3k20g18dy4g18k20t20k6t6/"><circle cx="63.3" cy="161.8" r="4" fill="#3465a4"><title>Keith</title></circle></a><a href="/variants/s15/g4k1g1k1g1k5db5r2db2r2db5g5k1g1k1~x6/"><circle cx="88.8" cy="201.0" r="4" fill="#3465a4"><title>MacLachlan Hunting</title></circle></a><a href="/variants/s16/k2g4k1g1k2db3k1w1k1db3k2g1k1g4k2r1~x6/"><circle cx="70.0" cy="200.7" r="4" fill="#3465a4"><title>MacKean dress Family/Clan Tartan</title></circle></a><a href="/variants/s14/g4k1g1k1g1k5db5r2db2r2db5g5k1g1~x2/"><circle cx="93.0" cy="206.3" r="4" fill="#3465a4"><title>MacLachlan, Hunting</title></circle></a><circle cx="52.2" cy="199.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

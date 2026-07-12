@@ -1,6 +1,11 @@
 ---
 title: "Aviemore Dress Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Aviemore Dress"
+  url: "/tartans/a/av/aviemore-dress/"
 ---
 This is the **Aviemore Dress Tartan** sett — one scale-free proportion (`w60r1db10r22db3ri3g1`), colour order pattern
 [GRBRBRW](/stripes/grbrbrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k2w1g5dr1lb18dr2~x2/"><circle cx="313.4" cy="132.1" r="4" fill="#3465a4"><title>Norris (1998) (Name)</title></circle></a><a href="/variants/s7/r8lb45w1n4k11g6r4~x2/"><circle cx="274.3" cy="69.8" r="4" fill="#3465a4"><title>Ascension Island Heritage Trust</title></circle></a><a href="/variants/s7/w50gi15db10r2db10g8y3~x2~gi2304202-db1204274/"><circle cx="236.4" cy="123.3" r="4" fill="#3465a4"><title>Nimah, Carissa &amp; Bassem (Personal)</title></circle></a><a href="/variants/s6/k2w1n8dr1lb28dr2~x2/"><circle cx="383.9" cy="110.8" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><a href="/variants/s5/lb65r27w2lb4dy5~x2/"><circle cx="470.2" cy="160.2" r="4" fill="#3465a4"><title>Perry Arisaid (Personal)</title></circle></a><a href="/variants/s5/lb72r16k5y2db16~x2/"><circle cx="354.6" cy="111.7" r="4" fill="#3465a4"><title>Thomas, Jean Marc (Personal)</title></circle></a><a href="/variants/s11/w102dp20w4dp4w4dp4dg20r18dp3r10w4/"><circle cx="334.4" cy="84.9" r="4" fill="#3465a4"><title>Grotto Dove (Dance)</title></circle></a><a href="/variants/s11/w72db20y2db3w2db3n16o6db2o5w2~x2/"><circle cx="314.3" cy="72.7" r="4" fill="#3465a4"><title>Stewart dress, Blue</title></circle></a><a href="/variants/s10/w49dg11r2dg3w2do10m9dg2m6w2~x2/"><circle cx="278.0" cy="95.0" r="4" fill="#3465a4"><title>Strathyre dress</title></circle></a><a href="/variants/s7/w80lb1r14lb9r24w2r4~x2/"><circle cx="441.0" cy="126.7" r="4" fill="#3465a4"><title>Unidentified Fisherwife's Plaid</title></circle></a><circle cx="349.7" cy="84.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

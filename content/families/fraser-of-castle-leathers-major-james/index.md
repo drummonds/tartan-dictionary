@@ -1,6 +1,11 @@
 ---
 title: "Fraser of Castle Leathers, Major James"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Fraser"
+  url: "/clan/fraser/"
 ---
 A family of [Clan Fraser](/clan/fraser/).
 

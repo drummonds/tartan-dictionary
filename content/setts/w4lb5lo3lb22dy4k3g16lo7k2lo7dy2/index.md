@@ -1,6 +1,11 @@
 ---
 title: "Cossar (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Cossar"
+  url: "/tartans/c/co/cossar/"
 ---
 This is the **Cossar (Personal)** sett — one scale-free proportion (`w4lb5lo3lb22dy4k3g16lo7k2lo7dy2`), colour order pattern
 [GYKYGKGWYWW](/stripes/gykygkgwyww/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w3lb25dr3r3dr3r8g21dr3k2~x2/"><circle cx="134.8" cy="135.4" r="4" fill="#3465a4"><title>Dunedin (USA) (District)</title></circle></a><a href="/variants/s9/k3r3g21r8ri3r3k3lb25w3~x2~r2109032-ri2806019/"><circle cx="104.2" cy="144.6" r="4" fill="#3465a4"><title>Dunedin (USA)</title></circle></a><a href="/variants/s10/y6k2g15r6g8k12w25lb2w3lb2~x2/"><circle cx="77.3" cy="134.8" r="4" fill="#3465a4"><title>Gillies, dress Green</title></circle></a><a href="/variants/s10/y6k2g12r4g8k10w24t2w3t2~x2/"><circle cx="87.4" cy="134.7" r="4" fill="#3465a4"><title>Gillies Dress, Green (Dance)</title></circle></a><a href="/variants/s14/r5w23db5w5k7y3k3w2k3g16r8g3r6w3~x2/"><circle cx="71.4" cy="121.0" r="4" fill="#3465a4"><title>Victoria Highland Dress</title></circle></a><a href="/variants/s13/lb2w1lb12dt6k3w1g1w1g4w2k1w1r1~x4~lb3402028-r2109032/"><circle cx="106.6" cy="111.6" r="4" fill="#3465a4"><title>Diana Pink (Commemorative)</title></circle></a><a href="/variants/s13/w1r1t8lb1k1w8k1lo8lb1lo1t8lb1lo1~x6/"><circle cx="131.3" cy="144.3" r="4" fill="#3465a4"><title>Robieson (Personal)</title></circle></a><a href="/variants/s10/r7k2lb16ly5lb10k13w28g2w4g4~x2/"><circle cx="84.1" cy="129.5" r="4" fill="#3465a4"><title>Gillies Dress, Blue #1 (Dance)</title></circle></a><a href="/variants/s16/g10w4r4dr4g2dr4r4w4g10w4lb4w2lb4w23k2r2~x2/"><circle cx="117.4" cy="114.7" r="4" fill="#3465a4"><title>MacBean Dress</title></circle></a><a href="/variants/s15/w6g6w6g12lb8g14ly24k4lb4k4dp44w12g20k4lb5/"><circle cx="55.0" cy="125.3" r="4" fill="#3465a4"><title>Wexford County Crest (Fashion)</title></circle></a><circle cx="104.9" cy="142.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

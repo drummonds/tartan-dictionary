@@ -1,6 +1,11 @@
 ---
 title: "Deer Park (Loton) (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Deer Park"
+  url: "/tartans/d/de/deer-park/"
 ---
 This is the **Deer Park (Loton) (Personal)** sett — one scale-free proportion (`g60r7w10dg16g15w3g15`), colour order pattern
 [GRWGGWG](/stripes/grwggwg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/b4g44dg5w2dg2g2dg2r2g3b3~x2~g2508144-dg1304144/"><circle cx="457.3" cy="115.2" r="4" fill="#3465a4"><title>Oxford University dress</title></circle></a><a href="/variants/s7/g14y7g14dg50g64w6g7/"><circle cx="406.6" cy="233.5" r="4" fill="#3465a4"><title>Freedom of Derry</title></circle></a><a href="/variants/s10/g33db2g33r2db12r12g4r2g4w3~x2/"><circle cx="407.7" cy="162.2" r="4" fill="#3465a4"><title>Island Weavers (Corporate)</title></circle></a><a href="/variants/s6/lg50r4lg12y23r4g4~x2/"><circle cx="419.1" cy="214.8" r="4" fill="#3465a4"><title>Ingenico (Corporate)</title></circle></a><a href="/variants/s6/lg50r4lg12y23r4g4~x2~g2408144/"><circle cx="421.6" cy="215.8" r="4" fill="#3465a4"><title>Ingenico</title></circle></a><a href="/variants/s8/g5n9g4w5g30r2g4r2~x2/"><circle cx="451.7" cy="184.7" r="4" fill="#3465a4"><title>Welsh Assembly (Fashion)</title></circle></a><a href="/variants/s8/g25w1dg2w1g6k2w2dg3~x2/"><circle cx="435.8" cy="121.5" r="4" fill="#3465a4"><title>Marshall University</title></circle></a><a href="/variants/s6/g30db8g5lb4g5r1~x4/"><circle cx="500.3" cy="168.0" r="4" fill="#3465a4"><title>Annapolis Valley</title></circle></a><a href="/variants/s8/g4r1g15t5r1w5g4r1~x4/"><circle cx="369.6" cy="190.8" r="4" fill="#3465a4"><title>McGirr (Letterkenny) David, (Pers.)</title></circle></a><a href="/variants/s7/r3g22db16g14r2g6y1~x2/"><circle cx="396.8" cy="189.6" r="4" fill="#3465a4"><title>Scottish Scouts Corporate Tartan</title></circle></a><circle cx="428.4" cy="179.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Fong Wedding (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Fong Wedding"
+  url: "/tartans/f/fo/fong-wedding/"
 ---
 This is the **Fong Wedding (Personal)** sett — one scale-free proportion (`r21b43dt86w10`), colour order pattern
 [RBBW](/stripes/rbbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/lb9db14r1~x4/"><circle cx="351.0" cy="252.6" r="4" fill="#3465a4"><title>Stakis Hotels (Corporate)</title></circle></a><a href="/variants/s5/lb11dbi19db38r7k7~x2~dbi1208266-db1003265/"><circle cx="169.2" cy="223.4" r="4" fill="#3465a4"><title>Rose, Danny and Hanna (Personal)</title></circle></a><a href="/variants/s4/w4lb28db49y3~x2~db1204274/"><circle cx="356.8" cy="212.4" r="4" fill="#3465a4"><title>McKerrell of Hillhouse</title></circle></a><a href="/variants/s4/w4lb28db49y3~x2/"><circle cx="356.2" cy="214.2" r="4" fill="#3465a4"><title>McKerrell of Hillhouse Htg (Clan)</title></circle></a><a href="/variants/s5/dy16r8t57db56lb8/"><circle cx="224.9" cy="240.7" r="4" fill="#3465a4"><title>Bryson (1988)</title></circle></a><a href="/variants/s5/lb6ly6t21db32r3~x2/"><circle cx="241.7" cy="212.8" r="4" fill="#3465a4"><title>Jamieson, Robert (Personal)</title></circle></a><a href="/variants/s5/r15w10db48lb32r6~x2/"><circle cx="193.9" cy="230.8" r="4" fill="#3465a4"><title>Lands of Liberty (Fashion)</title></circle></a><a href="/variants/s4/r1db9k4lb1~x4/"><circle cx="308.5" cy="211.1" r="4" fill="#3465a4"><title>Scottish Nuclear (Corporate)</title></circle></a><a href="/variants/s5/r10w5db30lb20r3~x4/"><circle cx="210.5" cy="219.0" r="4" fill="#3465a4"><title>Lands of Liberty</title></circle></a><a href="/variants/s4/r21db43dbi86w10~db1106275-dbi1404245/"><circle cx="305.4" cy="251.5" r="4" fill="#3465a4"><title>Fong (Personal)</title></circle></a><circle cx="291.9" cy="244.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

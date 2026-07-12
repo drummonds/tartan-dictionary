@@ -1,6 +1,15 @@
 ---
 title: "Denholm"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Denholm"
+  url: "/clan/denholm/"
+- name: "Denholm"
+  url: "/families/denholm/"
+- name: "Denholm"
+  url: "/tartans/d/de/denholm/"
 ---
 This is the **Denholm** sett — one scale-free proportion (`g8k7db8r2db8k7g8k2`), colour order pattern
 [GKBRBKGK](/stripes/gkbrbkgk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db12k16g14k5g14k16db12g4~x2~db1406275/"><circle cx="121.8" cy="285.2" r="4" fill="#3465a4"><title>Norwich No.064</title></circle></a><a href="/variants/s8/g8k7db12r2db12k7g8lb2~x4~db1406275/"><circle cx="116.3" cy="229.0" r="4" fill="#3465a4"><title>Forbo Nairn Corporate Tartan</title></circle></a><a href="/variants/s7/k3g4k1g4k3db4k1~x2/"><circle cx="129.3" cy="278.1" r="4" fill="#3465a4"><title>Unidentified No 63</title></circle></a><a href="/variants/s7/k4g4k1g4k4db4y1~x2/"><circle cx="112.4" cy="268.4" r="4" fill="#3465a4"><title>Unidentified No 39</title></circle></a><a href="/variants/s8/k3w2k3g8k8db8r2db3/"><circle cx="75.9" cy="227.5" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/variants/s8/k3w2k3g8k8db8r2db3~x2/"><circle cx="75.9" cy="227.5" r="4" fill="#3465a4"><title>Davidson, Double</title></circle></a><a href="/variants/s8/db3r2db8k8g8k3w2g3/"><circle cx="46.9" cy="231.2" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/variants/s7/k12g12k2g12k12db12lb3~x2/"><circle cx="120.0" cy="248.0" r="4" fill="#3465a4"><title>MacIntyre Hunting Clan Tartan</title></circle></a><a href="/variants/s7/k8g8k1g8k8b8w2~x2/"><circle cx="121.2" cy="233.6" r="4" fill="#3465a4"><title>Unnamed, No 31</title></circle></a><a href="/variants/s7/g21k6lb3g11k17db17k3~x2/"><circle cx="142.7" cy="225.4" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><circle cx="76.2" cy="271.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

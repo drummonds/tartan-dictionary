@@ -1,6 +1,11 @@
 ---
 title: "Evans of Wales"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Evans"
+  url: "/clan/evans/"
 ---
 A family of [Clan Evans](/clan/evans/).
 

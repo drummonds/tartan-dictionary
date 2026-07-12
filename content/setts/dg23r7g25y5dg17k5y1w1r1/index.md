@@ -1,6 +1,15 @@
 ---
 title: "Cates Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cates"
+  url: "/clan/cates/"
+- name: "Cates"
+  url: "/families/cates/"
+- name: "Cates Hunting"
+  url: "/tartans/c/ca/cates-hunting/"
 ---
 This is the **Cates Hunting** sett — one scale-free proportion (`dg23r7g25y5dg17k5y1w1r1`), colour order pattern
 [GRGGGKGWR](/stripes/grgggkgwr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dg4r3dg24k1w7k1g24ly3~x2~dg1806142-g2106142/"><circle cx="226.1" cy="128.9" r="4" fill="#3465a4"><title>Layton (Name)</title></circle></a><a href="/variants/s8/o8k2dy10dp30dy30g55k4lo6/"><circle cx="190.3" cy="123.3" r="4" fill="#3465a4"><title>Aberuchill</title></circle></a><a href="/variants/s7/k3r12do8ly2g36do10lb2~x2/"><circle cx="232.6" cy="131.2" r="4" fill="#3465a4"><title>Snelgrove Htg (Name)</title></circle></a><a href="/variants/s10/db6dg24k1w2k1dg24g24w3k1w3~x2~dg1806142-g2408144/"><circle cx="283.1" cy="126.9" r="4" fill="#3465a4"><title>Montgomery, Stuart (Personal)</title></circle></a><a href="/variants/s10/g28dg6db4dg6g5dp4g5db11k1w2~x2/"><circle cx="261.6" cy="114.3" r="4" fill="#3465a4"><title>Camenisch Enveglan Family (Personal)</title></circle></a><a href="/variants/s6/db3g19dg29k11r4y2~x2/"><circle cx="180.5" cy="162.3" r="4" fill="#3465a4"><title>Zimmermann, Martin (Personal)</title></circle></a><a href="/variants/s7/k2dy30g4w2g14dr13y2~x2/"><circle cx="235.7" cy="153.6" r="4" fill="#3465a4"><title>Red Rum Commemorative Tartan</title></circle></a><a href="/variants/s9/k4dg33k18dy10g19dy3dg15k1ly3~x2/"><circle cx="234.3" cy="136.2" r="4" fill="#3465a4"><title>Leinster Ancestry (Fashion)</title></circle></a><a href="/variants/s11/dg55k13t4k3g6ly3t2k3dy10k12t14~x2~dg1806142-g2408144/"><circle cx="196.8" cy="85.5" r="4" fill="#3465a4"><title>State Seal of South Carolina (Fash)</title></circle></a><a href="/variants/s11/dr4g4k2g15do5g5do15g6w1db19dr2~x2/"><circle cx="175.3" cy="140.1" r="4" fill="#3465a4"><title>Adams</title></circle></a><circle cx="234.0" cy="124.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

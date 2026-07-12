@@ -1,6 +1,11 @@
 ---
 title: "Unidentified #6"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified 1"
+  url: "/tartans/u/un/unidentified-1/"
 ---
 This is the **Unidentified #6** sett — one scale-free proportion (`db4g3db2g19lb24g1lb2`), colour order pattern
 [BGBGWGW](/stripes/bgbgwgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g10db2g2db6lb5db1lb2~x2/"><circle cx="261.6" cy="251.6" r="4" fill="#3465a4"><title>Unidentified No 17</title></circle></a><a href="/variants/s6/g32lb6g12lb28dr2db1~x2/"><circle cx="409.4" cy="198.8" r="4" fill="#3465a4"><title>Palm Beach Gardens Police</title></circle></a><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2/"><circle cx="251.6" cy="192.8" r="4" fill="#3465a4"><title>Unidentified No 52</title></circle></a><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2~db1004274/"><circle cx="248.5" cy="190.7" r="4" fill="#3465a4"><title>Norwich No.052</title></circle></a><a href="/variants/s8/g42b2w2b2g5dg12w32g4~x2/"><circle cx="306.6" cy="168.2" r="4" fill="#3465a4"><title>Longniddry, Green</title></circle></a><a href="/variants/s6/db6g2db29g29db2g6~x2/"><circle cx="403.3" cy="244.4" r="4" fill="#3465a4"><title>Harmony 12</title></circle></a><a href="/variants/s8/g37w2g6db23y6db2y3db2~x2/"><circle cx="358.5" cy="181.7" r="4" fill="#3465a4"><title>MacAuliffe (Name)</title></circle></a><a href="/variants/s8/dg42g2w2g2dg5dt12w32dg4~x2~dg1806142-g2408144/"><circle cx="298.8" cy="163.9" r="4" fill="#3465a4"><title>Longniddry Green (Dance)</title></circle></a><a href="/variants/s7/db24g3db3g3lo2g18dr2~x2/"><circle cx="334.8" cy="206.6" r="4" fill="#3465a4"><title>Greenways Marketing Intl (Corporate)</title></circle></a><a href="/variants/s9/g22dg3g3dg3g3dg9lb28dg3lb6~x2/"><circle cx="275.3" cy="223.4" r="4" fill="#3465a4"><title>Kildonan Green (Fashion)</title></circle></a><circle cx="362.2" cy="194.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

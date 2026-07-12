@@ -1,6 +1,11 @@
 ---
 title: "Presley of Lonmay"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Presley"
+  url: "/clan/presley/"
 ---
 A family of [Clan Presley](/clan/presley/).
 

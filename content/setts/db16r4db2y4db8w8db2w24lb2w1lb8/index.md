@@ -1,6 +1,11 @@
 ---
 title: "Galego"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Galego"
+  url: "/tartans/g/ga/galego/"
 ---
 This is the **Galego** sett — one scale-free proportion (`db16r4db2y4db8w8db2w24lb2w1lb8`), colour order pattern
 [BRBGBWBWWWW](/stripes/brbgbwbwwww/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w6r2w24db12dbi3db2dbi2db2dbi12ly1dbi1ly3~x2~db1404245-dbi1606275/"><circle cx="214.5" cy="118.3" r="4" fill="#3465a4"><title>Payeur, Francois (Personal)</title></circle></a><a href="/variants/s10/dbi4w2dbi1lb24dbi10w1db2w5db3r2~x2~dbi1204274-db1106275/"><circle cx="231.7" cy="115.8" r="4" fill="#3465a4"><title>Rikaco Morning Dew 1 (Fashion)</title></circle></a><a href="/variants/s10/lb3dy1lb23w20ly1w4db22lb4db4r1~x2/"><circle cx="180.2" cy="118.5" r="4" fill="#3465a4"><title>Forfar</title></circle></a><a href="/variants/s10/lb63dp21w16dp2w4dp4w12lo6w16k21~x2/"><circle cx="171.7" cy="106.9" r="4" fill="#3465a4"><title>Xain (Personal)</title></circle></a><a href="/variants/s13/db4r3lb23db16w5lb3r2lb3w5lb11db2r1db4~x2/"><circle cx="261.4" cy="136.8" r="4" fill="#3465a4"><title>Illinois St Andrews Society Corporate Tartan</title></circle></a><a href="/variants/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2/"><circle cx="160.3" cy="139.2" r="4" fill="#3465a4"><title>Walker, Dress (Name)</title></circle></a><a href="/variants/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2~r2109032/"><circle cx="160.0" cy="139.3" r="4" fill="#3465a4"><title>Walker, Dress (Personal)</title></circle></a><a href="/variants/s13/w4lb1db1w22lb2w2db12r2dg16r4lb1r4db2~x2/"><circle cx="165.6" cy="108.1" r="4" fill="#3465a4"><title>MacGillivray Dress, Janice (Personal</title></circle></a><a href="/variants/s12/w6r2w24db12b3db2b2db2b12y1b1y3~x2~db1108266-b1511266/"><circle cx="206.7" cy="116.3" r="4" fill="#3465a4"><title>Payeur, François (Personal)</title></circle></a><a href="/variants/s10/w50g5y2g5r2g20r2db5y2db40~x2/"><circle cx="194.9" cy="111.6" r="4" fill="#3465a4"><title>Cornell (Fashion)</title></circle></a><circle cx="198.2" cy="129.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

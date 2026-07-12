@@ -1,6 +1,15 @@
 ---
 title: "Graham of Montrose Red"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Graham"
+  url: "/clan/graham/"
+- name: "Graham of Montrose"
+  url: "/families/graham-of-montrose/"
+- name: "Graham of Montrose"
+  url: "/tartans/g/gr/graham-of-montrose-4/"
 ---
 This is the **Graham of Montrose Red** sett — one scale-free proportion (`lb1k1dr10g10k5db5dr10k1lb1`), colour order pattern
 [WKBBKGBKW](/stripes/wkbbkgbkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db1k1dr12g12k6db5dr12k1db1~x4/"><circle cx="231.9" cy="178.5" r="4" fill="#3465a4"><title>Montrose (Macnaughton variation)</title></circle></a><a href="/variants/s7/dg7dp3w1g2dg1k2dp1~x8/"><circle cx="184.6" cy="196.6" r="4" fill="#3465a4"><title>Lindley-Highfield Name Tartan</title></circle></a><a href="/variants/s7/lbi4k13g6dr16lb2dr2g2~x2~lbi3200000-lb3103284/"><circle cx="139.2" cy="180.9" r="4" fill="#3465a4"><title>Caledonian Brewery Corporate Tartan</title></circle></a><a href="/variants/s12/dr8w2dr22k8dg6k6dg6k6dg8lg3dg3lg3~x2/"><circle cx="140.2" cy="163.1" r="4" fill="#3465a4"><title>Wcwm 1712</title></circle></a><a href="/variants/s8/db4dr11db1g8dr2g4k1lo2~x4/"><circle cx="183.4" cy="179.1" r="4" fill="#3465a4"><title>Craik of Assington (Personal)</title></circle></a><a href="/variants/s10/o4k16oi5n8oi2dp2oi2dp2n8k3~x2~oi2500000-n1900000/"><circle cx="118.1" cy="168.7" r="4" fill="#3465a4"><title>Ryukoku University Heian JHS (Corp)</title></circle></a><a href="/variants/s7/r2n18k2n3k20dy30w2~x2/"><circle cx="198.9" cy="156.0" r="4" fill="#3465a4"><title>Bennett, J P. (Personal)</title></circle></a><a href="/variants/s7/r2y18k2y3k20dy30w2~x2~y2300000/"><circle cx="184.2" cy="150.3" r="4" fill="#3465a4"><title>Bennett, John Paul Personal Tartan</title></circle></a><a href="/variants/s11/o6k3dg3k6dr2k2dr2k6dg3o14dy2~x2/"><circle cx="141.0" cy="173.3" r="4" fill="#3465a4"><title>Fountain of the Strong</title></circle></a><a href="/variants/s8/dg24k5dg6r6dg6k20t20w2~x2/"><circle cx="152.4" cy="176.7" r="4" fill="#3465a4"><title>Dunfermline Bank of Scotland (Corp)</title></circle></a><circle cx="180.9" cy="171.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

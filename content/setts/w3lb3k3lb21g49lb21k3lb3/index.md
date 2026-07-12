@@ -1,6 +1,15 @@
 ---
 title: "Irvine of Drum"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Irvine"
+  url: "/clan/irvine/"
+- name: "Irvine of Drum"
+  url: "/families/irvine-of-drum/"
+- name: "Irvine of Drum"
+  url: "/tartans/i/ir/irvine-of-drum/"
 ---
 This is the **Irvine of Drum** sett — one scale-free proportion (`w3lb3k3lb21g49lb21k3lb3`), colour order pattern
 [WKWGWKWW](/stripes/wkwgwkww/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/b36w4b4w4b16dg64r9b6~x2/"><circle cx="294.2" cy="169.5" r="4" fill="#3465a4"><title>Colvin</title></circle></a><a href="/variants/s10/g9lb9k1lb1w1lb1k1lb9g9r1~x6~w3600000/"><circle cx="237.7" cy="176.5" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/variants/s6/r5t25w5t3dg25t3~x2/"><circle cx="268.8" cy="224.9" r="4" fill="#3465a4"><title>Thayer USA</title></circle></a><a href="/variants/s6/r3t2w35t35r2g3~x2/"><circle cx="301.0" cy="162.9" r="4" fill="#3465a4"><title>Galloway (Dance)</title></circle></a><a href="/variants/s7/n3t2w10t2n6t26k2~x2/"><circle cx="318.2" cy="172.4" r="4" fill="#3465a4"><title>MacLintock #2</title></circle></a><a href="/variants/s11/g2r2lb23db2lb2db6lb2db2g33r2lb2~x2/"><circle cx="284.8" cy="142.5" r="4" fill="#3465a4"><title>Maine State</title></circle></a><a href="/variants/s11/g2r2lb21db2lb2db6lb2db2g33r2lb2~x2/"><circle cx="287.9" cy="142.4" r="4" fill="#3465a4"><title>Maine State District Tartan</title></circle></a><a href="/variants/s6/r1g9lb9k1lb1w1~x6/"><circle cx="234.6" cy="188.2" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/variants/s13/lb4t2lb25n16k4lb2n2lb2n10lb4k2lb2t2~x2~lb3200000-t2304245/"><circle cx="267.0" cy="142.3" r="4" fill="#3465a4"><title>Balmoral (Jack Allen)</title></circle></a><a href="/variants/s8/lb38k2w2k2lb5g10w30lb4~x2/"><circle cx="302.1" cy="156.0" r="4" fill="#3465a4"><title>Longniddry Turquoise (Dance)</title></circle></a><circle cx="298.1" cy="161.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

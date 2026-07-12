@@ -1,6 +1,11 @@
 ---
 title: "Moray of Abercairney"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Moray"
+  url: "/clan/moray/"
 ---
 A family of [Clan Moray](/clan/moray/).
 

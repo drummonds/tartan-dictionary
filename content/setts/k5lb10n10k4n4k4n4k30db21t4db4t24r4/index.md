@@ -1,6 +1,11 @@
 ---
 title: "Anderson-Moffat (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Anderson-Moffat"
+  url: "/tartans/a/an/anderson-moffat/"
 ---
 This is the **Anderson-Moffat (Personal)** sett — one scale-free proportion (`k5lb10n10k4n4k4n4k30db21t4db4t24r4`), colour order pattern
 [KWBKBKBKBBBBR](/stripes/kwbkbkbkbbbbr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k5lb5y2lb5k5db25k5lb3dg5r2dg5lb3k5~x2/"><circle cx="87.2" cy="113.4" r="4" fill="#3465a4"><title>Liberton</title></circle></a><a href="/variants/s9/k4lb14k10g3k3g7k6db24w3~x2~lb3203246-db1706275/"><circle cx="45.2" cy="147.6" r="4" fill="#3465a4"><title>Kagame Personal Tartan</title></circle></a><a href="/variants/s9/k2w1dp7k1g6k1db7lb1k1~x4~db1406275/"><circle cx="53.9" cy="146.6" r="4" fill="#3465a4"><title>South Lanarkshire</title></circle></a><a href="/variants/s9/k5lb14k10g3k3g7k6db24w3~x2~lb3203246-db1004274/"><circle cx="42.5" cy="148.5" r="4" fill="#3465a4"><title>Kagame (Personal)</title></circle></a><a href="/variants/s13/k2n1ly2k1dbi4k1ly2db8dbi2db4dbi4lb1k2~x4~dbi1605267-db1204274/"><circle cx="87.3" cy="157.4" r="4" fill="#3465a4"><title>Solberg-Bell Hunting</title></circle></a><a href="/variants/s9/k2w1dp7k1g6k1db7lb1k1~x4/"><circle cx="52.5" cy="163.5" r="4" fill="#3465a4"><title>South Lanarkshire (2002) (District)</title></circle></a><a href="/variants/s10/db2r2db2w1db8k8dg8r2dg2ly2~x2/"><circle cx="79.6" cy="165.1" r="4" fill="#3465a4"><title>Logan Rogers (Personal)</title></circle></a><a href="/variants/s13/dp3k2dp5lb2db12r1db2k1g9dp3g5k12db2~x2/"><circle cx="74.5" cy="137.7" r="4" fill="#3465a4"><title>MacKusick (Piper) #2 (Personal)</title></circle></a><a href="/variants/s8/r4y3w12k16g5db20k4w2~x2/"><circle cx="48.3" cy="140.9" r="4" fill="#3465a4"><title>Iowa Dress</title></circle></a><a href="/variants/s16/db3r2lb2db16k2g2k2g2k2db16g2k10g4r4g12w3~x2/"><circle cx="111.4" cy="128.4" r="4" fill="#3465a4"><title>Annandale (Personal)</title></circle></a><circle cx="65.2" cy="142.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

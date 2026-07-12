@@ -1,6 +1,11 @@
 ---
 title: "Bedford Check (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Bedford Check"
+  url: "/tartans/b/be/bedford-check/"
 ---
 This is the **Bedford Check (Fashion)** sett — one scale-free proportion (`lb3n6k4lb2`), colour order pattern
 [WBKW](/stripes/wbkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/lb3o6k4lb2~x2~o2500000/"><circle cx="121.8" cy="313.6" r="4" fill="#3465a4"><title>Bedford Check</title></circle></a><a href="/variants/s4/n12k8db15w8~x2/"><circle cx="41.5" cy="342.5" r="4" fill="#3465a4"><title>Equity Vision Ltd</title></circle></a><a href="/variants/s4/dr3n16k16lb3~x4/"><circle cx="184.1" cy="246.9" r="4" fill="#3465a4"><title>Thompson, Dress (Clan)</title></circle></a><a href="/variants/s5/w14k30t9r8lo9~x2~w3600000-t2607245/"><circle cx="88.1" cy="238.8" r="4" fill="#3465a4"><title>Heidrick Family (Personal)</title></circle></a><a href="/variants/s4/k19db18w9r3~x4/"><circle cx="126.9" cy="248.4" r="4" fill="#3465a4"><title>Raven (Fashion)</title></circle></a><a href="/variants/s5/db20k5db18lo26k6~x2/"><circle cx="206.6" cy="261.5" r="4" fill="#3465a4"><title>Johore Regiment (Military)</title></circle></a><a href="/variants/s5/db20k5db18lo26k6~x2~db1406275/"><circle cx="181.1" cy="244.5" r="4" fill="#3465a4"><title>Johore Regiment</title></circle></a><a href="/variants/s5/db20k5db18y26k6~x2/"><circle cx="238.7" cy="273.5" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/variants/s3/r4k7lb4~x2~r2109032/"><circle cx="120.2" cy="351.8" r="4" fill="#3465a4"><title>Wilson's No.198</title></circle></a><a href="/variants/s3/r4k7lb4~x2/"><circle cx="119.9" cy="351.3" r="4" fill="#3465a4"><title>Wilson's, No 198</title></circle></a><circle cx="130.4" cy="318.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

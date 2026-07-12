@@ -1,6 +1,15 @@
 ---
 title: "Hamilton of Brandon"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hamilton"
+  url: "/clan/hamilton/"
+- name: "Hamilton of Brandon"
+  url: "/families/hamilton-of-brandon/"
+- name: "Hamilton of Brandon"
+  url: "/tartans/h/ha/hamilton-of-brandon/"
 ---
 This is the **Hamilton of Brandon** sett — one scale-free proportion (`ly16k7w1g7k1dy3`), colour order pattern
 [GKGWKYKWGK](/stripes/gkgwkykwgk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy20k4g14k1o2k1g14k10w22o7~x2/"><circle cx="81.4" cy="135.1" r="4" fill="#3465a4"><title>Border Union Cattle Show (Corporate)</title></circle></a><a href="/variants/s10/lr3ly2k4lo6k4ly15k4dg18k2ly3~x2/"><circle cx="87.9" cy="157.6" r="4" fill="#3465a4"><title>Fitzsimmons</title></circle></a><a href="/variants/s10/dr20k4g14k1o2k1g14k10w22o7~x2~w3600000/"><circle cx="86.8" cy="134.6" r="4" fill="#3465a4"><title>Border Union Cattle Show</title></circle></a><a href="/variants/s12/k5lo4g25k14lo5k5w5k2w3g3k2lo5~x2/"><circle cx="134.7" cy="145.6" r="4" fill="#3465a4"><title>Heritage of Ireland (Fashion)</title></circle></a><a href="/variants/s9/k3dy14lo4dy9lo14k14g28k1o3~x2/"><circle cx="119.5" cy="129.4" r="4" fill="#3465a4"><title>Dutch Friendship</title></circle></a><a href="/variants/s10/lo12k3g24r12g24k32w44g4w8g4/"><circle cx="94.4" cy="149.2" r="4" fill="#3465a4"><title>Gillies Dress Green</title></circle></a><a href="/variants/s10/y10k24y5k13y24k5g52k5db18w8/"><circle cx="92.7" cy="161.8" r="4" fill="#3465a4"><title>Leitrim County, Crest Range</title></circle></a><a href="/variants/s10/w7r1w14k6y2k6g14r2g10y1~x2~w3600000-r2209032/"><circle cx="119.5" cy="155.5" r="4" fill="#3465a4"><title>Spanish shirt</title></circle></a><a href="/variants/s11/lbi3k1g12k1g1k2g1k6lb12k1lo1~x4~lbi3203246-lb3200000/"><circle cx="117.0" cy="129.9" r="4" fill="#3465a4"><title>MacCandlish Arisaid Green</title></circle></a><a href="/variants/s8/k3w1r16k1g21t9k6w1~x4/"><circle cx="152.6" cy="130.8" r="4" fill="#3465a4"><title>Ford &amp; Etal</title></circle></a><circle cx="102.9" cy="138.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

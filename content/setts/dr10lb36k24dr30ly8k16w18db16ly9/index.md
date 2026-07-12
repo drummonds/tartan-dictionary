@@ -1,6 +1,11 @@
 ---
 title: "Tipperary County Crest (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Tipperary County Crest"
+  url: "/tartans/t/ti/tipperary-county-crest/"
 ---
 This is the **Tipperary County Crest (Fashion)** sett — one scale-free proportion (`dr10lb36k24dr30ly8k16w18db16ly9`), colour order pattern
 [BWKBYKWBY](/stripes/bwkbykwby/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dr10lb36k24dr30dy8k16w18db16dy9/"><circle cx="14.0" cy="213.8" r="4" fill="#3465a4"><title>Tipperary County, Crest Range</title></circle></a><a href="/variants/s13/lb4k4db4k4g4w1g4w1db3r4db3r4w1~x4/"><circle cx="14.0" cy="221.5" r="4" fill="#3465a4"><title>Stanners (Personal)</title></circle></a><a href="/variants/s8/dy6dr8k4w6g16k13lb19k5~x2/"><circle cx="14.0" cy="211.5" r="4" fill="#3465a4"><title>Kilkenny County, Crest Range</title></circle></a><a href="/variants/s13/lb4k4db4k4g4w1g4w1db3r4db3r4w1~x4~db1404245/"><circle cx="14.0" cy="222.9" r="4" fill="#3465a4"><title>Stanners (Personal)</title></circle></a><a href="/variants/s8/ly6dr8k4w6g16k13lb19k5~x2/"><circle cx="14.0" cy="212.2" r="4" fill="#3465a4"><title>Kilkenny County Crest (Fashion)</title></circle></a><a href="/variants/s13/lb10dr3lb10k7ly5w2ly5w2ly5k7dg10dr3dg7~x2/"><circle cx="14.0" cy="199.9" r="4" fill="#3465a4"><title>Redgate (Name)</title></circle></a><a href="/variants/s8/g14lb14db12lr8dy3k3dy3k5~x2/"><circle cx="14.0" cy="211.4" r="4" fill="#3465a4"><title>Somerset #2</title></circle></a><a href="/variants/s12/lr2db3k3g8dr6db2ly2k3lr2k6db8ly2~x2/"><circle cx="14.0" cy="200.1" r="4" fill="#3465a4"><title>Talisman</title></circle></a><a href="/variants/s13/r3db9r2k7y2k2w2k2g6r5k2r2w2~x2/"><circle cx="14.0" cy="176.3" r="4" fill="#3465a4"><title>Prince Albert Royal Family Tartan</title></circle></a><a href="/variants/s13/r3db9r2k7y2k2w2k2g6r5k2r2w2~x4/"><circle cx="14.0" cy="176.3" r="4" fill="#3465a4"><title>Prince Albert #3</title></circle></a><circle cx="14.0" cy="215.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

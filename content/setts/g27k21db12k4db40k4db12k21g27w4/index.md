@@ -1,6 +1,11 @@
 ---
 title: "Granger/Grainger (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Granger/Grainger"
+  url: "/tartans/g/gr/granger-grainger/"
 ---
 This is the **Granger/Grainger (Personal)** sett — one scale-free proportion (`g27k21db12k4db40k4db12k21g27w4`), colour order pattern
 [GKBKBKBKGW](/stripes/gkbkbkbkgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k3db17k20g18w4g18k20db18k2db2~x2/"><circle cx="135.1" cy="196.8" r="4" fill="#3465a4"><title>Argyll Campbell</title></circle></a><a href="/variants/s5/db10k6lb1g6k1~x2/"><circle cx="133.5" cy="203.4" r="4" fill="#3465a4"><title>Unidentified No 115</title></circle></a><a href="/variants/s11/g2db12r1k12g12k2g12k12r1db12g1~x4/"><circle cx="141.2" cy="176.4" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/variants/s10/k4g2db10y1db2g13k11g13db13y2~x2/"><circle cx="170.9" cy="184.8" r="4" fill="#3465a4"><title>Pinney's of Scotland</title></circle></a><a href="/variants/s9/db7k2db2k2db2k7g7w1g7~x4/"><circle cx="130.8" cy="216.2" r="4" fill="#3465a4"><title>Abercrombie</title></circle></a><a href="/variants/s9/db14k2db2k2db2k7g7w1g14~x2/"><circle cx="192.2" cy="170.1" r="4" fill="#3465a4"><title>Abercrombie D</title></circle></a><a href="/variants/s9/db14k2db2k2db2k7g7w1g14/"><circle cx="192.2" cy="170.1" r="4" fill="#3465a4"><title>Abercrombie D</title></circle></a><a href="/variants/s10/db9k9db9r2k18g12r2g4r2g4~x2/"><circle cx="133.5" cy="189.1" r="4" fill="#3465a4"><title>Newlands Family Tartan</title></circle></a><a href="/variants/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="133.4" cy="173.2" r="4" fill="#3465a4"><title>Stephenson Hunting</title></circle></a><a href="/variants/s7/db3r1db10k8g10r1g3~x4/"><circle cx="156.0" cy="203.5" r="4" fill="#3465a4"><title>Blair Clan Tartan</title></circle></a><circle cx="145.5" cy="195.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

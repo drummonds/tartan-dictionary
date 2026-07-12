@@ -1,6 +1,15 @@
 ---
 title: "Forbes"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Forbes"
+  url: "/clan/forbes/"
+- name: "Forbes"
+  url: "/families/forbes/"
+- name: "Forbes"
+  url: "/tartans/f/fo/forbes/"
 ---
 This is the **Forbes** sett — one scale-free proportion (`db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2`), colour order pattern
 [BKBKBKGKWKGKBKB](/stripes/bkbkbkgkwkgkbkb/). It is recorded as **3 variants** — the same
@@ -24,6 +33,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x4/"><circle cx="136.1" cy="173.9" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2/"><circle cx="136.1" cy="173.9" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s15/db17k3db3k3db3k16g15k2w3k2g15k16db16k3db3~x2/"><circle cx="140.7" cy="169.6" r="4" fill="#3465a4"><title>Forbes #2</title></circle></a><a href="/variants/s15/db12k4db4k4db4k12g16k2dr3k2g16k12db16k4db4/"><circle cx="129.5" cy="185.2" r="4" fill="#3465a4"><title>MacKinlay (2/4 black stripes)</title></circle></a><a href="/variants/s15/db6k2db2k2db2k6g8k1r2k1g8k6db8k2db2~x2/"><circle cx="119.1" cy="182.6" r="4" fill="#3465a4"><title>MacKinlay Clan Tartan</title></circle></a><a href="/variants/s15/db38k6db6k6db6k40g38k4r9k4g38k40db38k6db6/"><circle cx="146.9" cy="158.4" r="4" fill="#3465a4"><title>Safeway</title></circle></a><a href="/variants/s15/db19k3db3k3db3k20g19k2r5k2g19k20db19k3db3~x2/"><circle cx="145.3" cy="158.7" r="4" fill="#3465a4"><title>Safeway</title></circle></a><a href="/variants/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/"><circle cx="139.2" cy="172.2" r="4" fill="#3465a4"><title>Lorne, Louise of</title></circle></a><a href="/variants/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="133.4" cy="173.2" r="4" fill="#3465a4"><title>Stephenson Hunting</title></circle></a><a href="/variants/s13/g4k1g1k1g1k8db8r1db8k8g8k1g1~x8/"><circle cx="147.2" cy="174.9" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><circle cx="136.1" cy="173.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

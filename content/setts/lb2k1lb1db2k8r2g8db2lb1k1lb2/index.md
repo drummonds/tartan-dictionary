@@ -1,6 +1,11 @@
 ---
 title: "Unidentified No 22"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified No 22"
+  url: "/tartans/u/un/unidentified-no-22/"
 ---
 This is the **Unidentified No 22** sett — one scale-free proportion (`lb2k1lb1db2k8r2g8db2lb1k1lb2`), colour order pattern
 [WKWBGRKBWKW](/stripes/wkwbgrkbwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db2dr2db12k5dg12dr2dg2dr2dg12k5w14dr2w2~x2/"><circle cx="74.5" cy="163.5" r="4" fill="#3465a4"><title>Blair Dress</title></circle></a><a href="/variants/s9/dp8k1g2k1dy2k6g8k1w2~x4/"><circle cx="92.6" cy="173.6" r="4" fill="#3465a4"><title>Coffield-Limesand (Personal)</title></circle></a><a href="/variants/s11/w4db20g5k6g2w3g2k6g13dp8g2~x2/"><circle cx="92.8" cy="161.5" r="4" fill="#3465a4"><title>Bowlers (Commemorative)</title></circle></a><a href="/variants/s10/r3g18r4db3r4k13r3db18g2y3~x2/"><circle cx="92.2" cy="163.0" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn (District)</title></circle></a><a href="/variants/s15/n2t14k3t3k3t3k15t4r2g2r2g11r2g2r2~x2/"><circle cx="100.1" cy="151.0" r="4" fill="#3465a4"><title>Homecoming (Fashion)</title></circle></a><a href="/variants/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/"><circle cx="108.9" cy="152.9" r="4" fill="#3465a4"><title>MacDonell of Glengarry #2</title></circle></a><a href="/variants/s8/t30ly3t4k25y26k3y3r4~x2~t2503227-ly3307090-y2602166/"><circle cx="119.3" cy="136.2" r="4" fill="#3465a4"><title>Ogilvie Hunting</title></circle></a><a href="/variants/s13/k3ly4k3ly4k3g16k16w3t16k2w2k2ly2~x2/"><circle cx="92.5" cy="146.4" r="4" fill="#3465a4"><title>Lotus Elan (Corporate)</title></circle></a><a href="/variants/s13/db9k12g2lb4g18lb4g2k12db12r2db2r2db3~x2/"><circle cx="84.3" cy="160.4" r="4" fill="#3465a4"><title>MacTaggert Clan Tartan</title></circle></a><a href="/variants/s13/db8r1db2r3db12r1k12w1g12r3g2r1g8~x2/"><circle cx="113.2" cy="142.6" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><circle cx="80.3" cy="153.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

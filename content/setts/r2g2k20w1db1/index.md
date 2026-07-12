@@ -1,6 +1,15 @@
 ---
 title: "Fily, Sylvain Roger"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Fily"
+  url: "/clan/fily/"
+- name: "Fily"
+  url: "/families/fily/"
+- name: "Fily"
+  url: "/tartans/f/fi/fily/"
 ---
 This is the **Fily, Sylvain Roger** sett — one scale-free proportion (`r2g2k20w1db1`), colour order pattern
 [BWKGR](/stripes/bwkgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k62r9w7lb6y3g6~x2/"><circle cx="305.8" cy="89.2" r="4" fill="#3465a4"><title>Tainsh (2016)</title></circle></a><a href="/variants/s4/db1r1k12g1~x4/"><circle cx="471.7" cy="163.9" r="4" fill="#3465a4"><title>MacNathair Sgianach</title></circle></a><a href="/variants/s4/dr1k20lb5dr1~x4/"><circle cx="431.5" cy="161.5" r="4" fill="#3465a4"><title>Dobelman (Personal)</title></circle></a><a href="/variants/s6/k75r10g7y3db2w5~x2/"><circle cx="390.7" cy="57.6" r="4" fill="#3465a4"><title>Charlotte Fire Department</title></circle></a><a href="/variants/s6/k78r10g7y3db2w5~x2/"><circle cx="399.0" cy="55.3" r="4" fill="#3465a4"><title>Charlotte Fire Department</title></circle></a><a href="/variants/s5/k45t2r4y1w1~x2/"><circle cx="539.4" cy="74.1" r="4" fill="#3465a4"><title>McHattie (Personal)</title></circle></a><a href="/variants/s5/k45db2r4y1w1~x2/"><circle cx="546.8" cy="75.8" r="4" fill="#3465a4"><title>McHattie (Personal)</title></circle></a><a href="/variants/s5/k50db6r6n6w3~x2/"><circle cx="366.3" cy="128.0" r="4" fill="#3465a4"><title>Friends of Nordegg (Corporate)</title></circle></a><a href="/variants/s6/k50g6db6r6n6w3~x2/"><circle cx="298.5" cy="105.4" r="4" fill="#3465a4"><title>Friends of Nordegg</title></circle></a><a href="/variants/s4/r3db12k50y3~x2/"><circle cx="444.1" cy="166.4" r="4" fill="#3465a4"><title>Rogues (United States), The</title></circle></a><circle cx="423.3" cy="109.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

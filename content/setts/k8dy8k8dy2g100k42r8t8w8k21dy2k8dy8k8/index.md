@@ -1,6 +1,11 @@
 ---
 title: "Tarassow Russian Scouts Corporate Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Tarassow Russian Scouts"
+  url: "/tartans/t/ta/tarassow-russian-scouts/"
 ---
 This is the **Tarassow Russian Scouts Corporate Tartan** sett — one scale-free proportion (`k8dy8k8dy2g100k42r8t8w8k21dy2k8dy8k8`), colour order pattern
 [KGKGGKRBWKGKGK](/stripes/kgkggkrbwkgkgk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/k8ly8k8ly2g100k42r8t8w8k21ly2k8ly8k8/"><circle cx="193.4" cy="29.6" r="4" fill="#3465a4"><title>Tarassow Russian Scout (Corporate)</title></circle></a><a href="/variants/s14/k8lo8k8lo2g100k42r8t8w8k21lo2k8lo8k8/"><circle cx="194.1" cy="28.9" r="4" fill="#3465a4"><title>Tarassow Russian Scout</title></circle></a><a href="/variants/s9/db4k1r2k32g32y2k1g3lb2~x2~db1407270/"><circle cx="219.0" cy="67.3" r="4" fill="#3465a4"><title>Roderick Dhu Canada Tartan</title></circle></a><a href="/variants/s9/db4k1r2k32g32y2k1g3lb2~x2/"><circle cx="219.2" cy="67.4" r="4" fill="#3465a4"><title>Roderick, Dhu</title></circle></a><a href="/variants/s14/k8lb2r2k6r2k2y1k2dy16g30k1r2k4lb2~x2/"><circle cx="153.8" cy="58.0" r="4" fill="#3465a4"><title>Murphy, Andrew (Personal)</title></circle></a><a href="/variants/s15/g4dg40g4k8db4k8g5k2ly4k2dg1g2dg2k1n1~x2/"><circle cx="251.2" cy="43.1" r="4" fill="#3465a4"><title>Eastern Shore Police (Corporate)</title></circle></a><a href="/variants/s13/dg50k3w4k1ly5r4k1w2k2t15k5dg4w2~x2/"><circle cx="267.4" cy="26.0" r="4" fill="#3465a4"><title>City of Abbotsford (District)</title></circle></a><a href="/variants/s13/t3k3w1dr3k8t2dg36t2k8w1k3t3y2~x2/"><circle cx="252.7" cy="54.5" r="4" fill="#3465a4"><title>U.S. Special Forces (Military)</title></circle></a><a href="/variants/s11/lb11k2lb2k2dy2k11dg30r2dg3k1w5~x2/"><circle cx="188.7" cy="68.3" r="4" fill="#3465a4"><title>Labrador</title></circle></a><a href="/variants/s11/lb11k2lb2k2ly2k11dg30r2dg3k1w5~x2/"><circle cx="187.1" cy="68.2" r="4" fill="#3465a4"><title>Labrador (District)</title></circle></a><circle cx="198.7" cy="30.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

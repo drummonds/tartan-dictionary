@@ -1,6 +1,15 @@
 ---
 title: "Kerr of Ardgowan Clergy (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Kerr"
+  url: "/clan/kerr/"
+- name: "Kerr of Ardgowan Clergy"
+  url: "/families/kerr-of-ardgowan-clergy/"
+- name: "Kerr of Ardgowan Clergy"
+  url: "/tartans/k/ke/kerr-of-ardgowan-clergy/"
 ---
 This is the **Kerr of Ardgowan Clergy (Personal)** sett — one scale-free proportion (`ly2db1dpi42lb2dpi6db1lo1db1dp4b4g1dpi1`), colour order pattern
 [BGBBBYBBWBBY](/stripes/bgbbbybbwbby/). It is recorded as a single **variant**, below.

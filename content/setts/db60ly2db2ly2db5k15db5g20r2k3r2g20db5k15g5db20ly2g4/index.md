@@ -1,6 +1,15 @@
 ---
 title: "Whitworth (Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Whitworth"
+  url: "/clan/whitworth/"
+- name: "Whitworth"
+  url: "/families/whitworth/"
+- name: "Whitworth"
+  url: "/tartans/w/wh/whitworth-2/"
 ---
 This is the **Whitworth (Name)** sett — one scale-free proportion (`db60ly2db2ly2db5k15db5g20r2k3r2g20db5k15g5db20ly2g4`), colour order pattern
 [BYBYBKBGRKRGBKGBYG](/stripes/bybybkbgrkrgbkgbyg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/k3db42k3y2k3g22k3r2k3g22k3y2k3db42k3r2~x2~db1406275/"><circle cx="261.7" cy="82.7" r="4" fill="#3465a4"><title>Strachan</title></circle></a><a href="/variants/s19/dp4db5dp3db50k15g3k5g32w2g3w2g32k5g5k15db50dp3k5dp3/"><circle cx="202.9" cy="80.2" r="4" fill="#3465a4"><title>Spirit of Morningside</title></circle></a><a href="/variants/s14/g3lb2g3r4g15k2g2k2g3db35k2db2k1db2~x2/"><circle cx="277.4" cy="61.9" r="4" fill="#3465a4"><title>Prestoungrange (Personal)</title></circle></a><a href="/variants/s14/g3b2g3r4g15k2g2k2g3db35k2db2k1db2~x2/"><circle cx="282.1" cy="63.4" r="4" fill="#3465a4"><title>Prestoungrange/Dolphinstoun/Wills</title></circle></a><a href="/variants/s14/db116k4g22ri7db3ri7k26db7g3db7g66db4ri7r4~ri2406019-r2109032/"><circle cx="267.5" cy="59.0" r="4" fill="#3465a4"><title>Cooper Family Tartan</title></circle></a><a href="/variants/s14/db116k4g22b7db3b7k26db7g3db7g66db4b7r4/"><circle cx="276.1" cy="64.6" r="4" fill="#3465a4"><title>Cooper</title></circle></a><a href="/variants/s18/dr2k2db3lo1db20k1g18k1dr2db2k1db2k1db2k2g2k2dr2~x2/"><circle cx="215.7" cy="78.3" r="4" fill="#3465a4"><title>Craig (Personal)</title></circle></a><a href="/variants/s16/db36g10r2g10w2g10r2k10db14r2db12r3db2r2db4w2~x2/"><circle cx="245.8" cy="100.8" r="4" fill="#3465a4"><title>Rankin</title></circle></a><a href="/variants/s14/y3db2k1db24k2db2k2db2k2g8dp2g8k1w2~x2/"><circle cx="220.7" cy="72.9" r="4" fill="#3465a4"><title>Alexander-Johnstone (Personal)</title></circle></a><a href="/variants/s17/k3db2g2db26t1db1t1db1t1db1t3lg2k10db3g14k3r3~x2/"><circle cx="184.2" cy="56.0" r="4" fill="#3465a4"><title>St. Lawrence</title></circle></a><circle cx="249.4" cy="66.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

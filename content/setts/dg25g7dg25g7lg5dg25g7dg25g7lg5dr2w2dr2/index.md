@@ -1,6 +1,15 @@
 ---
 title: "Pino Family (Pennsylvania) (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Pino"
+  url: "/clan/pino/"
+- name: "Pino"
+  url: "/families/pino/"
+- name: "Pino"
+  url: "/tartans/p/pi/pino/"
 ---
 This is the **Pino Family (Pennsylvania) (Personal)** sett — one scale-free proportion (`dg25g7dg25g7lg5dg25g7dg25g7lg5dr2w2dr2`), colour order pattern
 [BWBYGGGGYGGGG](/stripes/bwbyggggygggg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dg25dgi7dg25dgi7g5dg25dgi7dg25dgi7g5dr2w2dr2~x2~dgi1806142-g2408144/"><circle cx="479.7" cy="213.0" r="4" fill="#3465a4"><title>Pino (Personal)</title></circle></a><a href="/variants/s12/g22db16g14dr2g6lo2g6dr2g14db16g22dr3~x2/"><circle cx="391.4" cy="221.8" r="4" fill="#3465a4"><title>Scottish Scouts #2</title></circle></a><a href="/variants/s14/dp2y25dg8y2dg2y25dp2y2dp6y2w2y4dg16y2~x2~y2505139-dg1504144/"><circle cx="404.1" cy="182.1" r="4" fill="#3465a4"><title>Beechgrove Garden, The</title></circle></a><circle cx="406.8" cy="187.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

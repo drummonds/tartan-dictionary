@@ -1,6 +1,15 @@
 ---
 title: "Shaw of Tordarroch Red (Dress)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Shaw"
+  url: "/clan/shaw/"
+- name: "Shaw of Tordarroch"
+  url: "/families/shaw-of-tordarroch/"
+- name: "Shaw of Tordarroch"
+  url: "/tartans/s/sh/shaw-of-tordarroch-2/"
 ---
 This is the **Shaw of Tordarroch Red (Dress)** sett — one scale-free proportion (`lb5k1r30dp15r8dg30r8dp2`), colour order pattern
 [KRBRGRBRGRBRKW](/stripes/krbrgrbrgrbrkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb5k1r30dp15r8g30r8dp2~x2/"><circle cx="254.7" cy="126.5" r="4" fill="#3465a4"><title>Shaw Red of Tordarroch Dress (Clan 2</title></circle></a><a href="/variants/s8/lb5k1r30dp15r8g30r8dp2/"><circle cx="254.7" cy="126.5" r="4" fill="#3465a4"><title>Shaw of Tordarroch Clan Tartan</title></circle></a><a href="/variants/s8/w5k1r30db15r8g30r8db2/"><circle cx="236.1" cy="123.0" r="4" fill="#3465a4"><title>Shaw</title></circle></a><a href="/variants/s8/gi3r4k1r26g14r4dp16w2~x2~gi2408144-g1903114/"><circle cx="257.3" cy="112.4" r="4" fill="#3465a4"><title>MacQueen of Dalmagarry (Clan?)</title></circle></a><a href="/variants/s18/g12r11dp12k1dp1k1r32dp8g8dp8g8r32k1dp1k1dp12r11g12~x2/"><circle cx="280.5" cy="97.8" r="4" fill="#3465a4"><title>Fiddes #3</title></circle></a><a href="/variants/s8/lb5k1r30dr15r8g30r8dr2~x2/"><circle cx="261.3" cy="129.0" r="4" fill="#3465a4"><title>Shaw</title></circle></a><a href="/variants/s8/lb5k1r30dr15r8g30r8dr2/"><circle cx="261.3" cy="129.0" r="4" fill="#3465a4"><title>Shaw</title></circle></a><a href="/variants/s18/dg12r11dp12k1dp1k1r32dg8dp8dg8dp8r32k1dp1k1dp12r11dg12~x2/"><circle cx="294.4" cy="99.9" r="4" fill="#3465a4"><title>Fiddes - 1790 (Clan)</title></circle></a><a href="/variants/s13/y4k1r22g5r4g12r6g12r4g5r22k1w4~x2/"><circle cx="301.6" cy="119.2" r="4" fill="#3465a4"><title>Bruce</title></circle></a><a href="/variants/s10/r25k1y2k1y2k1r10t18w2t12~x2/"><circle cx="279.1" cy="110.9" r="4" fill="#3465a4"><title>Richardson (Personal?)</title></circle></a><circle cx="260.5" cy="112.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

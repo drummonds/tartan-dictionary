@@ -1,6 +1,11 @@
 ---
 title: "Sawicki, Peter (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Sawicki, Peter"
+  url: "/tartans/s/sa/sawicki-peter/"
 ---
 This is the **Sawicki, Peter (Personal)** sett — one scale-free proportion (`k10dg2k2db2dg14ly1dg14db2k10dg4k2dg2k2`), colour order pattern
 [KGKBGYGBKGKGK](/stripes/kgkbgygbkgkgk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k20dg4k4db4dg28ly1dg28db4k20dg8k4dg4k4~x2/"><circle cx="344.6" cy="133.8" r="4" fill="#3465a4"><title>Sawicki, Peter (Personal)</title></circle></a><a href="/variants/s11/dg5k2dg2k2dg2k12r2k12dg6k2dg2~x2/"><circle cx="339.5" cy="208.8" r="4" fill="#3465a4"><title>MacLoughlin of Ardmarnoch (Personal)</title></circle></a><a href="/variants/s16/dg18k6dg1k1db1k6db1k2db1k6db1k1dg1k6dg21y1~x2/"><circle cx="365.5" cy="117.3" r="4" fill="#3465a4"><title>Grand Lodge of Scotland Corporate Weavers Tartan</title></circle></a><a href="/variants/s11/k1dr1dg7k8w1k8dr1dg2dr1dg4dr1~x4/"><circle cx="246.2" cy="181.7" r="4" fill="#3465a4"><title>Episcopal Clergy</title></circle></a><a href="/variants/s9/dg28dr12dg4k20ly2k3ly2k3dg7~x2/"><circle cx="267.0" cy="167.0" r="4" fill="#3465a4"><title>Cork, County (District)</title></circle></a><a href="/variants/s11/ki25k7ki2k2ki2k2db10g6k2g3ki2~x2~ki0700000/"><circle cx="266.9" cy="150.1" r="4" fill="#3465a4"><title>Daks (Chino Check) (Fashion)</title></circle></a><a href="/variants/s12/dg8k8dg56n8dg8k20dg8n8dg8n16w3dr6/"><circle cx="300.4" cy="130.9" r="4" fill="#3465a4"><title>Kelly of Sleat Hunting (Name)</title></circle></a><a href="/variants/s9/do20db2do5db5k18g5do5g2do15~x2/"><circle cx="314.0" cy="197.4" r="4" fill="#3465a4"><title>Laois</title></circle></a><a href="/variants/s9/db1k8db2dg16dr6dg16db2k8w1~x2/"><circle cx="290.2" cy="167.8" r="4" fill="#3465a4"><title>Basel Tattoo (Official)</title></circle></a><a href="/variants/s11/n12lb3do36k12do8k8do16k2do16k4n10~do1400000/"><circle cx="334.3" cy="168.7" r="4" fill="#3465a4"><title>Bute Heather, Midnight</title></circle></a><circle cx="310.9" cy="157.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

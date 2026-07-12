@@ -1,6 +1,15 @@
 ---
 title: "Wagland"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Wagland"
+  url: "/clan/wagland/"
+- name: "Wagland"
+  url: "/families/wagland/"
+- name: "Wagland"
+  url: "/tartans/w/wa/wagland-2/"
 ---
 This is the **Wagland** sett — one scale-free proportion (`db6y2db15g12dg39w3dg39g12db15y2db6r3`), colour order pattern
 [BGBGGWGGBGBR](/stripes/bgbggwggbgbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db3dg22r5dg5n5w1n1dg1g8db6n1db5dg2~x2/"><circle cx="261.1" cy="128.3" r="4" fill="#3465a4"><title>Mill o Forest Primary School (Corp)</title></circle></a><a href="/variants/s13/r2dg12g3dg2g2dg2g16lb4dg12w1g8dg14y2~x2/"><circle cx="283.9" cy="155.6" r="4" fill="#3465a4"><title>Field Gun Association</title></circle></a><a href="/variants/s12/r2dt6g15db6dt4db4dt28db4dt4db6g6y2~x2/"><circle cx="303.1" cy="177.2" r="4" fill="#3465a4"><title>Los Angeles Police Bagpipe Band</title></circle></a><a href="/variants/s11/n5w2g30db6g4db3g4db24g4dy5r3~x2/"><circle cx="245.8" cy="138.8" r="4" fill="#3465a4"><title>Wells (1970) (Name)</title></circle></a><a href="/variants/s7/r3db6y2db15g12dg39w3~x2/"><circle cx="276.4" cy="153.8" r="4" fill="#3465a4"><title>Wagland (Name)</title></circle></a><a href="/variants/s10/dt37g27w2dt4r6dt4w2g27dt37y2~x2/"><circle cx="339.6" cy="164.0" r="4" fill="#3465a4"><title>Highlands of Durham</title></circle></a><a href="/variants/s10/dy6w1dy24db6g2db1g2db1g12r1~x2/"><circle cx="343.2" cy="132.8" r="4" fill="#3465a4"><title>Chisholm Hunting Clan Tartan</title></circle></a><a href="/variants/s18/n2db9y1db4y2db2y4n1y15g1y3g3y2g4y1g7ly1r2~x2/"><circle cx="242.7" cy="142.0" r="4" fill="#3465a4"><title>Norwegian Night (Fashion)</title></circle></a><a href="/variants/s9/r2db12dg2g11dg4db5g2dg24w2~x2/"><circle cx="265.0" cy="183.0" r="4" fill="#3465a4"><title>Fraser Gathering, Green (1997)</title></circle></a><a href="/variants/s14/g15r1g8dr3dp1dr3w1dr3dp1dr3dp12r1g7y1~x2/"><circle cx="247.1" cy="131.5" r="4" fill="#3465a4"><title>Recycled Lamb, The</title></circle></a><circle cx="296.6" cy="148.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

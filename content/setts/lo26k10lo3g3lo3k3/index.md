@@ -1,6 +1,11 @@
 ---
 title: "Volkswagen Orange Trim (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Volkswagen Orange"
+  url: "/tartans/v/vo/volkswagen-orange/"
 ---
 This is the **Volkswagen Orange Trim (Fashion)** sett — one scale-free proportion (`lo26k10lo3g3lo3k3`), colour order pattern
 [KYGYKY](/stripes/kygyky/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g3lo3k10lo26k3lo3~x2/"><circle cx="342.0" cy="183.9" r="4" fill="#3465a4"><title>Volkswagen Orange Trim</title></circle></a><a href="/variants/s7/k4o2r2o2k2o15y2~x4/"><circle cx="330.0" cy="170.9" r="4" fill="#3465a4"><title>Welsh, National</title></circle></a><a href="/variants/s6/lo24k5lo4k2lo3k2~x2/"><circle cx="456.0" cy="175.3" r="4" fill="#3465a4"><title>Schranz-Gritte (Corporate)</title></circle></a><a href="/variants/s6/lo4k6lo1k1lo16k2~x2/"><circle cx="406.5" cy="173.5" r="4" fill="#3465a4"><title>Monoch Airline</title></circle></a><a href="/variants/s10/o24lb2o4n2k6lb2o14k3lb4n8~x2/"><circle cx="304.2" cy="155.4" r="4" fill="#3465a4"><title>Dobrain (Personal)</title></circle></a><a href="/variants/s5/o13w3o1k3w1~x6/"><circle cx="358.0" cy="174.0" r="4" fill="#3465a4"><title>Glen App</title></circle></a><a href="/variants/s8/ly5k9ly2k7o10r4o35k4~x2~ly3607098-o2505058/"><circle cx="284.1" cy="130.8" r="4" fill="#3465a4"><title>Wilbers #2 (Personal)</title></circle></a><a href="/variants/s6/k4r5k2lo21g8k2~x2/"><circle cx="205.3" cy="169.9" r="4" fill="#3465a4"><title>MacDuck #2</title></circle></a><a href="/variants/s10/lo3k2lo4k5lo24k5lo4k2lo3k2~x2/"><circle cx="394.1" cy="156.3" r="4" fill="#3465a4"><title>Schranz-Gritte</title></circle></a><a href="/variants/s7/r8ly6k11ly6k11ly30r3~x2/"><circle cx="255.1" cy="198.5" r="4" fill="#3465a4"><title>Blackberry (Fashion)</title></circle></a><circle cx="342.0" cy="183.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

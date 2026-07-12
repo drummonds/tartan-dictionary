@@ -1,6 +1,13 @@
 ---
 title: "Macallan The"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Macallan"
+  url: "/clan/macallan/"
+- name: "Macallan The"
+  url: "/tartans/m/ma/macallan-the/"
 ---
 This is the **Macallan The** sett — one scale-free proportion (`lo74do6lo6do8r6do6r71dg6r6db6r71do6r6do8lo6do6lo74dy8`), colour order pattern
 [GYBYBRBRBRGRBRBYBY](/stripes/gybybrbrbrgrbrbyby/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/ri6dr4r2ri3g34dr3r2ri4r2dr3dp8lb2ri40dr4r2ri6~x2~ri2209032-r2208029/"><circle cx="273.7" cy="84.8" r="4" fill="#3465a4"><title>MacDougall #9</title></circle></a><a href="/variants/s12/r26lb2r6n2r2n2ly2n9w5ri2w4ly2~x2~r2109032-ri2406019/"><circle cx="280.6" cy="119.8" r="4" fill="#3465a4"><title>Rathmore Family Tartan</title></circle></a><a href="/variants/s16/r39dr3w2g14w2y4r4dr2r4y4w2lb12dr6r6y7w2~x2/"><circle cx="240.5" cy="93.4" r="4" fill="#3465a4"><title>North West Mounted Police Corporate Tartan</title></circle></a><a href="/variants/s16/ri39r3w2g14w2y4ri4r2ri4y4w2lb12r6ri6y7w2~x2~ri2008029-r1506028/"><circle cx="244.1" cy="93.6" r="4" fill="#3465a4"><title>North West, Mounted Police</title></circle></a><a href="/variants/s12/r26b2r6n2r2n2o2n9w5dg2w4o2~x2/"><circle cx="277.5" cy="116.1" r="4" fill="#3465a4"><title>Rathmore</title></circle></a><a href="/variants/s23/g4ri2r2ri24w2ri3w3ri3g10r10t2r4t2r10g10ri3w3ri2w2ri24r2ri2g4~x2~ri2308036-r1506019/"><circle cx="241.8" cy="120.9" r="4" fill="#3465a4"><title>Trost</title></circle></a><a href="/variants/s12/wi10w2ri3y2ri2w2ri2n14r22wi2r6ri2~x2~wi3600000-ri2109032/"><circle cx="202.6" cy="139.7" r="4" fill="#3465a4"><title>Shotts &amp; Dykehead (Corporate)</title></circle></a><a href="/variants/s13/lb6dg2lb2dg5r20ri2r2ri25dr2ri2dr4ly10r2~x2~r1706009-ri2607041/"><circle cx="175.0" cy="127.8" r="4" fill="#3465a4"><title>Strathtay (District?)</title></circle></a><a href="/variants/s16/r25do3w2o25w3y5r4do2r4y5w3db4do5r6w1db1~x2/"><circle cx="234.1" cy="96.0" r="4" fill="#3465a4"><title>MacGlashan</title></circle></a><circle cx="251.0" cy="103.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

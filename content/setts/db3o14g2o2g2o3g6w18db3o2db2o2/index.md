@@ -1,6 +1,11 @@
 ---
 title: "Raibert, Check"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Raibert, Check"
+  url: "/tartans/r/ra/raibert-check-2/"
 ---
 This is the **Raibert, Check** sett — one scale-free proportion (`db3o14g2o2g2o3g6w18db3o2db2o2`), colour order pattern
 [BRGRGRGWBRBR](/stripes/brgrgrgwbrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/w3g2r8w14t3r3g20r3t20r3t3w14r8g2w3~x2/"><circle cx="145.0" cy="178.9" r="4" fill="#3465a4"><title>Robertson dress Hunting</title></circle></a><a href="/variants/s9/g12w1r1w4r1w1r8dy2r1~x4/"><circle cx="218.0" cy="169.6" r="4" fill="#3465a4"><title>Karibu (Corporate)</title></circle></a><a href="/variants/s15/w4g3r10w20db4r4db26r4g26r4db4w20r10g3w4~x2/"><circle cx="123.2" cy="174.2" r="4" fill="#3465a4"><title>Robertson Dress Hunting Clan Tartan</title></circle></a><a href="/variants/s11/o35w4o3y7o3w4o7do15n4w36n5~x2/"><circle cx="191.3" cy="149.3" r="4" fill="#3465a4"><title>MacKellar, dress</title></circle></a><a href="/variants/s10/do2w20r2w2do3w3y3r8y26w2~x2/"><circle cx="236.1" cy="158.2" r="4" fill="#3465a4"><title>Liama, The</title></circle></a><a href="/variants/s15/lb12k8lb12w1ly2w1ly8w1ly2w1ly8w1ly2w1ly8/"><circle cx="196.8" cy="156.1" r="4" fill="#3465a4"><title>Bush (Artefact)</title></circle></a><a href="/variants/s12/w2g2r3g2r3g2r3g2r2g3lb13r1~x4/"><circle cx="212.7" cy="174.1" r="4" fill="#3465a4"><title>Princess Marina (Fashion)</title></circle></a><a href="/variants/s9/g12w1r1w4r1w1r8y2r1~x4/"><circle cx="226.3" cy="172.7" r="4" fill="#3465a4"><title>Karibu</title></circle></a><a href="/variants/s9/g26r3g3r3g3r11w27r3w5~x2/"><circle cx="223.2" cy="200.2" r="4" fill="#3465a4"><title>Lindsay Dress Red</title></circle></a><a href="/variants/s8/o20db2o2db2ly3db12w18db3~x2/"><circle cx="178.1" cy="189.5" r="4" fill="#3465a4"><title>Heriot (Fashion)</title></circle></a><circle cx="183.1" cy="171.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

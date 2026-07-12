@@ -1,6 +1,15 @@
 ---
 title: "Annan Trade Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Annan"
+  url: "/clan/annan/"
+- name: "Annan"
+  url: "/families/annan/"
+- name: "Annan"
+  url: "/tartans/a/an/annan/"
 ---
 This is the **Annan Trade Tartan** sett — one scale-free proportion (`ly15n1ly2lo2ly2n1ly3k8n10ly3`), colour order pattern
 [YBKYBYYYBY](/stripes/ybkybyyyby/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy1w2k5dy3k1ly5k1ly11k1ly1~x4/"><circle cx="221.7" cy="148.8" r="4" fill="#3465a4"><title>Braemar or Blair Atholl Trade Tartan</title></circle></a><a href="/variants/s10/do1lr2k5do3k1ly4k1ly10k1ly1~x4/"><circle cx="205.4" cy="157.2" r="4" fill="#3465a4"><title>Campbell 'Camel'</title></circle></a><a href="/variants/s7/r2w10k15ly36w2k2w2~x2/"><circle cx="252.4" cy="138.0" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><a href="/variants/s9/r16k3r16g44k3g8k3ly20k4~x2/"><circle cx="200.3" cy="152.5" r="4" fill="#3465a4"><title>MacMillan Society of Glasgow</title></circle></a><a href="/variants/s9/k10w10k10ly32k2w2k2w2dr5~x2/"><circle cx="186.2" cy="137.0" r="4" fill="#3465a4"><title>Burberry (Counterfeit #4)</title></circle></a><a href="/variants/s9/r4ly24k13ly2k4ly3k1ly3lb2~x2/"><circle cx="287.6" cy="115.7" r="4" fill="#3465a4"><title>Cardiff City Football Club (Corp)</title></circle></a><a href="/variants/s12/w3ly3r2ly13k3ly4k22ly4k3ly16b2w3~x2/"><circle cx="198.5" cy="132.4" r="4" fill="#3465a4"><title>Loch Sween</title></circle></a><a href="/variants/s10/t4k12db3t4db3k3ly36db3t2ly3~x2/"><circle cx="249.9" cy="113.4" r="4" fill="#3465a4"><title>Hughes (USA) (Name)</title></circle></a><a href="/variants/s7/g6lo2g32k8w6lo20g5~x2/"><circle cx="257.4" cy="170.9" r="4" fill="#3465a4"><title>Pollock (Name)</title></circle></a><a href="/variants/s8/g36k2g2k2g3k12lb10r20~x2/"><circle cx="216.5" cy="143.6" r="4" fill="#3465a4"><title>Georgia, State of</title></circle></a><circle cx="239.3" cy="148.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

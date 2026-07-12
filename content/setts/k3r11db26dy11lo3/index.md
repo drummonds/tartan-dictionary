@@ -1,6 +1,11 @@
 ---
 title: "Novotel, The"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Novotel, The"
+  url: "/tartans/n/no/novotel-the/"
 ---
 This is the **Novotel, The** sett — one scale-free proportion (`k3r11db26dy11lo3`), colour order pattern
 [KRBGY](/stripes/krbgy/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k1r2lb1db5ly1~x16/"><circle cx="169.1" cy="211.0" r="4" fill="#3465a4"><title>University of Trinity College</title></circle></a><a href="/variants/s6/dg10w2k10dy10db35r6~x2/"><circle cx="220.8" cy="154.3" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s6/dg3g3r22k5db22dy2~x2~dg1806142-g2408144/"><circle cx="164.6" cy="152.4" r="4" fill="#3465a4"><title>MacLeod Society of Scotland</title></circle></a><a href="/variants/s6/dg3b3r22k5ki22y2~x2~ki0604259/"><circle cx="153.0" cy="145.3" r="4" fill="#3465a4"><title>Clan MacLeod Society of Scotland, Centenary</title></circle></a><a href="/variants/s4/db8k3r4y1~x2/"><circle cx="221.2" cy="231.9" r="4" fill="#3465a4"><title>Unidentified #17</title></circle></a><a href="/variants/s6/db28r4k14r4dg33y4~x2/"><circle cx="183.4" cy="203.7" r="4" fill="#3465a4"><title>Royal College of Physicians of Edinburgh</title></circle></a><a href="/variants/s5/k7lb3dy30db30w3~x2/"><circle cx="227.6" cy="202.9" r="4" fill="#3465a4"><title>Douglas, (Brown)</title></circle></a><a href="/variants/s5/lb11dbi19db38r7k7~x2~dbi1208266-db1003265/"><circle cx="169.2" cy="223.4" r="4" fill="#3465a4"><title>Rose, Danny and Hanna (Personal)</title></circle></a><a href="/variants/s5/y3dp17do9k25w3~x2~dp1502305-do1301000/"><circle cx="177.0" cy="204.3" r="4" fill="#3465a4"><title>Teylu Coleman (Cornwall)</title></circle></a><a href="/variants/s5/w3k25n9db17ly3~x2/"><circle cx="160.4" cy="200.8" r="4" fill="#3465a4"><title>Teylu Coleman (Name)</title></circle></a><circle cx="212.5" cy="199.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

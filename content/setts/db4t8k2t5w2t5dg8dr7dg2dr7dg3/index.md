@@ -1,6 +1,15 @@
 ---
 title: "DunBroch"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan DunBroch"
+  url: "/clan/dunbroch/"
+- name: "DunBroch"
+  url: "/families/dunbroch/"
+- name: "DunBroch"
+  url: "/tartans/d/du/dunbroch/"
 ---
 This is the **DunBroch** sett — one scale-free proportion (`db4t8k2t5w2t5dg8dr7dg2dr7dg3`), colour order pattern
 [BBKBWBGBGBG](/stripes/bbkbwbgbgbg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db4lbi8k2lbi5lb2lbi5dg8dr7dg2dr7dg3~x2~lbi3203246-lb3200000/"><circle cx="42.7" cy="226.1" r="4" fill="#3465a4"><title>DunBroch (Corporate)</title></circle></a><a href="/variants/s12/db3k1db3n3g4r1g4n3db3k1db3dbi2~x8~db1204274-dbi1406275/"><circle cx="91.4" cy="245.1" r="4" fill="#3465a4"><title>New York City American District Tartan</title></circle></a><a href="/variants/s14/g5k1g5k1db5w1db5g2w1dy2db1r3dy1r3~x4/"><circle cx="49.7" cy="182.1" r="4" fill="#3465a4"><title>Festival Celtique de Québec</title></circle></a><a href="/variants/s7/t2db3k1db3n3g4r1~x8/"><circle cx="78.7" cy="261.4" r="4" fill="#3465a4"><title>New York City</title></circle></a><a href="/variants/s13/db10r3db10k7dy5w2dy5w2dy5k7g10r3g7~x2/"><circle cx="14.0" cy="205.2" r="4" fill="#3465a4"><title>Redgate (Connecticut)</title></circle></a><a href="/variants/s7/n5db4y1db4k4o4w1~x4/"><circle cx="54.4" cy="232.3" r="4" fill="#3465a4"><title>Devon, Companion</title></circle></a><a href="/variants/s11/dp2t6n1t3lb1t4k6g5k1g5dp2~x4/"><circle cx="68.1" cy="196.9" r="4" fill="#3465a4"><title>Smithers (Name)</title></circle></a><a href="/variants/s7/n5db4y1db4k4dy4w1~x4/"><circle cx="68.9" cy="239.3" r="4" fill="#3465a4"><title>Devon Companion</title></circle></a><a href="/variants/s12/w3dr3k3dr10t7db8g4db3g3db3g13lo3~x2/"><circle cx="24.6" cy="190.7" r="4" fill="#3465a4"><title>Chattahoochee River</title></circle></a><a href="/variants/s7/k4n4lo1n4r4db4w1~x8~r2406019/"><circle cx="50.4" cy="242.9" r="4" fill="#3465a4"><title>Blackdown Hills Corporate Tartan</title></circle></a><circle cx="60.7" cy="230.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

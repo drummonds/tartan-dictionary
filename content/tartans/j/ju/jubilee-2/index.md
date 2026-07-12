@@ -37,6 +37,6 @@ The nearest NAMED TARTANS — each represented by its master sett — by ΔTarta
 
 ## Neighbour map
 
-Every grey dot is one of 10225 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth.
+Every grey dot is one of 10225 named tartans (their master setts) placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its master cloth. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud-tartans.v1.png" width="640" height="380"/><a href="/variants/s17/g3lb24g8lb12g44dr6g44lb48g6lb48g44lo6g44lb12g8lb24g3/"><circle cx="351.9" cy="202.6" r="4" fill="#3465a4"><title>Jubilee</title></circle></a><a href="/variants/s12/b13g6y2g3y2g6lb3g2lb3g12r3g6~x2/"><circle cx="296.5" cy="236.4" r="4" fill="#3465a4"><title>O'Brien</title></circle></a><circle cx="297.3" cy="237.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Robitaille, Jean-Francois (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Robitaille, Jean-Francois"
+  url: "/tartans/r/ro/robitaille-jean-francois/"
 ---
 This is the **Robitaille, Jean-Francois (Personal)** sett — one scale-free proportion (`db21w2ly3w2ly2w2k12w2g6db15r2lyi4`), colour order pattern
 [BWYWYWKWGBRY](/stripes/bwywywkwgbry/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2y4~x2/"><circle cx="142.4" cy="113.1" r="4" fill="#3465a4"><title>Robitaille, Jean-Francois (Personal)</title></circle></a><a href="/variants/s13/g12db3n3w2n3db3g5k8db31lb5db8w4r6~x2/"><circle cx="152.6" cy="93.1" r="4" fill="#3465a4"><title>Twenty First Century</title></circle></a><a href="/variants/s12/db24y4n4dp4db24r4w3k18w9r4k3w2~x2/"><circle cx="122.4" cy="104.0" r="4" fill="#3465a4"><title>Queen Mary RMS</title></circle></a><a href="/variants/s11/w2db3lb3db13k13db4r2db4g12lp3r1~x2/"><circle cx="94.6" cy="122.3" r="4" fill="#3465a4"><title>Fitzgerald Hunting Family Tartan</title></circle></a><a href="/variants/s10/n3lb18dr2lb18g3db8k20g2k5lo3~x2/"><circle cx="102.9" cy="124.1" r="4" fill="#3465a4"><title>Royal Air Force Lossiemouth</title></circle></a><a href="/variants/s11/db50k10db6k10db6g5lp5g5o8g23w5~x2/"><circle cx="163.4" cy="128.8" r="4" fill="#3465a4"><title>Scottish Hockey Union (Sports)</title></circle></a><a href="/variants/s11/db2w2db21ly3db4ri3db3r4g18t4w2~x2~ri2109032-r1707008/"><circle cx="170.9" cy="130.7" r="4" fill="#3465a4"><title>Sons of Scotland (Corporate)</title></circle></a><a href="/variants/s11/w2db3lb3db13k13db4r2db4g12b3r1~x2/"><circle cx="98.6" cy="124.1" r="4" fill="#3465a4"><title>Fitzgerald, hunting</title></circle></a><a href="/variants/s12/db4dr1k3ly1k1lr1k1dbi8lb12dr1lb2k1~x4~db1106275-dbi1406275/"><circle cx="99.6" cy="96.9" r="4" fill="#3465a4"><title>MacLean (Dress)</title></circle></a><a href="/variants/s11/db4y2db24k2db5r3k14g14w3r3db3~x2/"><circle cx="157.6" cy="123.1" r="4" fill="#3465a4"><title>Czech National (District)</title></circle></a><circle cx="141.5" cy="112.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

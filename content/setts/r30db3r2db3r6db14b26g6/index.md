@@ -1,6 +1,15 @@
 ---
 title: "Cranston, dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cranston"
+  url: "/clan/cranston/"
+- name: "Cranston"
+  url: "/families/cranston/"
+- name: "Cranston, dress"
+  url: "/tartans/c/cr/cranston-dress-2/"
 ---
 This is the **Cranston, dress** sett — one scale-free proportion (`r30db3r2db3r6db14b26g6`), colour order pattern
 [GBBRBRBR](/stripes/gbbrbrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r30db3r2db3r6db14g26dg6~g2408144-dg1806142/"><circle cx="242.0" cy="179.6" r="4" fill="#3465a4"><title>Cranston Dress Family Tartan</title></circle></a><a href="/variants/s8/r15db2r1db2r3db7g13dg3~x2~g2408144-dg1806142/"><circle cx="234.7" cy="182.5" r="4" fill="#3465a4"><title>Cranston Dress</title></circle></a><a href="/variants/s9/r5db1r5b13db8lb5r5w1db3~x2/"><circle cx="164.3" cy="191.8" r="4" fill="#3465a4"><title>Unnamed 2</title></circle></a><a href="/variants/s8/lb1n12r1db1r1db2r5lb1~x4/"><circle cx="345.1" cy="182.9" r="4" fill="#3465a4"><title>Tenmaya Check</title></circle></a><a href="/variants/s11/dy2r11db1r1db1r1db4dbi6dy1dbi1ly1~x4~db1204274-dbi1706275/"><circle cx="245.1" cy="153.4" r="4" fill="#3465a4"><title>NHK Asaichi</title></circle></a><a href="/variants/s10/dr3b3dr18r2dr2r3dr2r4b18y2~x2/"><circle cx="288.0" cy="186.7" r="4" fill="#3465a4"><title>FC Barcelona (Corporate)</title></circle></a><a href="/variants/s9/t27db8t14db8t14db26r84db6r12/"><circle cx="316.4" cy="183.3" r="4" fill="#3465a4"><title>POF (Fashion)</title></circle></a><a href="/variants/s6/db1r16db6y4db6w1~x4/"><circle cx="295.3" cy="186.1" r="4" fill="#3465a4"><title>Superfast Ferries (Corporate)</title></circle></a><a href="/variants/s6/y2db1r16db16r1g2~x2/"><circle cx="307.8" cy="172.8" r="4" fill="#3465a4"><title>Galloway Dress District Tartan</title></circle></a><a href="/variants/s6/dg2r1db16r16db1y2~x2/"><circle cx="311.7" cy="173.5" r="4" fill="#3465a4"><title>Galloway Dress (Yellow Line)</title></circle></a><circle cx="261.8" cy="182.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

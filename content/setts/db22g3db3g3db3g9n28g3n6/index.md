@@ -1,6 +1,13 @@
 ---
 title: "Manx Centenary"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Manx"
+  url: "/clan/manx/"
+- name: "Manx Centenary"
+  url: "/tartans/m/ma/manx-centenary/"
 ---
 This is the **Manx Centenary** sett — one scale-free proportion (`db22g3db3g3db3g9n28g3n6`), colour order pattern
 [BGBGBGBGB](/stripes/bgbgbgbgb/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db20dy2db2dy2db2dy6g15dy2~x2/"><circle cx="339.3" cy="230.9" r="4" fill="#3465a4"><title>Gammell (Brown) (Personal)</title></circle></a><a href="/variants/s6/dbi7db2dbi25db10g21db2~x2~dbi1605267-db1004274/"><circle cx="369.1" cy="264.7" r="4" fill="#3465a4"><title>Sugiyama</title></circle></a><a href="/variants/s13/db11do1db1do1db1do8g8do1g8do8db8do1db1~x2/"><circle cx="294.3" cy="228.8" r="4" fill="#3465a4"><title>Tyneside Scottish District Tartan</title></circle></a><a href="/variants/s8/w3n36b6dg6b6dg12b32w3/"><circle cx="321.1" cy="226.4" r="4" fill="#3465a4"><title>Tenmaya</title></circle></a><a href="/variants/s7/g10db2g2db6t5db1t2~x2~db1406275-t2503227/"><circle cx="293.9" cy="250.7" r="4" fill="#3465a4"><title>Norwich No.017</title></circle></a><a href="/variants/s8/db32do3db3do3db3do10g24dr3~x2/"><circle cx="323.3" cy="215.6" r="4" fill="#3465a4"><title>Gammell Family Tartan</title></circle></a><a href="/variants/s6/dbi7db2dbi25db10g21db2~x2~dbi1406275-db1204274/"><circle cx="363.6" cy="262.0" r="4" fill="#3465a4"><title>Sugiyama Jogakuen University (Corp)</title></circle></a><a href="/variants/s8/dg36db3dg3db3dg6t34dr4t4~x2/"><circle cx="380.0" cy="214.9" r="4" fill="#3465a4"><title>Wcwm 1530</title></circle></a><a href="/variants/s9/dg2r1dg8db2dg1db2dg1db10r2~x4/"><circle cx="370.8" cy="225.7" r="4" fill="#3465a4"><title>Barnaby Brown Pibroch</title></circle></a><a href="/variants/s13/db8dy1db1dy1db1dy8g8dy1g8dy8db8dy1db1~x6/"><circle cx="273.4" cy="242.2" r="4" fill="#3465a4"><title>Tyneside Scottish (Blue) (District)</title></circle></a><circle cx="347.9" cy="245.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

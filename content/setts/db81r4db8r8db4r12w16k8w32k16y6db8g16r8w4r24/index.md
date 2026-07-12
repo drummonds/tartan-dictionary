@@ -1,6 +1,11 @@
 ---
 title: "Royal Stuart/Stewart (Variant)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Royal Stewart"
+  url: "/tartans/r/ro/royal-stewart-4/"
 ---
 This is the **Royal Stuart/Stewart (Variant)** sett — one scale-free proportion (`db81r4db8r8db4r12w16k8w32k16y6db8g16r8w4r24`), colour order pattern
 [BRBRBRWKWKGBGRWR](/stripes/brbrbrwkwkgbgrwr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db62ly3k3r15db18w3ly28n12k3n5ly5n5db6k12w8/"><circle cx="159.6" cy="73.5" r="4" fill="#3465a4"><title>Clare County Crest (Fashion)</title></circle></a><a href="/variants/s16/r3db14k12lb24k1w3k1lb24k12db2k2db2k2db8y1r3~x2/"><circle cx="147.6" cy="73.3" r="4" fill="#3465a4"><title>Royal Scottish Country Dance Society</title></circle></a><a href="/variants/s14/db20w3db4w3db4w3r22g2k1g2dy16w1k2w1~x2/"><circle cx="123.2" cy="77.1" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield Traditional</title></circle></a><a href="/variants/s18/dy2db2r4db21k1db1g9r3db2r3k10db3w2db3w28dy2r4db2~x2/"><circle cx="105.0" cy="50.1" r="4" fill="#3465a4"><title>Cooper Dress (Dalgleish #2) (Dance)</title></circle></a><a href="/variants/s18/db2r4o2w28db3w2db3k10r3db2r3g9db1k1db21r4db2o2~x2/"><circle cx="105.4" cy="50.1" r="4" fill="#3465a4"><title>Cooper, dress</title></circle></a><a href="/variants/s19/ly6db2lo2db1k1db1lyi4lb2lyi2db17k2lb3k8lb3k2lb17k2lb2lyi2~x2~ly3104101-lyi3407090/"><circle cx="93.6" cy="80.5" r="4" fill="#3465a4"><title>Ferrari (Name)</title></circle></a><a href="/variants/s21/k1dp4w13dp1k5b4w1b4k5w1k3r5n3w1n3r5k13r1w20n3r1~x2/"><circle cx="90.6" cy="66.6" r="4" fill="#3465a4"><title>Aberdeen Dress (Dance)</title></circle></a><a href="/variants/s15/lb30g8r2k8y2k8r2g8db11r2lb10r3lb2r2db3~x2/"><circle cx="116.4" cy="95.3" r="4" fill="#3465a4"><title>Mungall Family Tartan</title></circle></a><a href="/variants/s9/w37k4db12t12w2lb2dp23k4dp6~x2/"><circle cx="82.5" cy="94.1" r="4" fill="#3465a4"><title>Hebridean Arisaid Blue (Dance)</title></circle></a><a href="/variants/s19/ly6lb2dy2lb1k1lb1y4db2y2lb17k2db3k8db3k2db17k2db2y2~x2/"><circle cx="97.6" cy="80.4" r="4" fill="#3465a4"><title>Ferrari (Coldrerio)</title></circle></a><circle cx="129.0" cy="73.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

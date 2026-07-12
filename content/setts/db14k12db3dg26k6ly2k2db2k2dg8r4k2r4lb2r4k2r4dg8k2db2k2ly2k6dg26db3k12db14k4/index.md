@@ -1,6 +1,15 @@
 ---
 title: "Stewart"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Stewart"
+  url: "/clan/stewart/"
+- name: "Stewart"
+  url: "/families/stewart/"
+- name: "Stewart"
+  url: "/tartans/s/st/stewart-4/"
 ---
 This is the **Stewart** sett — one scale-free proportion (`db14k12db3dg26k6ly2k2db2k2dg8r4k2r4lb2r4k2r4dg8k2db2k2ly2k6dg26db3k12db14k4`), colour order pattern
 [BKBGKYKBKGRKRWRKRGKBKYKGBKBK](/stripes/bkbgkykbkgrkrwrkrgkbkykgbkbk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db50k10db6k10db6dg5lp5dg5o8dg23w5~x2~db1204274-dg1405139/"><circle cx="113.7" cy="117.9" r="4" fill="#3465a4"><title>Scottish Hockey Union</title></circle></a><a href="/variants/s23/db16k16g2k2g2k2g16k2g2k2g2k16y16k2db2r2k2y16k16db16k2w3k2~x2/"><circle cx="91.1" cy="110.3" r="4" fill="#3465a4"><title>Ferrazza in Guidonia, Rome (Personal)</title></circle></a><a href="/variants/s23/k3dy2k6g3k3g21db18r2db2r2db2r3db2r2db2r2db18g21k3g3k6lr2k3~x2/"><circle cx="107.5" cy="91.8" r="4" fill="#3465a4"><title>Wood Clan/Family Tartan</title></circle></a><a href="/variants/s32/db15k3db3k3db3k15g15r1g1r4g1r1g15k15db15k3db4k3db15k15g15y1g1y4g1y1g15k15db3k3db3k3~x2/"><circle cx="120.8" cy="98.6" r="4" fill="#3465a4"><title>Gordon #4</title></circle></a><a href="/variants/s24/r12db6k8g6r1g6r2g3k1y2k1g1r1g2r1g7k9db11k1w2k1db11k9db8~x2/"><circle cx="65.3" cy="108.7" r="4" fill="#3465a4"><title>MacDonald of Pr Edward Island Tartan</title></circle></a><a href="/variants/s24/g17dg1dbi2k6g2dg12g2k6dbi2dg1dbi18w2dbi18dg1dbi2k6g2dg12g2k6dbi2dg1g17db4~x2~dbi1406275-db1204274/"><circle cx="107.0" cy="93.6" r="4" fill="#3465a4"><title>Clack Personal Tartan</title></circle></a><a href="/variants/s21/k15db15r1db15k15y1g15k1db1k1g15y1k15db15w1db15k15y1g15db1k1~x2/"><circle cx="114.0" cy="104.2" r="4" fill="#3465a4"><title>Perthshire Highland Society (Corp)</title></circle></a><a href="/variants/s11/k6g20t2dr5t2k20lo3db20g26dr3db5~x2~g2203152/"><circle cx="135.1" cy="115.6" r="4" fill="#3465a4"><title>Stephenson</title></circle></a><a href="/variants/s27/r2db14k8g2k1g2k1g4k1g2k1g2db4g2db4g2k1g2k1g4k1g2k1g2k8db14y2~x2/"><circle cx="153.5" cy="97.5" r="4" fill="#3465a4"><title>Duchess of Albany Family Tartan</title></circle></a><a href="/variants/s23/db15k1db1k1db1k12g9r1g9k1w1k1g9r1g9k12r1db9r2db1r1db6w1~x2/"><circle cx="119.4" cy="101.5" r="4" fill="#3465a4"><title>Rankine</title></circle></a><circle cx="120.0" cy="86.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

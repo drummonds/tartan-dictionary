@@ -1,6 +1,11 @@
 ---
 title: "Labrador Club of Scotland (Corporate"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Labrador Club of Scotland (Corporate"
+  url: "/tartans/l/la/labrador-club-of-scotland-corporate/"
 ---
 This is the **Labrador Club of Scotland (Corporate** sett — one scale-free proportion (`o21lyi4dy5lyi4o5k21dg21ly5`), colour order pattern
 [RYGYRKGY](/stripes/rygyrkgy/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/o21db4dr5db4o5k21g21ly5~x2/"><circle cx="47.9" cy="189.6" r="4" fill="#3465a4"><title>Caledonian Labrador Retrievers</title></circle></a><a href="/variants/s8/dr3dg2n2dg3k6b2ly10b2~x2/"><circle cx="39.1" cy="191.4" r="4" fill="#3465a4"><title>Burnfoot Check</title></circle></a><a href="/variants/s7/g4n12lo2k10y10lo3y2~x2/"><circle cx="70.9" cy="217.5" r="4" fill="#3465a4"><title>Rothesay</title></circle></a><a href="/variants/s8/dp21lg4dy5lg4dp5k21dg21y5~x2~lg3105139-dg1804158/"><circle cx="65.9" cy="194.8" r="4" fill="#3465a4"><title>Caledonian Labrador Retrievers</title></circle></a><a href="/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/"><circle cx="96.0" cy="204.9" r="4" fill="#3465a4"><title>Corcoran of Sherbrooke (Personal)</title></circle></a><a href="/variants/s7/k20y4db13w4g30w4r13~x2/"><circle cx="57.8" cy="179.8" r="4" fill="#3465a4"><title>South Africa 1994 (Fashion)</title></circle></a><a href="/variants/s12/y4g20r3db11lb3r11g11r3k20r3k3lb3~x2/"><circle cx="49.6" cy="154.8" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/variants/s6/r10k17lb10dp17g40y10~x2/"><circle cx="61.5" cy="223.1" r="4" fill="#3465a4"><title>Gallowater, Original</title></circle></a><a href="/variants/s9/g13w2g10k5r13k3r5db15o5~x2/"><circle cx="55.1" cy="186.8" r="4" fill="#3465a4"><title>Glen Chalmadale</title></circle></a><a href="/variants/s9/db3w2g14r14k2db7k9dy2k2~x2/"><circle cx="36.2" cy="165.6" r="4" fill="#3465a4"><title>Black Hills</title></circle></a><circle cx="52.2" cy="191.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

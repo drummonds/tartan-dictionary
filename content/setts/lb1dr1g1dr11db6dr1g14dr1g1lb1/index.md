@@ -1,6 +1,13 @@
 ---
 title: "Glen Tilt #1"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Glen"
+  url: "/clan/glen/"
+- name: "Glen Tilt"
+  url: "/tartans/g/gl/glen-tilt/"
 ---
 This is the **Glen Tilt #1** sett — one scale-free proportion (`lb1dr1g1dr11db6dr1g14dr1g1lb1`), colour order pattern
 [WBGBBBGBGW](/stripes/wbgbbbgbgw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w1dr1g1dr11lb6dr1g14dr1g1w1~x4/"><circle cx="269.5" cy="171.2" r="4" fill="#3465a4"><title>Glen Tilt #2</title></circle></a><a href="/variants/s10/w1r1g1r11db6r1g14r1g1w1~x4/"><circle cx="253.1" cy="153.0" r="4" fill="#3465a4"><title>Glen Tilt District Tartan</title></circle></a><a href="/variants/s9/dg3dr1lb5dr1dg2dr1dg1dr9dy2~x4/"><circle cx="280.5" cy="211.5" r="4" fill="#3465a4"><title>Redwood Dress</title></circle></a><a href="/variants/s9/dg3dr1lb5dr1dg2dr1dg1dr9do2~x4/"><circle cx="284.0" cy="213.5" r="4" fill="#3465a4"><title>Redwood Dress (Fashion)</title></circle></a><a href="/variants/s11/dr16dg1g2dg1dr4dg5lb1dg5g14dg1lb2~x2/"><circle cx="282.5" cy="184.4" r="4" fill="#3465a4"><title>Markson (Personal)</title></circle></a><a href="/variants/s9/db12dr1db1dr1db1dr4g12y1g2~x4/"><circle cx="287.3" cy="195.9" r="4" fill="#3465a4"><title>Durie (Clan)</title></circle></a><a href="/variants/s9/g20db2g2db2g2db8dr24db2dr3~x2/"><circle cx="320.8" cy="210.7" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/variants/s9/g28dr12g4db20lo2db3lo2db3g7~x2/"><circle cx="296.6" cy="196.5" r="4" fill="#3465a4"><title>Cork Irish County Tartan</title></circle></a><a href="/variants/s8/dy28g2dy4db18g23db2g3ly4~x2/"><circle cx="270.0" cy="209.5" r="4" fill="#3465a4"><title>Eastern Western Motor Group, Dalbraith</title></circle></a><a href="/variants/s10/y2w1db4w1db1y1dg12y1dg2y1~x4/"><circle cx="323.4" cy="175.7" r="4" fill="#3465a4"><title>Henry, David G (Personal)</title></circle></a><circle cx="292.0" cy="178.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

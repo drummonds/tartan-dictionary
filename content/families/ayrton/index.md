@@ -1,6 +1,11 @@
 ---
 title: "Ayrton"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ayrton"
+  url: "/clan/ayrton/"
 ---
 A family of [Clan Ayrton](/clan/ayrton/).
 

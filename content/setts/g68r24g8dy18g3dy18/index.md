@@ -1,6 +1,11 @@
 ---
 title: "MacMillan/Isetan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "MacMillan/Isetan"
+  url: "/tartans/m/ma/macmillan-isetan/"
 ---
 This is the **MacMillan/Isetan** sett — one scale-free proportion (`g68r24g8dy18g3dy18`), colour order pattern
 [GGGGRG](/stripes/ggggrg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg68r24dg8ly18dg3ly18~x2/"><circle cx="340.4" cy="184.5" r="4" fill="#3465a4"><title>MacMillan/Isetan (Corporate)</title></circle></a><a href="/variants/s7/g1dy8g8r1g8dy8w1~x2/"><circle cx="296.9" cy="244.3" r="4" fill="#3465a4"><title>MacKinnon Hunting Clan Tartan</title></circle></a><a href="/variants/s7/g1dy8g8r1g8dy8w1~x4/"><circle cx="296.9" cy="244.3" r="4" fill="#3465a4"><title>MacKinnon Htg (Clan)</title></circle></a><a href="/variants/s6/dy6g2dy29g29dy2g6~x2/"><circle cx="443.3" cy="255.0" r="4" fill="#3465a4"><title>Harmony 11 #2</title></circle></a><a href="/variants/s7/g3dy2g18dy21lo2g3lo2~x2/"><circle cx="358.5" cy="230.8" r="4" fill="#3465a4"><title>Prince David #1 (Royal)</title></circle></a><a href="/variants/s7/r3g22db16g14r2g6y1~x2/"><circle cx="396.8" cy="189.6" r="4" fill="#3465a4"><title>Scottish Scouts Corporate Tartan</title></circle></a><a href="/variants/s9/r3g3y1r18w1g21y1g1y3~x2/"><circle cx="355.5" cy="152.6" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh Clan Tartan</title></circle></a><a href="/variants/s7/r30g3db5g21r3g21db2~x2/"><circle cx="349.7" cy="207.8" r="4" fill="#3465a4"><title>Scottish Piping Soc. of London (Corp</title></circle></a><a href="/variants/s6/dg11y1dg1y6k1y1~x4/"><circle cx="393.9" cy="209.4" r="4" fill="#3465a4"><title>Big Spruce Brewing</title></circle></a><a href="/variants/s6/dg11y1dg1y6k1y1~x8/"><circle cx="393.9" cy="209.4" r="4" fill="#3465a4"><title>Big Spruce Brewing</title></circle></a><circle cx="387.8" cy="204.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

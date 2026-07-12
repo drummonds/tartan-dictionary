@@ -1,6 +1,15 @@
 ---
 title: "MacKinnon Hunting #3"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacKinnon"
+  url: "/clan/mackinnon/"
+- name: "MacKinnon"
+  url: "/families/mackinnon/"
+- name: "MacKinnon Hunting"
+  url: "/tartans/m/ma/mackinnon-hunting-2/"
 ---
 This is the **MacKinnon Hunting #3** sett — one scale-free proportion (`dy8w1dy8g8r1g8dy8g1dy8g8r1g8`), colour order pattern
 [GRGGGGGRGGWG](/stripes/grgggggrggwg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g1dy8g8r1g8dy8w1~x2/"><circle cx="296.9" cy="244.3" r="4" fill="#3465a4"><title>MacKinnon Hunting Clan Tartan</title></circle></a><a href="/variants/s7/g1dy8g8r1g8dy8w1~x4/"><circle cx="296.9" cy="244.3" r="4" fill="#3465a4"><title>MacKinnon Htg (Clan)</title></circle></a><a href="/variants/s12/r3g8r2g18dr5g3do3g3do16g3do3g3~x2/"><circle cx="318.2" cy="202.4" r="4" fill="#3465a4"><title>Dublin</title></circle></a><a href="/variants/s11/g4r2db4r2g8r2db4r2g8r2y1~x3/"><circle cx="248.2" cy="220.9" r="4" fill="#3465a4"><title>Hall</title></circle></a><a href="/variants/s7/g24r9g4dg19y2dg6g7~x2/"><circle cx="309.4" cy="230.2" r="4" fill="#3465a4"><title>Doyle</title></circle></a><a href="/variants/s11/g6r3db6r3g12r3db6r3g12r3y2~x2/"><circle cx="235.8" cy="233.4" r="4" fill="#3465a4"><title>Hall (1994)</title></circle></a><a href="/variants/s9/g4y2g17dg2r4dg2g3dg11g2~x2/"><circle cx="347.3" cy="220.1" r="4" fill="#3465a4"><title>Armagh Irish County Tartan</title></circle></a><a href="/variants/s8/dg13ly2dg2ly2dg4o10g2o2~x4/"><circle cx="285.4" cy="223.3" r="4" fill="#3465a4"><title>Oakwood</title></circle></a><a href="/variants/s14/g19dy3g19r3g19dy3g19r3g3r21lb3r21g3r3~x2/"><circle cx="323.0" cy="204.0" r="4" fill="#3465a4"><title>Burnett of Powis (Modern) (Personal)</title></circle></a><a href="/variants/s8/g28db9dg18w3dg18db9g28r3~x2/"><circle cx="240.6" cy="226.4" r="4" fill="#3465a4"><title>Simple Technology</title></circle></a><circle cx="288.6" cy="238.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Gullane"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Gullane"
+  url: "/tartans/g/gu/gullane/"
 ---
 This is the **Gullane** sett — one scale-free proportion (`k10n2k3r2w1r3w1r4w1o2w1o3w1o4w1n2w1n3w1n4w1k4w2`), colour order pattern
 [KBKRWRWRWRWRWRWBWBWBWKW](/stripes/kbkrwrwrwrwrwrwbwbwbwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s22/k15lr2g14dr2g14lr2k15lr3db3lr19db2dr2db2lr18db3lr3k15db10k2db2k2db10~x2/"><circle cx="65.9" cy="127.2" r="4" fill="#3465a4"><title>Colquhoun Dress</title></circle></a><a href="/variants/s12/r16lb10k14w2k4w3k4g26r11k4r4w2~x2/"><circle cx="60.5" cy="112.8" r="4" fill="#3465a4"><title>Stewart/Stuart - Prince Charles Edward</title></circle></a><a href="/variants/s11/db10k2g2r2g2k2w2k2w4k1w2~x4/"><circle cx="34.1" cy="138.2" r="4" fill="#3465a4"><title>Highfield Dress</title></circle></a><a href="/variants/s19/w7k1db16k2db1k2db4k8w2k8y8w2y8r8w2r8w2r1w4~x2/"><circle cx="37.9" cy="120.0" r="4" fill="#3465a4"><title>German</title></circle></a><a href="/variants/s15/db2k1db6k1dr5y3dr5k2w3k2w9k1w2k1y2~x2/"><circle cx="50.0" cy="151.9" r="4" fill="#3465a4"><title>Unidentified #11</title></circle></a><a href="/variants/s9/k20w3lb20k3r3dg20r10w3k20~x2/"><circle cx="33.9" cy="156.3" r="4" fill="#3465a4"><title>Soutar/Souter</title></circle></a><a href="/variants/s15/db2k1db6k1r5y3r5k2w3k2w9k1w2k1y2~x2/"><circle cx="48.4" cy="147.5" r="4" fill="#3465a4"><title>Unidentified 32</title></circle></a><a href="/variants/s22/db6r2db7r2db7r2k7dg8r2dg3r2dg5w2dg5r2dg3r2dg8k9w15k9r2~x2/"><circle cx="25.6" cy="150.6" r="4" fill="#3465a4"><title>MacDonell of Glengarry Dress</title></circle></a><a href="/variants/s22/db6r2db7r2db7r2k7g8r2g3r2g5w2g5r2g3r2g8k9w15k9r2~x2/"><circle cx="19.9" cy="152.0" r="4" fill="#3465a4"><title>MacDonell of Glengarry, dress</title></circle></a><a href="/variants/s20/lb3k3o1k1o1k1o1k1o3lb2k1y1k1o1k2db2w7k1w2o1~x2/"><circle cx="14.9" cy="129.5" r="4" fill="#3465a4"><title>Unidentified 29</title></circle></a><circle cx="41.4" cy="125.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

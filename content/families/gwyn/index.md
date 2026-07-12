@@ -1,6 +1,11 @@
 ---
 title: "Gwyn"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Gwyn"
+  url: "/clan/gwyn/"
 ---
 A family of [Clan Gwyn](/clan/gwyn/).
 

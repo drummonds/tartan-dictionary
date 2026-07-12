@@ -1,6 +1,11 @@
 ---
 title: "Alamudi (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Alamudi"
+  url: "/tartans/a/al/alamudi/"
 ---
 This is the **Alamudi (Corporate)** sett — one scale-free proportion (`k13w3dr3k34dg21k13dg8k5dg3k2dg1db1`), colour order pattern
 [BGKGKGKGKBWK](/stripes/bgkgkgkgkbwk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k9n2o2n2k18n2k2lp1n19k33dp2~x2~n1900000-o2500000/"><circle cx="374.5" cy="82.4" r="4" fill="#3465a4"><title>Pride of Scotland Contemporary</title></circle></a><a href="/variants/s10/k8n1k40n1k16n16dt6n3dr3n6~x2/"><circle cx="376.6" cy="100.4" r="4" fill="#3465a4"><title>Lochnagar Dark Fashion Tartan</title></circle></a><a href="/variants/s12/dg6k6r1w1k6dg32k6r1w1k6dg6y2~x4/"><circle cx="339.2" cy="82.7" r="4" fill="#3465a4"><title>Schwarzen Keiler, Die</title></circle></a><a href="/variants/s7/k4n2k46db20k6dbi3g4~x2~db1404274-dbi1406275/"><circle cx="379.5" cy="104.1" r="4" fill="#3465a4"><title>Silver Thistle</title></circle></a><a href="/variants/s11/k10n2oi2n2k14n2k2lp1n12k24o2~x2~n1900000-oi2500000/"><circle cx="351.6" cy="96.5" r="4" fill="#3465a4"><title>Pride of Scotland Platinum</title></circle></a><a href="/variants/s11/dt8k2o2dt2k13dt2k2ly1dt14k26ly2~x2/"><circle cx="339.7" cy="115.5" r="4" fill="#3465a4"><title>Pride of Scotland Hunting/Dark Fashion Tartan</title></circle></a><a href="/variants/s11/dt8k2o2dt2k13dt2k2lr1dt14k26lr2~x2/"><circle cx="341.1" cy="115.4" r="4" fill="#3465a4"><title>Pride of Scotland, Dark (Fashion)</title></circle></a><a href="/variants/s12/k2dg4k6n2k31ly2k1ly2k16dg20ly1n2~x2~dg1804158-ly2706114/"><circle cx="345.6" cy="92.4" r="4" fill="#3465a4"><title>Entier</title></circle></a><a href="/variants/s10/dt8k2dt2k14dt2k2lr1dt19k27lr2~x2/"><circle cx="375.8" cy="140.5" r="4" fill="#3465a4"><title>Pride of Scotland, Muted (Fashion)</title></circle></a><a href="/variants/s8/db9dg5w1dg15k2dg1k44r1~x2/"><circle cx="367.3" cy="84.0" r="4" fill="#3465a4"><title>Ataç, H.M. &amp; I.C. (Personal)</title></circle></a><circle cx="354.2" cy="93.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

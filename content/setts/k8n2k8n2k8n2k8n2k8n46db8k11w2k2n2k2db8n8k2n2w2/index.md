@@ -1,6 +1,15 @@
 ---
 title: "Hood (Artefact)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hood"
+  url: "/clan/hood/"
+- name: "Hood"
+  url: "/families/hood/"
+- name: "Hood"
+  url: "/tartans/h/ho/hood/"
 ---
 This is the **Hood (Artefact)** sett — one scale-free proportion (`k8n2k8n2k8n2k8n2k8n46db8k11w2k2n2k2db8n8k2n2w2`), colour order pattern
 [KBKBKBKBKBBKWKBKBBKBW](/stripes/kbkbkbkbkbbkwkbkbbkbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s22/o3k2o4n15k2ly2k2ly2k2o6k45o6k2ly2k2ly2k2n15o4k2o3n2~x2~o2500000-n1900000-ly2503076/"><circle cx="232.5" cy="58.7" r="4" fill="#3465a4"><title>Granton</title></circle></a><a href="/variants/s21/y8db4y1db1y1db24k8y4db1y1db1y4db8y1db1y1db1k8y8db2y2~x4/"><circle cx="277.6" cy="103.8" r="4" fill="#3465a4"><title>Matheson Hunting (Blue)</title></circle></a><a href="/variants/s10/db50k12o2k2w2k2o12db7k7w2~x2~o2500000/"><circle cx="224.1" cy="77.6" r="4" fill="#3465a4"><title>Skye</title></circle></a><a href="/variants/s21/lo7db3lo2db2lo2db30k9lb2db2lo2db2lo3db5lo2db2lo2db2k9lo5db3lo4~x2/"><circle cx="231.9" cy="94.9" r="4" fill="#3465a4"><title>Blue Matheson Hunting (Kinloch Anderson)</title></circle></a><a href="/variants/s21/ly3k2db2dg24db1k4db2k6dg6ly2dg10ly2dg6k6db2k4db1k24dg2db4ly1~x4/"><circle cx="234.8" cy="96.0" r="4" fill="#3465a4"><title>Wcwm 1538</title></circle></a><a href="/variants/s14/g3t36k9r3k3r3k36r3k3r3k9t36g3t2~x2~g2408144/"><circle cx="235.9" cy="105.7" r="4" fill="#3465a4"><title>Home (Clans Originaux)</title></circle></a><a href="/variants/s40/n2k2n8db8k2n2k2w2k11db8n46k8n2k8n2k8n2k8n2k8n2k8n2k8n2k8n2k8n46db8k11w2k2n2k2db8n8k2n2w2~x2/"><circle cx="242.3" cy="53.6" r="4" fill="#3465a4"><title>Hood</title></circle></a><a href="/variants/s17/g18k1db3k1g3k8db18k1y1k5y1k1db18k8g2k1db2~x2/"><circle cx="220.4" cy="113.7" r="4" fill="#3465a4"><title>Hope-Vere/Weir</title></circle></a><a href="/variants/s10/y3k1g22k20dp20g2dp2g2dp2g3~x4~dp1607327/"><circle cx="182.1" cy="103.0" r="4" fill="#3465a4"><title>Urbino</title></circle></a><a href="/variants/s15/k30n33k1ly1k1n8k1ly2k1n3k1ly3w2k1ly7~x2/"><circle cx="259.2" cy="63.8" r="4" fill="#3465a4"><title>Black Onyx</title></circle></a><circle cx="248.1" cy="78.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

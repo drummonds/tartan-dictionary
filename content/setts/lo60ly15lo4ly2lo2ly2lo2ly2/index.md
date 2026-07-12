@@ -1,6 +1,11 @@
 ---
 title: "Masai Shuka 09 (Artefact)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Masai Shuka 09"
+  url: "/tartans/m/ma/masai-shuka-09/"
 ---
 This is the **Masai Shuka 09 (Artefact)** sett — one scale-free proportion (`lo60ly15lo4ly2lo2ly2lo2ly2`), colour order pattern
 [YYYYYYYY](/stripes/yyyyyyyy/). It is recorded as a single **variant**, below.

@@ -1,6 +1,11 @@
 ---
 title: "Sutherland of Duffus"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Sutherland"
+  url: "/clan/sutherland/"
 ---
 A family of [Clan Sutherland](/clan/sutherland/).
 

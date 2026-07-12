@@ -1,6 +1,11 @@
 ---
 title: "New Hampshire District Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "New Hampshire"
+  url: "/tartans/n/ne/new-hampshire-2/"
 ---
 This is the **New Hampshire District Tartan** sett — one scale-free proportion (`g20k1g1k6w1k6dp1k1dp4r3dp14r3dp4k1dp1k6w1k6g1k1g8`), colour order pattern
 [GKGKWKBKBRBRBKBKWKGKG](/stripes/gkgkwkbkbrbrbkbkwkgkg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/r5k20n1k2n1k2n2k2n5o2n2o2n2o3n2o10w3~x2~n1900000-o2500000/"><circle cx="151.7" cy="83.7" r="4" fill="#3465a4"><title>Nike Golf Dark (Corporate)</title></circle></a><a href="/variants/s21/r10db6r3db3r3db28k22g28r2k2ly4k2r2g28k22db28r3db3r3db6r5~x2/"><circle cx="115.2" cy="105.0" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s21/ly2db8r3db16r1k16g16r3g1r1g8r1g1r3g16k16r1db16r3db8ly1~x4/"><circle cx="114.9" cy="107.8" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/variants/s16/r4k2db16k16g16ly4g16k16db1k1db1k1db1k1db8r2~x2/"><circle cx="123.9" cy="112.1" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/variants/s23/db15k1db1k1db1k12g9r1g9k1w1k1g9r1g9k12r1db9r2db1r1db6w1~x2/"><circle cx="119.4" cy="101.5" r="4" fill="#3465a4"><title>Rankine</title></circle></a><a href="/variants/s10/db24k2db2r2db2k20g16y2g2y3~x2~db1406275/"><circle cx="134.1" cy="111.1" r="4" fill="#3465a4"><title>Watson</title></circle></a><a href="/variants/s17/r5k20n1k2n1k2n2k2n5o2n2o2n2o3n2o10w3~x2/"><circle cx="155.8" cy="82.7" r="4" fill="#3465a4"><title>Nike Golf Dark</title></circle></a><a href="/variants/s10/y3k1g22k20dp20g2dp2g2dp2g3~x4~dp1607327/"><circle cx="182.1" cy="103.0" r="4" fill="#3465a4"><title>Urbino</title></circle></a><a href="/variants/s21/db18k2db4k20g10dr2g10k1lb3k1g10dr2g10k20dr1db14dr3db2dr2db4lb1~x2/"><circle cx="123.6" cy="102.6" r="4" fill="#3465a4"><title>Rankin (Dalgleish)</title></circle></a><a href="/variants/s16/lb4r2lb3g1lb1g2lb18r1k12dg21lb1k3dg1k2dg4r2~x2/"><circle cx="140.6" cy="82.8" r="4" fill="#3465a4"><title>Munster</title></circle></a><circle cx="132.6" cy="84.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

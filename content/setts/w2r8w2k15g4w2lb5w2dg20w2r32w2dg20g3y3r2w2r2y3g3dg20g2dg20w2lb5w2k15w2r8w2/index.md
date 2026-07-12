@@ -1,6 +1,15 @@
 ---
 title: "Hunter (Wilsons)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hunter"
+  url: "/clan/hunter/"
+- name: "Hunter"
+  url: "/families/hunter/"
+- name: "Hunter"
+  url: "/tartans/h/hu/hunter-4/"
 ---
 This is the **Hunter (Wilsons)** sett — one scale-free proportion (`w2r8w2k15g4w2lb5w2dg20w2r32w2dg20g3y3r2w2r2y3g3dg20g2dg20w2lb5w2k15w2r8w2`), colour order pattern
 [WRWKGWWWGWRWGGGRWRGGGGGWWWKWRW](/stripes/wrwkgwwwgwrwgggrwrgggggwwwkwrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s34/w2r8w2k15w2lb5w2g20b2g4b2g20b3y3r2w2r2y3b3g20w2r32w2g20w2lb5w2b4k15w2lb5w2r8w2/"><circle cx="79.6" cy="50.3" r="4" fill="#3465a4"><title>Hunter</title></circle></a><a href="/variants/s35/r12lb8k8y2k2w2k2g12r8k2r5w2r5k2r8g12k2w2k2y2k8lb8g32r4g32k4db10k8db4k5y2k4r4k4lb12~x2/"><circle cx="58.1" cy="49.0" r="4" fill="#3465a4"><title>Duchess of Edinburgh Tartan</title></circle></a><a href="/variants/s34/w2r8w2k15w2lb5w2dg20g2dg4g2dg20g3y3r2w2r2y3g3dg20w2r32w2dg20w2lb5w2g4k15w2lb5w2r8w2/"><circle cx="76.0" cy="44.6" r="4" fill="#3465a4"><title>Hunter (Wilsons1819)</title></circle></a><a href="/variants/s13/y2w1y12dt6k3w1g1w1g4w2k1w1r1~x4/"><circle cx="95.4" cy="92.0" r="4" fill="#3465a4"><title>Diana Princess of Wales Memorial</title></circle></a><a href="/variants/s24/g16k1b2k1lo4k1lo4k1b2k1dr16w2dr16k1b2k1lo4k1lo4k1b2k1g16b2~x4/"><circle cx="101.9" cy="70.7" r="4" fill="#3465a4"><title>Baxter Clan/Family Tartan</title></circle></a><a href="/variants/s24/r4g6r1g2r3g2r1g6r3db2r1k2y1k1y1k2w2k2lb18r1k1r1lb3r2~x2/"><circle cx="72.9" cy="49.4" r="4" fill="#3465a4"><title>Anderson (MacGregor-Hastie #4)</title></circle></a><a href="/variants/s16/g5w2r8k2lo4k2y2k7g40k3r10k6lo7k7y2k2~x2/"><circle cx="122.4" cy="41.1" r="4" fill="#3465a4"><title>Goldstraw (Personal)</title></circle></a><a href="/variants/s14/r12w1k1g12ly1db5y6r2y2r4g2r2k2g2~x2~r2109032-db1406275/"><circle cx="79.5" cy="90.8" r="4" fill="#3465a4"><title>Norwich No.058</title></circle></a><a href="/variants/s12/k8r2k3lyi2k2w3k2ly12y22r2y2k1~x2~lyi3307090-y2203076/"><circle cx="138.9" cy="54.6" r="4" fill="#3465a4"><title>O'Keefe</title></circle></a><a href="/variants/s14/r25w4k4g25lo3k15t13r5t5r15g4r5k2g3~x2~r2109032-w3600000-t2503227/"><circle cx="66.4" cy="99.5" r="4" fill="#3465a4"><title>Wilson's No.226</title></circle></a><circle cx="83.6" cy="53.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

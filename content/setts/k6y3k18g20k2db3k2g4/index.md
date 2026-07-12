@@ -1,6 +1,15 @@
 ---
 title: "Choinka Family (Inverness)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Choinka"
+  url: "/clan/choinka/"
+- name: "Choinka"
+  url: "/families/choinka/"
+- name: "Choinka"
+  url: "/tartans/c/ch/choinka/"
 ---
 This is the **Choinka Family (Inverness)** sett — one scale-free proportion (`k6y3k18g20k2db3k2g4`), colour order pattern
 [GKBKGKKKGKK](/stripes/gkbkgkkkgkk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dy4k2lo3k2dy7k9g20k2lb3k2g4~x2/"><circle cx="142.6" cy="147.1" r="4" fill="#3465a4"><title>Choinka Family (Personal)</title></circle></a><a href="/variants/s10/k6r2k2r2k6db7g20y2g3r2~x2/"><circle cx="156.6" cy="144.3" r="4" fill="#3465a4"><title>Connolly Hunting</title></circle></a><a href="/variants/s10/k6r2k2r2k6db7g20ly2g3r2~x2/"><circle cx="152.9" cy="143.3" r="4" fill="#3465a4"><title>Connolly Hunting (Name)</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4~x2~r1908029-y1904072/"><circle cx="158.5" cy="148.0" r="4" fill="#3465a4"><title>Skene N</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4~r1908029-y1904072/"><circle cx="158.5" cy="148.0" r="4" fill="#3465a4"><title>Skene N</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4/"><circle cx="156.1" cy="147.1" r="4" fill="#3465a4"><title>Skene N</title></circle></a><a href="/variants/s11/lb3k1dg12k1dg1k2dg1k6g12k1lo1~x4/"><circle cx="135.3" cy="135.6" r="4" fill="#3465a4"><title>McCandlish Htg, Green (Name)</title></circle></a><a href="/variants/s14/g6r4g4r3g4y2db14k4g4k28g18k2g3k2~x2/"><circle cx="155.3" cy="118.7" r="4" fill="#3465a4"><title>Cypress Presbyterian Church</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4lo3k4g24r3k4~x2/"><circle cx="153.0" cy="145.9" r="4" fill="#3465a4"><title>Skene (Maclan)</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4b3k4g24r3k4~x2/"><circle cx="155.7" cy="147.0" r="4" fill="#3465a4"><title>Skene</title></circle></a><circle cx="137.1" cy="143.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Milne of Corstorphine"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Milne"
+  url: "/clan/milne/"
 ---
 A family of [Clan Milne](/clan/milne/).
 

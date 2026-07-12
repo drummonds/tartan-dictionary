@@ -1,6 +1,15 @@
 ---
 title: "Bear (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Bear"
+  url: "/clan/bear/"
+- name: "Bear"
+  url: "/families/bear/"
+- name: "Bear"
+  url: "/tartans/b/be/bear/"
 ---
 This is the **Bear (Corporate)** sett — one scale-free proportion (`dy24o2dy2o12k4lr4w4wi4y4lo4dy4o12dy2o2dy24k1lr2k1`), colour order pattern
 [GRGRKYWWGYGRGRGKYK](/stripes/grgrkywwgygrgrgkyk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/dy24k1lr2k1dy24o2dy2o12k4lr4w4wi4y4lo4dy4o12dy2o2~x2~dy1503076-lr3000000-wi3701120/"><circle cx="198.9" cy="49.4" r="4" fill="#3465a4"><title>Bear</title></circle></a><a href="/variants/s18/dy24o2dy2o12k4lr4wi4w4y4lo4dy4o12dy2o2dy24k1lr2k1~x2~dy1503076-wi4000000-w3701120/"><circle cx="196.6" cy="47.9" r="4" fill="#3465a4"><title>Bear Corporate Tartan</title></circle></a><a href="/variants/s11/db8lb1k6y1k2w2k2g12o28w1o4~x2/"><circle cx="191.3" cy="61.5" r="4" fill="#3465a4"><title>MacLean of Kingairloch</title></circle></a><a href="/variants/s16/dg32w2y2dy2y6k2db6y2db2w2db2dg10r5w2r4w2~x2/"><circle cx="190.3" cy="64.2" r="4" fill="#3465a4"><title>Zinnen of Scene (Luxembourg) (Personal)</title></circle></a><a href="/variants/s24/r16g1r1g1r1g4k1lb1k1y1k1t6db4t6k1y1k1lb1k1g4r12g1r1k1~x4~lb3200000-t2503227/"><circle cx="150.5" cy="46.2" r="4" fill="#3465a4"><title>Macan of Lurgyvallan</title></circle></a><a href="/variants/s14/ly4g4db8r8g8r27k3w1r27lb6g8db8g4ly4~x2/"><circle cx="205.1" cy="72.6" r="4" fill="#3465a4"><title>West Virginia</title></circle></a><a href="/variants/s25/w2k1ri3lb3ri3r3ri12r3ri3db3ri3db19y3g19ri3db3ri3r3ri12r3ri3lb3ri3k1w2~x2~ri2008029-r1707016/"><circle cx="115.3" cy="47.2" r="4" fill="#3465a4"><title>Fitzgerald dress</title></circle></a><a href="/variants/s12/n9lb5k8y2k4w4k4g31r50lb4r4k3~x2/"><circle cx="158.7" cy="54.2" r="4" fill="#3465a4"><title>MacLean of Duart</title></circle></a><a href="/variants/s12/do9lb5k8y2k4w4k4g28r44lb4r5k3~x2/"><circle cx="139.5" cy="63.0" r="4" fill="#3465a4"><title>MacLean (rare)</title></circle></a><a href="/variants/s12/db6w2k2r6dy2g12r6t3k3t3r28dy4~x2~r2109032-t2503227/"><circle cx="207.3" cy="63.2" r="4" fill="#3465a4"><title>Wren</title></circle></a><circle cx="178.8" cy="43.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Montgomery"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Montgomery"
+  url: "/clan/montgomery/"
+- name: "Montgomery"
+  url: "/families/montgomery/"
+- name: "Montgomery"
+  url: "/tartans/m/mo/montgomery-2/"
 ---
 This is the **Montgomery** sett — one scale-free proportion (`k4r5k4db28k4g5k4`), colour order pattern
 [KGKBKRK](/stripes/kgkbkrk/). It is recorded as **2 variants** — the same
@@ -23,6 +32,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k4r5k4db28k4g5k4/"><circle cx="243.5" cy="179.5" r="4" fill="#3465a4"><title>Montgomery</title></circle></a><a href="/variants/s7/k1r1k1db7k1g1k1~x8/"><circle cx="264.4" cy="176.7" r="4" fill="#3465a4"><title>Eglinton</title></circle></a><a href="/variants/s9/k1g8k9r1k1r1k9db8r1~x6/"><circle cx="207.2" cy="173.2" r="4" fill="#3465a4"><title>Guthrie Family Tartan</title></circle></a><a href="/variants/s7/k4r5k4dp28k4g5k4~x2/"><circle cx="254.1" cy="175.5" r="4" fill="#3465a4"><title>Montgomrie/Montgomery of Eglinton</title></circle></a><a href="/variants/s7/k6y2k16lb6k3db18k2~x2/"><circle cx="219.4" cy="184.5" r="4" fill="#3465a4"><title>Carrick High School</title></circle></a><a href="/variants/s6/k3db30k8w8k2r3~x2/"><circle cx="259.9" cy="149.0" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><a href="/variants/s7/r1k1db10k1dp4k9y1~x4/"><circle cx="212.3" cy="172.0" r="4" fill="#3465a4"><title>Graeme High School Homecoming 2009</title></circle></a><a href="/variants/s6/k3dg11k3b11k18o3~x2/"><circle cx="190.1" cy="222.5" r="4" fill="#3465a4"><title>The Harbour Town, Hilton Head</title></circle></a><a href="/variants/s6/k42w5k5dg16k5db21~x2/"><circle cx="252.0" cy="197.3" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><a href="/variants/s9/db4y2db17k2r4k2db3k11db3~x2/"><circle cx="278.7" cy="177.1" r="4" fill="#3465a4"><title>Stone of Destiny</title></circle></a><circle cx="243.5" cy="179.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

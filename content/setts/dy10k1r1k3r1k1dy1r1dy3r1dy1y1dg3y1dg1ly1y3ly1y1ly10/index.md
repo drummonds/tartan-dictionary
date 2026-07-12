@@ -1,6 +1,11 @@
 ---
 title: "Spice of Life"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Spice of Life"
+  url: "/tartans/s/sp/spice-of-life-2/"
 ---
 This is the **Spice of Life** sett — one scale-free proportion (`dy10k1r1k3r1k1dy1r1dy3r1dy1y1dg3y1dg1ly1y3ly1y1ly10`), colour order pattern
 [GKRKRKGRGRGGGGGYGYGY](/stripes/gkrkrkgrgrgggggygygy/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/r4k4n4y2n2w2n2y2n2w2k4g3k2g24w2k2n3k3w2r4k2~x2/"><circle cx="81.8" cy="80.1" r="4" fill="#3465a4"><title>Murtaugh Hunting</title></circle></a><a href="/variants/s18/r5k3g22k3y3dp7r7k2dp4w2dp4r7k2r7y3k3g22k2~x2/"><circle cx="117.0" cy="106.6" r="4" fill="#3465a4"><title>Derbyshire</title></circle></a><a href="/variants/s24/g16k1b2k1lo4k1lo4k1b2k1dr16w2dr16k1b2k1lo4k1lo4k1b2k1g16b2~x4/"><circle cx="101.9" cy="70.7" r="4" fill="#3465a4"><title>Baxter Clan/Family Tartan</title></circle></a><a href="/variants/s14/dr27g20k7w3ly3dr2ly3w3ly6dp6k2dr3ly4dp3~x2/"><circle cx="97.6" cy="103.2" r="4" fill="#3465a4"><title>Roman (Personal)</title></circle></a><a href="/variants/s13/y2w1y12dt6k3w1g1w1g4w2k1w1r1~x4/"><circle cx="95.4" cy="92.0" r="4" fill="#3465a4"><title>Diana Princess of Wales Memorial</title></circle></a><a href="/variants/s17/r48b4r28k5w4k6b4k7g8k7b4k6w4k5ri24b4g48~g2508144-ri2209032/"><circle cx="99.9" cy="90.6" r="4" fill="#3465a4"><title>Total</title></circle></a><a href="/variants/s21/dr4k4n4y2n2w2n2y2n2w2k4g3k2g24w2k2n3k3w2dr4k2~x2/"><circle cx="86.0" cy="83.9" r="4" fill="#3465a4"><title>Murtaugh Hunting Tartan</title></circle></a><a href="/variants/s13/w2r12k1lb2k1y3k1y3k1lb2k1g12lb2~x2/"><circle cx="80.7" cy="110.5" r="4" fill="#3465a4"><title>Buchanan #3</title></circle></a><a href="/variants/s22/dg8k1lb2k1y2k1lb2k1r8w1lb1w1r8k1lb2k1y2k1lb2k1dg8lb1~x4/"><circle cx="48.6" cy="106.7" r="4" fill="#3465a4"><title>MacWhirter</title></circle></a><a href="/variants/s13/w4r25k2lb4k2y8k3y8k2lb4k2g25lb4~x2/"><circle cx="77.0" cy="112.5" r="4" fill="#3465a4"><title>Buchanan Clan Tartan</title></circle></a><circle cx="79.5" cy="96.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

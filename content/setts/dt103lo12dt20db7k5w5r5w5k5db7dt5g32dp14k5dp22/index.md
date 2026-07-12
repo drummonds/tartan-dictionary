@@ -1,6 +1,11 @@
 ---
 title: "Spirit of de Jong"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Spirit of de Jong"
+  url: "/tartans/s/sp/spirit-of-de-jong/"
 ---
 This is the **Spirit of de Jong** sett — one scale-free proportion (`dt103lo12dt20db7k5w5r5w5k5db7dt5g32dp14k5dp22`), colour order pattern
 [BKBGBBKWRWKBBYB](/stripes/bkbgbbkwrwkbbyb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db103lr12db20dbi7k5w5r5w5k5dbi7db5g32dp14k5dp22~db1404245-dbi1406275/"><circle cx="207.0" cy="50.3" r="4" fill="#3465a4"><title>Spirit of de Jong (Personal?)</title></circle></a><a href="/variants/s15/t86dg6k24dy6lo6g6r6lb6k4dg22t6dg8t8k3dg8~t2405244-lb3103284/"><circle cx="184.7" cy="29.7" r="4" fill="#3465a4"><title>Euler Hermes</title></circle></a><a href="/variants/s11/k8lbi1y1do10y16lb2k3n33lbi1n3w2~x2~lbi3203246-y2400000-lb3200000-n1700000/"><circle cx="215.5" cy="68.3" r="4" fill="#3465a4"><title>Oban Mist</title></circle></a><a href="/variants/s16/dg32w2y2dy2y6k2db6y2db2w2db2dg10r5w2r4w2~x2/"><circle cx="190.3" cy="64.2" r="4" fill="#3465a4"><title>Zinnen of Scene (Luxembourg) (Personal)</title></circle></a><a href="/variants/s11/k8lb1b1do10b16r2k3dt33lb1dt3w2~x2~b2703284-dt1602194/"><circle cx="197.1" cy="60.0" r="4" fill="#3465a4"><title>Lomond Mist</title></circle></a><a href="/variants/s15/db86t6k24ly6lo6g6r6lb6k4t22db6t8db8k3t8~t2105244-lb3203246/"><circle cx="198.2" cy="31.9" r="4" fill="#3465a4"><title>Euler Hermes</title></circle></a><a href="/variants/s11/k8lb1o1do10o16r2k3n33lb1n3w2~x2~o2500000-n1900000/"><circle cx="205.8" cy="61.5" r="4" fill="#3465a4"><title>Lomond Mist (Fashion)</title></circle></a><a href="/variants/s15/dt38b8db3dt20b42k2g6k2b2dp3b2w2db10b2k6~dt1602194-b2501240/"><circle cx="204.4" cy="81.6" r="4" fill="#3465a4"><title>Causeway, The</title></circle></a><a href="/variants/s11/lo2k8db48lb9n12r3n9r3n12dg8lo2~x2/"><circle cx="184.4" cy="86.3" r="4" fill="#3465a4"><title>Heston (Name)</title></circle></a><a href="/variants/s20/dg8n12r3n9r3n12lb9db48k8lo2k8db48lb9n12r3n9r3n12dg8lo2~x2/"><circle cx="176.0" cy="68.3" r="4" fill="#3465a4"><title>Heston</title></circle></a><circle cx="211.4" cy="49.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

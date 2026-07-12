@@ -1,6 +1,15 @@
 ---
 title: "Maxwell"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Maxwell"
+  url: "/clan/maxwell/"
+- name: "Maxwell"
+  url: "/families/maxwell/"
+- name: "Maxwell"
+  url: "/tartans/m/ma/maxwell/"
 ---
 This is the **Maxwell** sett — one scale-free proportion (`r3g16r4k6r28g1r3`), colour order pattern
 [RGRKRGR](/stripes/rgrkrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r4g14r5k6r24g2r4~x2/"><circle cx="340.7" cy="181.6" r="4" fill="#3465a4"><title>Auld Lang Syne (red) Tartan</title></circle></a><a href="/variants/s6/r6g21k8r28g1r4~x2/"><circle cx="326.8" cy="158.7" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/variants/s7/r3g16r4k6r28g2lo3~x2/"><circle cx="295.7" cy="153.3" r="4" fill="#3465a4"><title>McInally (Name)</title></circle></a><a href="/variants/s6/r2g20r2db8r36g1~x2/"><circle cx="411.9" cy="155.2" r="4" fill="#3465a4"><title>Robertson</title></circle></a><a href="/variants/s6/r1g10r1db4r18g1~x4/"><circle cx="385.0" cy="182.9" r="4" fill="#3465a4"><title>Robertson 6</title></circle></a><a href="/variants/s7/r2db1r16db4r1g10r1~x4/"><circle cx="368.8" cy="178.1" r="4" fill="#3465a4"><title>Robertson - 1988 (Corporate)</title></circle></a><a href="/variants/s7/k1r18g12r2g12r18w1~x2/"><circle cx="352.1" cy="172.7" r="4" fill="#3465a4"><title>MacKinnon #4</title></circle></a><a href="/variants/s6/r2dg6r2dg6r16ly1~x4/"><circle cx="408.3" cy="194.8" r="4" fill="#3465a4"><title>Cameron (Clan)</title></circle></a><a href="/variants/s9/g20k2r3k2r6g20r29g3r10~x2/"><circle cx="312.3" cy="175.2" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/variants/s6/r6g21k8r28k1r4~x2/"><circle cx="321.2" cy="156.8" r="4" fill="#3465a4"><title>Dunbar Family Tartan</title></circle></a><circle cx="376.1" cy="137.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

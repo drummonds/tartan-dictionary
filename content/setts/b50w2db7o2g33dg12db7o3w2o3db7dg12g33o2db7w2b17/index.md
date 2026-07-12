@@ -1,6 +1,13 @@
 ---
 title: "Spens, Fragment"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Spens"
+  url: "/clan/spens/"
+- name: "Spens, Fragment"
+  url: "/tartans/s/sp/spens-fragment-2/"
 ---
 This is the **Spens, Fragment** sett — one scale-free proportion (`b50w2db7o2g33dg12db7o3w2o3db7dg12g33o2db7w2b17`), colour order pattern
 [BWBRGGBRWRBGGRBWB](/stripes/bwbrggbrwrbggrbwb/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/g46r6g6r2g8r2g6r2g6dy36r2db47r6db24y6/"><circle cx="219.6" cy="122.7" r="4" fill="#3465a4"><title>Cochrane Hunting</title></circle></a><a href="/variants/s13/dp4dbi20db4dbi6g6w2y4g4r2g18db4r1w4~x2~dbi1404245-db1108266/"><circle cx="146.3" cy="119.1" r="4" fill="#3465a4"><title>Pearl of the Orient</title></circle></a><a href="/variants/s12/dbi30db4g5db2r2db2g5db4w10db5t8db1~x2~dbi1406275-db1404245/"><circle cx="198.1" cy="104.6" r="4" fill="#3465a4"><title>Lyon (Personal)</title></circle></a><a href="/variants/s10/db40lb3db3lb3db3lb4dg8g8n8w2~x2~db1404245/"><circle cx="236.7" cy="118.5" r="4" fill="#3465a4"><title>Greenshields Family Tartan</title></circle></a><a href="/variants/s12/w4dg1g31y1g4dg21db4dg1db36r2db9w2~x2/"><circle cx="243.2" cy="95.1" r="4" fill="#3465a4"><title>St Ninian's Day</title></circle></a><a href="/variants/s24/db4w2db2w1lb5b5g5w1g20w1db4lb4o3w1o3lb4db4w1b30db2lb2w1lb2db2~x2/"><circle cx="175.7" cy="71.7" r="4" fill="#3465a4"><title>Stewart, Silk</title></circle></a><a href="/variants/s15/g46r6g6r2g8r2g6r2g6dr36r2db47r6db24ly6/"><circle cx="208.4" cy="117.2" r="4" fill="#3465a4"><title>Cochrane Hunting</title></circle></a><a href="/variants/s19/g2dg2db5dg4db10t15dg10r12dg6g4dg6r12dg10t18lb2db2t18db1g2/"><circle cx="164.0" cy="144.2" r="4" fill="#3465a4"><title>Watkins Welsh Name Tartan</title></circle></a><a href="/variants/s23/ri5w3db2w1db4r1db1r3db1r1db4n4lb1n1lb1n4db4t25w1t2w2t2w3~x2~ri2109032-db1404245-r1706009/"><circle cx="180.7" cy="60.2" r="4" fill="#3465a4"><title>Alabama (Provisional)</title></circle></a><a href="/variants/s13/r4g1w5g1r2g1w5db4t20db8y2db8y4~x2/"><circle cx="130.6" cy="123.0" r="4" fill="#3465a4"><title>Pille Family (Belgium) (Personal)</title></circle></a><circle cx="192.2" cy="108.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "7th Cavalry (Military)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "7th Cavalry"
+  url: "/tartans/0-9/0-9/7th-cavalry/"
 ---
 This is the **7th Cavalry (Military)** sett — one scale-free proportion (`dt31w2g2y1w1y1g2w1r5w2dt3b2g1b2dt3w2r2`), colour order pattern
 [BWGGWGGWRWBBGBBWR](/stripes/bwggwggwrwbbgbbwr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/g2r2g18o6db40ly1db1ly4w2ly4db1ly1db40o6g18r2g2w1~x2~g2408144-o2500000-db1204274/"><circle cx="288.0" cy="50.3" r="4" fill="#3465a4"><title>O'Mahony, The</title></circle></a><a href="/variants/s12/dy46lb3dy7g2r2g2w2g11lb6db2lb3r2~x2/"><circle cx="329.0" cy="78.9" r="4" fill="#3465a4"><title>Diana Hunting Plaid Tartan</title></circle></a><a href="/variants/s17/db48w4g3y2w2y2g3w2r8w4db5lp3g2lp3db5w4r4/"><circle cx="270.3" cy="53.8" r="4" fill="#3465a4"><title>Cavalry 7th.. Regimental Tartan</title></circle></a><a href="/variants/s17/db48w4g3y2w2y2g3w2r8w4db5b3g2b3db5w4r4/"><circle cx="273.3" cy="55.4" r="4" fill="#3465a4"><title>Cavalry, 7th..</title></circle></a><a href="/variants/s10/w2ly4db1ly1db40n6g18r2g2w1~x2/"><circle cx="301.0" cy="73.2" r="4" fill="#3465a4"><title>O'Mahony, The (Commemorative)</title></circle></a><a href="/variants/s17/db67dy5g10r5y2r5g10dy5db4dy5g10r5n2r5dy5g10db24/"><circle cx="303.5" cy="69.8" r="4" fill="#3465a4"><title>Indianapolis MPD Emerald Society</title></circle></a><a href="/variants/s14/g20lb1o2lb1o2db4r1db1r1db1r1db1r2w2~x4/"><circle cx="261.3" cy="85.4" r="4" fill="#3465a4"><title>Mighty Men (Corporate)</title></circle></a><a href="/variants/s12/dbi4dp8dbi3dp2dbi64lb24r4db3lb4db3w8r4~dbi1003265-db0906265/"><circle cx="281.4" cy="64.2" r="4" fill="#3465a4"><title>Royal Navy</title></circle></a><circle cx="309.8" cy="44.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

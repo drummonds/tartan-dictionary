@@ -1,6 +1,11 @@
 ---
 title: "Stewart/Stuart, Royal (No black line)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Stewart/Stuart, Royal"
+  url: "/tartans/s/st/stewart-stuart-royal-3/"
 ---
 This is the **Stewart/Stuart, Royal (No black line)** sett — one scale-free proportion (`dr64t12k16lo2k4lb3g32dr8k4dr3lb2`), colour order pattern
 [BBKYKWGBKBWBKBGWKYKB](/stripes/bbkykwgbkbwbkbgwkykb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lb6k1t20r2g3r2k15r2g3r2k6ly3~x2~lb3200000-t2503227/"><circle cx="100.8" cy="92.4" r="4" fill="#3465a4"><title>Royal Scottish P.B. Assoc. (Corp.)</title></circle></a><a href="/variants/s14/k8lb2r2k6r2k2y1k2dy16g30k1r2k4lb2~x2/"><circle cx="153.8" cy="58.0" r="4" fill="#3465a4"><title>Murphy, Andrew (Personal)</title></circle></a><a href="/variants/s15/dy28r3k2n2k2r3n8ly2k8ly5k3lyi2k2ly3k1~x2~ly2503076-lyi3104101/"><circle cx="165.3" cy="61.9" r="4" fill="#3465a4"><title>Caithness (District)</title></circle></a><a href="/variants/s15/dy29g17k1w3k1y2k10t8dy4t8k10y2k1w3dy29~x2~w4000000-t2503227/"><circle cx="98.9" cy="52.7" r="4" fill="#3465a4"><title>Wilson's No.017 #2</title></circle></a><a href="/variants/s15/do28r3k2n2k2r3n8ly2k8ly5k3lyi2k2ly3k1~x2~ly2503076-lyi3104101/"><circle cx="166.8" cy="61.7" r="4" fill="#3465a4"><title>Caithness</title></circle></a><a href="/variants/s15/dy29g17k1w3k1ly2k10lb8dy4lb8k10ly2k1w3dy29~x2~w4000000/"><circle cx="88.4" cy="49.1" r="4" fill="#3465a4"><title>Wilson's No.171</title></circle></a><a href="/variants/s15/dy29g17k1w3k1y2k10lb8dy4lb8k10y2k1w3dy29~x2/"><circle cx="186.2" cy="71.9" r="4" fill="#3465a4"><title>Massie/Massey</title></circle></a><a href="/variants/s20/y10k2w3k6dy4k2lb8k2dy4k6lb3lg49ly4k42dy42y6dy6y6dy6y8~lb3203246-lg2702249/"><circle cx="80.3" cy="42.7" r="4" fill="#3465a4"><title>Whisky</title></circle></a><a href="/variants/s21/g20k1g1k6w1k6dp1k1dp4r3dp14r3dp4k1dp1k6w1k6g1k1g8~x2/"><circle cx="132.6" cy="84.6" r="4" fill="#3465a4"><title>New Hampshire District Tartan</title></circle></a><a href="/variants/s11/db38w2db2k10g2dy2g22k3r3k3r3~x2/"><circle cx="121.2" cy="63.2" r="4" fill="#3465a4"><title>Hunnisett/Edinchip (Personal)</title></circle></a><circle cx="159.1" cy="53.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Kintail Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Kintail Dress"
+  url: "/tartans/k/ki/kintail-dress/"
 ---
 This is the **Kintail Dress** sett — one scale-free proportion (`g3dg32g36o12k2w68dg3k2`), colour order pattern
 [GGGRKWGK](/stripes/gggrkwgk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r6g2w21dy2k8dy2g32w1k3~x2/"><circle cx="191.6" cy="93.7" r="4" fill="#3465a4"><title>Fiander, Julian (Personal)</title></circle></a><a href="/variants/s10/r6g2w21g2y2k8y2g32w1k3~x2/"><circle cx="200.2" cy="86.9" r="4" fill="#3465a4"><title>Fiander, Julian (Personal)</title></circle></a><a href="/variants/s7/lb37k12ly17r3ly17k1y3~x2/"><circle cx="206.8" cy="121.5" r="4" fill="#3465a4"><title>Berger-MacLaren</title></circle></a><a href="/variants/s9/lb16k1r7k1r7k1lb7g24ly4~x2/"><circle cx="177.4" cy="129.2" r="4" fill="#3465a4"><title>Knockando Woolmill (Corporate)</title></circle></a><a href="/variants/s8/lb5k1w30dp15w8g30w8dp2~x2/"><circle cx="218.8" cy="133.3" r="4" fill="#3465a4"><title>Shaw, Miss Rebecca (Personal)</title></circle></a><a href="/variants/s8/w3k1r4g20k3t30w4r2~x2/"><circle cx="237.0" cy="115.8" r="4" fill="#3465a4"><title>Scottish Prison Service (Corporate)</title></circle></a><a href="/variants/s8/g22r3k1g2r3lb16k3y2~x4/"><circle cx="207.7" cy="110.4" r="4" fill="#3465a4"><title>Stirling, University of Corporate Univ Tartan</title></circle></a><a href="/variants/s11/r4g5w2g5r4g14r10w30k1r2g4~x2/"><circle cx="215.8" cy="112.0" r="4" fill="#3465a4"><title>Scott Dress Tartan</title></circle></a><a href="/variants/s11/k1w31k4g8r1g2db7r4k1r4w1~x2~db1404245/"><circle cx="219.1" cy="68.9" r="4" fill="#3465a4"><title>Hohenzollern</title></circle></a><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><circle cx="227.1" cy="116.8" r="4" fill="#3465a4"><title>Caskie</title></circle></a><circle cx="205.9" cy="105.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

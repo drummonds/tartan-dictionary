@@ -1,6 +1,15 @@
 ---
 title: "MacColl Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacColl"
+  url: "/clan/maccoll/"
+- name: "MacColl"
+  url: "/families/maccoll/"
+- name: "MacColl"
+  url: "/tartans/m/ma/maccoll-2/"
 ---
 This is the **MacColl Hunting** sett — one scale-free proportion (`ri6r3ri6db22ri7r2w1ri2db2ri2w1r2ri7g22ri7g2ri2r2`), colour order pattern
 [RRGRGRRWRBRWRRBRRR](/stripes/rrgrgrrwrbrwrrbrrr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/ri6r3ri6db22ri7r2w1ri2db2ri2w1r2ri7dg22ri7dg2ri2r2~x2~ri2008029-r1707016/"><circle cx="237.1" cy="107.1" r="4" fill="#3465a4"><title>MacColl, hunting</title></circle></a><a href="/variants/s17/ri7r3ri6db26ri8r2ri2db2ri2g1r2ri8g26ri8g2ri2r2~x2~ri2209032-r1707016/"><circle cx="244.7" cy="109.7" r="4" fill="#3465a4"><title>MacColl Ancient</title></circle></a><a href="/variants/s17/ri7r3ri6db26ri8b2ri2db2ri2g1r2ri8g26ri8g2ri2r2~x2~ri2008029-r1707016/"><circle cx="236.3" cy="100.4" r="4" fill="#3465a4"><title>MacColl, Ancient</title></circle></a><a href="/variants/s22/dp30w2lb3dg3lb3dg3lb3dg16r3dg3r3dg3r3dg3r3dg25r15dg4lb4r8w2r15~x2/"><circle cx="192.6" cy="112.1" r="4" fill="#3465a4"><title>Wilson, Janet (1780 Original)</title></circle></a><a href="/variants/s15/lb3ly8r2ly8db11r2ly4ri4r27db1r2db2r2db13r2~x2~r1706009-ri2109032/"><circle cx="222.5" cy="100.8" r="4" fill="#3465a4"><title>Strathdon (District?)</title></circle></a><a href="/variants/s20/w1dp3r1g23r3g1r3db6dp4r1dp4g6r6g6r2db1r24dp1r1w1~x2/"><circle cx="249.5" cy="87.3" r="4" fill="#3465a4"><title>MacDougall</title></circle></a><a href="/variants/s20/w1dp2r1g22r3g1r3db9dp2r1dp2g8r8g8r1db1r22dp2r2w1~x2/"><circle cx="242.0" cy="95.2" r="4" fill="#3465a4"><title>MacDougall (Paton)</title></circle></a><a href="/variants/s20/w2r2lp2r22db2r2g8r8g8lp2r2lp2db9r3g1r3g22r2lp2w2~x2/"><circle cx="229.6" cy="99.9" r="4" fill="#3465a4"><title>MacDougall Clan Tartan</title></circle></a><a href="/variants/s19/lb33dy22db4dy22r3m2r3m2r3m2r3m2r3m2r3m2r3dy22db4~x2~r2510029-m2610337/"><circle cx="221.4" cy="94.8" r="4" fill="#3465a4"><title>Commonwealth Games Scotland, Team Scotland 2014</title></circle></a><a href="/variants/s15/r12dp2r4dp4r39lb2r4dp11r6g4r6g45r4dp4db10/"><circle cx="282.1" cy="105.4" r="4" fill="#3465a4"><title>Grant or New Bruce Clan Tartan</title></circle></a><circle cx="218.6" cy="102.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

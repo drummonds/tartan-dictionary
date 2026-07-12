@@ -1,6 +1,15 @@
 ---
 title: "Melville Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Melville"
+  url: "/clan/melville/"
+- name: "Melville"
+  url: "/families/melville/"
+- name: "Melville"
+  url: "/tartans/m/me/melville-3/"
 ---
 This is the **Melville Family Tartan** sett — one scale-free proportion (`db8k2db12k13g13w2k4w2g13k13db4`), colour order pattern
 [BKBKGWKWGKB](/stripes/bkbkgwkwgkb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db7k2db2k2db2k7g7w1g7~x4/"><circle cx="130.8" cy="216.2" r="4" fill="#3465a4"><title>Abercrombie</title></circle></a><a href="/variants/s6/w2db10k10g11db2w2~x2~db1406275/"><circle cx="96.8" cy="224.1" r="4" fill="#3465a4"><title>Norwich No.026</title></circle></a><a href="/variants/s13/db6k1db1k1db1k6g6lb2g6k6db6k1g2~x4/"><circle cx="105.1" cy="201.7" r="4" fill="#3465a4"><title>Cheape of Torosay #2 (Personal)</title></circle></a><a href="/variants/s12/db5k1db1k1db1k4g5y1g5k4db6k1~x4/"><circle cx="130.9" cy="207.0" r="4" fill="#3465a4"><title>Gordon</title></circle></a><a href="/variants/s13/db6k1db1k1db1k6g6lb2g6k6db6k1db2~x2/"><circle cx="117.1" cy="202.2" r="4" fill="#3465a4"><title>Cheape Clan Tartan</title></circle></a><a href="/variants/s13/db6k1db1k1db1k6g6lb2g6k6db6k1db2~x4/"><circle cx="117.1" cy="202.2" r="4" fill="#3465a4"><title>Cheape of Torosay (Clan)</title></circle></a><a href="/variants/s13/g10k2g2k2g2k7db8dp2db8k7g8k2g2~x2/"><circle cx="118.7" cy="212.3" r="4" fill="#3465a4"><title>Lochinvar Marine Harvest</title></circle></a><a href="/variants/s10/db18k17db3g18db4g18db3k17db18b4~x2/"><circle cx="134.2" cy="227.6" r="4" fill="#3465a4"><title>Scottish Airports Corporate Tartan</title></circle></a><a href="/variants/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x4/"><circle cx="119.6" cy="201.0" r="4" fill="#3465a4"><title>Murray #2</title></circle></a><a href="/variants/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x2/"><circle cx="119.6" cy="201.0" r="4" fill="#3465a4"><title>New South Wales Scottish Rifles</title></circle></a><circle cx="112.8" cy="210.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

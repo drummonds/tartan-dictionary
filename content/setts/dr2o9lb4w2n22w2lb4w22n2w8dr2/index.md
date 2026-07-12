@@ -1,6 +1,15 @@
 ---
 title: "MacRae Grey (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacRae"
+  url: "/clan/macrae/"
+- name: "MacRae"
+  url: "/families/macrae/"
+- name: "MacRae"
+  url: "/tartans/m/ma/macrae-7/"
 ---
 This is the **MacRae Grey (Fashion)** sett — one scale-free proportion (`dr2o9lb4w2n22w2lb4w22n2w8dr2`), colour order pattern
 [BRWWBWWWBWB](/stripes/brwwbwwwbwb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/o4w2o2w3o20db6lb3db2lb2db2lb16r3~x2/"><circle cx="198.0" cy="155.0" r="4" fill="#3465a4"><title>Callum, Scotch House</title></circle></a><a href="/variants/s11/w26lb9k2lb2w2lb2n11lb8y2n2r2~x2/"><circle cx="188.8" cy="129.2" r="4" fill="#3465a4"><title>Manchester Blues Dress (Comm)</title></circle></a><a href="/variants/s13/y4db5y4db5w8r2w24g2w8db5y4db5y4~x2/"><circle cx="212.5" cy="157.1" r="4" fill="#3465a4"><title>Aelfleda Arisaid (Personal)</title></circle></a><a href="/variants/s13/y4db5y4db5w8dg2w24r2w8db5y4db5y4~x2/"><circle cx="211.7" cy="156.5" r="4" fill="#3465a4"><title>Aelfleda Arisaid (Personal)</title></circle></a><a href="/variants/s10/lb38db18lb4lyi3g10ly3g4lb3ly17r4~x2~lyi3407090-ly2503076/"><circle cx="206.2" cy="155.3" r="4" fill="#3465a4"><title>State Seal of Delaware (Fashion)</title></circle></a><a href="/variants/s11/lb26w9k2w2lb2w2n11w8y2n2dr2~x2/"><circle cx="189.9" cy="129.7" r="4" fill="#3465a4"><title>Manchester Blues Modern</title></circle></a><a href="/variants/s10/lb18w1lb4w1ly4dg1ly2dg12r2dg4~x2/"><circle cx="229.3" cy="137.2" r="4" fill="#3465a4"><title>Michigan, State of</title></circle></a><a href="/variants/s11/lb26w9k2w2lb2w2n11w8y2n2r2~x2/"><circle cx="195.1" cy="131.1" r="4" fill="#3465a4"><title>Manchester Blues Modern</title></circle></a><a href="/variants/s12/n12lb2do4y2do3w3do3o20w29lb2w4do2~x2/"><circle cx="179.8" cy="120.9" r="4" fill="#3465a4"><title>MacLean of Duart 7</title></circle></a><a href="/variants/s7/w8b5lb10o24w30b2dg2~x2/"><circle cx="252.6" cy="183.5" r="4" fill="#3465a4"><title>Shiel Magenta</title></circle></a><circle cx="205.2" cy="161.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

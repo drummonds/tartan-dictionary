@@ -1,6 +1,11 @@
 ---
 title: "Carinthian National"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Carinthian National"
+  url: "/tartans/c/ca/carinthian-national/"
 ---
 This is the **Carinthian National** sett — one scale-free proportion (`dy3dt16do15dg18do3r3do3dg18do15dt16w3`), colour order pattern
 [GBBGBRBGBBW](/stripes/gbbgbrbgbbw/). It is recorded as a single **variant**, below.

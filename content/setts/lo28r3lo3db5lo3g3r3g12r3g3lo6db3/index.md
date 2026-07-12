@@ -1,6 +1,15 @@
 ---
 title: "Bird of Paradise"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Bird"
+  url: "/clan/bird/"
+- name: "Bird of Paradise"
+  url: "/families/bird-of-paradise/"
+- name: "Bird of Paradise"
+  url: "/tartans/b/bi/bird-of-paradise/"
 ---
 This is the **Bird of Paradise** sett — one scale-free proportion (`lo28r3lo3db5lo3g3r3g12r3g3lo6db3`), colour order pattern
 [BYGRGRGYBYRY](/stripes/bygrgrgybyry/). It is recorded as **2 variants** — the same
@@ -23,6 +32,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lo28r3lo3db5lo3g3r3g12r3g3lo6db3~x2~lo2706066-r2109032/"><circle cx="314.4" cy="176.6" r="4" fill="#3465a4"><title>Bird of Paradise</title></circle></a><a href="/variants/s11/w2r4g8r16lb2r3g16r4lb2r4w2~x2/"><circle cx="272.9" cy="193.0" r="4" fill="#3465a4"><title>MacKinnon #10</title></circle></a><a href="/variants/s9/r3g3lo2r18w2g21lo2g2lo3~x2/"><circle cx="293.5" cy="179.9" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh</title></circle></a><a href="/variants/s14/w3ri5r3g14ri36g3dp8ri3g36ri14dp3g3ri5w3~x2~ri2209032-r2208029/"><circle cx="256.3" cy="136.5" r="4" fill="#3465a4"><title>MacKinnon #11</title></circle></a><a href="/variants/s10/g5r4g17lt5r32lt5g17r4g5w2~x2/"><circle cx="294.3" cy="175.0" r="4" fill="#3465a4"><title>Wilson's No.005</title></circle></a><a href="/variants/s14/w3r5g3dp3r14g36r3dp8g3r36g14b3r5w3~x2/"><circle cx="257.4" cy="138.2" r="4" fill="#3465a4"><title>MacKinnon 3</title></circle></a><a href="/variants/s14/r2w1g1r16g7r1w1g1w1r1g7w2r1g2~x2/"><circle cx="317.4" cy="142.4" r="4" fill="#3465a4"><title>Mordente (Personal)</title></circle></a><a href="/variants/s14/r2w1g1r16g7r1w1g1w1r1g7w2r1g2~x4/"><circle cx="317.4" cy="142.4" r="4" fill="#3465a4"><title>Mordente (Personal)</title></circle></a><a href="/variants/s9/g12w1r1w4r1w1r8y2r1~x4/"><circle cx="226.3" cy="172.7" r="4" fill="#3465a4"><title>Karibu</title></circle></a><a href="/variants/s12/dr3lg8dr2lg18dp5lg3o3lg3o16lg3o3lg3~x2/"><circle cx="286.6" cy="194.1" r="4" fill="#3465a4"><title>Dublin Irish County Tartan</title></circle></a><circle cx="283.9" cy="166.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

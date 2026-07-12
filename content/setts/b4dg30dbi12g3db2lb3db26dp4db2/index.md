@@ -1,6 +1,15 @@
 ---
 title: "Begg (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Begg"
+  url: "/clan/begg/"
+- name: "Begg"
+  url: "/families/begg/"
+- name: "Begg"
+  url: "/tartans/b/be/begg/"
 ---
 This is the **Begg (Personal)** sett — one scale-free proportion (`b4dg30dbi12g3db2lb3db26dp4db2`), colour order pattern
 [BBBWBGBGB](/stripes/bbbwbgbgb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dy2b4y3dg28b28w2b4n2~x2/"><circle cx="319.7" cy="165.3" r="4" fill="#3465a4"><title>Laurentian University</title></circle></a><a href="/variants/s9/db60ly3db5lyi5db9do20ly4g32w4~x2~ly2503076-lyi2705081/"><circle cx="300.8" cy="146.3" r="4" fill="#3465a4"><title>State Seal of Ohio (Fashion)</title></circle></a><a href="/variants/s10/db40lb3db3lb3db3lb4dg8g8n8w2~x2~db1404245/"><circle cx="236.7" cy="118.5" r="4" fill="#3465a4"><title>Greenshields Family Tartan</title></circle></a><a href="/variants/s12/b3g10b2db25dy3n4dy3dg10db3b2n3b1~x2/"><circle cx="275.2" cy="146.4" r="4" fill="#3465a4"><title>Bowhunter</title></circle></a><a href="/variants/s9/db20y1w1ly3g4dg10n4y1dp4~x2~g1903114-dg1806142/"><circle cx="205.6" cy="125.6" r="4" fill="#3465a4"><title>St. Columba (two greens) (Corporate)</title></circle></a><a href="/variants/s9/w1db16y1dr3y1dg6g2dg6w1~x2/"><circle cx="259.9" cy="157.6" r="4" fill="#3465a4"><title>Kleto, Susan (Personal)</title></circle></a><a href="/variants/s13/g3dp3n2db14g16dp18n2dp3n14db4y3lo1n2~x2/"><circle cx="205.0" cy="166.5" r="4" fill="#3465a4"><title>ENABLE Scotland</title></circle></a><a href="/variants/s11/g37dp5g5dp12t10db5t5db40dy4db4ly4~x2/"><circle cx="209.4" cy="175.5" r="4" fill="#3465a4"><title>State Seal of North Dakota (Fashion)</title></circle></a><a href="/variants/s13/g3n3dp2db14g16dp18n2dp3n14db4y3lo1n2~x2/"><circle cx="202.0" cy="167.2" r="4" fill="#3465a4"><title>ENABLE Scotland</title></circle></a><a href="/variants/s8/db17w2db2r2db2do12dg16y3~x4/"><circle cx="214.9" cy="200.2" r="4" fill="#3465a4"><title>Blairmore House</title></circle></a><circle cx="236.2" cy="166.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

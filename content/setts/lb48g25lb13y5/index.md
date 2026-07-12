@@ -1,6 +1,11 @@
 ---
 title: "Laurel Park"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Laurel Park"
+  url: "/tartans/l/la/laurel-park/"
 ---
 This is the **Laurel Park** sett — one scale-free proportion (`lb48g25lb13y5`), colour order pattern
 [GWGW](/stripes/gwgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/t4g8t18w3~x2/"><circle cx="471.8" cy="323.3" r="4" fill="#3465a4"><title>Blue Meadow Check (Fashion)</title></circle></a><a href="/variants/s5/lb4w2g17lb17lo2~x4~w4000000-g2405163/"><circle cx="390.1" cy="279.3" r="4" fill="#3465a4"><title>Bermuda (1986)</title></circle></a><a href="/variants/s5/lb4w2g17lb17lo2~x4/"><circle cx="354.7" cy="267.7" r="4" fill="#3465a4"><title>Bermuda (1986) (Fashion)</title></circle></a><a href="/variants/s5/lb9dt3lb1dt12y1~x4/"><circle cx="366.7" cy="237.0" r="4" fill="#3465a4"><title>North Sea Commission</title></circle></a><a href="/variants/s3/g12db3y1~x4/"><circle cx="534.1" cy="277.4" r="4" fill="#3465a4"><title>Unidentified pattern #2</title></circle></a><a href="/variants/s4/db9dg16b56ly4~x2~dg1304144-ly3608101/"><circle cx="441.7" cy="233.4" r="4" fill="#3465a4"><title>Oxford University</title></circle></a><a href="/variants/s4/b30y5b4r12~x4/"><circle cx="429.3" cy="247.9" r="4" fill="#3465a4"><title>UEFA (Glasgow)</title></circle></a><a href="/variants/s4/w2g13b13w2~x6/"><circle cx="301.0" cy="299.8" r="4" fill="#3465a4"><title>Dunoon</title></circle></a><a href="/variants/s3/g6db2g1~x4/"><circle cx="423.4" cy="315.4" r="4" fill="#3465a4"><title>Montgomery</title></circle></a><a href="/variants/s3/lb8dg1dr2~x20/"><circle cx="400.3" cy="247.1" r="4" fill="#3465a4"><title>Gyle</title></circle></a><circle cx="476.8" cy="296.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

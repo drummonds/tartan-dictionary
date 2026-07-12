@@ -1,6 +1,11 @@
 ---
 title: "Woodcock (2014)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Woodcock"
+  url: "/tartans/w/wo/woodcock/"
 ---
 This is the **Woodcock (2014)** sett — one scale-free proportion (`db30dp9g6dp9r4db17w5`), colour order pattern
 [BBGBRBW](/stripes/bbgbrbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db32r4db4dy4db9n9db4n16w7~x2/"><circle cx="275.6" cy="193.1" r="4" fill="#3465a4"><title>Nevada State American District Tartan</title></circle></a><a href="/variants/s6/dp30m5dp5lb4dp4g12~x2~dp1507303-m2510349/"><circle cx="374.4" cy="214.8" r="4" fill="#3465a4"><title>International Festival of Authors</title></circle></a><a href="/variants/s6/dp3o15db15r2db15y3~x2~o2500000/"><circle cx="302.3" cy="233.1" r="4" fill="#3465a4"><title>HMS Duncan Regimental Tartan</title></circle></a><a href="/variants/s6/dp30m5dp5b4dp4g12~x2~m2609322-b2306275/"><circle cx="378.8" cy="215.7" r="4" fill="#3465a4"><title>International Festival of Authors (C</title></circle></a><a href="/variants/s6/db22n5dp9g14db10lo2~x2/"><circle cx="291.6" cy="245.4" r="4" fill="#3465a4"><title>Belfrage (Name)</title></circle></a><a href="/variants/s7/dp22ly10dp6lb18dp50db71k6/"><circle cx="230.2" cy="176.4" r="4" fill="#3465a4"><title>Charleston Police Department</title></circle></a><a href="/variants/s6/dp20lb8g8db8dp33r3~x2/"><circle cx="362.0" cy="201.1" r="4" fill="#3465a4"><title>McIntosh, Stuart (Personal)</title></circle></a><a href="/variants/s6/dp46b15k12o8g8dp8~x2/"><circle cx="245.6" cy="201.5" r="4" fill="#3465a4"><title>Haut (Personal)</title></circle></a><a href="/variants/s8/dbi4dg2w2dg4db10r2db12y3~x2~dbi1604274-db0805267/"><circle cx="231.2" cy="203.4" r="4" fill="#3465a4"><title>United Services, Planning Association</title></circle></a><a href="/variants/s6/dp3n15db15r2db15y3~x2/"><circle cx="352.1" cy="250.2" r="4" fill="#3465a4"><title>HMS Duncan (Military)</title></circle></a><circle cx="292.1" cy="215.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

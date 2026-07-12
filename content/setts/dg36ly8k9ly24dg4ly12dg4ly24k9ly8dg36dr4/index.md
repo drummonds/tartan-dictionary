@@ -1,6 +1,15 @@
 ---
 title: "Harmer"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Harmer"
+  url: "/clan/harmer/"
+- name: "Harmer"
+  url: "/families/harmer/"
+- name: "Harmer"
+  url: "/tartans/h/ha/harmer/"
 ---
 This is the **Harmer** sett — one scale-free proportion (`dg36ly8k9ly24dg4ly12dg4ly24k9ly8dg36dr4`), colour order pattern
 [BGYKYGYGYKYG](/stripes/bgykygygykyg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/ly12dg4ly24k9ly8dg36dr4/"><circle cx="202.8" cy="199.0" r="4" fill="#3465a4"><title>Harmer (Corporate)</title></circle></a><a href="/variants/s10/w2k13ly13r2ly13k13w2k6ly6r1~x2/"><circle cx="193.0" cy="170.4" r="4" fill="#3465a4"><title>Westwood MacStone (Fashion)</title></circle></a><a href="/variants/s10/do1lr2k5do3k1ly4k1ly10k1ly1~x4/"><circle cx="205.4" cy="157.2" r="4" fill="#3465a4"><title>Campbell 'Camel'</title></circle></a><a href="/variants/s9/db5r19k2g8r3g18k2g9k2~x2/"><circle cx="233.5" cy="180.4" r="4" fill="#3465a4"><title>Hubbard (2016)</title></circle></a><a href="/variants/s14/dg6ly2db2ly11dg2ly2r3ly2dg2ly11db2ly2dg6r3~x2/"><circle cx="223.3" cy="200.5" r="4" fill="#3465a4"><title>Invertere (Daks #1)</title></circle></a><a href="/variants/s10/dy1w2k5dy3k1ly5k1ly11k1ly1~x4/"><circle cx="221.7" cy="148.8" r="4" fill="#3465a4"><title>Braemar or Blair Atholl Trade Tartan</title></circle></a><a href="/variants/s12/w3ly3r2ly13k3ly4k22ly4k3ly16b2w3~x2/"><circle cx="198.5" cy="132.4" r="4" fill="#3465a4"><title>Loch Sween</title></circle></a><a href="/variants/s9/y3g24k18r4g22r6k4r3w3~x2/"><circle cx="187.8" cy="165.7" r="4" fill="#3465a4"><title>Brown, George</title></circle></a><a href="/variants/s8/dy3k7dy2w2ly12k2ly2dy3~x2/"><circle cx="138.8" cy="196.2" r="4" fill="#3465a4"><title>Daks (Brown)</title></circle></a><a href="/variants/s13/ly12k2ly2k2ly2k10g12k3g12k10ly12k2ly2~x2/"><circle cx="121.8" cy="204.1" r="4" fill="#3465a4"><title>Brown Watch</title></circle></a><circle cx="190.1" cy="180.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

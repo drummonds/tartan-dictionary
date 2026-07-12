@@ -1,6 +1,11 @@
 ---
 title: "Unidentified 22"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified 22"
+  url: "/tartans/u/un/unidentified-22/"
 ---
 This is the **Unidentified 22** sett — one scale-free proportion (`dp96g10dp8g8dp10o34r1o6r4o4r6o2r7w3r7o2r6o4r4o6r1o34lb36o6lb18`), colour order pattern
 [BGBGBRRRRRRRRWRRRRRRRRWRW](/stripes/bgbgbrrrrrrrrwrrrrrrrrwrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s25/dp96g10dp8g8dp10dy34r1dy6r4dy4r6dy2r7w3r7dy2r6dy4r4dy6r1dy34lb36dy6lb18~x2/"><circle cx="212.5" cy="28.1" r="4" fill="#3465a4"><title>Unidentified #5</title></circle></a><a href="/variants/s20/r5y1r8w1db20w1b20w1g20y1r5y1r5y1g20y2r52w1y5w1~x2/"><circle cx="253.9" cy="41.9" r="4" fill="#3465a4"><title>Whitworth</title></circle></a><a href="/variants/s18/r44o4db16r4o6db8o6r6db2r4db2r4db2r6w1g24lb6w1/"><circle cx="189.6" cy="38.4" r="4" fill="#3465a4"><title>Unidentified Cant #13</title></circle></a><a href="/variants/s20/r5y1r8w1db20w1lb20w1g20y1r5y1r5y1g20y2r52w1y5w1~x2/"><circle cx="247.3" cy="39.6" r="4" fill="#3465a4"><title>Whitworth Artifact Tartan</title></circle></a><a href="/variants/s24/lb2dp10b3r4g72r7g4r10db24dp6b5r4b5dp7g24r24g24r3db3r74dp7b5r6lb2~x2/"><circle cx="234.9" cy="51.5" r="4" fill="#3465a4"><title>MacDougall, of MacDougall</title></circle></a><a href="/variants/s25/db2r2db2r2db6r5w2r75db13w5db9b2db45o1db3o2db2o3db1o10w2db10lb2o14lb2~x2/"><circle cx="267.8" cy="14.0" r="4" fill="#3465a4"><title>Unidentified Plaid 5</title></circle></a><a href="/variants/s20/r5dy1r8w1db20w1lb20w1g20dy1r5dy1r5dy1g20dy2r52w1dy5w1~x2/"><circle cx="221.6" cy="14.0" r="4" fill="#3465a4"><title>Whitworth</title></circle></a><a href="/variants/s13/r34w1db10dg10w1ly1dg2lb2w1db2lb10r6w1~x2/"><circle cx="179.9" cy="53.0" r="4" fill="#3465a4"><title>Holyrood (Chair)</title></circle></a><a href="/variants/s24/lb2dp10r3ri4g72ri7g4ri10db24dp6r5ri4r5dp7g24ri24g24ri3db3ri74dp7r5ri6lb2~x2~r2208029-ri2209032/"><circle cx="234.9" cy="49.4" r="4" fill="#3465a4"><title>MacDougall of MacDougall</title></circle></a><a href="/variants/s25/db2ri2db2ri2db6ri5w2ri75db13w5db9r2db45dy1db3dy2db2dy3db1dy10w2db10lb2dy14lb2~x2~ri2209032-r2208029/"><circle cx="263.1" cy="14.0" r="4" fill="#3465a4"><title>Unidentified Plaid #11</title></circle></a><circle cx="217.2" cy="27.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

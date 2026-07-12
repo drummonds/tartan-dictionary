@@ -24,7 +24,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/callaway/"><img src="/variants/s6/dr1k10n2lb5k5dr1~x4/sett.png" alt="Callaway" width="140"><br><strong>Callaway</strong></a></li>
 <li><a class="tartan" href="/families/callum/"><img src="/variants/s12/dr3t16db2t2db2t3db6ly20w3ly2w2ly3~x2~t1903246-db0906265/sett.png" alt="Callum" width="140"><br><strong>Callum</strong></a></li>
 <li><a class="tartan" href="/families/cambridge/"><img src="/variants/s15/db73k4lb6k4db73g73r4g73db73k4lb4k4db73g73y4/sett.png" alt="Cambridge" width="140"><br><strong>Cambridge</strong></a></li>
-<li><a class="tartan" href="/families/cameron/"><img src="/variants/s7/r3g10r3g14db16g3y2/sett.png" alt="Cameron" width="140"><br><strong>Cameron</strong></a></li>
+<li><a class="tartan" href="/families/cameron/"><img src="/variants/s10/db7r3db9r2k10g9r3g2r2g7~x2/sett.png" alt="Cameron" width="140"><br><strong>Cameron</strong></a></li>
 <li><a class="tartan" href="/families/cameron-of-erracht/"><img src="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2/sett.png" alt="Cameron of Erracht" width="140"><br><strong>Cameron of Erracht</strong></a></li>
 <li><a class="tartan" href="/families/cameron-of-locheil/"><img src="/variants/s9/r6g3r6db1w1db1r2db8r4/sett.png" alt="Cameron of Locheil" width="140"><br><strong>Cameron of Locheil</strong></a></li>
 <li><a class="tartan" href="/families/cameron-of-lochiel/"><img src="/variants/s7/r5g20r5g20db24g6y4/sett.png" alt="Cameron of Lochiel" width="140"><br><strong>Cameron of Lochiel</strong></a></li>
@@ -32,7 +32,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/campbell-of-argyll/"><img src="/variants/s6/db2k2db12k11g16w2~x2/sett.png" alt="Campbell of Argyll" width="140"><br><strong>Campbell of Argyll</strong></a></li>
 <li><a class="tartan" href="/families/campbell-of-armaddie/"><img src="/variants/s5/r4k1r12k12r2~x2/sett.png" alt="Campbell of Armaddie" width="140"><br><strong>Campbell of Armaddie</strong></a></li>
 <li><a class="tartan" href="/families/campbell-of-breadalbane/"><img src="/variants/s13/db26k4db4k4db4k27y5g47y5k27db25k4db4~x2/sett.png" alt="Campbell of Breadalbane" width="140"><br><strong>Campbell of Breadalbane</strong></a></li>
-<li><a class="tartan" href="/families/campbell-of-cawdor/"><img src="/variants/s36/db10k10g10k1db2k1g10k10w2db2w24db2w2db2w24db2w2k10g10k1db2k1g10k10db10k2r3k2db10k10w2db2w24db2w2db2~x2/sett.png" alt="Campbell of Cawdor" width="140"><br><strong>Campbell of Cawdor</strong></a></li>
+<li><a class="tartan" href="/families/campbell-of-cawdor/"><img src="/variants/s7/r2k1db8k8g8k1y2~x2/sett.png" alt="Campbell of Cawdor" width="140"><br><strong>Campbell of Cawdor</strong></a></li>
 <li><a class="tartan" href="/families/campbell-of-glenlyon/"><img src="/variants/s5/g7k6t7k1t2~x2/sett.png" alt="Campbell of Glenlyon" width="140"><br><strong>Campbell of Glenlyon</strong></a></li>
 <li><a class="tartan" href="/families/campbell-of-loch-awe/"><img src="/variants/s5/k2db11k26g11k2~x2/sett.png" alt="Campbell of Loch Awe" width="140"><br><strong>Campbell of Loch Awe</strong></a></li>
 <li><a class="tartan" href="/families/campbell-of-loch-neil/"><img src="/variants/s28/k20g14k2y4k2g14k10w6db6w18db3w4db3w18db6w6k10g14k2w4k2g14k12db12k2db6k2db12/sett.png" alt="Campbell of Loch Neil" width="140"><br><strong>Campbell of Loch Neil</strong></a></li>
@@ -44,7 +44,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/carlisle/"><img src="/variants/s5/t11lo2dr1lo2dr1~x4/sett.png" alt="Carlisle" width="140"><br><strong>Carlisle</strong></a></li>
 <li><a class="tartan" href="/families/carnegie/"><img src="/variants/s13/db3r1db1r2db6r1k6g6r2g1r1g2y1~x2/sett.png" alt="Carnegie" width="140"><br><strong>Carnegie</strong></a></li>
 <li><a class="tartan" href="/families/carnegie-of-skibo/"><img src="/variants/s11/w3db5lb2db9dp10k2dp5k2dg8g29w2~x2/sett.png" alt="Carnegie of Skibo" width="140"><br><strong>Carnegie of Skibo</strong></a></li>
-<li><a class="tartan" href="/families/carrick/"><img src="/variants/s8/g13dp1g1dp1g3t5k4y2~x4/sett.png" alt="Carrick" width="140"><br><strong>Carrick</strong></a></li>
+<li><a class="tartan" href="/families/carrick/"><img src="/variants/s9/r28db12r3g20m1g2m1g2r7~x2/sett.png" alt="Carrick" width="140"><br><strong>Carrick</strong></a></li>
 <li><a class="tartan" href="/clan/carson/"><img src="/variants/s13/db36m2k3lb2k8lb2k3m2dg11g6dg4g4dg20~x2/sett.png" alt="Carson" width="140"><br><strong>Carson</strong></a><div class="clan-territory">clan</div></li>
 <li><a class="tartan" href="/families/carson-of-rusco/"><img src="/variants/s13/db36m2k3lb2k8lb2k3m2dg11g6dg4g4dg20~x2/sett.png" alt="Carson of Rusco" width="140"><br><strong>Carson of Rusco</strong></a></li>
 <li><a class="tartan" href="/variants/s14/g5ly2w2db8k2db5k2db28k2db10w4g3w2ly4~x2/"><strong>Carstairs</strong></a></li>
@@ -127,7 +127,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/conquergood/"><img src="/variants/s8/k4lb2w11lb5n5w2k1lb2~x2/sett.png" alt="Conquergood" width="140"><br><strong>Conquergood</strong></a></li>
 <li><a class="tartan" href="/families/conroy/"><img src="/variants/s8/dr64k10lo4r5lb2k2db3lo4~x2/sett.png" alt="Conroy" width="140"><br><strong>Conroy</strong></a></li>
 <li><a class="tartan" href="/families/contreceour/"><img src="/variants/s15/y10w1g2k2w2r1w2k2g2k1y10w7r3w13lb5~x2/sett.png" alt="Contreceour" width="140"><br><strong>Contreceour</strong></a></li>
-<li><a class="tartan" href="/families/contrecoeur/"><img src="/variants/s15/w2n2g2dy1y10w7r3w13db5y10w1g2n2w2r1~x4/sett.png" alt="Contrecoeur" width="140"><br><strong>Contrecoeur</strong></a></li>
+<li><a class="tartan" href="/families/contrecoeur/"><img src="/variants/s15/y10dy1g2y2lr2dr1lr2y2g2dy1y10dr7w3dr13db5~x2/sett.png" alt="Contrecoeur" width="140"><br><strong>Contrecoeur</strong></a></li>
 <li><a class="tartan" href="/families/cook/"><img src="/variants/s7/g12lb6g6r15k1r1k2~x2/sett.png" alt="Cook" width="140"><br><strong>Cook</strong></a></li>
 <li><a class="tartan" href="/families/cooke/"><img src="/variants/s7/k6lb2db12g8r5k2g3~x4/sett.png" alt="Cooke" width="140"><br><strong>Cooke</strong></a></li>
 <li><a class="tartan" href="/families/cooper/"><img src="/variants/s18/r2o3db2g18db3g2db3k10o3g2o3g8db2k2db14o3db2r2~x2/sett.png" alt="Cooper" width="140"><br><strong>Cooper</strong></a></li>
@@ -138,7 +138,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/variants/s5/db32dy16g3lo4dg28~x2/"><strong>Corey in Balachuirn</strong></a></li>
 <li><a class="tartan" href="/families/cornell/"><img src="/variants/s8/r74w27r13lb7r13w13r74k7/sett.png" alt="Cornell" width="140"><br><strong>Cornell</strong></a></li>
 <li><a class="tartan" href="/families/cornish/"><img src="/variants/s12/k26ly2g24db8k4r3k4db8g24ly2k26w5~x2/sett.png" alt="Cornish" width="140"><br><strong>Cornish</strong></a></li>
-<li><a class="tartan" href="/families/coulter/"><img src="/variants/s8/dr6w20g12y3g8lb20k2lb3~x2/sett.png" alt="Coulter" width="140"><br><strong>Coulter</strong></a></li>
+<li><a class="tartan" href="/families/coulter/"><img src="/variants/s12/k13lb7k2r14g14w2lb3w2g14r14k15lb7~x2/sett.png" alt="Coulter" width="140"><br><strong>Coulter</strong></a></li>
 <li><a class="tartan" href="/clan/couper/"><img src="/variants/s18/r2lp4db2g24db4g2db4k10lp4db2lp4g8db1k2db22lp4db2r2~x2~r2109032-lp3004317/sett.png" alt="Couper" width="140"><br><strong>Couper</strong></a><div class="clan-territory">clan</div></li>
 <li><a class="tartan" href="/families/couper-of-gogar/"><img src="/variants/s18/r2lp4db2g24db4g2db4k10lp4db2lp4g8db1k2db22lp4db2r2~x2~r2109032-lp3004317/sett.png" alt="Couper of Gogar" width="140"><br><strong>Couper of Gogar</strong></a></li>
 <li><a class="tartan" href="/variants/s40/k12g1k1g1k1g1k1g12lb4y4lb4k1g1k1g1k1g1k1g12k12db1k1db1k1db1k1db12lb4k1r4k1lb4k1db1k1db1k1db1k1db12~x2/"><strong>Coutts 75th</strong></a></li>
@@ -161,7 +161,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/cree/"><img src="/variants/s13/y30dy20db2k6y3k2w3k2g6r6k3r3w3~x2/sett.png" alt="Cree" width="140"><br><strong>Cree</strong></a></li>
 <li><a class="tartan" href="/variants/s16/w2n1lr12o2lr2o2lr2o2lr2dp10o1dp10g12n2g4lr2~x2~n1900000-lr3000000-o2404317-dp1105325/"><strong>Cribb</strong></a></li>
 <li><a class="tartan" href="/families/crichton/"><img src="/variants/s9/db80dg1db2dr4lr1n5db8ly2dg2~x2~db0705267-lr2800000-n1900000/sett.png" alt="Crichton" width="140"><br><strong>Crichton</strong></a></li>
-<li><a class="tartan" href="/families/crieff/"><img src="/variants/s13/k2g2w2g3w33r2dp10r3g3r26g2r4m2~x2~r2109032-m2106019/sett.png" alt="Crieff" width="140"><br><strong>Crieff</strong></a></li>
+<li><a class="tartan" href="/families/crieff/"><img src="/variants/s13/m2r6g4r70g4r2dp21r2g85r2g4r6m2~m2106019-r2109032/sett.png" alt="Crieff" width="140"><br><strong>Crieff</strong></a></li>
 <li><a class="tartan" href="/variants/s9/k4r14t2dg16r3k3r3t12dg4~x2/"><strong>Crook</strong></a></li>
 <li><a class="tartan" href="/variants/s8/g2db2g6db4g3db4g18ly2~x4/"><strong>Crow</strong></a></li>
 <li><a class="tartan" href="/variants/s9/n44y2dg27y2g16lb8dg16lb2dg8~x2/"><strong>Crumlish</strong></a></li>
@@ -172,7 +172,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/cumbernauld/"><img src="/variants/s15/db17k3db3k3db3k17g17k2w2k2g17k17db17k2dr3~x2/sett.png" alt="Cumbernauld" width="140"><br><strong>Cumbernauld</strong></a></li>
 <li><a class="tartan" href="/families/cumming/"><img src="/variants/s22/g10r3db12lb1r10g12r3db20r3db3lb1r3db20r3g12r12lb1db12r3g20r3db3~x2/sett.png" alt="Cumming" width="140"><br><strong>Cumming</strong></a></li>
 <li><a class="tartan" href="/families/cumnock/"><img src="/variants/s8/g3db16k3dp2k45r1k2lo3~x2/sett.png" alt="Cumnock" width="140"><br><strong>Cumnock</strong></a></li>
-<li><a class="tartan" href="/families/cunningham/"><img src="/variants/s17/db12k2g2k2g2k2db13dr6k10dr6g13k2lo2k2lb2k2g12~x2/sett.png" alt="Cunningham" width="140"><br><strong>Cunningham</strong></a></li>
+<li><a class="tartan" href="/families/cunningham/"><img src="/variants/s7/k3r1k30r28db1r1w3~x2/sett.png" alt="Cunningham" width="140"><br><strong>Cunningham</strong></a></li>
 <li><a class="tartan" href="/variants/s8/db1lb9w3y3db9y1g1r1~x4/"><strong>Curd</strong></a></li>
 <li><a class="tartan" href="/clan/curnow/"><img src="/variants/s12/dp26ly2r3ly2dp26k13y2k8w3k8y2k13~x2~ly3307090-y2502222/sett.png" alt="Curnow" width="140"><br><strong>Curnow</strong></a><div class="clan-territory">clan</div></li>
 <li><a class="tartan" href="/families/curnow-of-kernow/"><img src="/variants/s12/dp26ly2r3ly2dp26k13y2k8w3k8y2k13~x2~ly3307090-y2502222/sett.png" alt="Curnow of Kernow" width="140"><br><strong>Curnow of Kernow</strong></a></li>

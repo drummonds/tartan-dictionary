@@ -1,6 +1,15 @@
 ---
 title: "Bannockbane Hunting Trade Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Bannockbane"
+  url: "/clan/bannockbane/"
+- name: "Bannockbane"
+  url: "/families/bannockbane/"
+- name: "Bannockbane Hunting"
+  url: "/tartans/b/ba/bannockbane-hunting-2/"
 ---
 This is the **Bannockbane Hunting Trade Tartan** sett — one scale-free proportion (`g2dy2g15dy1w1g15dy2g2`), colour order pattern
 [GGGGWGGG](/stripes/ggggwggg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g2o2g15o1w1g15o2g2~x2/"><circle cx="626.0" cy="223.5" r="4" fill="#3465a4"><title>Bannockbane, hunting</title></circle></a><a href="/variants/s8/dt30dy2dt1w1dt10w1dt2dy2~x2/"><circle cx="626.0" cy="165.5" r="4" fill="#3465a4"><title>Royal Warrant Holders (Corporate)</title></circle></a><a href="/variants/s8/g5n9g4w5g30r2g4r2~x2/"><circle cx="451.7" cy="184.7" r="4" fill="#3465a4"><title>Welsh Assembly (Fashion)</title></circle></a><a href="/variants/s8/g18r6g75db6g13dy35g12db6/"><circle cx="436.5" cy="198.5" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><a href="/variants/s6/dt40dy10dt8r20dt100w5/"><circle cx="550.3" cy="178.4" r="4" fill="#3465a4"><title>East of Scotland Tartan Army</title></circle></a><a href="/variants/s6/g3ly3g20ly20g20ly3~x2/"><circle cx="470.7" cy="313.7" r="4" fill="#3465a4"><title>Barbie's Moss Plaid (Yellow &amp; Green)</title></circle></a><a href="/variants/s6/g72k8g4dy16g7n2~x2/"><circle cx="493.2" cy="129.5" r="4" fill="#3465a4"><title>MacAndrew Hunting (Name)</title></circle></a><a href="/variants/s7/dt40dg3dp4dt28ly2lr2dt7~x2/"><circle cx="626.0" cy="188.8" r="4" fill="#3465a4"><title>Pisniak (Personal)</title></circle></a><a href="/variants/s9/dg6dy2o1dg15o3dy1dg15g6o1~x2/"><circle cx="516.3" cy="208.7" r="4" fill="#3465a4"><title>McCall, F W (Personal)</title></circle></a><a href="/variants/s10/g14w2g14r1g14y2g30lb2g2lb4~x2/"><circle cx="622.7" cy="156.3" r="4" fill="#3465a4"><title>Holmston Primary (School)</title></circle></a><circle cx="626.0" cy="217.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Widows Sons Scotland (MRA)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Widows Sons Scotland"
+  url: "/tartans/w/wi/widows-sons-scotland/"
 ---
 This is the **Widows Sons Scotland (MRA)** sett — one scale-free proportion (`n9k16dg10k22dp67y4`), colour order pattern
 [BKGKBG](/stripes/bkgkbg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k4dg3dp18k18w2~x2/"><circle cx="256.1" cy="204.6" r="4" fill="#3465a4"><title>Wcwm 1106-2</title></circle></a><a href="/variants/s7/k62db15dp15o20lr5db5k15~x2/"><circle cx="241.4" cy="149.4" r="4" fill="#3465a4"><title>Black Raven</title></circle></a><a href="/variants/s6/k3g2m3db30dp32w3~x2/"><circle cx="272.8" cy="147.6" r="4" fill="#3465a4"><title>Pride of Glencoe</title></circle></a><a href="/variants/s8/k4dr2lr2dr28db27dr2k2lo2~x2/"><circle cx="293.9" cy="142.7" r="4" fill="#3465a4"><title>Toronto Fire Services (Corporate)</title></circle></a><a href="/variants/s6/db22k16y4k11dp2n1~x4/"><circle cx="271.4" cy="159.1" r="4" fill="#3465a4"><title>Martinez, Clément (Personal)</title></circle></a><a href="/variants/s6/ly6do36k48r4k5lyi6~ly2503076-lyi2705081/"><circle cx="244.7" cy="155.7" r="4" fill="#3465a4"><title>Drambuie Hunting</title></circle></a><a href="/variants/s6/n3r18k2dg18k24ri1~x2~r1706009-ri2109032/"><circle cx="213.7" cy="152.2" r="4" fill="#3465a4"><title>205 (Scottish) Field Hospital (Mil.)</title></circle></a><a href="/variants/s7/k5r3k27ki37r5g2y2~x2~ki0604259/"><circle cx="266.6" cy="133.1" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s7/dt6n4dt2db25k30g2k2~x2/"><circle cx="255.4" cy="152.6" r="4" fill="#3465a4"><title>Passion of Scotland (Fashion)</title></circle></a><a href="/variants/s8/dp5r3dp18g8k8dpi31k2dpi4~x2~dp1005325-dpi1505337/"><circle cx="257.2" cy="159.2" r="4" fill="#3465a4"><title>By Storm</title></circle></a><circle cx="303.4" cy="157.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

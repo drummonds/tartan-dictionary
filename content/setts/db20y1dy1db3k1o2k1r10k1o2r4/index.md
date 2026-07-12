@@ -1,6 +1,15 @@
 ---
 title: "Blais Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Blais"
+  url: "/clan/blais/"
+- name: "Blais"
+  url: "/families/blais/"
+- name: "Blais"
+  url: "/tartans/b/bl/blais/"
 ---
 This is the **Blais Family Tartan** sett — one scale-free proportion (`db20y1dy1db3k1o2k1r10k1o2r4`), colour order pattern
 [RKRKRKBGGBGGBKRKRKRR](/stripes/rkrkrkbggbggbkrkrkrr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x2/"><circle cx="251.1" cy="82.6" r="4" fill="#3465a4"><title>Blais (Personal)</title></circle></a><a href="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x4/"><circle cx="251.1" cy="82.6" r="4" fill="#3465a4"><title>Blais (Personal)</title></circle></a><a href="/variants/s11/db20y1o1db3k1n2k1r10k1n2r4~x2/"><circle cx="250.1" cy="82.2" r="4" fill="#3465a4"><title>Blais</title></circle></a><a href="/variants/s10/db4dy3db22n6w2k6w2r26k3r4~x2/"><circle cx="145.1" cy="113.3" r="4" fill="#3465a4"><title>Asman, Dress (Name)</title></circle></a><a href="/variants/s10/db4dy3db22n6w2k6w2r26k3r4~x2~db1406275/"><circle cx="151.0" cy="114.3" r="4" fill="#3465a4"><title>Asman Dress Family Tartan</title></circle></a><a href="/variants/s22/db41r2k42w2g41r3y2r3g3r31k3y2r3k5r3y2k3r31db3r3y2r3~x2/"><circle cx="124.2" cy="46.1" r="4" fill="#3465a4"><title>Hay or Leith</title></circle></a><a href="/variants/s14/db20w3db4w3db4w3r22g2k1g2dy16w1k2w1~x2/"><circle cx="123.2" cy="77.1" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield Traditional</title></circle></a><a href="/variants/s13/r24db2w2k2r2db27dg6db2ly2k2r2db2dg23~x2/"><circle cx="152.1" cy="100.3" r="4" fill="#3465a4"><title>Montreal Olympics (1976) (Corporate)</title></circle></a><a href="/variants/s23/k3r1y1k2r16db2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3/"><circle cx="122.4" cy="56.2" r="4" fill="#3465a4"><title>Hay and Leith</title></circle></a><a href="/variants/s23/k3r1y1k2r16db2r1y1r2db15r1k15w1g15r2y1r1g2r16k2y1r1k3~x2/"><circle cx="122.4" cy="56.2" r="4" fill="#3465a4"><title>Leith, (Hay)</title></circle></a><circle cx="170.9" cy="56.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

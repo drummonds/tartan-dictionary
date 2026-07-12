@@ -1,6 +1,11 @@
 ---
 title: "State Seal of Connecticut (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "State Seal of Connecticut"
+  url: "/tartans/s/st/state-seal-of-connecticut/"
 ---
 This is the **State Seal of Connecticut (Fashion)** sett — one scale-free proportion (`dp4g6db4g28w4g6db6dbi46db1w4`), colour order pattern
 [BGBGWGBBBW](/stripes/bgbgwgbbbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w5n38y3db11y1db11y3n4w5lo1~x2~n1700000-y2400000/"><circle cx="336.4" cy="119.1" r="4" fill="#3465a4"><title>Ballarat</title></circle></a><a href="/variants/s11/db49dy19g5dg6g5dg6g35dg1lr4dg1g4~x2/"><circle cx="287.3" cy="121.8" r="4" fill="#3465a4"><title>State Seal of Indiana (Fashion)</title></circle></a><a href="/variants/s16/t8db6dp40dg16db1dg7t2dg5t4dg4t4dg2t5dg1t36w6/"><circle cx="285.6" cy="110.1" r="4" fill="#3465a4"><title>Bell-McTier Thistle (Personal)</title></circle></a><a href="/variants/s8/db23w1r3w1db12y9g40dp3~x2/"><circle cx="278.3" cy="120.8" r="4" fill="#3465a4"><title>Pictou County</title></circle></a><a href="/variants/s10/db3dbi3db1g26db10dt1db3dp5dbi4ly2~x2~db1004274-dbi1406275/"><circle cx="280.2" cy="131.5" r="4" fill="#3465a4"><title>Rikaco Heirloom (Fashion)</title></circle></a><a href="/variants/s16/n8db6dp40g16n1g7n2g5n4g4n4g2n5g1n36w6~n1703265-db1104274/"><circle cx="304.5" cy="114.4" r="4" fill="#3465a4"><title>Bell-McTier Thistle</title></circle></a><a href="/variants/s9/dt47y1db27lr4g5y1lr8b1db1~x2~dt1000000-lr3201060/"><circle cx="334.1" cy="95.4" r="4" fill="#3465a4"><title>Brighton Mac Dermotte</title></circle></a><a href="/variants/s9/db5y2db17g14w1g1w1g4y2~x2/"><circle cx="308.0" cy="180.0" r="4" fill="#3465a4"><title>MacOrrell</title></circle></a><a href="/variants/s8/db20dr1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><circle cx="314.6" cy="156.4" r="4" fill="#3465a4"><title>Kruenaegel and Schropp</title></circle></a><a href="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-lo2804072/"><circle cx="238.9" cy="142.1" r="4" fill="#3465a4"><title>Michigan, State of (District)</title></circle></a><circle cx="300.9" cy="118.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

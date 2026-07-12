@@ -1,6 +1,11 @@
 ---
 title: "Gordon"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Gordon (Duke of Gordon)"
+  url: "/clan/gordon/"
 ---
 A family of [Clan Gordon (Duke of Gordon)](/clan/gordon/).
 

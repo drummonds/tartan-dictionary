@@ -1,6 +1,11 @@
 ---
 title: "Jensen, Sven (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Jensen, Sven"
+  url: "/tartans/j/je/jensen-sven/"
 ---
 This is the **Jensen, Sven (Personal)** sett — one scale-free proportion (`g12k8n6k22n3k8n3k40g6`), colour order pattern
 [GKBKBKBKG](/stripes/gkbkbkbkg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k1g1k8n1k1n2k1n1~x8/"><circle cx="367.8" cy="174.4" r="4" fill="#3465a4"><title>Nightstalker (Corporate)</title></circle></a><a href="/variants/s8/k1g1k8n1k1n2k1n1~x8~n1900000/"><circle cx="371.9" cy="175.6" r="4" fill="#3465a4"><title>Nightstalker</title></circle></a><a href="/variants/s8/k24n18k11n4k11n18k53ly4/"><circle cx="373.2" cy="179.8" r="4" fill="#3465a4"><title>Spirit of Glyndwr Gold (Fashion)</title></circle></a><a href="/variants/s8/k40dg15k10o2k10lo2k10lo2~x2/"><circle cx="444.0" cy="136.4" r="4" fill="#3465a4"><title>Langhein, Alex (Personal)</title></circle></a><a href="/variants/s8/k24n18k11n4k11n18k53r4/"><circle cx="372.5" cy="176.4" r="4" fill="#3465a4"><title>Spirit of Glyndwr Red (Fashion)</title></circle></a><a href="/variants/s7/n1k21n5k3n5k9r1~x4/"><circle cx="432.7" cy="151.6" r="4" fill="#3465a4"><title>Sunderland of Scotland (Fashion)</title></circle></a><a href="/variants/s11/k68n11k16n4k4n4k4n19k14w4k14/"><circle cx="416.0" cy="124.0" r="4" fill="#3465a4"><title>Stewart Mourning</title></circle></a><a href="/variants/s10/k3g2k20r2k12g2k4g2k6g2~x2/"><circle cx="456.0" cy="160.8" r="4" fill="#3465a4"><title>Renwick</title></circle></a><a href="/variants/s8/k24n18k11n4k11n18k53n4/"><circle cx="402.8" cy="195.5" r="4" fill="#3465a4"><title>Spirit of Glyndwr Grey (Fashion)</title></circle></a><a href="/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/"><circle cx="392.4" cy="128.5" r="4" fill="#3465a4"><title>Witches' Blood, The</title></circle></a><circle cx="384.1" cy="165.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,13 @@
 ---
 title: "MacPherson Gathering 1996"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacPherson"
+  url: "/clan/macpherson/"
+- name: "MacPherson Gathering 1996"
+  url: "/tartans/m/ma/macpherson-gathering-1996/"
 ---
 This is the **MacPherson Gathering 1996** sett — one scale-free proportion (`t3r2dg16r2t3r2n16r2t3`), colour order pattern
 [BRBRBRGRB](/stripes/brbrbrgrb/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dp1g1dp1g7n7dp1n1r1~x6/"><circle cx="308.0" cy="235.3" r="4" fill="#3465a4"><title>Beck-McSorley</title></circle></a><a href="/variants/s8/o28g2o4db18g23db2g3oi4~x2~o2102055-oi2104058/"><circle cx="286.8" cy="207.4" r="4" fill="#3465a4"><title>Dalbraith-Eastern Western Motor Group</title></circle></a><a href="/variants/s11/dr6db3o3dr24db20g24o3g3o3g3o6/"><circle cx="193.1" cy="203.2" r="4" fill="#3465a4"><title>Bonnie Brae School</title></circle></a><a href="/variants/s9/b3do2o14g17do14b8o14do2b3~x2/"><circle cx="228.0" cy="242.3" r="4" fill="#3465a4"><title>Monaghan</title></circle></a><a href="/variants/s11/r6db3y3o32db24g32y3g3y3g3y6/"><circle cx="205.2" cy="177.9" r="4" fill="#3465a4"><title>Bonnie Brae Corporate Tartan</title></circle></a><a href="/variants/s11/dt2y10dg4o5dg2o3dg2o5dg4dt15lr2~x2~y2302166-dg1806142/"><circle cx="201.8" cy="224.3" r="4" fill="#3465a4"><title>Elwyn Glen (Scottish Borders)</title></circle></a><a href="/variants/s8/o18dt2o2dt2o2dt14dr14ly3~x2/"><circle cx="267.6" cy="219.0" r="4" fill="#3465a4"><title>Talladale</title></circle></a><a href="/variants/s8/g24dp3g3dp3g3dp7dg20r3~x2~g2205128-dg1303152/"><circle cx="298.9" cy="221.8" r="4" fill="#3465a4"><title>Crantock</title></circle></a><a href="/variants/s8/n2o2n15o2w10oi15o2oi2~x2~o2102055-oi2104058/"><circle cx="225.4" cy="225.5" r="4" fill="#3465a4"><title>Bannockbane, Grey</title></circle></a><a href="/variants/s7/r2ly1t8r1g7ly1r2~x6/"><circle cx="241.7" cy="234.1" r="4" fill="#3465a4"><title>Cercle de Fermieres de St-Elie . . .</title></circle></a><circle cx="251.6" cy="219.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Wells (2014)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Wells"
+  url: "/clan/wells/"
+- name: "Wells"
+  url: "/families/wells/"
+- name: "Wells"
+  url: "/tartans/w/we/wells-3/"
 ---
 This is the **Wells (2014)** sett — one scale-free proportion (`db50g25ly3lb8r1w1r1`), colour order pattern
 [BGYWRWR](/stripes/bgywrwr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db50g25y3n8r1w1r1~x2/"><circle cx="362.9" cy="98.2" r="4" fill="#3465a4"><title>Wells (2014)</title></circle></a><a href="/variants/s6/w2db45g9r1n9dr1~x2/"><circle cx="430.0" cy="101.2" r="4" fill="#3465a4"><title>Wilton (Name)</title></circle></a><a href="/variants/s10/g24w2k4w2k8r2db51k2lb8w1~x2~r2806019/"><circle cx="233.4" cy="47.1" r="4" fill="#3465a4"><title>Victoria State (Australia)</title></circle></a><a href="/variants/s10/g24w2k4w2k8r2db51k2lb8w1~x2/"><circle cx="233.9" cy="47.1" r="4" fill="#3465a4"><title>Victoria (Australia)</title></circle></a><a href="/variants/s7/w3r2db31dg30y2dg2y1~x2/"><circle cx="342.4" cy="140.6" r="4" fill="#3465a4"><title>Caig (Personal)</title></circle></a><a href="/variants/s6/t23w3k10r2db45dy1~x2/"><circle cx="286.0" cy="94.2" r="4" fill="#3465a4"><title>Kirkcaldy Name Tartan</title></circle></a><a href="/variants/s6/lb23w3k10r2db45y1~x2/"><circle cx="259.4" cy="83.2" r="4" fill="#3465a4"><title>Kirkcaldy</title></circle></a><a href="/variants/s8/r2w1r5g5lo1g10db40y2~x2/"><circle cx="360.7" cy="82.1" r="4" fill="#3465a4"><title>St. Andrew Quebec City (Corporate)</title></circle></a><a href="/variants/s10/w2ly4db1ly1db40n6g18r2g2w1~x2/"><circle cx="301.0" cy="73.2" r="4" fill="#3465a4"><title>O'Mahony, The (Commemorative)</title></circle></a><a href="/variants/s8/db31y4g68w4db31r2k6r2~x2/"><circle cx="250.5" cy="94.6" r="4" fill="#3465a4"><title>Inkster (Name)</title></circle></a><circle cx="333.7" cy="88.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

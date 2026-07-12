@@ -1,6 +1,11 @@
 ---
 title: "International Council for Commercial Arbitration"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "International Council for Commercial Arbitration"
+  url: "/tartans/i/in/international-council-for-commercial-arbitration/"
 ---
 This is the **International Council for Commercial Arbitration** sett — one scale-free proportion (`lo2w1lo12db2r1db18r1lb18r1lb2w12lo1w1`), colour order pattern
 [WYWWRWRBRBYWY](/stripes/wywwrwrbrbywy/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w4lb1db1w22lb2w2db12r2dg16r4lb1r4db2~x2/"><circle cx="165.6" cy="108.1" r="4" fill="#3465a4"><title>MacGillivray Dress, Janice (Personal</title></circle></a><a href="/variants/s13/w4lb1db1w22lb2w2db12r2g16r4lb1r4db2~x2/"><circle cx="171.0" cy="112.3" r="4" fill="#3465a4"><title>MacGillivray Dress, Janice</title></circle></a><a href="/variants/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2/"><circle cx="160.3" cy="139.2" r="4" fill="#3465a4"><title>Walker, Dress (Name)</title></circle></a><a href="/variants/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2~r2109032/"><circle cx="160.0" cy="139.3" r="4" fill="#3465a4"><title>Walker, Dress (Personal)</title></circle></a><a href="/variants/s21/w2db1w14db2w1db7t7r1t7db7r1dy2r16dy2r2db7w1db2w14db1w2~x2/"><circle cx="129.0" cy="113.0" r="4" fill="#3465a4"><title>New Providence Presbyterian Church</title></circle></a><a href="/variants/s12/db3y2t12db14r2db4dy6y4w24r2w2db3~x2~db1003265-t2105244/"><circle cx="111.3" cy="135.1" r="4" fill="#3465a4"><title>Lashbrooke of Barrowfield (Personal)</title></circle></a><a href="/variants/s16/w5db1dbi10db2dbi4db2dbi1db2dbi4db2r15w15db15dp2db1dp4~x2~db1003265-dbi1605267/"><circle cx="118.5" cy="131.4" r="4" fill="#3465a4"><title>Auld Alliance</title></circle></a><a href="/variants/s12/db3w3r3w24y4dy6db3r2db16b12y2db3~x2/"><circle cx="112.5" cy="136.8" r="4" fill="#3465a4"><title>Lashbrooke of Barrowfield</title></circle></a><a href="/variants/s12/k2lo2b16lo2k2lo2lb2lo2lb15lo1k2lo2~x2/"><circle cx="174.5" cy="129.1" r="4" fill="#3465a4"><title>Independence</title></circle></a><a href="/variants/s15/r1w1db8lb12y1lb1db2w3db6lb1y1lb1db1w1r1~x6~db1004274/"><circle cx="127.9" cy="112.4" r="4" fill="#3465a4"><title>Buchanan, John &amp; Isabella (Commemor)</title></circle></a><circle cx="141.6" cy="123.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Crieff"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Crieff"
+  url: "/clan/crieff/"
+- name: "Crieff"
+  url: "/families/crieff/"
+- name: "Crieff"
+  url: "/tartans/c/cr/crieff/"
 ---
 This is the **Crieff** sett — one scale-free proportion (`m2r6g4r70g4r2dp21r2g85r2g4r6m2`), colour order pattern
 [RRGRGRBRGRGRR](/stripes/rrgrgrbrgrgrr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/ri4r10g7r70g7r4dp21r4g85r4g7r10ri4~ri2406019-r2109032/"><circle cx="327.6" cy="123.6" r="4" fill="#3465a4"><title>Crieff District Tartan</title></circle></a><a href="/variants/s13/b4r10g7r70g7r4dp21r4g85r4g7r10b4/"><circle cx="321.4" cy="122.6" r="4" fill="#3465a4"><title>Crieff</title></circle></a><a href="/variants/s10/g36lb2r2lb2r2lb2r30dg1r1dg4~x2/"><circle cx="340.0" cy="109.6" r="4" fill="#3465a4"><title>Connaught (Lochcarron)</title></circle></a><a href="/variants/s15/r15dp1r2dp2r78lg1r2dp21r3g2r3g89r2dp2r10/"><circle cx="373.7" cy="65.5" r="4" fill="#3465a4"><title>Bruce - 1819 (New)</title></circle></a><a href="/variants/s15/r15dp1r2dp2r78lb1r2dp21r3g2r3g79r2dp2r10/"><circle cx="381.5" cy="65.8" r="4" fill="#3465a4"><title>Grant - 1819 (Clan)</title></circle></a><a href="/variants/s15/o7dt1o2dt2o35lt2o2dt10o2g2o2g37o3dt2o6~x2~o2207033-dt1204259-lt3002249-g2005139/"><circle cx="391.7" cy="101.5" r="4" fill="#3465a4"><title>Drummond of Megginch - 1849 Kilt (faded)</title></circle></a><a href="/variants/s13/r6b1db2r2g40r6db13lb1r48g2r4b1g4~x2/"><circle cx="344.7" cy="69.6" r="4" fill="#3465a4"><title>MacDonald of Glencoe</title></circle></a><a href="/variants/s15/r7db1r2db2r35lb2r2db10r2dg2r2dg37r3db2r6~x2~r2109032-db0906265-lb3203246-dg1405139/"><circle cx="350.1" cy="84.3" r="4" fill="#3465a4"><title>Drummond of Megginch - 1849 Kilt</title></circle></a><a href="/variants/s11/g18r3g2r2db6r2g2r24g1r2g6~x2/"><circle cx="352.6" cy="148.4" r="4" fill="#3465a4"><title>MacDonell of Glengarry #4</title></circle></a><a href="/variants/s7/r60db2g24r8db2lb3db2/"><circle cx="369.4" cy="107.2" r="4" fill="#3465a4"><title>Unidentified Cant #12</title></circle></a><circle cx="360.9" cy="86.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

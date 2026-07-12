@@ -1,6 +1,11 @@
 ---
 title: "Manchester Blues Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Manchester Blues Dress"
+  url: "/tartans/m/ma/manchester-blues-dress/"
 ---
 This is the **Manchester Blues Dress** sett — one scale-free proportion (`w26lb9k2lb2w2lb2lr11lb8ly2lr2dr2`), colour order pattern
 [BYYWYWWWKWW](/stripes/byywywwwkww/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/lb26w9k2w2lb2w2n11w8y2n2r2~x2/"><circle cx="195.1" cy="131.1" r="4" fill="#3465a4"><title>Manchester Blues Modern</title></circle></a><a href="/variants/s11/w26lb9k2lb2w2lb2n11lb8y2n2r2~x2/"><circle cx="188.8" cy="129.2" r="4" fill="#3465a4"><title>Manchester Blues Dress (Comm)</title></circle></a><a href="/variants/s11/lb26w9k2w2lb2w2n11w8y2n2dr2~x2/"><circle cx="189.9" cy="129.7" r="4" fill="#3465a4"><title>Manchester Blues Modern</title></circle></a><a href="/variants/s16/lb18y2lb2y1r3g3r2g2r1k2lb3w7lb2w2lb1w4~x4~w3600000/"><circle cx="207.8" cy="93.6" r="4" fill="#3465a4"><title>Inverness County (Canada)</title></circle></a><a href="/variants/s7/r9w25k7w45lb60dg4ly5/"><circle cx="220.7" cy="153.9" r="4" fill="#3465a4"><title>Ch. Supt. Everett and Mrs Julene Summerfield Dress</title></circle></a><a href="/variants/s7/r9w27k7w45lb60dg4lo5/"><circle cx="223.5" cy="154.4" r="4" fill="#3465a4"><title>Ch. Supt. Everett and Mrs Julene Sum</title></circle></a><a href="/variants/s13/b3y1lb1w15lb1r4lb1w1lb15r1lb1r1lb3~x4/"><circle cx="304.7" cy="144.1" r="4" fill="#3465a4"><title>Federal Memorial Dress (Military)</title></circle></a><a href="/variants/s8/g4ly3r2ly22lb22w2lb3k2~x2/"><circle cx="227.6" cy="153.4" r="4" fill="#3465a4"><title>Pardo, Luis Alejandro Aguilar</title></circle></a><a href="/variants/s13/db3y1lb1w15lb1r4lb1w1lb15r1lb1r1lb3~x4/"><circle cx="277.2" cy="134.7" r="4" fill="#3465a4"><title>Federal Memorial Dress</title></circle></a><a href="/variants/s16/lb18y2lb2y1r3g3r2g2r1k2lb3w7lb2w2lb1w4~x4/"><circle cx="194.9" cy="89.0" r="4" fill="#3465a4"><title>Inverness County (Canada) (District)</title></circle></a><circle cx="220.9" cy="139.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

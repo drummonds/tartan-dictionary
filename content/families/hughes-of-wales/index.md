@@ -1,6 +1,11 @@
 ---
 title: "Hughes of Wales"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hughes"
+  url: "/clan/hughes/"
 ---
 A family of [Clan Hughes](/clan/hughes/).
 

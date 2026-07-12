@@ -1,6 +1,11 @@
 ---
 title: "Afternoon Tea / Mint Tea"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Afternoon Tea / Mint Tea"
+  url: "/tartans/a/af/afternoon-tea-mint-tea/"
 ---
 This is the **Afternoon Tea / Mint Tea** sett — one scale-free proportion (`w15lg98db72lb25db8ly15`), colour order pattern
 [WYBWBY](/stripes/wybwby/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w4lb28dp7y2dg16lb4~x2/"><circle cx="272.5" cy="190.2" r="4" fill="#3465a4"><title>Manx Laxey (Blue)</title></circle></a><a href="/variants/s5/dr7y3g28db28w3~x2/"><circle cx="238.4" cy="230.4" r="4" fill="#3465a4"><title>Turnbull Hunting</title></circle></a><a href="/variants/s6/db2w14dp4y1g8db2~x2/"><circle cx="213.3" cy="191.5" r="4" fill="#3465a4"><title>Manx Laxey, dress green</title></circle></a><a href="/variants/s5/g11ly10db11t33w3~x2/"><circle cx="272.5" cy="245.0" r="4" fill="#3465a4"><title>Sterling (Name)</title></circle></a><a href="/variants/s5/db2ly21db11dbi21db1~x2~db1004274-dbi1404245/"><circle cx="286.3" cy="239.6" r="4" fill="#3465a4"><title>St. Matthews Check (School)</title></circle></a><a href="/variants/s5/n2dg17w6db5lo1~x4/"><circle cx="288.2" cy="190.1" r="4" fill="#3465a4"><title>Scotstown</title></circle></a><a href="/variants/s6/w4lb28db7y2g16lb4~x2/"><circle cx="296.3" cy="202.7" r="4" fill="#3465a4"><title>Allanton (Fashion)</title></circle></a><a href="/variants/s5/w2g29lb12db29lb2~x2/"><circle cx="260.1" cy="234.2" r="4" fill="#3465a4"><title>Wallace Blue (Fashion)</title></circle></a><a href="/variants/s7/dg12lb8db4ly2dr1ly1db6~x4/"><circle cx="183.0" cy="209.6" r="4" fill="#3465a4"><title>F.I.A.T.A. Congress of 1990</title></circle></a><a href="/variants/s6/g4w28db14y2lb17g4~x2/"><circle cx="198.8" cy="204.0" r="4" fill="#3465a4"><title>Allanton Dress (Fashion)</title></circle></a><circle cx="237.3" cy="222.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

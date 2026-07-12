@@ -1,6 +1,13 @@
 ---
 title: "Glen Forest"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Glen"
+  url: "/clan/glen/"
+- name: "Glen Forest"
+  url: "/tartans/g/gl/glen-forest/"
 ---
 This is the **Glen Forest** sett — one scale-free proportion (`o10dy5w8ly8dy5w8dy14w4dy5w4ly5w4ly4y10`), colour order pattern
 [GYWYWGWGWGYWGR](/stripes/gywywgwgwgywgr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r2lr2dt2lo2lr6g3dt3lo4lr2dt3g2lr2r2~x2~lr3301060-dt1300000/"><circle cx="68.4" cy="262.8" r="4" fill="#3465a4"><title>Callanish, The</title></circle></a><a href="/variants/s11/r3db6g5db1g1db3y6w6y2w6r2~x2/"><circle cx="54.3" cy="221.1" r="4" fill="#3465a4"><title>Canice-Moodie (Personal)</title></circle></a><a href="/variants/s15/lb3g1lb1g5r2do4lb3g2w1lb1y1g1do2r2y1~x4/"><circle cx="69.8" cy="207.8" r="4" fill="#3465a4"><title>Highlands of Haliburton (District)</title></circle></a><a href="/variants/s8/w5g4lb1g4r4lb1dg4dy1~x6/"><circle cx="62.1" cy="235.0" r="4" fill="#3465a4"><title>Devon Rural Skills Trust</title></circle></a><a href="/variants/s16/n8lg7r5w2k2w2k2w2k2w2k2w2r5lg7n8g8~x4/"><circle cx="14.0" cy="194.4" r="4" fill="#3465a4"><title>Somerset</title></circle></a><a href="/variants/s13/k2w1ly6r6w1k2w2ki3w2k1w2g3w2~x4~k0700000-ki0803038/"><circle cx="22.4" cy="179.3" r="4" fill="#3465a4"><title>Hovington (2014)</title></circle></a><a href="/variants/s8/w5g4b1g4r4b1dg4y1~x2~g2104115-dg1304144/"><circle cx="75.0" cy="235.7" r="4" fill="#3465a4"><title>Devon Rural Skills Trust</title></circle></a><a href="/variants/s16/g4w2r2lb3db3do2db2do2g2do2g3do2g8do6w8lb2~x2/"><circle cx="50.6" cy="210.4" r="4" fill="#3465a4"><title>Missouri Dress (Proposed) (District)</title></circle></a><circle cx="40.0" cy="247.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

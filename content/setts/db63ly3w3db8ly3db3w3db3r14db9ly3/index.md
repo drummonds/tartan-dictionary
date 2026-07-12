@@ -1,6 +1,13 @@
 ---
 title: "Ottawa Fire Service (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ottawa"
+  url: "/clan/ottawa/"
+- name: "Ottawa Fire Service"
+  url: "/tartans/o/ot/ottawa-fire-service/"
 ---
 This is the **Ottawa Fire Service (Corporate)** sett — one scale-free proportion (`db63ly3w3db8ly3db3w3db3r14db9ly3`), colour order pattern
 [BYWBYBWBRBY](/stripes/bywbybwbrby/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db6w4db3w6db8y3db52y3db8r4/"><circle cx="481.1" cy="123.8" r="4" fill="#3465a4"><title>Dundee F.C.</title></circle></a><a href="/variants/s10/db3w2db2w3db6y2db26y2db6r2~x2/"><circle cx="470.8" cy="143.7" r="4" fill="#3465a4"><title>Dundee Football Club</title></circle></a><a href="/variants/s10/db6w4db3w6db8lo3db52lo3db8r4/"><circle cx="475.0" cy="121.9" r="4" fill="#3465a4"><title>Dundee F.C. Corporate Tartan</title></circle></a><a href="/variants/s10/db35y1db3y1db3y1db20r6w1r5~x2/"><circle cx="549.8" cy="110.3" r="4" fill="#3465a4"><title>Alpha Chi Sigma Fraternity</title></circle></a><a href="/variants/s9/db62w2db4w5db6y2r8y3w4~x2/"><circle cx="468.1" cy="92.7" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/variants/s15/w3db4w1db2g1db3r10db2r2db3g1db3r2db32r1~x2/"><circle cx="437.4" cy="78.1" r="4" fill="#3465a4"><title>International School of Aberdeen</title></circle></a><a href="/variants/s10/db40ly1db1r9db1ly1db6ly1db1r9~x2/"><circle cx="491.6" cy="102.4" r="4" fill="#3465a4"><title>Miyuki</title></circle></a><a href="/variants/s9/db48w2db7w2db7w2db20lb11r2~x2/"><circle cx="505.7" cy="128.9" r="4" fill="#3465a4"><title>RAAF #4</title></circle></a><a href="/variants/s9/db66w2db10w2db10w2db12r3lb24~x2/"><circle cx="466.6" cy="113.1" r="4" fill="#3465a4"><title>RAAF</title></circle></a><a href="/variants/s10/db42w5db1w1y9db1dg2w1db1r1~x4/"><circle cx="436.2" cy="63.5" r="4" fill="#3465a4"><title>Stratford (Ontario), City of</title></circle></a><circle cx="454.6" cy="105.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

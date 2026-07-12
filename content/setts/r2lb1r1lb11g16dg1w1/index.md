@@ -1,6 +1,11 @@
 ---
 title: "Gift of Life Michigan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Gift of Life Michigan"
+  url: "/tartans/g/gi/gift-of-life-michigan/"
 ---
 This is the **Gift of Life Michigan** sett — one scale-free proportion (`r2lb1r1lb11g16dg1w1`), colour order pattern
 [RWRWGGW](/stripes/rwrwggw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db3r3db36g17y2g21w2r3~x2/"><circle cx="275.2" cy="156.9" r="4" fill="#3465a4"><title>Singh Name Tartan</title></circle></a><a href="/variants/s7/g3r1g12w4lb15ly1lb3~x4/"><circle cx="286.8" cy="190.8" r="4" fill="#3465a4"><title>Postcode Lottery</title></circle></a><a href="/variants/s6/ly30g3t2lb2t30lo4~x2~t2405244-lb3203246/"><circle cx="340.6" cy="205.0" r="4" fill="#3465a4"><title>South Aiken Presby Church (Corporate</title></circle></a><a href="/variants/s6/r1g9lb9k1lb1w1~x6/"><circle cx="234.6" cy="188.2" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/variants/s8/lb32o3lb3o3lb3o10g24dr3~x2/"><circle cx="296.4" cy="199.6" r="4" fill="#3465a4"><title>Gammell (Personal)</title></circle></a><a href="/variants/s7/r2w2y27g14y2db14y2~x2/"><circle cx="288.1" cy="184.3" r="4" fill="#3465a4"><title>Fraser Yellow Tartan</title></circle></a><a href="/variants/s8/y6r21g2dg6g41lb2g2lb6/"><circle cx="321.4" cy="150.6" r="4" fill="#3465a4"><title>Manitoba</title></circle></a><a href="/variants/s8/w2g5lb10g20ri1dy2r2dy1~x2~ri2109032-r1807033/"><circle cx="316.1" cy="137.1" r="4" fill="#3465a4"><title>Muskoka (District)</title></circle></a><a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1807008-ri2109032/"><circle cx="296.3" cy="178.1" r="4" fill="#3465a4"><title>Manitoba District Tartan</title></circle></a><a href="/variants/s12/y2g16lb2w2lb2w2lb6g7r2w1lb1dp1~x6/"><circle cx="265.7" cy="133.6" r="4" fill="#3465a4"><title>Fredericton #2</title></circle></a><circle cx="310.0" cy="169.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

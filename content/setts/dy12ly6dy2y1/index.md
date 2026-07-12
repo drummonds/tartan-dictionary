@@ -1,6 +1,11 @@
 ---
 title: "Loch Garth Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Loch Garth"
+  url: "/tartans/l/lo/loch-garth/"
 ---
 This is the **Loch Garth Tartan** sett — one scale-free proportion (`dy12ly6dy2y1`), colour order pattern
 [GGYG](/stripes/ggyg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/w1dy6ly4dy4lyi1~x10~ly2503076-lyi2705081/"><circle cx="341.9" cy="277.1" r="4" fill="#3465a4"><title>Amber Rose (Fashion)</title></circle></a><a href="/variants/s4/dg21lo44dg86lb10/"><circle cx="392.5" cy="268.4" r="4" fill="#3465a4"><title>Special Saffron (Fashion)</title></circle></a><a href="/variants/s5/r1dy7ly25dy7r1~x2/"><circle cx="386.9" cy="171.8" r="4" fill="#3465a4"><title>Unnamed Brown (Teddy Bear)</title></circle></a><a href="/variants/s4/y6w5y12r2~x2/"><circle cx="414.7" cy="288.1" r="4" fill="#3465a4"><title>One Account (Corporate)</title></circle></a><a href="/variants/s5/y25k9y12w2db2~x2/"><circle cx="388.5" cy="185.9" r="4" fill="#3465a4"><title>Gairloch</title></circle></a><a href="/variants/s6/dy9lb3dy6lb3dy20y2~x2/"><circle cx="529.5" cy="233.4" r="4" fill="#3465a4"><title>Oman Sultanate of.. Regimental Tartan</title></circle></a><a href="/variants/s4/dg21lo43dg86b10~dg1104144-lo2706066/"><circle cx="414.6" cy="273.3" r="4" fill="#3465a4"><title>Special, Saffron</title></circle></a><a href="/variants/s6/dg86lo44dg21lo44dg86lb10/"><circle cx="376.6" cy="265.4" r="4" fill="#3465a4"><title>Special Saffron</title></circle></a><a href="/variants/s5/dr13w3dr1dg3w1~x6/"><circle cx="411.9" cy="205.9" r="4" fill="#3465a4"><title>Glen Shiel (Fashion)</title></circle></a><a href="/variants/s3/y20db10w3~x2/"><circle cx="361.9" cy="301.7" r="4" fill="#3465a4"><title>Masai Shuka 04 (Artefact)</title></circle></a><circle cx="414.7" cy="241.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

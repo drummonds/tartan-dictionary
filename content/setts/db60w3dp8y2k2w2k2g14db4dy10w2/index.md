@@ -1,6 +1,11 @@
 ---
 title: "O'Shaughnessy (Estimated threadcount)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "O'Shaughnessy"
+  url: "/tartans/o/o/o-shaughnessy/"
 ---
 This is the **O'Shaughnessy (Estimated threadcount)** sett — one scale-free proportion (`db60w3dp8y2k2w2k2g14db4dy10w2`), colour order pattern
 [BWBGKWKGBGW](/stripes/bwbgkwkgbgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db64y3g12k3g12w3db15dbi4r21db3y2~db0805267-dbi1604274/"><circle cx="262.2" cy="51.4" r="4" fill="#3465a4"><title>Allison</title></circle></a><a href="/variants/s10/r4db60g35db4ly4db4dy12db18k3w2~ly3206085-dy1804072/"><circle cx="292.3" cy="75.6" r="4" fill="#3465a4"><title>Fogarty (Tipperary)</title></circle></a><a href="/variants/s11/db42n2db2n4g4ly2g6k9g2k2r2~x2/"><circle cx="282.8" cy="72.9" r="4" fill="#3465a4"><title>Dama Weekend (Fashion)</title></circle></a><a href="/variants/s11/db42n2db2n4y4ly2y6k9y2k2r2~x2~y2204115-ly3206085/"><circle cx="289.6" cy="73.1" r="4" fill="#3465a4"><title>Dama Weekend</title></circle></a><a href="/variants/s14/db52g15w1g2w1g2y2g2k2dbi3w2db2r2dbi5~x2~db1204274-dbi1406275/"><circle cx="316.7" cy="14.0" r="4" fill="#3465a4"><title>Australian National</title></circle></a><a href="/variants/s12/db57lb3k9y2k2w3k2g10db6k2db2r3~x2/"><circle cx="316.1" cy="33.5" r="4" fill="#3465a4"><title>O'Shaughnessy Memorial (Corporate)</title></circle></a><a href="/variants/s12/db57lb3k9ly2k2w3k2g10db6k2db2r3~x2~lb3501240-ly3307090/"><circle cx="310.9" cy="32.4" r="4" fill="#3465a4"><title>O'Shaughnessy Memorial</title></circle></a><a href="/variants/s11/db64y3g12k3g12w3db15dbi4r21db3y2~db0804274-dbi1605267/"><circle cx="266.3" cy="51.7" r="4" fill="#3465a4"><title>Allison (1882)</title></circle></a><a href="/variants/s11/db64y3g12k3g12w3db15dbi4r21db3y2~db1204274-dbi1406275/"><circle cx="283.9" cy="57.1" r="4" fill="#3465a4"><title>Allison Family Tartan</title></circle></a><a href="/variants/s12/db76dp6k6db24g17k4r10k4g17db4k2w6/"><circle cx="292.0" cy="56.3" r="4" fill="#3465a4"><title>Scottish Heritage Society (Corporate</title></circle></a><circle cx="287.9" cy="46.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

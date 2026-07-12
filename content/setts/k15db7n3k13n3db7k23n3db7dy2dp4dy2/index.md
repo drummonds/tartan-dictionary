@@ -1,6 +1,11 @@
 ---
 title: "Apache"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Apache"
+  url: "/tartans/a/ap/apache/"
 ---
 This is the **Apache** sett — one scale-free proportion (`k15db7n3k13n3db7k23n3db7dy2dp4dy2`), colour order pattern
 [GBGBBKBBKBBK](/stripes/gbgbbkbbkbbk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k5r3k24dg13k3db3k3db11k6dg3k3r3~x2~db0906265/"><circle cx="244.1" cy="158.9" r="4" fill="#3465a4"><title>Daly (2016)</title></circle></a><a href="/variants/s15/dti1dt4k11dt1k1dt1k1dti1k11n4g1n8k8dt8n1~x4~dti1503227-dt1202249/"><circle cx="230.7" cy="141.2" r="4" fill="#3465a4"><title>ShadowHalls</title></circle></a><a href="/variants/s15/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4/"><circle cx="224.1" cy="137.3" r="4" fill="#3465a4"><title>Shadow Halls</title></circle></a><a href="/variants/s8/k21db3k12dr2db12k2db12w2~x2/"><circle cx="281.9" cy="188.4" r="4" fill="#3465a4"><title>Inverness Caledonian Thistle F.C Corporate Weavers Tartan</title></circle></a><a href="/variants/s8/k21db3k12r2db12k2db12w2~x2/"><circle cx="269.4" cy="182.1" r="4" fill="#3465a4"><title>Inverness Caledonian Thistle Football Club</title></circle></a><a href="/variants/s12/g12k40db4lb4db4k28db7k8db7k8db10r4/"><circle cx="269.9" cy="140.3" r="4" fill="#3465a4"><title>Pride of Wales (Fashion)</title></circle></a><a href="/variants/s13/y2db3r2db19k7db6k22db6k7db19r2db3w2~x2/"><circle cx="269.4" cy="144.2" r="4" fill="#3465a4"><title>MacIver of Strome (Personal)</title></circle></a><a href="/variants/s11/dbi13lb2dbi13k3db13k21dy3k18dbi9k2dbi2~x2~dbi1605267-db1003265/"><circle cx="203.4" cy="171.9" r="4" fill="#3465a4"><title>Haus of RvR</title></circle></a><a href="/variants/s22/dr4y2db7n3k23db7n3k13n3db7k15db7n3k13n3db7k23n3db7y2dr4y2~x2/"><circle cx="232.1" cy="130.8" r="4" fill="#3465a4"><title>Apache North Sea Commemorative Tartan</title></circle></a><a href="/variants/s11/k8w2k2db2k6db18r3db18k6db2k7~x2/"><circle cx="230.6" cy="142.1" r="4" fill="#3465a4"><title>Pride of Norway</title></circle></a><circle cx="273.0" cy="155.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

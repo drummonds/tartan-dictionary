@@ -1,6 +1,15 @@
 ---
 title: "Farquharson"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Farquharson"
+  url: "/clan/farquharson/"
+- name: "Farquharson"
+  url: "/families/farquharson/"
+- name: "Farquharson"
+  url: "/tartans/f/fa/farquharson/"
 ---
 This is the **Farquharson** sett — one scale-free proportion (`db21k1db1k1db1k10g22r2g22k10db16k1db2k1db16k10g22y2g22k10db1k1db1k1db7`), colour order pattern
 [BKBKBKGGGKBKBKBKGRGKBKBKB](/stripes/bkbkbkgggkbkbkbkgrgkbkbkb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s24/k6g18w2g18k6db18k1db4k1db18k6g18r2g18k6db2k2db2k2db18k2db2k2db2~x2/"><circle cx="167.8" cy="101.9" r="4" fill="#3465a4"><title>MacKenzie, Bailey</title></circle></a><a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2~w4000000-db1406275/"><circle cx="171.1" cy="77.8" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/variants/s24/db18k2db2k2db2k6g18w2g18k6db18k1db4k1db18k6g18r2g18k6db2k2db2k2~x2/"><circle cx="167.8" cy="101.9" r="4" fill="#3465a4"><title>MacKenzie (Vestiarium Scoticum)</title></circle></a><a href="/variants/s30/k14g12dr2g12k14db20k2db4k2db20g12lo3g3lo1k3dr2k3lo1g3lo3g12db4k2db4k2db22k2db4k2db4~x2/"><circle cx="165.0" cy="83.4" r="4" fill="#3465a4"><title>Dundee Discovery (Corporate)</title></circle></a><a href="/variants/s19/db30lo2db2lo2db5g5k15db5g20dr2k3dr2g20db5k15g5db20lo2db2~x2~db1403246/"><circle cx="177.6" cy="118.9" r="4" fill="#3465a4"><title>Pennsylvania American District Tartan</title></circle></a><a href="/variants/s28/k16g8k1y2k1g8k8db8k1db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1~x2/"><circle cx="156.1" cy="92.3" r="4" fill="#3465a4"><title>Campbell of Argyll</title></circle></a><a href="/variants/s28/k19g22k1r4k1g22k19db16k2db3k2db16k19g22k1y4k1g22k19db3k2db3k2db28k2db3k2db3~x2/"><circle cx="143.5" cy="74.4" r="4" fill="#3465a4"><title>Farquharson or MacEwan Clan Tartan</title></circle></a><a href="/variants/s27/r2db14k8g2k1g2k1g4k1g2k1g2db4g2db4g2k1g2k1g4k1g2k1g2k8db14y2~x2/"><circle cx="153.5" cy="97.5" r="4" fill="#3465a4"><title>Duchess of Albany Family Tartan</title></circle></a><a href="/variants/s30/g10y3g3y1k2r2k2y1g3y3g10db21k2db2k2db21k15g15r2g15k15db2k2db2k2db31k2db2k2db2~x2/"><circle cx="185.6" cy="55.5" r="4" fill="#3465a4"><title>Dundee Discovery</title></circle></a><a href="/variants/s26/g37y3g37k9db4k2db3k2db31g4db31k2db3k2db4k9g37r3g37db9g4db31g4db31g4db9/"><circle cx="230.2" cy="98.3" r="4" fill="#3465a4"><title>Stuart/Stewart Hunting</title></circle></a><circle cx="180.9" cy="88.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

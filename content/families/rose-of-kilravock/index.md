@@ -1,6 +1,11 @@
 ---
 title: "Rose of Kilravock"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Rose"
+  url: "/clan/rose/"
 ---
 A family of [Clan Rose](/clan/rose/).
 

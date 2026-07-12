@@ -1,6 +1,15 @@
 ---
 title: "Letter Dress (2014)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Letter"
+  url: "/clan/letter/"
+- name: "Letter"
+  url: "/families/letter/"
+- name: "Letter Dress"
+  url: "/tartans/l/le/letter-dress/"
 ---
 This is the **Letter Dress (2014)** sett — one scale-free proportion (`n29k23y1g9y2r4k14w2k4`), colour order pattern
 [BKGGGRKWK](/stripes/bkgggrkwk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/n29k23lo1g9lo2r4k14w2k4~x2/"><circle cx="193.6" cy="93.5" r="4" fill="#3465a4"><title>Letter Dress (2014)</title></circle></a><a href="/variants/s8/o11k66n32dg11n10db6n10r4~o2606066-r2409032/"><circle cx="182.6" cy="117.3" r="4" fill="#3465a4"><title>Turnbull, Dress Bruce (Personal)</title></circle></a><a href="/variants/s8/lo11k66n32dg11n10db6n10o4/"><circle cx="184.5" cy="120.7" r="4" fill="#3465a4"><title>Royal College of General Practitioners</title></circle></a><a href="/variants/s8/k3g2k21w11g1dy21dg2dy3~x2/"><circle cx="160.9" cy="122.5" r="4" fill="#3465a4"><title>Dalveen (Fashion)</title></circle></a><a href="/variants/s9/w2db4r16k14dg32y1db8k2w2~x2/"><circle cx="168.1" cy="88.7" r="4" fill="#3465a4"><title>National Millennium</title></circle></a><a href="/variants/s11/lb11k2lb2k2dy2k11dg30r2dg3k1w5~x2/"><circle cx="188.7" cy="68.3" r="4" fill="#3465a4"><title>Labrador</title></circle></a><a href="/variants/s11/y7dg1k1y2k9g22dg7k27db4k3w4~x2~dg1806142-g2408144/"><circle cx="165.3" cy="87.0" r="4" fill="#3465a4"><title>Gilhooley (Personal)</title></circle></a><a href="/variants/s10/r4do4r4do12k32ly15ri1ly7lyi1ri1~x2~r1706009-ly2503076-ri2607041-lyi2705081/"><circle cx="175.7" cy="80.6" r="4" fill="#3465a4"><title>Hard Rock Cafe (Corporate)</title></circle></a><a href="/variants/s8/k35o2k3dp13g8w4g8dp8~x2/"><circle cx="194.3" cy="128.0" r="4" fill="#3465a4"><title>SheBoom</title></circle></a><a href="/variants/s8/lo3k2n15k10dt23r2dt1w2~x2/"><circle cx="184.6" cy="115.2" r="4" fill="#3465a4"><title>Vienna Highlander (Fashion)</title></circle></a><circle cx="195.4" cy="93.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Wombles #4"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Wombles"
+  url: "/clan/wombles/"
+- name: "Wombles"
+  url: "/families/wombles/"
+- name: "Wombles"
+  url: "/tartans/w/wo/wombles-2/"
 ---
 This is the **Wombles #4** sett — one scale-free proportion (`w5db2w1g8w1db2r2w1r2db2w1lo8w1db2w5`), colour order pattern
 [BWYWBRWRBWGWBWBWGWBRWRBWYWBW](/stripes/bwywbrwrbwgwbwbwgwbrwrbwywbw/). It is recorded as **2 variants** — the same
@@ -23,6 +32,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/w5db2w1g8w1db2r2w1r2db2w1lo8w1db2w5~x2/"><circle cx="108.6" cy="172.9" r="4" fill="#3465a4"><title>Wombles Corporate Tartan</title></circle></a><a href="/variants/s15/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/"><circle cx="59.9" cy="177.1" r="4" fill="#3465a4"><title>Womble</title></circle></a><a href="/variants/s15/w5db2w1g8w1db2r2w1r2db2w1b8w1db2w5~x2/"><circle cx="107.4" cy="174.3" r="4" fill="#3465a4"><title>Wombles</title></circle></a><a href="/variants/s32/r2db2w1y8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1y8w1db2r2w1~x4~r2109032/"><circle cx="60.6" cy="142.9" r="4" fill="#3465a4"><title>Jacobite (1712)</title></circle></a><a href="/variants/s17/w1r2db2w1g9w1db2r2w1r2db2w1lo9w1db2r2w1~x4/"><circle cx="79.9" cy="151.3" r="4" fill="#3465a4"><title>Jacobite General Tartan</title></circle></a><a href="/variants/s32/db8w5db5w5db8w2r1w2y3r6y3g6y14w2r1w2db8w5db5w5db8w2r1w2g3r6g3y6g14w2r1w2~x2/"><circle cx="72.5" cy="131.0" r="4" fill="#3465a4"><title>New Elgin Primary School</title></circle></a><a href="/variants/s17/w1r2db2w1y8w1db2r2w1r2db2w1g8w1db2r2w1~x4/"><circle cx="71.3" cy="165.2" r="4" fill="#3465a4"><title>Jacobite (1712) (Universal)</title></circle></a><a href="/variants/s26/dg1r6g5r6dg1r1dg9dy3g3y3dg9r1dg1r6g5r6dg1r1w1r1w12g1w12r1w1r1~x4/"><circle cx="84.6" cy="109.7" r="4" fill="#3465a4"><title>Maple Leaf Dress District Tartan</title></circle></a><a href="/variants/s23/w2dp7w2lb6w2y4w2dp4w2y4w2g19w2dp7w2dp7w2r19w4r3lb2r3w2~x2/"><circle cx="64.1" cy="126.1" r="4" fill="#3465a4"><title>Lasting Family Tartan</title></circle></a><a href="/variants/s19/g8o3lr3o3w28lr4w8o12g3o3g3o3g8do3g3do3g3do12r4/"><circle cx="89.2" cy="134.1" r="4" fill="#3465a4"><title>Drymen</title></circle></a><circle cx="65.7" cy="146.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

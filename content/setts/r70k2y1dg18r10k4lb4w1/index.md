@@ -1,6 +1,11 @@
 ---
 title: "MacIngust"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "MacIngust"
+  url: "/tartans/m/ma/macingust/"
 ---
 This is the **MacIngust** sett — one scale-free proportion (`r70k2y1dg18r10k4lb4w1`), colour order pattern
 [RKGGRKWW](/stripes/rkggrkww/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r51y2k4w2g21r10k4lb4w2~x2/"><circle cx="310.1" cy="70.1" r="4" fill="#3465a4"><title>Drummond of Perth Clan Tartan</title></circle></a><a href="/variants/s9/r33w1k3w1g13r7k3dp3w1~x2/"><circle cx="334.1" cy="72.4" r="4" fill="#3465a4"><title>Leach, Leech, Leitch, dress</title></circle></a><a href="/variants/s8/r48db3y1g14r8db3w4do1/"><circle cx="434.3" cy="67.9" r="4" fill="#3465a4"><title>Prince Charles Cloak</title></circle></a><a href="/variants/s8/r48db3y1g14r8db3lb4w1~x2/"><circle cx="443.0" cy="70.7" r="4" fill="#3465a4"><title>Prince Charles Cloak</title></circle></a><a href="/variants/s8/r48db3y1g14r8db3lb4w1/"><circle cx="443.0" cy="70.7" r="4" fill="#3465a4"><title>Prince Charles Cloak</title></circle></a><a href="/variants/s8/r48db3ly2dg14r8db3lb4w3~x2/"><circle cx="383.8" cy="94.2" r="4" fill="#3465a4"><title>Drummond of Fingask</title></circle></a><a href="/variants/s9/r36w1db3y1dg16r8db3lb2w1~x2/"><circle cx="372.9" cy="75.7" r="4" fill="#3465a4"><title>Perthshire or Drummond of Perth</title></circle></a><a href="/variants/s9/r36w1db3y1g16r8db3lb2w1~x2/"><circle cx="377.9" cy="79.9" r="4" fill="#3465a4"><title>Drummond of Perth (Logan) Clan Tartan</title></circle></a><a href="/variants/s9/r36w1db3y1g16r8db3lb2w1/"><circle cx="377.9" cy="79.9" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/variants/s9/r36w1db3y1g16r8db3t2w1~x2/"><circle cx="380.1" cy="80.9" r="4" fill="#3465a4"><title>Drummond of Perth (Clan)</title></circle></a><circle cx="443.4" cy="37.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

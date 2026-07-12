@@ -1,6 +1,11 @@
 ---
 title: "Olympicana"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Olympicana"
+  url: "/tartans/o/ol/olympicana/"
 ---
 This is the **Olympicana** sett — one scale-free proportion (`lo2k2dr2db2g23dr24db2lb2db2dr2db27g6db2lo2`), colour order pattern
 [YBGBBBWBBGBBKY](/stripes/ybgbbbwbbgbbky/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/w1k2g10db1g2db1g2k2db15o1db2o1db2o1db2o15k1ly1~x2~o1904043/"><circle cx="156.5" cy="84.5" r="4" fill="#3465a4"><title>Daniel Melrose Family Tartan</title></circle></a><a href="/variants/s18/w1k2g10db1g2db1g2k2db15dr1db2dr1db2dr1db2dr15k1lo1~x2/"><circle cx="164.2" cy="87.3" r="4" fill="#3465a4"><title>Melrose (Newbigging) (Personal)</title></circle></a><a href="/variants/s18/y1k1dr15db2dr1db2dr1db2dr1db15k2g2db1g2db1g10k2w1~x2/"><circle cx="168.4" cy="88.9" r="4" fill="#3465a4"><title>Melrose (Newbigging) (Personal)</title></circle></a><a href="/variants/s13/db2g6db27r2k2w2db2r24g23db2r2k2y2~x2/"><circle cx="140.3" cy="99.4" r="4" fill="#3465a4"><title>Olympic Corporate Tartan</title></circle></a><a href="/variants/s13/r24db2w2k2r2db27dg6db2ly2k2r2db2dg23~x2~dg1605139/"><circle cx="149.9" cy="100.4" r="4" fill="#3465a4"><title>Olympic</title></circle></a><a href="/variants/s13/r24db2w2k2r2db27dg6db2ly2k2r2db2dg23~x2/"><circle cx="152.1" cy="100.3" r="4" fill="#3465a4"><title>Montreal Olympics (1976) (Corporate)</title></circle></a><a href="/variants/s12/r8g2k2ly2k2y2k2g18db2g2db29k3~x2/"><circle cx="167.4" cy="94.9" r="4" fill="#3465a4"><title>Cats Winter (Fashion)</title></circle></a><a href="/variants/s14/db10r5g5r5g60db13g10dbi67g5k5g5k5g13y10~db1106275-dbi1204274/"><circle cx="196.9" cy="105.5" r="4" fill="#3465a4"><title>Beatrice Princess.. (Hunting) Royal Family Tartan</title></circle></a><a href="/variants/s11/dg28lb2dg3lo4dg3lb2dg3k14lg2db28lb3~x2/"><circle cx="167.4" cy="115.7" r="4" fill="#3465a4"><title>Wcwm 1290</title></circle></a><a href="/variants/s11/r6g2r2g21k2w4k2db23y2db2y6~x2/"><circle cx="121.2" cy="122.8" r="4" fill="#3465a4"><title>Glasgow, City of Culture</title></circle></a><circle cx="168.5" cy="107.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

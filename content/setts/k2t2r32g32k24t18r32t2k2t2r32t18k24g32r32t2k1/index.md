@@ -1,6 +1,15 @@
 ---
 title: "MacNaughton"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacNaughton"
+  url: "/clan/macnaughton/"
+- name: "MacNaughton"
+  url: "/families/macnaughton/"
+- name: "MacNaughton"
+  url: "/tartans/m/ma/macnaughton-3/"
 ---
 This is the **MacNaughton** sett — one scale-free proportion (`k2t2r32g32k24t18r32t2k2t2r32t18k24g32r32t2k1`), colour order pattern
 [KBRGKBRBKBRBKGRBK](/stripes/kbrgkbrbkbrbkgrbk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r24k2g8k2r8k1g24lb6k2r14lb18k4~x2/"><circle cx="190.6" cy="127.7" r="4" fill="#3465a4"><title>Grant - 1714 (Piper) (Portrait)</title></circle></a><a href="/variants/s16/r4k1y3k1r20k4g9r3g9k4lb3k1g7k2r6y2~x2/"><circle cx="169.4" cy="102.6" r="4" fill="#3465a4"><title>Brown-Wells (Personal)</title></circle></a><a href="/variants/s12/r24k2g8k2r8k1g24db6k2r14g18k4~x2/"><circle cx="231.4" cy="130.5" r="4" fill="#3465a4"><title>Grant, Piper to the Laird of</title></circle></a><a href="/variants/s11/k9r1g1k3g20r5k3r20k5r3y2~x2/"><circle cx="192.0" cy="120.7" r="4" fill="#3465a4"><title>Army Cadet Force (Military)</title></circle></a><a href="/variants/s13/lo12k1lo1dr28lo4k8lr1do11k8lo32dr11lo6dr4~x2/"><circle cx="202.1" cy="91.0" r="4" fill="#3465a4"><title>Aboyne</title></circle></a><a href="/variants/s9/r12db2r3g20k4g20r30k2r1~x2~db1406275/"><circle cx="266.0" cy="107.4" r="4" fill="#3465a4"><title>Oriel #1</title></circle></a><a href="/variants/s7/r52t16k16g22r16lo3r16~x2/"><circle cx="173.9" cy="145.0" r="4" fill="#3465a4"><title>Sturrock (Blue/Black)</title></circle></a><a href="/variants/s13/r26k2r3k2r3k16g18ly4g18k16r18k2r3~x2/"><circle cx="160.0" cy="144.6" r="4" fill="#3465a4"><title>Red Watch (Fashion) #3</title></circle></a><a href="/variants/s13/k2r8g2r8g14r2k6lb1k7r8g2r8k2~x2/"><circle cx="192.1" cy="150.0" r="4" fill="#3465a4"><title>Nicolson MacNicol Clan Tartan</title></circle></a><a href="/variants/s18/g12r11dp12k1dp1k1r32dp8g8dp8g8r32k1dp1k1dp12r11g12~x2/"><circle cx="280.5" cy="97.8" r="4" fill="#3465a4"><title>Fiddes #3</title></circle></a><circle cx="191.7" cy="106.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

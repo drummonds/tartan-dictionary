@@ -1,6 +1,15 @@
 ---
 title: "Lochaber #2"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Lochaber"
+  url: "/clan/lochaber/"
+- name: "Lochaber"
+  url: "/families/lochaber/"
+- name: "Lochaber"
+  url: "/tartans/l/lo/lochaber/"
 ---
 This is the **Lochaber #2** sett — one scale-free proportion (`g3r1g18k20r1db18lb1g2`), colour order pattern
 [GRGKRBWG](/stripes/grgkrbwg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g3db12b1k12g13r2g2~x2/"><circle cx="156.0" cy="171.9" r="4" fill="#3465a4"><title>MacPhadran</title></circle></a><a href="/variants/s7/g3db12w1k12g13r2g2~x4/"><circle cx="151.1" cy="170.4" r="4" fill="#3465a4"><title>MacFadzean/MacPhedran</title></circle></a><a href="/variants/s7/g3db12w1k12g13r2g2~x2/"><circle cx="151.1" cy="170.4" r="4" fill="#3465a4"><title>Paterson (Personal)</title></circle></a><a href="/variants/s8/r2k4db23k14g16y1k4y2~x2/"><circle cx="163.6" cy="133.1" r="4" fill="#3465a4"><title>Thomas, baron of Craigie, Robert (Personal)</title></circle></a><a href="/variants/s7/y3k1db20k16g20k1w3~x2/"><circle cx="135.2" cy="146.0" r="4" fill="#3465a4"><title>MacCormick</title></circle></a><a href="/variants/s7/r3k2g15k10db21k1y2/"><circle cx="176.4" cy="141.4" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s7/db4r1db18k20g18r1g4~x2/"><circle cx="176.7" cy="166.2" r="4" fill="#3465a4"><title>Blair (Name)</title></circle></a><a href="/variants/s8/db2g1db16r1k12g16r1g2~x2/"><circle cx="189.3" cy="155.1" r="4" fill="#3465a4"><title>Lochaber District</title></circle></a><a href="/variants/s9/dy3k3dy3k18n28w1g22k2dy2~x2~n1702249-g2206152/"><circle cx="177.7" cy="116.3" r="4" fill="#3465a4"><title>Black Gold</title></circle></a><a href="/variants/s8/w4k1g18k17db13r1db3r1~x2/"><circle cx="124.2" cy="138.4" r="4" fill="#3465a4"><title>Whitson #2</title></circle></a><circle cx="166.2" cy="130.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

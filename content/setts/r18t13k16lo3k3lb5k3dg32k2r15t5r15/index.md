@@ -1,6 +1,11 @@
 ---
 title: "Wilson's No.090"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Wilson's No.090"
+  url: "/tartans/w/wi/wilson-s-no-090/"
 ---
 This is the **Wilson's No.090** sett — one scale-free proportion (`r18t13k16lo3k3lb5k3dg32k2r15t5r15`), colour order pattern
 [BKYKWKGKRBRBRKGKWKYKBR](/stripes/bkykwkgkrbrbrkgkwkykbr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r8y7k8lo2k1lb3k1dg19k1r8y3r8~x2/"><circle cx="88.5" cy="84.0" r="4" fill="#3465a4"><title>Norwich No.001</title></circle></a><a href="/variants/s20/g5k5g5r12g3k15g3k2w1k2lb7k2y10k2lb7k2w1k3r15k3~x2/"><circle cx="64.5" cy="96.3" r="4" fill="#3465a4"><title>Jones, Melnyk (Personal)</title></circle></a><a href="/variants/s17/r14db4r2db2r4db2r2db14k4db4k15g20k2y4r2k1w4~x2/"><circle cx="65.5" cy="87.6" r="4" fill="#3465a4"><title>Caledonian Society of P.E.I. (Corp)</title></circle></a><a href="/variants/s19/g5k5g5dr12g3k15g3w1k2lb7k2ly10k2lb7k2w1k3dr15k3~x2/"><circle cx="60.3" cy="105.1" r="4" fill="#3465a4"><title>Melnyk-Jones (Personal)</title></circle></a><a href="/variants/s24/r6g10r2k2r4k2r2g10r4k9r2k9y2k3y2k4w6k6lb27r2k2r2lb10r6~x2/"><circle cx="40.5" cy="84.6" r="4" fill="#3465a4"><title>Anderson (MacGregor-Hastie #3)</title></circle></a><a href="/variants/s17/k3w4k3r18db1n18k1g18w1db18r1n18g1r18k3w4k3~x2/"><circle cx="78.8" cy="94.3" r="4" fill="#3465a4"><title>Brinkie's Brae (Personal)</title></circle></a><a href="/variants/s18/g12k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x4/"><circle cx="55.1" cy="125.8" r="4" fill="#3465a4"><title>Buchanan 2</title></circle></a><a href="/variants/s28/r3g3r16g22y3k3w5k3y3k19lb9k2lb9r25lb9k2lb9k19y3k3w5k3y3g22r16g3r3g3~x2/"><circle cx="34.8" cy="90.7" r="4" fill="#3465a4"><title>Wilson's No.181</title></circle></a><a href="/variants/s14/r25w4k4g25lo3k15t13r5t5r15g4r5k2g3~x2~r2109032-w3600000-t2503227/"><circle cx="66.4" cy="99.5" r="4" fill="#3465a4"><title>Wilson's No.226</title></circle></a><a href="/variants/s17/db14k4db4k15g20k2lb4r2k1w4r14db4r2db2r4db2r2~x2/"><circle cx="64.5" cy="87.9" r="4" fill="#3465a4"><title>Caledonian Society of Prince Edward Island</title></circle></a><circle cx="63.9" cy="94.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

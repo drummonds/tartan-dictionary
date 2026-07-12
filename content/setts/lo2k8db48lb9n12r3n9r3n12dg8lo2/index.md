@@ -1,6 +1,15 @@
 ---
 title: "Heston (Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Heston"
+  url: "/clan/heston/"
+- name: "Heston"
+  url: "/families/heston/"
+- name: "Heston"
+  url: "/tartans/h/he/heston-2/"
 ---
 This is the **Heston (Name)** sett — one scale-free proportion (`lo2k8db48lb9n12r3n9r3n12dg8lo2`), colour order pattern
 [YGBRBRBWBKY](/stripes/ygbrbrbwbky/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/r3w5k1db24dp3db4dp3db3dp12dg3dp1dg21k1ly3~x2/"><circle cx="156.8" cy="78.6" r="4" fill="#3465a4"><title>Robert Lee Jordan Defiance (Per.)</title></circle></a><a href="/variants/s9/db46y4db4y4db6k16n66lb11r6/"><circle cx="204.6" cy="122.7" r="4" fill="#3465a4"><title>Scottish Association for Neurological Sciences</title></circle></a><a href="/variants/s11/w3dbi1g18r3lb4r3db4dbi3db2dbi24ri1~x2~dbi1406275-r2108022-db1204274-ri2109032/"><circle cx="200.9" cy="94.7" r="4" fill="#3465a4"><title>Queen of the South Football Club</title></circle></a><a href="/variants/s8/n18k3g3r2w3db36k2y6~x2/"><circle cx="220.8" cy="100.8" r="4" fill="#3465a4"><title>M'Kleod</title></circle></a><a href="/variants/s11/k8lb1b1do10b16r2k3dt33lb1dt3w2~x2~b2703284-dt1602194/"><circle cx="197.1" cy="60.0" r="4" fill="#3465a4"><title>Lomond Mist</title></circle></a><a href="/variants/s9/db46y4db4y4db6k16n66w11r6/"><circle cx="188.1" cy="117.4" r="4" fill="#3465a4"><title>Scottish Association for N.S. (Corp)</title></circle></a><a href="/variants/s12/g9r2dp2g3dp18g2k2g1k19ri1db33w2~x2~r1807008-ri2109032/"><circle cx="150.3" cy="59.0" r="4" fill="#3465a4"><title>Western Isles (Fashion)</title></circle></a><a href="/variants/s20/dg8n12r3n9r3n12lb9db48k8lo2k8db48lb9n12r3n9r3n12dg8lo2~x2/"><circle cx="176.0" cy="68.3" r="4" fill="#3465a4"><title>Heston</title></circle></a><a href="/variants/s13/k4dg21dp1dg3dp12db3dp3db4dp3db24k1w5r3~x2/"><circle cx="158.1" cy="76.4" r="4" fill="#3465a4"><title>Robert Lee Jordan Defiance (Personal)</title></circle></a><a href="/variants/s8/g20db2w2db12dp29r1dp1k3~x2/"><circle cx="223.0" cy="103.2" r="4" fill="#3465a4"><title>Longhaugh Primary School</title></circle></a><circle cx="184.4" cy="86.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Tulchan Estate Check (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Tulchan Estate Check"
+  url: "/tartans/t/tu/tulchan-estate-check/"
 ---
 This is the **Tulchan Estate Check (Corporate)** sett — one scale-free proportion (`t1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1`), colour order pattern
 [BWGWGWGWGWGWGWGWGWGWGWGWGW](/stripes/bwgwgwgwgwgwgwgwgwgwgwgwgw/). It is recorded as a single **variant**, below.

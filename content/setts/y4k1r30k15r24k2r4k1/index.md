@@ -1,6 +1,15 @@
 ---
 title: "Oilmens Corporate Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Oilmens"
+  url: "/clan/oilmens/"
+- name: "Oilmens"
+  url: "/families/oilmens/"
+- name: "Oilmens"
+  url: "/tartans/o/oi/oilmens-2/"
 ---
 This is the **Oilmens Corporate Tartan** sett — one scale-free proportion (`y4k1r30k15r24k2r4k1`), colour order pattern
 [GKRKRKRK](/stripes/gkrkrkrk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r20k1ly3k1r60k30r48k4~x2/"><circle cx="479.7" cy="96.2" r="4" fill="#3465a4"><title>Barkwell (Personal)</title></circle></a><a href="/variants/s10/r80w7k2w2k2r3k7r2b12k2~x2/"><circle cx="438.1" cy="42.8" r="4" fill="#3465a4"><title>Masai Shuka 05 (Artefact)</title></circle></a><a href="/variants/s8/r4k6y1k6r4db16r32k1~x2/"><circle cx="316.4" cy="101.5" r="4" fill="#3465a4"><title>Leslie Clan Tartan</title></circle></a><a href="/variants/s11/r48k1w1k6ly4r2ly4k8r2k1w2~x2/"><circle cx="390.2" cy="34.1" r="4" fill="#3465a4"><title>Glennie (Personal)</title></circle></a><a href="/variants/s8/r51n2r6k10r2k4n3k3~x2/"><circle cx="453.5" cy="94.8" r="4" fill="#3465a4"><title>Virgin (Corporate)</title></circle></a><a href="/variants/s8/r51n2r6k10r2k4n3k3~x2~r2310029/"><circle cx="448.1" cy="92.7" r="4" fill="#3465a4"><title>Virgin</title></circle></a><a href="/variants/s8/k4r4y2r41k4r4k12w2~x2/"><circle cx="374.8" cy="96.7" r="4" fill="#3465a4"><title>Aberdeen Football Club (2002)</title></circle></a><a href="/variants/s8/k4r4ly2r41k4r4k12w2~x2/"><circle cx="372.9" cy="96.3" r="4" fill="#3465a4"><title>Aberdeen F. C. (2002) (Sports)</title></circle></a><a href="/variants/s7/k4r40k1r3k1w3k4~x2/"><circle cx="492.7" cy="74.3" r="4" fill="#3465a4"><title>Salt Lake County (District)</title></circle></a><a href="/variants/s9/y27k4w4r64w4r4k4r4k12~x2~r2109013/"><circle cx="355.0" cy="77.6" r="4" fill="#3465a4"><title>O'Meehan</title></circle></a><circle cx="426.5" cy="115.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

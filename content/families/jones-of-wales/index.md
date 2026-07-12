@@ -1,6 +1,11 @@
 ---
 title: "Jones of Wales"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Jones"
+  url: "/clan/jones/"
 ---
 A family of [Clan Jones](/clan/jones/).
 

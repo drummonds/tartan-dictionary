@@ -1,6 +1,9 @@
 ---
 title: "Clan Phillips"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 *A clan defined by its tartans — the dictionary holds no separate clan history for it, only the cloth that carries its name.*
 

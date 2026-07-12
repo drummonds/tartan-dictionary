@@ -1,6 +1,15 @@
 ---
 title: "Brunnbauer (2015)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Brunnbauer"
+  url: "/clan/brunnbauer/"
+- name: "Brunnbauer"
+  url: "/families/brunnbauer/"
+- name: "Brunnbauer"
+  url: "/tartans/b/br/brunnbauer/"
 ---
 This is the **Brunnbauer (2015)** sett — one scale-free proportion (`w4lb32w12k5r9lo8r4w4`), colour order pattern
 [WRYRKWWW](/stripes/wryrkwww/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w4db32w12k5r9y8r4w4~x2/"><circle cx="124.8" cy="162.7" r="4" fill="#3465a4"><title>Brunnbauer (2015)</title></circle></a><a href="/variants/s9/w5g3r3g3r3lb20r16w21k3~x2/"><circle cx="128.5" cy="183.2" r="4" fill="#3465a4"><title>Oliver Dress, Pink (Dance?)</title></circle></a><a href="/variants/s7/k2lb10r5w2db2w2r2~x6/"><circle cx="116.6" cy="198.3" r="4" fill="#3465a4"><title>U.S. Postal Service (Corporate)</title></circle></a><a href="/variants/s10/ly6k2r12dg4r8k10w24lb2w3lb2~x2/"><circle cx="89.7" cy="124.6" r="4" fill="#3465a4"><title>Gillies Red Dress</title></circle></a><a href="/variants/s10/y6k2r15g5r8k12w24lb2w4lb2~x2/"><circle cx="80.2" cy="129.1" r="4" fill="#3465a4"><title>Gillies Dress Red Clan Tartan</title></circle></a><a href="/variants/s6/k4lb28r6w12r12w3~x2/"><circle cx="201.4" cy="206.9" r="4" fill="#3465a4"><title>Thompson, D.C. (Personal)</title></circle></a><a href="/variants/s11/r6n2r2n23k2r4k2lb21r2lb2w6~x2/"><circle cx="153.4" cy="132.0" r="4" fill="#3465a4"><title>IRPA (Corporate)</title></circle></a><a href="/variants/s7/lb8w28ly3g3lb8k9lb4~x2/"><circle cx="170.6" cy="177.3" r="4" fill="#3465a4"><title>MacTavish of Dunardry Dress</title></circle></a><a href="/variants/s7/r34w3dg4g23w24k3dg4~x2/"><circle cx="135.9" cy="163.5" r="4" fill="#3465a4"><title>MacLachlan Dress Clan Tartan</title></circle></a><a href="/variants/s8/r5w2lb20dy2k16w18k2w5~x2/"><circle cx="107.7" cy="164.3" r="4" fill="#3465a4"><title>Ailsa Craig (District)</title></circle></a><circle cx="152.1" cy="172.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

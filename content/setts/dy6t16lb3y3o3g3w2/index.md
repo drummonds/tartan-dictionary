@@ -1,6 +1,15 @@
 ---
 title: "Atikokan (District)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Atikokan"
+  url: "/clan/atikokan/"
+- name: "Atikokan"
+  url: "/families/atikokan/"
+- name: "Atikokan"
+  url: "/tartans/a/at/atikokan/"
 ---
 This is the **Atikokan (District)** sett — one scale-free proportion (`dy6t16lb3y3o3g3w2`), colour order pattern
 [GBWGRGW](/stripes/gbwgrgw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y6t16lb3r3ly3g3w2~x4~t2607245-lb3200000/"><circle cx="188.4" cy="189.9" r="4" fill="#3465a4"><title>Atikokan</title></circle></a><a href="/variants/s7/y6bi16lb3r3o3b3w2~x4~bi2505279-lb3200000-r2008029-o2104058/"><circle cx="225.1" cy="193.3" r="4" fill="#3465a4"><title>Atikokan</title></circle></a><a href="/variants/s6/ly5db30w3g15y8r4~x2/"><circle cx="188.4" cy="183.5" r="4" fill="#3465a4"><title>Carleton College Rugby</title></circle></a><a href="/variants/s7/dp2g6r1y1db3b10w1~x2/"><circle cx="180.6" cy="172.8" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/variants/s6/db13y2r4g2lb8w2~x6/"><circle cx="143.6" cy="201.1" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><a href="/variants/s7/r2ly2db9dy1dg9r1w1~x2/"><circle cx="165.0" cy="176.7" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><a href="/variants/s7/dp2g6r1dy1db3lb10w1~x2/"><circle cx="148.7" cy="161.8" r="4" fill="#3465a4"><title>Manx National District Tartan</title></circle></a><a href="/variants/s7/lp5g9r2dy2db6lb14w3~x4/"><circle cx="85.8" cy="198.7" r="4" fill="#3465a4"><title>Manx National (District)</title></circle></a><a href="/variants/s7/p5g9r2dy2db6lb14w3~x4/"><circle cx="82.8" cy="195.8" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/variants/s7/dp2g8r1dy1db6lb15w1~x4/"><circle cx="180.8" cy="140.1" r="4" fill="#3465a4"><title>Manx National District Tartan</title></circle></a><circle cx="181.3" cy="185.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

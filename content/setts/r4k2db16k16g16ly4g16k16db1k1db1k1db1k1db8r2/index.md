@@ -1,6 +1,15 @@
 ---
 title: "Farquharson"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Farquharson"
+  url: "/clan/farquharson/"
+- name: "Farquharson"
+  url: "/families/farquharson/"
+- name: "Farquharson"
+  url: "/tartans/f/fa/farquharson-2/"
 ---
 This is the **Farquharson** sett — one scale-free proportion (`r4k2db16k16g16ly4g16k16db1k1db1k1db1k1db8r2`), colour order pattern
 [RBKBKBKBKGYGKBKR](/stripes/rbkbkbkbkgygkbkr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db12k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="116.8" cy="123.3" r="4" fill="#3465a4"><title>Robertson of Kindeace</title></circle></a><a href="/variants/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="120.9" cy="122.2" r="4" fill="#3465a4"><title>Robertson Hunting Clan Tartan</title></circle></a><a href="/variants/s13/g16k5g4k8g44k40g4db52r10db4r4db10w6/"><circle cx="122.8" cy="127.3" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><a href="/variants/s19/db12k1g2k1g2k1db12r2k12y1k12r2g12k1db2k1db2k1g12~x2/"><circle cx="120.8" cy="116.6" r="4" fill="#3465a4"><title>Ochiltree Family Tartan</title></circle></a><a href="/variants/s13/w2db10dg3db2dg3k18dg10ly1dg3ly2dg2k2ly2~x2/"><circle cx="148.5" cy="117.0" r="4" fill="#3465a4"><title>O'Doherty (Name)</title></circle></a><a href="/variants/s10/db24k2db2r2db2k20g16y2g2y3~x2~db1406275/"><circle cx="134.1" cy="111.1" r="4" fill="#3465a4"><title>Watson</title></circle></a><a href="/variants/s13/db16r2db2r7db31r2k32w3g31r7g2r2g16~x2/"><circle cx="120.7" cy="121.8" r="4" fill="#3465a4"><title>Clanranald, MacDonald of</title></circle></a><a href="/variants/s21/ly2db8r3db16r1k16g16r3g1r1g8r1g1r3g16k16r1db16r3db8ly1~x4/"><circle cx="114.9" cy="107.8" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/variants/s19/db12k1g2k1g2k1db12dr2k12ly1k12dr2g12k1db2k1db2k1g12~x4/"><circle cx="125.4" cy="119.5" r="4" fill="#3465a4"><title>Ochiltree (Name)</title></circle></a><a href="/variants/s17/b15k2b2ly2b2k10g10k1g2r2g2k1g10k10b10k1r2~x2/"><circle cx="116.9" cy="119.3" r="4" fill="#3465a4"><title>Murray, Tony (Personal)</title></circle></a><circle cx="123.9" cy="112.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

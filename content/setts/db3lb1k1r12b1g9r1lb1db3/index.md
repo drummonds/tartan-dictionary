@@ -1,6 +1,15 @@
 ---
 title: "Moray of Abercairney"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Moray"
+  url: "/clan/moray/"
+- name: "Moray of Abercairney"
+  url: "/families/moray-of-abercairney/"
+- name: "Moray of Abercairney"
+  url: "/tartans/m/mo/moray-of-abercairney/"
 ---
 This is the **Moray of Abercairney** sett — one scale-free proportion (`db3lb1k1r12b1g9r1lb1db3`), colour order pattern
 [BWKRBGRWB](/stripes/bwkrbgrwb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db3lb1k1r12ri1g9r1lb1db3~x4~r2109032-ri2406019/"><circle cx="167.6" cy="126.7" r="4" fill="#3465a4"><title>Moray of Abercairney Clan Tartan</title></circle></a><a href="/variants/s9/lb3n1k1r12b1g9b1n1lb3~x2/"><circle cx="161.0" cy="132.7" r="4" fill="#3465a4"><title>Murray of Abercairney</title></circle></a><a href="/variants/s7/r30db12k6g12y2g3w2~x2/"><circle cx="178.1" cy="131.2" r="4" fill="#3465a4"><title>Hewitt</title></circle></a><a href="/variants/s7/r30db12k3g12y2g3w2~x2/"><circle cx="203.2" cy="128.0" r="4" fill="#3465a4"><title>Hewitt (Name)</title></circle></a><a href="/variants/s12/db4w1k3y1g1w1k1g8r12w1r2k1~x2/"><circle cx="120.5" cy="105.3" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/variants/s7/r16y2dy7y2lb24k2g2~x2/"><circle cx="182.9" cy="138.9" r="4" fill="#3465a4"><title>Traill (Personal)</title></circle></a><a href="/variants/s9/lb3n1k1ri12r1g9r1n1lb3~x2~ri2209032-r2208029/"><circle cx="164.5" cy="132.2" r="4" fill="#3465a4"><title>Murray of Abercairney (Personal)</title></circle></a><a href="/variants/s11/lb13k6y2k3w4k3g22r31lb3r4k2~x2/"><circle cx="125.0" cy="102.3" r="4" fill="#3465a4"><title>MacLean of Duart #4</title></circle></a><a href="/variants/s11/dp45k12y4k4w6k4g50r57dp4r10k4~x2/"><circle cx="123.0" cy="105.8" r="4" fill="#3465a4"><title>MacLean Variation</title></circle></a><a href="/variants/s11/lb4r3y2r9lb3g24lb3r9k3r3w2~x2/"><circle cx="153.5" cy="125.4" r="4" fill="#3465a4"><title>Wilson's, No 128</title></circle></a><circle cx="164.7" cy="126.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Scottish Odyssey"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Scottish Odyssey"
+  url: "/tartans/s/sc/scottish-odyssey/"
 ---
 This is the **Scottish Odyssey** sett — one scale-free proportion (`lb7dbi11k3dbi11dy11g22db3`), colour order pattern
 [BGGBKBW](/stripes/bggbkbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db7b12k3b12dy12g25t3~x2/"><circle cx="131.5" cy="210.7" r="4" fill="#3465a4"><title>Scottish Odyssey (Fashion)</title></circle></a><a href="/variants/s6/r10k18lb10db18g40y5/"><circle cx="90.5" cy="191.2" r="4" fill="#3465a4"><title>Gallowater</title></circle></a><a href="/variants/s6/lr3t14k12dg12k2ly3~x4~t2205244-k0700000/"><circle cx="109.5" cy="222.5" r="4" fill="#3465a4"><title>MacNeil of Barra (Clan)</title></circle></a><a href="/variants/s7/r3g20k2n11k2db20lr2~x2/"><circle cx="133.8" cy="169.7" r="4" fill="#3465a4"><title>Grandfather Mountain Games American Corporate Tartan</title></circle></a><a href="/variants/s7/k7db11k3db11dy11g22db3~x2~db1605267/"><circle cx="141.1" cy="224.7" r="4" fill="#3465a4"><title>Scottish Odyssey Commemorative Tartan</title></circle></a><a href="/variants/s6/r3db24k7dbi11g11y2~x2~db1404245-dbi1406275/"><circle cx="178.6" cy="188.2" r="4" fill="#3465a4"><title>Cowie</title></circle></a><a href="/variants/s7/db8g11k3g11dr12ki10y2~x2~ki0604259/"><circle cx="89.4" cy="233.1" r="4" fill="#3465a4"><title>Scottish Parliament</title></circle></a><a href="/variants/s7/dbi8g11k3g11dr12db10y2~x2~dbi1406275-db1404245/"><circle cx="114.4" cy="242.4" r="4" fill="#3465a4"><title>Parliament Trade Tartan</title></circle></a><a href="/variants/s11/dp2t6n1t3lb1t4k6g5k1g5dp2~x4/"><circle cx="68.1" cy="196.9" r="4" fill="#3465a4"><title>Smithers (Name)</title></circle></a><a href="/variants/s8/g4lb2g9k4g2r6db12w2~x2/"><circle cx="75.1" cy="193.0" r="4" fill="#3465a4"><title>Cherokee</title></circle></a><circle cx="103.3" cy="214.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

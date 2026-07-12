@@ -1,6 +1,13 @@
 ---
 title: "Muir, John"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Muir"
+  url: "/clan/muir/"
+- name: "Muir, John"
+  url: "/tartans/m/mu/muir-john/"
 ---
 This is the **Muir, John** sett — one scale-free proportion (`y2w21db16lb8db30w8db1`), colour order pattern
 [BWBWBWG](/stripes/bwbwbwg/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y1b15w5b1w5b1~x4/"><circle cx="408.9" cy="210.7" r="4" fill="#3465a4"><title>Whitley (Personal)</title></circle></a><a href="/variants/s6/t52db28w5db3w2db10~x2/"><circle cx="388.0" cy="181.2" r="4" fill="#3465a4"><title>St. Andrews, Earl of</title></circle></a><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2/"><circle cx="257.5" cy="218.1" r="4" fill="#3465a4"><title>Keela (Corporate)</title></circle></a><a href="/variants/s7/w6db2w3db2g2db20r1~x2/"><circle cx="374.4" cy="143.4" r="4" fill="#3465a4"><title>Gonzaga University’s True Blue and White</title></circle></a><a href="/variants/s8/db42lb2w2lb2db5dbi12w32db4~x2~db0805267-dbi1405255/"><circle cx="310.9" cy="168.7" r="4" fill="#3465a4"><title>Eildon (1980)</title></circle></a><a href="/variants/s8/db42lb2lbi2lb2db5dbi12lbi32db4~x2~db1204274-lb3103284-lbi3200000-dbi1404245/"><circle cx="342.0" cy="176.9" r="4" fill="#3465a4"><title>Longniddry Eildon Blue Dress Fancy Tartan</title></circle></a><a href="/variants/s8/db41lb2w2lb2db5b12w31db4~x2/"><circle cx="317.6" cy="173.4" r="4" fill="#3465a4"><title>Harmony, Eildon</title></circle></a><a href="/variants/s8/db30t2w2t2db4ti10w25db4~x2~t2405244-ti2503227/"><circle cx="290.6" cy="191.0" r="4" fill="#3465a4"><title>Eildon/Longniddry Blue Dress Fashion Tartan</title></circle></a><a href="/variants/s9/dr3dy1w12dy2db2dy2db14w2db2~x2~dy1603076-db1406275/"><circle cx="249.8" cy="174.7" r="4" fill="#3465a4"><title>Lord Arran (Corporate)</title></circle></a><a href="/variants/s6/lb28db15r2db2w1db6~x2/"><circle cx="334.6" cy="154.0" r="4" fill="#3465a4"><title>Corries</title></circle></a><circle cx="314.7" cy="175.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Akins (Clan)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Akins"
+  url: "/clan/akins/"
+- name: "Akins"
+  url: "/families/akins/"
+- name: "Akins"
+  url: "/tartans/a/ak/akins/"
 ---
 This is the **Akins (Clan)** sett — one scale-free proportion (`r21ri3r3ri3r3db19g22lb3`), colour order pattern
 [RRRRRBGW](/stripes/rrrrrbgw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr21r3dr3r3dr3db19g22lb3~x2/"><circle cx="180.6" cy="204.8" r="4" fill="#3465a4"><title>Akins Clan (Personal)</title></circle></a><a href="/variants/s8/dr21r3dr3r3dr3db19g22b3~x2/"><circle cx="189.8" cy="207.9" r="4" fill="#3465a4"><title>Akins</title></circle></a><a href="/variants/s8/dp24g2o2g2o5g8lr20dy4~x2~o2605035-lr2903322/"><circle cx="194.2" cy="174.1" r="4" fill="#3465a4"><title>Glen Shee #2 (Fashion)</title></circle></a><a href="/variants/s6/r10dbi6g24db24r6y3~dbi1406275-db1004274/"><circle cx="163.3" cy="226.7" r="4" fill="#3465a4"><title>Canine All Dogs (Fashion)</title></circle></a><a href="/variants/s6/r12dbi3g5db16y2g2~x2~dbi1406275-db1204274/"><circle cx="205.7" cy="213.5" r="4" fill="#3465a4"><title>Dunbog Primary School Corporate Tartan</title></circle></a><a href="/variants/s6/r5t3g24db24r4y2~x2~t2405244-db1406275/"><circle cx="236.4" cy="196.7" r="4" fill="#3465a4"><title>Canine All Dogs</title></circle></a><a href="/variants/s8/dp24g2lo2g2lo5g8o20dy4~x2/"><circle cx="205.2" cy="177.5" r="4" fill="#3465a4"><title>Glen Shee</title></circle></a><a href="/variants/s10/db1g4db1r1db1y1db5r6db1y1~x2/"><circle cx="207.5" cy="213.2" r="4" fill="#3465a4"><title>Unidentified Specimen #3</title></circle></a><a href="/variants/s6/g3db12w1dg12r12dg2~x2/"><circle cx="179.0" cy="207.9" r="4" fill="#3465a4"><title>Patterson, John (Personal)</title></circle></a><a href="/variants/s10/db3dg26db3r3db20r3db3r26dg5w3~x2/"><circle cx="205.7" cy="186.6" r="4" fill="#3465a4"><title>Roxburgh Red District Tartan</title></circle></a><circle cx="177.2" cy="198.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

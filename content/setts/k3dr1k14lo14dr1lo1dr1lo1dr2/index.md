@@ -1,6 +1,11 @@
 ---
 title: "Brecheen"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Brecheen"
+  url: "/tartans/b/br/brecheen/"
 ---
 This is the **Brecheen** sett — one scale-free proportion (`k3dr1k14lo14dr1lo1dr1lo1dr2`), colour order pattern
 [BYBYBYKBK](/stripes/bybybykbk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k21g2k2g2k3g15r29g2r2g4~x2/"><circle cx="204.2" cy="144.0" r="4" fill="#3465a4"><title>City of Armadale (District)</title></circle></a><a href="/variants/s10/k21g2k2g2k3g15r29g2r2g4~x2~r2109032/"><circle cx="206.2" cy="145.2" r="4" fill="#3465a4"><title>City of Armadale</title></circle></a><a href="/variants/s8/w1lo1k1lo12k12lo1k1lo1~x4/"><circle cx="283.2" cy="149.2" r="4" fill="#3465a4"><title>Johnston Orange/Black (Corporate)</title></circle></a><a href="/variants/s9/g24k3g2k3g4k4r20k3r6~x2/"><circle cx="224.9" cy="165.2" r="4" fill="#3465a4"><title>Alma College (Corporate)</title></circle></a><a href="/variants/s14/k1lo1k12lo12k1lo1w1lo1k1lo12k12lo1k1lo1~x4~lo2706066/"><circle cx="277.1" cy="132.7" r="4" fill="#3465a4"><title>Johnston Orange/Black</title></circle></a><a href="/variants/s8/do2lr2k6do3k2o14k1o1~x4/"><circle cx="231.2" cy="143.7" r="4" fill="#3465a4"><title>Braemar or Blair Atholl</title></circle></a><a href="/variants/s8/db1r1y1k15y15r1db1y1~x4/"><circle cx="257.9" cy="127.4" r="4" fill="#3465a4"><title>Pittsburgh St Andrew's Society</title></circle></a><a href="/variants/s11/w2k35dg30k3lo30k2lo4k2lo30k3w2/"><circle cx="197.1" cy="121.4" r="4" fill="#3465a4"><title>Vaughan (Welsh Series)</title></circle></a><a href="/variants/s9/g22k1g2k1g3k8r20k1r3~x4/"><circle cx="255.7" cy="133.4" r="4" fill="#3465a4"><title>Stewart of Atholl (Clan)</title></circle></a><a href="/variants/s9/g22k1g2k1g3k8r20k1r6~x2/"><circle cx="248.6" cy="137.9" r="4" fill="#3465a4"><title>Stewart of Athol Clan Tartan</title></circle></a><circle cx="242.7" cy="138.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

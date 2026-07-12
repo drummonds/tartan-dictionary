@@ -1,6 +1,11 @@
 ---
 title: "St. Edmunds (School)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "St. Edmunds"
+  url: "/tartans/s/st/st-edmunds/"
 ---
 This is the **St. Edmunds (School)** sett — one scale-free proportion (`r4t3lb11db8t2r4`), colour order pattern
 [RBBWBR](/stripes/rbbwbr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/n14r4n14lb15db13w3~x2~n1702277-db1007262/"><circle cx="162.7" cy="267.2" r="4" fill="#3465a4"><title>Blue</title></circle></a><a href="/variants/s7/r2dbi11r3dbi11lb12db10w2~x2~dbi1604274-db0805267/"><circle cx="159.8" cy="235.1" r="4" fill="#3465a4"><title>Blue</title></circle></a><a href="/variants/s7/r2dbi11r3dbi11lb12db10w2~x2~dbi1406275-db1204274/"><circle cx="168.3" cy="236.8" r="4" fill="#3465a4"><title>Blue Family Tartan</title></circle></a><a href="/variants/s5/r15w10db48lb32r6~x2/"><circle cx="193.9" cy="230.8" r="4" fill="#3465a4"><title>Lands of Liberty (Fashion)</title></circle></a><a href="/variants/s5/db9y9db9lb23r3~x2/"><circle cx="210.1" cy="250.9" r="4" fill="#3465a4"><title>Tilburg (District)</title></circle></a><a href="/variants/s6/db3r2g5r8db12w3~x2/"><circle cx="193.9" cy="242.5" r="4" fill="#3465a4"><title>Edinburgh Bus Company (Corporate)</title></circle></a><a href="/variants/s5/r10w5db30lb20r3~x4/"><circle cx="210.5" cy="219.0" r="4" fill="#3465a4"><title>Lands of Liberty</title></circle></a><a href="/variants/s7/db4lr3db4lr3o3n11o3~x2/"><circle cx="172.5" cy="278.9" r="4" fill="#3465a4"><title>Stevens #2</title></circle></a><a href="/variants/s7/r3db15w13o6db2o2r2~x2/"><circle cx="164.9" cy="204.5" r="4" fill="#3465a4"><title>Thom(p)son, Navy</title></circle></a><a href="/variants/s6/r9db6dbi13db21y18w4~x2~dbi1003265-y2400000/"><circle cx="145.1" cy="262.2" r="4" fill="#3465a4"><title>Fox-Eves Wedding</title></circle></a><circle cx="145.7" cy="258.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Lake Superior Ice Water Mansion"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Lake Superior"
+  url: "/tartans/l/la/lake-superior/"
 ---
 This is the **Lake Superior Ice Water Mansion** sett — one scale-free proportion (`w52lb4t6db28t1w1t1w1t1w1t1w1t1w1t1w1t8w24db12w4db20lb1db1lb1db1lb1db1lb1db1lb1db1w8lb8db16`), colour order pattern
 [BWWBWBWBWBWBWBWBWBWBWBWBWBWBWBBBWW](/stripes/bwwbwbwbwbwbwbwbwbwbwbwbwbwbwbbbww/). It is recorded as a single **variant**, below.

@@ -1,6 +1,11 @@
 ---
 title: "Ryutokukan Junior High School"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Ryutokukan Junior High School"
+  url: "/tartans/r/ry/ryutokukan-junior-high-school/"
 ---
 This is the **Ryutokukan Junior High School** sett — one scale-free proportion (`r6dg13k5r20w3`), colour order pattern
 [RGKRW](/stripes/rgkrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r28g16k4w7r28/"><circle cx="324.8" cy="225.7" r="4" fill="#3465a4"><title>Sinclair Dress</title></circle></a><a href="/variants/s5/g7r3g1r9k1~x2/"><circle cx="329.1" cy="222.3" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/variants/s6/r5w2r28k12g16r3~x2/"><circle cx="257.2" cy="169.5" r="4" fill="#3465a4"><title>Nisbet Family Tartan</title></circle></a><a href="/variants/s5/g16r5g2r18k2/"><circle cx="315.9" cy="221.0" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/variants/s5/g16r5g2r18k2~x2/"><circle cx="315.9" cy="221.0" r="4" fill="#3465a4"><title>MacDonald, Lord of The Isles (Artef)</title></circle></a><a href="/variants/s6/k2r20k8g18r3w2~x2/"><circle cx="190.1" cy="183.6" r="4" fill="#3465a4"><title>Celtic Combat</title></circle></a><a href="/variants/s6/r10g24k10r28lb3r6~x2/"><circle cx="246.8" cy="202.5" r="4" fill="#3465a4"><title>Nisbet</title></circle></a><a href="/variants/s7/r20k5dg5r5w5n3dg3~x4/"><circle cx="204.3" cy="173.6" r="4" fill="#3465a4"><title>Mangles, Peter and Annette (Personal</title></circle></a><a href="/variants/s7/r20k5g5r5w5n3g3~x4/"><circle cx="204.5" cy="175.7" r="4" fill="#3465a4"><title>Mangles, Peter and Annette (Personal)</title></circle></a><a href="/variants/s7/r20k5dg5r5w5lr3dg3~x4/"><circle cx="202.0" cy="172.3" r="4" fill="#3465a4"><title>Mangles, Peter and Annette Family/Personal Tartan</title></circle></a><circle cx="239.2" cy="219.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

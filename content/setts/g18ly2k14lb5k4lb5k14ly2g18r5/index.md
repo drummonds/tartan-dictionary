@@ -1,6 +1,11 @@
 ---
 title: "Norwich No.079"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Norwich No.079"
+  url: "/tartans/n/no/norwich-no-079/"
 ---
 This is the **Norwich No.079** sett — one scale-free proportion (`g18ly2k14lb5k4lb5k14ly2g18r5`), colour order pattern
 [GYKWKWKYGR](/stripes/gykwkwkygr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k18db12k5g4r6g12k2ly4~x2/"><circle cx="109.1" cy="187.5" r="4" fill="#3465a4"><title>MacLeish</title></circle></a><a href="/variants/s8/r3k8g17y2g17k8db8k2~x2/"><circle cx="182.0" cy="186.7" r="4" fill="#3465a4"><title>Aztec, New Mexico</title></circle></a><a href="/variants/s9/t22k12g11y2g11k12t11k2r2~x2/"><circle cx="126.1" cy="182.2" r="4" fill="#3465a4"><title>Huntly Gordon Fancy Tartan</title></circle></a><a href="/variants/s9/k12r1g14w1g14k14r1db8k2~x2/"><circle cx="160.1" cy="153.0" r="4" fill="#3465a4"><title>Abercrombie Family Tartan</title></circle></a><a href="/variants/s10/k6y2g18w3g13k3y4k3db18w3~x2/"><circle cx="130.1" cy="167.2" r="4" fill="#3465a4"><title>Corstorphine Trial A</title></circle></a><a href="/variants/s10/k6r2k2r2k6db7g20ly2g3r2~x2/"><circle cx="152.9" cy="143.3" r="4" fill="#3465a4"><title>Connolly Hunting (Name)</title></circle></a><a href="/variants/s10/k6r2k2r2k6db7g20y2g3r2~x2/"><circle cx="156.6" cy="144.3" r="4" fill="#3465a4"><title>Connolly Hunting</title></circle></a><a href="/variants/s7/k22g21k5g12lb12n3w4~x2/"><circle cx="115.8" cy="202.7" r="4" fill="#3465a4"><title>Disciples of Christ Motorcycle Ministry (Switzerland)</title></circle></a><a href="/variants/s11/dp3dg6k9g11w1g11w1g11k9dg6dp3~x4/"><circle cx="145.7" cy="182.9" r="4" fill="#3465a4"><title>Hibernian F.C.</title></circle></a><a href="/variants/s12/n3g12k5g2k5n2dr2n2k5g12w2n3~x2/"><circle cx="142.8" cy="180.5" r="4" fill="#3465a4"><title>Wilcox, Yu, Cruikshank Reunion</title></circle></a><circle cx="130.1" cy="178.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,13 @@
 ---
 title: "Glen Trool"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Glen"
+  url: "/clan/glen/"
+- name: "Glen Trool"
+  url: "/tartans/g/gl/glen-trool-2/"
 ---
 This is the **Glen Trool** sett — one scale-free proportion (`dg37o9dg3r9o3`), colour order pattern
 [GRGRR](/stripes/grgrr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dg42o10dg3dr10o3~x2/"><circle cx="517.3" cy="237.7" r="4" fill="#3465a4"><title>Glen Trool (Fashion)</title></circle></a><a href="/variants/s5/dg37dy9dg3r9dy3~x2/"><circle cx="508.8" cy="245.8" r="4" fill="#3465a4"><title>Glen Trool District Tartan</title></circle></a><a href="/variants/s5/r2dg1r1dg10w1~x4/"><circle cx="448.7" cy="201.5" r="4" fill="#3465a4"><title>Welsh National District Tartan</title></circle></a><a href="/variants/s6/dg11y1dg1y6k1y1~x4/"><circle cx="393.9" cy="209.4" r="4" fill="#3465a4"><title>Big Spruce Brewing</title></circle></a><a href="/variants/s6/dg11y1dg1y6k1y1~x8/"><circle cx="393.9" cy="209.4" r="4" fill="#3465a4"><title>Big Spruce Brewing</title></circle></a><a href="/variants/s6/dr8g2dr2k1dr1g2~x10/"><circle cx="414.6" cy="218.7" r="4" fill="#3465a4"><title>Waverley Care Aids Trust (Corporate)</title></circle></a><a href="/variants/s4/g16r1g2r11~x8/"><circle cx="443.0" cy="247.8" r="4" fill="#3465a4"><title>Middleton</title></circle></a><a href="/variants/s6/do44o3do4w3do4o44~x2/"><circle cx="413.8" cy="206.0" r="4" fill="#3465a4"><title>Wcwm 1166-2</title></circle></a><a href="/variants/s5/g22dt5r4dt5r3~x2/"><circle cx="350.3" cy="253.1" r="4" fill="#3465a4"><title>Romsdal</title></circle></a><a href="/variants/s6/db2o28g13o2db13o2~x4/"><circle cx="359.1" cy="217.0" r="4" fill="#3465a4"><title>Edinchat</title></circle></a><circle cx="445.4" cy="219.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

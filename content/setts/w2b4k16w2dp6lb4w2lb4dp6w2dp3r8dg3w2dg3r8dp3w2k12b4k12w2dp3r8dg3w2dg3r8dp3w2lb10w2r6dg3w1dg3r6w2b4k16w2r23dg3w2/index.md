@@ -1,6 +1,15 @@
 ---
 title: "Aberdeen"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Aberdeen"
+  url: "/clan/aberdeen/"
+- name: "Aberdeen"
+  url: "/families/aberdeen/"
+- name: "Aberdeen"
+  url: "/tartans/a/ab/aberdeen/"
 ---
 This is the **Aberdeen** sett — one scale-free proportion (`w2b4k16w2dp6lb4w2lb4dp6w2dp3r8dg3w2dg3r8dp3w2k12b4k12w2dp3r8dg3w2dg3r8dp3w2lb10w2r6dg3w1dg3r6w2b4k16w2r23dg3w2`), colour order pattern
 [WBKWBWWWBWBRGWGRBWKBKWBRGWGRBWWWRGWGRWBKWRGW](/stripes/wbkwbwwwbwbrgwgrbwkbkwbrgwgrbwwwrgwgrwbkwrgw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s44/w2g4k16w2dp6lb4w2lb4dp6w2dp3r8ri3w2ri3r8dp3w2k12g4k12w2dp3r8ri3w2ri3r8dp3w2lb10w1r6ri3w1ri3r6w1g4k16w2r23ri3w2~x2~r2209032-ri2806019/"><circle cx="28.1" cy="29.5" r="4" fill="#3465a4"><title>Aberdeen - 1819 (District)</title></circle></a><a href="/variants/s44/w2g4k16w2dp6lb4w2lb4dp6w2dp3r8ri3w2ri3r8dp3w2k12g4k12w2dp3r8ri3w2ri3r8dp3w2lb10w1r6ri3w1ri3r6w1ri4k16w2r23ri3w2~x2~r2109032-ri2406019/"><circle cx="30.2" cy="29.0" r="4" fill="#3465a4"><title>Aberdeen District Tartan</title></circle></a><a href="/variants/s82/g4w1ri6r3w1r3ri6w1lb10w2dp3ri8r3w2r3ri8dp3w2k12g4k12w2dp3ri8r3w2r3ri8dp3w2dp6lb4w2lb4dp6w2k16g4w2g4k16w2dp6lb4w2lb4dp6w2dp3ri8r3w2r3ri8dp3w2k12g4k12w2dp3ri8r3w2r3ri8dp3w2lb10w1ri6r3w1r3ri6w1g4k16w2ri2-h9a2519dbca078ee2/"><circle cx="14.0" cy="14.0" r="4" fill="#3465a4"><title>Aberdeen</title></circle></a><a href="/variants/s28/r44g25k2w6k2y3k16lb12r6lb12k16y3k2w6r44w6k2y3k16lb12r6lb12k16y3k2w6k2g22~x2/"><circle cx="75.5" cy="56.0" r="4" fill="#3465a4"><title>Wilson's No.017</title></circle></a><a href="/variants/s34/w2r8w2k15w2lb5w2dg20g2dg4g2dg20g3y3r2w2r2y3g3dg20w2r32w2dg20w2lb5w2g4k15w2lb5w2r8w2/"><circle cx="76.0" cy="44.6" r="4" fill="#3465a4"><title>Hunter (Wilsons1819)</title></circle></a><a href="/variants/s22/o6lb12k2r3k2lb40k6w6k6y3k3y3k12r3db12r3o14k2r3k2o14r5/"><circle cx="60.8" cy="48.9" r="4" fill="#3465a4"><title>Anderson 1</title></circle></a><a href="/variants/s32/lyi8k2w3k4ly3k2lb6k2ly3k4lb3db44k4ly4k4dy5ly5dy5ly6dy5ly5dy5k4dy5lyi5dy5lyi6dy5lyi5dy5k4w6~lyi3407090-ly2503076/"><circle cx="28.9" cy="32.5" r="4" fill="#3465a4"><title>Whiskey &amp; Bourbon (Corporate)</title></circle></a><a href="/variants/s24/r6g10r2db2r4db2r2g10r4db8r2k8y2k4y2k4w6k6lb27r2k2r2lb10r6~x2/"><circle cx="19.8" cy="74.7" r="4" fill="#3465a4"><title>Anderson (Highland Society of London)</title></circle></a><a href="/variants/s22/dy6lb12k2r3k2lb40k6w6k6y3k3y3k12r3db12r3dy14k2r3k2dy14r5/"><circle cx="58.2" cy="49.0" r="4" fill="#3465a4"><title>Anderson (Paton)</title></circle></a><circle cx="28.8" cy="33.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

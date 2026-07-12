@@ -1,6 +1,11 @@
 ---
 title: "Unidentified Plaid #10"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified Plaid 7"
+  url: "/tartans/u/un/unidentified-plaid-7/"
 ---
 This is the **Unidentified Plaid #10** sett — one scale-free proportion (`db27r5db27r3db3r30db23`), colour order pattern
 [BRBRBRB](/stripes/brbrbrb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/b10r24b4r3b24w2r6b6~x2/"><circle cx="386.2" cy="212.3" r="4" fill="#3465a4"><title>Embrace, The</title></circle></a><a href="/variants/s9/db12y1r16db1r1db14r3db14y1~x4/"><circle cx="411.7" cy="182.1" r="4" fill="#3465a4"><title>Orlando Fire Department (Corporate)</title></circle></a><a href="/variants/s9/db12y1r16db1r1db14r3db14y1~x4~db1406275/"><circle cx="404.7" cy="164.3" r="4" fill="#3465a4"><title>Orlando Fire Department</title></circle></a><a href="/variants/s9/w1db8r3db2r1db2r3db8ly1~x4/"><circle cx="365.8" cy="197.4" r="4" fill="#3465a4"><title>Louisville Fire &amp; Rescue P&amp;D</title></circle></a><a href="/variants/s9/db26r3db3w2db3r3db6r6dy2~x4/"><circle cx="417.7" cy="153.6" r="4" fill="#3465a4"><title>Newton Primary School</title></circle></a><a href="/variants/s9/db26r3db3w2db3r3db6r6y2~x4/"><circle cx="414.9" cy="152.8" r="4" fill="#3465a4"><title>Newton Primary School, Dunblane</title></circle></a><a href="/variants/s8/db32r3db3r4w3r5db4r7~x2/"><circle cx="391.4" cy="175.9" r="4" fill="#3465a4"><title>Edinburgh TIC (Corporate)</title></circle></a><a href="/variants/s7/db8r2db18r1db2w10db4~x2/"><circle cx="402.2" cy="181.9" r="4" fill="#3465a4"><title>Nike ACG Lunarstorm (Fashion)</title></circle></a><a href="/variants/s7/db4r1db18r18db1r1w1~x2/"><circle cx="373.1" cy="165.5" r="4" fill="#3465a4"><title>St. Mildreds Check (School)</title></circle></a><a href="/variants/s6/db2r2db15r15db2r2~x2/"><circle cx="346.4" cy="221.0" r="4" fill="#3465a4"><title>Hebrides #7</title></circle></a><circle cx="428.5" cy="243.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "MacLeod"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacLeod"
+  url: "/clan/macleod/"
+- name: "MacLeod"
+  url: "/families/macleod/"
+- name: "MacLeod"
+  url: "/tartans/m/ma/macleod-7/"
 ---
 This is the **MacLeod** sett — one scale-free proportion (`k3r2k1r6k24r6k1r1k3r2k1r32k24r6k6r32k24r16k6r4k2`), colour order pattern
 [KRKRKRKRKRKRKRKRKRKRK](/stripes/krkrkrkrkrkrkrkrkrkrk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/"><circle cx="286.0" cy="103.6" r="4" fill="#3465a4"><title>Hebrides #12</title></circle></a><a href="/variants/s12/k6r31k1r6k1w2k1r4k6r2k31r6~x2/"><circle cx="317.1" cy="87.1" r="4" fill="#3465a4"><title>University of Georgia (Corporate)</title></circle></a><a href="/variants/s15/r5k1r2k2r16lb2r2k9r2k2r2k13r2k2r4~x2/"><circle cx="284.4" cy="120.2" r="4" fill="#3465a4"><title>Walkers Shortbread (Corporate)</title></circle></a><a href="/variants/s13/k11r2k11r20w2r20k7r1k7r1k7r11w1~x2/"><circle cx="287.4" cy="130.8" r="4" fill="#3465a4"><title>Westwood MacBrick (Fashion)</title></circle></a><a href="/variants/s14/k15r2k1r2k1r4lo1k1r14k1r2k1r1k10~x4/"><circle cx="297.0" cy="110.4" r="4" fill="#3465a4"><title>Johnnie Walker (1985)</title></circle></a><a href="/variants/s14/k15r2k1r2k1r4b1k1r14k1r2k1r1k10~x4/"><circle cx="297.9" cy="110.9" r="4" fill="#3465a4"><title>Johnnie Walker</title></circle></a><a href="/variants/s21/k4r3k3r4k22r4k3r3dg4r3k3r44k30r10dg10r40dg30r27k10r14dg3~x2/"><circle cx="269.0" cy="114.1" r="4" fill="#3465a4"><title>Murray of Tullibardine - Artefact</title></circle></a><a href="/variants/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2k2r8k12r4db2r2k1~x4/"><circle cx="295.3" cy="76.9" r="4" fill="#3465a4"><title>Murray (Bed hanging)</title></circle></a><circle cx="326.7" cy="87.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

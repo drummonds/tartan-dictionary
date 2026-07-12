@@ -1,6 +1,11 @@
 ---
 title: "O'Farrell Irish Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "O'Farrell"
+  url: "/tartans/o/o/o-farrell/"
 ---
 This is the **O'Farrell Irish Family Tartan** sett — one scale-free proportion (`w2dy14y3k6w2k2w2k2g8ly6k2ly3w2`), colour order pattern
 [WGGKWKWKGYKYW](/stripes/wggkwkwkgykyw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k4dg10ly4dg10k4g20dg5k2ly6k2r10k2w4~x2/"><circle cx="41.6" cy="144.1" r="4" fill="#3465a4"><title>Donegal County Crest (Fashion)</title></circle></a><a href="/variants/s11/ly40k5g48k5dr20k5lb14k10w4dr28lb10/"><circle cx="45.2" cy="138.2" r="4" fill="#3465a4"><title>Kildare County Crest (Fashion)</title></circle></a><a href="/variants/s17/lb7k9ly2k2ly2r14g14w2lb3w2g14r14k2lb7k9ly2k2~x2/"><circle cx="14.0" cy="140.3" r="4" fill="#3465a4"><title>Coulter (Personal)</title></circle></a><a href="/variants/s10/r3g18r4lb3r4k13r3lg18g2ly3~x2~lb3203246-ly3307090/"><circle cx="47.5" cy="149.6" r="4" fill="#3465a4"><title>Stirling and Bannockburn</title></circle></a><a href="/variants/s12/y4g20r3db11lb3r11g11r3k20r3k3lb3~x2/"><circle cx="49.6" cy="154.8" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/variants/s12/y5g19r2t11lb2r11g11r2k20r2k2lb2~x2~t2503227-lb3103284/"><circle cx="73.4" cy="134.5" r="4" fill="#3465a4"><title>Gordonstoun (Corporate)</title></circle></a><a href="/variants/s13/w4dy4k3dy9g13k3w3k3w3k9y4lb20w3~x2/"><circle cx="14.0" cy="154.5" r="4" fill="#3465a4"><title>Clodagh/Cork</title></circle></a><a href="/variants/s12/k13lb7k2r14g14w2lb3w2g14r14k15lb7~x2/"><circle cx="14.0" cy="135.9" r="4" fill="#3465a4"><title>Coulter (Personal)</title></circle></a><a href="/variants/s18/k14g2lb14g3lb14g2k14g14w2g14k14r2g2r10y4r10g2r2~x2/"><circle cx="24.0" cy="143.6" r="4" fill="#3465a4"><title>Langston (Personal)</title></circle></a><a href="/variants/s18/g23k3db9k3r20w3r20k3db9k3y20k3y20k3db9k3g23db9~x2/"><circle cx="32.7" cy="146.7" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><circle cx="17.3" cy="152.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,13 @@
 ---
 title: "Bruce Special 1985 XXX"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Bruce"
+  url: "/clan/bruce/"
+- name: "Bruce Special 1985 XXX"
+  url: "/tartans/b/br/bruce-special-1985-xxx/"
 ---
 This is the **Bruce Special 1985 XXX** sett — one scale-free proportion (`t1lb1`), colour order pattern
 [BW](/stripes/bw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s2/db1t1~x100/"><circle cx="301.3" cy="366.0" r="4" fill="#3465a4"><title>Rob Roy, Blue (Fashion)</title></circle></a><a href="/variants/s2/db1t1~x14/"><circle cx="301.3" cy="366.0" r="4" fill="#3465a4"><title>St. Combs Fisher Plaid</title></circle></a><a href="/variants/s3/db1w1lb1~x8/"><circle cx="87.7" cy="366.0" r="4" fill="#3465a4"><title>Glen Moriston Estate Check</title></circle></a><a href="/variants/s2/g7lb6~x2/"><circle cx="301.5" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.210</title></circle></a><a href="/variants/s2/dr1db1~x100/"><circle cx="380.9" cy="366.0" r="4" fill="#3465a4"><title>Rob Roy, Blue &amp; Red (Fashion)</title></circle></a><a href="/variants/s2/dr1db1~x14/"><circle cx="380.9" cy="366.0" r="4" fill="#3465a4"><title>Cairnbulg &amp; Inverllocjy Fisher Plaid</title></circle></a><a href="/variants/s2/g1t1~x130/"><circle cx="427.7" cy="366.0" r="4" fill="#3465a4"><title>Hafren (Personal)</title></circle></a><a href="/variants/s2/dy1lb1~x6/"><circle cx="207.8" cy="366.0" r="4" fill="#3465a4"><title>Shepherd Brown &amp; White (Fashion?)</title></circle></a><a href="/variants/s2/db1w1~x20/"><circle cx="205.5" cy="366.0" r="4" fill="#3465a4"><title>Sillitoe</title></circle></a><a href="/variants/s2/db1r1~x20/"><circle cx="214.5" cy="366.0" r="4" fill="#3465a4"><title>Masai Shuka 02 (Artefact)</title></circle></a><circle cx="355.9" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

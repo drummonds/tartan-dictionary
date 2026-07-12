@@ -1,6 +1,13 @@
 ---
 title: "Edinburgh Tattoo 50th (Commemorative"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Edinburgh"
+  url: "/clan/edinburgh/"
+- name: "Edinburgh Military Tattoo 50th"
+  url: "/tartans/e/ed/edinburgh-military-tattoo-50th/"
 ---
 This is the **Edinburgh Tattoo 50th (Commemorative** sett — one scale-free proportion (`k1dg8r6db8k1`), colour order pattern
 [KBRGK](/stripes/kbrgk/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k1db8r6g8k1~x4/"><circle cx="138.3" cy="226.4" r="4" fill="#3465a4"><title>Edinburgh Military Tattoo 50th Military Tartan</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="145.6" cy="229.5" r="4" fill="#3465a4"><title>Murray (Variation) Clan Tartan</title></circle></a><a href="/variants/s6/dp2dg6k2db6k1r2~x4/"><circle cx="138.3" cy="236.3" r="4" fill="#3465a4"><title>MacCaughan or MacEachain (Personal)</title></circle></a><a href="/variants/s6/r2k1db6k2g6o2~x4/"><circle cx="85.2" cy="221.9" r="4" fill="#3465a4"><title>MacCaughan or MacEachain Clan Tartan</title></circle></a><a href="/variants/s6/dr2k1db6k2g6o2~x4/"><circle cx="96.3" cy="227.9" r="4" fill="#3465a4"><title>MacEachain (Clan)</title></circle></a><a href="/variants/s6/r2k1db6k2g6b2~x4/"><circle cx="85.7" cy="223.5" r="4" fill="#3465a4"><title>MacCaughan, or MacEachain</title></circle></a><a href="/variants/s6/db28r4k14r4dg33y4~x2/"><circle cx="183.4" cy="203.7" r="4" fill="#3465a4"><title>Royal College of Physicians of Edinburgh</title></circle></a><a href="/variants/s5/dr2db9k5g6db1~x4/"><circle cx="189.2" cy="233.9" r="4" fill="#3465a4"><title>Frobo Nairn</title></circle></a><a href="/variants/s6/o4db19o3k20oi24db3~x2~o2102055-oi2104058/"><circle cx="147.4" cy="214.9" r="4" fill="#3465a4"><title>Edinburgh International Conference Centre</title></circle></a><a href="/variants/s6/r4dg11k11dg2db11g3~x4~dg1803171-g1904130/"><circle cx="94.6" cy="238.2" r="4" fill="#3465a4"><title>Casely</title></circle></a><circle cx="166.1" cy="232.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

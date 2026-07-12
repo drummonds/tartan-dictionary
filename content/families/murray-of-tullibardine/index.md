@@ -1,6 +1,11 @@
 ---
 title: "Murray of Tullibardine"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Murray"
+  url: "/clan/murray/"
 ---
 A family of [Clan Murray](/clan/murray/).
 

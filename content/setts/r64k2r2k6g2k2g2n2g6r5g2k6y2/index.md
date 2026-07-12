@@ -1,6 +1,15 @@
 ---
 title: "Melrose (District)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Melrose"
+  url: "/clan/melrose/"
+- name: "Melrose"
+  url: "/families/melrose/"
+- name: "Melrose"
+  url: "/tartans/m/me/melrose/"
 ---
 This is the **Melrose (District)** sett — one scale-free proportion (`r64k2r2k6g2k2g2n2g6r5g2k6y2`), colour order pattern
 [GKGRGBGKGKRKR](/stripes/gkgrgbgkgkrkr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r80w7k2w2k2r3k7r2b12k2~x2/"><circle cx="438.1" cy="42.8" r="4" fill="#3465a4"><title>Masai Shuka 05 (Artefact)</title></circle></a><a href="/variants/s12/r66db2k11y4k2w4k11g2r8k2r8w2/"><circle cx="352.4" cy="23.1" r="4" fill="#3465a4"><title>TIlted Kilt</title></circle></a><a href="/variants/s12/r66db2k11ly4k2w4k11g2r8k2r8w2/"><circle cx="350.3" cy="22.6" r="4" fill="#3465a4"><title>Tilted Kilt (Corporate)</title></circle></a><a href="/variants/s12/r87db8k11y2k3w2k3g13r11k2r5w3/"><circle cx="378.9" cy="14.0" r="4" fill="#3465a4"><title>Stewart/Stuart, Royal</title></circle></a><a href="/variants/s12/r134lb10k14y2k3w3k3dg21r11k3r4w2/"><circle cx="411.5" cy="14.0" r="4" fill="#3465a4"><title>Royal Stewart - 1819</title></circle></a><a href="/variants/s11/r44db3k6ly2k2ly2k10r5k2r3w2~x2/"><circle cx="334.2" cy="57.6" r="4" fill="#3465a4"><title>Heritage Plaid</title></circle></a><a href="/variants/s11/r44db3k6o2k2o2k10r5k2r3w2~x2/"><circle cx="338.6" cy="58.4" r="4" fill="#3465a4"><title>Hilton Plaid</title></circle></a><a href="/variants/s17/r90k1r2db8r2k12w1k2y1k3g13r11k1g2k1r5w2~x2/"><circle cx="398.8" cy="14.0" r="4" fill="#3465a4"><title>Scotia Village (Corporate)</title></circle></a><a href="/variants/s11/r48k1w1k6ly4r2ly4k8r2k1w2~x2/"><circle cx="390.2" cy="34.1" r="4" fill="#3465a4"><title>Glennie (Personal)</title></circle></a><a href="/variants/s12/r36y4r1y4r4k8r4k2r4w2r1w4~x2/"><circle cx="387.1" cy="58.0" r="4" fill="#3465a4"><title>Manchester Reds</title></circle></a><circle cx="398.7" cy="26.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

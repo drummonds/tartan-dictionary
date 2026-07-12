@@ -1,6 +1,11 @@
 ---
 title: "Wilson's No.156"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Wilson's No.156"
+  url: "/tartans/w/wi/wilson-s-no-156/"
 ---
 This is the **Wilson's No.156** sett — one scale-free proportion (`r30w2lb4k4y2k2w6k2lb11k15y3g20r14w4r4k2r8`), colour order pattern
 [RKRWRGGKWKWKGKWWR](/stripes/rkrwrggkwkwkgkwwr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/k2g12r2k2r2k2r16y2r3db6r3k1g8k1r3w2~x2/"><circle cx="152.0" cy="92.4" r="4" fill="#3465a4"><title>Innes (D C Stewart)</title></circle></a><a href="/variants/s14/r25w4k4g25y3k15lb13r5lb5r15g4r5k2g3~x2/"><circle cx="105.2" cy="117.2" r="4" fill="#3465a4"><title>Wilson's, No 226</title></circle></a><a href="/variants/s12/r14lb4k6y1k2w2k2g12r6k2r2w1~x2/"><circle cx="120.4" cy="109.5" r="4" fill="#3465a4"><title>Stewart Prince Charles Edward Clan Tartan</title></circle></a><a href="/variants/s18/r8k3n15k1w3k1n8k1w3k1r19k2ly2k2g2k2r2k2~x2/"><circle cx="133.8" cy="66.9" r="4" fill="#3465a4"><title>Canadian Dental Association (Corp.)</title></circle></a><a href="/variants/s15/r44g25k2w6k2y3k16lb12r6lb12k16y3k2w6r44~x2/"><circle cx="168.2" cy="74.9" r="4" fill="#3465a4"><title>Wilson's, No 17</title></circle></a><a href="/variants/s17/r48b4r28k5w4k6b4k7g8k7b4k6w4k5ri24b4g48~g2508144-ri2209032/"><circle cx="99.9" cy="90.6" r="4" fill="#3465a4"><title>Total</title></circle></a><a href="/variants/s12/k2lb6w1r14k1r14w1k6g10ly1g2ly2~x2/"><circle cx="157.2" cy="107.2" r="4" fill="#3465a4"><title>Ogg of Tarragann (Personal)</title></circle></a><a href="/variants/s15/r25lb9k2lb9k19y3k3w5k3y3g22r16g3r3g3~x2/"><circle cx="80.3" cy="111.7" r="4" fill="#3465a4"><title>Wilson's No 181, (Stewart)</title></circle></a><a href="/variants/s18/r8k3lb15k1w3k1lb8k1w3k1r19k2y2k2g2k2r2k2~x2/"><circle cx="123.3" cy="64.1" r="4" fill="#3465a4"><title>Canadian Dental Association</title></circle></a><a href="/variants/s18/k2lr6y2lr2y2lr19t2dg2t2lr2dr4k2dr11dg2dr2dg2dr6y2~x2~dg1502166/"><circle cx="132.2" cy="104.9" r="4" fill="#3465a4"><title>Harmon Dress</title></circle></a><circle cx="116.7" cy="88.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

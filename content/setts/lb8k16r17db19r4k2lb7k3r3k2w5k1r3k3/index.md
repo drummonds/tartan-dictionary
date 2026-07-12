@@ -1,6 +1,11 @@
 ---
 title: "Popular"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Popular"
+  url: "/tartans/p/po/popular/"
 ---
 This is the **Popular** sett — one scale-free proportion (`lb8k16r17db19r4k2lb7k3r3k2w5k1r3k3`), colour order pattern
 [KRKWKRKWKRBRKW](/stripes/krkwkrkwkrbrkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db15lb2w8lb2db42k42r42w8r4w4r4w4r10~x2/"><circle cx="125.9" cy="94.7" r="4" fill="#3465a4"><title>American St Andrews Societies</title></circle></a><a href="/variants/s15/r20b36r4k2lb7k4r2k2w3k2r3k4lb7k13r20~x2/"><circle cx="148.2" cy="92.5" r="4" fill="#3465a4"><title>MacDougall 1</title></circle></a><a href="/variants/s14/db10r2db2r4db12r2k14w13r4w2r2w4r1y3~x2/"><circle cx="81.9" cy="125.3" r="4" fill="#3465a4"><title>Carnegie #2</title></circle></a><a href="/variants/s14/w4k1dg10k1db7k1w4k1db5k1db2k1r20k2~x4/"><circle cx="121.8" cy="87.0" r="4" fill="#3465a4"><title>Unnamed - C19th (Annie Oakley)</title></circle></a><a href="/variants/s18/r4lb6k1r2k1lb14k3w3k2r2k2r2db4r2db6r2db6r2~x2/"><circle cx="82.1" cy="116.8" r="4" fill="#3465a4"><title>Royal Canadian Air Force</title></circle></a><a href="/variants/s15/w4r2w1k2w8k6y6r6k6y6r6k1db16k1w4~x2/"><circle cx="35.5" cy="129.4" r="4" fill="#3465a4"><title>Uganda</title></circle></a><a href="/variants/s14/y2ri15y3r2y3k14y2db6w2db6y2ri7db10w1~x2~ri2109032-r1807008/"><circle cx="83.2" cy="116.7" r="4" fill="#3465a4"><title>Dalrymple of Castleton Portrait Tartan</title></circle></a><a href="/variants/s13/db14lb2w2lb2db20k20r17w4r3w3r3w3r5~x2/"><circle cx="101.4" cy="133.3" r="4" fill="#3465a4"><title>American Bi-Centennial</title></circle></a><a href="/variants/s14/y2ri15y3r2y3k14y2db6w2db6y2ri7db10w1~x2~ri2008029-r1707016/"><circle cx="84.6" cy="117.4" r="4" fill="#3465a4"><title>Dalrymple, of Castleton</title></circle></a><a href="/variants/s15/r20ti36r4k2t7k4r2k2w3k2r3k4t7k13r20~x2~ti2607245-t2304245/"><circle cx="144.5" cy="93.9" r="4" fill="#3465a4"><title>MacDougall #7</title></circle></a><circle cx="88.9" cy="108.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

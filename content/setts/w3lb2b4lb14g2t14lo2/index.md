@@ -1,6 +1,15 @@
 ---
 title: "Seaside (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Seaside"
+  url: "/clan/seaside/"
+- name: "Seaside"
+  url: "/families/seaside/"
+- name: "Seaside"
+  url: "/tartans/s/se/seaside-2/"
 ---
 This is the **Seaside (Fashion)** sett — one scale-free proportion (`w3lb2b4lb14g2t14lo2`), colour order pattern
 [WWBWGBY](/stripes/wwbwgby/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w8lb30g5w3db8r5/"><circle cx="246.9" cy="195.4" r="4" fill="#3465a4"><title>Roseberry</title></circle></a><a href="/variants/s7/w3lb2b4lb14t2ti14lo2~x4~lb3300000-t1903246-ti2405244/"><circle cx="281.7" cy="233.7" r="4" fill="#3465a4"><title>Seaside</title></circle></a><a href="/variants/s7/y1b5g1n7dp2n1w1~x4/"><circle cx="274.2" cy="231.8" r="4" fill="#3465a4"><title>Deeside</title></circle></a><a href="/variants/s7/y1db5g1n7dp2n1w1~x4/"><circle cx="242.2" cy="219.6" r="4" fill="#3465a4"><title>Deeside District Tartan</title></circle></a><a href="/variants/s7/y4b22g4n24dp6n4w3~x2/"><circle cx="284.8" cy="231.2" r="4" fill="#3465a4"><title>Deeside Plaid (Taobh Dhi) (District)</title></circle></a><a href="/variants/s6/y1lb1t1lb5g5w1~x8~lb3200000-t2503227/"><circle cx="273.1" cy="275.3" r="4" fill="#3465a4"><title>MacGibboney (Name)</title></circle></a><a href="/variants/s7/db4w1n12lr12o4lb1w2~x4~n1900000-lr2800000/"><circle cx="192.4" cy="192.2" r="4" fill="#3465a4"><title>Ontex</title></circle></a><a href="/variants/s5/db9w4g36lb36r4/"><circle cx="222.5" cy="223.7" r="4" fill="#3465a4"><title>Alvis of Lee (Personal)</title></circle></a><a href="/variants/s8/w5t32n5g6n5dr16n39ly5~x2/"><circle cx="269.5" cy="221.1" r="4" fill="#3465a4"><title>Washington DC (Fashion)</title></circle></a><a href="/variants/s7/y6t16lb3r3ly3g3w2~x4~t2607245-lb3200000/"><circle cx="188.4" cy="189.9" r="4" fill="#3465a4"><title>Atikokan</title></circle></a><circle cx="247.0" cy="234.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

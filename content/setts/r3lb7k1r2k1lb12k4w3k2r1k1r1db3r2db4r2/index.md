@@ -1,6 +1,11 @@
 ---
 title: "Royal Canadian Air Force #2"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Royal Canadian Air Force"
+  url: "/tartans/r/ro/royal-canadian-air-force-3/"
 ---
 This is the **Royal Canadian Air Force #2** sett — one scale-free proportion (`r3lb7k1r2k1lb12k4w3k2r1k1r1db3r2db4r2`), colour order pattern
 [RBRBRKRKWKWKRKWR](/stripes/rbrbrkrkwkwkrkwr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db10r2db2r4db12r2k14w13r4w2r2w4r1y3~x2/"><circle cx="81.9" cy="125.3" r="4" fill="#3465a4"><title>Carnegie #2</title></circle></a><a href="/variants/s15/db4w2r6k1db12dg4db2r6db1r6w2dg8r2w16r4~x2/"><circle cx="97.4" cy="123.9" r="4" fill="#3465a4"><title>MacFarlane Dress</title></circle></a><a href="/variants/s15/r20ti36r4k2t7k4r2k2w3k2r3k4t7k13r20~x2~ti2607245-t2304245/"><circle cx="144.5" cy="93.9" r="4" fill="#3465a4"><title>MacDougall #7</title></circle></a><a href="/variants/s18/r4lb6k1r2k1lb14k3w3k2r2k2r2db4r2db6r2db6r2~x2/"><circle cx="82.1" cy="116.8" r="4" fill="#3465a4"><title>Royal Canadian Air Force</title></circle></a><a href="/variants/s15/lb27r4lb3r2lb4r2lb3r4lb14k14r2db14r4db4y3~x2/"><circle cx="175.5" cy="111.7" r="4" fill="#3465a4"><title>Cochrane Azure</title></circle></a><a href="/variants/s13/db14lb2w2lb2db20k20r17w4r3w3r3w3r5~x2/"><circle cx="101.4" cy="133.3" r="4" fill="#3465a4"><title>American Bi-Centennial</title></circle></a><a href="/variants/s18/r4lb5r2lb7r10k4lo2k2lo2k4w4k4lb18r1k2r1lb4r3~x2~r2109032/"><circle cx="147.7" cy="100.4" r="4" fill="#3465a4"><title>Anderson Red (Westwood) (Estimated threadcount)</title></circle></a><a href="/variants/s15/db2k1db6k1r5y3r5k2w3k2w9k1w2k1y2~x2/"><circle cx="48.4" cy="147.5" r="4" fill="#3465a4"><title>Unidentified 32</title></circle></a><a href="/variants/s15/r20b36r4k2lb7k4r2k2w3k2r3k4lb7k13r20~x2/"><circle cx="148.2" cy="92.5" r="4" fill="#3465a4"><title>MacDougall 1</title></circle></a><a href="/variants/s18/dr4lb6k1dr2k1lb14k3w3k2dr2k2dr2db4dr2db6dr2db6dr3/"><circle cx="86.1" cy="125.7" r="4" fill="#3465a4"><title>Royal Canadian Air Force Regimental Tartan</title></circle></a><circle cx="107.1" cy="118.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

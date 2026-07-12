@@ -1,6 +1,11 @@
 ---
 title: "Seletar"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Seletar"
+  url: "/tartans/s/se/seletar/"
 ---
 This is the **Seletar** sett — one scale-free proportion (`db6ly2db7g4db3g6db2g4db39y2`), colour order pattern
 [BYBGBGBGBGBGBGBGBY](/stripes/bybgbgbgbgbgbgbgby/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g8db3g2db4ly2db5g7db4g4db37r6~db1204274/"><circle cx="396.5" cy="137.8" r="4" fill="#3465a4"><title>Jenkins (Welsh Name)</title></circle></a><a href="/variants/s11/db48g4db6y2db2lr2db2g10lr6db2lr5~x2/"><circle cx="433.4" cy="122.2" r="4" fill="#3465a4"><title>Damson</title></circle></a><a href="/variants/s9/db12ly1g16db1g1db14g3db14r2~x4/"><circle cx="382.6" cy="183.7" r="4" fill="#3465a4"><title>Orlando, City of (District)</title></circle></a><a href="/variants/s8/b48dg6b3dg6b6dg4b2dg10~x2/"><circle cx="561.1" cy="196.0" r="4" fill="#3465a4"><title>Lochleven (Dance)</title></circle></a><a href="/variants/s8/g20lb6db20y3db48dr6db4dr6~x2/"><circle cx="438.8" cy="153.7" r="4" fill="#3465a4"><title>Warren Wilson College</title></circle></a><a href="/variants/s13/g12db6g6db22w4db8g4r8db10r3db48lb4db8/"><circle cx="388.3" cy="132.0" r="4" fill="#3465a4"><title>Massachusetts - The Bay State</title></circle></a><a href="/variants/s18/db8dy1db16w1g12db27w1db1w1db1w1db27g12w1db16dy1db8r2~x2~r2109032/"><circle cx="449.8" cy="100.4" r="4" fill="#3465a4"><title>World Youth Congress</title></circle></a><a href="/variants/s13/db5g1db3dp2g10db3g4db28dp2db2g1db4dp1~x2/"><circle cx="501.2" cy="150.3" r="4" fill="#3465a4"><title>McCarthy</title></circle></a><a href="/variants/s13/g6db3g3db11w2db4g2r4db5r2db24lb2db4~x2/"><circle cx="374.7" cy="143.2" r="4" fill="#3465a4"><title>Massachusetts-The Bay State</title></circle></a><a href="/variants/s12/db50w4db8y1db8y8g1y8db8w1db8y4~x2/"><circle cx="517.7" cy="100.8" r="4" fill="#3465a4"><title>Herry (2016)</title></circle></a><circle cx="504.7" cy="128.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

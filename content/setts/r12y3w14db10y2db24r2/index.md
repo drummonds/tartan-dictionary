@@ -1,6 +1,15 @@
 ---
 title: "Yusra (Malay) (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Yusra"
+  url: "/clan/yusra/"
+- name: "Yusra"
+  url: "/families/yusra/"
+- name: "Yusra"
+  url: "/tartans/y/yu/yusra-2/"
 ---
 This is the **Yusra (Malay) (Personal)** sett — one scale-free proportion (`r12y3w14db10y2db24r2`), colour order pattern
 [RBGBWGR](/stripes/rbgbwgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r12ly3w14db10ly2db24r2~x2/"><circle cx="228.4" cy="189.6" r="4" fill="#3465a4"><title>Yusra (Personal)</title></circle></a><a href="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/"><circle cx="204.3" cy="174.2" r="4" fill="#3465a4"><title>Yusra Personal Tartan</title></circle></a><a href="/variants/s6/r15lb98db72ly25db8w15/"><circle cx="208.1" cy="191.9" r="4" fill="#3465a4"><title>Afternoon Tea / Earl Grey</title></circle></a><a href="/variants/s7/dp8db2dp24db5w26k2w8~x2/"><circle cx="222.8" cy="173.4" r="4" fill="#3465a4"><title>Lennox Purple Dress District Tartan</title></circle></a><a href="/variants/s5/r10w5db30lb20r3~x4/"><circle cx="210.5" cy="219.0" r="4" fill="#3465a4"><title>Lands of Liberty</title></circle></a><a href="/variants/s6/w5lb34k24lb4dr24lb4~x2/"><circle cx="175.6" cy="205.3" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/variants/s5/r15w10db48lb32r6~x2/"><circle cx="193.9" cy="230.8" r="4" fill="#3465a4"><title>Lands of Liberty (Fashion)</title></circle></a><a href="/variants/s7/db7w1r7db4r2db4w2~x2/"><circle cx="274.8" cy="247.4" r="4" fill="#3465a4"><title>Coronation Commemorative Tartan</title></circle></a><a href="/variants/s6/w2db15r3g3r3db1~x8/"><circle cx="325.4" cy="171.3" r="4" fill="#3465a4"><title>Lothian Buses (Corporate?)</title></circle></a><a href="/variants/s6/r1lb12k1w2k5r1~x4/"><circle cx="242.1" cy="154.9" r="4" fill="#3465a4"><title>Rui (Personal)</title></circle></a><circle cx="231.1" cy="190.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

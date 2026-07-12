@@ -1,6 +1,11 @@
 ---
 title: "Barton-Watson, de"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Barton-Watson, de"
+  url: "/tartans/b/ba/barton-watson-de/"
 ---
 This is the **Barton-Watson, de** sett — one scale-free proportion (`dp3ki16r3dg17k16ki26y1dp3`), colour order pattern
 [BGKKGRKB](/stripes/bgkkgrkb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dp3k16r3dg17ki16k26dy1dp3~x2~k0504259-ki0700000/"><circle cx="343.1" cy="168.2" r="4" fill="#3465a4"><title>Barton-Watson de Bavidge (Personal)</title></circle></a><a href="/variants/s7/db3b2db21k12dg24r1ly3~x2~db0806265-k0700000/"><circle cx="237.3" cy="150.2" r="4" fill="#3465a4"><title>Nova Scotia Int. Tattoo (Corporate)</title></circle></a><a href="/variants/s8/ki4w1dg12k3db16r1db1r1~x2~ki0803038-k0700000/"><circle cx="251.5" cy="142.3" r="4" fill="#3465a4"><title>Purves (2014)</title></circle></a><a href="/variants/s8/dy4w1dg12k3db16r1db1r1~x2/"><circle cx="240.9" cy="140.7" r="4" fill="#3465a4"><title>Purves (2014)</title></circle></a><a href="/variants/s9/db2r1dg26ly1k18db26y1r1db2~x2/"><circle cx="240.7" cy="111.4" r="4" fill="#3465a4"><title>Robb Hunting (Personal)</title></circle></a><a href="/variants/s8/k3r3dg4db7k3dt39db15w3~x2/"><circle cx="272.2" cy="139.1" r="4" fill="#3465a4"><title>American National</title></circle></a><a href="/variants/s6/dg10w2k10dy10db35r6~x2/"><circle cx="220.8" cy="154.3" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s9/db2r1dg26ly1k18db26y1r1db2~x2~ly3307090-y2602166/"><circle cx="238.4" cy="110.7" r="4" fill="#3465a4"><title>Robb (Personal) Personal Tartan</title></circle></a><a href="/variants/s6/r2db38k20w1dg20r2/"><circle cx="280.9" cy="135.6" r="4" fill="#3465a4"><title>Waterfront</title></circle></a><a href="/variants/s6/db19k4dr1k4dg9k1~x4/"><circle cx="318.4" cy="171.7" r="4" fill="#3465a4"><title>Monarchs Corporate Sport Tartan</title></circle></a><circle cx="284.9" cy="146.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

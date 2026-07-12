@@ -1,6 +1,13 @@
 ---
 title: "MacLeod, Arisaid"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacLeod"
+  url: "/clan/macleod/"
+- name: "MacLeod, Arisaid"
+  url: "/tartans/m/ma/macleod-arisaid/"
 ---
 This is the **MacLeod, Arisaid** sett — one scale-free proportion (`lb1r3ri3w20db3w3g12w18ri3r1ri3w18db12w3g3w20ri3r3lb1`), colour order pattern
 [WRRWBWGWRRRWBWGWRRW](/stripes/wrrwbwgwrrrwbwgwrrw/). It is recorded as **2 variants** — the same
@@ -23,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s19/lb1r3ri3w20db3w3g12w18ri3r1ri3w18db12w3g3w20ri3r3lb1~x2~r1707016-ri2008029/"><circle cx="257.0" cy="91.7" r="4" fill="#3465a4"><title>MacLeod, Arisaid</title></circle></a><a href="/variants/s19/lb1dr3r3w26db3w3g14w36r3dr1r3w36db14w2g3w26dr3r3lb1~x2/"><circle cx="356.4" cy="59.2" r="4" fill="#3465a4"><title>McDougall, Miss Anne (Personal)</title></circle></a><a href="/variants/s16/w54dti7w19dt5w8dg8w8dg16dt8dy8w21r11dg7dti11dg8w7~x2~dti1502194-dg1803133/"><circle cx="208.9" cy="131.9" r="4" fill="#3465a4"><title>Beckett Beaumont</title></circle></a><a href="/variants/s10/w3k1w20dp1db6g6o3g1o1g2~x4/"><circle cx="200.0" cy="73.8" r="4" fill="#3465a4"><title>Scotland the Brave Dress (Dance)</title></circle></a><a href="/variants/s14/t18w4o6w4lo4w36n4w4n4w36o12w1db4w3~x2~t2405244-o2208036-db1208266/"><circle cx="335.2" cy="86.7" r="4" fill="#3465a4"><title>Confederate Memorial Dress</title></circle></a><a href="/variants/s16/w54dt7w19k5w8dgi8w8dgi16k8dg8w21r11dgi7dt11dgi8w7~x2~dgi1803133-dg1401060/"><circle cx="181.0" cy="115.9" r="4" fill="#3465a4"><title>Beckett Beaumont Artifact Tartan</title></circle></a><a href="/variants/s16/w54dt7w19k5w8dg8w8dg16k8dy8w21r11dg7dt11dg8w7~x2~dt1502194-k0700000/"><circle cx="180.7" cy="115.9" r="4" fill="#3465a4"><title>Beckett Beaumont (Corporate)</title></circle></a><a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2~r2806019/"><circle cx="248.6" cy="97.7" r="4" fill="#3465a4"><title>Barra Fuschia</title></circle></a><a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2/"><circle cx="248.2" cy="97.2" r="4" fill="#3465a4"><title>Barra, Fuschia (Dance)</title></circle></a><a href="/variants/s12/w24dr2w3dy1ly1dy1w1dy6o6lb1o2w1~x4/"><circle cx="293.9" cy="74.1" r="4" fill="#3465a4"><title>Unidentified #54</title></circle></a><circle cx="258.1" cy="91.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

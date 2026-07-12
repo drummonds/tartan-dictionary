@@ -1,6 +1,11 @@
 ---
 title: "Undiscovered Scotland (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Undiscovered Scotland"
+  url: "/tartans/u/un/undiscovered-scotland-2/"
 ---
 This is the **Undiscovered Scotland (Corporate)** sett — one scale-free proportion (`dg50dgi6dg3k6g1dgi6k5lb5k18lb3g1`), colour order pattern
 [GGGKGGKWKWG](/stripes/gggkggkwkwg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k4lr3dt49lr4k2lb5k6o10n15k1dt2~x2~o2500000-n1900000/"><circle cx="257.6" cy="50.5" r="4" fill="#3465a4"><title>Misty Isle (Fashion)</title></circle></a><a href="/variants/s7/g8dg60w1k33g9y4g4~x2/"><circle cx="299.1" cy="101.1" r="4" fill="#3465a4"><title>Duffy</title></circle></a><a href="/variants/s13/t3k3w1dr3k8t2dg36t2k8w1k3t3y2~x2/"><circle cx="252.7" cy="54.5" r="4" fill="#3465a4"><title>U.S. Special Forces (Military)</title></circle></a><a href="/variants/s9/db10k12dg3k1dg1k1dg30dy4w4~x2/"><circle cx="271.2" cy="105.5" r="4" fill="#3465a4"><title>Hutchens (Kansas) (Personal)</title></circle></a><a href="/variants/s15/g4dg40g4k8db4k8g5k2ly4k2dg1g2dg2k1n1~x2/"><circle cx="251.2" cy="43.1" r="4" fill="#3465a4"><title>Eastern Shore Police (Corporate)</title></circle></a><a href="/variants/s9/db10k12dg3k1dg1k1dg30w4ly4~x2/"><circle cx="249.9" cy="98.4" r="4" fill="#3465a4"><title>Hutchens (Personal)</title></circle></a><a href="/variants/s15/g4dg40g4k8t4k8g5k2dy4k2dg1g2dg2k1lb1~x2/"><circle cx="263.9" cy="47.6" r="4" fill="#3465a4"><title>Eastern Shore Police Emerald So Corporate Tartan</title></circle></a><a href="/variants/s15/g4dg40g4k8db4k8g5k2dy4k2dg1g2dg2k1lb1~x2/"><circle cx="269.8" cy="49.1" r="4" fill="#3465a4"><title>Eastern Shore Police Emerald Society</title></circle></a><a href="/variants/s9/k4g35lo1k18g3db18dr3g3dr3~x2/"><circle cx="227.8" cy="102.5" r="4" fill="#3465a4"><title>Mackay, John W. (Personal)</title></circle></a><a href="/variants/s11/db60k15g10r2g10r2g10r2g10k1y4~x2/"><circle cx="272.1" cy="67.6" r="4" fill="#3465a4"><title>Muir/Moore</title></circle></a><circle cx="291.3" cy="66.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

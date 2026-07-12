@@ -1,6 +1,11 @@
 ---
 title: "Ancient Gathering"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Ancient Gathering"
+  url: "/tartans/a/an/ancient-gathering/"
 ---
 This is the **Ancient Gathering** sett — one scale-free proportion (`db1lb12b6w1dy3db14t18w1`), colour order pattern
 [BWBWGBBW](/stripes/bwbwgbbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db1lb12dp6w1y3db14dbi18w1~x2~db1004274-dbi1404245/"><circle cx="179.2" cy="169.4" r="4" fill="#3465a4"><title>Ancient Gathering</title></circle></a><a href="/variants/s9/dy1lb3dp14w2db22w2g14dy3lb1~x2~db1406275/"><circle cx="199.5" cy="143.7" r="4" fill="#3465a4"><title>Yule Name Tartan</title></circle></a><a href="/variants/s9/dy1lb3dp14w2db22w2g14dy3lb1~x2/"><circle cx="192.0" cy="142.1" r="4" fill="#3465a4"><title>Yule (Name)</title></circle></a><a href="/variants/s6/lb26n10db19dr6dy2t9~x2~db1404245-t2105244/"><circle cx="185.4" cy="218.3" r="4" fill="#3465a4"><title>Meeson Formal</title></circle></a><a href="/variants/s11/db16n8dy1n1w1n1lb6g3n1g3w1~x4~db1003265-n2203265/"><circle cx="199.3" cy="140.9" r="4" fill="#3465a4"><title>Brighton &amp; Hove</title></circle></a><a href="/variants/s8/g6dp14t22db6ly16w1db6t6~x2/"><circle cx="178.1" cy="184.0" r="4" fill="#3465a4"><title>Scotia (Fashion)</title></circle></a><a href="/variants/s7/g5db15lb11w2lb1w1dg4~x4/"><circle cx="195.5" cy="186.6" r="4" fill="#3465a4"><title>Highlands Country Club Corporate Tartan</title></circle></a><a href="/variants/s16/y3db5lb12t1lb3t1lb2t2lb2t3lb1t4lb1t8dbi21w3~x2~db1106275-t2304245-dbi1404245/"><circle cx="183.2" cy="127.7" r="4" fill="#3465a4"><title>Ryder Cup, The</title></circle></a><a href="/variants/s8/db26w2db3dbi15lb26dbi2lb3y4~x2~db1204274-dbi1406275/"><circle cx="214.4" cy="183.9" r="4" fill="#3465a4"><title>Banff and Buchan District Tartan</title></circle></a><a href="/variants/s9/w3db19w1lb17y11g10w1db3w1~x2/"><circle cx="176.5" cy="170.4" r="4" fill="#3465a4"><title>Bird Family (Australia) (Personal)</title></circle></a><circle cx="189.1" cy="177.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

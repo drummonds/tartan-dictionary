@@ -1,6 +1,11 @@
 ---
 title: "Episcopal Clergy"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Episcopal Clergy"
+  url: "/tartans/e/ep/episcopal-clergy/"
 ---
 This is the **Episcopal Clergy** sett — one scale-free proportion (`k1dr1dg7k8w1k8dr1dg2dr1dg4dr1`), colour order pattern
 [BGBGBKWKGBK](/stripes/bgbgbkwkgbk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k1dr1g7k8w1k8dr1g2dr1g4dr1~x4/"><circle cx="198.8" cy="170.0" r="4" fill="#3465a4"><title>Episcopal Clergy (Corporate)</title></circle></a><a href="/variants/s9/ni3o3k16ni2k2ni16k3ni2n2~x2~ni1700000/"><circle cx="243.9" cy="171.3" r="4" fill="#3465a4"><title>Chinzei Keiai Junior High School</title></circle></a><a href="/variants/s9/dg28dr12dg4k20ly2k3ly2k3dg7~x2/"><circle cx="267.0" cy="167.0" r="4" fill="#3465a4"><title>Cork, County (District)</title></circle></a><a href="/variants/s9/dr20g2dr2g2dr2g8k24g2k3~x2/"><circle cx="240.5" cy="164.8" r="4" fill="#3465a4"><title>Carlow, County</title></circle></a><a href="/variants/s12/k1w1k8dg1k1db8dg8k1db1k8w1k1~x6/"><circle cx="214.1" cy="161.2" r="4" fill="#3465a4"><title>Chess (Universal)</title></circle></a><a href="/variants/s11/dp3k2n6k2n2k18dg13lb2dg2k6dp2~x2/"><circle cx="205.9" cy="154.9" r="4" fill="#3465a4"><title>Dama Resort</title></circle></a><a href="/variants/s13/k1w1k8dg1k1db8k1dg8k1db1k8w1k1~x6/"><circle cx="220.8" cy="155.4" r="4" fill="#3465a4"><title>Chess</title></circle></a><a href="/variants/s9/dg4k4dg23k11r2k2r2k20w4~x2/"><circle cx="244.7" cy="157.1" r="4" fill="#3465a4"><title>New Golf Club</title></circle></a><a href="/variants/s9/w2dg12k3dg3k16dg3k3dg12ly2~x2/"><circle cx="254.6" cy="188.6" r="4" fill="#3465a4"><title>MacIver Hunting</title></circle></a><a href="/variants/s12/k5r3k24dg13k3db3k3db11k6dg3k3r3~x2~db0906265/"><circle cx="244.1" cy="158.9" r="4" fill="#3465a4"><title>Daly (2016)</title></circle></a><circle cx="246.2" cy="181.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

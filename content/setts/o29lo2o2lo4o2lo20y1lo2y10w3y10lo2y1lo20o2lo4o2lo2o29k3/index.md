@@ -1,6 +1,15 @@
 ---
 title: "Shenzhen"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Shenzhen"
+  url: "/clan/shenzhen/"
+- name: "Shenzhen"
+  url: "/families/shenzhen/"
+- name: "Shenzhen"
+  url: "/tartans/s/sh/shenzhen/"
 ---
 This is the **Shenzhen** sett — one scale-free proportion (`o29lo2o2lo4o2lo20y1lo2y10w3y10lo2y1lo20o2lo4o2lo2o29k3`), colour order pattern
 [KRYRYRYGYGWGYGYRYRYR](/stripes/kryryrygygwgygyryryr/). It is recorded as a single **variant**, below.

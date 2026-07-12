@@ -1,6 +1,11 @@
 ---
 title: "Ryder Cup 2006"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Ryder Cup 2006"
+  url: "/tartans/r/ry/ryder-cup-2006/"
 ---
 This is the **Ryder Cup 2006** sett — one scale-free proportion (`k10ly1k3dt8dg8dgi1dg8dt8k15ly1`), colour order pattern
 [KYKBGGGBKY](/stripes/kykbgggbky/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dg14k8dg21k2ly5k2dg21k11db18k2dr5~x2/"><circle cx="230.7" cy="179.9" r="4" fill="#3465a4"><title>de Vere-Austin (Clan)</title></circle></a><a href="/variants/s9/db1k8db2dg16dr6dg16db2k8w1~x2/"><circle cx="290.2" cy="167.8" r="4" fill="#3465a4"><title>Basel Tattoo (Official)</title></circle></a><a href="/variants/s7/dg3db12lb1k12dg13r2dg2~x2/"><circle cx="203.3" cy="183.4" r="4" fill="#3465a4"><title>MacPhedran/MacFadzean</title></circle></a><a href="/variants/s9/k30db20k10db5w2db10dg20r2dg10/"><circle cx="184.5" cy="172.9" r="4" fill="#3465a4"><title>Cailleach</title></circle></a><a href="/variants/s10/k22dg30k2dg4k2dg30k3db30k35r2~db1204274/"><circle cx="248.3" cy="148.8" r="4" fill="#3465a4"><title>Phillips Welsh Name Tartan</title></circle></a><a href="/variants/s14/k6dg5k6dg12k23do13y6do13k12w2k23dg12k6dg5~x2/"><circle cx="226.5" cy="174.6" r="4" fill="#3465a4"><title>Simon and Friends (Hamburg) (Personal)</title></circle></a><a href="/variants/s6/db2k6g2k6dg12y1~x4/"><circle cx="217.6" cy="193.1" r="4" fill="#3465a4"><title>Leahy, Thomas Francis &amp; Mary (Australia)</title></circle></a><a href="/variants/s10/db19dg7db7lb2dg20k9dg6k4dg10w3~x2/"><circle cx="215.6" cy="188.6" r="4" fill="#3465a4"><title>O'Connell, William Benedict (Personal)</title></circle></a><a href="/variants/s15/dt30k5dt5k5dt5k31dg31k3w7k3dg31k31dt31k3r7/"><circle cx="158.5" cy="157.7" r="4" fill="#3465a4"><title>78th Regiment (Highlanders) (Mil.)</title></circle></a><a href="/variants/s9/db16k3db40k22lb3k25g3k6dt10~db1404245-dt1102249/"><circle cx="233.7" cy="164.2" r="4" fill="#3465a4"><title>Comme Ça Il Conte</title></circle></a><circle cx="226.4" cy="179.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

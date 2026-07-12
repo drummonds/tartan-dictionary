@@ -1,6 +1,11 @@
 ---
 title: "Robertson of Kindeace"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Robertson"
+  url: "/clan/robertson/"
 ---
 A family of [Clan Robertson](/clan/robertson/).
 

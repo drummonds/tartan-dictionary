@@ -1,6 +1,13 @@
 ---
 title: "Glasgow Academy Corporate Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Glasgow"
+  url: "/clan/glasgow/"
+- name: "Glasgow Academy"
+  url: "/tartans/g/gl/glasgow-academy/"
 ---
 This is the **Glasgow Academy Corporate Tartan** sett — one scale-free proportion (`db22k3db3k3db3k22dp22k4dp22k22db22k4db4`), colour order pattern
 [BKBKBKBKBKBKB](/stripes/bkbkbkbkbkbkb/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db11k2db2k2db2k8dp8lo2dp8k8db8k2db2~x4/"><circle cx="180.9" cy="217.3" r="4" fill="#3465a4"><title>Clemson University</title></circle></a><a href="/variants/s12/k3db15k9dy3k2dy14k2dy3k9db13k2db3~x2/"><circle cx="245.2" cy="220.4" r="4" fill="#3465a4"><title>McWilliams (2014)</title></circle></a><a href="/variants/s13/db11k1db1k1db1k8dr8k1dr8k8db8k1db1~x4/"><circle cx="254.0" cy="193.2" r="4" fill="#3465a4"><title>Wine Watch (Fashion)</title></circle></a><a href="/variants/s13/db12k2db2k2db2k10dr12k3dr12k10db12k2db2~x2/"><circle cx="220.0" cy="227.5" r="4" fill="#3465a4"><title>MacDevitt (Name)</title></circle></a><a href="/variants/s13/db11k1db1k1db1k8dg8k1dg8k8db8k1db1~x2/"><circle cx="253.4" cy="197.2" r="4" fill="#3465a4"><title>Black Watch Regimental Tartan</title></circle></a><a href="/variants/s13/db16k3db3k3db3k16dg15k3dg15k16db15k3db3~x2~db0806265/"><circle cx="246.4" cy="244.1" r="4" fill="#3465a4"><title>93rd Regiment (Military)</title></circle></a><a href="/variants/s13/db11k1db1k1db1k8dr8k1dr8k8db8k1db1~x2~db1406275/"><circle cx="231.3" cy="165.6" r="4" fill="#3465a4"><title>Wine Watch</title></circle></a><a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x4~db1406275-k0700000/"><circle cx="227.4" cy="191.0" r="4" fill="#3465a4"><title>Black Watch (Military)</title></circle></a><a href="/variants/s13/k11ki1k1ki1k1ki8g8ki1g8ki8k8ki1k1~x4~k0504259-ki0700000/"><circle cx="212.2" cy="184.5" r="4" fill="#3465a4"><title>Royal Regiment of Scotland (Mltry)</title></circle></a><a href="/variants/s11/k16db8k6db8k6db20k6db6k14dbi41r4~db1204274-dbi1406275/"><circle cx="216.6" cy="188.6" r="4" fill="#3465a4"><title>Merchiston Castle School Corporate Tartan</title></circle></a><circle cx="243.5" cy="219.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

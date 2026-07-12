@@ -1,6 +1,11 @@
 ---
 title: "United Services, Planning Association"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "United Services Planning Assoc"
+  url: "/tartans/u/un/united-services-planning-assoc/"
 ---
 This is the **United Services, Planning Association** sett — one scale-free proportion (`dbi4dg2w2dg4db10r2db12y3`), colour order pattern
 [BGWGBRBG](/stripes/bgwgbrbg/). It is recorded as **2 variants** — the same
@@ -23,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dbi4dg2w2dg4db10r2db12y3~x2~dbi1604274-db0805267/"><circle cx="231.2" cy="203.4" r="4" fill="#3465a4"><title>United Services, Planning Association</title></circle></a><a href="/variants/s7/db25r10db25w8o6g8y5~x2/"><circle cx="204.9" cy="216.0" r="4" fill="#3465a4"><title>Barneys (Scunthorpe) (Personal)</title></circle></a><a href="/variants/s8/db16dg8t8dg8db16r3do3g3~x2~dg1806142-g1903114/"><circle cx="230.6" cy="243.1" r="4" fill="#3465a4"><title>Glen Erin</title></circle></a><a href="/variants/s8/db16g8dbi8g8db16r3o3b3~x2~db0805267-dbi1604274/"><circle cx="176.9" cy="221.5" r="4" fill="#3465a4"><title>Glen Erin</title></circle></a><a href="/variants/s8/db16dg8dbi8dg8db16r3dy3g3~x2~db1204274-dg1806142-dbi1406275-g2408144/"><circle cx="244.8" cy="245.0" r="4" fill="#3465a4"><title>Glen Erin Canadian Tartan</title></circle></a><a href="/variants/s10/dr2w2dg8g2dg2db20lb8g2db15w2~x2/"><circle cx="254.2" cy="165.8" r="4" fill="#3465a4"><title>Tupper, John Charles (Personal)</title></circle></a><a href="/variants/s9/db10o3t4o3db7t3g7db17dy2~x2/"><circle cx="317.4" cy="214.2" r="4" fill="#3465a4"><title>Ayrshire Tourist Board</title></circle></a><a href="/variants/s6/dg5t2dg9db19r9ly2~x2/"><circle cx="219.5" cy="217.2" r="4" fill="#3465a4"><title>Lyle and Scott</title></circle></a><a href="/variants/s6/dg5dbi2dg9db19r9y2~x2~dbi1406275-db0705267/"><circle cx="220.2" cy="215.1" r="4" fill="#3465a4"><title>Lyle and Scott</title></circle></a><a href="/variants/s8/dg5g2dbi2db15r2lg2dg5r2~x4~dbi1406275-db1204274/"><circle cx="211.0" cy="188.0" r="4" fill="#3465a4"><title>Remember the Somme 1916</title></circle></a><circle cx="260.9" cy="212.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "State Seal of South Dakota (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "State Seal of South Dakota"
+  url: "/tartans/s/st/state-seal-of-south-dakota/"
 ---
 This is the **State Seal of South Dakota (Fashion)** sett — one scale-free proportion (`dy49ly3dy6k7t21r4k16g12k1dy12k3`), colour order pattern
 [GYGKBRKGKGK](/stripes/gygkbrkgkgk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k4lr3dt49lr4k2lb5k6o10n15k1dt2~x2~o2500000-n1900000/"><circle cx="257.6" cy="50.5" r="4" fill="#3465a4"><title>Misty Isle (Fashion)</title></circle></a><a href="/variants/s9/n47lo1k27o4dg5lo1o8t1k1~x2~n1900000-o2500000/"><circle cx="262.5" cy="55.2" r="4" fill="#3465a4"><title>Brighton Mac Dermott (Fashion)</title></circle></a><a href="/variants/s12/dr32db2k8lo1k2lb2k2g18dr10k2dr2lb2~x4/"><circle cx="261.9" cy="65.6" r="4" fill="#3465a4"><title>Stewart - Pr Ch Ed - Pendleton</title></circle></a><a href="/variants/s11/dy9lb2r1lb2dy3k9dg3dy1n35k3n2~x2/"><circle cx="282.2" cy="63.0" r="4" fill="#3465a4"><title>Donohoe Grey, Peter</title></circle></a><a href="/variants/s11/db8lb1k6y1k2w2k2g12dy28w1dy4~x2/"><circle cx="200.3" cy="66.8" r="4" fill="#3465a4"><title>MacLean of Kingairloch Clan Tartan</title></circle></a><a href="/variants/s15/dy29g17k1w3k1y2k10lb8dy4lb8k10y2k1w3dy29~x2/"><circle cx="186.2" cy="71.9" r="4" fill="#3465a4"><title>Massie/Massey</title></circle></a><a href="/variants/s11/do9lb2r1lb2do3k9dg3do1n35k3n2~x2/"><circle cx="283.1" cy="63.0" r="4" fill="#3465a4"><title>Donohoe Grey, Peter (Commemorative)</title></circle></a><a href="/variants/s9/n29k23y1g9y2r4k14w2k4~x2/"><circle cx="195.4" cy="93.9" r="4" fill="#3465a4"><title>Letter Dress (2014)</title></circle></a><a href="/variants/s9/n29k23lo1g9lo2r4k14w2k4~x2/"><circle cx="193.6" cy="93.5" r="4" fill="#3465a4"><title>Letter Dress (2014)</title></circle></a><a href="/variants/s13/t3k3w1dr3k8t2dg36t2k8w1k3t3y2~x2/"><circle cx="252.7" cy="54.5" r="4" fill="#3465a4"><title>U.S. Special Forces (Military)</title></circle></a><circle cx="246.1" cy="71.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

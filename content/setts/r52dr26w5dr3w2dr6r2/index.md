@@ -1,6 +1,11 @@
 ---
 title: "St. Andrews School (Delaware) (Corp)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "St. Andrews School"
+  url: "/tartans/s/st/st-andrews-school/"
 ---
 This is the **St. Andrews School (Delaware) (Corp)** sett — one scale-free proportion (`r52dr26w5dr3w2dr6r2`), colour order pattern
 [RBWBWBR](/stripes/rbwbwbr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r40db8lo8r4lo1r4lr8~x4/"><circle cx="461.5" cy="128.0" r="4" fill="#3465a4"><title>Wcwm 4907-1</title></circle></a><a href="/variants/s6/r80dp19r8g36r10dp2~x2/"><circle cx="455.0" cy="157.2" r="4" fill="#3465a4"><title>Lovat or Fraser #2</title></circle></a><a href="/variants/s7/dg1y1dg1w1dg10r20y1~x4/"><circle cx="385.9" cy="139.6" r="4" fill="#3465a4"><title>Maver (Buckie)</title></circle></a><a href="/variants/s9/g2r2db1r24db6r3g12r4db1~x2/"><circle cx="399.0" cy="148.7" r="4" fill="#3465a4"><title>MacDonald #7</title></circle></a><a href="/variants/s10/r4dg13r3dp4r3dp3r40dp3r2ly4~x2/"><circle cx="431.6" cy="122.3" r="4" fill="#3465a4"><title>Galway, County</title></circle></a><a href="/variants/s6/r29g2r2g2r6dy21~x4/"><circle cx="419.1" cy="164.0" r="4" fill="#3465a4"><title>Maguire Clan Family Tartan</title></circle></a><a href="/variants/s6/r22db5r2g11r3db1/"><circle cx="407.2" cy="178.6" r="4" fill="#3465a4"><title>MacKintosh D</title></circle></a><a href="/variants/s6/r22db5r2g11r3db1~x2/"><circle cx="407.2" cy="178.6" r="4" fill="#3465a4"><title>MacKintosh Clan Tartan</title></circle></a><a href="/variants/s6/r52y2db16y2db3w5~x2/"><circle cx="422.1" cy="128.4" r="4" fill="#3465a4"><title>Brock University Alumni Association</title></circle></a><a href="/variants/s6/r24db6r3g12r4db1/"><circle cx="409.7" cy="179.7" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><circle cx="410.7" cy="143.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Anderson (Coulson Bonner #1)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Anderson"
+  url: "/clan/anderson/"
+- name: "Anderson"
+  url: "/families/anderson/"
+- name: "Anderson"
+  url: "/tartans/a/an/anderson/"
 ---
 This is the **Anderson (Coulson Bonner #1)** sett — one scale-free proportion (`k3dr7k4dy7r3dy7k4g3k3g19k2g2k2r3`), colour order pattern
 [KBKGRGKGKGKGKR](/stripes/kbkgrgkgkgkgkr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/o8w1o1dp1o1k7g7k1g3k1g7k7o7k1dp3~x2/"><circle cx="78.6" cy="157.8" r="4" fill="#3465a4"><title>Black Scottish National Tartan</title></circle></a><a href="/variants/s11/dr3g6k1lo1k1g6dr2dy2k2dy9k2~x4/"><circle cx="129.3" cy="176.6" r="4" fill="#3465a4"><title>MacAart (Personal)</title></circle></a><a href="/variants/s10/k3r9k5do9o3do9k5g24k2o3~x2/"><circle cx="115.7" cy="154.5" r="4" fill="#3465a4"><title>Cavan</title></circle></a><a href="/variants/s14/k3r7k4o7ri3o7k4g3k3g19k2g2k2ri3~x2~r1506028-ri2008029/"><circle cx="101.8" cy="146.3" r="4" fill="#3465a4"><title>Anderson 10</title></circle></a><a href="/variants/s13/dg6dgi3dg22k2dg4k14dgi5k3lyi5k3dgi20k4ly4~x2~dgi1605139-lyi3104101-ly2705081/"><circle cx="142.2" cy="156.3" r="4" fill="#3465a4"><title>Celtic Football Club (2005)</title></circle></a><a href="/variants/s10/k3r9k4dy9y3dy9k4g26k2y3~x2/"><circle cx="137.8" cy="146.8" r="4" fill="#3465a4"><title>Cavan, County</title></circle></a><a href="/variants/s12/dy4w2dy2w3dy18k6g3k2g2k2g14lo3~x2/"><circle cx="132.7" cy="146.2" r="4" fill="#3465a4"><title>Dorcas Check Trade Tartan</title></circle></a><a href="/variants/s10/dy9k2dy2r2g6k1y1k1g6r3~x2/"><circle cx="141.6" cy="177.9" r="4" fill="#3465a4"><title>MacAart Family Tartan</title></circle></a><a href="/variants/s12/dr8w2dr22k8dg6k6dg6k6dg8lg3dg3lg3~x2/"><circle cx="140.2" cy="163.1" r="4" fill="#3465a4"><title>Wcwm 1712</title></circle></a><a href="/variants/s16/dt11k4dt4w2dt4k4dt11r26k4w3k4w2k14g10dt16g6~x2/"><circle cx="108.0" cy="131.2" r="4" fill="#3465a4"><title>Stuart-Houghton (Personal)</title></circle></a><circle cx="106.5" cy="149.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

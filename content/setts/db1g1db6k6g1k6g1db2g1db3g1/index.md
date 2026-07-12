@@ -1,6 +1,15 @@
 ---
 title: "Clergy"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Clergy"
+  url: "/clan/clergy/"
+- name: "Clergy"
+  url: "/families/clergy/"
+- name: "Clergy"
+  url: "/tartans/c/cl/clergy-11/"
 ---
 This is the **Clergy** sett — one scale-free proportion (`db1g1db6k6g1k6g1db2g1db3g1`), colour order pattern
 [BGBKGKGBGBG](/stripes/bgbkgkgbgbg/). It is recorded as **2 variants** — the same
@@ -23,6 +32,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/"><circle cx="199.9" cy="210.1" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/variants/s11/db4g4db18k19g4k19g4db7g4db12g2~x2/"><circle cx="208.2" cy="199.8" r="4" fill="#3465a4"><title>Clergy #2</title></circle></a><a href="/variants/s11/k2g2db10k10g2k10g2db3g2db5g2~x2/"><circle cx="190.0" cy="219.8" r="4" fill="#3465a4"><title>Clergy (Clark) (Clan)</title></circle></a><a href="/variants/s12/y1db4y1db3y1k8y1k8db6y1db1y1~x4/"><circle cx="227.5" cy="186.1" r="4" fill="#3465a4"><title>Clergy (WCWM)</title></circle></a><a href="/variants/s13/db14k3db3k3db3k16g16k3g16k16db16k3db3~x2/"><circle cx="152.7" cy="215.9" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/variants/s13/db12k2db2k2db2k10g12k3g12k10db11k2db2~x2/"><circle cx="147.2" cy="212.3" r="4" fill="#3465a4"><title>Campbell Clan Tartan</title></circle></a><a href="/variants/s6/k3db15k42db13k2db3~x2~db1704245/"><circle cx="199.0" cy="204.3" r="4" fill="#3465a4"><title>McWilliams Personal Tartan</title></circle></a><a href="/variants/s11/k1lb1db6k6lb1k6lb1db2lb1db3lb1~x2/"><circle cx="195.2" cy="203.6" r="4" fill="#3465a4"><title>Clergy (Smith)</title></circle></a><a href="/variants/s11/k1lb1db6k6lb1k6lb1db2lb1db3lb1~x4/"><circle cx="195.2" cy="203.6" r="4" fill="#3465a4"><title>Clergy (Smith)</title></circle></a><a href="/variants/s13/db2k2db11k10g12k3g12k10db2k2db2k2db2~x2/"><circle cx="163.4" cy="203.3" r="4" fill="#3465a4"><title>Campbell</title></circle></a><circle cx="199.9" cy="210.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

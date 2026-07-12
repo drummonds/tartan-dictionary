@@ -1,6 +1,11 @@
 ---
 title: "Menzies of Culdares"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Menzies"
+  url: "/clan/menzies/"
 ---
 A family of [Clan Menzies](/clan/menzies/).
 

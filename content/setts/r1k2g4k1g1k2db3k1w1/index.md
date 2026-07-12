@@ -1,6 +1,15 @@
 ---
 title: "MacKean Dress (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacKean"
+  url: "/clan/mackean/"
+- name: "MacKean"
+  url: "/families/mackean/"
+- name: "MacKean Dress"
+  url: "/tartans/m/ma/mackean-dress/"
 ---
 This is the **MacKean Dress (Personal)** sett — one scale-free proportion (`r1k2g4k1g1k2db3k1w1`), colour order pattern
 [RKGKGKBKW](/stripes/rkgkgkbkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r1k2dg4k1dg1k2db3k1w1~x6/"><circle cx="84.9" cy="224.2" r="4" fill="#3465a4"><title>MacKean dress</title></circle></a><a href="/variants/s9/db8k4lo2k3dr2k3lo2k4g8~x4/"><circle cx="71.4" cy="224.1" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/variants/s5/dp11lb2k10g10y3~x2/"><circle cx="73.4" cy="223.9" r="4" fill="#3465a4"><title>Wilson's No.217</title></circle></a><a href="/variants/s6/k3r1g5k3w1dp3~x2/"><circle cx="73.2" cy="207.0" r="4" fill="#3465a4"><title>Wilson's No.194</title></circle></a><a href="/variants/s5/dp11y2k10g10lo2~x2~dp1607327/"><circle cx="82.6" cy="219.3" r="4" fill="#3465a4"><title>Selkirk (Personal) Original</title></circle></a><a href="/variants/s10/k19g3db19lo5db19g3k19g19r7g19~x2/"><circle cx="73.7" cy="210.4" r="4" fill="#3465a4"><title>Casely Family Tartan</title></circle></a><a href="/variants/s9/db25k12y4k9r6k9y4k12g25~x2/"><circle cx="101.4" cy="198.1" r="4" fill="#3465a4"><title>Vosko Family Tartan</title></circle></a><a href="/variants/s6/k3g8k8r2db8w2~x2/"><circle cx="63.5" cy="240.1" r="4" fill="#3465a4"><title>Mitchell Family Tartan</title></circle></a><a href="/variants/s12/k5g4w1g4k1g4r1g4k5db5k1db5~x4/"><circle cx="85.9" cy="215.5" r="4" fill="#3465a4"><title>Lloyd of Dolobran Family Tartan</title></circle></a><a href="/variants/s9/y8g16k6g6k6g6k16dr21k5/"><circle cx="103.4" cy="239.8" r="4" fill="#3465a4"><title>Martin Family Tartan</title></circle></a><circle cx="65.6" cy="221.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

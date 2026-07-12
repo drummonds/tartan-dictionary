@@ -1,6 +1,11 @@
 ---
 title: "Thistle Stop LLC (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Thistle Stop LLC"
+  url: "/tartans/t/th/thistle-stop-llc/"
 ---
 This is the **Thistle Stop LLC (Corporate)** sett — one scale-free proportion (`lg16g1dg1g1lb24k12o16dp2g2`), colour order pattern
 [GBRKWGGGY](/stripes/gbrkwgggy/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg16g1dgi1g1lb24k12o16dp2g2~x2~g2408144-dgi1806142/"><circle cx="89.7" cy="92.1" r="4" fill="#3465a4"><title>Thistle Stop LLC</title></circle></a><a href="/variants/s11/w4k1db16k1g12y12lb24lo2lb1lo4lb2~x2/"><circle cx="107.6" cy="91.5" r="4" fill="#3465a4"><title>Rwanda</title></circle></a><a href="/variants/s13/r3w34k2n4k2y7k2y7k2n4k2dy34lb3~x2/"><circle cx="87.3" cy="64.9" r="4" fill="#3465a4"><title>Buchanan Dress Clan Tartan</title></circle></a><a href="/variants/s11/lb12r2lb3r4lb15k24g18y1k3g3w3~x2/"><circle cx="109.6" cy="99.9" r="4" fill="#3465a4"><title>Groen (Personal)</title></circle></a><a href="/variants/s12/g4w28lb3w3k16lb4o10n4k14r2k2r3~o2500000-n1900000/"><circle cx="62.2" cy="92.8" r="4" fill="#3465a4"><title>Edinburgh Zoo Panda (Comm)</title></circle></a><a href="/variants/s10/y6k2g15r6g8k12w25lb2w3lb2~x2/"><circle cx="77.3" cy="134.8" r="4" fill="#3465a4"><title>Gillies, dress Green</title></circle></a><a href="/variants/s9/g32lb3dp3lb3g2k20b17dr3lo4~x2~lb3300000-b2603265/"><circle cx="113.0" cy="107.8" r="4" fill="#3465a4"><title>Colorado</title></circle></a><a href="/variants/s8/db7w30k13g9r6g16k2y7~x2/"><circle cx="69.8" cy="149.8" r="4" fill="#3465a4"><title>MacLaren Dress Clan Tartan</title></circle></a><a href="/variants/s12/g4w28lb3w3k16lb4n10do4k14r2k2r3~n1900000-do1500000/"><circle cx="62.2" cy="92.6" r="4" fill="#3465a4"><title>Edinburgh Zoo Panda, The</title></circle></a><a href="/variants/s9/g3dp4g23k10r2k10lb18k1w3~x2/"><circle cx="108.0" cy="112.3" r="4" fill="#3465a4"><title>Birch Family Tartan</title></circle></a><circle cx="86.8" cy="93.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

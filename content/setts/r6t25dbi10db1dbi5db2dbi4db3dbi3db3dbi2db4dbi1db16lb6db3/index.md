@@ -1,6 +1,11 @@
 ---
 title: "Help for Heroes (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Help for Heroes"
+  url: "/tartans/h/he/help-for-heroes-3/"
 ---
 This is the **Help for Heroes (Corporate)** sett — one scale-free proportion (`r6t25dbi10db1dbi5db2dbi4db3dbi3db3dbi2db4dbi1db16lb6db3`), colour order pattern
 [BWBBBBBBBBBBBBBR](/stripes/bwbbbbbbbbbbbbbr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/r6db3r3db54g6db3g6db4lb24dbi4lb4dbi50db6dbi4db12dy4~db1204274-dbi1605267/"><circle cx="240.5" cy="105.7" r="4" fill="#3465a4"><title>St Margaret's School for Girls, Aberdeen</title></circle></a><a href="/variants/s17/r2lb8dbi1lb4dbi2lb3dbi3lb1dbi15db1dbi4db2dbi2db4dbi1db9w2~x2~dbi1406275-db1404245/"><circle cx="229.3" cy="146.3" r="4" fill="#3465a4"><title>Pride of Lorient (Fashion)</title></circle></a><a href="/variants/s15/dp23g2dp2g2dp2g12db16g1lb3g1db16g12dp16g1dy3~x2/"><circle cx="260.2" cy="149.7" r="4" fill="#3465a4"><title>Pitlochry</title></circle></a><a href="/variants/s12/dbi30db4g5db2r2db2g5db4w10db5t8db1~x2~dbi1406275-db1404245/"><circle cx="198.1" cy="104.6" r="4" fill="#3465a4"><title>Lyon (Personal)</title></circle></a><a href="/variants/s15/dp23g2dp2g2dp2g12db16g1lb3g1db16g12dp16g1ly3~x2/"><circle cx="251.1" cy="147.7" r="4" fill="#3465a4"><title>Pitlochry (District)</title></circle></a><a href="/variants/s10/dp3n1db4g2r2g21n3dp21db25w3~x2/"><circle cx="200.5" cy="124.3" r="4" fill="#3465a4"><title>Accenture</title></circle></a><a href="/variants/s12/k5dbi26k2dbi4k2dbi26k3lr36k3db30k3t2~k0700000-dbi0806265-lr2800000-t2503227/"><circle cx="194.5" cy="126.4" r="4" fill="#3465a4"><title>Daniel (Welsh Name)</title></circle></a><a href="/variants/s17/r2lb8t1lb4t2lb3t3lb1t15dt1t4dt2t2dt4t1dt9w2~x2~t2002249-dt1301240/"><circle cx="249.4" cy="154.7" r="4" fill="#3465a4"><title>Pride of Lorient</title></circle></a><a href="/variants/s16/dp4db1dp2db1t16db1y16r16db1t4db2t4db2t12db1w4~x2~db1108266-t2205244/"><circle cx="195.0" cy="121.8" r="4" fill="#3465a4"><title>Spirit of Romania</title></circle></a><a href="/variants/s16/t8db6dp40dg16db1dg7t2dg5t4dg4t4dg2t5dg1t36w6/"><circle cx="285.6" cy="110.1" r="4" fill="#3465a4"><title>Bell-McTier Thistle (Personal)</title></circle></a><circle cx="216.5" cy="127.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

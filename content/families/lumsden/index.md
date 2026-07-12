@@ -1,6 +1,11 @@
 ---
 title: "Lumsden"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Lumsden"
+  url: "/clan/lumsden/"
 ---
 A family of [Clan Lumsden](/clan/lumsden/).
 

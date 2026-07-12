@@ -1,6 +1,15 @@
 ---
 title: "Stewart - Pr Ch Ed - Pendleton"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Stewart"
+  url: "/clan/stewart/"
+- name: "Stewart"
+  url: "/families/stewart/"
+- name: "Stewart"
+  url: "/tartans/s/st/stewart/"
 ---
 This is the **Stewart - Pr Ch Ed - Pendleton** sett — one scale-free proportion (`dr32db2k8lo1k2lb2k2g18dr10k2dr2lb2`), colour order pattern
 [BBKYKWKGBKBW](/stripes/bbkykwkgbkbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dy90n8k10n3k4g4k3r16k14lo6k28/"><circle cx="252.9" cy="63.9" r="4" fill="#3465a4"><title>Father’s Pride, The</title></circle></a><a href="/variants/s11/dy9lb2r1lb2dy3k9dg3dy1n35k3n2~x2/"><circle cx="282.2" cy="63.0" r="4" fill="#3465a4"><title>Donohoe Grey, Peter</title></circle></a><a href="/variants/s11/do9lb2r1lb2do3k9dg3do1n35k3n2~x2/"><circle cx="283.1" cy="63.0" r="4" fill="#3465a4"><title>Donohoe Grey, Peter (Commemorative)</title></circle></a><a href="/variants/s15/r4g3k11n3db3n30k1w4k1g3k3g3k3n12r2~x2/"><circle cx="228.4" cy="59.5" r="4" fill="#3465a4"><title>Trew 40th (Personal)</title></circle></a><a href="/variants/s11/ly24k7db1k1w1k1dy4dr3k1dr2ly1~x4~ly2503076/"><circle cx="250.1" cy="61.0" r="4" fill="#3465a4"><title>U.S. Customs &amp; Border Protection</title></circle></a><a href="/variants/s15/r11w4r8dy1r1dy28ly2dy28k2dy2k23r3lyi6r3k5~x2~ly2503076-lyi2705081/"><circle cx="199.5" cy="67.3" r="4" fill="#3465a4"><title>Scottish Register of Tartans (Corp)</title></circle></a><a href="/variants/s11/dy49ly3dy6k7t21r4k16g12k1dy12k3~x2/"><circle cx="246.1" cy="71.2" r="4" fill="#3465a4"><title>State Seal of South Dakota (Fashion)</title></circle></a><a href="/variants/s13/dt8k3y1k1y39k3r3y2dt11k8y2k3w2~x2/"><circle cx="269.4" cy="57.0" r="4" fill="#3465a4"><title>Afghanistan Memorial</title></circle></a><a href="/variants/s9/dr24lb1k3lb1g14dr8k3dp3lb2~x4/"><circle cx="284.7" cy="115.9" r="4" fill="#3465a4"><title>Leach (1995)</title></circle></a><a href="/variants/s9/n47lo1k27o4dg5lo1o8t1k1~x2~n1900000-o2500000/"><circle cx="262.5" cy="55.2" r="4" fill="#3465a4"><title>Brighton Mac Dermott (Fashion)</title></circle></a><circle cx="261.9" cy="65.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

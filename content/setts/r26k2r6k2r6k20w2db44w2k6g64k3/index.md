@@ -1,6 +1,15 @@
 ---
 title: "Jardine Dress Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Jardine,"
+  url: "/clan/jardine/"
+- name: "Jardine"
+  url: "/families/jardine/"
+- name: "Jardine Dress"
+  url: "/tartans/j/ja/jardine-dress/"
 ---
 This is the **Jardine Dress Family Tartan** sett — one scale-free proportion (`r26k2r6k2r6k20w2db44w2k6g64k3`), colour order pattern
 [KGKWBWKRKRKR](/stripes/kgkwbwkrkrkr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g6lb12dp3w1dp6lb4w1lb4dp6w1k28g5w1~x2/"><circle cx="141.5" cy="83.6" r="4" fill="#3465a4"><title>Willox (Name)</title></circle></a><a href="/variants/s14/db20r2db3r6db32r2k32w2g30r6g4r2g4w1~x2/"><circle cx="168.5" cy="82.3" r="4" fill="#3465a4"><title>MacDonald of Clanranald #4</title></circle></a><a href="/variants/s16/lb4r2lb3g1lb1g2lb18r1k12dg21lb1k3dg1k2dg4r2~x2/"><circle cx="140.6" cy="82.8" r="4" fill="#3465a4"><title>Munster</title></circle></a><a href="/variants/s13/g6lb12dp3w1dp6lb4w1lb4dp6w1k27g5w2~x2/"><circle cx="131.1" cy="88.3" r="4" fill="#3465a4"><title>Willox</title></circle></a><a href="/variants/s11/g28k1g1k6w1k6dp1k1dp4r3dp14~x4/"><circle cx="216.3" cy="86.2" r="4" fill="#3465a4"><title>New Hampshire</title></circle></a><a href="/variants/s11/w9dg2g2w3g18w2k2w1k19dg33lo2~x2/"><circle cx="160.5" cy="89.3" r="4" fill="#3465a4"><title>New World Irish</title></circle></a><a href="/variants/s10/dr4db12k18db4y22lb1y2lb2y3lb2~x4/"><circle cx="171.4" cy="118.9" r="4" fill="#3465a4"><title>Windsor</title></circle></a><a href="/variants/s11/db8lb3db40r3k44lb3r3g40r2k4r7~x2/"><circle cx="136.2" cy="103.7" r="4" fill="#3465a4"><title>Lochaber Cameron</title></circle></a><a href="/variants/s11/w6k1g28k24dp25g3dp3g3dp3g4dp3~x2/"><circle cx="188.2" cy="113.2" r="4" fill="#3465a4"><title>Rennie (Name)</title></circle></a><a href="/variants/s8/db64k11r2k4r2k4g32ly4~x2/"><circle cx="185.0" cy="72.2" r="4" fill="#3465a4"><title>Sinclair-Brown (Personal)</title></circle></a><circle cx="160.3" cy="78.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

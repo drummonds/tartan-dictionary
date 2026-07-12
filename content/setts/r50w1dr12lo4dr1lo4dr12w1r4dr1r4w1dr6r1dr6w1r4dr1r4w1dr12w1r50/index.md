@@ -1,6 +1,13 @@
 ---
 title: "Glenorchy, Lord (Portrait)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Glenorchy"
+  url: "/clan/glenorchy/"
+- name: "Glenorchy, Lord"
+  url: "/tartans/g/gl/glenorchy-lord/"
 ---
 This is the **Glenorchy, Lord (Portrait)** sett — one scale-free proportion (`r50w1dr12lo4dr1lo4dr12w1r4dr1r4w1dr6r1dr6w1r4dr1r4w1dr12w1r50`), colour order pattern
 [RWBWRBRWBRBWRBRWBYBYBWR](/stripes/rwbwrbrwbrbwrbrwbybybwr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s26/r66n8r4dt2r1ly2r3dt4r4ly1dt1r8dt2n8dt2r8dt2r1ly2r3dt4r4ly1dt1r4n8~x2~dt0900000/"><circle cx="505.6" cy="34.6" r="4" fill="#3465a4"><title>Fontainbleu</title></circle></a><a href="/variants/s18/ri66dbi1db1ri6g30ri6db1dbi1ri3db16ri3dbi1db1ri54g3r1ri6g6~x2~ri2209032-dbi1605267-db0804274-r2208029/"><circle cx="454.6" cy="38.1" r="4" fill="#3465a4"><title>Unidentified #34</title></circle></a><a href="/variants/s18/r66dbi1db1r6g30r6db1dbi1r3db16r3dbi1db1r54g3b1r6g6~x2~dbi1604274-db0805267/"><circle cx="455.5" cy="39.5" r="4" fill="#3465a4"><title>Unidentified 8</title></circle></a><a href="/variants/s14/dp2r1dp1r31dp8r2dp8r3g1r2g1r3g5r2~x2/"><circle cx="459.2" cy="104.7" r="4" fill="#3465a4"><title>Ross, Old</title></circle></a><a href="/variants/s18/r66t1db1r6dg30r6db1t1r3db16r3t1db1r54dg3o1r6dg6~x2~r2008029-o2704014/"><circle cx="487.3" cy="49.6" r="4" fill="#3465a4"><title>Ramada</title></circle></a><a href="/variants/s11/r50ly3r4ly4b1ly1b1ly7dg7ly1dg3~x4/"><circle cx="467.9" cy="67.4" r="4" fill="#3465a4"><title>Unidentified #60</title></circle></a><circle cx="464.6" cy="45.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

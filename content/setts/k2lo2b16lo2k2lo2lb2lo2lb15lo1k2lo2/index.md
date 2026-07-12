@@ -1,6 +1,15 @@
 ---
 title: "Independence"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Independence"
+  url: "/clan/independence/"
+- name: "Independence"
+  url: "/families/independence/"
+- name: "Independence"
+  url: "/tartans/i/in/independence-2/"
 ---
 This is the **Independence** sett — one scale-free proportion (`k2lo2b16lo2k2lo2lb2lo2lb15lo1k2lo2`), colour order pattern
 [KYBYKYWYWYKY](/stripes/kybykywywyky/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k2y2db15y2k2y2w2y2w14y1k2y2~x2/"><circle cx="137.8" cy="123.5" r="4" fill="#3465a4"><title>Independence</title></circle></a><a href="/variants/s15/ly4n12k12n4lb18n1ly1n1lb2n1ly2n1lb4n1ly4~x4/"><circle cx="159.3" cy="119.4" r="4" fill="#3465a4"><title>Ettrick (Fashion)</title></circle></a><a href="/variants/s13/k8w7k2w3k2w3k2w3k2w7g18dp27w3~x2/"><circle cx="125.4" cy="135.8" r="4" fill="#3465a4"><title>IAPD</title></circle></a><a href="/variants/s12/dy4db2r7db15r3db3r3db7w28r7w6r2/"><circle cx="187.6" cy="149.9" r="4" fill="#3465a4"><title>Walker Dress Family Tartan</title></circle></a><a href="/variants/s13/w4lb1db1w22lb2w2db12r2dg16r4lb1r4db2~x2/"><circle cx="165.6" cy="108.1" r="4" fill="#3465a4"><title>MacGillivray Dress, Janice (Personal</title></circle></a><a href="/variants/s13/w25t2w2t2w2t10k2t4k2t10y23w2y4~x2/"><circle cx="170.4" cy="144.5" r="4" fill="#3465a4"><title>Oliphant Dress</title></circle></a><a href="/variants/s13/w25t2w2t2w2t10k2t4k2t10dg23w2dg4~x2/"><circle cx="150.6" cy="139.7" r="4" fill="#3465a4"><title>Oliphant Dress Clan Tartan</title></circle></a><a href="/variants/s9/r4w4k4w4k4w4k2lb23w2~x2/"><circle cx="196.0" cy="153.5" r="4" fill="#3465a4"><title>Virtuoso</title></circle></a><a href="/variants/s12/dp4m3dp3m4dp4k9dp4k9w26m2w4m2~x2/"><circle cx="153.6" cy="131.5" r="4" fill="#3465a4"><title>Ross Purple Dress Tartan</title></circle></a><a href="/variants/s9/w17k2db6lb6w1db1dp10k2dp3~x4/"><circle cx="132.6" cy="133.6" r="4" fill="#3465a4"><title>Hebridean Arisaid Blue (Dance) Fashion Tartan</title></circle></a><circle cx="174.5" cy="129.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

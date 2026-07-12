@@ -1,6 +1,15 @@
 ---
 title: "Shanahan (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Shanahan"
+  url: "/clan/shanahan/"
+- name: "Shanahan"
+  url: "/families/shanahan/"
+- name: "Shanahan"
+  url: "/tartans/s/sh/shanahan-2/"
 ---
 This is the **Shanahan (Corporate)** sett — one scale-free proportion (`k2r2k4ly3dg24k2dg16t17r2`), colour order pattern
 [KRKYGKGBR](/stripes/krkygkgbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k17g48y4r10db12g4/"><circle cx="233.1" cy="167.3" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/variants/s8/g2k3y1k3g2db8g16k1~x4/"><circle cx="272.4" cy="152.2" r="4" fill="#3465a4"><title>Harley (Leslie), Robert</title></circle></a><a href="/variants/s8/g45k4ri2g4ri2k4db21r5~x2~ri2806019-r2109032/"><circle cx="284.0" cy="112.2" r="4" fill="#3465a4"><title>Shiach (Personal)</title></circle></a><a href="/variants/s10/k6r2k2r2k6db7g20y2g3r2~x2/"><circle cx="156.6" cy="144.3" r="4" fill="#3465a4"><title>Connolly Hunting</title></circle></a><a href="/variants/s9/db1dy9g5dy1k5dy1g5dy9w1~x2/"><circle cx="233.6" cy="183.0" r="4" fill="#3465a4"><title>Duchess of York</title></circle></a><a href="/variants/s8/g13dp1g1dp1g3db5k4y2~x2/"><circle cx="253.1" cy="154.5" r="4" fill="#3465a4"><title>Carrick Hunting District Tartan</title></circle></a><a href="/variants/s16/t17dg16k2dg24ly3k4r2k2r2k4ly3dg24k2dg16t17r2~x2/"><circle cx="254.1" cy="134.4" r="4" fill="#3465a4"><title>Shanahan</title></circle></a><a href="/variants/s7/g2k1g12dr4g3db9lb2~x4/"><circle cx="232.3" cy="182.1" r="4" fill="#3465a4"><title>Lee (Personal)</title></circle></a><a href="/variants/s9/g5db24g7k10g24dy2db2dy2r2~x2/"><circle cx="205.9" cy="155.0" r="4" fill="#3465a4"><title>Maitland Chief</title></circle></a><a href="/variants/s9/g5db24g7k10g24y2db2y2r2~x2/"><circle cx="204.5" cy="154.7" r="4" fill="#3465a4"><title>Maitland Chiefs own Tartan</title></circle></a><circle cx="257.9" cy="150.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

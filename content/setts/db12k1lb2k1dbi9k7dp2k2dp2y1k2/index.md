@@ -1,6 +1,15 @@
 ---
 title: "Churchill (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Churchill"
+  url: "/clan/churchill/"
+- name: "Churchill"
+  url: "/families/churchill/"
+- name: "Churchill"
+  url: "/tartans/c/ch/churchill/"
 ---
 This is the **Churchill (Personal)** sett — one scale-free proportion (`db12k1lb2k1dbi9k7dp2k2dp2y1k2`), colour order pattern
 [BKWKBKBKBGK](/stripes/bkwkbkbkbgk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db12k1lb2k1dbi9k7dp2k2dp2y1r2~x4~db1204274-dbi1406275/"><circle cx="105.0" cy="126.0" r="4" fill="#3465a4"><title>Churchill (Personal)</title></circle></a><a href="/variants/s9/k3dp16dg5dp3o2dp2k12db23w2~x2/"><circle cx="163.1" cy="152.7" r="4" fill="#3465a4"><title>Crieff Highland Gathering Corporate Tartan</title></circle></a><a href="/variants/s9/k3dp16g5dp3b2dp2k12db23w2~x2/"><circle cx="147.1" cy="148.3" r="4" fill="#3465a4"><title>Creiff Highland Gathering</title></circle></a><a href="/variants/s11/n6k1n2k2n1k4db10dy4dp1dy3lb1~x4/"><circle cx="113.1" cy="162.1" r="4" fill="#3465a4"><title>Wcwm 1893-2</title></circle></a><a href="/variants/s11/t6k3db19k6db4k3dp12g4dp12w2t5~x2~t2205244-db1204274/"><circle cx="114.2" cy="171.0" r="4" fill="#3465a4"><title>Scotland Forever Fashion Weavers Tartan</title></circle></a><a href="/variants/s10/db6dbi22k12dp10g3k1g3dp10db2w2~x2~db1106275-dbi1404245/"><circle cx="146.2" cy="130.6" r="4" fill="#3465a4"><title>Cowal (Corporate)</title></circle></a><a href="/variants/s11/dp27y2dp2k12g6o2g12k12db12r2db2~x2/"><circle cx="94.2" cy="119.5" r="4" fill="#3465a4"><title>Boxell, Baron (Personal)</title></circle></a><a href="/variants/s9/dp4db7dp2db25k19w2dg23k2dy3~x2/"><circle cx="178.6" cy="154.1" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><a href="/variants/s11/dp27y2dp2k12g6o2g12k12db12r2db2~x2~dp1105325/"><circle cx="94.4" cy="119.4" r="4" fill="#3465a4"><title>Boxell of West Niddry, Baron (Personal)</title></circle></a><a href="/variants/s11/dg10y2dp2dg2dp13dg2dp2dg1k13db24w2~x2/"><circle cx="178.4" cy="112.9" r="4" fill="#3465a4"><title>Lang of Sherbrooke (Personal)</title></circle></a><circle cx="111.3" cy="128.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

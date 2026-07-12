@@ -1,6 +1,11 @@
 ---
 title: "Hanna of Leith"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hanna"
+  url: "/clan/hanna/"
 ---
 A family of [Clan Hanna](/clan/hanna/).
 

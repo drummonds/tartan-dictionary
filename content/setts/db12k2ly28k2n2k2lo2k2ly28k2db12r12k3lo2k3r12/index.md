@@ -1,6 +1,15 @@
 ---
 title: "Oneness"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Oneness"
+  url: "/clan/oneness/"
+- name: "Oneness"
+  url: "/families/oneness/"
+- name: "Oneness"
+  url: "/tartans/o/on/oneness/"
 ---
 This is the **Oneness** sett — one scale-free proportion (`db12k2ly28k2n2k2lo2k2ly28k2db12r12k3lo2k3r12`), colour order pattern
 [BKYKBKYKYKBRKYKR](/stripes/bkykbkykykbrkykr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/k2g12r2k2r2k2r16y2r3db6r3k1g8k1r3w2~x2/"><circle cx="152.0" cy="92.4" r="4" fill="#3465a4"><title>Innes (D C Stewart)</title></circle></a><a href="/variants/s16/db12k3lyi2k3r12db12k2ly28k2lyi2k2n2k2ly28k2db12~x2~lyi3104101-ly2503076/"><circle cx="161.7" cy="94.3" r="4" fill="#3465a4"><title>Oneness</title></circle></a><a href="/variants/s16/dr24k2w2n6w2lo2dr2k2dr2lo2w2t6k2dr3lo3w2~x2/"><circle cx="171.8" cy="84.0" r="4" fill="#3465a4"><title>MacGlashan (Clan?)</title></circle></a><a href="/variants/s14/r8lo5g2lo4g2lo5n38k5g2k4g2k5r8lb4~x2/"><circle cx="157.3" cy="76.5" r="4" fill="#3465a4"><title>Berwick District Tartan</title></circle></a><a href="/variants/s18/k2lr6y2lr2y2lr19t2dg2t2lr2dr4k2dr11dg2dr2dg2dr6y2~x2~dg1502166/"><circle cx="132.2" cy="104.9" r="4" fill="#3465a4"><title>Harmon Dress</title></circle></a><a href="/variants/s16/k2db12r12db2r2lb2r2lb2r12db6r2dg12k2y1r1y1~x2/"><circle cx="155.9" cy="109.3" r="4" fill="#3465a4"><title>Catalan Dance</title></circle></a><a href="/variants/s15/db1y3r3k2db8y3r2k1r2y3g8w1k1r12w1~x2/"><circle cx="110.6" cy="114.7" r="4" fill="#3465a4"><title>MacPherson #2</title></circle></a><a href="/variants/s12/db4w1k3y1g1w1k1g8r12w1r2k1~x2/"><circle cx="120.5" cy="105.3" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/variants/s14/db12r30db2lb2k8lb2k4ly2k4dg15r8k2r4lb2~x2/"><circle cx="148.0" cy="89.0" r="4" fill="#3465a4"><title>Brown of Castledean (Artefact)</title></circle></a><a href="/variants/s12/db8g2k2ly2k2y2k2g18r2g2r29k3~x2/"><circle cx="169.1" cy="87.9" r="4" fill="#3465a4"><title>Cats (Fashion)</title></circle></a><circle cx="159.6" cy="93.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

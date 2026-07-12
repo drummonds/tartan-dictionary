@@ -1,12 +1,15 @@
 ---
 title: "Clan MacDonald"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 *A clan defined by its tartans — the dictionary holds no separate clan history for it, only the cloth that carries its name.*
 
 ## Tartan
 
-<a class="tartan" href="/variants/s12/db11r2db2r4db15r2k15g15r4g2r2g11~x2/"><img src="/variants/s12/db11r2db2r4db15r2k15g15r4g2r2g11~x2/sett.png" alt="MacDonald #2" width="240"><br>MacDonald #2</a>
+<a class="tartan" href="/variants/s12/db17r2db2r5db29r2k31g29r5g2r2g17~x2/"><img src="/variants/s12/db17r2db2r5db29r2k31g29r5g2r2g17~x2/sett.png" alt="MacDonald" width="240"><br>MacDonald</a>
 
 ## Families
 

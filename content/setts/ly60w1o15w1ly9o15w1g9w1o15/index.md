@@ -1,6 +1,15 @@
 ---
 title: "Smith Hunting (Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Smith"
+  url: "/clan/smith/"
+- name: "Smith"
+  url: "/families/smith/"
+- name: "Smith Hunting"
+  url: "/tartans/s/sm/smith-hunting/"
 ---
 This is the **Smith Hunting (Name)** sett — one scale-free proportion (`ly60w1o15w1ly9o15w1g9w1o15`), colour order pattern
 [RWGWRYWRWY](/stripes/rwgwrywrwy/). It is recorded as a single **variant**, below.

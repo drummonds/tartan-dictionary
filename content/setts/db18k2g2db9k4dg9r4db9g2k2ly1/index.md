@@ -1,6 +1,15 @@
 ---
 title: "Amarillo"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Amarillo"
+  url: "/clan/amarillo/"
+- name: "Amarillo"
+  url: "/families/amarillo/"
+- name: "Amarillo"
+  url: "/tartans/a/am/amarillo/"
 ---
 This is the **Amarillo** sett — one scale-free proportion (`db18k2g2db9k4dg9r4db9g2k2ly1`), colour order pattern
 [BKGBKGRBGKY](/stripes/bkgbkgrbgky/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db18k2lb2db9k4g9r4db9lb2k2y1~x4/"><circle cx="240.1" cy="119.4" r="4" fill="#3465a4"><title>Amarillo District Tartan</title></circle></a><a href="/variants/s11/b19k1yi1b10k4y9dp4b9yi1k1ly2~x4~b2206256-yi2602166/"><circle cx="292.4" cy="115.8" r="4" fill="#3465a4"><title>Cian of Ely (Clan)</title></circle></a><a href="/variants/s11/db16k1lb1db10k4b8dp4db7lb1k1lo2~x2~dp1607335-lo2706066/"><circle cx="285.0" cy="129.9" r="4" fill="#3465a4"><title>Cian (Carroll), Clan</title></circle></a><a href="/variants/s14/db34g10db5r2k8dy2w3dy2k8r2db5g10db28k3~x2/"><circle cx="256.5" cy="95.5" r="4" fill="#3465a4"><title>Lambert (Front Royal) Dress</title></circle></a><a href="/variants/s10/dr3g10k12db3k2db2k2db30dr4w1~x2/"><circle cx="269.1" cy="98.9" r="4" fill="#3465a4"><title>McClafferty</title></circle></a><a href="/variants/s13/ri1db14k10db10k1db2k1db10k10dr8db2r2w1~x2~ri2806019-r2510029/"><circle cx="233.2" cy="131.0" r="4" fill="#3465a4"><title>Hynett, William (Personal)</title></circle></a><a href="/variants/s9/db8w2k8g12r2db3r2db24r2~x2/"><circle cx="239.4" cy="145.5" r="4" fill="#3465a4"><title>Burt #2 (Name)</title></circle></a><a href="/variants/s8/db35g10lb10k10db23y1db3r2~x2/"><circle cx="322.7" cy="104.5" r="4" fill="#3465a4"><title>Lapsley, The Tom</title></circle></a><a href="/variants/s8/db35g10lb10k10db23ly1db3r2~x2/"><circle cx="321.7" cy="104.6" r="4" fill="#3465a4"><title>Lapsley, The Tom (Personal)</title></circle></a><a href="/variants/s10/dy2db25r4g4r4w3db3k3db6w2~x2/"><circle cx="260.4" cy="112.7" r="4" fill="#3465a4"><title>University of Edinburgh Business Sch</title></circle></a><circle cx="260.1" cy="126.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

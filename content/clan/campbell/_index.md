@@ -1,6 +1,9 @@
 ---
 title: "Clan Campbell"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 **Territory:** Argyll · **1745 strength:** 3000 men
 

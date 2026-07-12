@@ -1,6 +1,11 @@
 ---
 title: "Hong Kong, University of"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Hong Kong, University of"
+  url: "/tartans/h/ho/hong-kong-university-of/"
 ---
 This is the **Hong Kong, University of** sett — one scale-free proportion (`y2k1r2dg6lg5k1db5k1dg42k1w2k1w2`), colour order pattern
 [GKRGYKBKGKWKW](/stripes/gkrgykbkgkwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w2k1w2k1dg42k1lb5k1g5dg6r2k1ly2~x2/"><circle cx="339.5" cy="14.0" r="4" fill="#3465a4"><title>University of Hong Kong</title></circle></a><a href="/variants/s10/dg40r5k2w2k2y3k2dg10r3k3~x2~dg1605139/"><circle cx="382.9" cy="93.3" r="4" fill="#3465a4"><title>Arnold Palmer Corporate Tartan</title></circle></a><a href="/variants/s12/g64k4db9dy2db4dy2db4g11r8db2r4w3~x2/"><circle cx="343.5" cy="57.1" r="4" fill="#3465a4"><title>Sillars (Name)</title></circle></a><a href="/variants/s12/g26t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="341.2" cy="56.4" r="4" fill="#3465a4"><title>Princess Mary #2</title></circle></a><a href="/variants/s12/g44db3k8y2k2w2k2g9r5k2r2w2~x2/"><circle cx="296.5" cy="60.8" r="4" fill="#3465a4"><title>Princess Mary Royal Family Tartan</title></circle></a><a href="/variants/s14/g40n1dp4n1dp4k4r1k1r1k1r1k1r2w4~x2/"><circle cx="304.4" cy="17.8" r="4" fill="#3465a4"><title>Mighty Men</title></circle></a><a href="/variants/s12/g32lb2k7y1k1w1k2r7g5k1g3w1~x2/"><circle cx="305.5" cy="49.1" r="4" fill="#3465a4"><title>Stuart/Stewart (Variant)</title></circle></a><a href="/variants/s12/g70db3k9w4k4dr4k3db12g9k4g4y4~x2/"><circle cx="307.6" cy="63.8" r="4" fill="#3465a4"><title>Canmore Highland Games</title></circle></a><a href="/variants/s12/g70db3k9w4k4dp4k3db12g9k4g4y4~x2/"><circle cx="307.1" cy="63.6" r="4" fill="#3465a4"><title>Canmore Highland Games (Corporate)</title></circle></a><a href="/variants/s11/w2k2w2k10lb1dg40w1r4w1dg5ri1~x2~r2209032-ri2806019/"><circle cx="348.9" cy="41.8" r="4" fill="#3465a4"><title>Knox, David Paul (Personal)</title></circle></a><circle cx="350.2" cy="15.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

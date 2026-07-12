@@ -1,6 +1,13 @@
 ---
 title: "Blue Peter"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Blue"
+  url: "/clan/blue/"
+- name: "Blue Peter"
+  url: "/tartans/b/bl/blue-peter/"
 ---
 This is the **Blue Peter** sett — one scale-free proportion (`ly3dbi24db4dbi4db20g4dp4ly2`), colour order pattern
 [YBBBBGBY](/stripes/ybbbbgby/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dy12dbi2dy2dbi30db3dbi2db13w4~x2~dbi1406275-db1204274/"><circle cx="379.4" cy="210.0" r="4" fill="#3465a4"><title>Highlands School (N. Carolina) Corporate Tartan</title></circle></a><a href="/variants/s6/db35w3db8t36dg9o3~x2~db1605267-t2605232/"><circle cx="290.0" cy="208.2" r="4" fill="#3465a4"><title>Georgian Bay, Waters of</title></circle></a><a href="/variants/s10/y3dbi25db4dbi4db4dbi4db25g4dp4lo2~x2~dbi1208266-db1003265/"><circle cx="325.0" cy="187.6" r="4" fill="#3465a4"><title>Blue Peter</title></circle></a><a href="/variants/s6/dbi7db2dbi25db10g21db2~x2~dbi1406275-db1204274/"><circle cx="363.6" cy="262.0" r="4" fill="#3465a4"><title>Sugiyama Jogakuen University (Corp)</title></circle></a><a href="/variants/s6/db38w3db8dbi36dg9r3~x2~db1106275-dbi1406275/"><circle cx="359.3" cy="219.5" r="4" fill="#3465a4"><title>Waters of Georgian Bay (District)</title></circle></a><a href="/variants/s8/w3n36b6dg6b6dg12b32w3/"><circle cx="321.1" cy="226.4" r="4" fill="#3465a4"><title>Tenmaya</title></circle></a><a href="/variants/s8/t27db9lb3dg6db33lb3dr3y2~x2~t2503227-db1406275-lb3103284/"><circle cx="321.6" cy="173.4" r="4" fill="#3465a4"><title>Blue Ridge Highlands Heritage</title></circle></a><a href="/variants/s7/dr1dg4g1dg3dr4db15w1~x4/"><circle cx="353.7" cy="190.9" r="4" fill="#3465a4"><title>Bressuire</title></circle></a><a href="/variants/s7/db6t47db22g47dp4g4n4~db1003265-t2105244/"><circle cx="284.0" cy="222.2" r="4" fill="#3465a4"><title>Boroughmuir</title></circle></a><a href="/variants/s8/dy5dbi12db4ly4db22dbi3db4dy5~dbi1406275-db1204274/"><circle cx="370.4" cy="262.4" r="4" fill="#3465a4"><title>Daks Muted blue Trade Tartan</title></circle></a><circle cx="330.6" cy="216.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

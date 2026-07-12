@@ -1,6 +1,15 @@
 ---
 title: "Hanna of Stirlingshire"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hanna"
+  url: "/clan/hanna/"
+- name: "Hanna of Stirlingshire"
+  url: "/families/hanna-of-stirlingshire/"
+- name: "Hanna of Stirlingshire"
+  url: "/tartans/h/ha/hanna-of-stirlingshire-2/"
 ---
 This is the **Hanna of Stirlingshire** sett — one scale-free proportion (`k1lr2k2lr2k1lr4k1db9lo1db9k1lr4k1lr2k2lr2k1dr1`), colour order pattern
 [BKYKYKYKBYBKYKYKYK](/stripes/bkykykykbybkykykyk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db14lb2w2lb2db20k20r17w4r3w3r3w3r5~x2/"><circle cx="101.4" cy="133.3" r="4" fill="#3465a4"><title>American Bi-Centennial</title></circle></a><a href="/variants/s10/dr1k1lr2k2lr2k1lr4k1db9lo1~x4/"><circle cx="135.3" cy="147.9" r="4" fill="#3465a4"><title>Hanna of Stirlingshire (Clan)</title></circle></a><a href="/variants/s18/db2r2k2lb3k4lb5k6db20r2lb4r2db20k6lb5k4lb3k2r2~x2~db1406275/"><circle cx="170.4" cy="127.9" r="4" fill="#3465a4"><title>Scottish Knights Templar Militi Templi Scotia</title></circle></a><a href="/variants/s14/w1k1y1db8k1lb1w8lb1k8lb1w1db8lb1w1~x6/"><circle cx="106.2" cy="133.4" r="4" fill="#3465a4"><title>Praetorian, Blue (Fashion)</title></circle></a><a href="/variants/s12/dr3k2w18db18k3db3k3db18k18w18k2lo3~x2/"><circle cx="102.0" cy="153.3" r="4" fill="#3465a4"><title>MacEwan Arisaid (Dance)</title></circle></a><a href="/variants/s18/dr4lb6k1dr2k1lb14k3w3k2dr2k2dr2db4dr2db6dr2db6dr3/"><circle cx="86.1" cy="125.7" r="4" fill="#3465a4"><title>Royal Canadian Air Force Regimental Tartan</title></circle></a><a href="/variants/s16/r3lb7k1r2k1lb12k4w3k2r1k1r1db3r2db4r2~x2/"><circle cx="107.1" cy="118.9" r="4" fill="#3465a4"><title>Royal Canadian Air Force #2</title></circle></a><a href="/variants/s11/r9k4w6k4db21ly3db13k2w4k2r6~x2/"><circle cx="142.7" cy="145.1" r="4" fill="#3465a4"><title>Dauphinee (Personal)</title></circle></a><a href="/variants/s11/r9k4w6k4db21y3db13k2w4k2r6~x2/"><circle cx="144.9" cy="145.7" r="4" fill="#3465a4"><title>Dauphinee (Trussville, Alabama) (Personal)</title></circle></a><a href="/variants/s15/db6k1db1k1db1k6lb6k1w1k1lb6k6db6k1r1~x4/"><circle cx="94.5" cy="157.8" r="4" fill="#3465a4"><title>MacKenzie Blue</title></circle></a><circle cx="130.0" cy="125.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

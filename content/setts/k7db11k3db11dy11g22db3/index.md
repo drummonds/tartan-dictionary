@@ -1,6 +1,11 @@
 ---
 title: "Scottish Odyssey Commemorative Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Scottish Odyssey Commemorative"
+  url: "/tartans/s/sc/scottish-odyssey-commemorative/"
 ---
 This is the **Scottish Odyssey Commemorative Tartan** sett — one scale-free proportion (`k7db11k3db11dy11g22db3`), colour order pattern
 [BGGBKBK](/stripes/bggbkbk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1t7k4t1dg7t1~x4/"><circle cx="193.3" cy="224.2" r="4" fill="#3465a4"><title>Flower of Scotland Commemorative Tartan</title></circle></a><a href="/variants/s6/r1t7k4t1dg7t1~x2/"><circle cx="193.3" cy="224.2" r="4" fill="#3465a4"><title>Flower of Scotland MINI Tartan</title></circle></a><a href="/variants/s6/db4g18db3k17db18o4~x2/"><circle cx="151.3" cy="237.6" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/variants/s8/ly4dg17k10db3k3db17dr3db3~x2/"><circle cx="151.2" cy="208.1" r="4" fill="#3465a4"><title>Royal Highland Society (Corporate)</title></circle></a><a href="/variants/s6/lr3t14k12dg12k2ly3~x4~t2205244-k0700000/"><circle cx="109.5" cy="222.5" r="4" fill="#3465a4"><title>MacNeil of Barra (Clan)</title></circle></a><a href="/variants/s6/dr2k1db6k2g6o2~x4/"><circle cx="96.3" cy="227.9" r="4" fill="#3465a4"><title>MacEachain (Clan)</title></circle></a><a href="/variants/s6/db31b4db5k19g20y4~x2/"><circle cx="163.5" cy="205.3" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/variants/s7/g17y2k14r2db9r2db10~x2/"><circle cx="111.3" cy="194.7" r="4" fill="#3465a4"><title>MacDonald (Flora.. )</title></circle></a><a href="/variants/s7/b2g6y1k6db6k1db1~x2/"><circle cx="89.6" cy="211.0" r="4" fill="#3465a4"><title>Hogarth, of Firhill</title></circle></a><a href="/variants/s7/lb2g6y1k6db6k1db1~x2/"><circle cx="80.0" cy="207.9" r="4" fill="#3465a4"><title>Hogarth of Firhill</title></circle></a><circle cx="141.1" cy="224.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

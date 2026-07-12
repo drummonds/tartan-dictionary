@@ -1,6 +1,11 @@
 ---
 title: "Kinfauns Castle (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Kinfauns Castle"
+  url: "/tartans/k/ki/kinfauns-castle/"
 ---
 This is the **Kinfauns Castle (Corporate)** sett — one scale-free proportion (`r4dp12g2dp2g46w1`), colour order pattern
 [RBGBGW](/stripes/rbgbgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r4dp12dg2dp2dg46w1~x2/"><circle cx="557.2" cy="140.9" r="4" fill="#3465a4"><title>Kinfauns Castle</title></circle></a><a href="/variants/s8/g78db13ly6r3ly5g6db9ly6~x2/"><circle cx="436.8" cy="140.5" r="4" fill="#3465a4"><title>Walterstrm (2014))</title></circle></a><a href="/variants/s6/g30db8g5lb4g5r1~x4/"><circle cx="500.3" cy="168.0" r="4" fill="#3465a4"><title>Annapolis Valley</title></circle></a><a href="/variants/s9/r4g3dp3g44dp16g10w2g2dp2~x2/"><circle cx="432.5" cy="139.0" r="4" fill="#3465a4"><title>Glenfeshie (Personal)</title></circle></a><a href="/variants/s11/g5w1g32db1g8db9g2w2r3db3w1~x2/"><circle cx="443.4" cy="118.7" r="4" fill="#3465a4"><title>Portosalvo</title></circle></a><a href="/variants/s5/lr2db4g60dp30w1~x2/"><circle cx="431.4" cy="144.1" r="4" fill="#3465a4"><title>McGuinness, Tam (Personal)</title></circle></a><a href="/variants/s5/g50r1dr20k2w1~x2/"><circle cx="435.8" cy="112.8" r="4" fill="#3465a4"><title>Kenspeckle (Corporate)</title></circle></a><a href="/variants/s11/g5w1g32b1g8b9g2w2r3b3w1~x2/"><circle cx="476.4" cy="130.2" r="4" fill="#3465a4"><title>Portosalvo (Corporate)</title></circle></a><a href="/variants/s6/g72k8g4dy16g7n2~x2/"><circle cx="493.2" cy="129.5" r="4" fill="#3465a4"><title>MacAndrew Hunting (Name)</title></circle></a><a href="/variants/s8/dg5r3dg3ly2dg1lyi8dg24ly2~x2~ly2705081-lyi3104101/"><circle cx="413.9" cy="143.5" r="4" fill="#3465a4"><title>St. Christopher (Corporate)</title></circle></a><circle cx="495.9" cy="127.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

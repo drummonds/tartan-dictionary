@@ -1,6 +1,15 @@
 ---
 title: "Robberstad"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Robberstad"
+  url: "/clan/robberstad/"
+- name: "Robberstad"
+  url: "/families/robberstad/"
+- name: "Robberstad"
+  url: "/tartans/r/ro/robberstad/"
 ---
 This is the **Robberstad** sett — one scale-free proportion (`r60b15r4db10w2db10w2db10r4`), colour order pattern
 [RBRBWBWBR](/stripes/rbrbwbwbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r60db8r4k11w2k11w2k11db1r4~x2~db0906265-k0503265/"><circle cx="358.0" cy="57.4" r="4" fill="#3465a4"><title>Robberstad #2</title></circle></a><a href="/variants/s10/r6y1r24g6db2k1db2k1db12r1~x2/"><circle cx="305.5" cy="95.5" r="4" fill="#3465a4"><title>MacEdward</title></circle></a><a href="/variants/s7/r50db14w6db9y3db4r4~x2/"><circle cx="362.4" cy="144.1" r="4" fill="#3465a4"><title>Texas Lone Star</title></circle></a><a href="/variants/s7/r50db14w6db9ly3db4r4~x2/"><circle cx="358.6" cy="143.1" r="4" fill="#3465a4"><title>Texas Lone Star (Fashion)</title></circle></a><a href="/variants/s9/db6ly2db27r27ly2r2ly2r2db4~x2/"><circle cx="332.2" cy="164.5" r="4" fill="#3465a4"><title>New Breckon (Fashion?)</title></circle></a><a href="/variants/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/"><circle cx="375.5" cy="124.8" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/variants/s9/db2r21db1w4db7w2db2w2r2~x2/"><circle cx="329.2" cy="138.4" r="4" fill="#3465a4"><title>31, Tartan (The.. )</title></circle></a><a href="/variants/s9/r2w2b2w2b7w4b1r21b2~x4/"><circle cx="351.2" cy="146.3" r="4" fill="#3465a4"><title>American</title></circle></a><a href="/variants/s13/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2~x2/"><circle cx="364.2" cy="97.9" r="4" fill="#3465a4"><title>MacGillivray Clan Tartan</title></circle></a><a href="/variants/s13/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2/"><circle cx="364.2" cy="97.9" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><circle cx="371.8" cy="111.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

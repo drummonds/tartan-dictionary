@@ -1,6 +1,11 @@
 ---
 title: "Norwich No.017"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Norwich No.017"
+  url: "/tartans/n/no/norwich-no-017/"
 ---
 This is the **Norwich No.017** sett — one scale-free proportion (`g10db2g2db6t5db1t2`), colour order pattern
 [BBBBGBGBGBBB](/stripes/bbbbgbgbgbbb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g10db2g2db6lb5db1lb2~x2/"><circle cx="261.6" cy="251.6" r="4" fill="#3465a4"><title>Unidentified No 17</title></circle></a><a href="/variants/s6/db2g6db6b5db1b2~x2/"><circle cx="272.8" cy="310.0" r="4" fill="#3465a4"><title>Unnamed, No 54</title></circle></a><a href="/variants/s6/db1g10db9t10db1t1~x4/"><circle cx="293.4" cy="273.0" r="4" fill="#3465a4"><title>Black Watch (Aljean)</title></circle></a><a href="/variants/s6/dbi7db2dbi25db10g21db2~x2~dbi1605267-db1004274/"><circle cx="369.1" cy="264.7" r="4" fill="#3465a4"><title>Sugiyama</title></circle></a><a href="/variants/s6/dbi7db2dbi25db10g21db2~x2~dbi1406275-db1204274/"><circle cx="363.6" cy="262.0" r="4" fill="#3465a4"><title>Sugiyama Jogakuen University (Corp)</title></circle></a><a href="/variants/s8/g19w1db12b2db2b2db2b16~x2/"><circle cx="284.4" cy="201.8" r="4" fill="#3465a4"><title>Unnamed, No 52</title></circle></a><a href="/variants/s8/b14db1b1db1b3db6g12r2~x2/"><circle cx="293.4" cy="198.0" r="4" fill="#3465a4"><title>Cranstoun</title></circle></a><a href="/variants/s13/db21g2db3g2db2g14dy15g4dy15g14db14g2db3~x2/"><circle cx="277.3" cy="233.1" r="4" fill="#3465a4"><title>Montmorency Family Tartan</title></circle></a><a href="/variants/s13/db11do1db1do1db1do8g8do1g8do8db8do1db1~x2/"><circle cx="294.3" cy="228.8" r="4" fill="#3465a4"><title>Tyneside Scottish District Tartan</title></circle></a><a href="/variants/s10/db4g2dbi10y1dbi2g13db11g13dbi13y2~x2~db1204274-dbi1406275/"><circle cx="273.5" cy="233.6" r="4" fill="#3465a4"><title>Pinney's of Scotland</title></circle></a><circle cx="293.9" cy="250.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

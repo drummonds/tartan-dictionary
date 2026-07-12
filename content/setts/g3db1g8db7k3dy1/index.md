@@ -1,6 +1,11 @@
 ---
 title: "Trafalgar (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Trafalgar"
+  url: "/tartans/t/tr/trafalgar/"
 ---
 This is the **Trafalgar (Fashion)** sett — one scale-free proportion (`g3db1g8db7k3dy1`), colour order pattern
 [GBGBKG](/stripes/gbgbkg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g3db1g8db7k3y1~x2/"><circle cx="213.4" cy="223.3" r="4" fill="#3465a4"><title>Trafalger Trade Tartan</title></circle></a><a href="/variants/s6/k3g22db3g3db19r3~x2/"><circle cx="240.7" cy="206.3" r="4" fill="#3465a4"><title>Davidson Half.. Clan Tartan</title></circle></a><a href="/variants/s8/db6k1g3k1db3k1g10r3~x2/"><circle cx="205.4" cy="188.9" r="4" fill="#3465a4"><title>AIton - 1979 (Clan)</title></circle></a><a href="/variants/s6/db20k6ly4db3g20w2~x2/"><circle cx="171.5" cy="188.2" r="4" fill="#3465a4"><title>DeLoughery (Personal)</title></circle></a><a href="/variants/s5/b10k10b10dg26y5~x2/"><circle cx="181.1" cy="263.2" r="4" fill="#3465a4"><title>Marshall of Keith (Personal)</title></circle></a><a href="/variants/s5/g12lo1db8k1db1~x4/"><circle cx="292.7" cy="195.4" r="4" fill="#3465a4"><title>Rowan (Personal)</title></circle></a><a href="/variants/s5/g7k6t7k1t2~x2/"><circle cx="164.0" cy="262.8" r="4" fill="#3465a4"><title>Campbell of Glenlyon</title></circle></a><a href="/variants/s5/g7k6t7k1t2~x4/"><circle cx="164.0" cy="262.8" r="4" fill="#3465a4"><title>Campbell of Glenlyon Check (Clan)</title></circle></a><a href="/variants/s6/r1g1k1g9db9w1~x6/"><circle cx="214.7" cy="177.5" r="4" fill="#3465a4"><title>Irving of Bonshaw Tower</title></circle></a><a href="/variants/s5/k3db3g23db21w2~x2~db1406275/"><circle cx="227.0" cy="190.6" r="4" fill="#3465a4"><title>Douglas Clan Tartan</title></circle></a><circle cx="214.8" cy="223.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

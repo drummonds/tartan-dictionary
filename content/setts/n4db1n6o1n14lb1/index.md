@@ -1,6 +1,11 @@
 ---
 title: "Torridon Tweed"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Torridon Tweed"
+  url: "/tartans/t/to/torridon-tweed/"
 ---
 This is the **Torridon Tweed** sett — one scale-free proportion (`n4db1n6o1n14lb1`), colour order pattern
 [BBBRBW](/stripes/bbbrbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db3o1w1o25w1o1dp3~x4~db1406275-o2500000-dp1607327/"><circle cx="626.0" cy="122.7" r="4" fill="#3465a4"><title>St. Giles Check</title></circle></a><a href="/variants/s8/n40db4n4dp5g5n3y6r3~x2/"><circle cx="489.2" cy="172.2" r="4" fill="#3465a4"><title>Miller Hargreaves (Personal)</title></circle></a><a href="/variants/s4/n30r1n15db4~x2/"><circle cx="626.0" cy="245.8" r="4" fill="#3465a4"><title>Kincardine Tweed</title></circle></a><a href="/variants/s5/n40r2n20g19db2~db1204274/"><circle cx="610.3" cy="253.5" r="4" fill="#3465a4"><title>Lloyd of Wales</title></circle></a><a href="/variants/s4/n19w1n19r1~x2/"><circle cx="626.0" cy="247.0" r="4" fill="#3465a4"><title>Dunbar of Pitgaveny</title></circle></a><a href="/variants/s8/n74dp9n4r5n4dp9n37db9~x2/"><circle cx="626.0" cy="191.5" r="4" fill="#3465a4"><title>Rikaco Vintage</title></circle></a><a href="/variants/s5/n60g13n9r8dy4~x2/"><circle cx="594.5" cy="232.4" r="4" fill="#3465a4"><title>Ballantyne Personal Tartan</title></circle></a><a href="/variants/s5/n60g13n9dr8y4~x2/"><circle cx="626.0" cy="257.8" r="4" fill="#3465a4"><title>Ballantyne (Personal)</title></circle></a><a href="/variants/s6/r13n3r4n56b4n4~x2/"><circle cx="626.0" cy="211.2" r="4" fill="#3465a4"><title>Auchairne grey</title></circle></a><circle cx="626.0" cy="236.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

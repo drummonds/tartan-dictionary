@@ -1,6 +1,11 @@
 ---
 title: "Casey of West Virginia"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Casey"
+  url: "/clan/casey/"
 ---
 A family of [Clan Casey](/clan/casey/).
 

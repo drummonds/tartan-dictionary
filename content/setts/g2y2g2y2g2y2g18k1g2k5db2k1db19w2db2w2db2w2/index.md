@@ -1,6 +1,11 @@
 ---
 title: "Scottish Islamic"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Scottish Islamic"
+  url: "/tartans/s/sc/scottish-islamic/"
 ---
 This is the **Scottish Islamic** sett — one scale-free proportion (`g2y2g2y2g2y2g18k1g2k5db2k1db19w2db2w2db2w2`), colour order pattern
 [GGGGGGGKGKBKBWBWBW](/stripes/gggggggkgkbkbwbwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/dg2ly2dg2ly2dg2ly2dg18k1dg2k5db2k1db19w2db2w2db2w2~x2/"><circle cx="162.5" cy="83.2" r="4" fill="#3465a4"><title>Scottish Islamic (Corporate)</title></circle></a><a href="/variants/s20/db36k5r2k5g15r2g10w2g10r2g15k5r2k5db10r2db2r2db4w2~x2~db1404245/"><circle cx="159.8" cy="94.9" r="4" fill="#3465a4"><title>Ranking Corporate Tartan</title></circle></a><a href="/variants/s18/db2lp4r2g24db4g2db4k10lp4db2lp4g8db1k1db22lp4db2r2~x2/"><circle cx="158.1" cy="88.7" r="4" fill="#3465a4"><title>Couper of Gogar</title></circle></a><a href="/variants/s14/w4db20k1g2k1g2k4g1w2g1k4g16dp8g1~x2/"><circle cx="135.1" cy="98.6" r="4" fill="#3465a4"><title>St Andrew</title></circle></a><a href="/variants/s18/r2lp4db2g24db4g2db4k10lp4db2lp4g8db1k2db22lp4db2r2~x2~r2109032-lp3004317/"><circle cx="158.7" cy="91.4" r="4" fill="#3465a4"><title>Couper of Gogar (Clan)</title></circle></a><a href="/variants/s20/db33k3r2k3g9r2g7w2g7r2g9k3r2k3db7r2db2r2db3w2~x2/"><circle cx="174.2" cy="83.1" r="4" fill="#3465a4"><title>Ranking (Personal)</title></circle></a><a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2~w4000000-db1406275/"><circle cx="171.1" cy="77.8" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/variants/s17/db24k2db2dp2db2g16n1g2n3g2n1g16k20db2dp2db2k2~x2/"><circle cx="170.9" cy="87.5" r="4" fill="#3465a4"><title>Sandilands-Watson (Personal)</title></circle></a><a href="/variants/s15/r1g11k4db2k1db1k1db14k1db1k1db2k4g11w1~x4/"><circle cx="168.3" cy="114.9" r="4" fill="#3465a4"><title>MacKenzie</title></circle></a><a href="/variants/s17/k28r2db9g2db4g20k1g1w2g1k1g20db4g2db9r1db3~x2/"><circle cx="187.3" cy="74.9" r="4" fill="#3465a4"><title>Blairlogie (District)</title></circle></a><circle cx="158.8" cy="85.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

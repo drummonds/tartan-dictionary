@@ -1,6 +1,15 @@
 ---
 title: "MacDonell of Glengarry - 1914 (Clan)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDonell"
+  url: "/clan/macdonell/"
+- name: "MacDonell of Glengarry"
+  url: "/families/macdonell-of-glengarry/"
+- name: "MacDonell of Glengarry"
+  url: "/tartans/m/ma/macdonell-of-glengarry-2/"
 ---
 This is the **MacDonell of Glengarry - 1914 (Clan)** sett — one scale-free proportion (`db8dr1db2dr3db12dr1k12g12dr3g2dr1g4lb1`), colour order pattern
 [BBBBBBKGBGBGW](/stripes/bbbbbbkgbgbgw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db8r1db2r3db12r1k12g12r3g2r1g4w1~x2/"><circle cx="120.6" cy="137.8" r="4" fill="#3465a4"><title>MacDonell of Glengarry Clan Tartan</title></circle></a><a href="/variants/s13/db8r1db2r3db12r1k12g12r3g2r1g4w1/"><circle cx="120.6" cy="137.8" r="4" fill="#3465a4"><title>MacDonell of Glengarry D</title></circle></a><a href="/variants/s13/db8r1db2r3db12r1k12w1g12r3g2r1g8/"><circle cx="113.2" cy="142.6" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><a href="/variants/s13/db8r1db2r3db12r1k12w1g12r3g2r1g8~x2/"><circle cx="113.2" cy="142.6" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><a href="/variants/s13/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13~x2/"><circle cx="145.1" cy="137.2" r="4" fill="#3465a4"><title>Unnamed C20th - Unregistered Error</title></circle></a><a href="/variants/s14/db20r2db2r5db30r2k32w2g30r5g4r2g4w2/"><circle cx="141.4" cy="106.9" r="4" fill="#3465a4"><title>MacDonald of Clanranald #5</title></circle></a><a href="/variants/s13/db16r2db2r7db31r2k32w3g31r7g2r2g16~x2/"><circle cx="120.7" cy="121.8" r="4" fill="#3465a4"><title>Clanranald, MacDonald of</title></circle></a><a href="/variants/s12/k4dbi11k1dbi2k1dbi11k2db14k2g14k1lo2~x2~dbi1605267-db1003265/"><circle cx="157.8" cy="143.8" r="4" fill="#3465a4"><title>Brown Ellis (Personal)</title></circle></a><a href="/variants/s13/db23k2dr2k2dr2k16g17k2g17k15db17k2r2~x2/"><circle cx="127.4" cy="147.1" r="4" fill="#3465a4"><title>The Red Hackle</title></circle></a><a href="/variants/s11/db11k2db2k2db2k11g11r2g3k1y3~x2/"><circle cx="114.7" cy="154.7" r="4" fill="#3465a4"><title>Grant Hunting Clan Tartan</title></circle></a><circle cx="138.2" cy="146.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Dignan School of Dancing"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Dignan Corporate School"
+  url: "/tartans/d/di/dignan-corporate-school/"
 ---
 This is the **Dignan School of Dancing** sett — one scale-free proportion (`lo4dr2t32k10dp4lb21dp2`), colour order pattern
 [BWBKBBY](/stripes/bwbkbby/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/"><circle cx="251.3" cy="147.5" r="4" fill="#3465a4"><title>Shearer (2016)</title></circle></a><a href="/variants/s7/y2r1lb16k5dp2w11dp1~x4/"><circle cx="153.9" cy="130.7" r="4" fill="#3465a4"><title>Dignan</title></circle></a><a href="/variants/s8/k16w6k4b64m19k8g42y6/"><circle cx="135.0" cy="128.5" r="4" fill="#3465a4"><title>Unidentified (Woven sample)</title></circle></a><a href="/variants/s9/dp4k2w3k2db30g9k4w20dy3~x2~g2408144/"><circle cx="122.5" cy="114.1" r="4" fill="#3465a4"><title>Minnesota Dress American District Tartan</title></circle></a><a href="/variants/s9/dp4k2w3k2db30g9k4w20dy3~x2/"><circle cx="123.1" cy="114.1" r="4" fill="#3465a4"><title>Minnesota Dress</title></circle></a><a href="/variants/s7/r3db25k6lb20y2lb2w3~x2/"><circle cx="155.2" cy="137.5" r="4" fill="#3465a4"><title>Madras College (Corporate)</title></circle></a><a href="/variants/s8/lb26db13k13w2g8k5r3lb3~x2/"><circle cx="106.2" cy="141.3" r="4" fill="#3465a4"><title>Moran (Coilessan) (Personal)</title></circle></a><a href="/variants/s7/n3db1n11w1k5t14ly3~x4/"><circle cx="163.3" cy="162.3" r="4" fill="#3465a4"><title>Glen Lyon (Fashion)</title></circle></a><a href="/variants/s9/w3lb26db13k13w2g8k5r3lb3~x2/"><circle cx="95.1" cy="133.1" r="4" fill="#3465a4"><title>Moran (Virgin Islands) (Personal)</title></circle></a><a href="/variants/s9/g5db22g6k10w24y2db2w2r2~x2/"><circle cx="93.1" cy="130.2" r="4" fill="#3465a4"><title>Haymarket Dress Blue Trade Tartan</title></circle></a><circle cx="167.7" cy="136.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

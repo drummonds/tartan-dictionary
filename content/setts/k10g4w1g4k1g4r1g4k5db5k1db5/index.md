@@ -1,6 +1,15 @@
 ---
 title: "Lloyd of Dolobran (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan LLoyd"
+  url: "/clan/lloyd/"
+- name: "Lloyd of Dolobran"
+  url: "/families/lloyd-of-dolobran/"
+- name: "Lloyd of Dolobran"
+  url: "/tartans/l/ll/lloyd-of-dolobran/"
 ---
 This is the **Lloyd of Dolobran (Personal)** sett — one scale-free proportion (`k10g4w1g4k1g4r1g4k5db5k1db5`), colour order pattern
 [BKBKGRGKGWGKGWGKGRGKBK](/stripes/bkbkgrgkgwgkgwgkgrgkbk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/lo3g15k15db15k2db15k15g15dp3g15k15g15lo3~x2/"><circle cx="101.8" cy="198.9" r="4" fill="#3465a4"><title>MacBride</title></circle></a><a href="/variants/s13/y3g15k15db15k2db15k15g15o3g15k15g15y3~x2/"><circle cx="104.5" cy="199.8" r="4" fill="#3465a4"><title>MacBride Family Tartan</title></circle></a><a href="/variants/s13/y3g15k15db15k2db15k15g15b3g15k15g15y3~x2/"><circle cx="104.9" cy="200.4" r="4" fill="#3465a4"><title>MacBride</title></circle></a><a href="/variants/s13/k2t1g6t2g2k4g5ly1g5k4db4k2db2~x4/"><circle cx="109.1" cy="206.7" r="4" fill="#3465a4"><title>Gordon Dress (US Fashion)</title></circle></a><a href="/variants/s24/k1t8k8g8w2g8k8t1k1t1k1t8k1t1k1t1k8g8y2g8k8t8k1t1~x2~w4000000/"><circle cx="94.6" cy="142.1" r="4" fill="#3465a4"><title>Campbell of Argyll (no guards)</title></circle></a><a href="/variants/s16/g5k24g12k16g26w4g24w4g26k16db4k4db4k4dbi28g3~db1404245-dbi1406275/"><circle cx="145.2" cy="152.8" r="4" fill="#3465a4"><title>O'Conner Irish Family Tartan</title></circle></a><a href="/variants/s26/db8g2db8k2db2k2db2k4g11r2g11k4g2k9g2k9g2k4g11y2g11k4db2k2db2k4~x2/"><circle cx="106.2" cy="157.5" r="4" fill="#3465a4"><title>Stuart/Stewart Hunting #3</title></circle></a><a href="/variants/s13/t18r5t3r5t3k20g18dy4g18k20t20k6t6/"><circle cx="63.3" cy="161.8" r="4" fill="#3465a4"><title>Keith</title></circle></a><a href="/variants/s14/db18k5g3r3g6k2y2k2g6r3g3k10db5k10/"><circle cx="113.3" cy="158.0" r="4" fill="#3465a4"><title>MacClellan Clan Tartan</title></circle></a><a href="/variants/s14/t8k1t1k1t1k5g6k1g6k5db3t1dr1t1~x4~t2405244/"><circle cx="83.2" cy="136.8" r="4" fill="#3465a4"><title>Gemmell Clan/Family Tartan</title></circle></a><circle cx="114.6" cy="149.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

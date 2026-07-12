@@ -1,6 +1,11 @@
 ---
 title: "O'Keefe"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "O'Keefe"
+  url: "/tartans/o/o/o-keefe/"
 ---
 This is the **O'Keefe** sett — one scale-free proportion (`k8r2k3lyi2k2w3k2ly12y22r2y2k1`), colour order pattern
 [KRKYKWKYGRGKGRGYKWKYKR](/stripes/krkykwkygrgkgrgykwkykr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s23/w2r3k2r8g16k2w2k2ly1k10t6r32t6k10ly1k2w2k2g16r8k2r3w1~x4/"><circle cx="136.7" cy="38.6" r="4" fill="#3465a4"><title>Stewart</title></circle></a><a href="/variants/s16/g5w2r8k2lo4k2y2k7g40k3r10k6lo7k7y2k2~x2/"><circle cx="122.4" cy="41.1" r="4" fill="#3465a4"><title>Goldstraw (Personal)</title></circle></a><a href="/variants/s17/k8w1r2g16r8g8r11y2g2lo1g2w2r10y2r2k1w4~x2/"><circle cx="133.7" cy="99.5" r="4" fill="#3465a4"><title>Pernel (Personal)</title></circle></a><a href="/variants/s18/r6lb4dg16ly2k1w6k1ly30r15ly30k1w6k1ly2dg16lb4r6w1~x2/"><circle cx="173.3" cy="67.1" r="4" fill="#3465a4"><title>Westwood</title></circle></a><a href="/variants/s19/k4r1k1r2w24db2w3r8g2r2g2r2k8g2k2g2k2g8y2~x2/"><circle cx="96.4" cy="52.4" r="4" fill="#3465a4"><title>Princess Beatrice Dress Royal Family Tartan</title></circle></a><a href="/variants/s16/dgi3r15dg2r2dg2r2dg18ly2dg2ly2dg2ly27k2ly2k6lo2~x2~dgi1703114-lo3007057/"><circle cx="129.6" cy="89.1" r="4" fill="#3465a4"><title>Strathmore</title></circle></a><a href="/variants/s18/g4r4b1k1r19k1lb1r2db5r2lb1k1r2g24r5b1k1lb3~x2/"><circle cx="209.5" cy="52.1" r="4" fill="#3465a4"><title>Dundas, (Red)</title></circle></a><a href="/variants/s16/k2g12r2k2r2k2r16y2r3db6r3k1g8k1r3w2~x2/"><circle cx="152.0" cy="92.4" r="4" fill="#3465a4"><title>Innes (D C Stewart)</title></circle></a><a href="/variants/s18/g4r4o1k1r19k1lb1r2db5r2lb1k1r2g24r5o1k1lb3~x2/"><circle cx="211.3" cy="52.4" r="4" fill="#3465a4"><title>Dundas (Red)</title></circle></a><a href="/variants/s22/ly3g30r7g2r1g8r1g2r7g16k18lb8r14g8r1g1r7g1r1g8r27ly3~x2/"><circle cx="207.6" cy="75.3" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><circle cx="138.9" cy="54.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

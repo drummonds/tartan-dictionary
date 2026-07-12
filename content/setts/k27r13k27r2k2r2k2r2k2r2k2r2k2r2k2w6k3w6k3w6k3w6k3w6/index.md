@@ -1,6 +1,15 @@
 ---
 title: "Angus (Paton)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Angus"
+  url: "/clan/angus/"
+- name: "Angus"
+  url: "/families/angus/"
+- name: "Angus"
+  url: "/tartans/a/an/angus/"
 ---
 This is the **Angus (Paton)** sett — one scale-free proportion (`k27r13k27r2k2r2k2r2k2r2k2r2k2r2k2w6k3w6k3w6k3w6k3w6`), colour order pattern
 [KRKRKRKRKRKRKRKWKWKWKWKW](/stripes/krkrkrkrkrkrkrkwkwkwkwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s24/k27r13k27r2k2r2k2r2k2r2k2r2k2r2k2lb6k3lb6k3lb6k3lb6k3lb6~x2/"><circle cx="266.3" cy="94.2" r="4" fill="#3465a4"><title>Angus, Red (Fashion)</title></circle></a><a href="/variants/s18/o6g5o6k34w3k3w3k3o6k3w3k3w3k34o6g5o6k5~x2/"><circle cx="266.0" cy="102.0" r="4" fill="#3465a4"><title>Woodberry Forest School</title></circle></a><a href="/variants/s16/dy21k2w2dy2k2dy2w2k2dy2k2dy2w6dy2k2dy3k20~x2/"><circle cx="193.1" cy="102.3" r="4" fill="#3465a4"><title>Corps Suevia Heidelburg</title></circle></a><a href="/variants/s14/k4lb2k2n14lb2k2lb2k4n2k16lb2k2lb1k4~x2/"><circle cx="275.3" cy="125.6" r="4" fill="#3465a4"><title>Drummond (Grey) Clan Tartan</title></circle></a><a href="/variants/s22/r4k2r11k14r2w2k2r2k10w4k50w4k10r2k2w2r2k14r11k2r4w2~x2/"><circle cx="352.4" cy="62.9" r="4" fill="#3465a4"><title>Knights Templar Dress</title></circle></a><a href="/variants/s22/y2w15dp10k23y2k23dp10k15y2w2y2k15dp10k23y2k2w2k23dp10w15y2w2~x2/"><circle cx="217.4" cy="123.4" r="4" fill="#3465a4"><title>Freger (Corporate)</title></circle></a><a href="/variants/s25/k6dr5k5dr5k5dr5k12w2k2w2k12dr5k38dr21k6dr21w2k12w2k12dr3w2dr3w2k6/"><circle cx="306.8" cy="100.2" r="4" fill="#3465a4"><title>Amstartan</title></circle></a><a href="/variants/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/"><circle cx="286.0" cy="103.6" r="4" fill="#3465a4"><title>Hebrides #12</title></circle></a><a href="/variants/s12/k20o4k20ly2o2ly7k2o2ly2o7ly2o2~x4/"><circle cx="264.0" cy="145.2" r="4" fill="#3465a4"><title>Black Forest</title></circle></a><a href="/variants/s12/k20o2ly2o7ly2o2k2ly7o2ly2k20o4~x4/"><circle cx="264.0" cy="145.2" r="4" fill="#3465a4"><title>Black Forest (Fashion)</title></circle></a><circle cx="260.5" cy="93.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

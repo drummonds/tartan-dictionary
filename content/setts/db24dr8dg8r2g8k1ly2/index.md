@@ -1,6 +1,11 @@
 ---
 title: "Scout Mapping Service #1 (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Scout Mapping Service"
+  url: "/tartans/s/sc/scout-mapping-service-2/"
 ---
 This is the **Scout Mapping Service #1 (Corporate)** sett — one scale-free proportion (`db24dr8dg8r2g8k1ly2`), colour order pattern
 [BBGRGKY](/stripes/bbgrgky/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="230.0" cy="140.2" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s6/dg10w2k10dy10db35r6~x2/"><circle cx="220.8" cy="154.3" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s9/g28r4k3n2k1dg2r3db20y2~x2/"><circle cx="194.4" cy="78.7" r="4" fill="#3465a4"><title>Stirling University Corporate Tartan</title></circle></a><a href="/variants/s7/r4lr1g6gi25k8db15lr2~x2~gi2004173/"><circle cx="176.7" cy="131.9" r="4" fill="#3465a4"><title>Jones Personal Tartan</title></circle></a><a href="/variants/s8/dbi11db5g4w3r3k16db28lb2~x2~dbi1605267-db1404245/"><circle cx="159.3" cy="125.1" r="4" fill="#3465a4"><title>Scottish Italian</title></circle></a><a href="/variants/s7/r3w2dy10dg37k12db21w2~x2~dy1703114-dg1304144/"><circle cx="191.4" cy="141.9" r="4" fill="#3465a4"><title>Jones, The</title></circle></a><a href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142-db1406275/"><circle cx="184.3" cy="133.8" r="4" fill="#3465a4"><title>Jones</title></circle></a><a href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142/"><circle cx="180.4" cy="133.2" r="4" fill="#3465a4"><title>Jones (Name)</title></circle></a><a href="/variants/s8/g20db2w2db12dp29r1dp1k3~x2/"><circle cx="223.0" cy="103.2" r="4" fill="#3465a4"><title>Longhaugh Primary School</title></circle></a><a href="/variants/s9/dr3ti16k12g2k2dg32t2dg2lr3~x2~ti2503227-t2405244/"><circle cx="178.1" cy="101.8" r="4" fill="#3465a4"><title>Scottish Ambulance Service (Corporat</title></circle></a><circle cx="192.8" cy="116.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

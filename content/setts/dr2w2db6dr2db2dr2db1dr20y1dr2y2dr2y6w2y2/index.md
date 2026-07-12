@@ -1,6 +1,11 @@
 ---
 title: "Winthrop University"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Winthrop University"
+  url: "/tartans/w/wi/winthrop-university/"
 ---
 This is the **Winthrop University** sett — one scale-free proportion (`dr2w2db6dr2db2dr2db1dr20y1dr2y2dr2y6w2y2`), colour order pattern
 [BWBBBBBBGBGBGWG](/stripes/bwbbbbbbgbgbgwg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/dr2w2db6dr2db2dr2db1dr20ly1dr2ly2dr2ly6w2ly2~x2/"><circle cx="339.2" cy="137.1" r="4" fill="#3465a4"><title>Winthrop University (Corporate)</title></circle></a><a href="/variants/s18/dr21ly1dr21g8db4g5db4g4ly4g4db4g5db4g8dr21ly1dr21ly4~x2~db1204274/"><circle cx="356.0" cy="156.3" r="4" fill="#3465a4"><title>Rice of Wales</title></circle></a><a href="/variants/s18/db16dr1db2dr3db1dr9db1dr3db2dr1db6dg3lb3dg5dr28w3dr3w3~x2/"><circle cx="327.9" cy="105.4" r="4" fill="#3465a4"><title>Royal Bahrain (Royal)</title></circle></a><a href="/variants/s10/ly4dr21ly1dr21g8db4g5db4g4ly4~db1204274/"><circle cx="337.2" cy="175.0" r="4" fill="#3465a4"><title>Rice (Welsh Name)</title></circle></a><a href="/variants/s13/w1ly2dr15db2dr2db15dr2g15dr2db2dr15ly2w1~x2/"><circle cx="270.1" cy="156.0" r="4" fill="#3465a4"><title>Robbie (Commemorative)</title></circle></a><a href="/variants/s12/do44ly5dr8ly2dr2ly2dr2ly14dy9dr2dy4ly2~x2/"><circle cx="310.9" cy="136.2" r="4" fill="#3465a4"><title>Waverly Check Corporate Tartan</title></circle></a><a href="/variants/s9/do22ly11dg2ly4dg2ly6dg16do42lr6~x2/"><circle cx="354.4" cy="171.8" r="4" fill="#3465a4"><title>Kenmore (Fashion)</title></circle></a><a href="/variants/s11/n36dr10ly2dr5g2dr5ly10n5ly2n10w2~x2/"><circle cx="366.6" cy="155.2" r="4" fill="#3465a4"><title>Toyokawa Check</title></circle></a><a href="/variants/s8/dg2ly1dg11dr50ly12db2ly4db2~x2/"><circle cx="412.2" cy="94.3" r="4" fill="#3465a4"><title>Slessor (Personal)</title></circle></a><a href="/variants/s9/dt44y8dt8y22lb4y4lb11y2w2~x2~dt1100000-y2200000/"><circle cx="342.7" cy="169.5" r="4" fill="#3465a4"><title>Titanium</title></circle></a><circle cx="349.7" cy="133.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

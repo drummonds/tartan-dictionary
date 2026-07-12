@@ -1,6 +1,15 @@
 ---
 title: "Clark (Clerke/Clergy/Priest)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Clark"
+  url: "/clan/clark/"
+- name: "Clark"
+  url: "/families/clark/"
+- name: "Clark"
+  url: "/tartans/c/cl/clark/"
 ---
 This is the **Clark (Clerke/Clergy/Priest)** sett — one scale-free proportion (`k4lb4db14k15lb4k15lb4db7lb4db10lb4`), colour order pattern
 [KWBKWKWBWBW](/stripes/kwbkwkwbwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k2lb2db10k10lb2k10lb2db3lb2db5lb2~x2/"><circle cx="176.1" cy="214.6" r="4" fill="#3465a4"><title>Clergy Blue Tartan</title></circle></a><a href="/variants/s11/k1lb1db6k6lb1k6lb1db2lb1db3lb1~x2/"><circle cx="195.2" cy="203.6" r="4" fill="#3465a4"><title>Clergy (Smith)</title></circle></a><a href="/variants/s11/k1lb1db6k6lb1k6lb1db2lb1db3lb1~x4/"><circle cx="195.2" cy="203.6" r="4" fill="#3465a4"><title>Clergy (Smith)</title></circle></a><a href="/variants/s11/k1lb1db6k6lp1k6lb1db2lb1db3lb1~x2/"><circle cx="175.8" cy="189.9" r="4" fill="#3465a4"><title>Clergy &quot;Two Spirit&quot; (Personal)</title></circle></a><a href="/variants/s11/db4w4db19k19w4k19w4db7w4db11w4~x2/"><circle cx="152.1" cy="218.8" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s11/k4w4db19k19w4k19w4db7w4db11w4~x2/"><circle cx="154.5" cy="218.0" r="4" fill="#3465a4"><title>Clark Family Tartan</title></circle></a><a href="/variants/s11/k3lo2b14k14lb2k14lb2b6lb2b16lb3~x2/"><circle cx="187.3" cy="178.4" r="4" fill="#3465a4"><title>Immanuel Presbyterian Church (Corp)</title></circle></a><a href="/variants/s10/db4w1dy1k2db4dy2w1dy1w1dy1~x4/"><circle cx="131.4" cy="224.5" r="4" fill="#3465a4"><title>City of Pointe-Claire</title></circle></a><a href="/variants/s16/db10k2db2k4t5k6t6k4t6k6t5k4db2k2db10k4~x4~db1406275/"><circle cx="142.5" cy="235.2" r="4" fill="#3465a4"><title>Saul (Personal)</title></circle></a><a href="/variants/s9/k4db1k1db1k1db4r2db4w2~x4/"><circle cx="160.2" cy="230.3" r="4" fill="#3465a4"><title>Broz Sanz Elementary (Corporate)</title></circle></a><circle cx="134.9" cy="242.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

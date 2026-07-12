@@ -1,6 +1,11 @@
 ---
 title: "Tyneside Scottish (Green)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Tyneside Scottish"
+  url: "/tartans/t/ty/tyneside-scottish-2/"
 ---
 This is the **Tyneside Scottish (Green)** sett — one scale-free proportion (`dy11y1dy1y1dy1y8g8y1g8y8dy8y1dy1`), colour order pattern
 [GGGGGGGGGGGGG](/stripes/ggggggggggggg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dt32g3dt3g3dt3g26y26g3y26g26dt24g3~x2/"><circle cx="313.6" cy="251.6" r="4" fill="#3465a4"><title>MacIver Family (Personal)</title></circle></a><a href="/variants/s12/dg26o2dg2o2g19o28g3o28g19dg22o2dg2~x2/"><circle cx="310.9" cy="214.8" r="4" fill="#3465a4"><title>78th Highlanders (Fraser) (Mil.)</title></circle></a><a href="/variants/s14/do22g26dr4g26do22dy3do3dy3do3dy31do3dy3do3dy3~x2/"><circle cx="323.3" cy="225.3" r="4" fill="#3465a4"><title>Devarr</title></circle></a><a href="/variants/s8/y12dg2y2dg2y2dy8g8dy1~x2/"><circle cx="343.2" cy="249.3" r="4" fill="#3465a4"><title>Ancient Universal (Fashion?)</title></circle></a><a href="/variants/s13/t8dy1t1dy1t1dy8g8dy1g8dy8t8dy1t1~x6/"><circle cx="288.4" cy="251.3" r="4" fill="#3465a4"><title>Tyneside Scottish (Blue)</title></circle></a><circle cx="331.7" cy="241.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

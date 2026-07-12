@@ -1,6 +1,15 @@
 ---
 title: "Strathisla"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Strathisla"
+  url: "/clan/strathisla/"
+- name: "Strathisla"
+  url: "/families/strathisla/"
+- name: "Strathisla"
+  url: "/tartans/s/st/strathisla-2/"
 ---
 This is the **Strathisla** sett — one scale-free proportion (`dbi8g8db12r3dp20g3db20dbi3db20lb2db20dbi3db20g3dp20r3db12g8`), colour order pattern
 [BGBRBGBBBWBBBGBRBG](/stripes/bgbrbgbbbwbbbgbrbg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s19/g2db5g3r2db11r2db11dg18db11r2db11r2g3r11db3dg5db3r5b2~x2~r1707016-dg1503171/"><circle cx="277.4" cy="187.8" r="4" fill="#3465a4"><title>Jorgensen of Taasinge Family Tartan</title></circle></a><a href="/variants/s10/dbi8g8db12r3dp20g3db20dbi3db20lb2~x2~dbi1406275-db1305255/"><circle cx="307.8" cy="209.2" r="4" fill="#3465a4"><title>Strathisla (District)</title></circle></a><a href="/variants/s11/dg4r1dg1y1db6y1dbi9y1dbi9w1lb3~x4~db1204274-dbi1406275/"><circle cx="242.6" cy="133.4" r="4" fill="#3465a4"><title>Knox #2</title></circle></a><a href="/variants/s15/db6y2yi24db4yi8db6yi6db8yi3db10n14db4r3db34lb4~yi2400000-n1700000/"><circle cx="298.8" cy="139.1" r="4" fill="#3465a4"><title>MatchPoint Dress</title></circle></a><a href="/variants/s17/db2dbi2t4db2t6lr4t5db2dbi4db6dbi4n2db2dbi12db2dbi3r1~x2~db1106275-dbi1406275-t2302222-lr2800000/"><circle cx="233.6" cy="187.8" r="4" fill="#3465a4"><title>Fulbright, Senator (Personal)</title></circle></a><a href="/variants/s16/db4dt24db6r3db4g3db8w3db8g3db4r3db6dt24db4dt3~x2~db1406275/"><circle cx="292.4" cy="185.8" r="4" fill="#3465a4"><title>Scozia</title></circle></a><a href="/variants/s21/dbi22db2dbi4db2dbi4db8w2db2w2db10r5y2r5db10w2db2w2db8dbi18db2dbi4~x2~dbi1406275-db1404245/"><circle cx="257.3" cy="154.8" r="4" fill="#3465a4"><title>Tartan Army Corporate/Sport Tartan</title></circle></a><a href="/variants/s15/db6dy2o24db4o8db6o6db6o3db10n14db4r3db34lb4~o2500000-n1900000/"><circle cx="283.7" cy="132.6" r="4" fill="#3465a4"><title>Matchpoint Dress</title></circle></a><a href="/variants/s11/db4n32db4n4db32m6db32dg4db3dg32w4/"><circle cx="289.0" cy="189.0" r="4" fill="#3465a4"><title>American Society of Travel Agents, The (2001)</title></circle></a><circle cx="294.3" cy="180.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

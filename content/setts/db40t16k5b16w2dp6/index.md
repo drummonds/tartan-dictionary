@@ -1,6 +1,11 @@
 ---
 title: "MacFarland-Collins (Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "MacFarland-Collins"
+  url: "/tartans/m/ma/macfarland-collins/"
 ---
 This is the **MacFarland-Collins (Name)** sett — one scale-free proportion (`db40t16k5b16w2dp6`), colour order pattern
 [BBKBWB](/stripes/bbkbwb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/t12db35lb4w3k11dr5~x2/"><circle cx="196.9" cy="157.0" r="4" fill="#3465a4"><title>Ferster, James Carney (Personal)</title></circle></a><a href="/variants/s6/t26k10db19dr6dy2dbi9~x2~db1404245-dbi1704245/"><circle cx="155.7" cy="197.4" r="4" fill="#3465a4"><title>Meeson Dress Personal Tartan</title></circle></a><a href="/variants/s6/db40b16k5dt16w2dp6~x2/"><circle cx="264.2" cy="164.4" r="4" fill="#3465a4"><title>McFarland-Collins</title></circle></a><a href="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/"><circle cx="251.3" cy="147.5" r="4" fill="#3465a4"><title>Shearer (2016)</title></circle></a><a href="/variants/s6/dp4k3b18r3db34w3~x2/"><circle cx="256.0" cy="155.5" r="4" fill="#3465a4"><title>Margach, William (Dumbarton)</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="279.2" cy="129.2" r="4" fill="#3465a4"><title>Marion (Personal)</title></circle></a><a href="/variants/s6/m4k3t18r3db34w3~x2~m2009341-r2108022/"><circle cx="239.2" cy="149.8" r="4" fill="#3465a4"><title>Margach, William (Personal)</title></circle></a><a href="/variants/s7/db40dr3k10lo2lb15w2lb4~x2/"><circle cx="231.7" cy="108.9" r="4" fill="#3465a4"><title>U.S. Forces Thurso (Military)</title></circle></a><a href="/variants/s5/r2db16k11b19y2~x2/"><circle cx="163.0" cy="210.3" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/variants/s7/dbi49g3k22r2t33db3t7~x2~dbi1406275-db1106275/"><circle cx="205.7" cy="124.0" r="4" fill="#3465a4"><title>U.S. 2001 Air Force (Military?)</title></circle></a><circle cx="241.9" cy="157.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

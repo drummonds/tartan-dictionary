@@ -1,6 +1,9 @@
 ---
 title: "Clan MacDonald of Glencoe"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 **Territory:** Glencoe · **1745 strength:** 150 men
 

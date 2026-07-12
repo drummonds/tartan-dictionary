@@ -1,8 +1,11 @@
 ---
 title: "Clan Casey"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
-*A clan defined by its tartans — the dictionary holds no separate clan history for it, only the cloth that carries its name.*
+Irish name tartan from Scotch Corner of Gateshead, woven by Marton Mills for Naxos Fashion & Schoolwear.
 
 ## Tartan
 

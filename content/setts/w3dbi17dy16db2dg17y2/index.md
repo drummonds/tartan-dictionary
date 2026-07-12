@@ -1,6 +1,15 @@
 ---
 title: "Atlantic Ancient Trade Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Atlantic"
+  url: "/clan/atlantic/"
+- name: "Atlantic"
+  url: "/families/atlantic/"
+- name: "Atlantic"
+  url: "/tartans/a/at/atlantic-2/"
 ---
 This is the **Atlantic Ancient Trade Tartan** sett — one scale-free proportion (`w3dbi17dy16db2dg17y2`), colour order pattern
 [GGBGBW](/stripes/ggbgbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb3db17do16dt2dg17lo2~x2/"><circle cx="219.9" cy="245.9" r="4" fill="#3465a4"><title>Ancient Atlantic (Fashion)</title></circle></a><a href="/variants/s6/w3dbi17o16db2dg17y2~x2~dbi1604274-db0805267/"><circle cx="160.0" cy="216.6" r="4" fill="#3465a4"><title>Atlantic, Ancient</title></circle></a><a href="/variants/s5/db32dy16g3lo4dg28~x2/"><circle cx="294.2" cy="262.8" r="4" fill="#3465a4"><title>Corey in Balachuirn</title></circle></a><a href="/variants/s5/t32dy16g3lo4dg28~x2/"><circle cx="262.4" cy="255.0" r="4" fill="#3465a4"><title>Corey (Name)</title></circle></a><a href="/variants/s7/db1y7w1b7g7dr7w1~x2/"><circle cx="112.8" cy="240.3" r="4" fill="#3465a4"><title>Kipp</title></circle></a><a href="/variants/s7/g21db21y3r21n3dp5n3~x2/"><circle cx="122.4" cy="206.8" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/variants/s7/y1db5g1n7dp2n1w1~x4/"><circle cx="242.2" cy="219.6" r="4" fill="#3465a4"><title>Deeside District Tartan</title></circle></a><a href="/variants/s7/y1b5g1n7dp2n1w1~x4/"><circle cx="274.2" cy="231.8" r="4" fill="#3465a4"><title>Deeside</title></circle></a><a href="/variants/s7/y4b22g4n24dp6n4w3~x2/"><circle cx="284.8" cy="231.2" r="4" fill="#3465a4"><title>Deeside Plaid (Taobh Dhi) (District)</title></circle></a><a href="/variants/s8/db17w2db2r2db2do12dg16y3~x4/"><circle cx="214.9" cy="200.2" r="4" fill="#3465a4"><title>Blairmore House</title></circle></a><circle cx="209.6" cy="241.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

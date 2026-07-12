@@ -1,6 +1,15 @@
 ---
 title: "MacLean of Duart"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Maclean"
+  url: "/clan/maclean/"
+- name: "MacLean of Duart"
+  url: "/families/maclean-of-duart/"
+- name: "MacLean of Duart"
+  url: "/tartans/m/ma/maclean-of-duart-2/"
 ---
 This is the **MacLean of Duart** sett — one scale-free proportion (`n9lb5k8y2k4w4k4g31r50lb4r4k3`), colour order pattern
 [BWKGKWKGRWRK](/stripes/bwkgkwkgrwrk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/do9lb5k8y2k4w4k4g28r44lb4r5k3~x2/"><circle cx="139.5" cy="63.0" r="4" fill="#3465a4"><title>MacLean (rare)</title></circle></a><a href="/variants/s11/lb8k4y1k2w3k2g12r24lb2r3k2~x2/"><circle cx="164.3" cy="79.2" r="4" fill="#3465a4"><title>MacLean of Duart #2</title></circle></a><a href="/variants/s11/lb16k12y4k4w6k4g32r50lb6r8k3/"><circle cx="136.3" cy="99.2" r="4" fill="#3465a4"><title>MacLean of Duart #3</title></circle></a><a href="/variants/s11/lb16k12y4k4w6k4dg32r50lb6r8k3/"><circle cx="137.2" cy="96.9" r="4" fill="#3465a4"><title>Maclean of Duart (Wilsons) (Clan)</title></circle></a><a href="/variants/s11/lb13k6y2k3w4k3g22r31lb3r4k2~x2/"><circle cx="125.0" cy="102.3" r="4" fill="#3465a4"><title>MacLean of Duart #4</title></circle></a><a href="/variants/s11/lb14k8y2k3w4k3g21r48lb4r5k3~x2/"><circle cx="189.6" cy="72.1" r="4" fill="#3465a4"><title>MacLean of Duart #5</title></circle></a><a href="/variants/s12/db4lb1k3y1k1w1k1g8r12lb1r2k1~x4/"><circle cx="103.5" cy="91.8" r="4" fill="#3465a4"><title>MacLean of Duart #6</title></circle></a><a href="/variants/s12/db4lb1k3y1k1w1k1g8r12lb1r2k1~x2/"><circle cx="103.5" cy="91.8" r="4" fill="#3465a4"><title>MacLean of Duart Clan Tartan</title></circle></a><a href="/variants/s13/ri25db5k5w4k2y2k2g8r6k2ri3k1w2~x2~ri2806019-r2109032/"><circle cx="125.6" cy="54.0" r="4" fill="#3465a4"><title>Mary Stewart, Queen of Scots</title></circle></a><a href="/variants/s15/r29k1lo3dg6w6r3k1r3w2dg3db5k3y5w5k4~x2/"><circle cx="147.0" cy="36.0" r="4" fill="#3465a4"><title>Elmore (Personal)</title></circle></a><circle cx="158.7" cy="54.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

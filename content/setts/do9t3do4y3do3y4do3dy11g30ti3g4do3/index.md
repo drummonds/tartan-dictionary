@@ -1,6 +1,15 @@
 ---
 title: "Harmony 2"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Harmony"
+  url: "/clan/harmony/"
+- name: "Harmony"
+  url: "/families/harmony/"
+- name: "Harmony 2"
+  url: "/tartans/h/ha/harmony-2/"
 ---
 This is the **Harmony 2** sett — one scale-free proportion (`do9t3do4y3do3y4do3dy11g30ti3g4do3`), colour order pattern
 [BBBGBGBGGBGB](/stripes/bbbgbgbggbgb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/do9lb3do4y3do3y4do3o11g30b3g4do3~x2/"><circle cx="241.3" cy="164.6" r="4" fill="#3465a4"><title>Harmony, 2</title></circle></a><a href="/variants/s14/y3dy3dg2dy6g7dg2y3dg2ly3dg5y3b3y20dy2~x2~ly2705081/"><circle cx="284.6" cy="187.6" r="4" fill="#3465a4"><title>Stewart Camel (Lochcarron)</title></circle></a><a href="/variants/s9/dg70y6n28g56n5g11n5g11lo12/"><circle cx="288.5" cy="204.9" r="4" fill="#3465a4"><title>Dalwhinnie Trade Tartan</title></circle></a><a href="/variants/s10/g12db2dr2db2dt26dg2g3dg3g24dr4~x2/"><circle cx="333.1" cy="191.1" r="4" fill="#3465a4"><title>New South Wales Waratah</title></circle></a><a href="/variants/s10/g30dp3g3dp3g3dp10dg10y20lp2dg5~x2~dg1803133-y2302138/"><circle cx="303.5" cy="205.7" r="4" fill="#3465a4"><title>Roddy's Highland Spirit (Fashion)</title></circle></a><a href="/variants/s9/dg70y6n28g56n5g11n5g11b12/"><circle cx="310.9" cy="213.3" r="4" fill="#3465a4"><title>Dalwhinnie</title></circle></a><a href="/variants/s15/dg12g2dg2g7y4b2y8b2y4g7dg2g2dg16w2dg4~x2~dg1304144-g2104115/"><circle cx="298.7" cy="222.2" r="4" fill="#3465a4"><title>Confessore</title></circle></a><a href="/variants/s8/dr4g46dr10db10dy33db5dy4ly3~x2/"><circle cx="276.5" cy="191.7" r="4" fill="#3465a4"><title>State Seal of Minnesota (Fashion)</title></circle></a><a href="/variants/s7/dg3dy2g12y11lb1dg1ly3~x2/"><circle cx="257.8" cy="214.7" r="4" fill="#3465a4"><title>Braemar House</title></circle></a><a href="/variants/s8/g7ly2g5dg37db6dr16db5t2~x2/"><circle cx="313.0" cy="173.3" r="4" fill="#3465a4"><title>Telfer Green (Name)</title></circle></a><circle cx="264.6" cy="180.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

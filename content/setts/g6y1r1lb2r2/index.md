@@ -1,6 +1,11 @@
 ---
 title: "Wilson's No.179"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Wilson's No.179"
+  url: "/tartans/w/wi/wilson-s-no-179/"
 ---
 This is the **Wilson's No.179** sett — one scale-free proportion (`g6y1r1lb2r2`), colour order pattern
 [GGRWRWRG](/stripes/ggrwrwrg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r2g17r8db8y2~x4/"><circle cx="248.6" cy="240.7" r="4" fill="#3465a4"><title>British Hills</title></circle></a><a href="/variants/s4/lb2r4g5y1~x4/"><circle cx="223.7" cy="299.7" r="4" fill="#3465a4"><title>Wilson's No.203</title></circle></a><a href="/variants/s7/r2ly1t8r1g7ly1r2~x6/"><circle cx="241.7" cy="234.1" r="4" fill="#3465a4"><title>Cercle de Fermieres de St-Elie . . .</title></circle></a><a href="/variants/s7/r2y1db8r1g7y1r2~x6/"><circle cx="200.3" cy="214.8" r="4" fill="#3465a4"><title>Cercle de Fermières de Saint-Élie d'Orford</title></circle></a><a href="/variants/s7/db9r3y1r3g9r3y1~x2/"><circle cx="182.8" cy="222.3" r="4" fill="#3465a4"><title>Logan #2</title></circle></a><a href="/variants/s8/g9y2g9w5r9lb2r9lb2~x2/"><circle cx="163.5" cy="257.2" r="4" fill="#3465a4"><title>Blackie</title></circle></a><a href="/variants/s6/r3w8db4g14r4db2~x2/"><circle cx="163.4" cy="236.5" r="4" fill="#3465a4"><title>MacIntosh Dress Clan Tartan</title></circle></a><a href="/variants/s8/n2o2n15o2w10oi15o2oi2~x2~o2102055-oi2104058/"><circle cx="225.4" cy="225.5" r="4" fill="#3465a4"><title>Bannockbane, Grey</title></circle></a><a href="/variants/s9/dg3lb12dg10lb6dg8g6dg8o23oi3~x2~dg1806142-g2408144-o2005046-oi2007033/"><circle cx="187.8" cy="229.7" r="4" fill="#3465a4"><title>Lawrence's Seven Pillars of Khaki</title></circle></a><a href="/variants/s6/r8b1g4b1g1lb2~x2/"><circle cx="277.0" cy="222.7" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><circle cx="210.6" cy="241.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,13 @@
 ---
 title: "Washington Stockmens"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Washington"
+  url: "/clan/washington/"
+- name: "Washington Stockmens"
+  url: "/tartans/w/wa/washington-stockmens/"
 ---
 This is the **Washington Stockmens** sett — one scale-free proportion (`db4n3db4n19k2n3k2n12db4n3db4n3k1n2dy1n2dy1n2k1n3`), colour order pattern
 [BBBBKBKBBBBBKBGBGBKBKBGBGBKBBBBBKBKBBB](/stripes/bbbbkbkbbbbbkbgbgbkbkbgbgbkbbbbbkbkbbb/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/db4n3db4n19k2n3k2n12db4n3db4n3k1n2y1n2y1n2k1n3~x4/"><circle cx="413.6" cy="122.6" r="4" fill="#3465a4"><title>Washington, Stockman</title></circle></a><circle cx="406.3" cy="95.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

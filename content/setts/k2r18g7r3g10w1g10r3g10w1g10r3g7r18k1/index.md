@@ -1,6 +1,15 @@
 ---
 title: "MacAulay"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacAulay"
+  url: "/clan/macaulay/"
+- name: "MacAulay"
+  url: "/families/macaulay/"
+- name: "MacAulay"
+  url: "/tartans/m/ma/macaulay-2/"
 ---
 This is the **MacAulay** sett — one scale-free proportion (`k2r18g7r3g10w1g10r3g10w1g10r3g7r18k1`), colour order pattern
 [KRGRGWGRGWGRGRK](/stripes/krgrgwgrgwgrgrk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r12db2r3g20k4g20r30k2r1~x2~db1406275/"><circle cx="266.0" cy="107.4" r="4" fill="#3465a4"><title>Oriel #1</title></circle></a><a href="/variants/s13/w3k1g19r4g3r11g5r11g3r4g19k1ly3~x2/"><circle cx="288.6" cy="129.2" r="4" fill="#3465a4"><title>Bruce Hunting (Clan)</title></circle></a><a href="/variants/s13/y3k1g19r4g3r11g5r11g3r4g19k1w3~x2/"><circle cx="293.6" cy="130.8" r="4" fill="#3465a4"><title>Bruce Hunting</title></circle></a><a href="/variants/s8/r3g9w1g9r3g6r18k2~x2/"><circle cx="280.5" cy="165.7" r="4" fill="#3465a4"><title>Cumming #2</title></circle></a><a href="/variants/s12/r24k2g8k2r8k1g24db6k2r14g18k4~x2/"><circle cx="231.4" cy="130.5" r="4" fill="#3465a4"><title>Grant, Piper to the Laird of</title></circle></a><a href="/variants/s10/g12r3k1r3k1r4g16r20g2r8~x2/"><circle cx="346.2" cy="157.6" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/variants/s12/g4r3k1r28g14r4g4w3g4r4g4w3~x2~w4000000/"><circle cx="307.1" cy="106.6" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s10/g12r4k1r2k1r4g16r20g2r8~x2/"><circle cx="346.3" cy="157.4" r="4" fill="#3465a4"><title>Livingstone #2</title></circle></a><a href="/variants/s18/r16g8r2g2w2g2r2g2w2g2r2g8r16k1r2g3r2k1~x2/"><circle cx="302.7" cy="111.2" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s14/r6g4y2g17r2g2r2g8r26g6r4k2r4w6~x2/"><circle cx="242.4" cy="125.4" r="4" fill="#3465a4"><title>Hay</title></circle></a><circle cx="282.5" cy="142.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

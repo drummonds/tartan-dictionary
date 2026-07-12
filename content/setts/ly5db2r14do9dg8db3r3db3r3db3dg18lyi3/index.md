@@ -1,6 +1,11 @@
 ---
 title: "Meath, County"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Meath, County"
+  url: "/tartans/m/me/meath-county/"
 ---
 This is the **Meath, County** sett — one scale-free proportion (`ly5db2r14do9dg8db3r3db3r3db3dg18lyi3`), colour order pattern
 [YBRBGBRBRBGY](/stripes/ybrbgbrbrbgy/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dg18ri4dg4r6dg28dp28r4lb3y4lb13r6~ri2806019-r2109032/"><circle cx="175.4" cy="164.0" r="4" fill="#3465a4"><title>Unidentified (Woven sample)</title></circle></a><a href="/variants/s14/db24g4dg2g8dg2g4db12g3r22y3b8g3r22y6~x2/"><circle cx="157.3" cy="146.2" r="4" fill="#3465a4"><title>Devon 2000</title></circle></a><a href="/variants/s12/lo5t2o14do9dg8t3o3t3o3t3dg19lr3~x2/"><circle cx="167.9" cy="179.9" r="4" fill="#3465a4"><title>Meath Irish County Tartan</title></circle></a><a href="/variants/s14/db24g4dg2g8dg2g4db12g3r22dy3lb8g3r22dy6~x2/"><circle cx="147.4" cy="142.6" r="4" fill="#3465a4"><title>Devon 2000</title></circle></a><a href="/variants/s18/db12dg4r2y3g4dg4r20w4r14dg4g4y3r2dg4db12y2db8y2~x2~dg1503152-g2407139/"><circle cx="131.5" cy="144.3" r="4" fill="#3465a4"><title>Béguinot, Stéphane (Personal)</title></circle></a><a href="/variants/s7/r24w3y4dg18dp18g3lb4~x2/"><circle cx="103.7" cy="166.2" r="4" fill="#3465a4"><title>Walter (Personal)</title></circle></a><a href="/variants/s10/lo3do2n18lb3o13lb4k3lb4do18lb3~x2/"><circle cx="109.8" cy="167.9" r="4" fill="#3465a4"><title>Leitrim, County</title></circle></a><a href="/variants/s13/dg8lo2dg4r4dg13w2dy13w2db13r4db3r2db8~x2/"><circle cx="115.2" cy="192.7" r="4" fill="#3465a4"><title>Bowie (white lines) (Name)</title></circle></a><a href="/variants/s18/t12dg4r2dy3g4dg4r20w4r14dg4g4dy3r2dg4t12dy2t8dy2~x2~dg1806142-g2408144/"><circle cx="147.7" cy="154.1" r="4" fill="#3465a4"><title>Beguinot, (Personal)</title></circle></a><a href="/variants/s12/y3g15r2db8lb2r8g8r2dg15r2dg2lb2~x2/"><circle cx="125.5" cy="180.3" r="4" fill="#3465a4"><title>Gordonstoun Corporate Tartan</title></circle></a><circle cx="150.3" cy="175.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Muzzi, Massimiliano Baron of Striche"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Muzzi, Massimiliano Baron of Striche"
+  url: "/tartans/m/mu/muzzi-massimiliano-baron-of-striche/"
 ---
 This is the **Muzzi, Massimiliano Baron of Striche** sett — one scale-free proportion (`ly2n1r19k2r8k3g9k3g6k2db6k1db5k2r27w1`), colour order pattern
 [WRKBKBKGKGKRKRBY](/stripes/wrkbkbkgkgkrkrby/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/y2n1r19k2r8k3g9k3g6k2db6k1db5k2r27w1~x2/"><circle cx="225.7" cy="42.3" r="4" fill="#3465a4"><title>Muzzi, Massimiliano, baron of Strichen Dress (Personal)</title></circle></a><a href="/variants/s15/r3g1r2g1r18k4y1k2w1db4g6r3k1r2w1~x2/"><circle cx="233.1" cy="66.1" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #4</title></circle></a><a href="/variants/s11/r8db1r31dg2k8ly1k2w1db10k6w2~x2~k0700000/"><circle cx="245.6" cy="48.2" r="4" fill="#3465a4"><title>Field Marshall Montgomery PB (Corp)</title></circle></a><a href="/variants/s18/r11lb3db18y1db2w1k1g18r3k1r2k3r2k1r40k1r2k3~x2/"><circle cx="240.1" cy="14.0" r="4" fill="#3465a4"><title>MacRae of Ardentoul Artifact Tartan</title></circle></a><a href="/variants/s14/ly4g4db8r8g8r27k3w1r27lb6g8db8g4ly4~x2/"><circle cx="205.1" cy="72.6" r="4" fill="#3465a4"><title>West Virginia</title></circle></a><a href="/variants/s12/k3r24k4y1k2w1db4g6r3k1r2w1~x2/"><circle cx="248.6" cy="52.7" r="4" fill="#3465a4"><title>Stewart of Galloway</title></circle></a><a href="/variants/s15/dg10r3k2r3dg10r8k2y1b1y1k2r20dg4r8w1~x2/"><circle cx="257.6" cy="84.0" r="4" fill="#3465a4"><title>Livingstone (Australia) Official</title></circle></a><a href="/variants/s23/k1y1k2g1k1g10db8r10g2r10g2r30g2r10g2r10db8g10k1g1k2w1k1~x2/"><circle cx="252.3" cy="39.1" r="4" fill="#3465a4"><title>Wood Dress</title></circle></a><a href="/variants/s12/k3r24k4ly1k2w1db4dg6r3k1r2w1~x4/"><circle cx="250.2" cy="52.0" r="4" fill="#3465a4"><title>Stewart of Galloway - 1842 (Clan)</title></circle></a><a href="/variants/s22/r24k4ly1k2w1db4dg6r3k1r2w1r2k1r3dg6db4w1k2ly1k4r24k3~x4~dg1605139/"><circle cx="251.8" cy="29.9" r="4" fill="#3465a4"><title>Stewart/Stuart of Galloway (VS)</title></circle></a><circle cx="223.5" cy="41.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

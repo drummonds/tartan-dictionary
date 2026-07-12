@@ -1,6 +1,15 @@
 ---
 title: "Frame (Edinburgh) (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Frame"
+  url: "/clan/frame/"
+- name: "Frame"
+  url: "/families/frame/"
+- name: "Frame"
+  url: "/tartans/f/fr/frame/"
 ---
 This is the **Frame (Edinburgh) (Personal)** sett — one scale-free proportion (`k16g15k4lb12k22w2k6`), colour order pattern
 [KGKWKWK](/stripes/kgkwkwk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k25y5k5g25k25t3k10~x2/"><circle cx="288.8" cy="196.6" r="4" fill="#3465a4"><title>London Community Gospel Choir</title></circle></a><a href="/variants/s9/k1g8k9r1k1r1k9db8r1~x6/"><circle cx="207.2" cy="173.2" r="4" fill="#3465a4"><title>Guthrie Family Tartan</title></circle></a><a href="/variants/s9/k1g12k12r1k1r1k12t12r1~x4/"><circle cx="199.4" cy="157.7" r="4" fill="#3465a4"><title>Guthrie (Name)</title></circle></a><a href="/variants/s6/k42w5k5dg16k5db21~x2/"><circle cx="252.0" cy="197.3" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><a href="/variants/s8/r1k7g7k7db7k7r1w1~x4/"><circle cx="183.7" cy="197.2" r="4" fill="#3465a4"><title>Tennent (Personal)</title></circle></a><a href="/variants/s6/k20lb2k6g16dp4k9~x2/"><circle cx="264.8" cy="197.7" r="4" fill="#3465a4"><title>Wilson's, No 167</title></circle></a><a href="/variants/s6/k20lb2k6g16dp4k9~x2~dp1105325/"><circle cx="193.4" cy="181.5" r="4" fill="#3465a4"><title>Wilson's No.167</title></circle></a><a href="/variants/s6/k88b17k8g28k8r6~x2/"><circle cx="338.1" cy="147.1" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/variants/s6/k5g23k18db21k33db3~x2/"><circle cx="253.7" cy="225.4" r="4" fill="#3465a4"><title>Black Watch (variation)</title></circle></a><a href="/variants/s5/k2g11k26t11k2~x2/"><circle cx="277.7" cy="195.2" r="4" fill="#3465a4"><title>Campbell of Loch Awe (Clan)</title></circle></a><circle cx="243.9" cy="191.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

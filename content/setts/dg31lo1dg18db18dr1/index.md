@@ -1,6 +1,11 @@
 ---
 title: "Miramichi"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Miramichi"
+  url: "/tartans/m/mi/miramichi/"
 ---
 This is the **Miramichi** sett — one scale-free proportion (`dg31lo1dg18db18dr1`), colour order pattern
 [BBGYG](/stripes/bbgyg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/dg6db2dg1~x8/"><circle cx="584.6" cy="364.3" r="4" fill="#3465a4"><title>Montgomery - 1842 (VS</title></circle></a><a href="/variants/s5/dr2dg8db27dg11do2~x2/"><circle cx="519.1" cy="278.6" r="4" fill="#3465a4"><title>Hector, James (Corporate)</title></circle></a><a href="/variants/s6/db47dg14dp5do2dr3dg7~x2/"><circle cx="557.8" cy="217.5" r="4" fill="#3465a4"><title>Round Table (1997)</title></circle></a><a href="/variants/s5/dg42o10dg3dr10o3~x2/"><circle cx="517.3" cy="237.7" r="4" fill="#3465a4"><title>Glen Trool (Fashion)</title></circle></a><a href="/variants/s5/db4b1dg14db14dr1~x4~db0906265-b1611266/"><circle cx="476.9" cy="266.0" r="4" fill="#3465a4"><title>Wcwm 1255-1</title></circle></a><a href="/variants/s4/dg8dr1db1n1~x10/"><circle cx="622.9" cy="292.3" r="4" fill="#3465a4"><title>Jodi Williams (Personal)</title></circle></a><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><circle cx="403.7" cy="296.6" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/variants/s4/n44dg12db1r6~x2~r1406028/"><circle cx="607.1" cy="205.0" r="4" fill="#3465a4"><title>Heslop, William D Name Tartan</title></circle></a><a href="/variants/s4/n44dg12db1r6~x2/"><circle cx="580.7" cy="195.0" r="4" fill="#3465a4"><title>Heslop Lurdenlaw by Kelso</title></circle></a><a href="/variants/s5/dr6dg2b2dg17dr2~x4/"><circle cx="571.0" cy="293.7" r="4" fill="#3465a4"><title>Loton (Personal)</title></circle></a><circle cx="607.0" cy="242.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

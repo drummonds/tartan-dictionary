@@ -1,6 +1,15 @@
 ---
 title: "Kerr Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Kerr"
+  url: "/clan/kerr/"
+- name: "Kerr"
+  url: "/families/kerr/"
+- name: "Kerr Hunting"
+  url: "/tartans/k/ke/kerr-hunting/"
 ---
 This is the **Kerr Hunting** sett — one scale-free proportion (`g16k2g2k2g4k10t19k2t2k3`), colour order pattern
 [BKBKGKGKGKGKGKBKBK](/stripes/bkbkgkgkgkgkgkbkbk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g14k2g2k2g3k10db16k1db2k2~x2/"><circle cx="198.1" cy="163.4" r="4" fill="#3465a4"><title>Kerr Hunting Clan Tartan</title></circle></a><a href="/variants/s11/k1r1g6k1g1k1g1k6db9k1db1~x2/"><circle cx="155.2" cy="160.2" r="4" fill="#3465a4"><title>Louise of Lorne</title></circle></a><a href="/variants/s20/k4dg2k7t2k4dg17t2dg17k4t2k7dg2k4t4dg2t16dg2t16dg2t4~x2/"><circle cx="182.7" cy="170.7" r="4" fill="#3465a4"><title>Blackwater (Personal)</title></circle></a><a href="/variants/s15/g8k4t28k5t5k5t5k24g5k5g5k5g39r5t8/"><circle cx="146.0" cy="151.7" r="4" fill="#3465a4"><title>Princess Louise</title></circle></a><a href="/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x4/"><circle cx="177.3" cy="165.5" r="4" fill="#3465a4"><title>Lorne, Marquis of</title></circle></a><a href="/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x2/"><circle cx="177.3" cy="165.5" r="4" fill="#3465a4"><title>Lorne District Tartan</title></circle></a><a href="/variants/s20/db12k1db1k1db1k8g8k1g8k8db8k1db1g6k1g6k3db4k1db1/"><circle cx="163.4" cy="158.1" r="4" fill="#3465a4"><title>Black Watch</title></circle></a><a href="/variants/s15/g1k1g1db10g1db1g1k4g1ly1g10k1g1k1g1~x4/"><circle cx="212.4" cy="132.4" r="4" fill="#3465a4"><title>Glen Grant Distillery</title></circle></a><a href="/variants/s11/g2k1db9k7g1k1g1k1g9r1db1~x4/"><circle cx="166.3" cy="161.5" r="4" fill="#3465a4"><title>Princess Louise (Royal)</title></circle></a><a href="/variants/s11/dg2t16dg2t4k4dg2k7t2k4dg17t2~x2/"><circle cx="201.7" cy="191.3" r="4" fill="#3465a4"><title>Blackwater (Fashion)</title></circle></a><circle cx="177.1" cy="156.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

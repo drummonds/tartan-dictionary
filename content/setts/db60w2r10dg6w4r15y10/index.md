@@ -1,6 +1,15 @@
 ---
 title: "Iberia Dress, Blue (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Iberia"
+  url: "/clan/iberia/"
+- name: "Iberia"
+  url: "/families/iberia/"
+- name: "Iberia Dress"
+  url: "/tartans/i/ib/iberia-dress/"
 ---
 This is the **Iberia Dress, Blue (Fashion)** sett — one scale-free proportion (`db60w2r10dg6w4r15y10`), colour order pattern
 [BWRGWRG](/stripes/bwrgwrg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k6r2k6r12w2db36y1g3~x2/"><circle cx="257.8" cy="70.0" r="4" fill="#3465a4"><title>Fremont Presbyterian Church (P)</title></circle></a><a href="/variants/s5/r14lr6db38k3g2~x2/"><circle cx="313.5" cy="141.6" r="4" fill="#3465a4"><title>Doten (2013)</title></circle></a><a href="/variants/s5/r14w6db38k3g2~x2/"><circle cx="299.6" cy="138.7" r="4" fill="#3465a4"><title>Doten (2013)</title></circle></a><a href="/variants/s7/ri4db36r35g2r2g8w4~x2~ri2607041-r2109032/"><circle cx="242.3" cy="145.7" r="4" fill="#3465a4"><title>Cherry, John S. (Personal)</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="299.1" cy="111.7" r="4" fill="#3465a4"><title>MacBeth (Fashion)</title></circle></a><a href="/variants/s9/db58y2r1lb4y2r2lb7r8y6~x2/"><circle cx="424.7" cy="81.7" r="4" fill="#3465a4"><title>Hybelius, J-A (Personal)</title></circle></a><a href="/variants/s8/ly16r4ly4dy2db56r18dbi1db7~x2~ly3307090-dbi1106275/"><circle cx="345.7" cy="89.6" r="4" fill="#3465a4"><title>Union Memorial Tartan (Military)</title></circle></a><a href="/variants/s6/w2db15r3g3r3db1~x8/"><circle cx="325.4" cy="171.3" r="4" fill="#3465a4"><title>Lothian Buses (Corporate?)</title></circle></a><a href="/variants/s8/r16db2n6r3k4lb2db40lb6~x2/"><circle cx="268.7" cy="112.3" r="4" fill="#3465a4"><title>St. Leonards (Corporate)</title></circle></a><a href="/variants/s7/r8y2b7y2db24k2g1~x2/"><circle cx="266.4" cy="112.1" r="4" fill="#3465a4"><title>(4) Traill</title></circle></a><circle cx="325.0" cy="118.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

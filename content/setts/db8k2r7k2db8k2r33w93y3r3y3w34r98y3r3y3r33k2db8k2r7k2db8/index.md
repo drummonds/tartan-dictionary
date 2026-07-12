@@ -1,6 +1,11 @@
 ---
 title: "Unidentified #13"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified 28"
+  url: "/tartans/u/un/unidentified-28/"
 ---
 This is the **Unidentified #13** sett — one scale-free proportion (`db8k2r7k2db8k2r33w93y3r3y3w34r98y3r3y3r33k2db8k2r7k2db8`), colour order pattern
 [BKRKBKRGRGRWGRGWRKBKRKB](/stripes/bkrkbkrgrgrwgrgwrkbkrkb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r48k1w8r2w1r2w8r2w1r2w8k1db16k1w4~x2/"><circle cx="307.6" cy="36.4" r="4" fill="#3465a4"><title>Japanese (nihon)</title></circle></a><a href="/variants/s36/r6w16r6db1r6w16r6db9w140r55k2w4k2r16w20r16db6r2db27k4y4k6y4k4db27r2db6r16w20r16k2w4k2r55db1r6~x2/"><circle cx="209.3" cy="14.0" r="4" fill="#3465a4"><title>Unidentified Plaid arisaid</title></circle></a><a href="/variants/s27/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3w4r3k4dp12g2w2r3k1r3w2g12k1r21~x4/"><circle cx="231.8" cy="20.5" r="4" fill="#3465a4"><title>MacFarlane</title></circle></a><a href="/variants/s16/r60k2w1g16w2y3r3k1r3y3n2w16k4r4y6w2/"><circle cx="281.7" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan D</title></circle></a><a href="/variants/s14/r42k1g12w2r3k1r3w2g2db12k4r3w4g3/"><circle cx="281.6" cy="39.1" r="4" fill="#3465a4"><title>MacFarlane</title></circle></a><a href="/variants/s16/r122k4w2g32w4ly7r7k2r7ly7w4lb32k8r8ly12w4/"><circle cx="286.9" cy="14.0" r="4" fill="#3465a4"><title>Chattan (Clan)</title></circle></a><a href="/variants/s16/r60g2w1g15w2y3r3k1r3y3n2w16k4r4y6w2/"><circle cx="290.0" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><a href="/variants/s14/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3~x2/"><circle cx="287.1" cy="39.1" r="4" fill="#3465a4"><title>Lendrum (Clan)</title></circle></a><a href="/variants/s16/r120k4w2g32w4k7r7k2r7k7w4lb32k8r8k12w4/"><circle cx="262.3" cy="14.0" r="4" fill="#3465a4"><title>Chattan, Clan</title></circle></a><a href="/variants/s16/r60k2w1g16w2y3r3k1r3y3w2lb16k4r4y6w2~x2/"><circle cx="290.6" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan D</title></circle></a><circle cx="266.2" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

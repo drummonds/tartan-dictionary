@@ -1,6 +1,11 @@
 ---
 title: "Rosser of Wales"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Rosser"
+  url: "/tartans/r/ro/rosser/"
 ---
 This is the **Rosser of Wales** sett — one scale-free proportion (`dg16k57r36k2r4dg2`), colour order pattern
 [GKRKRG](/stripes/gkrkrg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r19k3r19k32g3k8~x2~r2109032/"><circle cx="271.0" cy="196.2" r="4" fill="#3465a4"><title>Tartan TV</title></circle></a><a href="/variants/s6/k4w2k28r30k1r3~x2/"><circle cx="313.5" cy="126.9" r="4" fill="#3465a4"><title>Ramsay of Dalhousie</title></circle></a><a href="/variants/s4/k23r3k1r12~x4/"><circle cx="368.8" cy="149.1" r="4" fill="#3465a4"><title>Ewing</title></circle></a><a href="/variants/s5/k16r2k2r12w1~x2/"><circle cx="307.9" cy="168.4" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s7/k3r1k30r28k1r1w3~x2/"><circle cx="318.3" cy="109.4" r="4" fill="#3465a4"><title>Cunningham</title></circle></a><a href="/variants/s8/lo4k17dr1k4dr2k4dr33w3~x2/"><circle cx="315.0" cy="104.8" r="4" fill="#3465a4"><title>Mens Bigi</title></circle></a><a href="/variants/s6/k2r12k2r12k33r2~x2/"><circle cx="357.4" cy="165.8" r="4" fill="#3465a4"><title>Cameron Black &amp; Red (Dress)</title></circle></a><a href="/variants/s6/k6r1k24r28k1r4~x2/"><circle cx="347.4" cy="147.5" r="4" fill="#3465a4"><title>Aragon (Erskine)</title></circle></a><a href="/variants/s6/k2r6k2r6k12y1~x4/"><circle cx="289.8" cy="186.6" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><a href="/variants/s6/k2r6k2r6k12y1~x2/"><circle cx="289.8" cy="186.6" r="4" fill="#3465a4"><title>MacQueen Clan Tartan</title></circle></a><circle cx="295.6" cy="137.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

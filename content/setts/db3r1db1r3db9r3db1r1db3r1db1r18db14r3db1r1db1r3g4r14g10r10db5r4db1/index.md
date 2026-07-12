@@ -1,6 +1,15 @@
 ---
 title: "Campbell of Loudoun, Plaid"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Campbell"
+  url: "/clan/campbell/"
+- name: "Campbell of Loudoun"
+  url: "/families/campbell-of-loudoun/"
+- name: "Campbell of Loudoun"
+  url: "/tartans/c/ca/campbell-of-loudoun/"
 ---
 This is the **Campbell of Loudoun, Plaid** sett — one scale-free proportion (`db3r1db1r3db9r3db1r1db3r1db1r18db14r3db1r1db1r3g4r14g10r10db5r4db1`), colour order pattern
 [BRBRBRBRBRBRBRBRBRGRGRBRB](/stripes/brbrbrbrbrbrbrbrbrgrgrbrb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/db4r1db1r4db12r4db1r1g4r1db1r26db26r4g4r26g21r13db6r5g1~x2/"><circle cx="320.9" cy="115.0" r="4" fill="#3465a4"><title>Murray of Tullibardine (plaid)</title></circle></a><a href="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x2/"><circle cx="313.7" cy="148.8" r="4" fill="#3465a4"><title>MacTier of Durris</title></circle></a><a href="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x4/"><circle cx="313.7" cy="148.8" r="4" fill="#3465a4"><title>Ross</title></circle></a><a href="/variants/s18/r18db2r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x2/"><circle cx="311.0" cy="149.8" r="4" fill="#3465a4"><title>MacTier of Durris</title></circle></a><a href="/variants/s21/db2r1db1r2db4r2db1r1db2r1db1r24db12r2g2r8g12r4db2r2db1/"><circle cx="344.9" cy="104.1" r="4" fill="#3465a4"><title>Murray of Tullibardine</title></circle></a><a href="/variants/s28/r28g2r5g2r28g2r5g2r28db3r3g24r3db24r3db3r28g2r5g2r28db3r3g24r3db24r3db3~x2/"><circle cx="337.4" cy="130.4" r="4" fill="#3465a4"><title>Robertson 4</title></circle></a><a href="/variants/s21/db4r1db1r2db11r2db1r1y1r1db1r16db8r4g4r16g11r8db4r2y2~x2/"><circle cx="289.9" cy="127.7" r="4" fill="#3465a4"><title>MacLeod Red</title></circle></a><a href="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g18~x2/"><circle cx="296.0" cy="152.0" r="4" fill="#3465a4"><title>Ross #5</title></circle></a><a href="/variants/s32/r17g12r6db33r4g4r33g4r4g4r33g4r4db33r39g15r7db39r4g4r39g4r4g4r39g4r4db39r7g15r39db14/"><circle cx="291.3" cy="149.1" r="4" fill="#3465a4"><title>Na Fir Dileas (Corporate)</title></circle></a><a href="/variants/s11/db25dbi2r25g10r4db25r2g2r25g2r2~x2~db1204274-dbi1406275/"><circle cx="287.5" cy="142.9" r="4" fill="#3465a4"><title>Hebrides #2</title></circle></a><circle cx="319.9" cy="125.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

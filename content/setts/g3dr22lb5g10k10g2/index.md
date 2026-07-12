@@ -1,6 +1,15 @@
 ---
 title: "Strathspey (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Strathspey"
+  url: "/clan/strathspey/"
+- name: "Strathspey"
+  url: "/families/strathspey/"
+- name: "Strathspey"
+  url: "/tartans/s/st/strathspey/"
 ---
 This is the **Strathspey (Fashion)** sett — one scale-free proportion (`g3dr22lb5g10k10g2`), colour order pattern
 [GBWGKG](/stripes/gbwgkg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g3r22lb5g10k10g2~x2/"><circle cx="178.8" cy="189.4" r="4" fill="#3465a4"><title>Strathspey, Check</title></circle></a><a href="/variants/s6/g4dr28db6g10k10g3~x2/"><circle cx="224.4" cy="204.1" r="4" fill="#3465a4"><title>Canadian Autumn</title></circle></a><a href="/variants/s7/k9lr4k1lr4dg15r4k1~x4~lr2805035-r2109032/"><circle cx="173.3" cy="164.5" r="4" fill="#3465a4"><title>Logan - 1797 (Dark)</title></circle></a><a href="/variants/s6/do2o11do2k11do16w2~x4/"><circle cx="205.0" cy="209.4" r="4" fill="#3465a4"><title>Portrait, The</title></circle></a><a href="/variants/s6/r2g12k12g1db12g2/"><circle cx="162.0" cy="198.5" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/variants/s6/r2g12k12g1db12g2~x2/"><circle cx="162.0" cy="198.5" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/variants/s6/g21y2g4k16dp14k3~x2/"><circle cx="179.0" cy="203.4" r="4" fill="#3465a4"><title>Wilson's, No 160</title></circle></a><a href="/variants/s6/r3n27k6lo13k14r3~x2/"><circle cx="158.4" cy="195.3" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish special grey</title></circle></a><a href="/variants/s6/k4g5k2g5dr17db2~x2/"><circle cx="239.7" cy="200.9" r="4" fill="#3465a4"><title>Denny Hunting</title></circle></a><a href="/variants/s6/g21w2g4k17dr14k3~x2/"><circle cx="172.9" cy="203.0" r="4" fill="#3465a4"><title>Graham W</title></circle></a><circle cx="185.1" cy="196.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Wheadon (Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Wheadon"
+  url: "/clan/wheadon/"
+- name: "Wheadon"
+  url: "/families/wheadon/"
+- name: "Wheadon"
+  url: "/tartans/w/wh/wheadon/"
 ---
 This is the **Wheadon (Name)** sett — one scale-free proportion (`db40g7y3g7db15r5`), colour order pattern
 [BGGGBR](/stripes/bgggbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g16db59ly4db59g16dbi9~x2~db1106275-dbi1406275/"><circle cx="460.9" cy="215.7" r="4" fill="#3465a4"><title>Oxford University</title></circle></a><a href="/variants/s7/g23db3k8db4g4db56dy8/"><circle cx="352.2" cy="155.0" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/variants/s7/db120g9r7y12g33y33db26/"><circle cx="373.5" cy="177.1" r="4" fill="#3465a4"><title>Supporter.com</title></circle></a><a href="/variants/s6/r5db15g3db15y3db3~x2/"><circle cx="424.4" cy="251.1" r="4" fill="#3465a4"><title>Abertay University (Estimated threadcount)</title></circle></a><a href="/variants/s6/g4db36lg6g16db16g3~x2/"><circle cx="400.5" cy="236.3" r="4" fill="#3465a4"><title>City of Kincardine (District)</title></circle></a><a href="/variants/s6/g4db36lg6g16db16g3~x2~db1204274/"><circle cx="403.2" cy="234.9" r="4" fill="#3465a4"><title>City of Kincardine</title></circle></a><a href="/variants/s5/dt68t7dt16k16ly4~x2/"><circle cx="474.5" cy="180.0" r="4" fill="#3465a4"><title>Burnett's &amp; Struth (Corporate)</title></circle></a><a href="/variants/s5/r2g5db27g11o2~x2/"><circle cx="352.3" cy="200.9" r="4" fill="#3465a4"><title>Hector James</title></circle></a><a href="/variants/s8/db3r3g18db16w2db26r3g3~x2/"><circle cx="339.8" cy="183.9" r="4" fill="#3465a4"><title>MacHardy Clan Tartan</title></circle></a><a href="/variants/s6/db64g20r4g3r4g3/"><circle cx="442.5" cy="166.9" r="4" fill="#3465a4"><title>Wilson</title></circle></a><circle cx="441.9" cy="196.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

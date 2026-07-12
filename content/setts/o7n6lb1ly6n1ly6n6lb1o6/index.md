@@ -1,6 +1,15 @@
 ---
 title: "Outlander #2"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Outlander"
+  url: "/clan/outlander/"
+- name: "Outlander"
+  url: "/families/outlander/"
+- name: "Outlander"
+  url: "/tartans/o/ou/outlander-5/"
 ---
 This is the **Outlander #2** sett — one scale-free proportion (`o7n6lb1ly6n1ly6n6lb1o6`), colour order pattern
 [RBWYBYBWR](/stripes/rbwybybwr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y7n6lt1dy6n1dy6n6lt1y6~x8~y2400000-lt3304230/"><circle cx="264.2" cy="291.0" r="4" fill="#3465a4"><title>Outlander #2</title></circle></a><a href="/variants/s9/b3do2o14g17do14b8o14do2b3~x2/"><circle cx="228.0" cy="242.3" r="4" fill="#3465a4"><title>Monaghan</title></circle></a><a href="/variants/s8/lb2o24ly14lb25ly14lb25y20lb2~x2/"><circle cx="287.9" cy="256.7" r="4" fill="#3465a4"><title>Froach's Grian</title></circle></a><a href="/variants/s11/r2y2r2y2g5lb5g11n11g5lb11y2~x2/"><circle cx="186.7" cy="238.6" r="4" fill="#3465a4"><title>Vasseur Mignon (Personal)</title></circle></a><a href="/variants/s10/y12lb4n4y4n4r4n15lb15r15y8~x2/"><circle cx="179.8" cy="283.9" r="4" fill="#3465a4"><title>Glasgow's Miles Better</title></circle></a><a href="/variants/s9/dg3lb12dg10lb6dg8g6dg8o23oi3~x2~dg1806142-g2408144-o2005046-oi2007033/"><circle cx="187.8" cy="229.7" r="4" fill="#3465a4"><title>Lawrence's Seven Pillars of Khaki</title></circle></a><a href="/variants/s11/r2ly2r2ly2g5o5g11n11g5o11ly2~x2~o2500000-n1900000/"><circle cx="226.8" cy="253.3" r="4" fill="#3465a4"><title>Vassseur Mignon ({Personal)</title></circle></a><a href="/variants/s5/g6y1r1lb2r2~x4/"><circle cx="210.6" cy="241.0" r="4" fill="#3465a4"><title>Wilson's No.179</title></circle></a><a href="/variants/s6/g4o25g6lb12g12lb3~x2/"><circle cx="301.4" cy="273.3" r="4" fill="#3465a4"><title>Canadian Fancy</title></circle></a><a href="/variants/s8/n2o2n15o2w10oi15o2oi2~x2~o2102055-oi2104058/"><circle cx="225.4" cy="225.5" r="4" fill="#3465a4"><title>Bannockbane, Grey</title></circle></a><circle cx="225.1" cy="271.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

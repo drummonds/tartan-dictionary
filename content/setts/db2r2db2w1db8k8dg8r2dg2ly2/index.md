@@ -1,6 +1,13 @@
 ---
 title: "Logan Rogers (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Logan"
+  url: "/clan/logan/"
+- name: "Logan Rogers"
+  url: "/tartans/l/lo/logan-rogers/"
 ---
 This is the **Logan Rogers (Personal)** sett — one scale-free proportion (`db2r2db2w1db8k8dg8r2dg2ly2`), colour order pattern
 [BRBWBKGRGY](/stripes/brbwbkgrgy/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db2r2db2w1db8k8dg8r2dg2y2~x2/"><circle cx="90.7" cy="168.6" r="4" fill="#3465a4"><title>Logan Rogers</title></circle></a><a href="/variants/s9/dp2g4k8lo1k1db4lb1db1lb2~x8/"><circle cx="81.6" cy="157.8" r="4" fill="#3465a4"><title>Scottish Cultural Society (Corporate</title></circle></a><a href="/variants/s9/n10lb5db15k3db15k5dr25k3w4~x2/"><circle cx="107.1" cy="171.5" r="4" fill="#3465a4"><title>Galway County Crest (Fashion)</title></circle></a><a href="/variants/s11/db6k2t2db8k18lo2dg20db8t3k10lb6~x2~t1903246-dg1806142/"><circle cx="94.5" cy="155.5" r="4" fill="#3465a4"><title>Veere (District)</title></circle></a><a href="/variants/s9/k2w1dp7k1g6k1db7lb1k1~x4/"><circle cx="52.5" cy="163.5" r="4" fill="#3465a4"><title>South Lanarkshire (2002) (District)</title></circle></a><a href="/variants/s12/dr4y14lb2do4lb2k6y3k6db13dr2db4dr4~x2/"><circle cx="49.3" cy="169.6" r="4" fill="#3465a4"><title>Kinloch Anderson Old Dress</title></circle></a><a href="/variants/s10/dbi5k15o5n9o2db2o2db2n9k3~x2~dbi1406275-o2500000-n1900000-db1106275/"><circle cx="107.8" cy="180.6" r="4" fill="#3465a4"><title>Ryukoku University Heian SHS (Corp)</title></circle></a><a href="/variants/s9/gi20r2g3db12k20r2lb3db4lb3~x2~gi2203152-g1903114/"><circle cx="76.8" cy="144.9" r="4" fill="#3465a4"><title>Ithilien Heather (Personal)</title></circle></a><a href="/variants/s9/r3db16o2db2o12k8g12k12w3~x2/"><circle cx="38.9" cy="175.6" r="4" fill="#3465a4"><title>Celtic Women International</title></circle></a><a href="/variants/s10/y3k21r7k2g10k2r7k2db21w3~x2/"><circle cx="86.5" cy="132.5" r="4" fill="#3465a4"><title>Tantallon</title></circle></a><circle cx="79.6" cy="165.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

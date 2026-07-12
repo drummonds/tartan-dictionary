@@ -1,6 +1,15 @@
 ---
 title: "MacDonald of Borrodale (Clan)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDonald"
+  url: "/clan/macdonald/"
+- name: "MacDonald of Borrodale"
+  url: "/families/macdonald-of-borrodale/"
+- name: "MacDonald of Borrodale"
+  url: "/tartans/m/ma/macdonald-of-borrodale/"
 ---
 This is the **MacDonald of Borrodale (Clan)** sett — one scale-free proportion (`r6db3r3db32k30g30y3r3`), colour order pattern
 [RBRBKGGR](/stripes/rbrbkggr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r5db3r3db29k29g29w4r4~x2/"><circle cx="102.5" cy="165.9" r="4" fill="#3465a4"><title>Borrodale</title></circle></a><a href="/variants/s10/r7db2g5db18g10db2k24db2g10y3~x2/"><circle cx="112.2" cy="159.0" r="4" fill="#3465a4"><title>Offally</title></circle></a><a href="/variants/s9/r7db2g5k24db2g10db28g10w3~x2/"><circle cx="132.3" cy="149.9" r="4" fill="#3465a4"><title>Colgan (Personal)</title></circle></a><a href="/variants/s9/db11k1db1k1db1k7dg8dr1lg6~x4/"><circle cx="124.0" cy="161.0" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><a href="/variants/s10/r6db2g5db18g10db2k28db2g10lo3~x2/"><circle cx="127.6" cy="144.4" r="4" fill="#3465a4"><title>Ofally, County</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17g18ly4~x2/"><circle cx="131.9" cy="163.2" r="4" fill="#3465a4"><title>Scotch House 2000 Original</title></circle></a><a href="/variants/s8/db15k2w2k2w2k16n22y2~x4/"><circle cx="143.4" cy="156.1" r="4" fill="#3465a4"><title>Sneddon, Jonathan Taylor (Personal)</title></circle></a><a href="/variants/s11/db22k4db4k4db4k22g22r6g6k2y3~x2/"><circle cx="117.8" cy="152.6" r="4" fill="#3465a4"><title>MacLaren (labelled)</title></circle></a><a href="/variants/s11/db11k2db2k2db2k11g11r2g3k1y3~x2/"><circle cx="114.7" cy="154.7" r="4" fill="#3465a4"><title>Grant Hunting Clan Tartan</title></circle></a><a href="/variants/s9/r2g10k12db1k2db14k1db1g2~x2/"><circle cx="152.0" cy="143.1" r="4" fill="#3465a4"><title>McWilliams Wedding (Personal)</title></circle></a><circle cx="121.9" cy="160.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

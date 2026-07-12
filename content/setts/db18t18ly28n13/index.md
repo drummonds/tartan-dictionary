@@ -1,6 +1,11 @@
 ---
 title: "Gold Country (District)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Gold Country"
+  url: "/tartans/g/go/gold-country/"
 ---
 This is the **Gold Country (District)** sett — one scale-free proportion (`db18t18ly28n13`), colour order pattern
 [BBYB](/stripes/bbyb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db18ni18y28n13~x2~db1108266-ni2203265/"><circle cx="191.9" cy="366.0" r="4" fill="#3465a4"><title>Gold Country (California)</title></circle></a><a href="/variants/s3/db1w1lb1~x8/"><circle cx="87.7" cy="366.0" r="4" fill="#3465a4"><title>Glen Moriston Estate Check</title></circle></a><a href="/variants/s4/lb14n7dy6n2~x8/"><circle cx="298.0" cy="301.2" r="4" fill="#3465a4"><title>Outlander #3</title></circle></a><a href="/variants/s3/dy1w2db1~x12/"><circle cx="192.6" cy="366.0" r="4" fill="#3465a4"><title>Aquascutum</title></circle></a><a href="/variants/s4/n22y10w3db8~x2/"><circle cx="325.5" cy="291.8" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/variants/s4/lb53g20w18db14~x2/"><circle cx="247.4" cy="313.7" r="4" fill="#3465a4"><title>Leutz (Name?)</title></circle></a><a href="/variants/s5/dp30y7w6db30ly8~x2~y2203076-ly3307090/"><circle cx="179.7" cy="258.8" r="4" fill="#3465a4"><title>Pownall (2015)</title></circle></a><a href="/variants/s3/dy2lb1lo1~x2/"><circle cx="221.6" cy="366.0" r="4" fill="#3465a4"><title>Gearach Woodcock Tweed (Corporate)</title></circle></a><a href="/variants/s4/r10db5lb5n4~x8/"><circle cx="163.3" cy="331.6" r="4" fill="#3465a4"><title>Haggis Hostels</title></circle></a><a href="/variants/s4/lb5db12g8lb4/"><circle cx="198.6" cy="351.5" r="4" fill="#3465a4"><title>Sheffield High (School)</title></circle></a><circle cx="144.7" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

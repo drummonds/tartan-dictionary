@@ -1,6 +1,11 @@
 ---
 title: "Mead of Poetry"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Mead"
+  url: "/clan/mead/"
 ---
 A family of [Clan Mead](/clan/mead/).
 

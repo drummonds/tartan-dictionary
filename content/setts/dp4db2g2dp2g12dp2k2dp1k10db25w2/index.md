@@ -1,6 +1,11 @@
 ---
 title: "O'Reilly Irish Fashion Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "O'Reilly"
+  url: "/tartans/o/o/o-reilly-2/"
 ---
 This is the **O'Reilly Irish Fashion Tartan** sett — one scale-free proportion (`dp4db2g2dp2g12dp2k2dp1k10db25w2`), colour order pattern
 [BBGBGBKBKBW](/stripes/bbgbgbkbkbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r3g2k1g2db26k12db4g15k1db1y3~x2/"><circle cx="217.6" cy="100.5" r="4" fill="#3465a4"><title>King (Personal)</title></circle></a><a href="/variants/s12/k5db26k2db4k2db26k3lr36k3dbi30k3t2~db0806265-lr2800000-dbi1404245-t2503227/"><circle cx="178.2" cy="120.9" r="4" fill="#3465a4"><title>Daniel Welsh Name Tartan</title></circle></a><a href="/variants/s11/dr1db1dr8lb1k2db16k2lb1g8db1g1~x4/"><circle cx="209.1" cy="123.3" r="4" fill="#3465a4"><title>MacMichael</title></circle></a><a href="/variants/s14/db88k15g9r12g20k3y8k3g20r12g9k15db24k36~x2/"><circle cx="186.2" cy="92.8" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/variants/s14/db88k15g9r12g20k3y8k6g20r12g9k15db24k36/"><circle cx="183.5" cy="94.1" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/variants/s9/db24k8g8r2g4k1w2k1g4~x2/"><circle cx="209.8" cy="112.4" r="4" fill="#3465a4"><title>Ferguson (Tarlogie)</title></circle></a><a href="/variants/s10/dr2db24lb6k6g6k4g2k2g2k1~x2/"><circle cx="171.0" cy="91.6" r="4" fill="#3465a4"><title>Crookdake-Cheng (Personal)</title></circle></a><a href="/variants/s11/g3db1g1db12k2db2k2db3k12dg24w3~x2~g2408144-dg1804144/"><circle cx="175.8" cy="108.0" r="4" fill="#3465a4"><title>Selby (Name)</title></circle></a><a href="/variants/s9/g40k8g4k8g4dr14db64lb9db3/"><circle cx="212.9" cy="120.8" r="4" fill="#3465a4"><title>West Lothian</title></circle></a><a href="/variants/s10/dr3g10k12db3k2db2k2db30dr4w1~x2/"><circle cx="269.1" cy="98.9" r="4" fill="#3465a4"><title>McClafferty</title></circle></a><circle cx="204.7" cy="103.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

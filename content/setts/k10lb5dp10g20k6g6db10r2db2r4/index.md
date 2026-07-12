@@ -1,6 +1,11 @@
 ---
 title: "Brotherston (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Brotherston"
+  url: "/tartans/b/br/brotherston/"
 ---
 This is the **Brotherston (Personal)** sett — one scale-free proportion (`k10lb5dp10g20k6g6db10r2db2r4`), colour order pattern
 [KWBGKGBRBR](/stripes/kwbgkgbrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r3db16o2db2o12k8g12k12w3~x2/"><circle cx="38.9" cy="175.6" r="4" fill="#3465a4"><title>Celtic Women International</title></circle></a><a href="/variants/s10/k6g14t2r3t2k16y2ti16g16r3~x2~t2304245-ti2607245/"><circle cx="80.5" cy="160.9" r="4" fill="#3465a4"><title>Unidentified #37</title></circle></a><a href="/variants/s11/r3k1g12k12dbi12db3dbi12k12g12k1y3~x2~dbi1604274-db0805267/"><circle cx="79.0" cy="158.0" r="4" fill="#3465a4"><title>Gow, hunting</title></circle></a><a href="/variants/s11/r3k1g12k12dbi12db3dbi12k12g12k1y3~x2~dbi1605267-db0804274/"><circle cx="78.8" cy="158.0" r="4" fill="#3465a4"><title>Gow Hunting</title></circle></a><a href="/variants/s9/w2db3r6k8g12y1db4k2w2~x4/"><circle cx="53.1" cy="148.0" r="4" fill="#3465a4"><title>Scottish National - 1934 (Fashion)</title></circle></a><a href="/variants/s9/w2db3r6k8g12y1db4k2w2~x2/"><circle cx="53.1" cy="148.0" r="4" fill="#3465a4"><title>National Trade Tartan</title></circle></a><a href="/variants/s11/r3k1g12k12dbi12db3dbi12k12g12k1y3~x2~dbi1406275-db1204274/"><circle cx="79.4" cy="157.4" r="4" fill="#3465a4"><title>Gow Hunting (Clan)</title></circle></a><a href="/variants/s11/r2k8y2k7y1k1w3k2g9db8r2~x2/"><circle cx="77.9" cy="148.8" r="4" fill="#3465a4"><title>Hislop Hunting (Name)</title></circle></a><a href="/variants/s9/y3lp9k3lp4k9g15k9db11w2~x4/"><circle cx="33.6" cy="184.6" r="4" fill="#3465a4"><title>Hoban (Name)</title></circle></a><a href="/variants/s9/w2db3r6k8g12lo1db4k2w2~x2/"><circle cx="52.2" cy="147.5" r="4" fill="#3465a4"><title>National (1934), The</title></circle></a><circle cx="65.9" cy="162.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

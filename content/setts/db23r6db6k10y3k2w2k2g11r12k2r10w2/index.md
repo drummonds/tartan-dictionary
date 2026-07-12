@@ -1,6 +1,11 @@
 ---
 title: "Prince Albert"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Prince Albert"
+  url: "/tartans/p/pr/prince-albert-2/"
 ---
 This is the **Prince Albert** sett — one scale-free proportion (`db23r6db6k10y3k2w2k2g11r12k2r10w2`), colour order pattern
 [BRBKGKWKGRKRW](/stripes/brbkgkwkgrkrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r6db2r6g10y1k10db6k1db2k1db6r6w2k2r2~x2/"><circle cx="58.0" cy="135.3" r="4" fill="#3465a4"><title>MacPherson #7</title></circle></a><a href="/variants/s14/y2ri15y3r2y3k14y2db6w2db6y2ri7db10w1~x2~ri2109032-r1807008/"><circle cx="83.2" cy="116.7" r="4" fill="#3465a4"><title>Dalrymple of Castleton Portrait Tartan</title></circle></a><a href="/variants/s14/y2ri15y3r2y3k14y2db6w2db6y2ri7db10w1~x2~ri2008029-r1707016/"><circle cx="84.6" cy="117.4" r="4" fill="#3465a4"><title>Dalrymple, of Castleton</title></circle></a><a href="/variants/s12/r20lb14k17y2k3w3k3g24r14k4r4w2~x2/"><circle cx="79.4" cy="123.7" r="4" fill="#3465a4"><title>Stuart/Stewart #2</title></circle></a><a href="/variants/s14/r13w2r13k3dr13g21db3k18db9k2db2k2db15w2~x2/"><circle cx="35.8" cy="135.5" r="4" fill="#3465a4"><title>Taiwan Scottish</title></circle></a><a href="/variants/s15/r6db1r6g8y1k6db4k1db2k1db4r4w1k1r1~x2/"><circle cx="73.8" cy="139.7" r="4" fill="#3465a4"><title>MacPherson Clan Tartan</title></circle></a><a href="/variants/s13/r6db9k2db2k2db9k10y4n17r5k2r5w4~x2/"><circle cx="34.6" cy="152.9" r="4" fill="#3465a4"><title>Alberta Caledonia (Corporate)</title></circle></a><a href="/variants/s13/db8k1r4k1r4k1r4k1g8k1y1r1w1~x2/"><circle cx="88.9" cy="132.3" r="4" fill="#3465a4"><title>Unidentified No 158 Silk Fragment</title></circle></a><a href="/variants/s12/r4oi14w2o4w2k6oi3k6db14r2db4r4~x2~oi2104058-o2102055/"><circle cx="38.4" cy="158.0" r="4" fill="#3465a4"><title>Kinloch Anderson, dress</title></circle></a><a href="/variants/s11/lb6do1lb2do2lb1do4dp14k4db1k3ly1~x4/"><circle cx="121.9" cy="114.1" r="4" fill="#3465a4"><title>Wcwm 1873-4</title></circle></a><circle cx="78.7" cy="125.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

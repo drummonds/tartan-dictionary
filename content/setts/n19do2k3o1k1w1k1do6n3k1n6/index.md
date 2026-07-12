@@ -1,6 +1,13 @@
 ---
 title: "Glen Clova #1"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Glen"
+  url: "/clan/glen/"
+- name: "Glen Clova"
+  url: "/tartans/g/gl/glen-clova/"
 ---
 This is the **Glen Clova #1** sett — one scale-free proportion (`n19do2k3o1k1w1k1do6n3k1n6`), colour order pattern
 [BBKRKWKBBKB](/stripes/bbkrkwkbbkb/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k3y3lo2y30k2y3m12y6mi6k3y3~x2~y2103114-lo2706066-m1907352-mi2506332/"><circle cx="326.0" cy="122.2" r="4" fill="#3465a4"><title>McAlifyfe (Personal)</title></circle></a><a href="/variants/s13/db3k1dr1n24dr1n4lo3db1k4dr1n8dr1k1~x4/"><circle cx="388.5" cy="83.6" r="4" fill="#3465a4"><title>Wcwm 1445</title></circle></a><a href="/variants/s11/dr6k3do4k10do5o3k2do31w1do2w2~x2~do1400000-o2500000/"><circle cx="333.7" cy="83.8" r="4" fill="#3465a4"><title>Glen and Son, William (Corporate)</title></circle></a><a href="/variants/s9/n68k4n18o20k3w3k10lb8lr4~n1900000-o2500000/"><circle cx="315.8" cy="93.2" r="4" fill="#3465a4"><title>Carbon (Corporate)</title></circle></a><a href="/variants/s12/k1dr14g1dr1g6lbi2g6dr1g1dr14k1lb1~x4~lbi3200000-lb3103284/"><circle cx="325.7" cy="122.8" r="4" fill="#3465a4"><title>MacMaster Clan/Family Tartan</title></circle></a><a href="/variants/s12/n68t5k9lo3k3lb3k3n20dr9k3dr5lb4/"><circle cx="350.6" cy="71.1" r="4" fill="#3465a4"><title>British Caledonian Airways #2</title></circle></a><a href="/variants/s9/g3n5k4n33g12k4w2n18ly3~x2/"><circle cx="358.4" cy="141.2" r="4" fill="#3465a4"><title>Smoke Showing (UFES)</title></circle></a><a href="/variants/s9/do68k4do18dt20k3w3k10lb8lo4~do1301000-dt1600000/"><circle cx="334.6" cy="99.9" r="4" fill="#3465a4"><title>Carbon</title></circle></a><a href="/variants/s11/dr6k3n4k10n5lb2k2n31w1n2w2~x2/"><circle cx="325.2" cy="79.2" r="4" fill="#3465a4"><title>William Glen and Son</title></circle></a><a href="/variants/s7/n27k5dp2o1dp1w1dp5~x4~n1900000-o2500000/"><circle cx="394.0" cy="107.5" r="4" fill="#3465a4"><title>Caledonian Mist</title></circle></a><circle cx="346.6" cy="107.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

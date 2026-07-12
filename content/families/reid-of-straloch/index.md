@@ -1,6 +1,11 @@
 ---
 title: "Reid of Straloch"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Reid"
+  url: "/clan/reid/"
 ---
 A family of [Clan Reid](/clan/reid/).
 

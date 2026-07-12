@@ -1,6 +1,11 @@
 ---
 title: "Duchess of York (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Duchess of York"
+  url: "/tartans/d/du/duchess-of-york/"
 ---
 This is the **Duchess of York (Fashion)** sett — one scale-free proportion (`db2dy18dg10dy1k10dy2dg10dy18w2`), colour order pattern
 [BGGGKGGGW](/stripes/bgggkgggw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dg18k1dr9k12dr9k1dg18k1n6dg1~x2/"><circle cx="313.7" cy="181.5" r="4" fill="#3465a4"><title>Arizona Jones</title></circle></a><a href="/variants/s11/dy6w1do18k6do4k4do8k1do8k2dy5~x2/"><circle cx="391.5" cy="183.7" r="4" fill="#3465a4"><title>Bute Heather, Weathered</title></circle></a><a href="/variants/s7/k4dg16db11dr16dg25lo2lb3~x2/"><circle cx="294.2" cy="184.0" r="4" fill="#3465a4"><title>Mayo, County</title></circle></a><a href="/variants/s7/dy6r3dy34k16y3dt22r4~x2/"><circle cx="263.0" cy="191.8" r="4" fill="#3465a4"><title>Ballantrae (Macnaughtons)</title></circle></a><a href="/variants/s9/db1k8db2dg16dr6dg16db2k8w1~x2/"><circle cx="290.2" cy="167.8" r="4" fill="#3465a4"><title>Basel Tattoo (Official)</title></circle></a><a href="/variants/s9/do15dy2do5dy5k18db5do5db2do15~x2/"><circle cx="344.6" cy="224.5" r="4" fill="#3465a4"><title>Laois, County</title></circle></a><a href="/variants/s12/k2lb1dr2dg6dr2db4dr2k2dr15dg2dr2k1~x4/"><circle cx="333.2" cy="139.1" r="4" fill="#3465a4"><title>MacClure</title></circle></a><a href="/variants/s8/dy6o2dy12k4dp14k1dy3ly2~x2/"><circle cx="272.0" cy="174.9" r="4" fill="#3465a4"><title>Mica, Green (Fashion)</title></circle></a><a href="/variants/s11/ki2k20dg30k2dg4k2dg30k3ki30k35dr2~ki0700000/"><circle cx="288.6" cy="163.3" r="4" fill="#3465a4"><title>Phillips (Welsh Name)</title></circle></a><a href="/variants/s10/dg9w2dg24db37r3db37dg24w2dg9o4~x2~db1103284/"><circle cx="381.8" cy="190.5" r="4" fill="#3465a4"><title>Hardie</title></circle></a><circle cx="328.0" cy="180.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,13 @@
 ---
 title: "Digital Equipment Corp."
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Digital"
+  url: "/clan/digital/"
+- name: "Digital Equipment Corp."
+  url: "/tartans/d/di/digital-equipment-corp-2/"
 ---
 This is the **Digital Equipment Corp.** sett — one scale-free proportion (`t8k5t16n9t3n3t3n3t10lr3`), colour order pattern
 [BKBBBBBBBY](/stripes/bkbbbbbbby/). It is recorded as a single **variant**, below.

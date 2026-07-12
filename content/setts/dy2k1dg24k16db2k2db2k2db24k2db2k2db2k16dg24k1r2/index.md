@@ -1,6 +1,11 @@
 ---
 title: "St. Mary's Help of... (School)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "St. Mary's Help of Christians Sch"
+  url: "/tartans/s/st/st-mary-s-help-of-christians-sch/"
 ---
 This is the **St. Mary's Help of... (School)** sett — one scale-free proportion (`dy2k1dg24k16db2k2db2k2db24k2db2k2db2k16dg24k1r2`), colour order pattern
 [GKGKBKBKBKBKBKGKR](/stripes/gkgkbkbkbkbkbkgkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/dg19k1g3k1dg3k9db20k1y1k7y1k1db21k12dg2g1~x2/"><circle cx="227.4" cy="111.9" r="4" fill="#3465a4"><title>Hope-Vere/Weir (Modern)</title></circle></a><a href="/variants/s14/db22r2db2r6db2r2db38k46r2dy42n2dy2n2dy15~x2/"><circle cx="215.2" cy="104.5" r="4" fill="#3465a4"><title>Applestone</title></circle></a><a href="/variants/s14/db15k2db2k2db2k14dg18k1y2k1dg18k14db18r2~x2/"><circle cx="202.9" cy="141.9" r="4" fill="#3465a4"><title>Bonner (Name)</title></circle></a><a href="/variants/s17/dg34db2k2db2dg34r3db34r2db34r3k33db2dg2db2dg2db2k33~x2/"><circle cx="226.1" cy="132.0" r="4" fill="#3465a4"><title>Lumsden Hunting (Clan)</title></circle></a><a href="/variants/s15/dg38k3dg3k3db6n1k2r2k2n1db6k3db3k3db19~x2/"><circle cx="312.4" cy="81.1" r="4" fill="#3465a4"><title>Doyel (Name)</title></circle></a><a href="/variants/s20/k20dg30k2dg4k2dg30k3dbi30k35dr2k35dbi30k3dg30k2dg4k2dg30k20db2~dbi1204274-db1106275/"><circle cx="247.6" cy="138.1" r="4" fill="#3465a4"><title>Phillips of Wales</title></circle></a><a href="/variants/s10/k22dg30k2dg4k2dg30k3db30k35r2~db1204274/"><circle cx="248.3" cy="148.8" r="4" fill="#3465a4"><title>Phillips Welsh Name Tartan</title></circle></a><a href="/variants/s16/dr4k1db8k1dy3k2db4dy6db4w3k2db20k4dr21k1dy3~x2/"><circle cx="229.2" cy="111.5" r="4" fill="#3465a4"><title>Westmeath County, Crest Range</title></circle></a><a href="/variants/s14/dg6r4dg4r3dg4y2db14k4dg4k28dg18k2dg2k2~x2/"><circle cx="201.5" cy="128.9" r="4" fill="#3465a4"><title>Cypress Presbyterian Church</title></circle></a><a href="/variants/s11/db9dg2dpi2dp2dg18dpi2k2dg1k19db33w2~x2~dpi1607327-dp1105325/"><circle cx="241.4" cy="69.1" r="4" fill="#3465a4"><title>Highland Pride of Scotland</title></circle></a><circle cx="244.9" cy="103.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

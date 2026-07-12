@@ -1,8 +1,11 @@
 ---
 title: "Clan MacGill"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
-*A clan defined by its tartans — the dictionary holds no separate clan history for it, only the cloth that carries its name.*
+MacGill family sett from Jura, used before 1745, lost during proscription until rediscovered in Kintyre; current Society version dates from 1930.
 
 ## Tartan
 

@@ -1,6 +1,15 @@
 ---
 title: "Inspiration"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Inspiration"
+  url: "/clan/inspiration/"
+- name: "Inspiration"
+  url: "/families/inspiration/"
+- name: "Inspiration"
+  url: "/tartans/i/in/inspiration/"
 ---
 This is the **Inspiration** sett — one scale-free proportion (`dy5n21ly11db12r5`), colour order pattern
 [GBYBR](/stripes/gbybr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db27ly9w3dy16r7~x2/"><circle cx="183.5" cy="221.0" r="4" fill="#3465a4"><title>Unidentified (Sock Tie)</title></circle></a><a href="/variants/s5/r5db12g11n21y5~x2/"><circle cx="202.0" cy="296.4" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s5/g15dg18dp23w4r8~x2/"><circle cx="125.4" cy="265.5" r="4" fill="#3465a4"><title>Friebe (2014)</title></circle></a><a href="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/"><circle cx="133.5" cy="262.7" r="4" fill="#3465a4"><title>Breon (Jersey Shore, Pennsylvania) (Personal)</title></circle></a><a href="/variants/s6/r1db3dr1g3dr5lb1~x4/"><circle cx="184.3" cy="250.2" r="4" fill="#3465a4"><title>Lanark (Fashion #1)</title></circle></a><a href="/variants/s4/g21db34r14w6~x2/"><circle cx="195.3" cy="277.9" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/variants/s6/dy19g23y3db15r11w5~x2/"><circle cx="96.6" cy="231.2" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s6/dy19g23ly3db15r11w5~x2/"><circle cx="91.9" cy="230.1" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s5/r13y13g13db22w4~x2/"><circle cx="107.7" cy="274.9" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><a href="/variants/s5/lb1dp3r1g3lb1~x4/"><circle cx="130.4" cy="297.0" r="4" fill="#3465a4"><title>Wilson's No.95</title></circle></a><circle cx="148.0" cy="274.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

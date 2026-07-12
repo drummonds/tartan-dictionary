@@ -1,6 +1,11 @@
 ---
 title: "Scottish National Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Scottish National Dress"
+  url: "/tartans/s/sc/scottish-national-dress-2/"
 ---
 This is the **Scottish National Dress** sett — one scale-free proportion (`db12w2db2r2db3k11g12k2g3k2g12db12w13r2`), colour order pattern
 [BWBRBKGKGKGBWR](/stripes/bwbrbkgkgkgbwr/). It is recorded as **2 variants** — the same
@@ -23,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db12w2db2r2db3k11g12k2g3k2g12db12w13r2~x2~db1004274/"><circle cx="57.6" cy="169.8" r="4" fill="#3465a4"><title>Scottish National Dress</title></circle></a><a href="/variants/s13/w20k3w3k3w3k16g17y5g17k16db16k3db3~x2/"><circle cx="51.3" cy="174.2" r="4" fill="#3465a4"><title>Gordon Dress #2</title></circle></a><a href="/variants/s13/db2dr2db12k5dg12dr2dg2dr2dg12k5w14dr2w2~x2/"><circle cx="74.5" cy="163.5" r="4" fill="#3465a4"><title>Blair Dress</title></circle></a><a href="/variants/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/"><circle cx="54.6" cy="169.3" r="4" fill="#3465a4"><title>MacKenzie Dress - 1950 (Clan)</title></circle></a><a href="/variants/s13/db4k4db10k10g13y3g13k10w4db4w16db2w3~x2/"><circle cx="28.3" cy="180.4" r="4" fill="#3465a4"><title>Gordon Dress Tartan</title></circle></a><a href="/variants/s13/db4k4db10k10g12ly2g12k10w4db4w16db3w2~x2/"><circle cx="26.8" cy="180.4" r="4" fill="#3465a4"><title>Gordon Dress (1965)</title></circle></a><a href="/variants/s20/db10k10g9k2w2k2g9k10w2db2w14db2w2db2w14db2w2k10db10r2~x2/"><circle cx="39.2" cy="149.8" r="4" fill="#3465a4"><title>MacKenzie Dress Clan Tartan</title></circle></a><a href="/variants/s13/db6r2db2r3db12r2k10w2g12r3g2r2g6/"><circle cx="70.9" cy="175.7" r="4" fill="#3465a4"><title>MacDonald of Clanranald D</title></circle></a><a href="/variants/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6~x2/"><circle cx="68.3" cy="175.4" r="4" fill="#3465a4"><title>MacDonald of Clanranald #3</title></circle></a><a href="/variants/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6/"><circle cx="68.3" cy="175.4" r="4" fill="#3465a4"><title>MacDonald of Clanranald D</title></circle></a><circle cx="56.9" cy="170.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

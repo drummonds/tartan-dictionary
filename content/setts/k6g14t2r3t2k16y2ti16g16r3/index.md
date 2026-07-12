@@ -1,6 +1,11 @@
 ---
 title: "Unidentified #37"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified"
+  url: "/tartans/u/un/unidentified-73/"
 ---
 This is the **Unidentified #37** sett — one scale-free proportion (`k6g14t2r3t2k16y2ti16g16r3`), colour order pattern
 [KGBRBKGBGR](/stripes/kgbrbkgbgr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k10y3k2t20k10g15k2r3w3~x2/"><circle cx="85.4" cy="152.7" r="4" fill="#3465a4"><title>McCuaig (Glenelg and the Western Isles)</title></circle></a><a href="/variants/s12/db7w2g3db18y2k15y2g17r5g3r2g7~x2/"><circle cx="95.1" cy="146.7" r="4" fill="#3465a4"><title>Paisley District Tartan</title></circle></a><a href="/variants/s10/k6g14lb2r3lb2k16y2b16g16r3~x2/"><circle cx="83.3" cy="160.1" r="4" fill="#3465a4"><title>Unnamed 4</title></circle></a><a href="/variants/s12/g30w3g4y5g4w3g6k14lb3k14db18w4~x2/"><circle cx="102.2" cy="136.9" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><a href="/variants/s12/g30w3g4ly5g4w3g6k14lb3k14db18w4~x2/"><circle cx="99.9" cy="136.4" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><a href="/variants/s10/k10lb5dp10g20k6g6db10r2db2r4~x2/"><circle cx="65.9" cy="162.5" r="4" fill="#3465a4"><title>Brotherston (Personal)</title></circle></a><a href="/variants/s13/w6k1w1k1w1k8g8y2g8k8db8k1dr2~x2/"><circle cx="52.2" cy="149.7" r="4" fill="#3465a4"><title>Farquharson Dress</title></circle></a><a href="/variants/s12/db7w3g3db18ly3k15ly3g17dr6g3dr2g7~x2/"><circle cx="81.2" cy="157.3" r="4" fill="#3465a4"><title>Drennan</title></circle></a><a href="/variants/s13/lb6k1lb1k1lb1k8g8lo2g8k8db8k1dr2~x2/"><circle cx="59.3" cy="151.7" r="4" fill="#3465a4"><title>Farquharson Dress (Fashion)</title></circle></a><a href="/variants/s12/w4k8db2lb2db4g16y2k15db6lb2k3lb4~x2/"><circle cx="73.3" cy="145.7" r="4" fill="#3465a4"><title>Veere</title></circle></a><circle cx="80.5" cy="160.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

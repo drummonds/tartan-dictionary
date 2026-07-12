@@ -1,6 +1,15 @@
 ---
 title: "Logan #4"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Logan"
+  url: "/clan/logan/"
+- name: "Logan"
+  url: "/families/logan/"
+- name: "Logan"
+  url: "/tartans/l/lo/logan-6/"
 ---
 This is the **Logan #4** sett — one scale-free proportion (`g9ri4g1ri4g15r4g1`), colour order pattern
 [GRGRGRG](/stripes/grgrgrg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g10b4g1b4g15r4g1~x4/"><circle cx="465.1" cy="228.1" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s8/g5n9g4w5g30r2g4r2~x2/"><circle cx="451.7" cy="184.7" r="4" fill="#3465a4"><title>Welsh Assembly (Fashion)</title></circle></a><a href="/variants/s8/g18r6g75db6g13o35g12db6/"><circle cx="470.7" cy="209.7" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><a href="/variants/s12/g21r3g21db5g3r30g3db5g21r3g21db2~x2/"><circle cx="396.9" cy="191.7" r="4" fill="#3465a4"><title>Scottish Piping Society of London</title></circle></a><a href="/variants/s8/g18r6g75db6g13dy35g12db6/"><circle cx="436.5" cy="198.5" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><a href="/variants/s6/lg50r4lg12y23r4g4~x2/"><circle cx="419.1" cy="214.8" r="4" fill="#3465a4"><title>Ingenico (Corporate)</title></circle></a><a href="/variants/s4/g72r25y8w5/"><circle cx="423.3" cy="219.7" r="4" fill="#3465a4"><title>Sugell (Name?)</title></circle></a><a href="/variants/s6/lg50r4lg12y23r4g4~x2~g2408144/"><circle cx="421.6" cy="215.8" r="4" fill="#3465a4"><title>Ingenico</title></circle></a><a href="/variants/s7/g16lo3g14dr16g2dr2g3~x2/"><circle cx="398.0" cy="256.5" r="4" fill="#3465a4"><title>Scott Autumn (Fashion)</title></circle></a><a href="/variants/s7/db1r3g11r2db5g11y1~x2/"><circle cx="367.5" cy="213.3" r="4" fill="#3465a4"><title>MacKintosh Hunting Clan Tartan</title></circle></a><circle cx="456.4" cy="223.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,9 @@
 ---
 title: "Clan Grant"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 **Territory:** Strathspey & Urquhart · **1745 strength:** 850 men
 

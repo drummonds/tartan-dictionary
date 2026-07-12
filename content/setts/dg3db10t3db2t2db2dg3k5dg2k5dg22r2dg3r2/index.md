@@ -1,6 +1,15 @@
 ---
 title: "Lochcarron Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Lochcarron"
+  url: "/clan/lochcarron/"
+- name: "Lochcarron"
+  url: "/families/lochcarron/"
+- name: "Lochcarron Hunting"
+  url: "/tartans/l/lo/lochcarron-hunting-2/"
 ---
 This is the **Lochcarron Hunting** sett — one scale-free proportion (`dg3db10t3db2t2db2dg3k5dg2k5dg22r2dg3r2`), colour order pattern
 [GBBBBBGKGKGRGR](/stripes/gbbbbbgkgkgrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/y1k1dg8db1dg1k8dg1db8dg1k1dg8k1w1~x6/"><circle cx="213.2" cy="157.8" r="4" fill="#3465a4"><title>Robieson, Graham Alexander (Personal)</title></circle></a><a href="/variants/s14/dg3db10k3db2k2db2dg3k5dg2k5dg22r2dg3r2~x2/"><circle cx="255.1" cy="142.6" r="4" fill="#3465a4"><title>Lochcarron Hunting Corporate Tartan</title></circle></a><a href="/variants/s14/db2dg6dp1dg1dp1dg1db2k2db1k2db9g1db2g1~x4~dg1806142-g2506142/"><circle cx="228.6" cy="156.5" r="4" fill="#3465a4"><title>Lochcarron of Scotland</title></circle></a><a href="/variants/s14/dg8dr3dg8k10dp5g32dg5g32dp5k10dg8dr3dg8dp3~x2~dg1603171-g2203152/"><circle cx="208.8" cy="157.0" r="4" fill="#3465a4"><title>Scottish Power Corporate Tartan</title></circle></a><a href="/variants/s12/dg8db8ly1r1k1dg2db2ly1r1k1dg8db8~x4/"><circle cx="230.2" cy="176.1" r="4" fill="#3465a4"><title>Chieftain's</title></circle></a><a href="/variants/s11/ki25k7ki2k2ki2k2db10g6k2g3ki2~x2~ki0700000/"><circle cx="266.9" cy="150.1" r="4" fill="#3465a4"><title>Daks (Chino Check) (Fashion)</title></circle></a><a href="/variants/s11/ki16k2lb2k4dg16r2ki15k6lb2ki3lb4~x2~ki0700000-k0504259/"><circle cx="196.9" cy="170.2" r="4" fill="#3465a4"><title>Scottish Tartans Authority</title></circle></a><a href="/variants/s14/dg6r4dg4r3dg4y2db14k4dg4k28dg18k2dg2k2~x2/"><circle cx="201.5" cy="128.9" r="4" fill="#3465a4"><title>Cypress Presbyterian Church</title></circle></a><a href="/variants/s9/k4t4k2t4k2t22dy27y2r3~x2/"><circle cx="240.1" cy="124.8" r="4" fill="#3465a4"><title>Falkirk District Tartan</title></circle></a><a href="/variants/s13/db10g5db5g60db13g10dbi67g5k5g5k5g13y10~db1106275-dbi1204274/"><circle cx="226.2" cy="125.6" r="4" fill="#3465a4"><title>Princess Beatrice Hunting</title></circle></a><circle cx="247.4" cy="141.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

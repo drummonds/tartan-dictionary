@@ -1,6 +1,15 @@
 ---
 title: "Irving of Glentulchan (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Irving"
+  url: "/clan/irving/"
+- name: "Irving of Glentulchan"
+  url: "/families/irving-of-glentulchan/"
+- name: "Irving of Glentulchan"
+  url: "/tartans/i/ir/irving-of-glentulchan/"
 ---
 This is the **Irving of Glentulchan (Personal)** sett — one scale-free proportion (`g9lb9k1lb1w1lb1k1lb9g9r1`), colour order pattern
 [GWKWWWKWGR](/stripes/gwkwwwkwgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w3db28g26r3g26db26lb12db3lb3/"><circle cx="207.3" cy="197.8" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s8/w3lb3k3lb21g49lb21k3lb3~x2~g2203152/"><circle cx="298.1" cy="161.6" r="4" fill="#3465a4"><title>Irvine of Drum</title></circle></a><a href="/variants/s8/k3r1ly1lb11g13lb5r1ly1~x4~r2109032-ly3307090-g2408144/"><circle cx="219.6" cy="139.0" r="4" fill="#3465a4"><title>Snodgrass</title></circle></a><a href="/variants/s6/r1g9lb9k1lb1w1~x6/"><circle cx="234.6" cy="188.2" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/variants/s9/t12lo1t2lo1t3k5g10lo1g2~x4/"><circle cx="222.7" cy="177.2" r="4" fill="#3465a4"><title>Marie Curie Fields Of Hope</title></circle></a><a href="/variants/s13/g11lr2g12k3lb15dr3lb15g19lr2lb3k2lb3ly3~x2/"><circle cx="171.5" cy="151.9" r="4" fill="#3465a4"><title>Greylock (Corporate)</title></circle></a><a href="/variants/s13/g11lr2g12k3lb15dr3lb15g19lr2lb3k2lb3dy3~x2/"><circle cx="168.8" cy="150.7" r="4" fill="#3465a4"><title>Greylock</title></circle></a><a href="/variants/s9/g28r12g4db20y2db3y2db3g7~x2/"><circle cx="278.0" cy="182.2" r="4" fill="#3465a4"><title>Cork</title></circle></a><a href="/variants/s8/k3r1y1lb11g13lb5r1y1~x4/"><circle cx="198.5" cy="151.5" r="4" fill="#3465a4"><title>Snodgrass (Clan)</title></circle></a><a href="/variants/s7/t33lo6dr3lo6k3lo15t32~x4/"><circle cx="264.5" cy="165.7" r="4" fill="#3465a4"><title>Carlisle (Family)</title></circle></a><circle cx="237.7" cy="176.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

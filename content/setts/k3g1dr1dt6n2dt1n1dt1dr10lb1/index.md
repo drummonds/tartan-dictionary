@@ -1,6 +1,13 @@
 ---
 title: "Crieff Primary School Corporate (Schools) Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Crieff"
+  url: "/clan/crieff/"
+- name: "Crieff Primary School"
+  url: "/tartans/c/cr/crieff-primary-school/"
 ---
 This is the **Crieff Primary School Corporate (Schools) Tartan** sett — one scale-free proportion (`k3g1dr1dt6n2dt1n1dt1dr10lb1`), colour order pattern
 [KGBBBBBBBW](/stripes/kgbbbbbbbw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dp24do2g3o2g3k11do29w2~x2/"><circle cx="212.4" cy="136.3" r="4" fill="#3465a4"><title>Alba</title></circle></a><a href="/variants/s10/do6o4n22dr4k22do22k2dr5k2do6~x2~o2500000-n1900000/"><circle cx="185.1" cy="172.8" r="4" fill="#3465a4"><title>Lochaber (Ingles Buchan)</title></circle></a><a href="/variants/s15/dr12n4dr7do2dr2do28dy2do28k2do2k23dr3ly6dr3k5/"><circle cx="240.5" cy="119.9" r="4" fill="#3465a4"><title>Scottish Register of Tartans' Tartan</title></circle></a><a href="/variants/s10/k3g1dr1db6n2db1n1db1dr10w1~x4/"><circle cx="178.0" cy="140.1" r="4" fill="#3465a4"><title>Crieff Primary School</title></circle></a><a href="/variants/s11/db6k3r2k3dg31k6g2k6dy13k2g2~x2/"><circle cx="215.8" cy="123.7" r="4" fill="#3465a4"><title>Rourke-Frew Hunting</title></circle></a><a href="/variants/s13/dr2do1k1do10dr1do10k13n4k1n11dy9n2lr1~x2~n1700000-lr3000000/"><circle cx="183.7" cy="157.0" r="4" fill="#3465a4"><title>Bruma</title></circle></a><a href="/variants/s7/dy6r3dy34k16y3dt22r4~x2/"><circle cx="263.0" cy="191.8" r="4" fill="#3465a4"><title>Ballantrae (Macnaughtons)</title></circle></a><a href="/variants/s9/k23y2dr3db7dr3y2dg15dr21y5~x2/"><circle cx="171.3" cy="173.1" r="4" fill="#3465a4"><title>Land's End (Unnamed Maroon)</title></circle></a><a href="/variants/s7/dr16y2dy7y2t24k2g2~x2/"><circle cx="221.6" cy="159.7" r="4" fill="#3465a4"><title>Traill Clan/Family Weavers Tartan</title></circle></a><a href="/variants/s12/k8r2k6ly2k2lb2k2dy16dg24r2dg4k3~x2/"><circle cx="161.5" cy="121.3" r="4" fill="#3465a4"><title>Tara (District)</title></circle></a><circle cx="210.9" cy="152.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

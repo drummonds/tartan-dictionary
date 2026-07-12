@@ -1,6 +1,15 @@
 ---
 title: "Ball"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ball"
+  url: "/clan/ball/"
+- name: "Ball"
+  url: "/families/ball/"
+- name: "Ball"
+  url: "/tartans/b/ba/ball/"
 ---
 This is the **Ball** sett — one scale-free proportion (`lo13t8r5k3w2g1`), colour order pattern
 [GWKRBY](/stripes/gwkrby/). It is recorded as **2 variants** — the same
@@ -23,6 +32,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lo13t8r5k3w2g1~x4~r2109032/"><circle cx="134.4" cy="160.6" r="4" fill="#3465a4"><title>Ball</title></circle></a><a href="/variants/s6/dr24lb4k4g4w13k2~x4/"><circle cx="176.9" cy="158.3" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><a href="/variants/s6/r32db6k6g6w18k3/"><circle cx="160.8" cy="161.4" r="4" fill="#3465a4"><title>Rose Dress White Dress Clan Tartan</title></circle></a><a href="/variants/s6/r48db16y5g17w8k3~x2/"><circle cx="205.7" cy="134.4" r="4" fill="#3465a4"><title>Scottish American Society of Michigan (Official)</title></circle></a><a href="/variants/s7/dr36w3lo4g24w24k3lo6~x2/"><circle cx="134.4" cy="167.9" r="4" fill="#3465a4"><title>MacLachlan Dress</title></circle></a><a href="/variants/s7/r34w3dg4g23w24k3dg4~x2/"><circle cx="135.9" cy="163.5" r="4" fill="#3465a4"><title>MacLachlan Dress Clan Tartan</title></circle></a><a href="/variants/s6/k3o24lb16w11lo1g3~x2/"><circle cx="181.7" cy="137.1" r="4" fill="#3465a4"><title>Bro-sant-Malou (Corporate)</title></circle></a><a href="/variants/s6/lo13g8k5lb3w2r1~x4/"><circle cx="122.6" cy="161.7" r="4" fill="#3465a4"><title>Ball Htg (Name)</title></circle></a><a href="/variants/s6/lo13g8k5lb3w2r1~x4~lb3203246/"><circle cx="121.9" cy="161.9" r="4" fill="#3465a4"><title>Ball Hunting</title></circle></a><a href="/variants/s7/lg2r20g2dt15k2lg19lb2~x2/"><circle cx="121.2" cy="159.7" r="4" fill="#3465a4"><title>Wallace Memorial Centenary</title></circle></a><circle cx="134.8" cy="160.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

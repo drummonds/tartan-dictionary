@@ -1,6 +1,11 @@
 ---
 title: "MacNathair Sgianach"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "MacNathair Sgianach"
+  url: "/tartans/m/ma/macnathair-sgianach/"
 ---
 This is the **MacNathair Sgianach** sett — one scale-free proportion (`db1r1k12g1`), colour order pattern
 [BRKG](/stripes/brkg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/k35lo3w3g3~x4/"><circle cx="433.7" cy="159.1" r="4" fill="#3465a4"><title>Dhillon (Personal)</title></circle></a><a href="/variants/s3/k27dg10r2~x4/"><circle cx="432.0" cy="230.5" r="4" fill="#3465a4"><title>The Caledonian Hotel</title></circle></a><a href="/variants/s3/k20w2db1~x6/"><circle cx="544.7" cy="173.9" r="4" fill="#3465a4"><title>Fily (Verneuil L'tang) (Personal)</title></circle></a><a href="/variants/s3/k20w2lb1~x6/"><circle cx="544.7" cy="176.6" r="4" fill="#3465a4"><title>Fily (Verneuil L'tang) (Personal)</title></circle></a><a href="/variants/s5/r2g2k20w1db1~x6/"><circle cx="423.3" cy="109.6" r="4" fill="#3465a4"><title>Fily, Sylvain Roger</title></circle></a><a href="/variants/s3/k69r14y5~x2/"><circle cx="462.1" cy="196.2" r="4" fill="#3465a4"><title>Batson (Personal)</title></circle></a><a href="/variants/s5/k100r1n10db10y2~x2/"><circle cx="539.8" cy="83.1" r="4" fill="#3465a4"><title>Forand (Personal)</title></circle></a><a href="/variants/s4/r3db12k50y3~x2/"><circle cx="444.1" cy="166.4" r="4" fill="#3465a4"><title>Rogues (United States), The</title></circle></a><a href="/variants/s4/r3lb12k50ly3~x2/"><circle cx="399.5" cy="155.9" r="4" fill="#3465a4"><title>Rogues, The (Corporate)</title></circle></a><a href="/variants/s4/dr1k20lb5dr1~x4/"><circle cx="431.5" cy="161.5" r="4" fill="#3465a4"><title>Dobelman (Personal)</title></circle></a><circle cx="471.7" cy="163.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

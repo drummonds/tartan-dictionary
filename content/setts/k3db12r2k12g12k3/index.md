@@ -1,6 +1,15 @@
 ---
 title: "Ferguson of Balquhidder #3"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ferguson"
+  url: "/clan/ferguson/"
+- name: "Ferguson of Balquhidder"
+  url: "/families/ferguson-of-balquhidder/"
+- name: "Ferguson of Balquhidder"
+  url: "/tartans/f/fe/ferguson-of-balquhidder-2/"
 ---
 This is the **Ferguson of Balquhidder #3** sett — one scale-free proportion (`k3db12r2k12g12k3`), colour order pattern
 [KBRKGK](/stripes/kbrkgk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3db14r2k14g14k3~x2/"><circle cx="148.0" cy="219.2" r="4" fill="#3465a4"><title>Gallamore</title></circle></a><a href="/variants/s6/k4w2g13k13b12k2~x2/"><circle cx="132.5" cy="220.8" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s6/k5w2g18k17db16k3/"><circle cx="153.0" cy="208.9" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s6/k4w2g18k13db12k2~x2/"><circle cx="141.0" cy="205.7" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s6/k3dg11k3b11k18o3~x2/"><circle cx="190.1" cy="222.5" r="4" fill="#3465a4"><title>The Harbour Town, Hilton Head</title></circle></a><a href="/variants/s6/k4g25k24r3db24g4~x2/"><circle cx="142.8" cy="212.3" r="4" fill="#3465a4"><title>Ferguson of Balquhidder #2</title></circle></a><a href="/variants/s5/g7k6db7k1db2~x2/"><circle cx="176.0" cy="262.2" r="4" fill="#3465a4"><title>Campbell of Glenlyon Clan Tartan</title></circle></a><a href="/variants/s5/k5g20k18db20r5~x2/"><circle cx="97.1" cy="269.1" r="4" fill="#3465a4"><title>Denholm (Fashion)</title></circle></a><a href="/variants/s5/k2g8k7db8r2~x2/"><circle cx="95.4" cy="269.4" r="4" fill="#3465a4"><title>Denholme</title></circle></a><a href="/variants/s7/db4k2db10k10g10k2dr3~x2/"><circle cx="122.0" cy="240.8" r="4" fill="#3465a4"><title>MacKinlay (Clan)</title></circle></a><circle cx="142.1" cy="228.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

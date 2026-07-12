@@ -1,6 +1,11 @@
 ---
 title: "Rice of Wales"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Rice"
+  url: "/clan/rice/"
 ---
 A family of [Clan Rice](/clan/rice/).
 

@@ -1,6 +1,15 @@
 ---
 title: "Gunn - 1810 (Clan)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Gunn"
+  url: "/clan/gunn/"
+- name: "Gunn"
+  url: "/families/gunn/"
+- name: "Gunn"
+  url: "/tartans/g/gu/gunn-4/"
 ---
 This is the **Gunn - 1810 (Clan)** sett — one scale-free proportion (`r4g12k12g2db12g3`), colour order pattern
 [GBGKGR](/stripes/gbgkgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y1g6k5g1db5g1~x2/"><circle cx="157.1" cy="231.9" r="4" fill="#3465a4"><title>MacKay (Bonner)</title></circle></a><a href="/variants/s6/r4g11k11g2db11dy3~x4/"><circle cx="73.7" cy="233.3" r="4" fill="#3465a4"><title>Casely (Name)</title></circle></a><a href="/variants/s6/k3g14k14g2db14g3/"><circle cx="169.8" cy="239.6" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/variants/s6/k3g14k14g2db14g3~x2/"><circle cx="169.8" cy="239.6" r="4" fill="#3465a4"><title>MacKay Clan Tartan</title></circle></a><a href="/variants/s7/t10k3t10k14r2g14k4~x2/"><circle cx="120.8" cy="227.8" r="4" fill="#3465a4"><title>Fletcher #2</title></circle></a><a href="/variants/s6/dg4g18dg3k17dg18b4~x2/"><circle cx="157.3" cy="241.6" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/variants/s6/w2dp10k10g9k3w2~x2/"><circle cx="98.9" cy="235.8" r="4" fill="#3465a4"><title>MacNeil 2</title></circle></a><a href="/variants/s7/db3r1db10k8g10r1g3~x4/"><circle cx="156.0" cy="203.5" r="4" fill="#3465a4"><title>Blair Clan Tartan</title></circle></a><a href="/variants/s7/db5lb4db22k15g22r4g4~x2/"><circle cx="106.6" cy="210.9" r="4" fill="#3465a4"><title>Cairngorm #2</title></circle></a><a href="/variants/s7/t10k3t10k14r2g14r5~x2/"><circle cx="100.4" cy="230.5" r="4" fill="#3465a4"><title>Fletcher of Dunans</title></circle></a><circle cx="125.8" cy="238.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

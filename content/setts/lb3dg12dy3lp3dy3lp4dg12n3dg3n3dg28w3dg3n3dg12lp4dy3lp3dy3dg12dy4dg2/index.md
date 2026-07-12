@@ -1,6 +1,15 @@
 ---
 title: "Cox"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cox"
+  url: "/clan/cox/"
+- name: "Cox"
+  url: "/families/cox/"
+- name: "Cox"
+  url: "/tartans/c/co/cox-2/"
 ---
 This is the **Cox** sett — one scale-free proportion (`lb3dg12dy3lp3dy3lp4dg12n3dg3n3dg28w3dg3n3dg12lp4dy3lp3dy3dg12dy4dg2`), colour order pattern
 [GGGGWGWGBGWGBGBGWGWGGW](/stripes/ggggwgwgbgwgbgbgwgwggw/). It is recorded as a single **variant**, below.

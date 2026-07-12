@@ -1,6 +1,15 @@
 ---
 title: "Graham of Montrose"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Graham"
+  url: "/clan/graham/"
+- name: "Graham of Montrose"
+  url: "/families/graham-of-montrose/"
+- name: "Graham of Montrose"
+  url: "/tartans/g/gr/graham-of-montrose/"
 ---
 This is the **Graham of Montrose** sett — one scale-free proportion (`k4g19k16w2db15g4`), colour order pattern
 [GBWKGK](/stripes/gbwkgk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k4g25k24r3db24g4~x2/"><circle cx="142.8" cy="212.3" r="4" fill="#3465a4"><title>Ferguson of Balquhidder #2</title></circle></a><a href="/variants/s6/k2g12k12r1db12g2~x2/"><circle cx="157.0" cy="197.6" r="4" fill="#3465a4"><title>Ferguson of Balquhidder</title></circle></a><a href="/variants/s6/k3g14k14g2db15y2~x2/"><circle cx="139.5" cy="220.3" r="4" fill="#3465a4"><title>Glenturret Corporate Tartan</title></circle></a><a href="/variants/s6/k3g14k14g2db14r3/"><circle cx="126.6" cy="223.5" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/variants/s6/k3g14k14g2db14r3~x2/"><circle cx="126.6" cy="223.5" r="4" fill="#3465a4"><title>Morrison Clan Tartan</title></circle></a><a href="/variants/s6/k3g14k14g2t14r3~x2/"><circle cx="119.1" cy="224.2" r="4" fill="#3465a4"><title>Morrison Society</title></circle></a><a href="/variants/s6/k2g9lb1k6b4g2~x2/"><circle cx="179.2" cy="213.0" r="4" fill="#3465a4"><title>Unnamed 3</title></circle></a><a href="/variants/s6/k3g14k14g2db14g3/"><circle cx="169.8" cy="239.6" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/variants/s6/k3g14k14g2db14g3~x2/"><circle cx="169.8" cy="239.6" r="4" fill="#3465a4"><title>MacKay Clan Tartan</title></circle></a><a href="/variants/s6/k4g23k23g2t23g4~x2/"><circle cx="178.5" cy="215.8" r="4" fill="#3465a4"><title>MacKay (Logan)</title></circle></a><circle cx="149.5" cy="212.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

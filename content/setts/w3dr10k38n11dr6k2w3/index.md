@@ -1,6 +1,15 @@
 ---
 title: "Phantom"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Phantom"
+  url: "/clan/phantom/"
+- name: "Phantom"
+  url: "/families/phantom/"
+- name: "Phantom"
+  url: "/tartans/p/ph/phantom/"
 ---
 This is the **Phantom** sett — one scale-free proportion (`w3dr10k38n11dr6k2w3`), colour order pattern
 [WBKBBKW](/stripes/wbkbbkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w3r10k38n11r6k2w3~x2/"><circle cx="259.0" cy="125.9" r="4" fill="#3465a4"><title>Phantom (Corporate)</title></circle></a><a href="/variants/s9/k38lb2o24w2k16o6lb2k3lb5~x2/"><circle cx="284.8" cy="120.5" r="4" fill="#3465a4"><title>Universal Scientific Indust (Corp.)</title></circle></a><a href="/variants/s8/lo8k50n15dg6n6db3n6lo2~x2/"><circle cx="255.6" cy="102.5" r="4" fill="#3465a4"><title>Royal College of G.P.s (Corporate)</title></circle></a><a href="/variants/s6/k43dr10w3k3w15db3~x2/"><circle cx="283.7" cy="148.6" r="4" fill="#3465a4"><title>Bro-Wened</title></circle></a><a href="/variants/s7/k32t2k6t2k13n30w2~x2/"><circle cx="304.4" cy="152.8" r="4" fill="#3465a4"><title>Mountain Rescue Association Honor Guard</title></circle></a><a href="/variants/s7/k60w2r10dg6w4r15y10~x2/"><circle cx="272.8" cy="91.7" r="4" fill="#3465a4"><title>Iberia Dress, Black (Fashion)</title></circle></a><a href="/variants/s7/k30w2n4y10w9k3n5~x2/"><circle cx="224.6" cy="150.2" r="4" fill="#3465a4"><title>Virginia Commonwealth University</title></circle></a><a href="/variants/s7/lo2w1db6w1ly2k17ly1~x2/"><circle cx="257.3" cy="117.8" r="4" fill="#3465a4"><title>East Tennessee State University</title></circle></a><a href="/variants/s5/n4k48n16r12db3~x2/"><circle cx="299.3" cy="164.2" r="4" fill="#3465a4"><title>Calgary Firefighters</title></circle></a><a href="/variants/s8/db6r1db2r1db2k18r8g2~x4/"><circle cx="223.3" cy="132.5" r="4" fill="#3465a4"><title>Brown Family Tartan</title></circle></a><circle cx="273.5" cy="135.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

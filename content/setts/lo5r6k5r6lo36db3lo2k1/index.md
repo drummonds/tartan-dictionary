@@ -1,6 +1,11 @@
 ---
 title: "Lermontov Bicentenary"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Lermontov Bicentenary"
+  url: "/tartans/l/le/lermontov-bicentenary-2/"
 ---
 This is the **Lermontov Bicentenary** sett — one scale-free proportion (`lo5r6k5r6lo36db3lo2k1`), colour order pattern
 [KYBYRKRY](/stripes/kybyrkry/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r12g6k1g2k1g1k6r24w2~x4/"><circle cx="355.6" cy="104.6" r="4" fill="#3465a4"><title>Stuart of Bute, The Htg (Clan)</title></circle></a><a href="/variants/s9/r12g6k1g2k1g1k6r24w2~x2/"><circle cx="355.6" cy="104.6" r="4" fill="#3465a4"><title>Stuart of Bute Clan Tartan</title></circle></a><a href="/variants/s6/lb5k1w11k1r42k1~x2/"><circle cx="422.7" cy="83.3" r="4" fill="#3465a4"><title>Davet (2014)</title></circle></a><a href="/variants/s6/r36g18r4g6k1w2~x2/"><circle cx="394.9" cy="127.8" r="4" fill="#3465a4"><title>MacGregor Clan Tartan</title></circle></a><a href="/variants/s6/r36g18r4g6k1w2/"><circle cx="394.9" cy="127.8" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s6/r41g19r7g8k1w3~x2/"><circle cx="398.5" cy="127.3" r="4" fill="#3465a4"><title>MacGregor #4</title></circle></a><a href="/variants/s8/lo49db16k2w3db2w2db3lo2~x2/"><circle cx="369.8" cy="97.9" r="4" fill="#3465a4"><title>Irn Bru</title></circle></a><a href="/variants/s9/r33w1k3w1g13r7k3dp3w1~x2/"><circle cx="334.1" cy="72.4" r="4" fill="#3465a4"><title>Leach, Leech, Leitch, dress</title></circle></a><a href="/variants/s10/r4g4w3g4r4g14r28k1r3g4~x2/"><circle cx="350.3" cy="114.9" r="4" fill="#3465a4"><title>Scott - 1842 (Clan)</title></circle></a><a href="/variants/s12/r36y4r1y4r4k8r4k2r4w2r1w4~x2/"><circle cx="387.1" cy="58.0" r="4" fill="#3465a4"><title>Manchester Reds</title></circle></a><circle cx="387.4" cy="87.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

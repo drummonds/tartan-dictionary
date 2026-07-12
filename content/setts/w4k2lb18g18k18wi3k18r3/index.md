@@ -1,6 +1,15 @@
 ---
 title: "Hislop (Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hislop"
+  url: "/clan/hislop/"
+- name: "Hislop"
+  url: "/families/hislop/"
+- name: "Hislop"
+  url: "/tartans/h/hi/hislop/"
 ---
 This is the **Hislop (Name)** sett — one scale-free proportion (`w4k2lb18g18k18wi3k18r3`), colour order pattern
 [RKWKGWKW](/stripes/rkwkgwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r2k8y1k8g8db8k2w2~x2/"><circle cx="115.5" cy="176.5" r="4" fill="#3465a4"><title>Hislop Family Tartan</title></circle></a><a href="/variants/s7/r2k8lo1k8g8lb8r2~x4/"><circle cx="108.8" cy="196.5" r="4" fill="#3465a4"><title>Brodie Hunting (Clan)</title></circle></a><a href="/variants/s8/r2k8y1k8g13db13lo1r2~x2/"><circle cx="99.1" cy="148.0" r="4" fill="#3465a4"><title>Sey (Name)</title></circle></a><a href="/variants/s9/g16b2dp13lb2k6y2g16lb2k12~x2/"><circle cx="127.1" cy="168.5" r="4" fill="#3465a4"><title>Wilson's, No 225</title></circle></a><a href="/variants/s7/do8w8k16dg32db3y5w5~x2/"><circle cx="117.7" cy="155.4" r="4" fill="#3465a4"><title>Mellor, Phillip (Oldham)</title></circle></a><a href="/variants/s9/db20k10lo3k7dr4k7lo3k8g20~x2/"><circle cx="105.7" cy="194.1" r="4" fill="#3465a4"><title>Scottish Tartan Society</title></circle></a><a href="/variants/s7/w5k26ly2g24db8k4r3~x2/"><circle cx="133.2" cy="139.8" r="4" fill="#3465a4"><title>Cornish Htg (District)</title></circle></a><a href="/variants/s9/r2k2w2k14dg13g6y2k2w2~x2/"><circle cx="100.6" cy="152.0" r="4" fill="#3465a4"><title>Madewell</title></circle></a><a href="/variants/s9/w3db1w1db3k1y1k8g3dp2~x2/"><circle cx="75.7" cy="153.2" r="4" fill="#3465a4"><title>Scottish Cultural Society Ltd</title></circle></a><a href="/variants/s9/db4g17lb3r3lb3k19y2g17r4~x2/"><circle cx="143.1" cy="150.6" r="4" fill="#3465a4"><title>Wilson's, No 33</title></circle></a><circle cx="109.4" cy="162.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

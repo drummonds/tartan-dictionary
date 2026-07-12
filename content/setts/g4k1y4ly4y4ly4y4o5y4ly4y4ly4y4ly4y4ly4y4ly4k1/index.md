@@ -1,6 +1,15 @@
 ---
 title: "Peeper (check)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Peeper"
+  url: "/clan/peeper/"
+- name: "Peeper"
+  url: "/families/peeper/"
+- name: "Peeper"
+  url: "/tartans/p/pe/peeper-2/"
 ---
 This is the **Peeper (check)** sett — one scale-free proportion (`g4k1y4ly4y4ly4y4o5y4ly4y4ly4y4ly4y4ly4y4ly4k1`), colour order pattern
 [GKGYGYGRGYGYGYGYGYK](/stripes/gkgygygrgygygygygyk/). It is recorded as a single **variant**, below.

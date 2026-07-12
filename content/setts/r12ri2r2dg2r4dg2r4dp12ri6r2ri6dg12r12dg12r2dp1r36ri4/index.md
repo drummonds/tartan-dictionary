@@ -1,6 +1,11 @@
 ---
 title: "MacCoul"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "MacCoul"
+  url: "/tartans/m/ma/maccoul/"
 ---
 This is the **MacCoul** sett — one scale-free proportion (`r12ri2r2dg2r4dg2r4dp12ri6r2ri6dg12r12dg12r2dp1r36ri4`), colour order pattern
 [RRBRGRGRRRBRGRGRRR](/stripes/rrbrgrgrrrbrgrgrrr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/ri12r2ri2g2ri4g2ri4db12r6ri2r6g12ri12g12ri2db1ri36r4~x2~ri2008029-r1707016/"><circle cx="370.8" cy="107.5" r="4" fill="#3465a4"><title>MacCoul</title></circle></a><a href="/variants/s18/ri12r2ri2g2ri4g2ri4db12r6ri2r6g12ri12g12ri2db1ri36r4~x2~ri2109032-r1807008/"><circle cx="367.2" cy="105.8" r="4" fill="#3465a4"><title>MacCoul Clan Tartan</title></circle></a><a href="/variants/s10/y4r4do2r32t1do12r2y16r4do2~x2/"><circle cx="417.6" cy="141.8" r="4" fill="#3465a4"><title>Wcwm 9275-1626</title></circle></a><a href="/variants/s15/r6dp2r2dg24r2dg2r2dp8r2lb1r32dp2r2dp1r6~x2/"><circle cx="388.2" cy="90.8" r="4" fill="#3465a4"><title>Drummond - 1819 (Clan)</title></circle></a><a href="/variants/s16/r4n2r24k1n8r2n1r2n4r2n1r2n16ly2n1ly4~x2/"><circle cx="358.8" cy="110.5" r="4" fill="#3465a4"><title>Brian Boru 1014 (Commemorative)</title></circle></a><a href="/variants/s22/ri6g12ri2db1ri36r4ri36db1ri2g12ri12g12r6ri2r6db12ri4g2ri4g36ri2r2~x4~ri2109032-r1707016/"><circle cx="336.3" cy="95.4" r="4" fill="#3465a4"><title>MacDougall</title></circle></a><a href="/variants/s11/r5dr2r2g42r5dr36r70dr2y2r7g2~x2/"><circle cx="366.8" cy="109.7" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/variants/s11/r5dr2r2g42r5dr36r70dr2y2r7g2/"><circle cx="366.8" cy="109.7" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/variants/s18/r2dp17r2dg3r2dp2r20dg1ly1r1dg2r2dp18r2dg2r24dg3w1~x2/"><circle cx="341.4" cy="89.2" r="4" fill="#3465a4"><title>Plowman (Personal)</title></circle></a><a href="/variants/s17/r36y2dp1r3g41r3dp1y2r3dp12r3y2dp1r37g3ri3g4~x2~r2109032-ri2307033/"><circle cx="372.8" cy="72.9" r="4" fill="#3465a4"><title>Lochiel (Cameron)</title></circle></a><circle cx="391.2" cy="111.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

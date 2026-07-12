@@ -1,6 +1,11 @@
 ---
 title: "MacDonald"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDonald"
+  url: "/clan/macdonald/"
 ---
 A family of [Clan MacDonald](/clan/macdonald/).
 
@@ -9,9 +14,9 @@ A family of [Clan MacDonald](/clan/macdonald/).
 ## Tartans
 
 <ul class="clan-grid">
-<li><a class="tartan" href="/tartans/m/ma/macdonald-7/"><img src="/variants/s12/db11r2db2r4db15r2k15g15r4g2r2g11~x2/sett.png" alt="MacDonald 7" width="140"><br><strong>MacDonald 7 (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/m/ma/macdonald-3/"><img src="/variants/s12/db17r2db2r5db29r2k31g29r5g2r2g17~x2/sett.png" alt="MacDonald" width="140"><br><strong>MacDonald (2)</strong></a></li>
 <li><a class="tartan" href="/tartans/m/ma/macdonald/"><img src="/variants/s23/g20r2g4r6g32k32r2db32r6db3r2db20r2db3r6db32r2k32g32r6g4r2g10~x2/sett.png" alt="MacDonald" width="140"><br><strong>MacDonald (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/m/ma/macdonald-7/"><img src="/variants/s12/db11r2db2r4db15r2k15g15r4g2r2g11~x2/sett.png" alt="MacDonald 7" width="140"><br><strong>MacDonald 7 (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/m/ma/macdonald-5/"><img src="/variants/s12/db16r2db2r5db29r2k31g29r5g2r2g16~x2/sett.png" alt="MacDonald 5" width="140"><br><strong>MacDonald 5 (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/m/ma/macdonald-4/"><img src="/variants/s12/db17r2db2r6db32r2k34g32r6g2r2g17~x2/sett.png" alt="MacDonald 4" width="140"><br><strong>MacDonald 4 (1)</strong></a></li>
 <li><a class="tartan" href="/tartans/m/ma/macdonald-3/"><img src="/variants/s12/db12r2db2r5db26r2k29g27r5g2r2g12~x2/sett.png" alt="MacDonald 3" width="140"><br><strong>MacDonald 3 (1)</strong></a></li>

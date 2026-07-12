@@ -1,6 +1,11 @@
 ---
 title: "Motherwell Football Club Official"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Motherwell Football Club Official"
+  url: "/tartans/m/mo/motherwell-football-club-official/"
 ---
 This is the **Motherwell Football Club Official** sett — one scale-free proportion (`dr20y1dr10y10k1dr5w1dr5k1y5dr11k2w4y3dr5`), colour order pattern
 [BGBGKBWBKGBKWGB](/stripes/bgbgkbwbkgbkwgb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dg12r4k1y1r2k1y1r4dg16r20dg2r8~x2/"><circle cx="321.3" cy="124.0" r="4" fill="#3465a4"><title>Livingstone (Australia) NSW</title></circle></a><a href="/variants/s12/dg12r4k1ly1r2k1ly1r4dg16r20dg2r8~x2/"><circle cx="314.5" cy="121.8" r="4" fill="#3465a4"><title>Livingstone Australia (NSW) (Clan)</title></circle></a><a href="/variants/s9/dr12g6k1g2k1g1k6dr24w2~x2/"><circle cx="370.1" cy="116.9" r="4" fill="#3465a4"><title>Stuart/Stewart of Bute Hunting</title></circle></a><a href="/variants/s14/dr48g6dr6g12y3g2k3g2y3g12dr6g6dr48k3~x2/"><circle cx="426.5" cy="104.9" r="4" fill="#3465a4"><title>Oakhall</title></circle></a><a href="/variants/s15/r6db2r3dg12r2dg2r2db4r2lb2r14db2r2db1r6~x2~r2109032-db0906265-dg1405139-lb3203246/"><circle cx="327.2" cy="149.2" r="4" fill="#3465a4"><title>Drummond of Megginch - Child's Kilt (c.1890)</title></circle></a><a href="/variants/s16/r30k8r2k2r3k2r8ri15r8k2r3k2r2k8r30w3~x2~r1506019-ri2109032/"><circle cx="368.5" cy="108.3" r="4" fill="#3465a4"><title>Chicago University of.. Corporate Tartan</title></circle></a><a href="/variants/s12/r8g1r8g16r4k2lb1k4r8g1r8k1~x2/"><circle cx="285.1" cy="138.6" r="4" fill="#3465a4"><title>MacLeod and MacNicol</title></circle></a><a href="/variants/s16/dr17y1dr8db2k1db16y3dr1w1dr15db4dr2w3dr1w1dr16~x2/"><circle cx="358.4" cy="111.3" r="4" fill="#3465a4"><title>Ruxton Hunting</title></circle></a><a href="/variants/s9/dr12g6k6g2k1g1k6dr24w2~x2/"><circle cx="300.5" cy="103.1" r="4" fill="#3465a4"><title>Hunter of Bute (Personal)</title></circle></a><a href="/variants/s15/dr12g2dr1g1dr1g1dr6g12dr1k1dr12k1dr1k1dr3~x4/"><circle cx="400.6" cy="150.6" r="4" fill="#3465a4"><title>MacDonell of Keppoch #3</title></circle></a><circle cx="362.4" cy="125.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

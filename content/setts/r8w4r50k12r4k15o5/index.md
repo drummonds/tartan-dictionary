@@ -1,6 +1,13 @@
 ---
 title: "Instakilt, Pink (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Instakilt"
+  url: "/clan/instakilt/"
+- name: "Instakilt, Pink"
+  url: "/tartans/i/in/instakilt-pink/"
 ---
 This is the **Instakilt, Pink (Fashion)** sett — one scale-free proportion (`r8w4r50k12r4k15o5`), colour order pattern
 [RKRKRWR](/stripes/rkrkrwr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r8w4r50k12r4k15g5~x2/"><circle cx="317.9" cy="137.5" r="4" fill="#3465a4"><title>Instakilt, Red (Fashion)</title></circle></a><a href="/variants/s7/k2r1k2r14w1r1w1~x8/"><circle cx="418.1" cy="125.1" r="4" fill="#3465a4"><title>White Stripes Dress, (Corporate)</title></circle></a><a href="/variants/s5/r41k19r7k9w3~x2/"><circle cx="327.8" cy="176.7" r="4" fill="#3465a4"><title>MacGregor, Black (Personal)</title></circle></a><a href="/variants/s7/r6w3r17k3r3k25r3~x2/"><circle cx="253.3" cy="178.1" r="4" fill="#3465a4"><title>Bon Accord</title></circle></a><a href="/variants/s5/r36k18r4k7w2~x2/"><circle cx="338.0" cy="161.0" r="4" fill="#3465a4"><title>Hopkins (Name)</title></circle></a><a href="/variants/s8/k4r4ly2r41k4r4k12w2~x2/"><circle cx="372.9" cy="96.3" r="4" fill="#3465a4"><title>Aberdeen F. C. (2002) (Sports)</title></circle></a><a href="/variants/s8/k4r4y2r41k4r4k12w2~x2/"><circle cx="374.8" cy="96.7" r="4" fill="#3465a4"><title>Aberdeen Football Club (2002)</title></circle></a><a href="/variants/s5/r20k2r2k15w1~x2/"><circle cx="324.5" cy="154.8" r="4" fill="#3465a4"><title>Masai Shuka 15 (Artefact)</title></circle></a><a href="/variants/s7/r4g5r2k6r18k2r4~x2/"><circle cx="352.4" cy="181.3" r="4" fill="#3465a4"><title>MacQuarrie #7</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y1~x2/"><circle cx="274.5" cy="187.7" r="4" fill="#3465a4"><title>MacKeane (Clan?)</title></circle></a><circle cx="320.6" cy="137.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

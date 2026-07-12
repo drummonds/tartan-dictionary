@@ -1,6 +1,11 @@
 ---
 title: "Cochrane of Dundonald"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cochrane"
+  url: "/clan/cochrane/"
 ---
 A family of [Clan Cochrane](/clan/cochrane/).
 

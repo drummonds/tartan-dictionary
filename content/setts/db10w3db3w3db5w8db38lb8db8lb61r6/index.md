@@ -1,6 +1,11 @@
 ---
 title: "Caleys Windsor (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Caleys Windsor"
+  url: "/tartans/c/ca/caleys-windsor/"
 ---
 This is the **Caleys Windsor (Corporate)** sett — one scale-free proportion (`db10w3db3w3db5w8db38lb8db8lb61r6`), colour order pattern
 [BWBWBWBWBWR](/stripes/bwbwbwbwbwr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db6w2db2w2db4w6db28lb4db4lb45r4/"><circle cx="282.5" cy="122.5" r="4" fill="#3465a4"><title>Edinburgh '86</title></circle></a><a href="/variants/s11/db3w1db1w1db2w3db15lb2db2lb22r2~x2/"><circle cx="277.0" cy="124.0" r="4" fill="#3465a4"><title>Commonwealth Games 1986 #2</title></circle></a><a href="/variants/s11/db3w1db1w1db2w3db15t2db2t22r2~x2/"><circle cx="299.6" cy="134.8" r="4" fill="#3465a4"><title>Commonwealth Games 1986 (Corp)</title></circle></a><a href="/variants/s11/db6w2db2w2db4w6db28b4db4b45r4/"><circle cx="315.2" cy="133.2" r="4" fill="#3465a4"><title>Edinburgh, '86</title></circle></a><a href="/variants/s9/lb14w1lb3y2lb3w1lb4db24r3~x2/"><circle cx="262.7" cy="124.3" r="4" fill="#3465a4"><title>Musselburgh District Tartan</title></circle></a><a href="/variants/s13/db4r3lb23db16w5lb3r2lb3w5lb11db2r1db4~x2/"><circle cx="261.4" cy="136.8" r="4" fill="#3465a4"><title>Illinois St Andrews Society Corporate Tartan</title></circle></a><a href="/variants/s8/db42r2lb2r2db5b12lb32db4~x2/"><circle cx="305.2" cy="151.3" r="4" fill="#3465a4"><title>Longniddry Lavender (Dance)</title></circle></a><a href="/variants/s10/dbi4w2dbi1lb24dbi10w1db2w5db3r2~x2~dbi1204274-db1106275/"><circle cx="231.7" cy="115.8" r="4" fill="#3465a4"><title>Rikaco Morning Dew 1 (Fashion)</title></circle></a><a href="/variants/s8/w8db4y2db36lb48db2lb4r5~x2/"><circle cx="281.8" cy="129.7" r="4" fill="#3465a4"><title>MacRaes of America</title></circle></a><a href="/variants/s9/db12lb2db2t6db4lb3db4lb18r1~x4~db1406275-t2405244/"><circle cx="280.1" cy="175.5" r="4" fill="#3465a4"><title>Thorburn #1 (Name)</title></circle></a><circle cx="273.1" cy="131.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

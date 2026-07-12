@@ -1,6 +1,11 @@
 ---
 title: "James of Glencarr"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan James"
+  url: "/clan/james/"
 ---
 A family of [Clan James](/clan/james/).
 

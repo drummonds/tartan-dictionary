@@ -1,6 +1,15 @@
 ---
 title: "Caledonian District Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Caledonian"
+  url: "/clan/caledonian/"
+- name: "Caledonian"
+  url: "/families/caledonian/"
+- name: "Caledonian"
+  url: "/tartans/c/ca/caledonian/"
 ---
 This is the **Caledonian District Tartan** sett — one scale-free proportion (`r60dp20r8g45r8dp2`), colour order pattern
 [BRGRBR](/stripes/brgrbr/). It is recorded as **2 variants** — the same
@@ -23,6 +32,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r60dp20r8g45r8dp2~x2/"><circle cx="373.6" cy="179.8" r="4" fill="#3465a4"><title>Caledonian District Tartan</title></circle></a><a href="/variants/s6/r80dp19r8g36r10dp2~x2/"><circle cx="455.0" cy="157.2" r="4" fill="#3465a4"><title>Lovat or Fraser #2</title></circle></a><a href="/variants/s6/r60db20r8g45r8db2~x2/"><circle cx="360.9" cy="177.8" r="4" fill="#3465a4"><title>Caledonian</title></circle></a><a href="/variants/s7/r107k9r5dp41r5g51r14/"><circle cx="325.0" cy="138.8" r="4" fill="#3465a4"><title>Buccleuch</title></circle></a><a href="/variants/s6/r70db20r10g40r10db3/"><circle cx="385.6" cy="183.9" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s6/r2g20r2db8r36g1~x2/"><circle cx="411.9" cy="155.2" r="4" fill="#3465a4"><title>Robertson</title></circle></a><a href="/variants/s7/r4g4lo4g12r22lo1g4~x4/"><circle cx="372.8" cy="190.7" r="4" fill="#3465a4"><title>Spice Apple</title></circle></a><a href="/variants/s8/r5g20r25db1r25db20r5db1~x4/"><circle cx="367.0" cy="178.3" r="4" fill="#3465a4"><title>Franklin Museum Unidentified 2</title></circle></a><a href="/variants/s6/r68db18r9g34r9db3~x2/"><circle cx="400.7" cy="181.1" r="4" fill="#3465a4"><title>MacKintosh #2</title></circle></a><a href="/variants/s6/r24db6r3g12r4db1/"><circle cx="409.7" cy="179.7" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><circle cx="373.6" cy="179.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

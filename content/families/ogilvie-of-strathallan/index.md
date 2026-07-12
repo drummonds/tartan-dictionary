@@ -1,6 +1,11 @@
 ---
 title: "Ogilvie of Strathallan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ogilvie"
+  url: "/clan/ogilvie/"
 ---
 A family of [Clan Ogilvie](/clan/ogilvie/).
 

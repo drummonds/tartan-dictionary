@@ -1,6 +1,15 @@
 ---
 title: "Balfour #2"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Balfour"
+  url: "/clan/balfour/"
+- name: "Balfour"
+  url: "/families/balfour/"
+- name: "Balfour Hunting"
+  url: "/tartans/b/ba/balfour-hunting/"
 ---
 This is the **Balfour #2** sett — one scale-free proportion (`db18y2dy6y2dy19r3`), colour order pattern
 [BGGGGR](/stripes/bggggr/). It is recorded as **2 variants** — the same
@@ -23,6 +32,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db18y2dy6y2dy19r3~x4/"><circle cx="361.6" cy="237.6" r="4" fill="#3465a4"><title>Balfour (Clan)</title></circle></a><a href="/variants/s6/db30y3dy11y3n33r6~x2/"><circle cx="278.2" cy="223.6" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/variants/s6/dy15r5dy30db32dy4y3~x2/"><circle cx="409.2" cy="243.1" r="4" fill="#3465a4"><title>Cameron Hunting Brown Clan Tartan</title></circle></a><a href="/variants/s6/do15r5do30db32do4lo3~x2/"><circle cx="388.5" cy="235.9" r="4" fill="#3465a4"><title>Cameron Hunting (Clan)</title></circle></a><a href="/variants/s7/r3dg10r3dg14db16dg3dy2~x2/"><circle cx="345.8" cy="248.5" r="4" fill="#3465a4"><title>Cameron of Locheil Htg (1952) (Clan)</title></circle></a><a href="/variants/s5/db16dy2db16dy19r4~x3/"><circle cx="419.3" cy="288.1" r="4" fill="#3465a4"><title>Unidentified #24</title></circle></a><a href="/variants/s5/r1dy8r2db8lb1~x2/"><circle cx="263.2" cy="239.8" r="4" fill="#3465a4"><title>Unamed Riding cloak 1745</title></circle></a><a href="/variants/s6/dy34db27r3db27dy34w3~x2/"><circle cx="378.1" cy="256.1" r="4" fill="#3465a4"><title>London Regiment</title></circle></a><a href="/variants/s6/dy15r5dy30t32dy4lo3~x2/"><circle cx="343.0" cy="223.7" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/variants/s5/db6w1dy6do12r2~x4/"><circle cx="293.2" cy="238.6" r="4" fill="#3465a4"><title>Vass (Personal)</title></circle></a><circle cx="361.6" cy="237.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

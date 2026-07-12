@@ -1,6 +1,11 @@
 ---
 title: "Masai Shuka 12 (Artefact)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Masai Shuka 12"
+  url: "/tartans/m/ma/masai-shuka-12/"
 ---
 This is the **Masai Shuka 12 (Artefact)** sett — one scale-free proportion (`r25k5r1`), colour order pattern
 [KRKR](/stripes/krkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/r18k3r2~x4/"><circle cx="565.4" cy="219.5" r="4" fill="#3465a4"><title>Buie</title></circle></a><a href="/variants/s5/r27w3r6w2dg3~x4~r1506028/"><circle cx="521.1" cy="181.7" r="4" fill="#3465a4"><title>Martin Family, Robert N Personal Tartan</title></circle></a><a href="/variants/s5/r27w3r6w2dg3~x4/"><circle cx="540.3" cy="182.4" r="4" fill="#3465a4"><title>Martin, Robert N (Personal)</title></circle></a><a href="/variants/s6/g4r16k5r50g4w1~x4/"><circle cx="557.9" cy="90.2" r="4" fill="#3465a4"><title>Chalet</title></circle></a><a href="/variants/s3/dr8w1k1~x20/"><circle cx="472.4" cy="219.6" r="4" fill="#3465a4"><title>International Karate Fed. (Corporat)</title></circle></a><a href="/variants/s3/r30k10y3~x4/"><circle cx="387.2" cy="215.6" r="4" fill="#3465a4"><title>Masai Shuka 20 (Artefact)</title></circle></a><a href="/variants/s4/r125k26lb20lo16/"><circle cx="341.8" cy="189.4" r="4" fill="#3465a4"><title>McPeek (Fashion)</title></circle></a><a href="/variants/s3/r63k16y5~x2/"><circle cx="425.4" cy="153.4" r="4" fill="#3465a4"><title>McPeek (Fictitious clan)</title></circle></a><a href="/variants/s4/r10k1r4g6~x2/"><circle cx="378.8" cy="207.2" r="4" fill="#3465a4"><title>Macan, of Lurgyvallan (Hose)</title></circle></a><a href="/variants/s3/k67r32k6/"><circle cx="306.1" cy="232.5" r="4" fill="#3465a4"><title>Lendrum or MacFarlane Clan Tartan</title></circle></a><circle cx="460.2" cy="161.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

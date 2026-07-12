@@ -1,6 +1,11 @@
 ---
 title: "Boxell, Baron (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Boxell, Baron"
+  url: "/tartans/b/bo/boxell-baron/"
 ---
 This is the **Boxell, Baron (Personal)** sett — one scale-free proportion (`dp27y2dp2k12g6o2g12k12db12r2db2`), colour order pattern
 [BGBKGRGKBRB](/stripes/bgbkgrgkbrb/). It is recorded as **2 variants** — the same
@@ -23,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dp27y2dp2k12g6o2g12k12db12r2db2~x2/"><circle cx="94.2" cy="119.5" r="4" fill="#3465a4"><title>Boxell, Baron (Personal)</title></circle></a><a href="/variants/s10/r4dy12k12dy1n12y1k3w2k1t4~x2/"><circle cx="71.3" cy="125.0" r="4" fill="#3465a4"><title>Campbell Hunting</title></circle></a><a href="/variants/s10/db11r3db2n3k12dg20y2k12db11ly3~x2/"><circle cx="84.5" cy="153.5" r="4" fill="#3465a4"><title>Wisconsin (US State)</title></circle></a><a href="/variants/s11/db40lb3db11k7g22k7db3w3n10k32y13~x2/"><circle cx="91.4" cy="119.9" r="4" fill="#3465a4"><title>Aurora House Check</title></circle></a><a href="/variants/s10/dt24k24ki2w6ki2y2ki16lb5r6w2~x2~dt1501240-k0504259-ki0700000/"><circle cx="54.3" cy="117.1" r="4" fill="#3465a4"><title>Scotland's International - Home</title></circle></a><a href="/variants/s14/dg4dr2db3dr1db3lo1k2lo1k2lb2k2n11dr1k1~x4/"><circle cx="65.5" cy="113.6" r="4" fill="#3465a4"><title>Ross Anderson (Fashion) #2</title></circle></a><a href="/variants/s10/db11r3db2n3k12dg20y2k12db11ly3~x2~ly2705081/"><circle cx="92.0" cy="155.8" r="4" fill="#3465a4"><title>Wisconsin State American District Tartan</title></circle></a><a href="/variants/s9/dg32lb3p3lb3dg2k20db17r3y4~x2/"><circle cx="141.5" cy="112.1" r="4" fill="#3465a4"><title>Colorado American District Tartan</title></circle></a><a href="/variants/s12/r3k2dp12w2dp12k12g12lo2g12k2r1db2~x2/"><circle cx="69.7" cy="121.6" r="4" fill="#3465a4"><title>Rust (Personal)</title></circle></a><a href="/variants/s9/dg32lb3lp3lb3dg2k20db17r3y4~x2/"><circle cx="135.9" cy="110.7" r="4" fill="#3465a4"><title>Colorado (District)</title></circle></a><circle cx="94.4" cy="119.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "VeMMA"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan VeMMA"
+  url: "/clan/vemma/"
+- name: "VeMMA"
+  url: "/families/vemma/"
+- name: "VeMMA"
+  url: "/tartans/v/ve/vemma-2/"
 ---
 This is the **VeMMA** sett — one scale-free proportion (`o24lb2lo7lb3k2n4k2lb1o4lb1`), colour order pattern
 [RWYWKBKWRW](/stripes/rwywkbkwrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r6w1r24db6g2k1g2k1g12r1~x2/"><circle cx="299.9" cy="95.7" r="4" fill="#3465a4"><title>Chisholm Clan Tartan</title></circle></a><a href="/variants/s10/r6w1r24db6g2k1g2k1g12r1/"><circle cx="299.9" cy="95.7" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/variants/s10/g6w1g12r4db4r2k4r32g1r2~x2/"><circle cx="328.6" cy="77.6" r="4" fill="#3465a4"><title>Seton Family Tartan</title></circle></a><a href="/variants/s9/g71k4r4dp9r4dp4r36dp4w4/"><circle cx="270.6" cy="109.0" r="4" fill="#3465a4"><title>Rattray</title></circle></a><a href="/variants/s9/k2r1g8r3g3r14y1r1w2~x2/"><circle cx="265.9" cy="129.6" r="4" fill="#3465a4"><title>Melieres, Michel (Personal)</title></circle></a><a href="/variants/s10/r25k1y2k1y2k1r10t18w2t12~x2/"><circle cx="279.1" cy="110.9" r="4" fill="#3465a4"><title>Richardson (Personal?)</title></circle></a><a href="/variants/s12/g4r3k1r28g14r4g4w3g4r4g4w3~x2~w4000000/"><circle cx="307.1" cy="106.6" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s14/ri4lb2ri50db26ri10g44r4ri10r4g44ri51db2ri4lb2~x2~ri2209032-r2208029/"><circle cx="296.0" cy="113.3" r="4" fill="#3465a4"><title>MacQuarrie #2</title></circle></a><a href="/variants/s9/r3w5dy16ly2dy1ly40w6o3r2~x4~ly2705081-o2500000/"><circle cx="323.2" cy="93.8" r="4" fill="#3465a4"><title>Bell's Whisky</title></circle></a><a href="/variants/s14/r9g6y4g54r4g4r4g18r72g6r4k2r4w9/"><circle cx="313.4" cy="67.1" r="4" fill="#3465a4"><title>Hay Clan Tartan</title></circle></a><circle cx="305.7" cy="101.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

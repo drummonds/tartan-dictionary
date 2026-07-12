@@ -1,6 +1,11 @@
 ---
 title: "McMillen Memorial, Hugh E. (Personal"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "McMillen Memorial, Hugh E."
+  url: "/tartans/m/mc/mcmillen-memorial-hugh-e/"
 ---
 This is the **McMillen Memorial, Hugh E. (Personal** sett — one scale-free proportion (`k8ly2n18ly3k8ly18dp4w3ly12r1ly2k2`), colour order pattern
 [KYBYKYBWYRYK](/stripes/kybykybwyryk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/y2r15y2dr2y2k14y2g10w1g6w1g10y2r7g10w1~x2/"><circle cx="129.0" cy="112.5" r="4" fill="#3465a4"><title>Dalrymple of Castleton #2</title></circle></a><a href="/variants/s17/k8w1r2g16r8g8r11y2g2lo1g2w2r10y2r2k1w4~x2/"><circle cx="133.7" cy="99.5" r="4" fill="#3465a4"><title>Pernel (Personal)</title></circle></a><a href="/variants/s14/ly10w2dy1w2n10ly8dy2k17dy2ly7n19k3y1k1~x2/"><circle cx="102.6" cy="97.4" r="4" fill="#3465a4"><title>Scottish Wildcat</title></circle></a><a href="/variants/s11/r8lb7k8y2k1b1g19k1r8lb3r8~x2/"><circle cx="120.8" cy="115.4" r="4" fill="#3465a4"><title>Unnamed No 1</title></circle></a><a href="/variants/s11/dy27w2dy3y4dy3w2dy5k13lb2w26g3~x2/"><circle cx="141.7" cy="106.1" r="4" fill="#3465a4"><title>MacKellar Dress Clan Tartan</title></circle></a><a href="/variants/s12/r8lb7k8y2k1w2k1g19k1r8lb3r8~x2/"><circle cx="110.0" cy="108.2" r="4" fill="#3465a4"><title>Unnamed No 1 Tartan</title></circle></a><a href="/variants/s11/dy27w2dy3y4dy3w2dy5k13lb2w26dg3~x2/"><circle cx="141.9" cy="105.9" r="4" fill="#3465a4"><title>MacKellar Dress</title></circle></a><a href="/variants/s12/r19lb13k16y3k3w5k3g32k2r15lb5r15~x2/"><circle cx="103.6" cy="119.4" r="4" fill="#3465a4"><title>Wilson's, No 90</title></circle></a><a href="/variants/s12/r14lb4k6y1k2w2k2g12r6k2r2w1~x2/"><circle cx="120.4" cy="109.5" r="4" fill="#3465a4"><title>Stewart Prince Charles Edward Clan Tartan</title></circle></a><a href="/variants/s14/w9r5w29db3k10ly2k3w3k3g12r6k3r3w2~x2/"><circle cx="132.1" cy="93.5" r="4" fill="#3465a4"><title>Hay - Stewart (Fashion)</title></circle></a><circle cx="140.7" cy="105.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

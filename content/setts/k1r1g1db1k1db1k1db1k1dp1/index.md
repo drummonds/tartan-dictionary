@@ -1,6 +1,13 @@
 ---
 title: "Bell, Siobhan (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Bell"
+  url: "/clan/bell/"
+- name: "Bell, Siobhan"
+  url: "/tartans/b/be/bell-siobhan/"
 ---
 This is the **Bell, Siobhan (Personal)** sett — one scale-free proportion (`k1r1g1db1k1db1k1db1k1dp1`), colour order pattern
 [BKBKBKBGRK](/stripes/bkbkbkbgrk/). It is recorded as a single **variant**, below.

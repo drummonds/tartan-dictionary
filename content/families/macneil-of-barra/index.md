@@ -1,6 +1,11 @@
 ---
 title: "MacNeil of Barra"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacNeil"
+  url: "/clan/macneil/"
 ---
 A family of [Clan MacNeil](/clan/macneil/).
 

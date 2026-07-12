@@ -1,6 +1,11 @@
 ---
 title: "Forres"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Forres"
+  url: "/tartans/f/fo/forres/"
 ---
 This is the **Forres** sett — one scale-free proportion (`g2lo1g5k4do5dr1`), colour order pattern
 [BBKGYG](/stripes/bbkgyg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db14g18k3g18dr20k14lo3~x2/"><circle cx="108.6" cy="229.4" r="4" fill="#3465a4"><title>Scottish Parliament (unofficial)</title></circle></a><a href="/variants/s6/g4w1g10k10db10r2/"><circle cx="125.2" cy="203.3" r="4" fill="#3465a4"><title>Rose Hunting</title></circle></a><a href="/variants/s7/r1dy7g7k7t7dy7r1~x4/"><circle cx="110.5" cy="230.9" r="4" fill="#3465a4"><title>Tennant #2</title></circle></a><a href="/variants/s5/k19lb10dp19g40y10/"><circle cx="95.8" cy="252.4" r="4" fill="#3465a4"><title>Gallowater Old District Tartan</title></circle></a><a href="/variants/s4/k18g18do21r4~x2/"><circle cx="116.8" cy="281.6" r="4" fill="#3465a4"><title>Tennant</title></circle></a><a href="/variants/s6/g36lb4g8k29r24w7~x2/"><circle cx="123.0" cy="194.1" r="4" fill="#3465a4"><title>Entre Rios Province (Provisional</title></circle></a><a href="/variants/s6/y3dg6k6y4r1y1~x2/"><circle cx="147.8" cy="241.7" r="4" fill="#3465a4"><title>Waterloo</title></circle></a><a href="/variants/s7/r2db8g8k8y1g8r2/"><circle cx="131.2" cy="209.4" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/variants/s8/o21db4dr5db4o5k21g21ly5~x2/"><circle cx="47.9" cy="189.6" r="4" fill="#3465a4"><title>Caledonian Labrador Retrievers</title></circle></a><a href="/variants/s7/r1do7g7k7t7do7r1~x4/"><circle cx="111.0" cy="230.3" r="4" fill="#3465a4"><title>Tennant (Clan)</title></circle></a><circle cx="111.8" cy="238.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

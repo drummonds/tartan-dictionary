@@ -1,6 +1,15 @@
 ---
 title: "Rainbow"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Rainbow"
+  url: "/clan/rainbow/"
+- name: "Rainbow"
+  url: "/families/rainbow/"
+- name: "Rainbow"
+  url: "/tartans/r/ra/rainbow-4/"
 ---
 This is the **Rainbow** sett — one scale-free proportion (`dg2y1b1r1dp1db1`), colour order pattern
 [BBRBGG](/stripes/bbrbgg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g2y1lo1r1dp1db1~x36/"><circle cx="22.8" cy="317.2" r="4" fill="#3465a4"><title>Rainbow (Fashion)</title></circle></a><a href="/variants/s4/r2db2g3y2~x5/"><circle cx="91.6" cy="366.0" r="4" fill="#3465a4"><title>Sturch (Corporate)</title></circle></a><a href="/variants/s5/r13y13g13db22w4~x2/"><circle cx="107.7" cy="274.9" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><a href="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/"><circle cx="133.5" cy="262.7" r="4" fill="#3465a4"><title>Breon (Jersey Shore, Pennsylvania) (Personal)</title></circle></a><a href="/variants/s6/dy19g23y3db15r11w5~x2/"><circle cx="96.6" cy="231.2" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s6/dy19g23ly3db15r11w5~x2/"><circle cx="91.9" cy="230.1" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s5/db15g15lo11r17m15~x2~r2109032-m2610337/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Highland Princess, The</title></circle></a><a href="/variants/s7/r11db3dbi8w3y3g5k5~x4~db1004274-dbi1406275/"><circle cx="14.0" cy="213.8" r="4" fill="#3465a4"><title>Nicolson of Taransay Hunting (Personal)</title></circle></a><a href="/variants/s6/dbi1db1r1dp2dr1ly1~x10~dbi1406275-db1404245/"><circle cx="37.0" cy="315.5" r="4" fill="#3465a4"><title>Lytley Formal (Personal)</title></circle></a><a href="/variants/s6/y1dr1dp2r1db1b1~x10~db1108266-b1511266/"><circle cx="54.4" cy="321.0" r="4" fill="#3465a4"><title>Lytley alias Parsons Formal (Personal)</title></circle></a><circle cx="53.8" cy="325.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "MacKay, of Strathnaver"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Mackay"
+  url: "/clan/mackay/"
 ---
 A family of [Clan Mackay](/clan/mackay/).
 

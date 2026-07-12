@@ -1,6 +1,15 @@
 ---
 title: "Gemmell Clan Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Gemmell"
+  url: "/clan/gemmell/"
+- name: "Gemmell"
+  url: "/families/gemmell/"
+- name: "Gemmell"
+  url: "/tartans/g/ge/gemmell/"
 ---
 This is the **Gemmell Clan Tartan** sett — one scale-free proportion (`db4k1db1k1db1k5g6k1g6k6db3w1r1w1`), colour order pattern
 [BKBKBKGKGKBWRW](/stripes/bkbkbkgkgkbwrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r1k1g6k6db6k1db1k1db6k6g6k1ly1~x4/"><circle cx="105.0" cy="177.9" r="4" fill="#3465a4"><title>MacEwen/MacEwan</title></circle></a><a href="/variants/s15/db12r2w2r2w2k12g11k2w2k2g11k12db11k2r2~x2/"><circle cx="69.4" cy="163.3" r="4" fill="#3465a4"><title>MacLeods Highlanders</title></circle></a><a href="/variants/s15/t12k2t2k2t2k10g5r3w2r3g5k10t11k2t2~x2/"><circle cx="101.8" cy="169.7" r="4" fill="#3465a4"><title>Blanton (Dress)</title></circle></a><a href="/variants/s13/db12k2r2k2r2k12g11y2g11k12db11k2r2~x2/"><circle cx="91.8" cy="176.7" r="4" fill="#3465a4"><title>Black Watch, Plaid of Pipers...</title></circle></a><a href="/variants/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5~x2/"><circle cx="107.9" cy="149.2" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/variants/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5/"><circle cx="107.9" cy="149.2" r="4" fill="#3465a4"><title>Stephenson Hunting Tartan</title></circle></a><a href="/variants/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/"><circle cx="84.8" cy="153.9" r="4" fill="#3465a4"><title>MacRae Hunting (Wilsons)</title></circle></a><a href="/variants/s14/w3dgi7k3dgi3k3dgi3k13dg16ly3dg16k13dgi16k3w3~x2~dgi1802166/"><circle cx="85.0" cy="182.9" r="4" fill="#3465a4"><title>Terre D'Ecosse</title></circle></a><a href="/variants/s12/g12r2g2r2k12db12y2db12k2g11r2g2~x2/"><circle cx="107.5" cy="179.5" r="4" fill="#3465a4"><title>Akins of Candler (Personal)</title></circle></a><a href="/variants/s13/y1k1g7k8db7k1db2k1db7k8g7k1w1~x4/"><circle cx="122.4" cy="165.8" r="4" fill="#3465a4"><title>Campbell of Loudoun (Clan)</title></circle></a><circle cx="89.8" cy="170.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

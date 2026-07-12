@@ -1,6 +1,11 @@
 ---
 title: "Brash"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Brash"
+  url: "/tartans/b/br/brash/"
 ---
 This is the **Brash** sett — one scale-free proportion (`db60r5db60t40db36r10db36t40w5`), colour order pattern
 [BRBBBRBBW](/stripes/brbbbrbbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db12y1lb16db1lb1db14lb3db14y1~x4/"><circle cx="403.5" cy="196.1" r="4" fill="#3465a4"><title>Orlando Police Department (Corporate</title></circle></a><a href="/variants/s8/b8do2b13r4b12lb22b5y3~x2/"><circle cx="330.1" cy="215.5" r="4" fill="#3465a4"><title>Kildare</title></circle></a><a href="/variants/s9/k22b16dr3b16k2b16g3b3lb5~x2~g2408144-lb3203246/"><circle cx="313.1" cy="144.2" r="4" fill="#3465a4"><title>Jethart</title></circle></a><a href="/variants/s9/k22db16r3db16k3db16dg3db3b5~x2/"><circle cx="280.1" cy="195.3" r="4" fill="#3465a4"><title>Jethart</title></circle></a><a href="/variants/s10/db20t2w5r2db10t5db20t2w5r5~x2/"><circle cx="326.7" cy="183.3" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/variants/s10/db20lb2w5r2db10lb5db20lb2w5r5~x2/"><circle cx="320.8" cy="180.9" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/variants/s8/r5db20r3db20w6db3lb2db1~x2/"><circle cx="417.0" cy="153.4" r="4" fill="#3465a4"><title>Masai Shuka 29 (Artefact)</title></circle></a><a href="/variants/s7/db4w3t6db40t8db12g3~x2/"><circle cx="484.2" cy="196.2" r="4" fill="#3465a4"><title>JetBlue (Corporate)</title></circle></a><a href="/variants/s8/db1r1db10t1db1t5db1w1~x6/"><circle cx="368.7" cy="183.9" r="4" fill="#3465a4"><title>A2 (Personal)</title></circle></a><a href="/variants/s8/db1r1db10t1db1t5db1w1~x6~db1404245/"><circle cx="392.2" cy="193.9" r="4" fill="#3465a4"><title>A2 (Personal)</title></circle></a><circle cx="382.6" cy="223.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

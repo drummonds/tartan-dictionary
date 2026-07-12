@@ -1,6 +1,13 @@
 ---
 title: "Highland Spring"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Highland"
+  url: "/clan/highland/"
+- name: "Highland Spring"
+  url: "/tartans/h/hi/highland-spring-4/"
 ---
 This is the **Highland Spring** sett — one scale-free proportion (`dp5g3dp19r5`), colour order pattern
 [BGBR](/stripes/bgbr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/dp5g2dp19r5~x2/"><circle cx="536.4" cy="245.6" r="4" fill="#3465a4"><title>Highland Spring Corporate Tartan</title></circle></a><a href="/variants/s4/dp3g1dp9r3~x4/"><circle cx="548.5" cy="238.8" r="4" fill="#3465a4"><title>Highland Spring (1988)</title></circle></a><a href="/variants/s6/dp20lb8g8db8dp33r3~x2/"><circle cx="362.0" cy="201.1" r="4" fill="#3465a4"><title>McIntosh, Stuart (Personal)</title></circle></a><a href="/variants/s3/r24dp16w3~x4/"><circle cx="350.6" cy="275.2" r="4" fill="#3465a4"><title>National Autistic Society Scotland</title></circle></a><a href="/variants/s6/dp30m5dp5lb4dp4g12~x2~dp1507303-m2510349/"><circle cx="374.4" cy="214.8" r="4" fill="#3465a4"><title>International Festival of Authors</title></circle></a><a href="/variants/s5/r2dp20db9dp20g2~x2/"><circle cx="572.5" cy="260.6" r="4" fill="#3465a4"><title>Scottish Netball (1987) (Corporate)</title></circle></a><a href="/variants/s6/dp30m5dp5b4dp4g12~x2~m2609322-b2306275/"><circle cx="378.8" cy="215.7" r="4" fill="#3465a4"><title>International Festival of Authors (C</title></circle></a><circle cx="491.1" cy="263.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

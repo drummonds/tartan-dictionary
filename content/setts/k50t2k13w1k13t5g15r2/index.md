@@ -1,6 +1,11 @@
 ---
 title: "Center (Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Center"
+  url: "/tartans/c/ce/center/"
 ---
 This is the **Center (Name)** sett — one scale-free proportion (`k50t2k13w1k13t5g15r2`), colour order pattern
 [KBKWKBGR](/stripes/kbkwkbgr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k50db2k13w1k13db5g15r2~x2/"><circle cx="427.8" cy="74.3" r="4" fill="#3465a4"><title>Center</title></circle></a><a href="/variants/s9/k20db2k2db4dg4y2k40r2w3~x2/"><circle cx="417.0" cy="77.9" r="4" fill="#3465a4"><title>McCuaig (Glenelg and the Western Isles) Hunting</title></circle></a><a href="/variants/s8/k44r2w10r3k6r1w2k18~x2/"><circle cx="462.8" cy="88.0" r="4" fill="#3465a4"><title>Mull Rugby Club</title></circle></a><a href="/variants/s9/k5ly1dg7dr1k45dr5ly3k4ly3~x2/"><circle cx="441.1" cy="69.5" r="4" fill="#3465a4"><title>Brooks Brothers Signature (Corporate</title></circle></a><a href="/variants/s8/g3db16k3dp2k45r1k2lo3~x2/"><circle cx="371.1" cy="50.8" r="4" fill="#3465a4"><title>Cumnock</title></circle></a><a href="/variants/s8/g3db16k3dp2k45r1k2lo3~x2~g2408144-db1607278-lo2907057/"><circle cx="361.8" cy="47.1" r="4" fill="#3465a4"><title>Cumnock District Tartan</title></circle></a><a href="/variants/s8/g3db16k3dp2k45r1k2lr3~x2/"><circle cx="371.2" cy="50.7" r="4" fill="#3465a4"><title>Cumnock (District)</title></circle></a><a href="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/"><circle cx="425.8" cy="81.8" r="4" fill="#3465a4"><title>Capco</title></circle></a><a href="/variants/s9/lb4n6k4ri2r10k44n1k1lb2~x2~ri2109032-r1807033/"><circle cx="357.7" cy="49.0" r="4" fill="#3465a4"><title>Calgary HOG (Corporate)</title></circle></a><a href="/variants/s9/lb4n6k4r2o10k44n1k1lb2~x2~r2410029-o2208036/"><circle cx="352.2" cy="47.4" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><circle cx="419.3" cy="72.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

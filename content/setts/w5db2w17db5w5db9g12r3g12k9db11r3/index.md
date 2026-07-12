@@ -1,6 +1,15 @@
 ---
 title: "Murray Dress Trade Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Murray"
+  url: "/clan/murray/"
+- name: "Murray"
+  url: "/families/murray/"
+- name: "Murray Dress"
+  url: "/tartans/m/mu/murray-dress/"
 ---
 This is the **Murray Dress Trade Tartan** sett — one scale-free proportion (`w5db2w17db5w5db9g12r3g12k9db11r3`), colour order pattern
 [RBKGRGBWBWBW](/stripes/rbkgrgbwbwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k4n10k4g8k12b4g16lb16b5lb6b2~x2/"><circle cx="39.6" cy="193.1" r="4" fill="#3465a4"><title>Manderson</title></circle></a><a href="/variants/s12/w5db1w16db4w4k6g10dr2g10k6db10dr2~x2/"><circle cx="75.7" cy="152.2" r="4" fill="#3465a4"><title>Murray of Atholl Dress</title></circle></a><a href="/variants/s13/db4k4db10k10g13y3g13k10w4db4w16db2w3~x2/"><circle cx="28.3" cy="180.4" r="4" fill="#3465a4"><title>Gordon Dress Tartan</title></circle></a><a href="/variants/s13/db4k4db10k10g12ly2g12k10w4db4w16db3w2~x2/"><circle cx="26.8" cy="180.4" r="4" fill="#3465a4"><title>Gordon Dress (1965)</title></circle></a><a href="/variants/s12/dg17lb3dg17k15w33db8w33k15dg17lb3dg17lb3~x2/"><circle cx="98.3" cy="165.8" r="4" fill="#3465a4"><title>MacRobart Family Tartan</title></circle></a><a href="/variants/s11/w6y2w2y3w11g11db2k12db3k6w2~x2/"><circle cx="61.3" cy="185.2" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/variants/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/"><circle cx="54.6" cy="169.3" r="4" fill="#3465a4"><title>MacKenzie Dress - 1950 (Clan)</title></circle></a><a href="/variants/s14/w3lb2w7lb2w2k7g8k1w2k1g8k7db7r2~x2/"><circle cx="14.0" cy="158.4" r="4" fill="#3465a4"><title>MacKenzie Dress</title></circle></a><a href="/variants/s11/w6y2w2y3w11g11t2k12t3k6w2~x2/"><circle cx="61.3" cy="186.2" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/variants/s14/db12w2db2r2db3k11g12k2g3k2g12db12w13r2~x2/"><circle cx="56.9" cy="170.8" r="4" fill="#3465a4"><title>Scotland's National, Dress (Fashion)</title></circle></a><circle cx="42.0" cy="186.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

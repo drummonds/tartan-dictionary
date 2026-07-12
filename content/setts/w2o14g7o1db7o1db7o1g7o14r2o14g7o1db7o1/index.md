@@ -1,6 +1,15 @@
 ---
 title: "Fraser, hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Fraser"
+  url: "/clan/fraser/"
+- name: "Fraser"
+  url: "/families/fraser/"
+- name: "Fraser, hunting"
+  url: "/tartans/f/fr/fraser-hunting-6/"
 ---
 This is the **Fraser, hunting** sett — one scale-free proportion (`w2o14g7o1db7o1db7o1g7o14r2o14g7o1db7o1`), colour order pattern
 [RBRGRRRGRBRBRGRW](/stripes/rbrgrrrgrbrbrgrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r3o18g10o2db10o2db10o2g10o18w3~x2/"><circle cx="227.3" cy="195.6" r="4" fill="#3465a4"><title>Fraser hunting</title></circle></a><a href="/variants/s8/y8do2y13dr4y12db22y5o3~x2/"><circle cx="289.7" cy="184.3" r="4" fill="#3465a4"><title>Kildare, County</title></circle></a><a href="/variants/s14/r2ri4g2db2ri6g14ri2db2g2ri12g7r2ri5w1~x2~r1506028-ri2008029/"><circle cx="261.2" cy="156.0" r="4" fill="#3465a4"><title>MacDonald of Staffa 4</title></circle></a><a href="/variants/s13/r4db5r4db5g8y2g24w2g8db5r4db5r4~x2/"><circle cx="235.1" cy="161.2" r="4" fill="#3465a4"><title>Clackson Hunting (Personal)</title></circle></a><a href="/variants/s14/dr2r4g2db2r6g14r2db2g2r12g7dr2r5w1~x2/"><circle cx="253.2" cy="153.6" r="4" fill="#3465a4"><title>MacDonald of Staffa #5</title></circle></a><a href="/variants/s16/w2dy14g7dy1db7dy1db7dy1g7dy14r2dy14g7dy1db7dy1~x4/"><circle cx="268.8" cy="165.0" r="4" fill="#3465a4"><title>Fraser Hunting (unmarked sample)</title></circle></a><a href="/variants/s11/g14r1g14r7w1r7w1r7db5dp3w1~x4/"><circle cx="233.0" cy="163.8" r="4" fill="#3465a4"><title>Hynde Artifact Tartan</title></circle></a><a href="/variants/s10/g22r3db10t2db10r21g22r3y2db2~x2/"><circle cx="228.2" cy="179.3" r="4" fill="#3465a4"><title>Glasgow Cathedral 2000</title></circle></a><a href="/variants/s14/g15r1g8r3dp1r1w1r3dp1r3dp12r1g7y1~x2~r2109032/"><circle cx="256.0" cy="124.8" r="4" fill="#3465a4"><title>Recycled Lamb, The</title></circle></a><a href="/variants/s14/g15r1g8dr3dp1dr3w1dr3dp1dr3dp12r1g7y1~x2/"><circle cx="247.1" cy="131.5" r="4" fill="#3465a4"><title>Recycled Lamb, The</title></circle></a><circle cx="260.9" cy="158.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

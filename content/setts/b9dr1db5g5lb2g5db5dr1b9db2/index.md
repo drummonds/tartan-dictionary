@@ -1,6 +1,11 @@
 ---
 title: "American Express Corporate Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "American Express"
+  url: "/tartans/a/am/american-express/"
 ---
 This is the **American Express Corporate Tartan** sett — one scale-free proportion (`b9dr1db5g5lb2g5db5dr1b9db2`), colour order pattern
 [BBBBGWGBBB](/stripes/bbbbgwgbbb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n6dbi8n8g12db29w3db4~x2~dbi1105279/"><circle cx="250.4" cy="206.2" r="4" fill="#3465a4"><title>Dickson Name Tartan</title></circle></a><a href="/variants/s6/db2b9dr1db9dg9w2~x4/"><circle cx="203.8" cy="246.4" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/variants/s6/db2t9dr1db5g5lb2~x4/"><circle cx="221.2" cy="255.4" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/variants/s7/w3dg22b11db3b11g4b2~x2/"><circle cx="260.8" cy="217.3" r="4" fill="#3465a4"><title>Queen of the South</title></circle></a><a href="/variants/s8/db11dg10g6db7lb2db3dp10lb2~x2/"><circle cx="198.8" cy="269.6" r="4" fill="#3465a4"><title>Hummelt, Katherine (Personal)</title></circle></a><a href="/variants/s6/db2g6db6b5db1b2~x2/"><circle cx="272.8" cy="310.0" r="4" fill="#3465a4"><title>Unnamed, No 54</title></circle></a><a href="/variants/s8/dr2db6g15t9db30t9g6lo2~x2/"><circle cx="282.4" cy="203.2" r="4" fill="#3465a4"><title>Miller</title></circle></a><a href="/variants/s11/db20n2lb2n4g20w2db16n7lb2db3lb5~x2/"><circle cx="244.8" cy="191.5" r="4" fill="#3465a4"><title>U.S.I. Limited</title></circle></a><a href="/variants/s10/db4g2dbi10y1dbi2g13db11g13dbi13y2~x2~db1204274-dbi1406275/"><circle cx="273.5" cy="233.6" r="4" fill="#3465a4"><title>Pinney's of Scotland</title></circle></a><a href="/variants/s9/dg2n13db12w3db10w3db12g13b2~x2/"><circle cx="195.7" cy="227.9" r="4" fill="#3465a4"><title>Mounth, The</title></circle></a><circle cx="227.2" cy="237.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

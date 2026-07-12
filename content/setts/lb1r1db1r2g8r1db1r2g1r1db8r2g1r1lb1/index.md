@@ -1,6 +1,15 @@
 ---
 title: "MacIntyre of Glenorchy Clan Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacIntyre"
+  url: "/clan/macintyre/"
+- name: "MacIntyre of Glenorchy"
+  url: "/families/macintyre-of-glenorchy/"
+- name: "MacIntyre of Glenorchy"
+  url: "/tartans/m/ma/macintyre-of-glenorchy/"
 ---
 This is the **MacIntyre of Glenorchy Clan Tartan** sett — one scale-free proportion (`lb1r1db1r2g8r1db1r2g1r1db8r2g1r1lb1`), colour order pattern
 [WRBRGRBRGRBRGRW](/stripes/wrbrgrbrgrbrgrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/lb2r3db3r5g14r3db2r5g2r3db14r5g3r3lb2~x2/"><circle cx="183.7" cy="189.3" r="4" fill="#3465a4"><title>Glen Orchy #1</title></circle></a><a href="/variants/s15/lb1r2db2r4g16r2db2r4g2r2db16r4g2r2lb1~x2/"><circle cx="207.9" cy="139.4" r="4" fill="#3465a4"><title>MacIntyre of Whitehouse (Clan?)</title></circle></a><a href="/variants/s15/lb1r2db2r4g16r2db1r4g1r2db16r4g2r2lb1~x2/"><circle cx="213.9" cy="135.4" r="4" fill="#3465a4"><title>MacIntyre, and Glenorchy</title></circle></a><a href="/variants/s15/lb1r2db2r4g16r2db1r4g1r2db16r4g2r2lb1/"><circle cx="213.9" cy="135.4" r="4" fill="#3465a4"><title>MacIntyre</title></circle></a><a href="/variants/s15/lb3r24db4r8g32r4db4r8g4r4db32r8g4r4lb2~x2/"><circle cx="236.6" cy="141.7" r="4" fill="#3465a4"><title>MacIntyre (of Gatehouse)</title></circle></a><a href="/variants/s15/w1r2db2r4g16r2db1r4g1r2db16r4g2r2w1~x2/"><circle cx="208.0" cy="133.6" r="4" fill="#3465a4"><title>MacIntyre</title></circle></a><a href="/variants/s10/db3g26db3r3db20r3db3r26g5w3~x2/"><circle cx="193.5" cy="186.0" r="4" fill="#3465a4"><title>Roxburgh Red</title></circle></a><a href="/variants/s11/g10w1db10r1db1g1db1g1r10y1r1~x4/"><circle cx="176.1" cy="153.9" r="4" fill="#3465a4"><title>Belfast Tattoo</title></circle></a><a href="/variants/s11/g10w1db10r1db1g1db1g1r10ly1r1~x4/"><circle cx="173.5" cy="153.5" r="4" fill="#3465a4"><title>Belfast Tattoo</title></circle></a><a href="/variants/s12/db16r2db2r2g14r13w2r13g14db14r2db2~x2/"><circle cx="177.2" cy="201.3" r="4" fill="#3465a4"><title>Fraser of Lovat</title></circle></a><circle cx="173.4" cy="168.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Fitzgerald, hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Fitzgerald"
+  url: "/clan/fitzgerald/"
+- name: "Fitzgerald"
+  url: "/families/fitzgerald/"
+- name: "Fitzgerald, hunting"
+  url: "/tartans/f/fi/fitzgerald-hunting-3/"
 ---
 This is the **Fitzgerald, hunting** sett — one scale-free proportion (`w2db3lb3db13k13db4r2db4g12b3r1`), colour order pattern
 [RBGBRBKBWBW](/stripes/rbgbrbkbwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w2db3lb3db13k13db4r2db4g12lp3r1~x2/"><circle cx="94.6" cy="122.3" r="4" fill="#3465a4"><title>Fitzgerald Hunting Family Tartan</title></circle></a><a href="/variants/s11/db40lb3db11k7g22k7db3w3n10k32y13~x2/"><circle cx="91.4" cy="119.9" r="4" fill="#3465a4"><title>Aurora House Check</title></circle></a><a href="/variants/s12/g16db7r2db7k5y2dp1y2k5db16g8w1~x2/"><circle cx="137.8" cy="116.7" r="4" fill="#3465a4"><title>Waipu (District)</title></circle></a><a href="/variants/s8/k40n15o10y3lb5w5db10lb20~n1900000-o2500000/"><circle cx="76.5" cy="128.1" r="4" fill="#3465a4"><title>Julien Pigeut Tartan</title></circle></a><a href="/variants/s8/dbi11db5g4w3r3k16db28lb2~x2~dbi1605267-db1404245/"><circle cx="159.3" cy="125.1" r="4" fill="#3465a4"><title>Scottish Italian</title></circle></a><a href="/variants/s12/db37r3k17r3g22k4g22r3k17r3db37w3~x2/"><circle cx="140.6" cy="128.4" r="4" fill="#3465a4"><title>Souza Nery (Personal)</title></circle></a><a href="/variants/s12/db24y4n4dp4db24r4w3k18w9r4k3w2~x2/"><circle cx="122.4" cy="104.0" r="4" fill="#3465a4"><title>Queen Mary RMS</title></circle></a><a href="/variants/s9/k9lo6db9n2do3n2dg17db17lg5~x2/"><circle cx="86.5" cy="167.6" r="4" fill="#3465a4"><title>Coats (New Zealand)</title></circle></a><a href="/variants/s10/k1dr4k1w3k1g7k2db16r2ly1~x2/"><circle cx="127.9" cy="90.7" r="4" fill="#3465a4"><title>Twempy</title></circle></a><a href="/variants/s9/k9ly6db9n2o3n2dg17db17lb5~x2~ly2806085-o2404072/"><circle cx="90.4" cy="168.5" r="4" fill="#3465a4"><title>Coats (New Zealand)</title></circle></a><circle cx="98.6" cy="124.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Flotilla Navy"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Flotilla Navy"
+  url: "/tartans/f/fl/flotilla-navy/"
 ---
 This is the **Flotilla Navy** sett — one scale-free proportion (`k36b6ly1b1w1b1dy8o4b1o2w1`), colour order pattern
 [KBYBWBGRBRW](/stripes/kbybwbgrbrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lb2k1r5n3o12n4lb1k40db1~x2~n1900000-o2500000/"><circle cx="288.1" cy="42.7" r="4" fill="#3465a4"><title>Montgomerie, Colin</title></circle></a><a href="/variants/s12/k4n6k4o4n29o6k64db10k4db6lb4w2~n1900000-o2500000/"><circle cx="246.2" cy="51.2" r="4" fill="#3465a4"><title>Earthrise</title></circle></a><a href="/variants/s10/n24ly2n4ly1n3k3dg1k50r1dr3~x2/"><circle cx="317.3" cy="31.5" r="4" fill="#3465a4"><title>Coleburn (Corporate)</title></circle></a><a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2/"><circle cx="254.6" cy="39.5" r="4" fill="#3465a4"><title>Hudson's Bay (Corporate)</title></circle></a><a href="/variants/s8/w3k48ly5w3ly3g2db5lb3~x2/"><circle cx="321.6" cy="66.3" r="4" fill="#3465a4"><title>Pavelka Limited</title></circle></a><a href="/variants/s8/db1k6n35k8dp3db1k8w1~x2/"><circle cx="282.8" cy="49.9" r="4" fill="#3465a4"><title>Melrose Newbigging Grey</title></circle></a><a href="/variants/s8/k43y3b1w1db1y3db25r2~x2/"><circle cx="304.4" cy="58.2" r="4" fill="#3465a4"><title>Royal Yaght Britannia, The</title></circle></a><a href="/variants/s8/k43dy3dg1w1db1dy3db25r2~x2/"><circle cx="324.5" cy="64.7" r="4" fill="#3465a4"><title>Royal Yacht Britannia</title></circle></a><a href="/variants/s10/oi4w1k35n1db2o4w1db14o8w1~x2~oi2500000-n1900000/"><circle cx="231.2" cy="58.4" r="4" fill="#3465a4"><title>Voluntary Service Aberdeen</title></circle></a><a href="/variants/s12/k86n6k4lb3k3dr3k3n22o14k3o6lb4/"><circle cx="327.4" cy="50.9" r="4" fill="#3465a4"><title>Langtree</title></circle></a><circle cx="287.1" cy="37.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

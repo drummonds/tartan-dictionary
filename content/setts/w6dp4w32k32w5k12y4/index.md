@@ -1,6 +1,15 @@
 ---
 title: "MacPherson Dress Clan Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacPherson"
+  url: "/clan/macpherson/"
+- name: "MacPherson"
+  url: "/families/macpherson/"
+- name: "MacPherson Dress"
+  url: "/tartans/m/ma/macpherson-dress-3/"
 ---
 This is the **MacPherson Dress Clan Tartan** sett — one scale-free proportion (`w6dp4w32k32w5k12y4`), colour order pattern
 [BWKWKGKWKWBW](/stripes/bwkwkgkwkwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y3k9w3k20w30dp3w3~x2/"><circle cx="226.6" cy="166.8" r="4" fill="#3465a4"><title>MacPherson Dress (1951)</title></circle></a><a href="/variants/s7/w4k4w21k12w4k12ly4/"><circle cx="205.3" cy="233.7" r="4" fill="#3465a4"><title>Mazda</title></circle></a><a href="/variants/s9/k6r2k12y3k6lb16y3lb16k2~x2/"><circle cx="179.0" cy="179.9" r="4" fill="#3465a4"><title>MacMillan</title></circle></a><a href="/variants/s7/y9k32g6w20y3w9k5~x2/"><circle cx="163.3" cy="179.3" r="4" fill="#3465a4"><title>Black and White Golf</title></circle></a><a href="/variants/s7/ly9k32g6w20ly3w9k5~x2/"><circle cx="165.1" cy="181.5" r="4" fill="#3465a4"><title>Black &amp; White Golf (Corporate)</title></circle></a><a href="/variants/s9/k11w4n12k2g3y1n12w4k11~x2/"><circle cx="155.2" cy="141.0" r="4" fill="#3465a4"><title>Hancock Personal Tartan</title></circle></a><a href="/variants/s17/w36k41w4lb6k8o24w12lb4o4k6lb4w4k48o4w8k22w18/"><circle cx="181.7" cy="125.1" r="4" fill="#3465a4"><title>Abergaveny (Fashion)</title></circle></a><a href="/variants/s8/w2g4k7w2k1w11db2w2~x4/"><circle cx="214.7" cy="172.8" r="4" fill="#3465a4"><title>Forbes - 1880 (Clans Originaux)</title></circle></a><a href="/variants/s11/g10k10lb4k2dy2k2lb3k12lb12k2lb3~x2/"><circle cx="144.8" cy="191.1" r="4" fill="#3465a4"><title>Dalgliesh Dress</title></circle></a><a href="/variants/s9/w2k11w2k2w16k2w2k11lo2~x4/"><circle cx="250.9" cy="185.6" r="4" fill="#3465a4"><title>MacFie of Colonsay Dress (Fashion?)</title></circle></a><circle cx="192.8" cy="165.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Hunter of Hunterston"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hunter"
+  url: "/clan/hunter/"
+- name: "Hunter of Hunterston"
+  url: "/families/hunter-of-hunterston/"
+- name: "Hunter of Hunterston"
+  url: "/tartans/h/hu/hunter-of-hunterston-2/"
 ---
 This is the **Hunter of Hunterston** sett — one scale-free proportion (`g4r2g14w2db14r2db14g14db2g5db2g14db14r2db14w2g14r2g4lo3`), colour order pattern
 [GRGWBRBGBGBGBRBWGRGY](/stripes/grgwbrbgbgbgbrbwgrgy/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/db24g4db3g4db24g6w3g4r3g8ly3g8r3g4w3g6~x2/"><circle cx="211.7" cy="162.0" r="4" fill="#3465a4"><title>Scottish Borders Tourist Board</title></circle></a><a href="/variants/s11/g5db2g14db14r2db14w2g14r2g4lo3~x2/"><circle cx="224.2" cy="199.5" r="4" fill="#3465a4"><title>Hunter of Hunterston (Clan)</title></circle></a><a href="/variants/s11/g5db2g12db12r2db12w2g12r2g4y3~x2/"><circle cx="216.1" cy="212.4" r="4" fill="#3465a4"><title>Hunter of Hunterston Clan Tartan</title></circle></a><a href="/variants/s15/g8db3y1g6r1g7db7y1db6r1g3db12g3y1r1~x2/"><circle cx="264.6" cy="184.3" r="4" fill="#3465a4"><title>Platt Family Tartan</title></circle></a><a href="/variants/s18/lb25g3lb4g4lb5g5lb15r6lb5g19lb8g26lb4w4lb4g7lb4db21~x2/"><circle cx="207.3" cy="179.2" r="4" fill="#3465a4"><title>Shedor (2013)</title></circle></a><a href="/variants/s14/dy1r1dy2db11g5db1g8r1g8db1g5db11dy2r1~x4~g2408144/"><circle cx="240.0" cy="178.0" r="4" fill="#3465a4"><title>New Mexico District Tartan</title></circle></a><a href="/variants/s22/dg10dgi4dg10w2dg10dgi2dg2dgi20w4dgi4w4dgi4r4dgi20dg2dgi2dg10w2dg10dgi4dg5b4~x2~dg1104144-dgi1704158/"><circle cx="216.8" cy="164.8" r="4" fill="#3465a4"><title>Toshach</title></circle></a><a href="/variants/s10/g8r3g3r5g26dy7lb3db28r3db6~x2/"><circle cx="184.4" cy="153.1" r="4" fill="#3465a4"><title>Stewart of Appin Hunting</title></circle></a><a href="/variants/s10/g21db4w4db32g12y4g8r4g6db12/"><circle cx="223.8" cy="196.4" r="4" fill="#3465a4"><title>Harkness Hunting</title></circle></a><a href="/variants/s16/g10db10r1db10n1db1n10db2n10db1n1db10r1db10g10w2~x2/"><circle cx="246.3" cy="182.5" r="4" fill="#3465a4"><title>American Soc of Travel Agents Corporate Tartan</title></circle></a><circle cx="223.1" cy="180.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

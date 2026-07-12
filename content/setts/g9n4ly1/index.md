@@ -1,6 +1,15 @@
 ---
 title: "Ledford (Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ledford"
+  url: "/clan/ledford/"
+- name: "Ledford"
+  url: "/families/ledford/"
+- name: "Ledford"
+  url: "/tartans/l/le/ledford/"
 ---
 This is the **Ledford (Name)** sett — one scale-free proportion (`g9n4ly1`), colour order pattern
 [GBY](/stripes/gby/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/g9n4dy1~x8/"><circle cx="544.6" cy="341.3" r="4" fill="#3465a4"><title>Ledford</title></circle></a><a href="/variants/s3/g9n4dy1~x4/"><circle cx="544.6" cy="341.3" r="4" fill="#3465a4"><title>Ledford Family Tartan</title></circle></a><a href="/variants/s4/g56dy13y13n5~x2/"><circle cx="505.0" cy="280.8" r="4" fill="#3465a4"><title>Colonial Marine (Aliens Legacy)</title></circle></a><a href="/variants/s4/dg8dr1db1n1~x10/"><circle cx="622.9" cy="292.3" r="4" fill="#3465a4"><title>Jodi Williams (Personal)</title></circle></a><a href="/variants/s3/g81r10y20~x2/"><circle cx="577.3" cy="314.1" r="4" fill="#3465a4"><title>McMoosie</title></circle></a><a href="/variants/s5/dr3n34db4g47lb3~x2/"><circle cx="429.0" cy="235.8" r="4" fill="#3465a4"><title>Exabyte</title></circle></a><a href="/variants/s3/g12db3y1~x4/"><circle cx="534.1" cy="277.4" r="4" fill="#3465a4"><title>Unidentified pattern #2</title></circle></a><a href="/variants/s3/g49w4lo11~x2/"><circle cx="546.3" cy="275.1" r="4" fill="#3465a4"><title>Hibernian S3</title></circle></a><a href="/variants/s4/dy5dt32dy32w5~x2/"><circle cx="395.0" cy="313.5" r="4" fill="#3465a4"><title>Barclay Dress</title></circle></a><a href="/variants/s4/g9dy20g40w5~x2/"><circle cx="415.5" cy="285.3" r="4" fill="#3465a4"><title>O'Neill Irish Family Tartan</title></circle></a><circle cx="536.4" cy="340.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

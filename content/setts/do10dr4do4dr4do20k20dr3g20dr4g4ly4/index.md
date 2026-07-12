@@ -1,6 +1,15 @@
 ---
 title: "Cameron of Erracht (WCWM)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cameron"
+  url: "/clan/cameron/"
+- name: "Cameron of Erracht"
+  url: "/families/cameron-of-erracht/"
+- name: "Cameron of Erracht"
+  url: "/tartans/c/ca/cameron-of-erracht-2/"
 ---
 This is the **Cameron of Erracht (WCWM)** sett — one scale-free proportion (`do10dr4do4dr4do20k20dr3g20dr4g4ly4`), colour order pattern
 [BBBBBKBGBGY](/stripes/bbbbbkbgbgy/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/o56k12o7k12o7dg50db50y10/"><circle cx="139.9" cy="189.6" r="4" fill="#3465a4"><title>Sikh</title></circle></a><a href="/variants/s11/dy2k10n2k2n2k3n10o16y2o2y2~x2/"><circle cx="132.6" cy="159.0" r="4" fill="#3465a4"><title>Dryburgh</title></circle></a><a href="/variants/s11/dr3g6k1lo1k1g6dr2dy2k2dy9k2~x4/"><circle cx="129.3" cy="176.6" r="4" fill="#3465a4"><title>MacAart (Personal)</title></circle></a><a href="/variants/s12/dr8w2dr22k8dg6k6dg6k6dg8lg3dg3lg3~x2/"><circle cx="140.2" cy="163.1" r="4" fill="#3465a4"><title>Wcwm 1712</title></circle></a><a href="/variants/s12/dg10lo2dg3r4dg13k13r2t13r4t3r2t10~x2~t2105244/"><circle cx="97.4" cy="188.9" r="4" fill="#3465a4"><title>Bowie (Lochcarron)</title></circle></a><a href="/variants/s12/r4dy14lo2dy4lo2k6dy3k6db14r2db4r4~x2/"><circle cx="101.0" cy="178.3" r="4" fill="#3465a4"><title>Kinloch Anderson</title></circle></a><a href="/variants/s12/dg10lo2dg3r4dg13k13r2t13r4t3r2t10~x2/"><circle cx="91.0" cy="188.0" r="4" fill="#3465a4"><title>Bowie (Name)</title></circle></a><a href="/variants/s10/dy9k2dy2dr2g6k1lo1k1g6dr3~x4/"><circle cx="152.5" cy="184.0" r="4" fill="#3465a4"><title>MacAart (Personal)</title></circle></a><a href="/variants/s12/dt8y8dt4y28k12dti6k12dr4dti8dr4dti29lb6~y2100000-dti1200000/"><circle cx="113.8" cy="174.1" r="4" fill="#3465a4"><title>Kinloch Anderson Castle Grey</title></circle></a><a href="/variants/s12/dr4g14o2g4o2k6g3k6db12dr2db4dr4~x2/"><circle cx="87.9" cy="185.0" r="4" fill="#3465a4"><title>Kinloch Anderson #2 (Corporate)</title></circle></a><circle cx="132.4" cy="188.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

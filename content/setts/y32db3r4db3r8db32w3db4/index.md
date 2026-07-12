@@ -1,6 +1,11 @@
 ---
 title: "Clemens and August (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clemens and August"
+  url: "/tartans/c/cl/clemens-and-august/"
 ---
 This is the **Clemens and August (Personal)** sett — one scale-free proportion (`y32db3r4db3r8db32w3db4`), colour order pattern
 [BWBRBRBG](/stripes/bwbrbrbg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y35db3r4db3r8db30w3db4~x2/"><circle cx="275.8" cy="178.9" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><a href="/variants/s8/g3r12dg12g5r2db30g2r2~x2/"><circle cx="263.1" cy="173.8" r="4" fill="#3465a4"><title>Rannoch Moor (Fashion)</title></circle></a><a href="/variants/s7/db13g8r5db3g2r1y1~x4/"><circle cx="273.5" cy="197.9" r="4" fill="#3465a4"><title>Fibonacci7</title></circle></a><a href="/variants/s9/db24w3db4y6db4w3db15r52db6/"><circle cx="298.1" cy="145.5" r="4" fill="#3465a4"><title>Mercer, James (Personal)</title></circle></a><a href="/variants/s9/db16w2db3y4db3w2db10r35db4~x2/"><circle cx="299.2" cy="145.7" r="4" fill="#3465a4"><title>Mercer Personal Tartan</title></circle></a><a href="/variants/s7/y2db3w6db15r24db3w2~x2/"><circle cx="247.2" cy="177.5" r="4" fill="#3465a4"><title>Fazzolettone (Fashion?)</title></circle></a><a href="/variants/s6/r2t13dr3t3dr16lb2~x4/"><circle cx="304.2" cy="225.7" r="4" fill="#3465a4"><title>MacArthur-Fox Blue (Personal)</title></circle></a><a href="/variants/s8/db3dbi1g5db3r9db1r1db2~x4~db0906265-dbi1208266/"><circle cx="210.5" cy="202.7" r="4" fill="#3465a4"><title>Unidentified #61</title></circle></a><a href="/variants/s9/g10r1g1r1g1r4db12r1db2~x2/"><circle cx="272.2" cy="187.1" r="4" fill="#3465a4"><title>Unidentified Portrait</title></circle></a><a href="/variants/s8/db1lyi1db13ly3y3ly3r1ly1~x4~lyi2705081-ly2503076/"><circle cx="309.0" cy="162.4" r="4" fill="#3465a4"><title>Glen Moray</title></circle></a><circle cx="280.7" cy="181.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Royal Navy Submarine Service"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Royal Navy Submarine Service"
+  url: "/tartans/r/ro/royal-navy-submarine-service/"
 ---
 This is the **Royal Navy Submarine Service** sett — one scale-free proportion (`w3db3r2db14k3g12k14db16y2`), colour order pattern
 [GBKGKBRBW](/stripes/gbkgkbrbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r1b8k4g6k4b8y1~x6~g2003152/"><circle cx="177.9" cy="207.3" r="4" fill="#3465a4"><title>Quinn</title></circle></a><a href="/variants/s11/k3dg2k12db4t19dr3t19db4k12dg2lo3~x2/"><circle cx="145.4" cy="144.3" r="4" fill="#3465a4"><title>Loch Lomond Millenium</title></circle></a><a href="/variants/s10/db4g1db2g2n6g2k3r1db8w1~x2/"><circle cx="150.5" cy="169.8" r="4" fill="#3465a4"><title>EAIE 2015</title></circle></a><a href="/variants/s10/db13k14g6k14db14w1r1y1g1db3~x2/"><circle cx="189.4" cy="135.3" r="4" fill="#3465a4"><title>Scotshill</title></circle></a><a href="/variants/s10/t13k14g6k14t14w1r1ly1g1t3~x2/"><circle cx="161.8" cy="131.4" r="4" fill="#3465a4"><title>Scotshill</title></circle></a><a href="/variants/s9/db10r7db31k25g23k8db7k8y5~x2/"><circle cx="119.9" cy="201.2" r="4" fill="#3465a4"><title>MacCallum, of Berwick</title></circle></a><a href="/variants/s11/k7db20lb2r6lb2k20y3g20db27r3db6~x2/"><circle cx="156.8" cy="133.8" r="4" fill="#3465a4"><title>Stinson Ancient U.S.A. Tartan</title></circle></a><a href="/variants/s9/dr1t8k4g1dg4g1k4t8y1~x6/"><circle cx="161.7" cy="171.0" r="4" fill="#3465a4"><title>Quinn (Personal)</title></circle></a><a href="/variants/s8/k29r3db24n6k8w4n8o6~x2~n1900000-o2500000/"><circle cx="128.2" cy="152.7" r="4" fill="#3465a4"><title>Yates (Personal)</title></circle></a><a href="/variants/s8/k37r4db30n7k10w5n10y7~x2~n1700000-y2400000/"><circle cx="134.2" cy="153.5" r="4" fill="#3465a4"><title>Yates</title></circle></a><circle cx="146.4" cy="166.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

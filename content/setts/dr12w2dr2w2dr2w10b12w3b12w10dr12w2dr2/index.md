@@ -1,6 +1,11 @@
 ---
 title: "Red, White, Blue Watch (Dance)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Red, White, Blue Watch"
+  url: "/tartans/r/re/red-white-blue-watch/"
 ---
 This is the **Red, White, Blue Watch (Dance)** sett — one scale-free proportion (`dr12w2dr2w2dr2w10b12w3b12w10dr12w2dr2`), colour order pattern
 [BWBWBWBWBWBWB](/stripes/bwbwbwbwbwbwb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/n12dt2n2dt2n2dt10w12dt3w12dt10n12dt2n2~x2/"><circle cx="210.1" cy="253.3" r="4" fill="#3465a4"><title>Grey Watch Dress (1989)</title></circle></a><a href="/variants/s13/lb25dp4lb4dp4lb4dp23lr23w4lr23dp23lb23dp4lb4~x2~lb3401300-lr3000000/"><circle cx="208.7" cy="237.8" r="4" fill="#3465a4"><title>Poulter Pink Corporate Tartan</title></circle></a><a href="/variants/s13/w35dp7w7dp7w7dp35db36ly7db36dp35w35dp7w7/"><circle cx="168.1" cy="239.3" r="4" fill="#3465a4"><title>Poulter Tron</title></circle></a><a href="/variants/s13/w69dp14w13dp14w13dp69db72ly13db72dp69w68dp14w13/"><circle cx="172.2" cy="235.6" r="4" fill="#3465a4"><title>Poulter Tron</title></circle></a><a href="/variants/s11/ly2db10dr3ly2w3ly2db3dr3db3w3ly2~x4/"><circle cx="191.0" cy="250.8" r="4" fill="#3465a4"><title>Unidentified #55</title></circle></a><a href="/variants/s8/n12dt2n2dt2n2dt10w12dt3~x2~n1900000-dt0900000/"><circle cx="227.3" cy="260.7" r="4" fill="#3465a4"><title>Grey Watch Dress (Fashion)</title></circle></a><a href="/variants/s13/db25lb8db8lb8db8lb46w46lp8w46lb46db46lb8db8/"><circle cx="193.7" cy="239.0" r="4" fill="#3465a4"><title>Poulter SG 104 (Fashion)</title></circle></a><a href="/variants/s13/lp25dp4lp4dp4lp4dp23lb23w4lb23dp23lp23dp4lp4~x2/"><circle cx="220.0" cy="239.3" r="4" fill="#3465a4"><title>Poulter, Pink (Corporate)</title></circle></a><a href="/variants/s8/db2lb2db7dr8lb10db2lb2db2~x2/"><circle cx="241.7" cy="276.9" r="4" fill="#3465a4"><title>Laval Dress, Tartan de</title></circle></a><a href="/variants/s12/dr6w4dr6w11db1w3db3w1db11ly6db4ly6~x4/"><circle cx="153.5" cy="229.9" r="4" fill="#3465a4"><title>Lysaght Dress</title></circle></a><circle cx="206.0" cy="247.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

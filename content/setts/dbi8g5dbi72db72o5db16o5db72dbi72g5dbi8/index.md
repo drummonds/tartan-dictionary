@@ -1,6 +1,11 @@
 ---
 title: "Gravesend Grammar School (Corp)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Gravesend Grammar School"
+  url: "/tartans/g/gr/gravesend-grammar-school/"
 ---
 This is the **Gravesend Grammar School (Corp)** sett — one scale-free proportion (`dbi8g5dbi72db72o5db16o5db72dbi72g5dbi8`), colour order pattern
 [BGBBRBRBBGB](/stripes/bgbbrbrbbgb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/db34dbi20db4dbi8db6r2db5dbi2db3g4db3dbi2db5r2db6dbi8db4dbi20db34g4~db1204274-dbi1404245/"><circle cx="555.3" cy="206.0" r="4" fill="#3465a4"><title>Hughes of Wales</title></circle></a><circle cx="516.3" cy="242.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

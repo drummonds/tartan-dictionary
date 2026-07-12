@@ -1,6 +1,15 @@
 ---
 title: "Harding (Florida) (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Harding"
+  url: "/clan/harding/"
+- name: "Harding"
+  url: "/families/harding/"
+- name: "Harding"
+  url: "/tartans/h/ha/harding-2/"
 ---
 This is the **Harding (Florida) (Personal)** sett — one scale-free proportion (`r50y7o6g4k4g4o6y7r50db13`), colour order pattern
 [BRGRGKGRGR](/stripes/brgrgkgrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db13r50y7o6g4k4~x2/"><circle cx="304.6" cy="132.0" r="4" fill="#3465a4"><title>Harding (Florida) (Personal)</title></circle></a><a href="/variants/s6/r30g12k5w2lb6r30/"><circle cx="370.2" cy="156.5" r="4" fill="#3465a4"><title>Sinclair Clan Tartan</title></circle></a><a href="/variants/s6/r30g12k5w2lb6r30~x2/"><circle cx="370.2" cy="156.5" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s8/y8k2r23k1r17k1g4w3~x2/"><circle cx="371.3" cy="111.3" r="4" fill="#3465a4"><title>Hoa Sen</title></circle></a><a href="/variants/s9/r15k1r1dt5r1g1r1g1lo1~x8~dt1703208/"><circle cx="388.5" cy="105.7" r="4" fill="#3465a4"><title>Oliver Dress (Red)</title></circle></a><a href="/variants/s8/r100db10w5db14y4dbi8y4r24~db1004274-dbi1406275/"><circle cx="478.9" cy="102.3" r="4" fill="#3465a4"><title>Earl of Inverness (Royal)</title></circle></a><a href="/variants/s9/o44y2k4dp2o15r6k3lb3y2~x2/"><circle cx="425.1" cy="85.6" r="4" fill="#3465a4"><title>Inches, of Perth</title></circle></a><a href="/variants/s9/r19y1k2lb1g7r2k1lb1w1~x4/"><circle cx="296.5" cy="77.2" r="4" fill="#3465a4"><title>Drummond Old Clan Tartan</title></circle></a><a href="/variants/s9/r51y2k4w2g21r10k4lb4w2~x2/"><circle cx="310.1" cy="70.1" r="4" fill="#3465a4"><title>Drummond of Perth Clan Tartan</title></circle></a><a href="/variants/s8/r72g3y2g26r14db6lb6w2/"><circle cx="416.9" cy="87.7" r="4" fill="#3465a4"><title>Stewart of Fingask - 1745 (Clan?)</title></circle></a><circle cx="366.9" cy="119.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

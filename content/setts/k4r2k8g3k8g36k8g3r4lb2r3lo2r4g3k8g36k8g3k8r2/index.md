@@ -1,6 +1,11 @@
 ---
 title: "Kinnear, Barony of (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Kinnear, Barony of"
+  url: "/tartans/k/ki/kinnear-barony-of-2/"
 ---
 This is the **Kinnear, Barony of (Personal)** sett — one scale-free proportion (`k4r2k8g3k8g36k8g3r4lb2r3lo2r4g3k8g36k8g3k8r2`), colour order pattern
 [KRKGKGKGRWRYRGKGKGKR](/stripes/krkgkgkgrwryrgkgkgkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/g4dr2g24k2g2k6g2k6g2k2g3lo1db3k2db1k2db3g2~x2/"><circle cx="261.0" cy="72.9" r="4" fill="#3465a4"><title>Hyslop Hunting (Name)</title></circle></a><a href="/variants/s16/db15k18g3k2g2k2g44y4g44k2g2k2g3k18db15r4~x2/"><circle cx="244.1" cy="88.2" r="4" fill="#3465a4"><title>Sarafilovic</title></circle></a><a href="/variants/s21/k2ri1k6g2k6g24k4g2r3y1r2b1r3g2k4g24k6g2k6ri1k2~x2~ri2008029-r1506028/"><circle cx="224.8" cy="49.3" r="4" fill="#3465a4"><title>Kinnear, Pilette of</title></circle></a><a href="/variants/s18/k10y1g2k1n2k1g2y1k1n2k3n1k17g18y1g2k1dg2~x2/"><circle cx="224.6" cy="77.6" r="4" fill="#3465a4"><title>Raznotravie</title></circle></a><a href="/variants/s21/k2r1k6g2k6g24k4g2dr3y1dr2lr1dr3g2k4g24k6g2k6r1k2~x2/"><circle cx="224.3" cy="49.3" r="4" fill="#3465a4"><title>Kinnear Barony of.. Family Tartan</title></circle></a><a href="/variants/s18/k10lyi1ly2k1n2k1ly2lyi1k1n2k3n1k17ly18lyi1ly2k1dg2~x2~lyi3106095-ly3104101/"><circle cx="210.1" cy="69.4" r="4" fill="#3465a4"><title>Raznotravie (Corporate)</title></circle></a><a href="/variants/s16/g18k6g1k1db1k6db1k2db1k6db1k1g1k6g21y1~x2/"><circle cx="281.7" cy="96.2" r="4" fill="#3465a4"><title>Grand Lodge of Scotland</title></circle></a><a href="/variants/s17/db2g2y1g3r1g2r1g13db4k3db3k3db3k3db4g23r2~x2/"><circle cx="283.5" cy="88.2" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/variants/s18/k6g4k22g3k3g32r3g3w3g3y3g32k3g3k22g4k6dp6/"><circle cx="193.8" cy="99.1" r="4" fill="#3465a4"><title>Campbell, Marquis of Lorne</title></circle></a><a href="/variants/s27/g2db3k1db1k1db1k4g12r2g12k3g2k6g2k6g2k3g12y2g12k4db1k1db1k1db3g2/"><circle cx="215.6" cy="104.8" r="4" fill="#3465a4"><title>Stewart Hunting D</title></circle></a><circle cx="231.6" cy="77.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

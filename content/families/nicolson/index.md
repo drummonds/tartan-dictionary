@@ -1,6 +1,11 @@
 ---
 title: "Nicolson"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Nicolson"
+  url: "/clan/nicolson/"
 ---
 A family of [Clan Nicolson](/clan/nicolson/).
 

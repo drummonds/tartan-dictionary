@@ -1,6 +1,15 @@
 ---
 title: "Houston"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Houston"
+  url: "/clan/houston/"
+- name: "Houston"
+  url: "/families/houston/"
+- name: "Houston"
+  url: "/tartans/h/ho/houston/"
 ---
 This is the **Houston** sett — one scale-free proportion (`y2o2y12dg2y32o2y1g2y1o2y1g2`), colour order pattern
 [GGRGGGRGGGRG](/stripes/ggrgggrgggrg/). It is recorded as a single **variant**, below.

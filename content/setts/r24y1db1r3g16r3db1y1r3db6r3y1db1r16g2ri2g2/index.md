@@ -1,6 +1,15 @@
 ---
 title: "Munro"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Munro"
+  url: "/clan/munro/"
+- name: "Munro"
+  url: "/families/munro/"
+- name: "Munro"
+  url: "/tartans/m/mu/munro/"
 ---
 This is the **Munro** sett — one scale-free proportion (`r24y1db1r3g16r3db1y1r3db6r3y1db1r16g2ri2g2`), colour order pattern
 [GRGRBGRBRGBRGRBGR](/stripes/grgrbgrbrgbrgrbgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/r36ly2db1r3g41r3db1ly2r3db12r3ly2db1r36g3ri3g4~x2~r2109032-ri2307033/"><circle cx="350.1" cy="67.5" r="4" fill="#3465a4"><title>Munro (Clan)</title></circle></a><a href="/variants/s17/r46y2db2r5g46r5db2y2r5db10r5y2db2r49g5w5g5~x2/"><circle cx="351.4" cy="84.4" r="4" fill="#3465a4"><title>Stirling Weavers Guild Artifact Tartan</title></circle></a><a href="/variants/s17/r36y2db2r3g40r3db2y2r3db12r3y2db2r36g3b3g4~x2/"><circle cx="319.1" cy="95.0" r="4" fill="#3465a4"><title>Lochiel, (Cameron)</title></circle></a><a href="/variants/s17/ri24y1db1ri3g16ri3db1y1ri3db6ri3y1db1ri16g2r2g2~x2~ri2109032-r1807008/"><circle cx="373.9" cy="95.2" r="4" fill="#3465a4"><title>Munro Clan Tartan</title></circle></a><a href="/variants/s17/ri24y1db1ri3g16ri3db1y1ri3db6ri3y1db1ri16g2r2g2~x2~ri2008029-r1707016/"><circle cx="377.0" cy="96.6" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/variants/s17/r24y1db1r3g16r3db1y1r3db6r3y1db1r16g2r2g2~x2/"><circle cx="399.1" cy="104.3" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/variants/s17/r24y1db1r3g16r3db1y1r3db6r3y1db1r16g2dr2g2~x2~r1908029/"><circle cx="382.3" cy="99.5" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/variants/s17/r19y1db1r2g18r2db1y1r2db4r2y1db1r19g2r2g2~x2/"><circle cx="381.1" cy="111.0" r="4" fill="#3465a4"><title>Munro (Logan)</title></circle></a><a href="/variants/s17/r36y2dp1r3g41r3dp1y2r3dp12r3y2dp1r37g3ri3g4~x2~r2109032-ri2406019/"><circle cx="372.4" cy="72.7" r="4" fill="#3465a4"><title>Lochiel (Cameron) Tartan</title></circle></a><a href="/variants/s17/r36y2dp1r3g41r3dp1y2r3dp12r3y2dp1r37g3ri3g4~x2~r2109032-ri2307033/"><circle cx="372.8" cy="72.9" r="4" fill="#3465a4"><title>Lochiel (Cameron)</title></circle></a><circle cx="374.6" cy="95.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

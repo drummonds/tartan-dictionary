@@ -1,6 +1,13 @@
 ---
 title: "Berwick Friendship"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Berwick"
+  url: "/clan/berwick/"
+- name: "Berwick Friendship"
+  url: "/tartans/b/be/berwick-friendship/"
 ---
 This is the **Berwick Friendship** sett — one scale-free proportion (`db24k6r6y12g6db6g6db12y1k1r2`), colour order pattern
 [BKRGGBGBGKR](/stripes/bkrggbgbgkr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db6r2db2r4db24g11r4g2r2g3k1y2~x2/"><circle cx="263.9" cy="101.9" r="4" fill="#3465a4"><title>Law of Heather Athol (Personal)</title></circle></a><a href="/variants/s8/db32k12db12g6r6g18k2y3~x2/"><circle cx="210.2" cy="158.7" r="4" fill="#3465a4"><title>Gillies Clan Tartan</title></circle></a><a href="/variants/s8/lb2dbi19k4dbi4k4g9db2k1~x4~dbi1404245-db1106275/"><circle cx="246.1" cy="142.4" r="4" fill="#3465a4"><title>Dollar Academy (1999)</title></circle></a><a href="/variants/s10/y6db3k3db36k10n18db6k2g4k3~x2/"><circle cx="250.8" cy="128.5" r="4" fill="#3465a4"><title>Dinwiddie Hunting</title></circle></a><a href="/variants/s15/db18dp2k2db2dp2k1db2k8g1y1g6k8db14k2g2~x2~db1504274-dp1502305/"><circle cx="247.4" cy="112.3" r="4" fill="#3465a4"><title>Angove, the Black Swan</title></circle></a><a href="/variants/s8/w2dbi19k4dbi4k4g9db2k1~x4~dbi1705244-db1106275/"><circle cx="232.2" cy="138.9" r="4" fill="#3465a4"><title>Dollar Academy (1999) (Corporate)</title></circle></a><a href="/variants/s7/db24k8g8r2g8k1y2/"><circle cx="222.8" cy="137.8" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/variants/s7/db24k8g8r2g8k1y2~x2/"><circle cx="222.8" cy="137.8" r="4" fill="#3465a4"><title>MacLaren Clan Tartan</title></circle></a><a href="/variants/s11/r3g2k1g2db26k12db4g15k1db1y3~x2/"><circle cx="217.6" cy="100.5" r="4" fill="#3465a4"><title>King (Personal)</title></circle></a><a href="/variants/s9/g40k8g4k8g4dr14db64lb9db3/"><circle cx="212.9" cy="120.8" r="4" fill="#3465a4"><title>West Lothian</title></circle></a><circle cx="231.0" cy="127.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

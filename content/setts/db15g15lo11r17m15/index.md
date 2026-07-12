@@ -1,6 +1,13 @@
 ---
 title: "Highland Princess, The"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Highland"
+  url: "/clan/highland/"
+- name: "Highland Princess, The"
+  url: "/tartans/h/hi/highland-princess-the/"
 ---
 This is the **Highland Princess, The** sett — one scale-free proportion (`db15g15lo11r17m15`), colour order pattern
 [BGYRR](/stripes/bgyrr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g2y1lo1r1dp1db1~x36/"><circle cx="22.8" cy="317.2" r="4" fill="#3465a4"><title>Rainbow (Fashion)</title></circle></a><a href="/variants/s5/dp1lb1g1w1r1~x16/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Daughter of Mull</title></circle></a><a href="/variants/s6/dg2y1b1r1dp1db1~x36/"><circle cx="53.8" cy="325.8" r="4" fill="#3465a4"><title>Rainbow</title></circle></a><a href="/variants/s5/r13lo13g13db22w4~x2/"><circle cx="99.1" cy="272.8" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><a href="/variants/s5/t15g15lo11r17m15~x2/"><circle cx="23.3" cy="366.0" r="4" fill="#3465a4"><title>Highland Princess, The</title></circle></a><a href="/variants/s4/r2db2g3y2~x5/"><circle cx="91.6" cy="366.0" r="4" fill="#3465a4"><title>Sturch (Corporate)</title></circle></a><a href="/variants/s4/dg1r1w1db1~x20/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Algarve</title></circle></a><a href="/variants/s3/r2g2lb1~x4/"><circle cx="190.0" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 207</title></circle></a><a href="/variants/s6/dbi1db1r1dp2dr1ly1~x10~dbi1406275-db1404245/"><circle cx="37.0" cy="315.5" r="4" fill="#3465a4"><title>Lytley Formal (Personal)</title></circle></a><a href="/variants/s3/r4dg7lb4~x2/"><circle cx="172.4" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.061</title></circle></a><circle cx="14.0" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Cumnock Hunting (District)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cumnock"
+  url: "/clan/cumnock/"
+- name: "Cumnock"
+  url: "/families/cumnock/"
+- name: "Cumnock Hunting"
+  url: "/tartans/c/cu/cumnock-hunting/"
 ---
 This is the **Cumnock Hunting (District)** sett — one scale-free proportion (`dp23w1dp2db16k3db2k30lr1k2r3`), colour order pattern
 [BWBBKBKYKR](/stripes/bwbbkbkykr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g1db28k11r5w1r5k11y1k2g1~x2/"><circle cx="206.3" cy="78.6" r="4" fill="#3465a4"><title>Scragg Moran (Personal)</title></circle></a><a href="/variants/s10/db4w1k2db25k12b1k2r16k2lo1~x2/"><circle cx="198.4" cy="79.4" r="4" fill="#3465a4"><title>Sidey (Dundee) Dress (Personal)</title></circle></a><a href="/variants/s10/db4w1k2db25k12t1k2r16k2lo1~x2/"><circle cx="198.1" cy="79.4" r="4" fill="#3465a4"><title>Sidey Dress Tartan (Name)</title></circle></a><a href="/variants/s15/db7w1k3dp3k3db3k13dp2k2dp2k2dp23dbi3dp2o2~x2~db1004274-dbi1106275/"><circle cx="255.8" cy="89.3" r="4" fill="#3465a4"><title>Passion of Scotland, Purple (Fashion</title></circle></a><a href="/variants/s10/dp3g3w1k25db25k2db2g1r3w2~x2/"><circle cx="202.4" cy="79.0" r="4" fill="#3465a4"><title>Heart of Oak</title></circle></a><a href="/variants/s12/dg4r1dg1r3dg16k12r1db27lb2db3lb1y2~x2/"><circle cx="209.2" cy="82.9" r="4" fill="#3465a4"><title>McGuirk (2013)</title></circle></a><a href="/variants/s11/ri2k3db30k2db4k2db30k36r30k2lb2~ri2109032-r1706009/"><circle cx="233.2" cy="118.7" r="4" fill="#3465a4"><title>Evans Welsh Name Tartan</title></circle></a><a href="/variants/s11/g6dpi2dp2g2dp15g3k2g1k15db43w2~x2~dpi1607327-dp1105325/"><circle cx="247.3" cy="59.3" r="4" fill="#3465a4"><title>Scottish Pride (Fashion)</title></circle></a><a href="/variants/s10/w6n8dt4n2dt31k16dr1k2dr4r3~x2~n2002277-dt1203265/"><circle cx="203.5" cy="83.9" r="4" fill="#3465a4"><title>Bell Rock Lighthouse 200th Anniversary, The</title></circle></a><a href="/variants/s9/db1b1g3dp6db2k32db2dp12w1~x2~db1406275-dp1105325/"><circle cx="297.4" cy="72.7" r="4" fill="#3465a4"><title>Scottish Heather</title></circle></a><circle cx="229.1" cy="83.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

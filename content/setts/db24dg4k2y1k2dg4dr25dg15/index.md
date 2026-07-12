@@ -1,6 +1,13 @@
 ---
 title: "Livingstone Aus. Dress (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Livingstone"
+  url: "/clan/livingstone/"
+- name: "Livingstone Aus. Dress"
+  url: "/tartans/l/li/livingstone-aus-dress/"
 ---
 This is the **Livingstone Aus. Dress (Personal)** sett — one scale-free proportion (`db24dg4k2y1k2dg4dr25dg15`), colour order pattern
 [BGKGKGBG](/stripes/bgkgkgbg/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dg50db12n7db12dr10n7k2n7k2n7dr10~x2/"><circle cx="304.4" cy="150.7" r="4" fill="#3465a4"><title>Norham and Ladykirk (District)</title></circle></a><a href="/variants/s7/dp6r2dp1dg25db16k2db4~x2/"><circle cx="355.7" cy="171.1" r="4" fill="#3465a4"><title>Laurie</title></circle></a><a href="/variants/s11/dg22dr2dg2dr6dg42ki46dr2k42dr6k12lo3~ki0700000-k0504259/"><circle cx="319.6" cy="170.7" r="4" fill="#3465a4"><title>79th Regiment (Military)</title></circle></a><a href="/variants/s8/dpi10k2dg10dp30dg30dgi55k4dr8~dpi1607327-dp1105325-dgi1605139/"><circle cx="266.2" cy="156.0" r="4" fill="#3465a4"><title>Batten of Argyll (Baddenach)</title></circle></a><a href="/variants/s10/db45dp6n6dp30dg6dp6dg30k4r4k3/"><circle cx="240.0" cy="159.0" r="4" fill="#3465a4"><title>Dalgliesh, Ewen (Personal)</title></circle></a><a href="/variants/s7/dp6dy2dp1dg25db16k2db4~x2/"><circle cx="393.1" cy="185.3" r="4" fill="#3465a4"><title>Lawrie</title></circle></a><a href="/variants/s6/k6lb1dr18db6dg18k2~x2/"><circle cx="240.7" cy="187.0" r="4" fill="#3465a4"><title>Eachaidh</title></circle></a><a href="/variants/s6/k2dr1dbi17dr17db1y2~x4~dbi1404245-db1204274/"><circle cx="373.7" cy="184.8" r="4" fill="#3465a4"><title>Murdoch (Geoffrey)</title></circle></a><a href="/variants/s8/dr2dg13dr2dg13k13db30k1y2~x2/"><circle cx="280.4" cy="148.4" r="4" fill="#3465a4"><title>Chan (Name?)</title></circle></a><a href="/variants/s9/k1dp8dr1dy3dr1dy8k4dg14dr1~x4/"><circle cx="293.3" cy="202.3" r="4" fill="#3465a4"><title>Wcwm 1873-5</title></circle></a><circle cx="300.5" cy="171.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

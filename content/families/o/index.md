@@ -20,7 +20,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/ochiltree/"><img src="/variants/s19/db12k1g2k1g2k1db12dr2k12ly1k12dr2g12k1db2k1db2k1g12~x4/sett.png" alt="Ochiltree" width="140"><br><strong>Ochiltree</strong></a></li>
 <li><a class="tartan" href="/clan/ogg/"><img src="/variants/s12/k2lb6w1r14k1r14w1k6dg10ly1dg2ly2~x2~dg1403152-ly2705081/sett.png" alt="Ogg" width="140"><br><strong>Ogg</strong></a><div class="clan-territory">clan</div></li>
 <li><a class="tartan" href="/families/ogg-of-tarragann/"><img src="/variants/s12/k2lb6w1r14k1r14w1k6dg10ly1dg2ly2~x2~dg1403152-ly2705081/sett.png" alt="Ogg of Tarragann" width="140"><br><strong>Ogg of Tarragann</strong></a></li>
-<li><a class="tartan" href="/families/ogilvie/"><img src="/variants/s14/dbi13r5dbi12y4k5r20w4r10w4r20db5y4dbi13r4~x2~dbi1604274-db0805267/sett.png" alt="Ogilvie" width="140"><br><strong>Ogilvie</strong></a></li>
+<li><a class="tartan" href="/families/ogilvie/"><img src="/variants/s14/y4r1y4ly1k1r6w1r4w1r6k1ly1y4w1~x8/sett.png" alt="Ogilvie" width="140"><br><strong>Ogilvie</strong></a></li>
 <li><a class="tartan" href="/families/ogilvie-of-inverarity/"><img src="/variants/s8/db28y1db2k26g24k1g2r3~x2/sett.png" alt="Ogilvie of Inverarity" width="140"><br><strong>Ogilvie of Inverarity</strong></a></li>
 <li><a class="tartan" href="/families/ogilvie-of-inverarity-ochterlonie/"><img src="/variants/s9/db20ly3k7g11k2g3k2g3r4~x2/sett.png" alt="Ogilvie of Inverarity / Ochterlonie" width="140"><br><strong>Ogilvie of Inverarity / Ochterlonie</strong></a></li>
 <li><a class="tartan" href="/families/ogilvie-of-strathallan/"><img src="/variants/s66/w3ly3k3r5w3r5w3r5k3ly3k6ly3k3r5w3r5w3r5k13w1db3w1k13ly19db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3ly3w3ly3k5r5w3r5k3ly16k3r5w3r5k5ly3w3ly3db3r3k3r13w1db1w1r13w1db1~x2~db1406275/sett.png" alt="Ogilvie of Strathallan" width="140"><br><strong>Ogilvie of Strathallan</strong></a></li>
@@ -29,7 +29,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/ohio/"><img src="/variants/s9/db16w6r8db3lo1g1lg3db1g10~x4/sett.png" alt="Ohio" width="140"><br><strong>Ohio</strong></a></li>
 <li><a class="tartan" href="/families/oilmens/"><img src="/variants/s14/r4k2r24k15r30k1y4k1r30k15r24k2r4k1~x4/sett.png" alt="Oilmens" width="140"><br><strong>Oilmens</strong></a></li>
 <li><a class="tartan" href="/families/oliphant/"><img src="/variants/s6/db4k4db24g32w1g2~x2/sett.png" alt="Oliphant" width="140"><br><strong>Oliphant</strong></a></li>
-<li><a class="tartan" href="/families/oliver/"><img src="/variants/s16/g1dr1g1dr1db7dr6w7k1w7dr6db7dr1g1dr1g1w1~x4/sett.png" alt="Oliver" width="140"><br><strong>Oliver</strong></a></li>
+<li><a class="tartan" href="/families/oliver/"><img src="/variants/s9/r15k1r1db5r1g1r1g1lo1~x8/sett.png" alt="Oliver" width="140"><br><strong>Oliver</strong></a></li>
 <li><a class="tartan" href="/families/oneness/"><img src="/variants/s16/db12k2ly28k2n2k2lo2k2ly28k2db12r12k3lo2k3r12~x2~ly2503076-lo3006076/sett.png" alt="Oneness" width="140"><br><strong>Oneness</strong></a></li>
 <li><a class="tartan" href="/families/ontario/"><img src="/variants/s36/dg50ly16dg8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40dg12dy24r8ly1r1ly1r1ly1r1ly1r1ly1r1ly1r1ly28r6dy4/sett.png" alt="Ontario" width="140"><br><strong>Ontario</strong></a></li>
 <li><a class="tartan" href="/variants/s6/m1g2n10r1db15w1~x4/"><strong>Oren Peterson</strong></a></li>

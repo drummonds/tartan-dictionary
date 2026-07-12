@@ -1,6 +1,11 @@
 ---
 title: "Romantic Scotland (Madonna)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Romantic Scotland"
+  url: "/tartans/r/ro/romantic-scotland/"
 ---
 This is the **Romantic Scotland (Madonna)** sett — one scale-free proportion (`dt5dp1dt4db4dt7db8w1db2y1`), colour order pattern
 [BBBBBBWBG](/stripes/bbbbbbwbg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg4db3dg20db9dr2db2dr2db18dp4~x2/"><circle cx="467.0" cy="263.8" r="4" fill="#3465a4"><title>New Club Centenary</title></circle></a><a href="/variants/s8/dt5db4dr1db14dt14dr1dt5lo3~x2/"><circle cx="422.4" cy="251.7" r="4" fill="#3465a4"><title>Edinburgh Monarchs</title></circle></a><a href="/variants/s10/db20dg6db6lb2dg20dr8dg6dr4dg10lr3~x2/"><circle cx="323.0" cy="232.7" r="4" fill="#3465a4"><title>MacConnell</title></circle></a><a href="/variants/s8/dy5dbi12db4ly4db22dbi3db4dy5~dbi1406275-db1204274/"><circle cx="370.4" cy="262.4" r="4" fill="#3465a4"><title>Daks Muted blue Trade Tartan</title></circle></a><a href="/variants/s8/dy3dbi6db2ly2db11dbi2db2dy3~x2~dbi1406275-db1204274/"><circle cx="348.4" cy="280.4" r="4" fill="#3465a4"><title>Daks (Blue)</title></circle></a><a href="/variants/s9/db4lo2db20dt2dr4dt2db3dt12db2~x2/"><circle cx="474.2" cy="251.6" r="4" fill="#3465a4"><title>Stone of Destiny, The (Commemorative</title></circle></a><a href="/variants/s12/dg32w3dg32db32r3db32dg32dp3dg32db32r3db32~x2/"><circle cx="352.3" cy="234.2" r="4" fill="#3465a4"><title>Love Htg (Personal)</title></circle></a><a href="/variants/s7/dg7dbi3dg7db22dbi22w3dbi5~x2~dbi1406275-db1404245/"><circle cx="354.0" cy="282.6" r="4" fill="#3465a4"><title>United Colours of Scotland (Corporat</title></circle></a><a href="/variants/s10/dbi8g8db12r3dp20g3db20dbi3db20lb2~x2~dbi1406275-db1305255/"><circle cx="307.8" cy="209.2" r="4" fill="#3465a4"><title>Strathisla (District)</title></circle></a><a href="/variants/s9/dg3y2dr10dg10db20dg12r3db10w2~x2/"><circle cx="230.0" cy="203.5" r="4" fill="#3465a4"><title>Patel (2013)</title></circle></a><circle cx="359.1" cy="261.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Scotland’s Golf Coast"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Scotland’s Golf Coast"
+  url: "/tartans/s/sc/scotland-s-golf-coast/"
 ---
 This is the **Scotland’s Golf Coast** sett — one scale-free proportion (`y2g20db8r3db2r2db16w1lb2`), colour order pattern
 [GGBRBRBWW](/stripes/ggbrbrbww/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w1db16ly1r3ly1dg6g2dg6w1~x2~dg1806142-g2408144/"><circle cx="213.8" cy="138.7" r="4" fill="#3465a4"><title>Kleto, Susan (Personal)</title></circle></a><a href="/variants/s9/w2db20dg2g2dg2g4dg8y2r1~x2~dg1806142-g2408144/"><circle cx="242.3" cy="126.7" r="4" fill="#3465a4"><title>Nova Scotia (Province)</title></circle></a><a href="/variants/s8/y3db1k2g26db28w1db1r2~x2/"><circle cx="265.4" cy="94.8" r="4" fill="#3465a4"><title>Johnston, Diana Hunting (Personal)</title></circle></a><a href="/variants/s8/ly3db1k2g26db28w1db1r2~x2/"><circle cx="256.4" cy="92.0" r="4" fill="#3465a4"><title>Johnston, Diana Hunting (Personal)</title></circle></a><a href="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-lo2804072/"><circle cx="238.9" cy="142.1" r="4" fill="#3465a4"><title>Michigan, State of (District)</title></circle></a><a href="/variants/s9/w2db20dg2g2dg2g4dg8y2r1~x2/"><circle cx="253.8" cy="128.5" r="4" fill="#3465a4"><title>Nova Scotia Canadian District Tartan</title></circle></a><a href="/variants/s11/n5w2g30db6g4db3g4db24g4dy5r3~x2/"><circle cx="245.8" cy="138.8" r="4" fill="#3465a4"><title>Wells (1970) (Name)</title></circle></a><a href="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-r1707033/"><circle cx="232.0" cy="139.6" r="4" fill="#3465a4"><title>Michigan State District Tartan</title></circle></a><a href="/variants/s8/lb5y5db12g1db1r1db1w2~x4/"><circle cx="215.3" cy="150.2" r="4" fill="#3465a4"><title>Hodgkinson</title></circle></a><a href="/variants/s8/lb5y5db12g1db1r1db1w2~x2/"><circle cx="215.3" cy="150.2" r="4" fill="#3465a4"><title>Yorkshire C.C.C. Corporate Tartan</title></circle></a><circle cx="245.6" cy="133.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

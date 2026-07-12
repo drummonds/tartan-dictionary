@@ -1,6 +1,11 @@
 ---
 title: "Isle of Cumbrae (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Isle of Cumbrae"
+  url: "/tartans/i/is/isle-of-cumbrae/"
 ---
 This is the **Isle of Cumbrae (Corporate)** sett — one scale-free proportion (`k3y3r3y28n28lb2n2`), colour order pattern
 [BWBGRGK](/stripes/bwbgrgk/). It is recorded as a single **variant**, below.

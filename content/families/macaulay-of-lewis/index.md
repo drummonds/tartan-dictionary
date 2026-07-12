@@ -1,6 +1,11 @@
 ---
 title: "MacAulay of Lewis"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacAulay"
+  url: "/clan/macaulay/"
 ---
 A family of [Clan MacAulay](/clan/macaulay/).
 

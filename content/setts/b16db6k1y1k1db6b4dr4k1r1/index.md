@@ -1,6 +1,11 @@
 ---
 title: "Kirk in the Hills"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Kirk in the Hills"
+  url: "/tartans/k/ki/kirk-in-the-hills-2/"
 ---
 This is the **Kirk in the Hills** sett — one scale-free proportion (`b16db6k1y1k1db6b4dr4k1r1`), colour order pattern
 [BBKGKBBBKR](/stripes/bbkgkbbbkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db92k14db18t5db5t5db5g32dp16k5dp7y8~db1406275-dp1607327/"><circle cx="295.0" cy="98.4" r="4" fill="#3465a4"><title>Bavidge (Personal)</title></circle></a><a href="/variants/s6/dp4k3b18r3db34w3~x2/"><circle cx="256.0" cy="155.5" r="4" fill="#3465a4"><title>Margach, William (Dumbarton)</title></circle></a><a href="/variants/s11/db16k1lb1db10k4b8dp4db7lb1k1lo2~x2~dp1607335-lo2706066/"><circle cx="285.0" cy="129.9" r="4" fill="#3465a4"><title>Cian (Carroll), Clan</title></circle></a><a href="/variants/s7/r8y2b7y2db24k2g1~x2/"><circle cx="266.4" cy="112.1" r="4" fill="#3465a4"><title>(4) Traill</title></circle></a><a href="/variants/s10/db42dp4db16dg10k2r6k2dg10k3w4~x2/"><circle cx="295.2" cy="103.0" r="4" fill="#3465a4"><title>Mount Dora</title></circle></a><a href="/variants/s6/m4k3t18r3db34w3~x2~m2009341-r2108022/"><circle cx="239.2" cy="149.8" r="4" fill="#3465a4"><title>Margach, William (Personal)</title></circle></a><a href="/variants/s13/dp4k3dp20k10db19o2db2o2db25g3db4k6w4~x2/"><circle cx="204.4" cy="127.5" r="4" fill="#3465a4"><title>Highland Destiny (Fashion)</title></circle></a><a href="/variants/s6/db40t16k5b16w2dp6~x2/"><circle cx="241.9" cy="157.6" r="4" fill="#3465a4"><title>MacFarland-Collins (Name)</title></circle></a><a href="/variants/s12/db92k14db18t5db5t5db5g32dp16k5dp7y8/"><circle cx="291.9" cy="99.6" r="4" fill="#3465a4"><title>Bavidge (Personal)</title></circle></a><a href="/variants/s8/t11db5g4w3r3k16db28t2~x2/"><circle cx="167.9" cy="135.2" r="4" fill="#3465a4"><title>Scottish Italian</title></circle></a><circle cx="243.4" cy="124.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

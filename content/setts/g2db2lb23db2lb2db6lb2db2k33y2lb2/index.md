@@ -1,6 +1,15 @@
 ---
 title: "Smith Family (Maine) (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Smith"
+  url: "/clan/smith/"
+- name: "Smith"
+  url: "/families/smith/"
+- name: "Smith"
+  url: "/tartans/s/sm/smith-4/"
 ---
 This is the **Smith Family (Maine) (Personal)** sett — one scale-free proportion (`g2db2lb23db2lb2db6lb2db2k33y2lb2`), colour order pattern
 [GBWBWBWBKGW](/stripes/gbwbwbwbkgw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k8dr3lb4dg4lb48k48dg4k4dy3lb8~dg1804158/"><circle cx="209.7" cy="102.6" r="4" fill="#3465a4"><title>Kingsbarns Golf Links</title></circle></a><a href="/variants/s12/y3w12k3w3k3w3k7db48k7db3g14w3~x2/"><circle cx="187.0" cy="98.3" r="4" fill="#3465a4"><title>MacDowall</title></circle></a><a href="/variants/s11/r1db1r8w1k2db16k2w1g8db1g1~x2/"><circle cx="185.6" cy="113.1" r="4" fill="#3465a4"><title>MacMichael Family Tartan</title></circle></a><a href="/variants/s10/k8r3b4g4b48k48g4k4y3b8/"><circle cx="222.8" cy="106.2" r="4" fill="#3465a4"><title>Kingsbarns Golf Links</title></circle></a><a href="/variants/s11/dr2db6lr2db2k9lb30k9db5lr4db2dr2~x2/"><circle cx="157.5" cy="113.4" r="4" fill="#3465a4"><title>Rangers Dress (Sports)</title></circle></a><a href="/variants/s11/k31lr4n2r2n2lr6n2lb4n2lr8k2~x2~lr2800000-n1700000/"><circle cx="212.1" cy="91.1" r="4" fill="#3465a4"><title>Rogue Attitude</title></circle></a><a href="/variants/s11/db3k2db22k9g2lp2g2lp2g8k2w3~x2/"><circle cx="163.8" cy="131.9" r="4" fill="#3465a4"><title>Scottish Rugby Union Corporate Tartan</title></circle></a><a href="/variants/s11/n14k2db3k1lo2k1db3k14db3k1lb1~x2/"><circle cx="188.2" cy="121.2" r="4" fill="#3465a4"><title>McFly School</title></circle></a><a href="/variants/s13/k2db2w2db2w27db2k9db3g3db24g2db4y2~x2/"><circle cx="172.4" cy="102.9" r="4" fill="#3465a4"><title>Yarrow Turquoise Dress Tartan</title></circle></a><a href="/variants/s11/y2k3y2k22lb8r1lb3r1lb22k1w2~x2/"><circle cx="226.5" cy="87.2" r="4" fill="#3465a4"><title>Liddell (New York) (Name)</title></circle></a><circle cx="189.0" cy="93.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

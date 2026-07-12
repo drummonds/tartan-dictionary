@@ -1,6 +1,15 @@
 ---
 title: "Ikelman #6 (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ikelman"
+  url: "/clan/ikelman/"
+- name: "Ikelman"
+  url: "/families/ikelman/"
+- name: "Ikelman"
+  url: "/tartans/i/ik/ikelman-4/"
 ---
 This is the **Ikelman #6 (Personal)** sett — one scale-free proportion (`r16dg2r3dg2r13dp12w2dp12r13k13r2ly2`), colour order pattern
 [RGRGRBWBRKRY](/stripes/rgrgrbwbrkry/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r16g2r3g2r13ki12w2ki12r13k13r2y2~x2~ki0604259/"><circle cx="158.0" cy="141.5" r="4" fill="#3465a4"><title>Ikelman No. 6</title></circle></a><a href="/variants/s14/dbi13r5dbi12y4k5r20w4r10w4r20db5y4dbi13r4~x2~dbi1604274-db0805267/"><circle cx="145.3" cy="172.3" r="4" fill="#3465a4"><title>Ogilvie 4</title></circle></a><a href="/variants/s14/dbi13r5dbi12y4k5r20w4r10w4r20db5y4dbi13r4~x2~dbi1605267-db0804274/"><circle cx="144.9" cy="172.3" r="4" fill="#3465a4"><title>Ogilvie #2</title></circle></a><a href="/variants/s13/y3r25k8r4db8w2db3w2db8r4g8r25y3~x2/"><circle cx="221.9" cy="106.3" r="4" fill="#3465a4"><title>Maynard</title></circle></a><a href="/variants/s10/y2r3dy3r21db3r2dy6k6dy4w2~x2/"><circle cx="201.9" cy="120.2" r="4" fill="#3465a4"><title>Hello Kitty Red</title></circle></a><a href="/variants/s10/k4w2db8w3r16k2r5y2r5w2~x2/"><circle cx="187.4" cy="150.6" r="4" fill="#3465a4"><title>Blaylock</title></circle></a><a href="/variants/s8/r7db2k2y1k2r2k1w1~x2/"><circle cx="175.5" cy="164.7" r="4" fill="#3465a4"><title>Royal Stuart/Stewart</title></circle></a><a href="/variants/s14/r21db9k2db2k2db9k18y3g21r13k3r13w2r13~x2/"><circle cx="129.7" cy="129.3" r="4" fill="#3465a4"><title>Caledonia</title></circle></a><a href="/variants/s13/r8db2k1db3k4y1k1w1k1g8r6w1r6~x4/"><circle cx="129.0" cy="137.7" r="4" fill="#3465a4"><title>Christie Family Tartan</title></circle></a><a href="/variants/s13/y1k1r8db1r1dg8r1db8r1dg1r8k1w1~x6/"><circle cx="170.2" cy="125.2" r="4" fill="#3465a4"><title>Robieson</title></circle></a><circle cx="177.2" cy="145.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

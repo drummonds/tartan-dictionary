@@ -1,6 +1,13 @@
 ---
 title: "MacTavish / Thom(p)son, hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Thomson"
+  url: "/clan/thomson/"
+- name: "Thomson, Lord"
+  url: "/tartans/t/th/thomson-lord/"
 ---
 This is the **MacTavish / Thom(p)son, hunting** sett — one scale-free proportion (`lb4o28g6lb12k12lb3`), colour order pattern
 [WKWGRW](/stripes/wkwgrw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb3o26g4lb13k13lb2~x2/"><circle cx="197.1" cy="187.5" r="4" fill="#3465a4"><title>MacTavish / Thom(p)son, hunting</title></circle></a><a href="/variants/s6/lb4dy28g6lb12k12lb3~x2/"><circle cx="181.7" cy="205.6" r="4" fill="#3465a4"><title>MacTavish Hunting</title></circle></a><a href="/variants/s6/lb3dy26g4lb13k13lb2~x2/"><circle cx="194.0" cy="188.4" r="4" fill="#3465a4"><title>MacTavish Hunting Clan Tartan</title></circle></a><a href="/variants/s5/db6lo25dy16k2db3~x2/"><circle cx="227.7" cy="186.5" r="4" fill="#3465a4"><title>Prince of Orange #2</title></circle></a><a href="/variants/s6/r2ly20k5w10k10w2~x2/"><circle cx="156.8" cy="197.5" r="4" fill="#3465a4"><title>Thompson Camel Clan Tartan</title></circle></a><a href="/variants/s6/g3r22lb5g10k10g2~x2/"><circle cx="178.8" cy="189.4" r="4" fill="#3465a4"><title>Strathspey, Check</title></circle></a><a href="/variants/s6/r4ly30k6w13k13w3~x2/"><circle cx="168.6" cy="193.8" r="4" fill="#3465a4"><title>Thomson, Camel (Fashion)</title></circle></a><a href="/variants/s6/w5lb34k24lb4dr24lb4~x2/"><circle cx="175.6" cy="205.3" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/variants/s6/r4o30k6w13k13w3~x2/"><circle cx="166.2" cy="184.2" r="4" fill="#3465a4"><title>Thom(p)son camel</title></circle></a><a href="/variants/s7/ly9k32g6w20ly3w9k5~x2/"><circle cx="165.1" cy="181.5" r="4" fill="#3465a4"><title>Black &amp; White Golf (Corporate)</title></circle></a><circle cx="186.8" cy="205.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

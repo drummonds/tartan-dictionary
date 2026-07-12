@@ -1,6 +1,11 @@
 ---
 title: "Maynard"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Maynard"
+  url: "/tartans/m/ma/maynard/"
 ---
 This is the **Maynard** sett — one scale-free proportion (`y3r25k8r4db8w2db3w2db8r4g8r25y3`), colour order pattern
 [GRGRBWBWBRKRG](/stripes/grgrbwbwbrkrg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r12lb2r12g8y1k6lb4k1lb1k1lb4r12w1k1r1~x2/"><circle cx="202.7" cy="100.4" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/variants/s11/r3db1r1db2r12lb1r1k4w1g6r1~x4/"><circle cx="213.8" cy="106.1" r="4" fill="#3465a4"><title>McLinden, Thomas (Personal)</title></circle></a><a href="/variants/s11/lb4k2db3r33g9y3r5db10r6g2k2~x2/"><circle cx="255.0" cy="93.1" r="4" fill="#3465a4"><title>MacArthur-Fox Dress</title></circle></a><a href="/variants/s14/w3r30k4dg2db17y3db2y3db17dg2k4r30w3r2~x2~dg1806142/"><circle cx="214.2" cy="86.2" r="4" fill="#3465a4"><title>Unidentified Lindley #4</title></circle></a><a href="/variants/s13/w2k1t2lb1dg4r1dg4r3k3r12lb1r2k1~x4/"><circle cx="166.5" cy="104.6" r="4" fill="#3465a4"><title>Peacock (Personal)</title></circle></a><a href="/variants/s10/y2r3dy3r21db3r2dy6k6dy4w2~x2/"><circle cx="201.9" cy="120.2" r="4" fill="#3465a4"><title>Hello Kitty Red</title></circle></a><a href="/variants/s12/r8ly2r24k6dy3g2dy3g2dy3k3w3k2~x2/"><circle cx="199.5" cy="93.7" r="4" fill="#3465a4"><title>Burns 250th Anniversary (Commem.)</title></circle></a><a href="/variants/s13/k1r14lb8k9y1k2w2k2g10r15k4r12w1~x2/"><circle cx="167.4" cy="107.7" r="4" fill="#3465a4"><title>Wilson's, No 1</title></circle></a><a href="/variants/s15/r3g1r2g1r18k4y1k2w1db4g6r3k1r2w1~x2/"><circle cx="233.1" cy="66.1" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #4</title></circle></a><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x4/"><circle cx="224.4" cy="119.2" r="4" fill="#3465a4"><title>Hepburn (Clan)</title></circle></a><circle cx="221.9" cy="106.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,8 +1,11 @@
 ---
 title: "Clan Bell"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
-*A clan defined by its tartans — the dictionary holds no separate clan history for it, only the cloth that carries its name.*
+Designed in 1984 for Colonel William H. Bell, president of the Bell Family Association; commemorates a Border riding clan.
 
 ## Tartan
 

@@ -1,6 +1,15 @@
 ---
 title: "MacIntosh"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacIntosh"
+  url: "/clan/macintosh/"
+- name: "MacIntosh"
+  url: "/families/macintosh/"
+- name: "MacIntosh"
+  url: "/tartans/m/ma/macintosh-2/"
 ---
 This is the **MacIntosh** sett — one scale-free proportion (`r48db12r5g21r8db1r8g21r5db12r24`), colour order pattern
 [RBRGRBRGRBR](/stripes/rbrgrbrgrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r3db1r1g21r3db18r35db1y1r4g1/"><circle cx="340.9" cy="104.1" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/variants/s12/db80r56dg3r56dg88r64db3r4dg3r4db3r64/"><circle cx="373.4" cy="144.3" r="4" fill="#3465a4"><title>Unidentified Cant #14</title></circle></a><a href="/variants/s9/g2r2db1r24db6r3g12r4db1~x2/"><circle cx="399.0" cy="148.7" r="4" fill="#3465a4"><title>MacDonald #7</title></circle></a><a href="/variants/s10/g2r2db1r24lb1db6r3g12r4db1~x2/"><circle cx="373.2" cy="126.8" r="4" fill="#3465a4"><title>MacDonell of Keppoch Clan Tartan</title></circle></a><a href="/variants/s10/g2r2db1r24lb1db6r3g12r4db1/"><circle cx="373.2" cy="126.8" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/variants/s10/g2r2db1r24w1db6r3g12r4db1/"><circle cx="369.1" cy="125.5" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/variants/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/"><circle cx="375.5" cy="124.8" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/variants/s8/r5g20r25db1r25db20r5db1~x4/"><circle cx="367.0" cy="178.3" r="4" fill="#3465a4"><title>Franklin Museum Unidentified 2</title></circle></a><a href="/variants/s11/r28g64r20db48r60t1r8t1r60db48r10~x2/"><circle cx="325.5" cy="128.9" r="4" fill="#3465a4"><title>MacQuarrie</title></circle></a><a href="/variants/s13/r1g1r32db32r8g1r1g1r8g32r32g1r1~x2/"><circle cx="360.2" cy="120.1" r="4" fill="#3465a4"><title>Grant of Rothiemurchus Artifact Tartan</title></circle></a><circle cx="389.9" cy="137.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

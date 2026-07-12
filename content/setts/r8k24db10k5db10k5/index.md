@@ -1,6 +1,13 @@
 ---
 title: "Allen, Nicholas (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Allen"
+  url: "/clan/allen/"
+- name: "Allen, Nicholas"
+  url: "/tartans/a/al/allen-nicholas-2/"
 ---
 This is the **Allen, Nicholas (Personal)** sett — one scale-free proportion (`r8k24db10k5db10k5`), colour order pattern
 [KBKBKR](/stripes/kbkbkr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb5k22db4k4db26k4~x2/"><circle cx="258.0" cy="224.1" r="4" fill="#3465a4"><title>Slanj, The</title></circle></a><a href="/variants/s6/k6db17k6db17k27w3~x2/"><circle cx="282.6" cy="230.5" r="4" fill="#3465a4"><title>Swan, Brian E</title></circle></a><a href="/variants/s6/k3b16k4b3k12w2~x3/"><circle cx="243.3" cy="214.1" r="4" fill="#3465a4"><title>MacMugen</title></circle></a><a href="/variants/s7/r4k21w2k20db21k2db2~x2/"><circle cx="298.3" cy="176.9" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/variants/s7/k1db12k12g1k12db12g1~x4/"><circle cx="311.3" cy="213.4" r="4" fill="#3465a4"><title>Marchmont (Personal)</title></circle></a><a href="/variants/s7/k1db12k12b1k12db12w1~x4/"><circle cx="284.0" cy="197.3" r="4" fill="#3465a4"><title>Marchmont</title></circle></a><a href="/variants/s6/k1g3k3db3k1db1~x4/"><circle cx="148.7" cy="290.5" r="4" fill="#3465a4"><title>Sutherland 42nd</title></circle></a><a href="/variants/s6/k4dr2k12db12k1lo2~x2/"><circle cx="270.8" cy="188.0" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/variants/s6/k5g23k18db21k33db3~x2/"><circle cx="253.7" cy="225.4" r="4" fill="#3465a4"><title>Black Watch (variation)</title></circle></a><a href="/variants/s7/k15r8y2db25k5db13k5~x2/"><circle cx="254.0" cy="188.9" r="4" fill="#3465a4"><title>Gifford (Personal)</title></circle></a><circle cx="251.3" cy="249.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

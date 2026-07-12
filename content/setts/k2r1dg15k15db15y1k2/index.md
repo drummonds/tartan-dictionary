@@ -1,6 +1,11 @@
 ---
 title: "MacCaskill (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "MacCaskill"
+  url: "/tartans/m/ma/maccaskill/"
 ---
 This is the **MacCaskill (Personal)** sett — one scale-free proportion (`k2r1dg15k15db15y1k2`), colour order pattern
 [KGBKGRK](/stripes/kgbkgrk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y2k4y1dg16k14db23k4r1~x2/"><circle cx="216.5" cy="144.3" r="4" fill="#3465a4"><title>Thomas of Craigie (Personal)</title></circle></a><a href="/variants/s7/r4k2db16k17dg16k2y4~x2/"><circle cx="156.0" cy="182.6" r="4" fill="#3465a4"><title>Wilson's No.230</title></circle></a><a href="/variants/s5/k20db50dg50r3k3~x2/"><circle cx="284.1" cy="207.1" r="4" fill="#3465a4"><title>Louisville Spaulding (Personal)</title></circle></a><a href="/variants/s4/k16db16k3g2~x4/"><circle cx="229.7" cy="164.1" r="4" fill="#3465a4"><title>Arundel County (District)</title></circle></a><a href="/variants/s7/db5k10db48k72w12dg48r5/"><circle cx="177.6" cy="161.3" r="4" fill="#3465a4"><title>Colquhoun (Clan)</title></circle></a><a href="/variants/s6/dr4k2db24k20dg20lo3~x2/"><circle cx="171.3" cy="197.4" r="4" fill="#3465a4"><title>Loudoun's Highlanders - 1747 #1 (Mil</title></circle></a><a href="/variants/s9/k30db20k10db5w2db10dg20r2dg10/"><circle cx="184.5" cy="172.9" r="4" fill="#3465a4"><title>Cailleach</title></circle></a><a href="/variants/s7/dg3db12lb1k12dg13r2dg2~x2/"><circle cx="203.3" cy="183.4" r="4" fill="#3465a4"><title>MacPhedran/MacFadzean</title></circle></a><a href="/variants/s7/w2k2r1db20k15dg30ly1~x2/"><circle cx="224.7" cy="113.8" r="4" fill="#3465a4"><title>Muir-Hill (Personal)</title></circle></a><a href="/variants/s7/y6g28r4k20r3db45k5~x2/"><circle cx="170.8" cy="153.8" r="4" fill="#3465a4"><title>Nery</title></circle></a><circle cx="213.6" cy="167.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

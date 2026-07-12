@@ -1,6 +1,11 @@
 ---
 title: "Montrose"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Montrose"
+  url: "/clan/montrose/"
 ---
 A family of [Clan Montrose](/clan/montrose/).
 

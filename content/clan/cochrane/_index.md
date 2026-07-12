@@ -1,8 +1,11 @@
 ---
 title: "Clan Cochrane"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
-*A clan defined by its tartans — the dictionary holds no separate clan history for it, only the cloth that carries its name.*
+Clan Cochrane tartan based on the old Lochaber district sett; restored red and green stripes approved 1984.
 
 ## Tartan
 

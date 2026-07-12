@@ -1,6 +1,13 @@
 ---
 title: "Bannockbane Silver"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Bannockbane"
+  url: "/clan/bannockbane/"
+- name: "Bannockbane Silver"
+  url: "/tartans/b/ba/bannockbane-silver/"
 ---
 This is the **Bannockbane Silver** sett — one scale-free proportion (`db3dr2db18dr1w10n18dr2n3`), colour order pattern
 [BBBBWBBB](/stripes/bbbbwbbb/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lb5n3lb22dr3n6ni17dr2ni4dr2ni4~x2~ni1900000/"><circle cx="304.4" cy="225.4" r="4" fill="#3465a4"><title>Clyde</title></circle></a><a href="/variants/s8/db3dbi2db14dbi1lbi10lb16dbi2lb3~x2~db1106275-dbi1406275-lbi3200000-lb3103284/"><circle cx="250.1" cy="209.5" r="4" fill="#3465a4"><title>Bannockbane Blue #2</title></circle></a><a href="/variants/s10/db8dr3db36lb3do10w34dr4w3dr3w8~x2/"><circle cx="223.7" cy="174.0" r="4" fill="#3465a4"><title>Stewart of Appin Htg Dress</title></circle></a><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2/"><circle cx="257.5" cy="218.1" r="4" fill="#3465a4"><title>Keela (Corporate)</title></circle></a><a href="/variants/s8/lo12db2lo2db30dt2db2dt13lb4~x2/"><circle cx="321.3" cy="192.7" r="4" fill="#3465a4"><title>Highlands School (North Carolina)</title></circle></a><a href="/variants/s8/db42lb2lbi2lb2db5dbi12lbi32db4~x2~db1204274-lb3103284-lbi3200000-dbi1404245/"><circle cx="342.0" cy="176.9" r="4" fill="#3465a4"><title>Longniddry Eildon Blue Dress Fancy Tartan</title></circle></a><a href="/variants/s6/db1n8w1db4dr8w1~x6/"><circle cx="253.9" cy="259.8" r="4" fill="#3465a4"><title>Little's Chauffeur Drive</title></circle></a><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2/"><circle cx="251.6" cy="192.8" r="4" fill="#3465a4"><title>Unidentified No 52</title></circle></a><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2~db1004274/"><circle cx="248.5" cy="190.7" r="4" fill="#3465a4"><title>Norwich No.052</title></circle></a><a href="/variants/s8/w4lb1y2lb22db20w2db4w2~x2/"><circle cx="282.1" cy="166.9" r="4" fill="#3465a4"><title>Gorman Blue (Personal)</title></circle></a><circle cx="259.4" cy="199.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

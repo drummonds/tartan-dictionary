@@ -1,6 +1,11 @@
 ---
 title: "Bell"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Bell"
+  url: "/clan/bell/"
 ---
 A family of [Clan Bell](/clan/bell/).
 

@@ -1,6 +1,11 @@
 ---
 title: "Duke of Rothesay (Royal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Duke of Rothesay"
+  url: "/tartans/d/du/duke-of-rothesay-2/"
 ---
 This is the **Duke of Rothesay (Royal)** sett — one scale-free proportion (`r6w56db9w8k16w4k3w4k3w36r36k3r12w3`), colour order pattern
 [RWBWKWKWKWRKRW](/stripes/rwbwkwkwkwrkrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/y2w2k3y1r8w6y8r2w1r1w22k1~x2/"><circle cx="261.6" cy="103.2" r="4" fill="#3465a4"><title>Turblin, Jean Pierre (Personal)</title></circle></a><a href="/variants/s13/w8k4w2k4w24db2w1r2w1db12r12w8k2~x2/"><circle cx="241.0" cy="113.4" r="4" fill="#3465a4"><title>Spirit of South Korea</title></circle></a><a href="/variants/s14/r13w9r13w16r10w2k1w2k1w2k1w2k1w2~x2/"><circle cx="277.9" cy="140.4" r="4" fill="#3465a4"><title>d'Andeville, Xavier (Personal)</title></circle></a><a href="/variants/s15/k4lb2w15r6w25lb2k4lb2w15lb4k2lb4k2lb4k2~x2/"><circle cx="243.0" cy="122.0" r="4" fill="#3465a4"><title>Beck Dress (Personal)</title></circle></a><a href="/variants/s13/w4r2w11y2k2w1y1w1y4w2k1w1r1~x2/"><circle cx="263.2" cy="137.6" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/variants/s13/w4r2w11n2k2w1n1w1n4w2k1w1r1~x2/"><circle cx="265.7" cy="139.6" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/variants/s12/n3w24k3w1k2w2k1w3n7w2r24w3~x2/"><circle cx="243.8" cy="100.5" r="4" fill="#3465a4"><title>Humanitarian Mission (Dress)</title></circle></a><a href="/variants/s15/k4w2lb15r6lb25w2k4w2lb15w4k2w4k2w4k2~x2/"><circle cx="249.7" cy="123.1" r="4" fill="#3465a4"><title>Beck (Personal)</title></circle></a><a href="/variants/s15/r12w2k4w4k1w24r2w2r2w2lb1w1o3k2w12~x2/"><circle cx="295.4" cy="71.7" r="4" fill="#3465a4"><title>Ivanka Trump (Personal)</title></circle></a><a href="/variants/s12/w12k3w28g6k4w2k2w14r11g3r4w4~x2/"><circle cx="286.8" cy="138.1" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><circle cx="251.2" cy="103.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Annand Family (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Annand"
+  url: "/tartans/a/an/annand/"
 ---
 This is the **Annand Family (Personal)** sett — one scale-free proportion (`dp4ly8g2ly2lo2ly2g2ly2dy6g10ly3`), colour order pattern
 [BYGYYYGYGGY](/stripes/bygyyygyggy/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/ly18do3ly3do3ly3do16g16w3g16do16ly17do3ly3do3ly17do16g16w3~x2/"><circle cx="166.6" cy="223.7" r="4" fill="#3465a4"><title>Lamont Heather</title></circle></a><a href="/variants/s9/dy3ly1lb1dy1ly1dy3lb3lyi6dr1~x6~ly2503076-lyi3104101/"><circle cx="157.5" cy="231.8" r="4" fill="#3465a4"><title>Toorak Chapler (Fashion)</title></circle></a><a href="/variants/s9/g2ly9do6dy3do2dy3do2dy10w2~x4/"><circle cx="175.2" cy="238.4" r="4" fill="#3465a4"><title>Tinkler, Andrew (Stobart Group)</title></circle></a><a href="/variants/s7/dg4g3dg24w15ly21dgi3ly4~x2~g2408144-dgi1806142/"><circle cx="168.6" cy="216.5" r="4" fill="#3465a4"><title>Bannockbane Dark Green</title></circle></a><a href="/variants/s8/g9y2g9w5r9lb2r9lb2~x2/"><circle cx="163.5" cy="257.2" r="4" fill="#3465a4"><title>Blackie</title></circle></a><a href="/variants/s13/g5dp1g1dp1g1dg3g3dg1g3dg3ly3lyi1ly1~x4~g1903114-lyi2706114/"><circle cx="233.7" cy="247.9" r="4" fill="#3465a4"><title>Balmoral Hotel Edinburgh</title></circle></a><a href="/variants/s15/ly18do3ly3do3ly3do16g16r2y2r2g16do16ly17do3ly3~x2/"><circle cx="158.4" cy="173.6" r="4" fill="#3465a4"><title>Lander (2013)</title></circle></a><circle cx="168.2" cy="236.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

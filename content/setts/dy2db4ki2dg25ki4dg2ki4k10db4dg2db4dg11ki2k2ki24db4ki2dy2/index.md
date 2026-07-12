@@ -1,6 +1,11 @@
 ---
 title: "LS Curling (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "LS Curling"
+  url: "/tartans/l/ls/ls-curling-2/"
 ---
 This is the **LS Curling (Corporate)** sett — one scale-free proportion (`dy2db4ki2dg25ki4dg2ki4k10db4dg2db4dg11ki2k2ki24db4ki2dy2`), colour order pattern
 [GBKGKGKKBGBGKKKBKG](/stripes/gbkgkgkkbgbgkkkbkg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dg22dr2dg2dr6dg42ki46dr2k42dr6k12lo3~ki0700000-k0504259/"><circle cx="319.6" cy="170.7" r="4" fill="#3465a4"><title>79th Regiment (Military)</title></circle></a><a href="/variants/s18/dy2db4dbi2dg25dbi4dg2dbi4k10db4dg2db4dg11dbi2k2dbi24db4dbi2dy2~x2~db1106275-dbi1406275/"><circle cx="265.2" cy="154.0" r="4" fill="#3465a4"><title>LS Curling</title></circle></a><a href="/variants/s17/dg13db2k2db2dg13g4db14o2db14g4k12db2dg2db2dg2db2k12~x2~db1204274-k0604259-g1903114/"><circle cx="262.6" cy="210.3" r="4" fill="#3465a4"><title>National Trust for Scotland</title></circle></a><a href="/variants/s16/g3dr15dg2dr2dg2dr2dg18dy2dg2dy2dg2dy27k2dy2k6ly2~x2/"><circle cx="273.0" cy="140.1" r="4" fill="#3465a4"><title>Strathmore (District)</title></circle></a><circle cx="285.4" cy="157.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

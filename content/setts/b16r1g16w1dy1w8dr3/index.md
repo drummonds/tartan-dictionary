@@ -1,6 +1,11 @@
 ---
 title: "Chambers, Christopher J (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Chambers, Christopher J"
+  url: "/tartans/c/ch/chambers-christopher-j/"
 ---
 This is the **Chambers, Christopher J (Personal)** sett — one scale-free proportion (`b16r1g16w1dy1w8dr3`), colour order pattern
 [BRGWGWB](/stripes/brgwgwb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dy2lb14k1dg11k2r2g2k1~x4~dg1806142-g2203152/"><circle cx="144.4" cy="125.2" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s8/dg18g6dy3w1dy3w1lb6db6~x2~dg1806142-g2408144/"><circle cx="205.3" cy="170.7" r="4" fill="#3465a4"><title>Iroquois Falls Centenary (Commem.)</title></circle></a><a href="/variants/s9/r5w1db10g10w1y1g2lb2w1~x2/"><circle cx="150.6" cy="167.1" r="4" fill="#3465a4"><title>Mary, Queen of Scots</title></circle></a><a href="/variants/s7/r6db27lb2g2lb2g30w4~x2/"><circle cx="240.7" cy="164.8" r="4" fill="#3465a4"><title>MX-5 Owners' Club</title></circle></a><a href="/variants/s11/t2w20r1y2dg8g4dg2g2dg2t20w2~x2/"><circle cx="157.9" cy="117.7" r="4" fill="#3465a4"><title>Nova Scotia Dress (District)</title></circle></a><a href="/variants/s6/k1y1db8g10lb7w1~x2/"><circle cx="118.7" cy="179.3" r="4" fill="#3465a4"><title>Porteous Family Tartan</title></circle></a><a href="/variants/s9/r2db12dg2g11dg4db5g2w24g2~x2~w3600000/"><circle cx="158.7" cy="164.7" r="4" fill="#3465a4"><title>Fraser Gathering Dress Clan Tartan</title></circle></a><a href="/variants/s6/w3b12db1g15o3w1~x4~b2409265-db1406275/"><circle cx="237.9" cy="187.6" r="4" fill="#3465a4"><title>Eeraerts, Laurent (Personal)</title></circle></a><a href="/variants/s6/k3y3db20g25lb18w3~x2/"><circle cx="102.4" cy="189.1" r="4" fill="#3465a4"><title>Porteous</title></circle></a><a href="/variants/s7/dp2g8r1dy1db6lb15w1~x4/"><circle cx="180.8" cy="140.1" r="4" fill="#3465a4"><title>Manx National District Tartan</title></circle></a><circle cx="173.4" cy="160.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

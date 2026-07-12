@@ -1,6 +1,13 @@
 ---
 title: "Kerr Shepherd's Plaid (Clan)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Kerr"
+  url: "/clan/kerr/"
+- name: "Kerr Shepherd's"
+  url: "/tartans/k/ke/kerr-shepherd-s/"
 ---
 This is the **Kerr Shepherd's Plaid (Clan)** sett — one scale-free proportion (`k1w1k1w1k1w1k1w1k1w1r1`), colour order pattern
 [RWKWKWKWKWKWKWKWKWKW](/stripes/rwkwkwkwkwkwkwkwkwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/t5w4k4w4k4w4k4w4k4w4k4~x2/"><circle cx="46.8" cy="366.0" r="4" fill="#3465a4"><title>Scott of Buccleuch (Military)</title></circle></a><a href="/variants/s11/db5w4k4w4k4w4k4w4k4w4k4~x2/"><circle cx="47.5" cy="366.0" r="4" fill="#3465a4"><title>Buccleuch Check (9 squares)</title></circle></a><a href="/variants/s15/db1w1k1w1k1w1k1w1k1w1k1w1k1w1db1~x12/"><circle cx="24.9" cy="366.0" r="4" fill="#3465a4"><title>Haig Check</title></circle></a><a href="/variants/s20/r1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1~x8/"><circle cx="40.6" cy="348.6" r="4" fill="#3465a4"><title>Kerr Shepherd's Plaid</title></circle></a><a href="/variants/s15/dp1w1k1w1g1w1k1w1k1w1k1w1k1w1g1~x8/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Halliday (Name)</title></circle></a><a href="/variants/s15/g1w1k1w1k1w1k1w1k1w1g1w1k1w1m1~x8~g2408144-m2110326/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Halliday</title></circle></a><a href="/variants/s13/k10w10k10w10r3w6k3w3k3w3k3w3k3~x2/"><circle cx="168.8" cy="228.0" r="4" fill="#3465a4"><title>Blackcraig (Personal)</title></circle></a><circle cx="49.3" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

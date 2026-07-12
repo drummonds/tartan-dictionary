@@ -1,6 +1,15 @@
 ---
 title: "Cochrane Azure"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cochrane"
+  url: "/clan/cochrane/"
+- name: "Cochrane"
+  url: "/families/cochrane/"
+- name: "Cochrane"
+  url: "/tartans/c/co/cochrane/"
 ---
 This is the **Cochrane Azure** sett — one scale-free proportion (`lb27r4lb3r2lb4r2lb3r4lb14k14r2db14r4db4y3`), colour order pattern
 [GBRBRKWRWRWRWRW](/stripes/gbrbrkwrwrwrwrw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/r3lb7k1r2k1lb12k4w3k2r1k1r1db3r2db4r2~x2/"><circle cx="107.1" cy="118.9" r="4" fill="#3465a4"><title>Royal Canadian Air Force #2</title></circle></a><a href="/variants/s12/w5g2w23k7db4k3db3k3db11r2db2r3~x2/"><circle cx="135.4" cy="127.9" r="4" fill="#3465a4"><title>Sutherland, Dress</title></circle></a><a href="/variants/s11/lb3k1lb1db4lb10r2k8db2lb1k1lb3~x2/"><circle cx="164.9" cy="142.7" r="4" fill="#3465a4"><title>Norwich No.020</title></circle></a><a href="/variants/s12/w6dg2w27k10db4k4db4k4db15r2db2r4~x2/"><circle cx="132.2" cy="123.1" r="4" fill="#3465a4"><title>Sutherland Dress, Old (Dance)</title></circle></a><a href="/variants/s15/r20ti36r4k2t7k4r2k2w3k2r3k4t7k13r20~x2~ti2607245-t2304245/"><circle cx="144.5" cy="93.9" r="4" fill="#3465a4"><title>MacDougall #7</title></circle></a><a href="/variants/s13/w9r5w29k10y2k3w3k3dg12r6k3r3w2~x2/"><circle cx="160.6" cy="109.0" r="4" fill="#3465a4"><title>Hay or Stewart</title></circle></a><a href="/variants/s12/lb12r6lb60n16k23n22lb6k6lb6n8r6n8~x2/"><circle cx="201.6" cy="154.3" r="4" fill="#3465a4"><title>Balmoral Variant (Corporate)</title></circle></a><a href="/variants/s18/r4lb5r2lb7r10k4lo2k2lo2k4w4k4lb18r1k2r1lb4r3~x2~r2109032/"><circle cx="147.7" cy="100.4" r="4" fill="#3465a4"><title>Anderson Red (Westwood) (Estimated threadcount)</title></circle></a><a href="/variants/s14/b14db2y2db2b25k6w17r3w3r3w3r3w3r3~x2/"><circle cx="151.5" cy="107.7" r="4" fill="#3465a4"><title>Letang Family (Neuilly sur Seine, France) (Personal)</title></circle></a><a href="/variants/s13/lb10w18lb4lo6lb45k30lb4k4y4r4y4r4y4/"><circle cx="131.3" cy="102.3" r="4" fill="#3465a4"><title>Les Coeurs de Lions en Bleu</title></circle></a><circle cx="175.5" cy="111.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

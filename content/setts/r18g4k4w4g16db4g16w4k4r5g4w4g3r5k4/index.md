@@ -1,6 +1,13 @@
 ---
 title: "Gayre Bodyguard (Clan)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Gayre"
+  url: "/clan/gayre/"
+- name: "Gayre Bodyguard"
+  url: "/tartans/g/ga/gayre-bodyguard-2/"
 ---
 This is the **Gayre Bodyguard (Clan)** sett — one scale-free proportion (`r18g4k4w4g16db4g16w4k4r5g4w4g3r5k4`), colour order pattern
 [KRGWGRKWGBGWKGR](/stripes/krgwgrkwgbgwkgr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/lbi20g4k4lb4g16lbi4g16lb4k4r6g4lb4g3r6k4~x2~lbi3203246-lb3200000/"><circle cx="105.9" cy="168.4" r="4" fill="#3465a4"><title>Gayre</title></circle></a><a href="/variants/s13/g18r18k3r3db3r3db4r3k9r4g18w6k3~x2/"><circle cx="100.5" cy="164.7" r="4" fill="#3465a4"><title>Maguire</title></circle></a><a href="/variants/s15/db18g4k4w4g16db4g16w4k4r5g4w4g4r5k4~x2/"><circle cx="93.0" cy="180.3" r="4" fill="#3465a4"><title>Gayre</title></circle></a><a href="/variants/s12/ly4k2dr2k1dr1k1dr2b3ly1dg4ly9dg1~x4/"><circle cx="135.8" cy="152.8" r="4" fill="#3465a4"><title>California Firefighters (Corporate)</title></circle></a><a href="/variants/s15/ri20g4k4lb4g16ri4g16lb4k4r6g4lb4g3ri6k4~x2~ri2109032-lb3200000/"><circle cx="123.6" cy="164.5" r="4" fill="#3465a4"><title>Gayre (Clan)</title></circle></a><a href="/variants/s12/ly4k2dr2k1dr1k1dr2db3ly1dg4ly9dg1~x4~db1208266/"><circle cx="133.5" cy="151.9" r="4" fill="#3465a4"><title>California Firefighters (Corporate)</title></circle></a><a href="/variants/s14/k4r3g2db2r6g15r2db4g2r15g7k2r4w2~x2/"><circle cx="157.2" cy="152.0" r="4" fill="#3465a4"><title>MacKinnon #5</title></circle></a><a href="/variants/s18/k3dg18dy3dg3dy3dg3dy18ly3dy3ly3dy3ly12db2ly12dy9ly12dg2db2~x2/"><circle cx="124.0" cy="144.4" r="4" fill="#3465a4"><title>Van Ingelgem Htg (Personal)</title></circle></a><a href="/variants/s12/o4w2o2w3o18k6g3k2g2k2g14b3~x2/"><circle cx="137.6" cy="146.3" r="4" fill="#3465a4"><title>Dorcas, Check</title></circle></a><a href="/variants/s15/lb14g4k4w4g12lb4g12w4k4r6g4w4g3lb4k4~x2/"><circle cx="65.0" cy="195.9" r="4" fill="#3465a4"><title>Gayre Dress Clan Tartan</title></circle></a><circle cx="112.0" cy="165.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

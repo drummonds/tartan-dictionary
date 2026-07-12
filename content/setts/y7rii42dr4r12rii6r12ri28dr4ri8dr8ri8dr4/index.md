@@ -1,6 +1,13 @@
 ---
 title: "Kinloch Anderson Rowanberry"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Kinloch"
+  url: "/clan/kinloch/"
+- name: "Kinloch Anderson Rowanberry"
+  url: "/tartans/k/ki/kinloch-anderson-rowanberry/"
 ---
 This is the **Kinloch Anderson Rowanberry** sett — one scale-free proportion (`y7rii42dr4r12rii6r12ri28dr4ri8dr8ri8dr4`), colour order pattern
 [BRBRBRRRRBRG](/stripes/brbrbrrrrbrg/). It is recorded as a single **variant**, below.

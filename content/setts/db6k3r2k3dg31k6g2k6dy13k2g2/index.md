@@ -1,6 +1,11 @@
 ---
 title: "Rourke-Frew Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Rourke-Frew Hunting"
+  url: "/tartans/r/ro/rourke-frew-hunting-2/"
 ---
 This is the **Rourke-Frew Hunting** sett — one scale-free proportion (`db6k3r2k3dg31k6g2k6dy13k2g2`), colour order pattern
 [BKRKGKGKGKG](/stripes/bkrkgkgkgkg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k8r2k6ly2k2lb2k2dy16dg24r2dg4k3~x2/"><circle cx="161.5" cy="121.3" r="4" fill="#3465a4"><title>Tara (District)</title></circle></a><a href="/variants/s13/y2ki2dg2y2dg3y1dg10ki16dg4k2dg4k10w2~x2~ki0700000-k0504259/"><circle cx="216.9" cy="151.5" r="4" fill="#3465a4"><title>Unnamed C20th - National Archives</title></circle></a><a href="/variants/s12/db29dy3k3dy3k3dy3dg28k3dy2k3dr3ly3~x2/"><circle cx="203.0" cy="121.9" r="4" fill="#3465a4"><title>Bro-Vigouden (Corporate)</title></circle></a><a href="/variants/s10/k3g1dr1dt6n2dt1n1dt1dr10lb1~x4/"><circle cx="210.9" cy="152.8" r="4" fill="#3465a4"><title>Crieff Primary School Corporate (Schools) Tartan</title></circle></a><a href="/variants/s11/k4dg10k13db3dgi12dg2dgi2dg2dgi2dg18r2~x2~dgi1806142/"><circle cx="195.0" cy="152.1" r="4" fill="#3465a4"><title>McHeadley Society Corporate Tartan</title></circle></a><a href="/variants/s12/k10dr26k2dr4k2dr26k3dg36k3g30k3n2/"><circle cx="204.6" cy="134.7" r="4" fill="#3465a4"><title>Pope of Wales</title></circle></a><a href="/variants/s15/k8do2k2do27g2do2g2do2g18dr2g2dr2dg2dr15g3~x2/"><circle cx="179.8" cy="104.6" r="4" fill="#3465a4"><title>Strathmore District Tartan</title></circle></a><a href="/variants/s10/k3n3k1dg26k10y1k3dp5n4ly2~x2~k0603284-n1802249/"><circle cx="290.4" cy="116.5" r="4" fill="#3465a4"><title>Rikaco Heirloom</title></circle></a><a href="/variants/s9/dg4dr2dg20db8k8db4lb1lo2k1~x2/"><circle cx="240.7" cy="127.0" r="4" fill="#3465a4"><title>Dodd of Branford (Name)</title></circle></a><a href="/variants/s9/dg28k2db3k11db3k2db17dbi4lb2~x2~db1004274-dbi1406275/"><circle cx="251.1" cy="165.0" r="4" fill="#3465a4"><title>West of Wells (Personal)</title></circle></a><circle cx="215.8" cy="123.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

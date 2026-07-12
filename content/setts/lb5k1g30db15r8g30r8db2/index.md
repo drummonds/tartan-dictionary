@@ -1,6 +1,15 @@
 ---
 title: "Shaw of Tordarroch Green (Hunting)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Shaw"
+  url: "/clan/shaw/"
+- name: "Shaw of Tordarroch"
+  url: "/families/shaw-of-tordarroch/"
+- name: "Shaw of Tordarroch"
+  url: "/tartans/s/sh/shaw-of-tordarroch/"
 ---
 This is the **Shaw of Tordarroch Green (Hunting)** sett — one scale-free proportion (`lb5k1g30db15r8g30r8db2`), colour order pattern
 [KGBRGRBRGRBGKW](/stripes/kgbrgrbrgrbgkw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb5k1g30dp15r8g30r8dp2/"><circle cx="322.4" cy="135.3" r="4" fill="#3465a4"><title>Shaw of Tordarroch Hunting Clan Tartan</title></circle></a><a href="/variants/s13/y3k1g19r4g3r11g5r11g3r4g19k1w3~x2/"><circle cx="293.6" cy="130.8" r="4" fill="#3465a4"><title>Bruce Hunting</title></circle></a><a href="/variants/s11/lb13t2dg38k13dg8k8dg17k2dg17k4w11~dg1806142-w3600000/"><circle cx="248.2" cy="136.2" r="4" fill="#3465a4"><title>Bute Heather, Glencallum (Fashion)</title></circle></a><a href="/variants/s13/w3k1g19r4g3r11g5r11g3r4g19k1ly3~x2/"><circle cx="288.6" cy="129.2" r="4" fill="#3465a4"><title>Bruce Hunting (Clan)</title></circle></a><a href="/variants/s11/g28dr2g28dr7lb2dr7lb2dr7k5dp4lb2~x2/"><circle cx="295.3" cy="137.7" r="4" fill="#3465a4"><title>Hynde (Sir John)</title></circle></a><a href="/variants/s15/g24k1r5k1do20g4do4g4do21g4y5g24do4g4do4~x2/"><circle cx="295.9" cy="123.0" r="4" fill="#3465a4"><title>Ontario</title></circle></a><a href="/variants/s17/y8g84t21k10t10k10t10k10t21g62r3g6r3g10y3g5r6/"><circle cx="319.1" cy="90.5" r="4" fill="#3465a4"><title>King Edward VII (Royal)</title></circle></a><a href="/variants/s13/k3g3y2g4k2g3k2g24db10y2db10g30r3~x2/"><circle cx="322.2" cy="120.6" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/variants/s15/y8g77db18k7db9k6db18g64r4g5r4g9y4g5r6/"><circle cx="345.6" cy="100.9" r="4" fill="#3465a4"><title>Kennedy #2</title></circle></a><a href="/variants/s13/dr4g40db12lo2db12g30k2g4k2g4lo2g3k3~x2/"><circle cx="351.5" cy="105.2" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><circle cx="319.3" cy="121.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Grant"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Grant"
+  url: "/clan/grant/"
+- name: "Grant"
+  url: "/families/grant/"
+- name: "Grant"
+  url: "/tartans/g/gr/grant-4/"
 ---
 This is the **Grant** sett — one scale-free proportion (`db6dp2r2g5r2g2r2dp6r2lb2r24dp2r2dp2r6`), colour order pattern
 [BBRGRGRBRWRBRBR](/stripes/bbrgrgrbrwrbrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r12dp2r4dp4r39lb2r4dp11r6g4r6g45r4dp4db10/"><circle cx="282.1" cy="105.4" r="4" fill="#3465a4"><title>Grant or New Bruce Clan Tartan</title></circle></a><a href="/variants/s15/r16db6r6db5r40lb3r6dg12r5dp4r5dg30r5db5r12/"><circle cx="320.2" cy="133.9" r="4" fill="#3465a4"><title>Walkers Shortbread</title></circle></a><a href="/variants/s15/r6dp2r2dg24r2dg2r2dp8r2lb1r32dp2r2dp1r6~x2/"><circle cx="388.2" cy="90.8" r="4" fill="#3465a4"><title>Drummond - 1819 (Clan)</title></circle></a><a href="/variants/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/"><circle cx="341.4" cy="164.2" r="4" fill="#3465a4"><title>London Caledonian Games Association</title></circle></a><a href="/variants/s12/r4w2r3dg6r2dg2r2db16r2lb2r32w2~x2/"><circle cx="330.7" cy="104.0" r="4" fill="#3465a4"><title>1745 Trading (Corporate)</title></circle></a><a href="/variants/s11/r6dg8y2dg8r6db8r29dg3lb2r5db3~x2/"><circle cx="317.7" cy="143.1" r="4" fill="#3465a4"><title>Loch Creran (District)</title></circle></a><a href="/variants/s10/y3r4db2r31g10lb2r5db12r6g3~x2/"><circle cx="330.7" cy="139.2" r="4" fill="#3465a4"><title>Loch Linnhe</title></circle></a><a href="/variants/s14/r12g1r1dy8r2dy1r1db3r1dy1r12g1r1g4~x2/"><circle cx="366.4" cy="148.2" r="4" fill="#3465a4"><title>MacColl #2</title></circle></a><a href="/variants/s11/ly1g1db2r2g2r12lb2g1r2g1ly1~x4/"><circle cx="327.9" cy="134.8" r="4" fill="#3465a4"><title>West Virginia Old Shawl</title></circle></a><a href="/variants/s13/dy4r2dy2r2dy1r19dy3r2db11r3dy2r3lb2~x2/"><circle cx="337.1" cy="130.5" r="4" fill="#3465a4"><title>Châine des Rôtisseurs, (Grande Bretagne)</title></circle></a><circle cx="331.7" cy="122.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Unnamed C18th - S.Uist"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unnamed C18th"
+  url: "/tartans/u/un/unnamed-c18th-6/"
 ---
 This is the **Unnamed C18th - S.Uist** sett — one scale-free proportion (`dr3dp34dr4dg6dr4dp4dr40dg2ly2dr2dg4dr4dp36dr4dg4dr48dg6w1`), colour order pattern
 [BBBGBBBGYBGBBBGBGW](/stripes/bbbgbbbgybgbbbgbgw/). It is recorded as a single **variant**, below.

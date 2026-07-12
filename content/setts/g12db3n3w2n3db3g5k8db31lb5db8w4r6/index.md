@@ -1,6 +1,11 @@
 ---
 title: "Twenty First Century"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Twenty First Century"
+  url: "/tartans/t/tw/twenty-first-century-2/"
 ---
 This is the **Twenty First Century** sett — one scale-free proportion (`g12db3n3w2n3db3g5k8db31lb5db8w4r6`), colour order pattern
 [GBBWBBGKBWBWR](/stripes/gbbwbbgkbwbwr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2y4~x2/"><circle cx="142.4" cy="113.1" r="4" fill="#3465a4"><title>Robitaille, Jean-Francois (Personal)</title></circle></a><a href="/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2lyi4~x2~ly2503076-lyi3407090/"><circle cx="141.5" cy="112.8" r="4" fill="#3465a4"><title>Robitaille, Jean-Francois (Personal)</title></circle></a><a href="/variants/s17/r2db14k2n5g3w1g3w1g3k1g3k1g3n5k2db14y2~x2/"><circle cx="136.4" cy="94.7" r="4" fill="#3465a4"><title>Service of Drymen Corporate Tartan</title></circle></a><a href="/variants/s12/db24y4n4dp4db24r4w3k18w9r4k3w2~x2/"><circle cx="122.4" cy="104.0" r="4" fill="#3465a4"><title>Queen Mary RMS</title></circle></a><a href="/variants/s10/k1dr4k1w3k1g7k2db16r2ly1~x2/"><circle cx="127.9" cy="90.7" r="4" fill="#3465a4"><title>Twempy</title></circle></a><a href="/variants/s17/dr2db14k2n5g3lb1g3lb1g3k1g3k1g3n5k2db14lo2~x2/"><circle cx="140.1" cy="95.9" r="4" fill="#3465a4"><title>Service of Drymen (Personal)</title></circle></a><a href="/variants/s12/db33r8k12y2k4w4k4g12db8k4db4w2~x2/"><circle cx="162.1" cy="102.9" r="4" fill="#3465a4"><title>MacLulich Clan Tartan</title></circle></a><a href="/variants/s12/db33r8k12dy2k4w4k4g12db8k4db4w2~x2/"><circle cx="163.1" cy="103.1" r="4" fill="#3465a4"><title>MacLulich</title></circle></a><a href="/variants/s13/b12db3n3w2n3db3b5k8db31lb5db8w4r6~x2/"><circle cx="166.0" cy="96.2" r="4" fill="#3465a4"><title>Twenty First Century</title></circle></a><a href="/variants/s12/db5r2ly7r2db42g28k5db10k15g5w3r3/"><circle cx="174.6" cy="93.5" r="4" fill="#3465a4"><title>Heritage Sequane</title></circle></a><circle cx="152.6" cy="93.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

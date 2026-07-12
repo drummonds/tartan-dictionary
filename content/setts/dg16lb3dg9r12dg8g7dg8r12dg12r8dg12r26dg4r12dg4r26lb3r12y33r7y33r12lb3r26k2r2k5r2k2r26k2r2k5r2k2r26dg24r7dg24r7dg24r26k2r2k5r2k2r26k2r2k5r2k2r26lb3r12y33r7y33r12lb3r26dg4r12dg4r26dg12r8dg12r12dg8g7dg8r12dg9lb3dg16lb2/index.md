@@ -1,6 +1,15 @@
 ---
 title: "Kinnoull"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Kinnoull"
+  url: "/clan/kinnoull/"
+- name: "Kinnoull"
+  url: "/families/kinnoull/"
+- name: "Kinnoull"
+  url: "/tartans/k/ki/kinnoull-3/"
 ---
 This is the **Kinnoull** sett — one scale-free proportion (`dg16lb3dg9r12dg8g7dg8r12dg12r8dg12r26dg4r12dg4r26lb3r12y33r7y33r12lb3r26k2r2k5r2k2r26k2r2k5r2k2r26dg24r7dg24r7dg24r26k2r2k5r2k2r26k2r2k5r2k2r26lb3r12y33r7y33r12lb3r26dg4r12dg4r26dg12r8dg12r12dg8g7dg8r12dg9lb3dg16lb2`), colour order pattern
 [GWGRGGGRGRGRGRGRWRGRGRWRKRKRKRKRKRKRGRGRGRKRKRKRKRKRKRWRGRGRWRGRGRGRGRGGGRGWGW](/stripes/gwgrgggrgrgrgrgrwrgrgrwrkrkrkrkrkrkrgrgrgrkrkrkrkrkrkrwrgrgrwrgrgrgrgrgggrgwgw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s38/dg24r7dg24r26k2r2k5r2k2r24k2r2k5r2k2r26w3r12db33r12w3r26dg4r12dg4r26dg12r8dg12r12dg8g7dg8r12dg9w3dg16w2~dg1806142-g1904115/"><circle cx="200.7" cy="71.0" r="4" fill="#3465a4"><title>Kinnoull (MacRae) - Error?</title></circle></a><a href="/variants/s40/dg24r7dg24r26k2r2k5r2k2r26k2r2k5r2k2r26w3r12db33r7db33r12w3r26dg4r12dg4r26dg12r8dg12r12dg8g7dg8r12dg9w3dg16w2~x2~dg1504144-g2408144/"><circle cx="178.3" cy="67.9" r="4" fill="#3465a4"><title>Kinnoull (MacRae)</title></circle></a><a href="/variants/s38/dg24r33k2r2k5r2k2r26k2r2k5r2k2r26w3r12db33r7db33r12w3r26dg4r12dg4r26dg12r8dg12r12dg8g7dg8r12dg9w3dg16w2~x2~dg1806142-g2408144/"><circle cx="191.6" cy="65.3" r="4" fill="#3465a4"><title>Kinnoull (MacRae) Family Tartan</title></circle></a><a href="/variants/s40/dg23r6dg23r25k2r2k5r2k2r26k2r2k5r2k2r26w3r12lb33r7lb33r12w3r26dg8r12dg4r26dg12r8dg12r12dg8g7dg8r12dg9w3dg16w2/"><circle cx="164.9" cy="65.2" r="4" fill="#3465a4"><title>Kinnoull (Clan)</title></circle></a><a href="/variants/s38/g29r5g28r22k2r2k4r2k2r22k2r2k4r2k2r20w2r9db26r5db28r9w2r22g3r8g3r22g8r6g8r6g5y3g5r7g12w2~x2/"><circle cx="172.6" cy="66.8" r="4" fill="#3465a4"><title>MacRae The Princes Own Clan Tartan</title></circle></a><circle cx="187.9" cy="46.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

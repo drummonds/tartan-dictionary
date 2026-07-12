@@ -1,6 +1,11 @@
 ---
 title: "Mandela Commemorative"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Mandela"
+  url: "/tartans/m/ma/mandela/"
 ---
 This is the **Mandela Commemorative** sett — one scale-free proportion (`g8dy2k6g11r2db12k12r2k6dy2k4r3`), colour order pattern
 [GGKGRBKRKGKR](/stripes/ggkgrbkrkgkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db12k2r2k2r2k12g11y2g11k12db11k2r2~x2/"><circle cx="91.8" cy="176.7" r="4" fill="#3465a4"><title>Black Watch, Plaid of Pipers...</title></circle></a><a href="/variants/s12/r6k20y4dy10t21k4t21dy10y4k20r6t3~x2/"><circle cx="87.9" cy="181.4" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><a href="/variants/s14/db15k8g3r3g5k2y2k2g5r3g3k8db8k8~x4/"><circle cx="101.1" cy="175.3" r="4" fill="#3465a4"><title>MacLellan</title></circle></a><a href="/variants/s14/db29k15g5r5g8k4y4k4g8r5g5k15db7k15~x2/"><circle cx="119.5" cy="167.4" r="4" fill="#3465a4"><title>MacLellan Clan Tartan</title></circle></a><a href="/variants/s14/w3dgi7k3dgi3k3dgi3k13dg16ly3dg16k13dgi16k3w3~x2~dgi1802166/"><circle cx="85.0" cy="182.9" r="4" fill="#3465a4"><title>Terre D'Ecosse</title></circle></a><a href="/variants/s13/r1k1g6k6db6k1db1k1db6k6g6k1ly1~x4/"><circle cx="105.0" cy="177.9" r="4" fill="#3465a4"><title>MacEwen/MacEwan</title></circle></a><a href="/variants/s15/g6k3g7r3g6k13db13k3db13k13g3w3g6k3r4~x2/"><circle cx="58.1" cy="195.1" r="4" fill="#3465a4"><title>MacRae #2</title></circle></a><a href="/variants/s14/r2db4k1db1k1db1k8g8y2g8k8db8k1r2/"><circle cx="94.6" cy="159.4" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/variants/s14/r2db4k1db1k1db1k8g8y2g8k8db8k1r2~x2/"><circle cx="94.6" cy="159.4" r="4" fill="#3465a4"><title>Farquharson Clan Tartan</title></circle></a><a href="/variants/s14/db4k1db1k1db1k5g6k1g6k6db3w1r1w1~x4/"><circle cx="89.8" cy="170.7" r="4" fill="#3465a4"><title>Gemmell Clan Tartan</title></circle></a><circle cx="94.5" cy="185.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Laing of Archiestown"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Laing"
+  url: "/clan/laing/"
+- name: "Laing of Archiestown"
+  url: "/families/laing-of-archiestown/"
+- name: "Laing of Archiestown"
+  url: "/tartans/l/la/laing-of-archiestown/"
 ---
 This is the **Laing of Archiestown** sett — one scale-free proportion (`db8r1w1r1k1`), colour order pattern
 [BRWRK](/stripes/brwrk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db19r2w2r2k2~x4/"><circle cx="374.8" cy="164.9" r="4" fill="#3465a4"><title>Laing of Archiestown</title></circle></a><a href="/variants/s6/r4g2r2k5db22w2~x4/"><circle cx="273.4" cy="145.2" r="4" fill="#3465a4"><title>Reese (Personal)</title></circle></a><a href="/variants/s4/db14k3dr3w1~x2/"><circle cx="384.3" cy="193.1" r="4" fill="#3465a4"><title>Bacon, Blue</title></circle></a><a href="/variants/s6/lr8w3db40k12w3lr3~x2/"><circle cx="281.1" cy="155.0" r="4" fill="#3465a4"><title>Wolverines (Corporate)</title></circle></a><a href="/variants/s4/r2k6db33w2~x4/"><circle cx="458.3" cy="161.8" r="4" fill="#3465a4"><title>McCallie</title></circle></a><a href="/variants/s4/r5db26k12w2~x4/"><circle cx="294.2" cy="198.6" r="4" fill="#3465a4"><title>Mirror (Corporate)</title></circle></a><a href="/variants/s5/db46k6g9dy9r4/"><circle cx="337.8" cy="177.1" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><a href="/variants/s5/r6db35k36db36w6/"><circle cx="267.5" cy="240.8" r="4" fill="#3465a4"><title>Davidson of Tulloch Clan Tartan</title></circle></a><a href="/variants/s5/k2db36g12w3r2~x2/"><circle cx="347.2" cy="141.0" r="4" fill="#3465a4"><title>Cleland</title></circle></a><a href="/variants/s4/r4db32k15w2~x2/"><circle cx="330.3" cy="186.6" r="4" fill="#3465a4"><title>Scottish Nuclear</title></circle></a><circle cx="335.5" cy="175.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

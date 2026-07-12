@@ -1,6 +1,15 @@
 ---
 title: "MacLean Dress (Lumsden)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Maclean"
+  url: "/clan/maclean/"
+- name: "MacLean"
+  url: "/families/maclean/"
+- name: "MacLean Dress"
+  url: "/tartans/m/ma/maclean-dress/"
 ---
 This is the **MacLean Dress (Lumsden)** sett — one scale-free proportion (`dr1w12g6dr8lb3lo1`), colour order pattern
 [BWGBWY](/stripes/bwgbwy/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1w12g6r8lb3y1~x4/"><circle cx="183.6" cy="199.0" r="4" fill="#3465a4"><title>MacLean, dress</title></circle></a><a href="/variants/s6/w4dr7ly5t13dr18g3~x2/"><circle cx="225.1" cy="247.4" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><a href="/variants/s6/r3w33dp8dg18r9g3~x2/"><circle cx="178.6" cy="182.9" r="4" fill="#3465a4"><title>MacKintosh Dress (Dance)</title></circle></a><a href="/variants/s6/r3w8db4g14r4db2~x2/"><circle cx="163.4" cy="236.5" r="4" fill="#3465a4"><title>MacIntosh Dress Clan Tartan</title></circle></a><a href="/variants/s8/w24lo8do2lo8do2lo8dy15g2~x2/"><circle cx="176.8" cy="191.6" r="4" fill="#3465a4"><title>Unidentified from Winnipeg</title></circle></a><a href="/variants/s6/db2w14dp4y1g8db2~x2/"><circle cx="213.3" cy="191.5" r="4" fill="#3465a4"><title>Manx Laxey, dress green</title></circle></a><a href="/variants/s7/dr5w36dp14dr9g28dr8dp2~x2/"><circle cx="192.8" cy="198.2" r="4" fill="#3465a4"><title>MacKintosh (Artefact)</title></circle></a><a href="/variants/s8/do4y2do13y1w8lb13y2lb4~x2/"><circle cx="203.9" cy="209.8" r="4" fill="#3465a4"><title>Bannockbane, Dark Tan</title></circle></a><a href="/variants/s8/do4y2do13y1w13lb13y2lb4~x2/"><circle cx="186.6" cy="209.5" r="4" fill="#3465a4"><title>Bannockbane Tan</title></circle></a><a href="/variants/s7/dy17g5db2w12db2y4g7~x4~g2203152-db1106275/"><circle cx="145.7" cy="219.5" r="4" fill="#3465a4"><title>Northern Ontario</title></circle></a><circle cx="183.0" cy="209.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

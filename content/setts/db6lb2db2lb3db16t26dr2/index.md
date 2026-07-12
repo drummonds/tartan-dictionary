@@ -1,6 +1,11 @@
 ---
 title: "Federal Bureau of Investigation"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "FBI"
+  url: "/tartans/f/fb/fbi/"
 ---
 This is the **Federal Bureau of Investigation** sett — one scale-free proportion (`db6lb2db2lb3db16t26dr2`), colour order pattern
 [BBBWBWB](/stripes/bbbwbwb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2/"><circle cx="257.5" cy="218.1" r="4" fill="#3465a4"><title>Keela (Corporate)</title></circle></a><a href="/variants/s6/t52db28w5db3w2db10~x2/"><circle cx="388.0" cy="181.2" r="4" fill="#3465a4"><title>St. Andrews, Earl of</title></circle></a><a href="/variants/s6/t52db28w3db2w2db10~x2/"><circle cx="440.8" cy="211.3" r="4" fill="#3465a4"><title>St Andrews Earl of Royal family Tartan</title></circle></a><a href="/variants/s6/db4b2dp3db24t24w3~x2~db1004274-b2308302-dp1105325-t2105244/"><circle cx="336.3" cy="221.6" r="4" fill="#3465a4"><title>Aberdeen Academy of Performing Arts</title></circle></a><a href="/variants/s6/db3w1db12b12db1b3~x4/"><circle cx="431.6" cy="265.4" r="4" fill="#3465a4"><title>Erskine Blue (Fashion)</title></circle></a><a href="/variants/s6/lg3db1b16db16b2lb2~x4/"><circle cx="360.5" cy="227.3" r="4" fill="#3465a4"><title>U.S.S. John Paul Jones #1</title></circle></a><a href="/variants/s6/db4dpi2dp3db24lb24w3~x2~dpi1607327-dp1105325/"><circle cx="286.2" cy="204.1" r="4" fill="#3465a4"><title>Aberdeen Academy of Performing Art</title></circle></a><a href="/variants/s8/t27db9lb3dg6db33lb3dr3y2~x2~t2503227-lb3103284/"><circle cx="300.3" cy="167.6" r="4" fill="#3465a4"><title>Blue Ridge Highlands Heritage (Dist)</title></circle></a><a href="/variants/s8/t27db9lb3dg6db33lb3dr3y2~x2~t2503227-db1406275-lb3103284/"><circle cx="321.6" cy="173.4" r="4" fill="#3465a4"><title>Blue Ridge Highlands Heritage</title></circle></a><a href="/variants/s5/db2w2b8db8w1~x2/"><circle cx="316.6" cy="281.4" r="4" fill="#3465a4"><title>Laval (Tartan de..)</title></circle></a><circle cx="358.0" cy="226.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

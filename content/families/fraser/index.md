@@ -1,6 +1,11 @@
 ---
 title: "Fraser"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Fraser"
+  url: "/clan/fraser/"
 ---
 A family of [Clan Fraser](/clan/fraser/).
 

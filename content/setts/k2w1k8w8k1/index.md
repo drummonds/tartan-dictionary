@@ -1,6 +1,15 @@
 ---
 title: "Cairn (Marton Mills)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cairn"
+  url: "/clan/cairn/"
+- name: "Cairn"
+  url: "/families/cairn/"
+- name: "Cairn"
+  url: "/tartans/c/ca/cairn-2/"
 ---
 This is the **Cairn (Marton Mills)** sett — one scale-free proportion (`k2w1k8w8k1`), colour order pattern
 [KWKWK](/stripes/kwkwk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k22w3k3w11k1~x2/"><circle cx="368.0" cy="169.4" r="4" fill="#3465a4"><title>MacPhee MacFee or MacIver</title></circle></a><a href="/variants/s6/k2n6k2n6k12r1~x4/"><circle cx="296.4" cy="197.7" r="4" fill="#3465a4"><title>MacSween, Black (Personal)</title></circle></a><a href="/variants/s6/k3n23k3n3k20lg3~x2/"><circle cx="260.2" cy="205.3" r="4" fill="#3465a4"><title>Pride of the Forth</title></circle></a><a href="/variants/s6/k3n23k3n3k20lb3~x2/"><circle cx="261.5" cy="205.0" r="4" fill="#3465a4"><title>Pride of the Forth</title></circle></a><a href="/variants/s6/k3n31k3n3k27y3~x2/"><circle cx="287.6" cy="186.4" r="4" fill="#3465a4"><title>Scottish National Party (Corporate)</title></circle></a><a href="/variants/s6/n58k22n8k17r5k14~x2/"><circle cx="292.0" cy="193.6" r="4" fill="#3465a4"><title>Flynn</title></circle></a><a href="/variants/s6/k2w1k9w9k1w2~x6/"><circle cx="284.4" cy="216.3" r="4" fill="#3465a4"><title>Erskine (Black and White)</title></circle></a><a href="/variants/s6/k2w1k9w9k1w2~x3/"><circle cx="284.4" cy="216.3" r="4" fill="#3465a4"><title>Erskine BW MINI Design Tartan</title></circle></a><a href="/variants/s6/n50k4n12k23lo4k4~x2/"><circle cx="359.1" cy="180.5" r="4" fill="#3465a4"><title>Sligo Irish County Tartan</title></circle></a><a href="/variants/s5/w5k20w10k1r2~x2/"><circle cx="304.1" cy="151.8" r="4" fill="#3465a4"><title>St. Piran Cornish Flag</title></circle></a><circle cx="282.7" cy="222.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Patterson, John (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Patterson, John"
+  url: "/tartans/p/pa/patterson-john/"
 ---
 This is the **Patterson, John (Personal)** sett — one scale-free proportion (`g3db12w1dg12r12dg2`), colour order pattern
 [GBWGRG](/stripes/gbwgrg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r12dbi3g5db16y2g2~x2~dbi1406275-db1204274/"><circle cx="205.7" cy="213.5" r="4" fill="#3465a4"><title>Dunbog Primary School Corporate Tartan</title></circle></a><a href="/variants/s6/r12dbi3g5db16y2g2~x2~dbi1604274-db0805267/"><circle cx="180.9" cy="206.1" r="4" fill="#3465a4"><title>Dunbog, Primary School</title></circle></a><a href="/variants/s5/y25r10g10db11w2~x2/"><circle cx="226.4" cy="228.4" r="4" fill="#3465a4"><title>Samye</title></circle></a><a href="/variants/s6/n7w1r6db10dg10w1~x4/"><circle cx="144.5" cy="229.7" r="4" fill="#3465a4"><title>McEachern, Andrew</title></circle></a><a href="/variants/s7/db4g2r18dr10g10db29b4~x2~db1003265-b1813263/"><circle cx="222.0" cy="184.2" r="4" fill="#3465a4"><title>Ross Dempster (Personal)</title></circle></a><a href="/variants/s6/w3g15db18r15g1r2~x2/"><circle cx="200.2" cy="194.2" r="4" fill="#3465a4"><title>Nibley</title></circle></a><a href="/variants/s6/w3dg18db22r19dg1r2~x2/"><circle cx="224.3" cy="184.0" r="4" fill="#3465a4"><title>Nibley (Personal)</title></circle></a><a href="/variants/s8/db18k5r26k5g25k5db18y2~x2~db1204274/"><circle cx="124.7" cy="170.6" r="4" fill="#3465a4"><title>St. Clement of Rome School</title></circle></a><a href="/variants/s8/db18k5r26k5g25k5db18y2~x2/"><circle cx="120.8" cy="170.5" r="4" fill="#3465a4"><title>St. Clement of Rome (Corporate)</title></circle></a><a href="/variants/s6/r10dbi6g24db24r6y3~dbi1406275-db1004274/"><circle cx="163.3" cy="226.7" r="4" fill="#3465a4"><title>Canine All Dogs (Fashion)</title></circle></a><circle cx="179.0" cy="207.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

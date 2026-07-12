@@ -1,6 +1,11 @@
 ---
 title: "Dama Weekend (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Dama Weekend"
+  url: "/tartans/d/da/dama-weekend/"
 ---
 This is the **Dama Weekend (Fashion)** sett — one scale-free proportion (`db42n2db2n4g4ly2g6k9g2k2r2`), colour order pattern
 [BBBBGYGKGKR](/stripes/bbbbgygkgkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db42n2db2n4y4ly2y6k9y2k2r2~x2~y2204115-ly3206085/"><circle cx="289.6" cy="73.1" r="4" fill="#3465a4"><title>Dama Weekend</title></circle></a><a href="/variants/s10/db60lo2db10k9lb2k2dr2k2g28lo3~x2/"><circle cx="301.2" cy="70.6" r="4" fill="#3465a4"><title>Wcwm 9275-1510-1</title></circle></a><a href="/variants/s10/db6w1db40o1k12dg12o6dg2dp2dg4~x2/"><circle cx="309.9" cy="79.6" r="4" fill="#3465a4"><title>Scotland the Brave (Fashion)</title></circle></a><a href="/variants/s10/dp4db5dp3db50k15g3k5g32w2g3/"><circle cx="230.0" cy="103.4" r="4" fill="#3465a4"><title>Spirit of Morningside (Fashion)</title></circle></a><a href="/variants/s12/db92k14db18t5db5t5db5g32dp16k5dp7y8/"><circle cx="291.9" cy="99.6" r="4" fill="#3465a4"><title>Bavidge (Personal)</title></circle></a><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/"><circle cx="260.4" cy="78.3" r="4" fill="#3465a4"><title>Stewart Blue MINI Tartan</title></circle></a><a href="/variants/s11/db60w3dp8y2k2w2k2g14db4dy10w2~x2/"><circle cx="287.9" cy="46.9" r="4" fill="#3465a4"><title>O'Shaughnessy (Estimated threadcount)</title></circle></a><a href="/variants/s12/lr2db3k3g8dr6db2ly2k3lr2k6db32ly2~x2/"><circle cx="217.6" cy="87.3" r="4" fill="#3465a4"><title>Talisman (Fashion)</title></circle></a><a href="/variants/s11/g10db9dp4dr2dp4g6k10w4g24db60k4/"><circle cx="247.5" cy="78.6" r="4" fill="#3465a4"><title>Huaumé, Patrick Antoine (Personal)</title></circle></a><a href="/variants/s13/r3g1db2g4db30k2db4k2db30g27y3k3w3~x2/"><circle cx="289.3" cy="72.2" r="4" fill="#3465a4"><title>Joss</title></circle></a><circle cx="282.8" cy="72.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

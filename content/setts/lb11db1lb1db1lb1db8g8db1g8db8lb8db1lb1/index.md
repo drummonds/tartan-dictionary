@@ -1,6 +1,15 @@
 ---
 title: "Sutherland #3"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Sutherland"
+  url: "/clan/sutherland/"
+- name: "Sutherland"
+  url: "/families/sutherland/"
+- name: "Sutherland"
+  url: "/tartans/s/su/sutherland-3/"
 ---
 This is the **Sutherland #3** sett — one scale-free proportion (`lb11db1lb1db1lb1db8g8db1g8db8lb8db1lb1`), colour order pattern
 [WBWBGBGBWBWBW](/stripes/wbwbgbgbwbwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db14lb2db3lb2g10lb32g10db10lb2db3~x2/"><circle cx="282.3" cy="195.0" r="4" fill="#3465a4"><title>Fraser Arisaid</title></circle></a><a href="/variants/s12/db15lb11lbi2lb1lbi1g4lbi1lb1lbi2lb11db15g5~x4~lb3103284-lbi3200000/"><circle cx="254.4" cy="181.2" r="4" fill="#3465a4"><title>Highlands Country Club</title></circle></a><a href="/variants/s10/db14w2db3w2g10w32g10db10w2db3~x2/"><circle cx="257.1" cy="188.1" r="4" fill="#3465a4"><title>Fraser, Arisaid</title></circle></a><a href="/variants/s7/g10db2g2db6lb5db1lb2~x2/"><circle cx="261.6" cy="251.6" r="4" fill="#3465a4"><title>Unidentified No 17</title></circle></a><a href="/variants/s8/w9t3y3t24db24y2db2y2~x2/"><circle cx="249.0" cy="199.4" r="4" fill="#3465a4"><title>Halesowen (District)</title></circle></a><a href="/variants/s16/db36y4db10y4db36g28w3g3w3g8y6g8w3g3w3g28/"><circle cx="261.9" cy="172.4" r="4" fill="#3465a4"><title>MacOrrell</title></circle></a><a href="/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi3200000-lb3103284/"><circle cx="229.7" cy="204.0" r="4" fill="#3465a4"><title>Highlands Country Club (Corporate)</title></circle></a><a href="/variants/s9/g33db4g4db4g4db12w33db3w6~x2/"><circle cx="242.0" cy="207.6" r="4" fill="#3465a4"><title>Lindsay Dress, Green (Dance)</title></circle></a><a href="/variants/s10/g11lb2db11lb6g3lb6db11lb2g11db3~x2~db1406275/"><circle cx="214.7" cy="279.6" r="4" fill="#3465a4"><title>Norwich No.029</title></circle></a><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2/"><circle cx="251.6" cy="192.8" r="4" fill="#3465a4"><title>Unidentified No 52</title></circle></a><circle cx="233.9" cy="211.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

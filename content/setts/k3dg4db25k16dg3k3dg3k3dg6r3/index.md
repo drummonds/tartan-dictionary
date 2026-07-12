@@ -1,6 +1,11 @@
 ---
 title: "MacAndreis (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "MacAndreis"
+  url: "/tartans/m/ma/macandreis/"
 ---
 This is the **MacAndreis (Personal)** sett — one scale-free proportion (`k3dg4db25k16dg3k3dg3k3dg6r3`), colour order pattern
 [KGBKGKGKGR](/stripes/kgbkgkgkgr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k3dg4dp25k16dg3k3dg3k3dg6o3~x2/"><circle cx="219.9" cy="179.2" r="4" fill="#3465a4"><title>MacAndreis</title></circle></a><a href="/variants/s11/dg24db7dg7db7k22db7k4dy4k4db40dr14~db1605267-k0503265/"><circle cx="285.3" cy="200.1" r="4" fill="#3465a4"><title>Brethwe Powys</title></circle></a><a href="/variants/s7/db14k5dp5k5db14dg32dr4~x2/"><circle cx="269.8" cy="226.0" r="4" fill="#3465a4"><title>Bennachie Whisky (Corporate)</title></circle></a><a href="/variants/s7/db14k5dp5k5db14dg32dr4~x2~db1404245-dp1507327/"><circle cx="281.3" cy="231.6" r="4" fill="#3465a4"><title>Bennachie (Whisky)</title></circle></a><a href="/variants/s9/dg12k11dg1k1dg1db10dg1k1dg1~x4/"><circle cx="293.2" cy="191.5" r="4" fill="#3465a4"><title>Herron from Ulster (Personal)</title></circle></a><a href="/variants/s10/dr10k4dr4k6dr28k10dy4db30k4db7~x2/"><circle cx="248.8" cy="205.7" r="4" fill="#3465a4"><title>St George's School</title></circle></a><a href="/variants/s8/dr6dg2db12k2dg12dr9k2b2~x2/"><circle cx="202.8" cy="238.3" r="4" fill="#3465a4"><title>Orkney</title></circle></a><a href="/variants/s12/ki5k2ki2k2ki2db5k2db1n1db1k10ki3~x4~ki0700000-db1404245/"><circle cx="280.6" cy="195.2" r="4" fill="#3465a4"><title>Hopkins (Welsh Name)</title></circle></a><a href="/variants/s9/dp6db4k4db26k12dp3dbi42dy4dbi4~db1204274-dbi1605267/"><circle cx="312.7" cy="175.8" r="4" fill="#3465a4"><title>Goldblatt, Joe Jeff (Personal)</title></circle></a><a href="/variants/s18/dy2db4dbi2dg25dbi4dg2dbi4k10db4dg2db4dg11dbi2k2dbi24db4dbi2dy2~x2~db1106275-dbi1406275/"><circle cx="265.2" cy="154.0" r="4" fill="#3465a4"><title>LS Curling</title></circle></a><circle cx="287.7" cy="207.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Emergency Medical Services Memorial Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Emergency Medical Services Memorial"
+  url: "/tartans/e/em/emergency-medical-services-memorial/"
 ---
 This is the **Emergency Medical Services Memorial Tartan** sett — one scale-free proportion (`k14lb4k4lb4k4lb4r14lb38y8lb3w3lb3g8lb38r14lb4k4lb4k4lb4k14`), colour order pattern
 [KWKWKWRWGWWWGWRWKWKWK](/stripes/kwkwkwrwgwwwgwrwkwkwk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dp5w1k1t14k1r12k1t14k1r5k1y3~x2/"><circle cx="202.1" cy="85.6" r="4" fill="#3465a4"><title>Saltcoats</title></circle></a><a href="/variants/s15/lb28n3lb3k2lb3n3lb28dg14k3n3k3dy3k4n3db6~x2/"><circle cx="212.5" cy="89.1" r="4" fill="#3465a4"><title>Buffalo</title></circle></a><a href="/variants/s15/lb27r4lb3r2lb4r2lb3r4lb14k14r2db14r4db4y3~x2/"><circle cx="175.5" cy="111.7" r="4" fill="#3465a4"><title>Cochrane Azure</title></circle></a><a href="/variants/s13/lb10w18lb4lo6lb45k30lb4k4y4r4y4r4y4/"><circle cx="131.3" cy="102.3" r="4" fill="#3465a4"><title>Les Coeurs de Lions en Bleu</title></circle></a><a href="/variants/s16/db20g5k5w22db5w22k2y2k2r6g4w4g3r4k2y2~x2/"><circle cx="107.2" cy="102.6" r="4" fill="#3465a4"><title>Gayre Arisaidh Clan Tartan</title></circle></a><a href="/variants/s14/w9r5w29db3k10ly2k3w3k3g12r6k3r3w2~x2/"><circle cx="132.1" cy="93.5" r="4" fill="#3465a4"><title>Hay - Stewart (Fashion)</title></circle></a><a href="/variants/s16/w54dt7w19k5w8dg8w8dg16k8dy8w21r11dg7dt11dg8w7~x2~dt1502194-k0700000/"><circle cx="180.7" cy="115.9" r="4" fill="#3465a4"><title>Beckett Beaumont (Corporate)</title></circle></a><a href="/variants/s15/w16db3w8k3w3k6y2k2w2k2g7r4k2r2w2~x2/"><circle cx="111.8" cy="126.3" r="4" fill="#3465a4"><title>Stewart Dress Artifact Tartan</title></circle></a><a href="/variants/s16/db12k3lyi2k3r12db12k2ly28k2lyi2k2n2k2ly28k2db12~x2~lyi3104101-ly2503076/"><circle cx="161.7" cy="94.3" r="4" fill="#3465a4"><title>Oneness</title></circle></a><a href="/variants/s16/w54dt7w19k5w8dgi8w8dgi16k8dg8w21r11dgi7dt11dgi8w7~x2~dgi1803133-dg1401060/"><circle cx="181.0" cy="115.9" r="4" fill="#3465a4"><title>Beckett Beaumont Artifact Tartan</title></circle></a><circle cx="173.3" cy="78.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

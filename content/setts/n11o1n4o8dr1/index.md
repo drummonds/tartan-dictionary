@@ -1,6 +1,13 @@
 ---
 title: "Cairns, David (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cairns"
+  url: "/clan/cairns/"
+- name: "Cairns, David"
+  url: "/tartans/c/ca/cairns-david/"
 ---
 This is the **Cairns, David (Personal)** sett — one scale-free proportion (`n11o1n4o8dr1`), colour order pattern
 [BRBRB](/stripes/brbrb/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/o52lyi2n24r3ly26n4~x2~o2500000-lyi3407090-n1900000-ly2503076/"><circle cx="500.6" cy="239.8" r="4" fill="#3465a4"><title>Outlander #1</title></circle></a><a href="/variants/s5/g5n1g1n12r1~x8/"><circle cx="570.8" cy="267.0" r="4" fill="#3465a4"><title>Ceredigion (Personal)</title></circle></a><a href="/variants/s5/n60g13n9dr8y4~x2/"><circle cx="626.0" cy="257.8" r="4" fill="#3465a4"><title>Ballantyne (Personal)</title></circle></a><a href="/variants/s5/n60g13n9r8dy4~x2/"><circle cx="594.5" cy="232.4" r="4" fill="#3465a4"><title>Ballantyne Personal Tartan</title></circle></a><circle cx="574.5" cy="307.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

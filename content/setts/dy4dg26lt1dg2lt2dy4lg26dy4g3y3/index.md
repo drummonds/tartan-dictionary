@@ -1,6 +1,15 @@
 ---
 title: "Carter (Savannah) (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Carter"
+  url: "/clan/carter/"
+- name: "Carter"
+  url: "/families/carter/"
+- name: "Carter"
+  url: "/tartans/c/ca/carter/"
 ---
 This is the **Carter (Savannah) (Personal)** sett — one scale-free proportion (`dy4dg26lt1dg2lt2dy4lg26dy4g3y3`), colour order pattern
 [GGGYGWGWGG](/stripes/gggygwgwgg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/do4g26ly1g2ly2do4lg26do4y3lyi3~x2~ly3103114-lyi3306095/"><circle cx="255.6" cy="141.7" r="4" fill="#3465a4"><title>Carter (Savannah)</title></circle></a><a href="/variants/s14/lb2g3lb2g12y5g12w1dg16y3w3g3dg2dp2w1~x2/"><circle cx="228.0" cy="153.1" r="4" fill="#3465a4"><title>Malone, Keagan Allen (Personal)</title></circle></a><a href="/variants/s10/db6w1ly24g6dt3g1dt3g1dt12r1~x2~db1404245-dt1703208/"><circle cx="225.9" cy="120.1" r="4" fill="#3465a4"><title>Chisholm Colonial</title></circle></a><a href="/variants/s12/dy4dg3dy30y12dg5lg4dg3lg14lgi2lg2lgi10ly3~x2~dg1804158-y2204115-lgi3205128/"><circle cx="176.2" cy="153.5" r="4" fill="#3465a4"><title>Shrek</title></circle></a><a href="/variants/s8/g4n2dg24dy10ly12r1ly12dg2~x2~g2408144-dg1806142/"><circle cx="219.5" cy="157.4" r="4" fill="#3465a4"><title>Jolley (Personal)</title></circle></a><a href="/variants/s12/dy4dg3dy30y12dg5lg4dg3lg14lgi2lg2lgi10ly3~x2~y2204115-lgi3205128/"><circle cx="170.3" cy="150.9" r="4" fill="#3465a4"><title>Shrek (Fashion)</title></circle></a><a href="/variants/s13/b3g1b1g14o2g2o2g4o11dg25y2dg3w2~x2~g2508144-dg1104144/"><circle cx="214.6" cy="107.3" r="4" fill="#3465a4"><title>Buglass</title></circle></a><a href="/variants/s8/dg18g6dy3w1dy3w1lb6db6~x2~dg1806142-g2408144/"><circle cx="205.3" cy="170.7" r="4" fill="#3465a4"><title>Iroquois Falls Centenary (Commem.)</title></circle></a><a href="/variants/s8/dy31ly6lb3db36dy8g60ly7n7~x2~db1004274-n2203265/"><circle cx="219.7" cy="165.2" r="4" fill="#3465a4"><title>Little-Dowse Wedding</title></circle></a><a href="/variants/s8/g2do13g11lyi5do1ly21g2dy1~x2~lyi3407090-ly2503076/"><circle cx="262.9" cy="181.6" r="4" fill="#3465a4"><title>St. Lawrence #2 (Fashion)</title></circle></a><circle cx="239.6" cy="134.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

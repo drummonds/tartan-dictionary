@@ -1,6 +1,15 @@
 ---
 title: "Caitriot"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Caitriot"
+  url: "/clan/caitriot/"
+- name: "Caitriot"
+  url: "/families/caitriot/"
+- name: "Caitriot"
+  url: "/tartans/c/ca/caitriot/"
 ---
 This is the **Caitriot** sett — one scale-free proportion (`w3lb2n14o8lb14db16n13lb2w3`), colour order pattern
 [WWBBWRBWW](/stripes/wwbbwrbww/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lb18db3lb10db3lb10db14ly2r7ly2g14ly2db14~x2/"><circle cx="150.3" cy="195.7" r="4" fill="#3465a4"><title>Ralston (UK)</title></circle></a><a href="/variants/s9/n8g4n8db2lb8r1m1lb8db2~n2203265-db0705267-r2209032-m2610337/"><circle cx="168.3" cy="206.3" r="4" fill="#3465a4"><title>Cole-Dale (Personal)</title></circle></a><a href="/variants/s11/r6t24r2db12r8db12y3g8y3g8db3~x2/"><circle cx="158.0" cy="194.2" r="4" fill="#3465a4"><title>South Australia (Disputed)</title></circle></a><a href="/variants/s8/g3dp7b11db3o8w2db3b3~x2/"><circle cx="123.5" cy="232.0" r="4" fill="#3465a4"><title>Scotia</title></circle></a><a href="/variants/s11/db4y3db17r7w2o7w2db7b17o3b4~x2/"><circle cx="157.2" cy="180.6" r="4" fill="#3465a4"><title>Asman Hunting</title></circle></a><a href="/variants/s13/t2w2b5w2t4b5t6b14db18r4w2r4w2~x2/"><circle cx="152.6" cy="179.1" r="4" fill="#3465a4"><title>Daughters of the American Revolution Corporate Tartan</title></circle></a><a href="/variants/s8/db12r2db2r2db2g10w12o3~x2/"><circle cx="115.9" cy="208.2" r="4" fill="#3465a4"><title>Idaho, Centennial</title></circle></a><a href="/variants/s10/b29db8y21r3y8b16w3db3w3y8~x2/"><circle cx="243.5" cy="194.5" r="4" fill="#3465a4"><title>Morneau (Quebec), Richard (Personal)</title></circle></a><a href="/variants/s12/lb16g2lb16db18y2db13g11r2g9db12r2y2~x2~g2408144/"><circle cx="134.7" cy="176.9" r="4" fill="#3465a4"><title>E.C.R. (Corporate)</title></circle></a><a href="/variants/s11/g10m2g2r4g16dp16r2b18y2b8r3~x2/"><circle cx="157.6" cy="182.0" r="4" fill="#3465a4"><title>Commonwealth Games 1998 (Corporate)</title></circle></a><circle cx="153.5" cy="218.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

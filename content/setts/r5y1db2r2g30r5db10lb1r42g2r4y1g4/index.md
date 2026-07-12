@@ -1,6 +1,15 @@
 ---
 title: "MacDonald of Glencoe #2"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDonald"
+  url: "/clan/macdonald/"
+- name: "MacDonald of Glencoe"
+  url: "/families/macdonald-of-glencoe/"
+- name: "MacDonald of Glencoe"
+  url: "/tartans/m/ma/macdonald-of-glencoe-3/"
 ---
 This is the **MacDonald of Glencoe #2** sett — one scale-free proportion (`r5y1db2r2g30r5db10lb1r42g2r4y1g4`), colour order pattern
 [GGRGRWBRGRBGR](/stripes/ggrgrwbrgrbgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r6ri1db2r2g40r6db13lb1r48g2r4ri1g4~x2~r1807008-ri2406019/"><circle cx="352.0" cy="71.7" r="4" fill="#3465a4"><title>MacDonald of Glencoe Artifact Tartan</title></circle></a><a href="/variants/s13/r6ri1db2r2g40r6db13lb1r48g2r4ri1g4~x2~r1707016-ri2208029/"><circle cx="356.2" cy="74.0" r="4" fill="#3465a4"><title>MacDonald of Glenaladale #2</title></circle></a><a href="/variants/s13/r6b1db2r2g40r6db13lb1r48g2r4b1g4~x2/"><circle cx="344.7" cy="69.6" r="4" fill="#3465a4"><title>MacDonald of Glencoe</title></circle></a><a href="/variants/s11/r6db1r1g28r4db8w1r32g1r4g2~x2/"><circle cx="361.6" cy="111.0" r="4" fill="#3465a4"><title>MacDonell of Keppoch (artefact)</title></circle></a><a href="/variants/s12/r7b2db2r2g32r6db12r41g2r5b2g5~x2/"><circle cx="329.6" cy="128.9" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/variants/s17/r36ly2db1r3g41r3db1ly2r3db12r3ly2db1r36g3ri3g4~x2~r2109032-ri2307033/"><circle cx="350.1" cy="67.5" r="4" fill="#3465a4"><title>Munro (Clan)</title></circle></a><a href="/variants/s17/ri24w1db2ri8g52ri8db2w1ri8db12ri8w1db2ri52g4r6g6~x2~ri2109032-r1707016/"><circle cx="358.8" cy="64.6" r="4" fill="#3465a4"><title>Dalzell</title></circle></a><a href="/variants/s17/ri24w1db2ri4g32ri4db2w1ri4db6ri4w1db2ri32g2r3g6~x2~ri2109032-r1807008/"><circle cx="343.6" cy="80.4" r="4" fill="#3465a4"><title>Dalziel (Logan) Family Tartan</title></circle></a><a href="/variants/s17/ri24w1db2ri4g32ri4db2w1ri4db6ri4w1db2ri32g2r3g6~x2~ri2008029-r1707016/"><circle cx="345.3" cy="81.3" r="4" fill="#3465a4"><title>Dalziel</title></circle></a><a href="/variants/s17/r24w1db2r4g32r4db2w1r4db6r4w1db2r32g2dr3g6~x2~r1908029/"><circle cx="347.6" cy="83.1" r="4" fill="#3465a4"><title>Dalzell</title></circle></a><circle cx="353.2" cy="75.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Komissarov, Dmitry (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Komissarov, Dmitry"
+  url: "/tartans/k/ko/komissarov-dmitry/"
 ---
 This is the **Komissarov, Dmitry (Personal)** sett — one scale-free proportion (`dp30db30n4db4n4db5r6`), colour order pattern
 [BBBBBBR](/stripes/bbbbbbr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db4w1db17dr28dp17r2~x2/"><circle cx="365.8" cy="199.4" r="4" fill="#3465a4"><title>Sail Chalmadale (Fashion)</title></circle></a><a href="/variants/s6/db4w1db17dr28dp17r2~x2~r1908022/"><circle cx="374.7" cy="202.7" r="4" fill="#3465a4"><title>Sail Chalmadale</title></circle></a><a href="/variants/s10/dbi8g8db12r3dp20g3db20dbi3db20lb2~x2~dbi1406275-db1305255/"><circle cx="307.8" cy="209.2" r="4" fill="#3465a4"><title>Strathisla (District)</title></circle></a><a href="/variants/s6/dp3n15db15r2db15y3~x2/"><circle cx="352.1" cy="250.2" r="4" fill="#3465a4"><title>HMS Duncan (Military)</title></circle></a><a href="/variants/s6/dp3dt15db15r2db15y3~x2/"><circle cx="397.2" cy="268.3" r="4" fill="#3465a4"><title>H.M.S. DUNCAN</title></circle></a><a href="/variants/s8/dy5dbi12db4ly4db22dbi3db4dy5~dbi1406275-db1204274/"><circle cx="370.4" cy="262.4" r="4" fill="#3465a4"><title>Daks Muted blue Trade Tartan</title></circle></a><a href="/variants/s6/db38w3db8dbi36dg9r3~x2~db1106275-dbi1406275/"><circle cx="359.3" cy="219.5" r="4" fill="#3465a4"><title>Waters of Georgian Bay (District)</title></circle></a><a href="/variants/s12/b24db4b4db4b4db20dp32n4dp32db35r5db4~b2106246-db1305255/"><circle cx="317.9" cy="220.2" r="4" fill="#3465a4"><title>Caledonian Club</title></circle></a><a href="/variants/s8/dy3dbi6db2ly2db11dbi2db2dy3~x2~dbi1406275-db1204274/"><circle cx="348.4" cy="280.4" r="4" fill="#3465a4"><title>Daks (Blue)</title></circle></a><a href="/variants/s8/r3db4w2db33dbi32db2r4w3~db1404245-dbi1406275/"><circle cx="355.7" cy="179.6" r="4" fill="#3465a4"><title>BABC</title></circle></a><circle cx="380.8" cy="246.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

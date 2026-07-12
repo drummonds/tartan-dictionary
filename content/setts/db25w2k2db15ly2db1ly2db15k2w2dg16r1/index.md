@@ -1,6 +1,15 @@
 ---
 title: "Quigley of Knockcroghery (Pers)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Quigley"
+  url: "/clan/quigley/"
+- name: "Quigley of Knockcroghery"
+  url: "/families/quigley-of-knockcroghery/"
+- name: "Quigley of Knockcroghery"
+  url: "/tartans/q/qu/quigley-of-knockcroghery/"
 ---
 This is the **Quigley of Knockcroghery (Pers)** sett — one scale-free proportion (`db25w2k2db15ly2db1ly2db15k2w2dg16r1`), colour order pattern
 [BWKBYBYBKWGR](/stripes/bwkbybybkwgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db25w2k2db15y2db1y2db15k2w2g16r1~x2/"><circle cx="325.1" cy="90.3" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Modern)</title></circle></a><a href="/variants/s11/b27w2b15y1b1y1b15k2w2g16r1~x2/"><circle cx="398.1" cy="102.3" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Hunting) (Personal)</title></circle></a><a href="/variants/s10/r4db60g35db4ly4db4dy12db18k3w2~ly3206085-dy1804072/"><circle cx="292.3" cy="75.6" r="4" fill="#3465a4"><title>Fogarty (Tipperary)</title></circle></a><a href="/variants/s12/w4k2w2k28dt4k2dt2r1k13r1g13r2~x2~k0504259-dt1602222/"><circle cx="285.4" cy="78.4" r="4" fill="#3465a4"><title>Niagara Region</title></circle></a><a href="/variants/s14/o2k4w1k4db18g1db18k6db3y1db2y1db2y2~x2/"><circle cx="329.7" cy="87.0" r="4" fill="#3465a4"><title>Wupper Pipes &amp; Drums (Corporate)</title></circle></a><a href="/variants/s10/w4db32k1y2k1db10y18db10k1dr2~x2/"><circle cx="353.2" cy="93.9" r="4" fill="#3465a4"><title>European Union (Fashion)</title></circle></a><a href="/variants/s11/dp8g8w3g8dp8w3db40r3k3db40w3~x2/"><circle cx="286.8" cy="108.9" r="4" fill="#3465a4"><title>World Peace</title></circle></a><a href="/variants/s10/db49ly3dy13db12r4db5k7g26db4r2~x2/"><circle cx="276.0" cy="102.8" r="4" fill="#3465a4"><title>State Seal of Arkansas (Fashion)</title></circle></a><a href="/variants/s12/r4db11lg4w3lg4ly6db3k3db4k1db30w3~x2/"><circle cx="282.3" cy="69.2" r="4" fill="#3465a4"><title>Murison, Ina</title></circle></a><a href="/variants/s14/db34g10db5r2k8dy2w3dy2k8r2db5g10db28k3~x2/"><circle cx="256.5" cy="95.5" r="4" fill="#3465a4"><title>Lambert (Front Royal) Dress</title></circle></a><circle cx="336.1" cy="92.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

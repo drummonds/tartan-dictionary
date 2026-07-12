@@ -1,6 +1,15 @@
 ---
 title: "Mulcahy"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Mulcahy"
+  url: "/clan/mulcahy/"
+- name: "Mulcahy"
+  url: "/families/mulcahy/"
+- name: "Mulcahy"
+  url: "/tartans/m/mu/mulcahy-2/"
 ---
 This is the **Mulcahy** sett — one scale-free proportion (`db66k2db10k15g15r4g15r4g30y2w4`), colour order pattern
 [BKBKGRGRGGW](/stripes/bkbkgrgrggw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db10g6dp4dr2dp4k10db6k4db28g55w4/"><circle cx="216.7" cy="85.9" r="4" fill="#3465a4"><title>1314 (Corporate)</title></circle></a><a href="/variants/s9/db33k1db5k8g8r2g15y1w2~x2/"><circle cx="247.0" cy="87.6" r="4" fill="#3465a4"><title>Mulcahy (Name)</title></circle></a><a href="/variants/s11/r2k1db30k6g12ly1db2ly1g12k3w1~x2/"><circle cx="213.9" cy="74.5" r="4" fill="#3465a4"><title>Hororata (District)</title></circle></a><a href="/variants/s11/r2k1db30k6g12y1db2y1g12k3w1~x2/"><circle cx="218.5" cy="75.9" r="4" fill="#3465a4"><title>Hororata</title></circle></a><a href="/variants/s11/g10db9dp4dr2dp4g6k10w4g24db60k4/"><circle cx="247.5" cy="78.6" r="4" fill="#3465a4"><title>Huaumé, Patrick Antoine (Personal)</title></circle></a><a href="/variants/s10/y3dg5k2dg5w1dg17db4r1db22w2~x2/"><circle cx="249.9" cy="116.5" r="4" fill="#3465a4"><title>McAvoy (Personal)</title></circle></a><a href="/variants/s10/db4w1k2db25k12t1k2g16k2r1~x2/"><circle cx="198.0" cy="89.8" r="4" fill="#3465a4"><title>Sidey Family Tartan (Name)</title></circle></a><a href="/variants/s12/db5r2y7r2db42g28k5db10k15g5w3r3/"><circle cx="181.9" cy="95.7" r="4" fill="#3465a4"><title>Héritage Séquane</title></circle></a><a href="/variants/s14/y3db2k1db24k2db2k2db2k2g8dp2g8k1w2~x2/"><circle cx="220.7" cy="72.9" r="4" fill="#3465a4"><title>Alexander-Johnstone (Personal)</title></circle></a><a href="/variants/s10/db4w1k2db25k12b1k2g16k2r1~x2/"><circle cx="198.1" cy="89.7" r="4" fill="#3465a4"><title>Sidey Family (Dundee) (Personal)</title></circle></a><circle cx="221.3" cy="80.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

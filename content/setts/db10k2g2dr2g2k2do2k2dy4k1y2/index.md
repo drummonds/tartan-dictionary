@@ -1,6 +1,15 @@
 ---
 title: "Highfield Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Highfield"
+  url: "/clan/highfield/"
+- name: "Highfield"
+  url: "/families/highfield/"
+- name: "Highfield Hunting"
+  url: "/tartans/h/hi/highfield-hunting/"
 ---
 This is the **Highfield Hunting** sett — one scale-free proportion (`db10k2g2dr2g2k2do2k2dy4k1y2`), colour order pattern
 [BKGBGKBKGKGKGKBKGBGK](/stripes/bkgbgkbkgkgkgkbkgbgk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/y4g7dp2g2dp12g2k2g1k12dbi2db12dbi2db2dbi7k2r3~x2~dbi1406275-db1106275/"><circle cx="30.8" cy="117.2" r="4" fill="#3465a4"><title>MacWatts (Personal)</title></circle></a><a href="/variants/s8/r4y3g12k16dy5db20k4w2~x2/"><circle cx="56.1" cy="136.5" r="4" fill="#3465a4"><title>Iowa</title></circle></a><a href="/variants/s14/db3k3db15k15y3dg15k3dg15w3k15dbi4r6k3y2~x2~db1204274-dbi1406275/"><circle cx="81.0" cy="142.7" r="4" fill="#3465a4"><title>Allison Family Tartan</title></circle></a><a href="/variants/s14/g12k16dy5db20k4w2k4db20dy5k16g12y3r4y3~x2/"><circle cx="56.1" cy="136.5" r="4" fill="#3465a4"><title>Iowa American District Tartan</title></circle></a><a href="/variants/s14/dg4dr2db3dr1db3lo1k2lo1k2lb2k2n11dr1k1~x4/"><circle cx="65.5" cy="113.6" r="4" fill="#3465a4"><title>Ross Anderson (Fashion) #2</title></circle></a><a href="/variants/s16/db5w1db10ki5k1ki1k2ki2k10dg5lb2ki2lb1ki2dg3k1~x2~ki0700000-lb3203246/"><circle cx="79.8" cy="134.2" r="4" fill="#3465a4"><title>Glendinning (Personal)</title></circle></a><a href="/variants/s14/db22g22w6db4y7g20db24k20r2n24k6n24r2k20~x2/"><circle cx="17.2" cy="142.8" r="4" fill="#3465a4"><title>Abel (2015)</title></circle></a><a href="/variants/s14/db4dy2db14dy4db4o1k8g13y3g13k8dy10k3dy3~x2/"><circle cx="76.9" cy="148.1" r="4" fill="#3465a4"><title>Humble, Gordon (Personal)</title></circle></a><a href="/variants/s30/g7dp2g2dp12g2k2g1k12dbi2db12dbi2db2dbi7k2r3k2dbi7db2dbi2db12dbi2k12g1k2g2dp12g2dp2g7y4~x2~dbi1406275-db1106275/"><circle cx="26.9" cy="92.5" r="4" fill="#3465a4"><title>MacWatts (Personal)</title></circle></a><a href="/variants/s16/w3dy3k3g15db3dy3db8dy3y3dy18k3dy3k4dy3k18lb3~x2/"><circle cx="56.2" cy="131.7" r="4" fill="#3465a4"><title>Innes Hunting Clan Tartan</title></circle></a><circle cx="43.1" cy="128.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

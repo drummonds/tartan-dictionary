@@ -1,6 +1,13 @@
 ---
 title: "Hebrides South Uist #2"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hebrides"
+  url: "/clan/hebrides/"
+- name: "Hebrides South Uist"
+  url: "/tartans/h/he/hebrides-south-uist/"
 ---
 This is the **Hebrides South Uist #2** sett — one scale-free proportion (`db19y2g3y2db2y20g1ly1y1g2y2db18y2g2y22g3w1y3`), colour order pattern
 [BGGGBGGYGGGBGGGGWGWGGGGBGGGYGGBGGG](/stripes/bgggbggygggbggggwgwggggbgggyggbggg/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dp5y2lr36db3dbi3y2dp4lr3t2dbi3db3dbi3~x2~lr2800000-db1204274-dbi1406275-t2503227/"><circle cx="348.9" cy="88.6" r="4" fill="#3465a4"><title>Scottish Foundation VA Highlands</title></circle></a><a href="/variants/s11/t14db4g2db2dg3db2t17db31t1db1w2~x2~db1204274-g2203152-dg1806142-w4000000/"><circle cx="397.1" cy="109.9" r="4" fill="#3465a4"><title>Schiehallion</title></circle></a><a href="/variants/s12/db8w8db4dp4db36dp4db4n26db2n26g2db5/"><circle cx="284.1" cy="139.6" r="4" fill="#3465a4"><title>Historic Scotland (1998)</title></circle></a><circle cx="348.4" cy="97.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

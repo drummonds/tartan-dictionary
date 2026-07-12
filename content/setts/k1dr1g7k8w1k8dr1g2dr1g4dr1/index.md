@@ -1,6 +1,11 @@
 ---
 title: "Episcopal Clergy (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Episcopal Clergy"
+  url: "/tartans/e/ep/episcopal-clergy/"
 ---
 This is the **Episcopal Clergy (Corporate)** sett — one scale-free proportion (`k1dr1g7k8w1k8dr1g2dr1g4dr1`), colour order pattern
 [BGBGBKWKGBK](/stripes/bgbgbkwkgbk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k20lb2k6g16dp4k9~x2~dp1105325/"><circle cx="193.4" cy="181.5" r="4" fill="#3465a4"><title>Wilson's No.167</title></circle></a><a href="/variants/s7/k36w3k10w3dg28dr6k18~x2~dg1804158/"><circle cx="206.6" cy="155.5" r="4" fill="#3465a4"><title>Wild Highlanders</title></circle></a><a href="/variants/s12/g22k4g4k21y2k4y2k21g4k2db2g22~x2/"><circle cx="224.8" cy="153.5" r="4" fill="#3465a4"><title>Hopetoun Corporate Tartan</title></circle></a><a href="/variants/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="219.3" cy="188.3" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/variants/s10/k60g64dg5g8dg5g64k60y8k8y8/"><circle cx="222.3" cy="157.7" r="4" fill="#3465a4"><title>Sin-Cos</title></circle></a><a href="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/"><circle cx="203.1" cy="171.3" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/variants/s11/r1k6g1k1g8k1g8db1g1db6r1~x4/"><circle cx="203.1" cy="171.3" r="4" fill="#3465a4"><title>Davidson - 1842 (Clan)</title></circle></a><a href="/variants/s9/k1g12k12r1k1r1k12t12r1~x4/"><circle cx="199.4" cy="157.7" r="4" fill="#3465a4"><title>Guthrie (Name)</title></circle></a><a href="/variants/s8/g4r4k12w2k12g32r4k3~x2/"><circle cx="230.9" cy="145.1" r="4" fill="#3465a4"><title>MacHardy (Clans Originaux)</title></circle></a><a href="/variants/s11/g13k2g2k11y1k2y1k11g2b1g11~x4/"><circle cx="236.0" cy="152.5" r="4" fill="#3465a4"><title>Hopetoun</title></circle></a><circle cx="198.8" cy="170.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

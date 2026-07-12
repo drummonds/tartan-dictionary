@@ -1,6 +1,15 @@
 ---
 title: "Selkirk (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Selkirk"
+  url: "/clan/selkirk/"
+- name: "Selkirk"
+  url: "/families/selkirk/"
+- name: "Selkirk"
+  url: "/tartans/s/se/selkirk-2/"
 ---
 This is the **Selkirk (Personal)** sett — one scale-free proportion (`dp27db4k27g27lo4`), colour order pattern
 [BBKGY](/stripes/bbkgy/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dp11y2k10g10lo2~x2/"><circle cx="85.8" cy="236.3" r="4" fill="#3465a4"><title>Selkirk (Name)</title></circle></a><a href="/variants/s5/dp11lb2k10g10y2~x2/"><circle cx="84.9" cy="236.4" r="4" fill="#3465a4"><title>Wilson's, No 217</title></circle></a><a href="/variants/s5/dp11lb2k10g10y3~x2/"><circle cx="73.4" cy="223.9" r="4" fill="#3465a4"><title>Wilson's No.217</title></circle></a><a href="/variants/s5/dp11y2k10g10lo2~x2~dp1607327/"><circle cx="82.6" cy="219.3" r="4" fill="#3465a4"><title>Selkirk (Personal) Original</title></circle></a><a href="/variants/s5/dp11t2k10g10y3~x2~dp1607327-t2503227/"><circle cx="76.4" cy="241.7" r="4" fill="#3465a4"><title>Nobiliary Fraternity</title></circle></a><a href="/variants/s5/k4lb3g12dp13y2~x2/"><circle cx="137.5" cy="221.2" r="4" fill="#3465a4"><title>Wilson's, No 176</title></circle></a><a href="/variants/s5/k4lb3g13dp12w2~x2/"><circle cx="134.4" cy="224.6" r="4" fill="#3465a4"><title>Wilson's No 148</title></circle></a><a href="/variants/s6/db6g27db3k19dp27w3~x2/"><circle cx="114.3" cy="198.3" r="4" fill="#3465a4"><title>Gold Brothers</title></circle></a><a href="/variants/s6/r4g11k11g2db11dg3~x4/"><circle cx="73.4" cy="233.8" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/variants/s6/r7db20r4k18g20dp5~x2/"><circle cx="52.1" cy="234.2" r="4" fill="#3465a4"><title>Williamson (Personal)</title></circle></a><circle cx="98.7" cy="224.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

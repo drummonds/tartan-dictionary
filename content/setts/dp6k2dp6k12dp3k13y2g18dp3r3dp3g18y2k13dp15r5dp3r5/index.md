@@ -1,6 +1,15 @@
 ---
 title: "Graham of Airth"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Graham"
+  url: "/clan/graham/"
+- name: "Graham of Airth"
+  url: "/families/graham-of-airth/"
+- name: "Graham of Airth"
+  url: "/tartans/g/gr/graham-of-airth/"
 ---
 This is the **Graham of Airth** sett — one scale-free proportion (`dp6k2dp6k12dp3k13y2g18dp3r3dp3g18y2k13dp15r5dp3r5`), colour order pattern
 [BKBKBKGGBRBGGKBRBR](/stripes/bkbkbkggbrbggkbrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/dt11k4dt4w2dt4k4dt11r26k4w3k4w2k14g10dt16g6~x2/"><circle cx="108.0" cy="131.2" r="4" fill="#3465a4"><title>Stuart-Houghton (Personal)</title></circle></a><a href="/variants/s19/dg8k1dg1k1dg1k4o10w2o10k3dg3k6dg3k6dg3k3o10w3r4~x2/"><circle cx="96.1" cy="143.3" r="4" fill="#3465a4"><title>Pride of Loch Leven (Fashion?)</title></circle></a><a href="/variants/s13/dp11k1dr1k1dr1k7g8k1g8k7dp8k1r1~x4/"><circle cx="130.0" cy="146.0" r="4" fill="#3465a4"><title>Red Hackle (Military)</title></circle></a><a href="/variants/s14/db21k2db2k12y3k12g2k2g21k2r8k6r8k2~x2/"><circle cx="110.2" cy="136.1" r="4" fill="#3465a4"><title>Deas</title></circle></a><a href="/variants/s14/g21k2r8k6r8k2db21k2db2k12y3k12g2k2~x2/"><circle cx="110.2" cy="136.1" r="4" fill="#3465a4"><title>Deas Clan Tartan</title></circle></a><a href="/variants/s22/k15lr2g14dr2g14lr2k15lr3db3lr19db2dr2db2lr18db3lr3k15db10k2db2k2db10~x2/"><circle cx="65.9" cy="127.2" r="4" fill="#3465a4"><title>Colquhoun Dress</title></circle></a><a href="/variants/s14/k3db5r5k3db5k3r5k3g20k3db10k3r5w3~x2/"><circle cx="47.1" cy="161.6" r="4" fill="#3465a4"><title>Schneidersohne Centenary (Corporate)</title></circle></a><a href="/variants/s12/w2k1dg8r2dg8k6db10r4k2r2k1w2~x2/"><circle cx="84.4" cy="157.0" r="4" fill="#3465a4"><title>Hargis (Name)</title></circle></a><a href="/variants/s11/db10k2g2r2g2k2r2k2r4k1g2~x4/"><circle cx="93.4" cy="149.0" r="4" fill="#3465a4"><title>Highfield</title></circle></a><a href="/variants/s13/db3r1db1r2db6r1k6g6r2g1r1g2y1~x6/"><circle cx="70.9" cy="175.1" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><circle cx="84.2" cy="149.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

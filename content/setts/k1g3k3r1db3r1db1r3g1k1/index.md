@@ -1,6 +1,15 @@
 ---
 title: "MacInroy"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacInroy"
+  url: "/clan/macinroy/"
+- name: "MacInroy"
+  url: "/families/macinroy/"
+- name: "MacInroy"
+  url: "/tartans/m/ma/macinroy-2/"
 ---
 This is the **MacInroy** sett — one scale-free proportion (`k1g3k3r1db3r1db1r3g1k1`), colour order pattern
 [KGKRBRBRGK](/stripes/kgkrbrbrgk/). It is recorded as **2 variants** — the same
@@ -23,6 +32,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x4/"><circle cx="38.4" cy="242.5" r="4" fill="#3465a4"><title>MacInroy</title></circle></a><a href="/variants/s10/k1g3k3r1dp3r1dp1r3g1k1~x4/"><circle cx="43.5" cy="241.0" r="4" fill="#3465a4"><title>MacInroy Clan Tartan</title></circle></a><a href="/variants/s5/db13k4y4k4r13~x4/"><circle cx="78.5" cy="238.2" r="4" fill="#3465a4"><title>Clark, Red</title></circle></a><a href="/variants/s11/r10k10r4g2r2k2r4g12db12g3db4~x2/"><circle cx="86.7" cy="202.4" r="4" fill="#3465a4"><title>Hueg (Personal)</title></circle></a><a href="/variants/s10/db7r3db9r2k10g9r3g2r2g7~x2/"><circle cx="86.3" cy="226.4" r="4" fill="#3465a4"><title>Cameron (altered by weaver)</title></circle></a><a href="/variants/s12/db8r2db2r4db10r2k11g10r4g2r2g8~x2/"><circle cx="83.9" cy="208.2" r="4" fill="#3465a4"><title>MacDonald #6</title></circle></a><a href="/variants/s8/lr10k3lr3k3lr3k11dy11o3~x2~o2005023/"><circle cx="95.8" cy="229.5" r="4" fill="#3465a4"><title>Holden Monaro Corporate Tartan</title></circle></a><a href="/variants/s9/y8g16k6g6k6g6k16r21k5/"><circle cx="88.9" cy="231.3" r="4" fill="#3465a4"><title>Martin</title></circle></a><a href="/variants/s12/db2r4k7r8g10k4y2k8db4r4db14r2~x2/"><circle cx="60.1" cy="184.4" r="4" fill="#3465a4"><title>Unidentified pattern</title></circle></a><a href="/variants/s12/r2db5k5g5lr2g5k5lr2k2lr4k2lr2~x2/"><circle cx="14.0" cy="246.6" r="4" fill="#3465a4"><title>Valley Forge Pipe Band</title></circle></a><circle cx="38.4" cy="242.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

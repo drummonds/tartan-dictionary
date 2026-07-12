@@ -1,6 +1,11 @@
 ---
 title: "Pride of Fife"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Pride of Fife"
+  url: "/tartans/p/pr/pride-of-fife/"
 ---
 This is the **Pride of Fife** sett — one scale-free proportion (`db2w2dp16lg2dp2r5db37dp6lg2db2`), colour order pattern
 [BWBYBRBBYB](/stripes/bwbybrbbyb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y2dbi3r3dbi28db3dbi3db12r3w2~x2~dbi1406275-db1004274/"><circle cx="374.0" cy="160.0" r="4" fill="#3465a4"><title>Royal Scottish Corporation</title></circle></a><a href="/variants/s8/w3dp2ly2dp38db28o2db2r2~x2/"><circle cx="345.2" cy="128.5" r="4" fill="#3465a4"><title>Gretna Gold (Fashion)</title></circle></a><a href="/variants/s12/dbi40r2dbi7db5o2db3w2db10n6dbi2n4w2~x2~dbi1604274-db0805267/"><circle cx="351.9" cy="110.3" r="4" fill="#3465a4"><title>Plymouth/Armada 400, Armada</title></circle></a><a href="/variants/s11/w4dp40g2dp2g2dp2g2dp3g16db15m3~x2/"><circle cx="300.3" cy="117.5" r="4" fill="#3465a4"><title>Solway Spirit (District)</title></circle></a><a href="/variants/s8/db6w2b2w3db24r1dbi35r2~x2~db0805267-dbi1604274/"><circle cx="322.8" cy="119.3" r="4" fill="#3465a4"><title>Raith Rovers F.C.</title></circle></a><a href="/variants/s10/db18g1dy3g1lr1db1dr2g2dr2lr2~x4/"><circle cx="355.0" cy="133.6" r="4" fill="#3465a4"><title>Anthony Plaid Blue</title></circle></a><a href="/variants/s12/db46r3db7do2y2do2w2do11o6db2o3w2~x2/"><circle cx="365.8" cy="84.6" r="4" fill="#3465a4"><title>Lady Diana, Plaid</title></circle></a><a href="/variants/s9/r1db2n1dt3n19db3lo1db2lo1~x4~db1007262-n1703284-dt1103265/"><circle cx="429.6" cy="144.0" r="4" fill="#3465a4"><title>Pagus Wasia District Tartan</title></circle></a><a href="/variants/s12/db54y9db16y2dp3w3dp3r27db13y3g5w2/"><circle cx="321.1" cy="90.5" r="4" fill="#3465a4"><title>Queens University of Ontario Corporate Tartan</title></circle></a><a href="/variants/s8/dy2db2w1dbi6w1y2db17y1~x2~db0705267-dbi1106275/"><circle cx="354.4" cy="151.4" r="4" fill="#3465a4"><title>East Tennessee State University</title></circle></a><circle cx="347.6" cy="129.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

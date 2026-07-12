@@ -1,6 +1,15 @@
 ---
 title: "Anderson Blue (Westwood)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Anderson"
+  url: "/clan/anderson/"
+- name: "Anderson"
+  url: "/families/anderson/"
+- name: "Anderson"
+  url: "/tartans/a/an/anderson-2/"
 ---
 This is the **Anderson Blue (Westwood)** sett — one scale-free proportion (`dr4t5dr2t7dr10k4lo2k2lo2k4lb4k4t18dr1k2dr1t4dr3`), colour order pattern
 [BBBBBKYKYKWKBBKBBB](/stripes/bbbbbkykykwkbbkbbb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/db36g10r2g10w2g10r2g10k14r2db12r3db2r2db4w2~x2/"><circle cx="184.6" cy="102.8" r="4" fill="#3465a4"><title>Rankin</title></circle></a><a href="/variants/s16/dr4k1db8k1ly3k2db4ly6db4w3k2db20k4dr21k1ly3~x2/"><circle cx="177.6" cy="95.4" r="4" fill="#3465a4"><title>Westmeath County Crest (Fashion)</title></circle></a><a href="/variants/s15/g16r2g2r1g3r1g2r2g12k12r1db16r2db8y2~x2/"><circle cx="168.9" cy="117.9" r="4" fill="#3465a4"><title>Cochrane Clan Tartan</title></circle></a><a href="/variants/s15/g16r2g2r1g3r1g2r2g12k12r1db16r2db8y2/"><circle cx="168.9" cy="117.9" r="4" fill="#3465a4"><title>Cochrane</title></circle></a><a href="/variants/s17/b15k2b2ly2b2k10g10k1g2r2g2k1g10k10b10k1r2~x2/"><circle cx="116.9" cy="119.3" r="4" fill="#3465a4"><title>Murray, Tony (Personal)</title></circle></a><a href="/variants/s14/k2g2r3db18r2g6r4lb1db6r3g18r3k2g2~x2/"><circle cx="176.6" cy="113.4" r="4" fill="#3465a4"><title>Glen Orchy #2 or MacIntyre</title></circle></a><a href="/variants/s15/n32k4n5k4n32k2w2lo12k16w8k4r5k4w8k16~x2/"><circle cx="158.3" cy="109.3" r="4" fill="#3465a4"><title>Unidentified Fashion</title></circle></a><a href="/variants/s21/ly2db8r3db16r1k16g16r3g1r1g8r1g1r3g16k16r1db16r3db8ly1~x4/"><circle cx="114.9" cy="107.8" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/variants/s21/r10db6r3db3r3db28k22g28r2k2ly4k2r2g28k22db28r3db3r3db6r5~x2/"><circle cx="115.2" cy="105.0" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/variants/s15/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6~x2~r2109032-w3600000/"><circle cx="177.8" cy="96.8" r="4" fill="#3465a4"><title>Oromocto</title></circle></a><circle cx="165.4" cy="114.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

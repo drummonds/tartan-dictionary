@@ -1,6 +1,11 @@
 ---
 title: "American Heritage"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "American Heritage"
+  url: "/tartans/a/am/american-heritage/"
 ---
 This is the **American Heritage** sett — one scale-free proportion (`w5k2db14k4dr8k4db4k80dr6k4dr4`), colour order pattern
 [BKBKBKBKBKW](/stripes/bkbkbkbkbkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k24db2k3dp1k1dp2k1dg5dr2k1dr2w1~x4/"><circle cx="367.6" cy="62.1" r="4" fill="#3465a4"><title>Braveheart Warrior (Universal)</title></circle></a><a href="/variants/s12/k96db8k12dp3k3dp3k3g20r8k3r4w4/"><circle cx="359.4" cy="28.9" r="4" fill="#3465a4"><title>Watt (Corporate/Name)</title></circle></a><a href="/variants/s10/k62dr23k1ly5k1dr3k1ly2k1dr8~x2/"><circle cx="417.3" cy="74.1" r="4" fill="#3465a4"><title>Burke (Name)</title></circle></a><a href="/variants/s9/dp3n2o2k60n2k3n12k1o3~x2~n1900000-o2500000/"><circle cx="460.5" cy="55.1" r="4" fill="#3465a4"><title>Grassi (Personal)</title></circle></a><a href="/variants/s10/k40y1k1r9k1y1k6y1k1r9~x2/"><circle cx="432.2" cy="69.6" r="4" fill="#3465a4"><title>Miyuki, Check Ecru Beige, No 1001A</title></circle></a><a href="/variants/s11/r5k1w3k6n5k2y3k45n4k2y3~x2/"><circle cx="387.7" cy="36.1" r="4" fill="#3465a4"><title>Williams Dress (Carolinas) (Personal)</title></circle></a><a href="/variants/s11/r5k1w3k6n5k2ly3k45n4k2ly3~x2/"><circle cx="381.3" cy="34.9" r="4" fill="#3465a4"><title>Williams Dress (Personal)</title></circle></a><a href="/variants/s9/dp3k40ly3dp6k10dp10k3ly1r3~x2/"><circle cx="404.4" cy="88.9" r="4" fill="#3465a4"><title>Midnight Glen (Fashion)</title></circle></a><a href="/variants/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/"><circle cx="419.2" cy="83.2" r="4" fill="#3465a4"><title>Knights Templar Dress (Corporate)</title></circle></a><a href="/variants/s9/k5ly1dg7dr1k45dr5ly3k4ly3~x2/"><circle cx="441.1" cy="69.5" r="4" fill="#3465a4"><title>Brooks Brothers Signature (Corporate</title></circle></a><circle cx="431.1" cy="63.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

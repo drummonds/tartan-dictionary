@@ -1,6 +1,11 @@
 ---
 title: "Heolnezva ha Materi (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Heolnezva ha Materi"
+  url: "/tartans/h/he/heolnezva-ha-materi/"
 ---
 This is the **Heolnezva ha Materi (Fashion)** sett — one scale-free proportion (`k80w1k6w2k5w3k4w4k3w5k2w6k1`), colour order pattern
 [KWKWKWKWKWKWK](/stripes/kwkwkwkwkwkwk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k31w2k4w1k1w1k1w1k1w1k3w3~x4/"><circle cx="475.3" cy="53.5" r="4" fill="#3465a4"><title>Scott (Black and White)</title></circle></a><a href="/variants/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/"><circle cx="434.9" cy="111.3" r="4" fill="#3465a4"><title>Stewart Mourning Clan Tartan</title></circle></a><a href="/variants/s11/k36w4k6w1k1w1k1w8k4w1k6~x2/"><circle cx="473.9" cy="84.5" r="4" fill="#3465a4"><title>Royal Stewart B &amp; W (Universal?)</title></circle></a><a href="/variants/s8/k198lr9k17lb13lr9k4lr13k4/"><circle cx="534.0" cy="59.3" r="4" fill="#3465a4"><title>London Fog Black (Fashion)</title></circle></a><a href="/variants/s14/k70n2k3n12k1o3k1n12k3n2k60o2n2dp3~x2~n1700000-o2500000/"><circle cx="509.0" cy="45.6" r="4" fill="#3465a4"><title>Grassi (2009)</title></circle></a><a href="/variants/s7/k75lb6k5lb18k2lb2k3~x2/"><circle cx="481.6" cy="101.9" r="4" fill="#3465a4"><title>Bargain Booze</title></circle></a><a href="/variants/s8/k38y1w7y1k4y2k3y2~x2/"><circle cx="466.1" cy="82.0" r="4" fill="#3465a4"><title>Erck, Georges van (Personal),</title></circle></a><circle cx="534.0" cy="42.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

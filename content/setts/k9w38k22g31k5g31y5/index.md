@@ -1,6 +1,11 @@
 ---
 title: "Lawsons' Whisky"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Lawsons' Whisky"
+  url: "/tartans/l/la/lawsons-whisky/"
 ---
 This is the **Lawsons' Whisky** sett — one scale-free proportion (`k9w38k22g31k5g31y5`), colour order pattern
 [GGKGKWK](/stripes/ggkgkwk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k4w19k11dg15k3dg16y3~x2/"><circle cx="132.6" cy="219.8" r="4" fill="#3465a4"><title>Lawson, William 2002</title></circle></a><a href="/variants/s7/y5k5g17k6n24k6y3~x2/"><circle cx="150.4" cy="210.1" r="4" fill="#3465a4"><title>Cape Breton District Tartan</title></circle></a><a href="/variants/s7/k8g8k1g8k8lb8w2~x2/"><circle cx="115.2" cy="231.7" r="4" fill="#3465a4"><title>Unidentified No 31</title></circle></a><a href="/variants/s7/k8g8k1g8k8b8w2~x2/"><circle cx="121.2" cy="233.6" r="4" fill="#3465a4"><title>Unnamed, No 31</title></circle></a><a href="/variants/s7/g6r2g13k6w2k16r3~x2/"><circle cx="178.1" cy="197.2" r="4" fill="#3465a4"><title>Sinclair Hunting</title></circle></a><a href="/variants/s6/k2g13k11lb4w9k2~x2/"><circle cx="95.0" cy="221.4" r="4" fill="#3465a4"><title>Loch Leven, Check</title></circle></a><a href="/variants/s6/k4g14k14g2w14t3~x2/"><circle cx="103.1" cy="222.3" r="4" fill="#3465a4"><title>MacKay, Dress (Corporate)</title></circle></a><a href="/variants/s7/k22g21k5g12lb12n3w4~x2/"><circle cx="115.8" cy="202.7" r="4" fill="#3465a4"><title>Disciples of Christ Motorcycle Ministry (Switzerland)</title></circle></a><a href="/variants/s6/k4g23k23g2w23t4~x2/"><circle cx="123.5" cy="194.5" r="4" fill="#3465a4"><title>MacKay Dress</title></circle></a><a href="/variants/s7/g8k2w1g4k6db6k1~x2/"><circle cx="153.2" cy="216.1" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><circle cx="138.6" cy="215.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Shandon (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Shandon"
+  url: "/clan/shandon/"
+- name: "Shandon"
+  url: "/families/shandon/"
+- name: "Shandon"
+  url: "/tartans/s/sh/shandon-2/"
 ---
 This is the **Shandon (Personal)** sett — one scale-free proportion (`k20g18k2y2k5w2k2g18k20dp18t4dp4t4dp18`), colour order pattern
 [BBBBBKGKWKGKGK](/stripes/bbbbbkgkwkgkgk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/dp47k6r6k6dp6k19g19k6g19y6g19k6g19k19dp6k6w6k6~x2/"><circle cx="70.9" cy="132.5" r="4" fill="#3465a4"><title>Unidentified fragment</title></circle></a><a href="/variants/s16/g4k8lo1k1db4lb1db1lb2db1lb1db4k1lo1k8g4dp2~x8/"><circle cx="89.2" cy="133.5" r="4" fill="#3465a4"><title>Scottish Cultural Society</title></circle></a><a href="/variants/s11/r2k8y2k7y1k1w3k2g9db8r2~x2/"><circle cx="77.9" cy="148.8" r="4" fill="#3465a4"><title>Hislop Hunting (Name)</title></circle></a><a href="/variants/s14/k12g12k1r1k1g12k1y3k1g12k12dbi12db3dbi12~x4~dbi1406275-db1204274/"><circle cx="108.2" cy="135.1" r="4" fill="#3465a4"><title>Gow Hunting Family Tartan</title></circle></a><a href="/variants/s14/db6r3db11dy2db3dy2db3k10w1k10g9r2g4r6~x2/"><circle cx="64.7" cy="148.7" r="4" fill="#3465a4"><title>Redgate in Connecticut (Ulster-Scots)</title></circle></a><a href="/variants/s11/db6k2t2db8k18lo2dg20db8t3k10lb6~x2~t1903246-dg1806142/"><circle cx="94.5" cy="155.5" r="4" fill="#3465a4"><title>Veere (District)</title></circle></a><a href="/variants/s14/db18k5g3r3g6k2y2k2g6r3g3k10db5k10/"><circle cx="113.3" cy="158.0" r="4" fill="#3465a4"><title>MacClellan Clan Tartan</title></circle></a><a href="/variants/s14/k1y1k1g6k6db6r1db1r1db6k6g6k1lb1~x4/"><circle cx="71.9" cy="159.6" r="4" fill="#3465a4"><title>Malcolm Clan Tartan</title></circle></a><a href="/variants/s14/db1r1db6k6g6k1y1k1lb1k1g6k6db6r1~x2/"><circle cx="71.9" cy="159.6" r="4" fill="#3465a4"><title>Malcolm (a)</title></circle></a><a href="/variants/s14/db1r1db6k6g6k1y1k1w1k1g6k6db6r1/"><circle cx="69.0" cy="158.7" r="4" fill="#3465a4"><title>Malcolm</title></circle></a><circle cx="97.0" cy="137.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

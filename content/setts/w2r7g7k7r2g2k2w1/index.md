@@ -1,6 +1,11 @@
 ---
 title: "Al Suwaidi of Abu Dhabi (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Al Suwaidi of Abu Dhabi"
+  url: "/tartans/a/al/al-suwaidi-of-abu-dhabi/"
 ---
 This is the **Al Suwaidi of Abu Dhabi (Personal)** sett — one scale-free proportion (`w2r7g7k7r2g2k2w1`), colour order pattern
 [WKGRKGRW](/stripes/wkgrkgrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g12k2r12k3w7k16w7k3w6~x2/"><circle cx="84.1" cy="198.8" r="4" fill="#3465a4"><title>Borthwick Dress</title></circle></a><a href="/variants/s11/dy6o2dy2o4dy13k12lo13o4lo2o2lo6~x2/"><circle cx="98.3" cy="193.1" r="4" fill="#3465a4"><title>Glenmorangie (Corporate)</title></circle></a><a href="/variants/s8/g1r9g3k3g3r1k9w1~x2/"><circle cx="155.9" cy="174.8" r="4" fill="#3465a4"><title>Manson Family Tartan</title></circle></a><a href="/variants/s9/g12k2r12k3n12k16n12k3r6~x2/"><circle cx="93.1" cy="210.7" r="4" fill="#3465a4"><title>Borthwick Hunting</title></circle></a><a href="/variants/s8/dg8o2dg12k6dg3db6o24k4~x2~dg1806142-o2208036/"><circle cx="191.6" cy="177.8" r="4" fill="#3465a4"><title>Dickie</title></circle></a><a href="/variants/s8/w13k3w3k3w3k15dy18r3~x2/"><circle cx="107.5" cy="196.6" r="4" fill="#3465a4"><title>Holden Brown (Corporate)</title></circle></a><a href="/variants/s7/dy3y18lo12k18lo2k2lo3~x2/"><circle cx="142.0" cy="189.3" r="4" fill="#3465a4"><title>Kinloch Anderson Check (Fashion)</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/"><circle cx="105.6" cy="196.4" r="4" fill="#3465a4"><title>Aberlour</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2/"><circle cx="105.1" cy="196.9" r="4" fill="#3465a4"><title>Aberlour (Corporate)</title></circle></a><a href="/variants/s8/k4y2k13y1w8o13y2o4~x2/"><circle cx="136.7" cy="168.2" r="4" fill="#3465a4"><title>Bannockbane, Light Tan</title></circle></a><circle cx="86.3" cy="203.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

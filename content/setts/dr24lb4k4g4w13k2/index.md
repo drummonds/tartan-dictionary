@@ -1,6 +1,15 @@
 ---
 title: "Rose White Dress"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Rose"
+  url: "/clan/rose/"
+- name: "Rose"
+  url: "/families/rose/"
+- name: "Rose White Dress"
+  url: "/tartans/r/ro/rose-white-dress/"
 ---
 This is the **Rose White Dress** sett — one scale-free proportion (`dr24lb4k4g4w13k2`), colour order pattern
 [BWKGWK](/stripes/bwkgwk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r32db6k6g6w18k3/"><circle cx="160.8" cy="161.4" r="4" fill="#3465a4"><title>Rose Dress White Dress Clan Tartan</title></circle></a><a href="/variants/s6/r4lb28k6w12k12y3~x2/"><circle cx="136.7" cy="179.9" r="4" fill="#3465a4"><title>MacTavish Dress Family Tartan</title></circle></a><a href="/variants/s6/dr4t28k6lb12k12lo3~x2~t2503227-lb3200000/"><circle cx="149.9" cy="187.1" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><a href="/variants/s6/r1t10k2w4k4y1~x6/"><circle cx="156.8" cy="175.7" r="4" fill="#3465a4"><title>Thomson Dress (Blue)</title></circle></a><a href="/variants/s6/w6k29o29dp7k3r3~x2~o2500000/"><circle cx="154.9" cy="166.4" r="4" fill="#3465a4"><title>Jewell of Kernow (Personal)</title></circle></a><a href="/variants/s6/w6k29n29dp7k3r3~x2/"><circle cx="163.4" cy="169.0" r="4" fill="#3465a4"><title>Jewell of Kernow (Personal)</title></circle></a><a href="/variants/s7/dr36w3lo4g24w24k3lo6~x2/"><circle cx="134.4" cy="167.9" r="4" fill="#3465a4"><title>MacLachlan Dress</title></circle></a><a href="/variants/s7/r24w2y3g16k16w2y3~x2/"><circle cx="130.3" cy="157.3" r="4" fill="#3465a4"><title>MacLachlan Old Clan Tartan</title></circle></a><a href="/variants/s7/r24w2y3g16k16w2y3/"><circle cx="130.3" cy="157.3" r="4" fill="#3465a4"><title>MacLachlan W</title></circle></a><a href="/variants/s6/k2r20k8g18r3w2~x2/"><circle cx="190.1" cy="183.6" r="4" fill="#3465a4"><title>Celtic Combat</title></circle></a><circle cx="176.9" cy="158.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

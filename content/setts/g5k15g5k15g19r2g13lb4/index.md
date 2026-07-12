@@ -1,6 +1,11 @@
 ---
 title: "Strath Hallidale (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Strath Hallidale"
+  url: "/tartans/s/st/strath-hallidale/"
 ---
 This is the **Strath Hallidale (Fashion)** sett — one scale-free proportion (`g5k15g5k15g19r2g13lb4`), colour order pattern
 [GKGKGRGW](/stripes/gkgkgrgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1g15k8g1k8g1~x2/"><circle cx="280.1" cy="183.9" r="4" fill="#3465a4"><title>Gunn VS</title></circle></a><a href="/variants/s6/r1g15k8g1k8g1~x4/"><circle cx="280.1" cy="183.9" r="4" fill="#3465a4"><title>Gunn VS</title></circle></a><a href="/variants/s8/y1g1r1g6k6g6w1g1~x4/"><circle cx="230.6" cy="186.6" r="4" fill="#3465a4"><title>Vermont</title></circle></a><a href="/variants/s9/w2dg12k3dg3k16dg3k3dg12ly2~x2/"><circle cx="254.6" cy="188.6" r="4" fill="#3465a4"><title>MacIver Hunting</title></circle></a><a href="/variants/s9/y3g27k5g5k32g5k5g27w3~x2/"><circle cx="261.1" cy="166.4" r="4" fill="#3465a4"><title>MacIver hunting</title></circle></a><a href="/variants/s7/k5g2k5g2db8g25w4~x2/"><circle cx="252.9" cy="165.1" r="4" fill="#3465a4"><title>Keppoch</title></circle></a><a href="/variants/s6/r2g12k12g1k12g2~x2/"><circle cx="292.4" cy="201.5" r="4" fill="#3465a4"><title>Gunn (Logan)</title></circle></a><a href="/variants/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="219.3" cy="188.3" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/variants/s6/g18y2g18k4g2k15~x2/"><circle cx="314.0" cy="219.9" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/variants/s6/g18ly2g18k4g2k15~x2/"><circle cx="311.1" cy="219.1" r="4" fill="#3465a4"><title>MacArthur (Highland Society)</title></circle></a><circle cx="218.3" cy="204.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,9 @@
 ---
 title: "Clan Drummond"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 **Territory:** Glen Artney / Strathearn · **1745 strength:** 300 men
 

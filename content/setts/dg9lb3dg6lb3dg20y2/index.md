@@ -1,6 +1,11 @@
 ---
 title: "Oman, Sultanate of.."
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Oman, Sultanate of.."
+  url: "/tartans/o/om/oman-sultanate-of/"
 ---
 This is the **Oman, Sultanate of..** sett — one scale-free proportion (`dg9lb3dg6lb3dg20y2`), colour order pattern
 [GGWGWG](/stripes/ggwgwg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dy21g28db24g72w16g20/"><circle cx="333.3" cy="282.5" r="4" fill="#3465a4"><title>Meath County, Crest Range</title></circle></a><a href="/variants/s6/dt40dy10dt8r20dt100w5/"><circle cx="550.3" cy="178.4" r="4" fill="#3465a4"><title>East of Scotland Tartan Army</title></circle></a><a href="/variants/s6/g30db8g5lb4g5r1~x4/"><circle cx="500.3" cy="168.0" r="4" fill="#3465a4"><title>Annapolis Valley</title></circle></a><a href="/variants/s6/g23r3g7r3g23dp7~x2/"><circle cx="506.6" cy="255.6" r="4" fill="#3465a4"><title>Highland Spring (1997)</title></circle></a><a href="/variants/s7/r3g22db16g14r2g6y1~x2/"><circle cx="396.8" cy="189.6" r="4" fill="#3465a4"><title>Scottish Scouts Corporate Tartan</title></circle></a><a href="/variants/s6/g4db36lg6g16db16g3~x2~db1204274/"><circle cx="403.2" cy="234.9" r="4" fill="#3465a4"><title>City of Kincardine</title></circle></a><a href="/variants/s6/g4db36lg6g16db16g3~x2/"><circle cx="400.5" cy="236.3" r="4" fill="#3465a4"><title>City of Kincardine (District)</title></circle></a><a href="/variants/s6/dg30dr2dg8dr1dg5w2/"><circle cx="626.0" cy="183.2" r="4" fill="#3465a4"><title>Dewi Sant</title></circle></a><a href="/variants/s5/lb9dt3lb1dt12y1~x4/"><circle cx="366.7" cy="237.0" r="4" fill="#3465a4"><title>North Sea Commission</title></circle></a><a href="/variants/s7/dr3g22db16g14dr2g6lo2~x2/"><circle cx="387.2" cy="233.5" r="4" fill="#3465a4"><title>Scottish Scouts (1957) (Corporate)</title></circle></a><circle cx="523.0" cy="238.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

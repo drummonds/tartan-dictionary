@@ -1,6 +1,11 @@
 ---
 title: "Irn Bru"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Irn Bru"
+  url: "/tartans/i/ir/irn-bru/"
 ---
 This is the **Irn Bru** sett — one scale-free proportion (`b98db32k3w6db4w4db6b4`), colour order pattern
 [BBKWBWBB](/stripes/bbkwbwbb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/t136db45w7db4r4db16/"><circle cx="462.3" cy="152.0" r="4" fill="#3465a4"><title>S.C.O.T.S</title></circle></a><a href="/variants/s6/dbi55db18w3db2r2db6~x2~dbi1604274-db0805267/"><circle cx="477.2" cy="161.5" r="4" fill="#3465a4"><title>S.C.O.T.S.</title></circle></a><a href="/variants/s7/t62db22w3db2w2db3r1~x2/"><circle cx="474.8" cy="119.3" r="4" fill="#3465a4"><title>North Tyneside (Corporate)</title></circle></a><a href="/variants/s7/t62db22w3db2w2db3r1~x2~db1204274-w3600000/"><circle cx="481.0" cy="120.3" r="4" fill="#3465a4"><title>North Tyneside Pipe Band</title></circle></a><a href="/variants/s7/db64r8db1w8db4b15w4~x2/"><circle cx="423.8" cy="107.0" r="4" fill="#3465a4"><title>North Carolina</title></circle></a><a href="/variants/s6/k1y2k3n12k18w1~x2~k0704259-n1902277/"><circle cx="359.5" cy="163.8" r="4" fill="#3465a4"><title>Jon's Theme</title></circle></a><a href="/variants/s8/dbi2w2dbi43t5db4k8db2w2~x2~dbi1404245-db1204274/"><circle cx="380.0" cy="107.3" r="4" fill="#3465a4"><title>Fife Flyers</title></circle></a><a href="/variants/s8/db1r1db10t1db1t5db1w1~x6/"><circle cx="368.7" cy="183.9" r="4" fill="#3465a4"><title>A2 (Personal)</title></circle></a><a href="/variants/s9/db5r3db21b5db5b40k2b2w1~x2/"><circle cx="391.4" cy="106.1" r="4" fill="#3465a4"><title>MacNeill</title></circle></a><a href="/variants/s7/db2b2r1b16w1db20r2~x2/"><circle cx="373.0" cy="173.2" r="4" fill="#3465a4"><title>British American School (Corporate)</title></circle></a><circle cx="434.8" cy="110.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

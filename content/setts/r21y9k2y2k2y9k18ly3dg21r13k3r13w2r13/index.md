@@ -1,6 +1,11 @@
 ---
 title: "Wilson's No.155"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Wilson's No.155"
+  url: "/tartans/w/wi/wilson-s-no-155/"
 ---
 This is the **Wilson's No.155** sett — one scale-free proportion (`r21y9k2y2k2y9k18ly3dg21r13k3r13w2r13`), colour order pattern
 [GKGKGKYGRKRWRWRKRGYKGKGKGR](/stripes/gkgkgkygrkrwrwrkrgykgkgkgr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r8w2r8n15y1k15n8k1g1k1n8r8w2k2r3~x2/"><circle cx="116.3" cy="80.4" r="4" fill="#3465a4"><title>Unidentified Scarlett #14</title></circle></a><a href="/variants/s24/dr2r1dg1r1g1r1k2r2dr2r1dg2g1y1g1y1g1y1dr2k8r1g1r1k3r1~x10~dg1504144-g2408144/"><circle cx="52.8" cy="111.9" r="4" fill="#3465a4"><title>McNair (2016)</title></circle></a><a href="/variants/s28/k5w4r19lb12k2lb2k2lb12k20ly3g26r19lb5r20lb5r19g26ly3k20lb12k2lb2k2lb12r19w4k5r5~x2~w4000000-ly3307090/"><circle cx="60.9" cy="92.4" r="4" fill="#3465a4"><title>Wilson's No.043</title></circle></a><a href="/variants/s14/r25w4k4g25lo3k15t13r5t5r15g4r5k2g3~x2~r2109032-w3600000-t2503227/"><circle cx="66.4" cy="99.5" r="4" fill="#3465a4"><title>Wilson's No.226</title></circle></a><a href="/variants/s20/g5k5g5r12g3k15g3k2w1k2lb7k2y10k2lb7k2w1k3r15k3~x2/"><circle cx="64.5" cy="96.3" r="4" fill="#3465a4"><title>Jones, Melnyk (Personal)</title></circle></a><a href="/variants/s12/r32lb10k16y2k3w3k3g23r13k3r3w2~x2/"><circle cx="78.7" cy="80.5" r="4" fill="#3465a4"><title>Wilson's No.073</title></circle></a><a href="/variants/s12/r8y7k8lo2k1lb3k1dg19k1r8y3r8~x2/"><circle cx="88.5" cy="84.0" r="4" fill="#3465a4"><title>Norwich No.001</title></circle></a><a href="/variants/s22/db3r2g4r7k2y2k2y2k5db4r21db4k5y2k2y2k2r7g4r2db3y2~x4/"><circle cx="144.7" cy="105.9" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/variants/s19/k3y2k13w2lb11r12w2r12k12y2g12r12w2r12lb11w2k13y2k3~x2/"><circle cx="22.9" cy="120.2" r="4" fill="#3465a4"><title>Wilson's No.190</title></circle></a><a href="/variants/s18/dr11k4dr6w8dr16k13dr4ly12y6w2k3w2y6dr7k4w3lb3w2~x2/"><circle cx="61.2" cy="143.4" r="4" fill="#3465a4"><title>Jacobite Old Sett (Artefact)</title></circle></a><circle cx="82.9" cy="105.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Pringle"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Pringle"
+  url: "/clan/pringle/"
+- name: "Pringle"
+  url: "/families/pringle/"
+- name: "Pringle"
+  url: "/tartans/p/pr/pringle/"
 ---
 This is the **Pringle** sett — one scale-free proportion (`r4g64y4g4k6db4y4db56w4db4w1`), colour order pattern
 [RGGGKBGBWBW](/stripes/rgggkbgbwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dr2dg20y1dg1k2lb1y1lb22w1lb1w1~x4/"><circle cx="219.0" cy="69.3" r="4" fill="#3465a4"><title>Unidentified (Tony Murray Collection</title></circle></a><a href="/variants/s11/dr2g32lo2g2k3db2lo2db28w2db2w2~x2~db1106275-w3600000/"><circle cx="203.0" cy="90.0" r="4" fill="#3465a4"><title>Pringle Personal Tartan</title></circle></a><a href="/variants/s12/r10db4r3db6w3db4w3db40g73k4db2y6/"><circle cx="247.5" cy="57.7" r="4" fill="#3465a4"><title>Johnston, Diana Dress (Personal)</title></circle></a><a href="/variants/s9/g90r1k10w6k4g6r10db62y8/"><circle cx="253.3" cy="62.7" r="4" fill="#3465a4"><title>Stirling, University of</title></circle></a><a href="/variants/s11/db10g6dp4dr2dp4k10db6k4db28g55w4/"><circle cx="216.7" cy="85.9" r="4" fill="#3465a4"><title>1314 (Corporate)</title></circle></a><a href="/variants/s8/db31y4g68w4db31r2k6r2~x2/"><circle cx="250.5" cy="94.6" r="4" fill="#3465a4"><title>Inkster (Name)</title></circle></a><a href="/variants/s11/r2k1db30k6g12y1db2y1g12k3w1~x2/"><circle cx="218.5" cy="75.9" r="4" fill="#3465a4"><title>Hororata</title></circle></a><a href="/variants/s11/r2k1db30k6g12ly1db2ly1g12k3w1~x2/"><circle cx="213.9" cy="74.5" r="4" fill="#3465a4"><title>Hororata (District)</title></circle></a><a href="/variants/s9/k4y1g2y1g32lb1g3db32lb3~x2/"><circle cx="279.2" cy="96.2" r="4" fill="#3465a4"><title>McClurg</title></circle></a><a href="/variants/s11/db60k15g10r2g10r2g10r2g10k1y4~x2/"><circle cx="272.1" cy="67.6" r="4" fill="#3465a4"><title>Muir/Moore</title></circle></a><circle cx="258.2" cy="51.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

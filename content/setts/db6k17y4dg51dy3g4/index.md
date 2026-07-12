@@ -1,6 +1,11 @@
 ---
 title: "U.S. Army (Military)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "U.S. Army"
+  url: "/tartans/u/u/u-s-army-2/"
 ---
 This is the **U.S. Army (Military)** sett — one scale-free proportion (`db6k17y4dg51dy3g4`), colour order pattern
 [BKGGGG](/stripes/bkgggg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db12k17y4dg51ly3g4~x2~y2203076-ly3307090/"><circle cx="285.8" cy="141.2" r="4" fill="#3465a4"><title>US Army Regimental Tartan</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46lyi2k2~x2~ly2503076-lyi2705081/"><circle cx="397.9" cy="114.0" r="4" fill="#3465a4"><title>Green Rover (Personal)</title></circle></a><a href="/variants/s6/db6w3r3g55k10r3~x4/"><circle cx="355.6" cy="121.7" r="4" fill="#3465a4"><title>Military Medical Memorial (USA)</title></circle></a><a href="/variants/s6/k16w4y2g31n4dp4~x4~n2203265-dp1502305/"><circle cx="200.1" cy="139.9" r="4" fill="#3465a4"><title>Lethcoe (Thousand Oaks) (Personal)</title></circle></a><a href="/variants/s7/g12k1r1k1lb2k1y4~x2/"><circle cx="248.7" cy="148.0" r="4" fill="#3465a4"><title>Alberta District Tartan</title></circle></a><a href="/variants/s7/g12k1r1k1t2k1ly4~x8~r2806019-ly3106095/"><circle cx="241.0" cy="147.1" r="4" fill="#3465a4"><title>Alberta (District)</title></circle></a><a href="/variants/s7/g13k1r1k1t2k1ly4~x8/"><circle cx="256.3" cy="140.3" r="4" fill="#3465a4"><title>Alberta (Province)</title></circle></a><a href="/variants/s6/db3g19dg29k11r4y2~x2/"><circle cx="180.5" cy="162.3" r="4" fill="#3465a4"><title>Zimmermann, Martin (Personal)</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/"><circle cx="371.1" cy="105.0" r="4" fill="#3465a4"><title>Green Rover, The</title></circle></a><a href="/variants/s6/k17g48y4r10db12g4/"><circle cx="233.1" cy="167.3" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><circle cx="303.2" cy="133.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

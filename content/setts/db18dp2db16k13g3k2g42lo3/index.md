@@ -1,6 +1,11 @@
 ---
 title: "McFadden (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "McFadden"
+  url: "/tartans/m/mc/mcfadden/"
 ---
 This is the **McFadden (Personal)** sett — one scale-free proportion (`db18dp2db16k13g3k2g42lo3`), colour order pattern
 [BBBKGKGY](/stripes/bbbkgkgy/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db28y1db2k16g24k1g2r3~x2/"><circle cx="202.1" cy="117.2" r="4" fill="#3465a4"><title>Ogilvy VS</title></circle></a><a href="/variants/s10/g16k1lb2k1g3k5db12k1y1k3~x4/"><circle cx="178.1" cy="126.7" r="4" fill="#3465a4"><title>Hope-Vere (Lochcarron)</title></circle></a><a href="/variants/s7/dp6r2dp1g25db16k2db4~x2~dp1105325/"><circle cx="251.7" cy="139.6" r="4" fill="#3465a4"><title>Laurie Clan Tartan</title></circle></a><a href="/variants/s7/k7db4g31db3y2db27lb4~x2/"><circle cx="222.6" cy="155.8" r="4" fill="#3465a4"><title>Wishart Htg (Clan)</title></circle></a><a href="/variants/s7/db4k2db16w1k8g24r4~x2/"><circle cx="191.2" cy="138.9" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/variants/s7/db4k2db16w1k8g24r4/"><circle cx="191.2" cy="138.9" r="4" fill="#3465a4"><title>Colquhoun VS</title></circle></a><a href="/variants/s8/g45w2r3k15r3db15r3db15~x2/"><circle cx="203.3" cy="123.9" r="4" fill="#3465a4"><title>MacNeil 3</title></circle></a><a href="/variants/s7/dp6y2dp1g25db16k2db4~x2~dp1105325/"><circle cx="255.3" cy="141.7" r="4" fill="#3465a4"><title>Lowry Clan Tartan</title></circle></a><a href="/variants/s8/k3r1y1db11g13db5r1y1~x2/"><circle cx="209.4" cy="153.5" r="4" fill="#3465a4"><title>Snodgrass Family Tartan</title></circle></a><a href="/variants/s8/w2dbi19k4dbi4k4g9db2k1~x4~dbi1705244-db1106275/"><circle cx="232.2" cy="138.9" r="4" fill="#3465a4"><title>Dollar Academy (1999) (Corporate)</title></circle></a><circle cx="219.4" cy="132.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

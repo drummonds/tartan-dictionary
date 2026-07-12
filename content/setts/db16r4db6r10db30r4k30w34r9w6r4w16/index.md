@@ -1,6 +1,11 @@
 ---
 title: "MacDonald Pattern of Plaids"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "MacDonald Pattern of Plaids"
+  url: "/tartans/m/ma/macdonald-pattern-of-plaids/"
 ---
 This is the **MacDonald Pattern of Plaids** sett — one scale-free proportion (`db16r4db6r10db30r4k30w34r9w6r4w16`), colour order pattern
 [BRBRBRKWRWRW](/stripes/brbrbrkwrwrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db17r42db2r5db29r2k31w29r5w2r2w17/"><circle cx="122.1" cy="123.7" r="4" fill="#3465a4"><title>MacDonald Dress (Irish)</title></circle></a><a href="/variants/s11/k9w8k8w8r5w18k5w5k12db36r5/"><circle cx="93.0" cy="175.7" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/variants/s11/k12w6k6w6r4w13k3w4k8db24r3~x2/"><circle cx="90.8" cy="178.6" r="4" fill="#3465a4"><title>Merchiston Castle School Pipe Band</title></circle></a><a href="/variants/s14/db10r2db2r4db12r2k14w13r4w2r2w4r1y3~x2/"><circle cx="81.9" cy="125.3" r="4" fill="#3465a4"><title>Carnegie #2</title></circle></a><a href="/variants/s11/k18w8k8w8r5w18k5w5k12db36r5~x2/"><circle cx="93.5" cy="178.7" r="4" fill="#3465a4"><title>Merchiston, Castle School Pipers</title></circle></a><a href="/variants/s11/k18w8k8w8r5w18k5w5k12db36r5/"><circle cx="93.5" cy="178.7" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/variants/s12/dr8w30o5w8o5k12w6k12db28dr4db8dr8/"><circle cx="58.4" cy="165.0" r="4" fill="#3465a4"><title>Kinloch Anderson Dress</title></circle></a><a href="/variants/s13/o4k1o5k4db11w2db11k4w2o2w15k2w3~x2/"><circle cx="111.8" cy="141.6" r="4" fill="#3465a4"><title>Tommy</title></circle></a><a href="/variants/s8/db8w22db5w4k24r6k2r6~x2/"><circle cx="115.8" cy="165.2" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><a href="/variants/s13/w25dp8w8dp8w8dp46k46lp8k46dp46w46dp8w8/"><circle cx="114.1" cy="184.8" r="4" fill="#3465a4"><title>Poulter SG 102 (Fashion)</title></circle></a><circle cx="91.1" cy="169.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

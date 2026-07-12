@@ -1,6 +1,15 @@
 ---
 title: "MacKinlay (Clan)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacKinlay"
+  url: "/clan/mackinlay/"
+- name: "MacKinlay"
+  url: "/families/mackinlay/"
+- name: "MacKinlay"
+  url: "/tartans/m/ma/mackinlay/"
 ---
 This is the **MacKinlay (Clan)** sett — one scale-free proportion (`db4k2db10k10g10k2dr3`), colour order pattern
 [BKBKGKB](/stripes/bkbkgkb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db6k2db18k18g18k3r2~x2/"><circle cx="155.5" cy="200.4" r="4" fill="#3465a4"><title>Renfrew</title></circle></a><a href="/variants/s7/db1k1db6k6g6k1w1~x2/"><circle cx="131.6" cy="212.0" r="4" fill="#3465a4"><title>Forbes #4</title></circle></a><a href="/variants/s6/db6k6db18k18g22k5/"><circle cx="151.0" cy="269.9" r="4" fill="#3465a4"><title>Campbell, the 42nd</title></circle></a><a href="/variants/s7/t10k3t10k14r2g14k4~x2/"><circle cx="120.8" cy="227.8" r="4" fill="#3465a4"><title>Fletcher #2</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x6/"><circle cx="170.4" cy="222.5" r="4" fill="#3465a4"><title>Forbes - 1947 (Lyon Court)</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1/"><circle cx="170.4" cy="222.5" r="4" fill="#3465a4"><title>Forbes LC</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x2/"><circle cx="170.4" cy="222.5" r="4" fill="#3465a4"><title>Forbes Ancient</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8k2/"><circle cx="148.2" cy="217.6" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8k2~x2/"><circle cx="148.2" cy="217.6" r="4" fill="#3465a4"><title>Fletcher Clan Tartan</title></circle></a><a href="/variants/s7/r5db8k5db24k24dg24y5~x2/"><circle cx="130.2" cy="231.8" r="4" fill="#3465a4"><title>Heritage (Corporate)</title></circle></a><circle cx="122.0" cy="240.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

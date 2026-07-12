@@ -52,10 +52,10 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/lendrum/"><img src="/variants/s4/k12dr7k1dr9~x4/sett.png" alt="Lendrum" width="140"><br><strong>Lendrum</strong></a></li>
 <li><a class="tartan" href="/families/lennie/"><img src="/variants/s6/k2dg10y2k9dp8dg2~x2/sett.png" alt="Lennie" width="140"><br><strong>Lennie</strong></a></li>
 <li><a class="tartan" href="/families/lennox/"><img src="/variants/s7/r2dr1r10dr2g10lr1g2~x4/sett.png" alt="Lennox" width="140"><br><strong>Lennox</strong></a></li>
-<li><a class="tartan" href="/families/leonard/"><img src="/variants/s6/k10dp5k30dp5k10dp9~x4/sett.png" alt="Leonard" width="140"><br><strong>Leonard</strong></a></li>
-<li><a class="tartan" href="/families/leslie/"><img src="/variants/s6/k1g8w1k8db8r1~x4/sett.png" alt="Leslie" width="140"><br><strong>Leslie</strong></a></li>
+<li><a class="tartan" href="/families/leonard/"><img src="/variants/s8/t36db6t5r3k2r3t5db18~x2/sett.png" alt="Leonard" width="140"><br><strong>Leonard</strong></a></li>
+<li><a class="tartan" href="/families/leslie/"><img src="/variants/s13/db50r2k3y2k3r2k3y2k3r2db3r12k2~x2/sett.png" alt="Leslie" width="140"><br><strong>Leslie</strong></a></li>
 <li><a class="tartan" href="/families/letang/"><img src="/variants/s14/b14db2y2db2b25k6w17r3w3r3w3r3w3r3~x2/sett.png" alt="Letang" width="140"><br><strong>Letang</strong></a></li>
-<li><a class="tartan" href="/families/letham/"><img src="/variants/s15/dp2k1g6dg4k1dg5k2g30k2db4k1dg4g6k1dp2~x2/sett.png" alt="Letham" width="140"><br><strong>Letham</strong></a></li>
+<li><a class="tartan" href="/families/letham/"><img src="/variants/s8/g40k20lb10k4lb7g13k4lb4~x2/sett.png" alt="Letham" width="140"><br><strong>Letham</strong></a></li>
 <li><a class="tartan" href="/families/lethcoe/"><img src="/variants/s6/k16w4y2g31n4dp4~x4~n2203265-dp1502305/sett.png" alt="Lethcoe" width="140"><br><strong>Lethcoe</strong></a></li>
 <li><a class="tartan" href="/families/letter/"><img src="/variants/s9/n29k23y1g9y2r4k14w2k4~x2/sett.png" alt="Letter" width="140"><br><strong>Letter</strong></a></li>
 <li><a class="tartan" href="/families/leung/"><img src="/variants/s9/dp4db7dp2db25k19w2dg23k2dy3~x2/sett.png" alt="Leung" width="140"><br><strong>Leung</strong></a></li>
@@ -72,7 +72,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/little-of-morton-rigg/"><img src="/variants/s8/k3lb1k32db6k4db16k3r2~x2/sett.png" alt="Little of Morton Rigg" width="140"><br><strong>Little of Morton Rigg</strong></a></li>
 <li><a class="tartan" href="/variants/s8/dy31ly6lb3db36dy8g60ly7n7~x2~db1004274-n2203265/"><strong>Little-Dowse Wedding</strong></a></li>
 <li><a class="tartan" href="/families/livingston/"><img src="/variants/s10/g12r4k1r2k1r4g16r20g2r8~x2/sett.png" alt="Livingston" width="140"><br><strong>Livingston</strong></a></li>
-<li><a class="tartan" href="/families/livingstone/"><img src="/variants/s16/db54w3k3w3k2y3k2w20k3w3k4w3k4w4k2y4~x2/sett.png" alt="Livingstone" width="140"><br><strong>Livingstone</strong></a></li>
+<li><a class="tartan" href="/families/livingstone/"><img src="/variants/s10/g14r4g2r2g2r4g19r30g2r9~x2/sett.png" alt="Livingstone" width="140"><br><strong>Livingstone</strong></a></li>
 <li><a class="tartan" href="/clan/llewellen/"><img src="/variants/s9/dr74k4dr7k4dr9k40w2k4n2/sett.png" alt="Llewellen" width="140"><br><strong>Llewellen</strong></a><div class="clan-territory">clan</div></li>
 <li><a class="tartan" href="/families/llewellen-of-wales/"><img src="/variants/s9/dr74k4dr7k4dr9k40w2k4n2/sett.png" alt="Llewellen of Wales" width="140"><br><strong>Llewellen of Wales</strong></a></li>
 <li><a class="tartan" href="/clan/lloyd/"><img src="/variants/s6/r2db61k13w2n20ly2~x2/sett.png" alt="LLoyd" width="140"><br><strong>LLoyd</strong></a><div class="clan-territory">clan</div></li>
@@ -91,7 +91,7 @@ background: /bg/clans.png
 <li><a class="tartan" href="/families/lomond/"><img src="/variants/s8/r32n5r2n5r6n2r1n7~x4/sett.png" alt="Lomond" width="140"><br><strong>Lomond</strong></a></li>
 <li><a class="tartan" href="/variants/s9/g15y3g27r2g2r33t2w1t4~x2/"><strong>Longmore</strong></a></li>
 <li><a class="tartan" href="/variants/s6/k43dg8k8db21dg10w2~x2/"><strong>Longmuir</strong></a></li>
-<li><a class="tartan" href="/families/longniddry/"><img src="/variants/s8/dp42lb2w2lb2dp5t12w32dp4~x2~dp1607327-lb3103284-t2405244/sett.png" alt="Longniddry" width="140"><br><strong>Longniddry</strong></a></li>
+<li><a class="tartan" href="/families/longniddry/"><img src="/variants/s8/dg42g2w2g2dg5dt12w32dg4~x2~dg1806142-g2408144/sett.png" alt="Longniddry" width="140"><br><strong>Longniddry</strong></a></li>
 <li><a class="tartan" href="/families/lopatinsky/"><img src="/variants/s8/db4r1w1r1db4k2lb6y1~x6/sett.png" alt="Lopatinsky" width="140"><br><strong>Lopatinsky</strong></a></li>
 <li><a class="tartan" href="/variants/s7/r1n5k5db1k1db6y1~x8/"><strong>Lopez-Gasparotto</strong></a></li>
 <li><a class="tartan" href="/families/lorne/"><img src="/variants/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x2/sett.png" alt="Lorne" width="140"><br><strong>Lorne</strong></a></li>

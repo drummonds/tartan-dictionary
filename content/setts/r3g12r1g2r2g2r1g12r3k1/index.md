@@ -1,6 +1,15 @@
 ---
 title: "Connell (Dalgliesh) (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Connell"
+  url: "/clan/connell/"
+- name: "Connell"
+  url: "/families/connell/"
+- name: "Connell"
+  url: "/tartans/c/co/connell/"
 ---
 This is the **Connell (Dalgliesh) (Personal)** sett — one scale-free proportion (`r3g12r1g2r2g2r1g12r3k1`), colour order pattern
 [KRGRGRGRGR](/stripes/krgrgrgrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r3g22r3g4r5g4r5g4r5g2w2~x2/"><circle cx="384.9" cy="192.9" r="4" fill="#3465a4"><title>Princess Marina Royal Tartan</title></circle></a><a href="/variants/s8/g48r4g2r4g6r2g3r9~x2/"><circle cx="570.3" cy="170.3" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s8/g48r4g2r4g6r2g3r9/"><circle cx="570.3" cy="170.3" r="4" fill="#3465a4"><title>Menzies Hunting</title></circle></a><a href="/variants/s8/g164r20g6r20g23r14g4r36/"><circle cx="531.0" cy="153.0" r="4" fill="#3465a4"><title>Aukland &amp; District Pipe Band (Corp)</title></circle></a><a href="/variants/s11/g22r4g22r22g2r3g2r3g2r3y2~x2/"><circle cx="393.4" cy="190.9" r="4" fill="#3465a4"><title>MacRea / MacRae</title></circle></a><a href="/variants/s8/g34r4g4r4g4r12g20w5~x2/"><circle cx="395.9" cy="200.6" r="4" fill="#3465a4"><title>Leeds, University of (Dance) #1</title></circle></a><a href="/variants/s6/r2g2r1g12r3k1~x4/"><circle cx="396.5" cy="186.9" r="4" fill="#3465a4"><title>Connell (Personal?)</title></circle></a><a href="/variants/s8/g9r2g2r2g2r8g11w2~x4/"><circle cx="357.7" cy="249.4" r="4" fill="#3465a4"><title>Leeds University Corporate Tartan</title></circle></a><a href="/variants/s10/g4r16g4r2g3r2g32w2g2w3~x2/"><circle cx="414.6" cy="161.2" r="4" fill="#3465a4"><title>Rothesay Hunting Family Tartan</title></circle></a><a href="/variants/s6/r19g6r7g101k7g7/"><circle cx="499.6" cy="162.5" r="4" fill="#3465a4"><title>Loch Laggan District Tartan</title></circle></a><circle cx="430.2" cy="175.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

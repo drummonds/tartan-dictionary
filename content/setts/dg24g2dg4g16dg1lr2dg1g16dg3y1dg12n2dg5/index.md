@@ -1,6 +1,11 @@
 ---
 title: "O'Neill (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "O'Neill"
+  url: "/tartans/o/o/o-neill/"
 ---
 This is the **O'Neill (Personal)** sett — one scale-free proportion (`dg24g2dg4g16dg1lr2dg1g16dg3y1dg12n2dg5`), colour order pattern
 [GBGGGGGYGGGGG](/stripes/gbgggggyggggg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dg24g2dg4g16dg1k2dg1g16dg3y1dg12n2dg5~x2/"><circle cx="367.3" cy="135.8" r="4" fill="#3465a4"><title>O'Neill, Martin</title></circle></a><a href="/variants/s11/g33t4g4t4g18dg13dp13dg2t11dg1n2~x2/"><circle cx="360.4" cy="165.8" r="4" fill="#3465a4"><title>Highlander</title></circle></a><a href="/variants/s7/g55dbi7dr24g12db4dy3db4~x2~dbi1406275-db1404245/"><circle cx="404.5" cy="183.7" r="4" fill="#3465a4"><title>Crieff &amp; Strathearn #1</title></circle></a><a href="/variants/s10/g12db2dr2db2dt26dg2g3dg3g24dr4~x2/"><circle cx="333.1" cy="191.1" r="4" fill="#3465a4"><title>New South Wales Waratah</title></circle></a><a href="/variants/s10/dt37g27w2dt4r6dt4w2g27dt37y2~x2/"><circle cx="339.6" cy="164.0" r="4" fill="#3465a4"><title>Highlands of Durham</title></circle></a><a href="/variants/s14/g68r4g6db4dg34db4g6r4g68db4dg16r4dg19db4~x2/"><circle cx="394.8" cy="154.4" r="4" fill="#3465a4"><title>ASDA Wal-Mart</title></circle></a><a href="/variants/s14/dp2y25dg8y2dg2y25dp2y2dp6y2w2y4dg16y2~x2~y2505139-dg1504144/"><circle cx="404.1" cy="182.1" r="4" fill="#3465a4"><title>Beechgrove Garden, The</title></circle></a><a href="/variants/s14/dr12g1dg3g20lb1g1lb3g1lb1g20dg3g1dr12ly3~x4/"><circle cx="325.2" cy="141.7" r="4" fill="#3465a4"><title>Manitoba Province</title></circle></a><a href="/variants/s15/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2~x2~dg1806142-g1903114/"><circle cx="402.6" cy="175.4" r="4" fill="#3465a4"><title>Prince David</title></circle></a><a href="/variants/s10/g12y6lo16dg10w6dg8g12dg70y9dg7~g2408144-dg1806142/"><circle cx="391.7" cy="191.1" r="4" fill="#3465a4"><title>Rams Timeless</title></circle></a><circle cx="406.6" cy="162.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

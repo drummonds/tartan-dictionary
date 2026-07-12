@@ -1,6 +1,15 @@
 ---
 title: "Daks (Navy)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Daks"
+  url: "/clan/daks/"
+- name: "Daks"
+  url: "/families/daks/"
+- name: "Daks"
+  url: "/tartans/d/da/daks-3/"
 ---
 This is the **Daks (Navy)** sett — one scale-free proportion (`r3g6db2dbi2db11g9db2r3`), colour order pattern
 [RBGBBBGR](/stripes/rbgbbbgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r5g12db4dbi4db22g18db4r5~db0805267-dbi1604274/"><circle cx="187.0" cy="233.4" r="4" fill="#3465a4"><title>Daks, Navy</title></circle></a><a href="/variants/s8/db7r3g7r1g7r3db7lb1~x2/"><circle cx="187.1" cy="245.4" r="4" fill="#3465a4"><title>Hebrides #8</title></circle></a><a href="/variants/s9/db2r3g11r3db2lb2db11r2g2~x2/"><circle cx="191.4" cy="219.4" r="4" fill="#3465a4"><title>Hebridean 1</title></circle></a><a href="/variants/s11/db3o14g14o2db14o2db14o2g14o14r3~x2/"><circle cx="190.9" cy="230.9" r="4" fill="#3465a4"><title>Buchanan, hunting</title></circle></a><a href="/variants/s7/r2y1db8r1g7y1r2~x6/"><circle cx="200.3" cy="214.8" r="4" fill="#3465a4"><title>Cercle de Fermières de Saint-Élie d'Orford</title></circle></a><a href="/variants/s5/r1g7r3db7lb1~x2/"><circle cx="194.1" cy="248.2" r="4" fill="#3465a4"><title>Hebridean 4</title></circle></a><a href="/variants/s10/g3w3g18db14r5db14r5db14g21w3~x2/"><circle cx="197.6" cy="228.6" r="4" fill="#3465a4"><title>Hamilton of Clayton (Personal)</title></circle></a><a href="/variants/s8/r2g12db2g8db18w3r2w2~x2/"><circle cx="210.8" cy="200.1" r="4" fill="#3465a4"><title>Albuquerque, City of</title></circle></a><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4/"><circle cx="264.1" cy="199.2" r="4" fill="#3465a4"><title>New Mexico, State of (Fashion)</title></circle></a><a href="/variants/s7/r1do7g7db7g7db7r1~x4/"><circle cx="194.5" cy="266.7" r="4" fill="#3465a4"><title>Tennant</title></circle></a><circle cx="200.1" cy="242.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

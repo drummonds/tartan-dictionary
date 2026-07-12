@@ -1,6 +1,15 @@
 ---
 title: "Justus #2 (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Justus"
+  url: "/clan/justus/"
+- name: "Justus"
+  url: "/families/justus/"
+- name: "Justus"
+  url: "/tartans/j/ju/justus-2/"
 ---
 This is the **Justus #2 (Personal)** sett — one scale-free proportion (`k5lo1k1lo1`), colour order pattern
 [KYKYKY](/stripes/kykyky/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/k5lo1k1~x20/"><circle cx="401.2" cy="245.3" r="4" fill="#3465a4"><title>Justus #2 (Personal)</title></circle></a><a href="/variants/s4/k46o7k8w20~x2/"><circle cx="304.0" cy="224.8" r="4" fill="#3465a4"><title>Lords, of Skye</title></circle></a><a href="/variants/s3/k5y1k1~x12/"><circle cx="416.9" cy="249.0" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/variants/s6/k17dr6k2lb6k17lo2~x2/"><circle cx="337.7" cy="193.8" r="4" fill="#3465a4"><title>Black Clan/Family Tartan</title></circle></a><a href="/variants/s4/k46dy7k8w20~x2/"><circle cx="307.6" cy="227.5" r="4" fill="#3465a4"><title>Lords of Skye Trade Tartan</title></circle></a><a href="/variants/s5/lr3k3lr3k10dr1~x6/"><circle cx="323.9" cy="205.3" r="4" fill="#3465a4"><title>Burberry Blue</title></circle></a><a href="/variants/s4/dr3lo2k10w1~x6/"><circle cx="343.5" cy="184.1" r="4" fill="#3465a4"><title>St. Eloi</title></circle></a><a href="/variants/s5/lr3k3lr3k10r1~x6/"><circle cx="316.8" cy="200.1" r="4" fill="#3465a4"><title>Burberry Black</title></circle></a><a href="/variants/s4/k6y1k6y6~x6/"><circle cx="312.1" cy="287.0" r="4" fill="#3465a4"><title>Raeburn Family Tartan</title></circle></a><a href="/variants/s4/k34ly3k34ly26~x2/"><circle cx="363.0" cy="253.0" r="4" fill="#3465a4"><title>Raeburn (Name)</title></circle></a><circle cx="360.5" cy="227.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

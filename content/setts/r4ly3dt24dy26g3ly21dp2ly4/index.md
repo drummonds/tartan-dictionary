@@ -1,6 +1,11 @@
 ---
 title: "Goddin mab Gododdin (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Goddin mab Gododdin"
+  url: "/tartans/g/go/goddin-mab-gododdin/"
 ---
 This is the **Goddin mab Gododdin (Personal)** sett — one scale-free proportion (`r4ly3dt24dy26g3ly21dp2ly4`), colour order pattern
 [RYBGGYBY](/stripes/rybggyby/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dy3n2dg19n6dg2n6ly14dr4w2~x2/"><circle cx="169.2" cy="189.4" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society</title></circle></a><a href="/variants/s9/dy2n2dg19n6dg2n6lo14dr4w2~x2/"><circle cx="178.7" cy="185.4" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society (Corp)</title></circle></a><a href="/variants/s7/w3dg24r13g4ly11r8db2~x2~dg1806142-g2304202/"><circle cx="169.8" cy="184.7" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/variants/s7/r1g4w1g4y1dr8lb1~x6/"><circle cx="188.4" cy="191.4" r="4" fill="#3465a4"><title>George Watson's College</title></circle></a><a href="/variants/s7/ly4dy2ly21db11w2n20r3~x2/"><circle cx="177.2" cy="180.1" r="4" fill="#3465a4"><title>Barbour Dress</title></circle></a><a href="/variants/s9/g25r2w2db2w2r13dy28db2r3~x2/"><circle cx="202.8" cy="152.8" r="4" fill="#3465a4"><title>Brousseau (Personal)</title></circle></a><a href="/variants/s11/w1db4dy8r4w1r4w1r4g16db2w1~x2/"><circle cx="167.7" cy="145.8" r="4" fill="#3465a4"><title>Stuart/Stewart Riding Cloak</title></circle></a><a href="/variants/s7/dy5ly20r3dg13dy13db3b3~x2/"><circle cx="110.6" cy="205.5" r="4" fill="#3465a4"><title>Christmas Hill Game Farm (Corporate)</title></circle></a><a href="/variants/s7/dy5ly20r3dg13dy13dp3b3~x2/"><circle cx="112.0" cy="205.2" r="4" fill="#3465a4"><title>Christmas Hill Game Farm</title></circle></a><a href="/variants/s10/dr3ly21dr14w3db11g36do3db3do4ly3~x2/"><circle cx="165.1" cy="164.6" r="4" fill="#3465a4"><title>State Seal of Florida (Fashion)</title></circle></a><circle cx="153.4" cy="165.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

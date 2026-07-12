@@ -1,6 +1,15 @@
 ---
 title: "MacCallum"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacCallum,"
+  url: "/clan/maccallum/"
+- name: "MacCallum"
+  url: "/families/maccallum/"
+- name: "MacCallum"
+  url: "/tartans/m/ma/maccallum-2/"
 ---
 This is the **MacCallum** sett — one scale-free proportion (`g8k2w1g4k6db6k1`), colour order pattern
 [GKWGKBK](/stripes/gkwgkbk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g8k2lb1g4k6db6k1~x2/"><circle cx="156.8" cy="217.2" r="4" fill="#3465a4"><title>MacCallum Clan Tartan</title></circle></a><a href="/variants/s7/g21k6lb3g11k17db17k3~x2/"><circle cx="142.7" cy="225.4" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/variants/s7/k12g12k2g12k12db12lb3~x2/"><circle cx="120.0" cy="248.0" r="4" fill="#3465a4"><title>MacIntyre Hunting Clan Tartan</title></circle></a><a href="/variants/s7/k8g8k1g8k8b8w2~x2/"><circle cx="121.2" cy="233.6" r="4" fill="#3465a4"><title>Unnamed, No 31</title></circle></a><a href="/variants/s7/k8g8k1g8k8lb8w2~x2/"><circle cx="115.2" cy="231.7" r="4" fill="#3465a4"><title>Unidentified No 31</title></circle></a><a href="/variants/s6/g21w2g4k17db14k3/"><circle cx="169.3" cy="204.8" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/variants/s6/g9w1g6k7db7k1~x2/"><circle cx="184.2" cy="225.2" r="4" fill="#3465a4"><title>Menteith</title></circle></a><a href="/variants/s6/k4w2g18k13db12k2~x2/"><circle cx="141.0" cy="205.7" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s6/g8lb1g1k6db6k1~x4/"><circle cx="156.9" cy="214.0" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><a href="/variants/s6/k4w2g13k13b12k2~x2/"><circle cx="132.5" cy="220.8" r="4" fill="#3465a4"><title>Melville</title></circle></a><circle cx="153.2" cy="216.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

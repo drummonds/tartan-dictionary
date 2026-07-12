@@ -1,6 +1,11 @@
 ---
 title: "Salt Lake City Arts Council (Corp)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Salt Lake City Arts Council"
+  url: "/tartans/s/sa/salt-lake-city-arts-council/"
 ---
 This is the **Salt Lake City Arts Council (Corp)** sett — one scale-free proportion (`db16dp2db2dp2db2dp8dg8dy8r8k1w1r2`), colour order pattern
 [BBBBBBGGRKWR](/stripes/bbbbbbggrkwr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db13w2dt38k13dt8k8dp17dg2dp17k4db11~db1204274-dp1607327/"><circle cx="177.3" cy="144.7" r="4" fill="#3465a4"><title>Bute Heather</title></circle></a><a href="/variants/s14/dbi8r4dbi6r10dbi24dg12o4dg4k4db18ri10db4ri6b3~dbi1604274-r1506028-db0805267-ri2008029/"><circle cx="85.3" cy="150.0" r="4" fill="#3465a4"><title>Hyndman (Omagh)</title></circle></a><a href="/variants/s10/dbi6dpi10dp4dpi11dg20k4dg8k21db47dbi2~dbi1406275-dpi1607327-dp1105325-db1204274/"><circle cx="219.0" cy="135.6" r="4" fill="#3465a4"><title>Spirit of Alva (Fashion)</title></circle></a><a href="/variants/s11/db13w2dt38k13dt8k8dp17dg2dp17k4db11/"><circle cx="201.7" cy="155.8" r="4" fill="#3465a4"><title>Bute Heather (Fashion)</title></circle></a><a href="/variants/s14/dbi8dr4dbi6dr10dbi24dg12ly4dg4k4db18r10db4r6lr3~dbi1406275-db1204274/"><circle cx="73.5" cy="146.3" r="4" fill="#3465a4"><title>Hyndman Family Tartan</title></circle></a><a href="/variants/s12/db9k2db4k2dr6ly3dy2db2dr11dy23lb1k8~x2/"><circle cx="186.7" cy="119.6" r="4" fill="#3465a4"><title>Kelvin Family (Personal)</title></circle></a><a href="/variants/s13/k4dg21dp1dg3dp12db3dp3db4dp3db24k1w5r3~x2/"><circle cx="158.1" cy="76.4" r="4" fill="#3465a4"><title>Robert Lee Jordan Defiance (Personal)</title></circle></a><a href="/variants/s17/y3k2r9k1do8k1r2k1n8k1ni2k1n16k1ni12k4n2~x2~n1602305-ni2001240/"><circle cx="144.1" cy="106.2" r="4" fill="#3465a4"><title>Golden Glow</title></circle></a><a href="/variants/s11/db6k3dt19k6dt4k3dp12g4dp12w2db5~x2~db1204274/"><circle cx="136.3" cy="179.7" r="4" fill="#3465a4"><title>Scotland Forever</title></circle></a><a href="/variants/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/"><circle cx="242.3" cy="130.7" r="4" fill="#3465a4"><title>Newlands, Charlie (Personal)</title></circle></a><circle cx="158.4" cy="129.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

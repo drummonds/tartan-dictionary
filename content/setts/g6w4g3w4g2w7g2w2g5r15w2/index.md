@@ -1,6 +1,11 @@
 ---
 title: "Prince George (Royal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Prince George"
+  url: "/tartans/p/pr/prince-george/"
 ---
 This is the **Prince George (Royal)** sett — one scale-free proportion (`g6w4g3w4g2w7g2w2g5r15w2`), colour order pattern
 [GWGWGWGWGRW](/stripes/gwgwgwgwgrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dg6w4dg3w4dg2w7dg2w2dg5r15w2~x2/"><circle cx="175.2" cy="210.3" r="4" fill="#3465a4"><title>Prince George</title></circle></a><a href="/variants/s9/g26r3g3r3g3r11w27r3w5~x2/"><circle cx="223.2" cy="200.2" r="4" fill="#3465a4"><title>Lindsay Dress Red</title></circle></a><a href="/variants/s9/w8dt2w1dt2w1dt2r3dt3w1~x4/"><circle cx="236.6" cy="214.0" r="4" fill="#3465a4"><title>Canadian Winter Games 1987</title></circle></a><a href="/variants/s12/db3o14g2o2g2o3g6w18db3o2db2o2~x2/"><circle cx="183.1" cy="171.6" r="4" fill="#3465a4"><title>Raibert, Check</title></circle></a><a href="/variants/s8/do4r3do21r2w14ly22r3ly4~x2/"><circle cx="176.7" cy="190.7" r="4" fill="#3465a4"><title>Bannock Bane M.405</title></circle></a><a href="/variants/s8/o22do2o2do2o2do15w17do3~x2/"><circle cx="235.7" cy="196.3" r="4" fill="#3465a4"><title>Turnberry, Manx Snaefell</title></circle></a><a href="/variants/s19/w6r2g16r3g2r3g6w2r2w2g6r7g6r2g2r16w2r2w2~x2/"><circle cx="236.0" cy="182.8" r="4" fill="#3465a4"><title>MacDougall (Lochcarron)</title></circle></a><a href="/variants/s15/w3g2r8w14t3r3g20r3t20r3t3w14r8g2w3~x2/"><circle cx="145.0" cy="178.9" r="4" fill="#3465a4"><title>Robertson dress Hunting</title></circle></a><a href="/variants/s15/lb12k8lb12w1ly2w1ly8w1ly2w1ly8w1ly2w1ly8/"><circle cx="196.8" cy="156.1" r="4" fill="#3465a4"><title>Bush (Artefact)</title></circle></a><a href="/variants/s9/g12w1r1w4r1w1r8dy2r1~x4/"><circle cx="218.0" cy="169.6" r="4" fill="#3465a4"><title>Karibu (Corporate)</title></circle></a><circle cx="192.2" cy="219.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

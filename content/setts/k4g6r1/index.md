@@ -1,6 +1,15 @@
 ---
 title: "Kincaid of Kincaid Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Kincaid"
+  url: "/clan/kincaid/"
+- name: "Kincaid of Kincaid"
+  url: "/families/kincaid/"
+- name: "Kincaid of Kincaid"
+  url: "/tartans/k/ki/kincaid-of-kincaid/"
 ---
 This is the **Kincaid of Kincaid Family Tartan** sett — one scale-free proportion (`k4g6r1`), colour order pattern
 [KGR](/stripes/kgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/k11g17r3/"><circle cx="239.1" cy="279.5" r="4" fill="#3465a4"><title>Kincaid</title></circle></a><a href="/variants/s3/k11g17r3~x2/"><circle cx="239.1" cy="279.5" r="4" fill="#3465a4"><title>Kincaid</title></circle></a><a href="/variants/s3/k11g16dr2~x4/"><circle cx="266.6" cy="266.2" r="4" fill="#3465a4"><title>Kincaid of Kincaid (Clan)</title></circle></a><a href="/variants/s3/k5g6lb1~x4/"><circle cx="222.5" cy="283.4" r="4" fill="#3465a4"><title>Wilson's No.050</title></circle></a><a href="/variants/s3/k6y1g6~x4/"><circle cx="201.0" cy="254.7" r="4" fill="#3465a4"><title>Wilson's No.197</title></circle></a><a href="/variants/s3/k6g5r2~x2/"><circle cx="192.7" cy="324.7" r="4" fill="#3465a4"><title>Glen Lyon #1</title></circle></a><a href="/variants/s3/k5g4r2~x2/"><circle cx="141.2" cy="336.4" r="4" fill="#3465a4"><title>Wilson's, No 94</title></circle></a><a href="/variants/s3/g9k18r2~x4/"><circle cx="306.3" cy="243.3" r="4" fill="#3465a4"><title>Cowie, Justine (Personal)</title></circle></a><a href="/variants/s3/g4lb1k2~x4/"><circle cx="231.4" cy="299.7" r="4" fill="#3465a4"><title>Wilson's, No 45</title></circle></a><a href="/variants/s4/g14k3dr3lr2~x2/"><circle cx="299.7" cy="221.6" r="4" fill="#3465a4"><title>Bacon, Green (Fashion)</title></circle></a><circle cx="240.9" cy="276.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

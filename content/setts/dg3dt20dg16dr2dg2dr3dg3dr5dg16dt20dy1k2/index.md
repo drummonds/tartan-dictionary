@@ -1,6 +1,11 @@
 ---
 title: "Alasdair Dhana"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Alasdair Dhana"
+  url: "/tartans/a/al/alasdair-dhana/"
 ---
 This is the **Alasdair Dhana** sett — one scale-free proportion (`dg3dt20dg16dr2dg2dr3dg3dr5dg16dt20dy1k2`), colour order pattern
 [GBGBGBGBGBGK](/stripes/gbgbgbgbgbgk/). It is recorded as a single **variant**, below.

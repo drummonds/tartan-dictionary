@@ -1,6 +1,11 @@
 ---
 title: "LLoyd of Astargus"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan LLoyd"
+  url: "/clan/lloyd/"
 ---
 A family of [Clan LLoyd](/clan/lloyd/).
 

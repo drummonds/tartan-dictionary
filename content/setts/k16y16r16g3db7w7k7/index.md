@@ -1,6 +1,11 @@
 ---
 title: "Eusa"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Eusa"
+  url: "/tartans/e/eu/eusa/"
 ---
 This is the **Eusa** sett — one scale-free proportion (`k16y16r16g3db7w7k7`), colour order pattern
 [KGRGBWK](/stripes/kgrgbwk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/t8k25g13m5ly5dr5m8~x2/"><circle cx="54.6" cy="195.7" r="4" fill="#3465a4"><title>Bro-Menez Are (Corporate)</title></circle></a><a href="/variants/s9/g13w2g10k5r13k3r5db15o5~x2/"><circle cx="55.1" cy="186.8" r="4" fill="#3465a4"><title>Glen Chalmadale</title></circle></a><a href="/variants/s9/k2r8db2k2r2k6o2g6y1~x2/"><circle cx="65.9" cy="165.7" r="4" fill="#3465a4"><title>Craigmoor</title></circle></a><a href="/variants/s9/k2r8db2k2r2k6dy2g6y1~x2/"><circle cx="66.8" cy="166.3" r="4" fill="#3465a4"><title>Craigmoor Tartan</title></circle></a><a href="/variants/s7/r3lb8k9g16r12n12lo3~x2/"><circle cx="15.0" cy="224.4" r="4" fill="#3465a4"><title>Alabama (Fashion)</title></circle></a><a href="/variants/s7/k10r3y4db12g4r4w2~x4/"><circle cx="39.7" cy="194.7" r="4" fill="#3465a4"><title>Eichelberger Family, Jörg (Personal)</title></circle></a><a href="/variants/s8/n6w2k4dy12k4w2n6r3~x2/"><circle cx="72.0" cy="208.1" r="4" fill="#3465a4"><title>Strathblane</title></circle></a><a href="/variants/s7/r11db3dbi8w3y3g5k5~x4~db1004274-dbi1406275/"><circle cx="14.0" cy="213.8" r="4" fill="#3465a4"><title>Nicolson of Taransay Hunting (Personal)</title></circle></a><a href="/variants/s8/dr3dg2n2dg3k6b2ly10b2~x2/"><circle cx="39.1" cy="191.4" r="4" fill="#3465a4"><title>Burnfoot Check</title></circle></a><a href="/variants/s7/r3lb4k11r11g11do3r3~x4/"><circle cx="72.3" cy="228.1" r="4" fill="#3465a4"><title>Stewart /Stuart- Fragment Cf 1452 &amp; 1445</title></circle></a><circle cx="17.7" cy="208.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

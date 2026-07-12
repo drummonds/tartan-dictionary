@@ -1,6 +1,15 @@
 ---
 title: "Rankin"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Rankin"
+  url: "/clan/rankin/"
+- name: "Rankin"
+  url: "/families/rankin/"
+- name: "Rankin"
+  url: "/tartans/r/ra/rankin-4/"
 ---
 This is the **Rankin** sett — one scale-free proportion (`db36g10r2g10w2g10r2k10db14r2db12r3db2r2db4w2`), colour order pattern
 [BGRGWGRKBRBRBRBW](/stripes/bgrgwgrkbrbrbrbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/db36g10r2g10w2g10r2k10db14r2db12r2db12r3db2r2db4w2~x2/"><circle cx="262.0" cy="97.9" r="4" fill="#3465a4"><title>Rankin #2</title></circle></a><a href="/variants/s16/k3db42k3y2k3g22k3r2k3g22k3y2k3db42k3r2~x2~db1406275/"><circle cx="261.7" cy="82.7" r="4" fill="#3465a4"><title>Strachan</title></circle></a><a href="/variants/s16/db36g10r2g10w2g10r2g10k14r2db12r3db2r2db4w2~x2/"><circle cx="184.6" cy="102.8" r="4" fill="#3465a4"><title>Rankin</title></circle></a><a href="/variants/s15/db18dp2k2db2dp2k1db2k8g1y1g6k8db14k2g2~x2~db1504274-dp1502305/"><circle cx="247.4" cy="112.3" r="4" fill="#3465a4"><title>Angove, the Black Swan</title></circle></a><a href="/variants/s10/k9t4k2t4k2t30k9t4db14dy2~x2~t2503227/"><circle cx="258.6" cy="121.5" r="4" fill="#3465a4"><title>Hannay Blue</title></circle></a><a href="/variants/s18/db60ly2db2ly2db5k15db5g20r2k3r2g20db5k15g5db20ly2g4~x2/"><circle cx="249.4" cy="66.6" r="4" fill="#3465a4"><title>Whitworth (Name)</title></circle></a><a href="/variants/s14/db34g10db5r2k8dy2w3dy2k8r2db5g10db28k3~x2/"><circle cx="256.5" cy="95.5" r="4" fill="#3465a4"><title>Lambert (Front Royal) Dress</title></circle></a><a href="/variants/s12/db6r2db2r4db24g11r4g2r2g3k1y2~x2/"><circle cx="263.9" cy="101.9" r="4" fill="#3465a4"><title>Law of Heather Athol (Personal)</title></circle></a><a href="/variants/s16/db36g10dr2g10lb2g10dr2g10k14dr2db12dr3db2dr2db4lb2~x2/"><circle cx="200.9" cy="110.3" r="4" fill="#3465a4"><title>Rankin (1998) (Name)</title></circle></a><a href="/variants/s14/t18db2k2db2k1t2k8g1ly1g6k8t14k2g2~x2/"><circle cx="206.6" cy="112.7" r="4" fill="#3465a4"><title>Angove, the Black Swan (Name)</title></circle></a><circle cx="245.8" cy="100.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

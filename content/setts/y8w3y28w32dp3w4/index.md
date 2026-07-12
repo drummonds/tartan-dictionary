@@ -1,6 +1,15 @@
 ---
 title: "Ailsa Yellow Fashion Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ailsa"
+  url: "/clan/ailsa/"
+- name: "Ailsa"
+  url: "/families/ailsa/"
+- name: "Ailsa"
+  url: "/tartans/a/ai/ailsa/"
 ---
 This is the **Ailsa Yellow Fashion Tartan** sett — one scale-free proportion (`y8w3y28w32dp3w4`), colour order pattern
 [GWGWBW](/stripes/gwgwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/ly38w9ly3do9w3~x2/"><circle cx="452.7" cy="240.4" r="4" fill="#3465a4"><title>Loch Tummel Trade Tartan</title></circle></a><a href="/variants/s6/lo8w3lo28w32dp3w4~x2/"><circle cx="424.5" cy="264.9" r="4" fill="#3465a4"><title>Ailsa, Gold (Dance)</title></circle></a><a href="/variants/s7/w2db1w15lb12w1dy3db1~x6/"><circle cx="313.5" cy="177.2" r="4" fill="#3465a4"><title>St John's</title></circle></a><a href="/variants/s7/w5dr3w26g20w3g8y3~x2/"><circle cx="285.1" cy="224.4" r="4" fill="#3465a4"><title>MacPherson Dress, Green (Dance)</title></circle></a><a href="/variants/s6/w12g12w1g12w12ly1~x4/"><circle cx="330.1" cy="267.6" r="4" fill="#3465a4"><title>Wallace Green Dress Fashion Tartan</title></circle></a><a href="/variants/s9/w2r1w2g6w10r6w2g1w2~x4/"><circle cx="303.4" cy="214.2" r="4" fill="#3465a4"><title>O'Neill Pipe Band 1999 (Corporate)</title></circle></a><a href="/variants/s5/w45dr2g9w2dr30~x2/"><circle cx="340.8" cy="196.8" r="4" fill="#3465a4"><title>Malaysian Unknown (Artefact)</title></circle></a><a href="/variants/s4/dg4w35g31w4~x2/"><circle cx="333.6" cy="274.1" r="4" fill="#3465a4"><title>Lewis, Green (Dance)</title></circle></a><a href="/variants/s9/w2o1w2g6w10o6w2g1w2~x2/"><circle cx="309.5" cy="219.9" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><a href="/variants/s9/w2r1w2g6w10r6w2g1w2~x4~w3600000-g2408144/"><circle cx="323.7" cy="220.7" r="4" fill="#3465a4"><title>O'Neill Pipe Band 1999/ Oliver dress</title></circle></a><circle cx="345.6" cy="234.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

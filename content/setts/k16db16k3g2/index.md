@@ -1,6 +1,11 @@
 ---
 title: "Arundel County (District)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Arundel County"
+  url: "/tartans/a/ar/arundel-county-2/"
 ---
 This is the **Arundel County (District)** sett — one scale-free proportion (`k16db16k3g2`), colour order pattern
 [GKBKKKK](/stripes/gkbkkkk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k2r1dg15k15db15y1k2~x2/"><circle cx="213.6" cy="167.2" r="4" fill="#3465a4"><title>MacCaskill (Personal)</title></circle></a><a href="/variants/s7/dt6n4dt2db25k30g2k2~x2/"><circle cx="255.4" cy="152.6" r="4" fill="#3465a4"><title>Passion of Scotland (Fashion)</title></circle></a><a href="/variants/s8/y2k4y1dg16k14db23k4r1~x2/"><circle cx="216.5" cy="144.3" r="4" fill="#3465a4"><title>Thomas of Craigie (Personal)</title></circle></a><a href="/variants/s7/r1k1db10k1dp4k9y1~x4/"><circle cx="212.3" cy="172.0" r="4" fill="#3465a4"><title>Graeme High School Homecoming 2009</title></circle></a><a href="/variants/s8/db15dp3db30k22dg18dp3dg3w3~x2/"><circle cx="218.5" cy="185.3" r="4" fill="#3465a4"><title>Moray (Corporate)</title></circle></a><a href="/variants/s7/dg3db12lb1k12dg13r2dg2~x2/"><circle cx="203.3" cy="183.4" r="4" fill="#3465a4"><title>MacPhedran/MacFadzean</title></circle></a><a href="/variants/s9/k30db20k10db5w2db10dg20r2dg10/"><circle cx="184.5" cy="172.9" r="4" fill="#3465a4"><title>Cailleach</title></circle></a><a href="/variants/s9/dg28k2db3k11db3k2db17b4lb2~x2~db1108266-b1511266/"><circle cx="219.3" cy="155.1" r="4" fill="#3465a4"><title>West of Wells</title></circle></a><a href="/variants/s9/dp4db40k15dg10dp2dg10dp2dg10w4~x2/"><circle cx="228.4" cy="140.9" r="4" fill="#3465a4"><title>Ebdon-Muir (Personal)</title></circle></a><a href="/variants/s7/dg5lp3dg32k16db32r3db5~x2/"><circle cx="219.8" cy="188.8" r="4" fill="#3465a4"><title>MacThomas (Clan)</title></circle></a><circle cx="229.7" cy="164.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

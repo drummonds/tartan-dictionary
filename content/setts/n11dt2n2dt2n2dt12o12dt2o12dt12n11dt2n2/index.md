@@ -1,6 +1,11 @@
 ---
 title: "Scottish Scouts (1922)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Scottish Scouts"
+  url: "/tartans/s/sc/scottish-scouts/"
 ---
 This is the **Scottish Scouts (1922)** sett — one scale-free proportion (`n11dt2n2dt2n2dt12o12dt2o12dt12n11dt2n2`), colour order pattern
 [BBBBBBRBRBBBBBBBRBRBBBBB](/stripes/bbbbbbrbrbbbbbbbrbrbbbbb/). It is recorded as a single **variant**, below.

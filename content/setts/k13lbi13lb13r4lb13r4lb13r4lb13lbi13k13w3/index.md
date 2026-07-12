@@ -1,6 +1,11 @@
 ---
 title: "Unidentified Scarlett #1"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified Scarlett"
+  url: "/tartans/u/un/unidentified-scarlett-2/"
 ---
 This is the **Unidentified Scarlett #1** sett — one scale-free proportion (`k13lbi13lb13r4lb13r4lb13r4lb13lbi13k13w3`), colour order pattern
 [KWWRWRWRWWKW](/stripes/kwwrwrwrwwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10k3~x2~db1406275/"><circle cx="105.7" cy="186.3" r="4" fill="#3465a4"><title>Ship Hector, The</title></circle></a><a href="/variants/s10/db6w2r6w3k2w6db10r2db3r2~x4/"><circle cx="145.5" cy="219.5" r="4" fill="#3465a4"><title>Commonwealth Games 1986 (Corporate)</title></circle></a><a href="/variants/s10/db6w2r6w3k2w6db10r2db3r2~x4~db1406275/"><circle cx="150.5" cy="219.7" r="4" fill="#3465a4"><title>Commonwealth Games 1986</title></circle></a><a href="/variants/s12/dr9w4dr6b4ly2k2w2dr5b3ly2k2w2~x2/"><circle cx="109.3" cy="204.0" r="4" fill="#3465a4"><title>Westgaard Captain (Personal)</title></circle></a><a href="/variants/s10/db12w4r12w5k4w12db20r4db5r4~x2/"><circle cx="147.5" cy="216.3" r="4" fill="#3465a4"><title>Commonwealth Games 1986 Special Event Tartan</title></circle></a><a href="/variants/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6~t2405244/"><circle cx="131.2" cy="186.6" r="4" fill="#3465a4"><title>U.S. Postal Service</title></circle></a><a href="/variants/s14/db5k2g2k2g2k2db8r3db3r3db8r3w5r3~x2/"><circle cx="102.5" cy="202.4" r="4" fill="#3465a4"><title>Stuart/Stewart Old</title></circle></a><a href="/variants/s8/k6w11b11r13db17w10k2w4~x2/"><circle cx="66.4" cy="211.3" r="4" fill="#3465a4"><title>Edinburgh, Military Tattoo dress</title></circle></a><a href="/variants/s8/dr4wi2w8dg2w8k3wi2db4~x4~wi3600000-w3502055/"><circle cx="101.4" cy="216.4" r="4" fill="#3465a4"><title>Desang (Corporate)</title></circle></a><a href="/variants/s8/dr4wi2w8dg2w8k3wi2db4~x2~wi3600000-w3502055/"><circle cx="101.4" cy="216.4" r="4" fill="#3465a4"><title>Desang</title></circle></a><circle cx="85.4" cy="228.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

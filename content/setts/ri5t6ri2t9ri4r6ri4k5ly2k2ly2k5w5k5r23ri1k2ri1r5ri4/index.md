@@ -1,6 +1,13 @@
 ---
 title: "Westwood Red Anderson (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Westwood"
+  url: "/clan/westwood/"
+- name: "Westwood Red Anderson"
+  url: "/tartans/w/we/westwood-red-anderson/"
 ---
 This is the **Westwood Red Anderson (Fashion)** sett — one scale-free proportion (`ri5t6ri2t9ri4r6ri4k5ly2k2ly2k5w5k5r23ri1k2ri1r5ri4`), colour order pattern
 [RBRBRRRKYKYKWKRRKRRR](/stripes/rbrbrrrkykykwkrrkrrr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/r8k3n15k1w3k1n8k1w3k1r19k2ly2k2g2k2r2k2~x2/"><circle cx="133.8" cy="66.9" r="4" fill="#3465a4"><title>Canadian Dental Association (Corp.)</title></circle></a><a href="/variants/s18/r8k3lb15k1w3k1lb8k1w3k1r19k2y2k2g2k2r2k2~x2/"><circle cx="123.3" cy="64.1" r="4" fill="#3465a4"><title>Canadian Dental Association</title></circle></a><a href="/variants/s17/r30w2lb4k4y2k2w6k2lb11k15y3g20r14w4r4k2r8~x2/"><circle cx="116.7" cy="88.1" r="4" fill="#3465a4"><title>Wilson's No.156</title></circle></a><a href="/variants/s28/r44g25k2w6k2y3k16lb12r6lb12k16y3k2w6r44w6k2y3k16lb12r6lb12k16y3k2w6k2g22~x2/"><circle cx="75.5" cy="56.0" r="4" fill="#3465a4"><title>Wilson's No.017</title></circle></a><a href="/variants/s11/dy5k3g2r20db10w2g1dy1w20k4dy3~x2~db1406275/"><circle cx="88.2" cy="69.2" r="4" fill="#3465a4"><title>MacCulloch Dress Clan/Family Tartan</title></circle></a><a href="/variants/s20/r4lb5r2lb7ri3r4ri3k4lo2k2lo2k4w4k4r18ri1k2ri1r4ri3~x2~r2109032-ri2308029/"><circle cx="113.8" cy="79.5" r="4" fill="#3465a4"><title>Anderson, Red (Fashion)</title></circle></a><a href="/variants/s12/r32lb10k16y2k3w3k3g23r13k3r3w2~x2/"><circle cx="78.7" cy="80.5" r="4" fill="#3465a4"><title>Wilson's No.073</title></circle></a><a href="/variants/s17/w4y12r8k8lb32w4y7r7k2r7y7w4g32w2k8r60w2/"><circle cx="154.4" cy="54.2" r="4" fill="#3465a4"><title>Chattan, Chief</title></circle></a><a href="/variants/s13/r32lb14k16y3k4w4k4r1g28r13k4r4w2~x2/"><circle cx="136.6" cy="72.3" r="4" fill="#3465a4"><title>Carolina, States of</title></circle></a><a href="/variants/s15/w2dp2k2r4k1r21k4w1dp12k3w1g6k2db3r1~x2/"><circle cx="144.0" cy="64.5" r="4" fill="#3465a4"><title>Gaudet-Hillan (Personal)</title></circle></a><circle cx="99.4" cy="71.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

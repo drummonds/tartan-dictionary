@@ -1,6 +1,15 @@
 ---
 title: "Gunn (Logan)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Gunn"
+  url: "/clan/gunn/"
+- name: "Gunn"
+  url: "/families/gunn/"
+- name: "Gunn"
+  url: "/tartans/g/gu/gunn-3/"
 ---
 This is the **Gunn (Logan)** sett — one scale-free proportion (`r2g12k12g1k12g2`), colour order pattern
 [GKGKGR](/stripes/gkgkgr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1g15k8g1k8g1~x2/"><circle cx="280.1" cy="183.9" r="4" fill="#3465a4"><title>Gunn VS</title></circle></a><a href="/variants/s6/r1g15k8g1k8g1~x4/"><circle cx="280.1" cy="183.9" r="4" fill="#3465a4"><title>Gunn VS</title></circle></a><a href="/variants/s6/g18y2g18k4g2k15~x2/"><circle cx="314.0" cy="219.9" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/variants/s6/g18ly2g18k4g2k15~x2/"><circle cx="311.1" cy="219.1" r="4" fill="#3465a4"><title>MacArthur (Highland Society)</title></circle></a><a href="/variants/s6/g3k8g8lb3k18g2~x4/"><circle cx="293.9" cy="208.5" r="4" fill="#3465a4"><title>Kincardine City</title></circle></a><a href="/variants/s6/r3g30k12g6k16y2~x2/"><circle cx="254.0" cy="177.4" r="4" fill="#3465a4"><title>MacArthur (Variant)</title></circle></a><a href="/variants/s6/r1g16k8g3k4y1/"><circle cx="289.1" cy="165.8" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/variants/s6/r1g16k8g3k4y1~x2/"><circle cx="289.1" cy="165.8" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/variants/s6/r1g16k8g4k4y1~x2/"><circle cx="293.0" cy="168.9" r="4" fill="#3465a4"><title>Forbes #6</title></circle></a><a href="/variants/s8/g6k16w1k16g8k4g12r2~x2/"><circle cx="255.7" cy="174.3" r="4" fill="#3465a4"><title>MacAulay Hunting</title></circle></a><circle cx="292.4" cy="201.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "MacKenzie"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacKenzie"
+  url: "/clan/mackenzie/"
 ---
 A family of [Clan MacKenzie](/clan/mackenzie/).
 

@@ -1,6 +1,13 @@
 ---
 title: "West Lothian"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan West"
+  url: "/clan/west/"
+- name: "West Lothian"
+  url: "/tartans/w/we/west-lothian/"
 ---
 This is the **West Lothian** sett — one scale-free proportion (`g40k8g4k8g4dr14db64lb9db3`), colour order pattern
 [BWBBGKGKG](/stripes/bwbbgkgkg/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g40k8g4k8g4dr14b64lb9b3/"><circle cx="215.3" cy="123.0" r="4" fill="#3465a4"><title>West Lothian/Linlithgowshire</title></circle></a><a href="/variants/s9/db24k8g8r2g4k1w2k1g4~x2/"><circle cx="209.8" cy="112.4" r="4" fill="#3465a4"><title>Ferguson (Tarlogie)</title></circle></a><a href="/variants/s9/db24y2k8g16k1g3k1g3r4~x2/"><circle cx="192.9" cy="119.7" r="4" fill="#3465a4"><title>Ogilvy Hunting</title></circle></a><a href="/variants/s11/r3g2k1g2db26k12db4g15k1db1y3~x2/"><circle cx="217.6" cy="100.5" r="4" fill="#3465a4"><title>King (Personal)</title></circle></a><a href="/variants/s9/g20k2g2k2g2k8db24dp3db3~x2/"><circle cx="208.7" cy="159.5" r="4" fill="#3465a4"><title>MacHarg, Iain</title></circle></a><a href="/variants/s11/lb4g4r1db24lb4k2g24r1db10lb4db2~x2/"><circle cx="226.8" cy="111.2" r="4" fill="#3465a4"><title>Coopers &amp; Lybrand</title></circle></a><a href="/variants/s8/db28y1db2k16g24k1g2r3~x2/"><circle cx="202.1" cy="117.2" r="4" fill="#3465a4"><title>Ogilvy VS</title></circle></a><a href="/variants/s11/dr1db1dr8lb1k2db16k2lb1g8db1g1~x4/"><circle cx="209.1" cy="123.3" r="4" fill="#3465a4"><title>MacMichael</title></circle></a><a href="/variants/s8/w2dbi19k4dbi4k4g9db2k1~x4~dbi1705244-db1106275/"><circle cx="232.2" cy="138.9" r="4" fill="#3465a4"><title>Dollar Academy (1999) (Corporate)</title></circle></a><a href="/variants/s8/lb2dbi19k4dbi4k4g9db2k1~x4~dbi1404245-db1106275/"><circle cx="246.1" cy="142.4" r="4" fill="#3465a4"><title>Dollar Academy (1999)</title></circle></a><circle cx="212.9" cy="120.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

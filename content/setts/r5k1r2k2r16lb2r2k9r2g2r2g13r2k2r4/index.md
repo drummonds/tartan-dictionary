@@ -1,6 +1,11 @@
 ---
 title: "Unidentified No 3 #2"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Unidentified No 3"
+  url: "/tartans/u/un/unidentified-no-3/"
 ---
 This is the **Unidentified No 3 #2** sett — one scale-free proportion (`r5k1r2k2r16lb2r2k9r2g2r2g13r2k2r4`), colour order pattern
 [RKRGRGRKRWRKRKR](/stripes/rkrgrgrkrwrkrkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r16k6r6g46r6g5r6k12r6lb6r48k6r6k6r16/"><circle cx="249.5" cy="130.6" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/variants/s17/y1r2k4r14g8r2g3y1g3r2g8r13k2r2k2r1y1~x2/"><circle cx="248.0" cy="121.8" r="4" fill="#3465a4"><title>Gaffney (2016)</title></circle></a><a href="/variants/s10/g4r4k2r20lb1k7r2g10r3k2~x2/"><circle cx="257.9" cy="123.0" r="4" fill="#3465a4"><title>MacKillop Clan Tartan</title></circle></a><a href="/variants/s10/k9r4k2r4k2r29k9r4lg14y2~x2/"><circle cx="232.4" cy="128.3" r="4" fill="#3465a4"><title>Hannay Dress (Dance)</title></circle></a><a href="/variants/s10/g4r2k2r20lb1k7r2g10r3k2~x2/"><circle cx="250.6" cy="119.7" r="4" fill="#3465a4"><title>MacKillop (Scottish Tartan Society)</title></circle></a><a href="/variants/s10/k10lb1k1r10lb1k1lb1r10g6r2~x4/"><circle cx="237.8" cy="126.3" r="4" fill="#3465a4"><title>Unidentified (Scolpaig)</title></circle></a><a href="/variants/s12/y4k2r7k15r3k3r3k7r28dg7r6dg2/"><circle cx="252.9" cy="124.8" r="4" fill="#3465a4"><title>Walker</title></circle></a><a href="/variants/s12/w8k9y9r21y6k6w4k6y6r49k22w4/"><circle cx="191.3" cy="129.3" r="4" fill="#3465a4"><title>Normandy (Fashion)</title></circle></a><a href="/variants/s14/w3k1r15k6r5k3r8k2r5y3w2y4k1w3~x2/"><circle cx="219.6" cy="128.9" r="4" fill="#3465a4"><title>Avalon - Stewart House</title></circle></a><a href="/variants/s12/r8g1r8g16r4k2lb1k4r8g1r8k1~x2/"><circle cx="285.1" cy="138.6" r="4" fill="#3465a4"><title>MacLeod and MacNicol</title></circle></a><circle cx="239.0" cy="113.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

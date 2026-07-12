@@ -1,6 +1,13 @@
 ---
 title: "Stewart Hunting Early"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Stewart"
+  url: "/clan/stewart/"
+- name: "Stewart Hunting Early"
+  url: "/tartans/s/st/stewart-hunting-early/"
 ---
 This is the **Stewart Hunting Early** sett — one scale-free proportion (`g4db9k3db3k8g27r4g27k8g5k13g4k13g5k8g27y4g27k8db3k3db9g4`), colour order pattern
 [GBKBKGGGKGKGKGKGRGKBKBG](/stripes/gbkbkgggkgkgkgkgrgkbkbg/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s23/g4db9k3db3k8g27r8g27k8g5k13g8k13g5k8g27y8g27k8db3k3db9g4/"><circle cx="191.8" cy="137.7" r="4" fill="#3465a4"><title>Stewart Hunting Early</title></circle></a><a href="/variants/s23/g2db4k1db1k3g12r2g12k3g2k6g2k6g2k3g12y2g12k4db1k1db3g2/"><circle cx="227.0" cy="117.9" r="4" fill="#3465a4"><title>Stewart Hunting Early</title></circle></a><a href="/variants/s22/db9g4db9k3db3k8g27r4g27k8g5k13g4k13g5k8g27y4g27k8db3k3/"><circle cx="202.3" cy="134.4" r="4" fill="#3465a4"><title>Stewart Hunting General Tartan</title></circle></a><a href="/variants/s27/g2db7k1db1k1db1k3g11r2g11k3g2k6g2k6g2k3g11y2g11k3db1k1db1k1db7g2~x2/"><circle cx="180.3" cy="115.2" r="4" fill="#3465a4"><title>Stewart Hunting</title></circle></a><a href="/variants/s27/g2db8k1db1k1db1k2g11r2g11k3g2k6g2k6g2k3g11y2g11k2db1k1db1k1db8g2/"><circle cx="182.4" cy="113.6" r="4" fill="#3465a4"><title>Stewart Hunting</title></circle></a><a href="/variants/s27/g2db7k1db1k1db1k3g11r4g11k3g2k6g4k6g2k3g11y4g11k3db1k1db1k1db7g2/"><circle cx="167.2" cy="120.6" r="4" fill="#3465a4"><title>Stewart Hunting</title></circle></a><a href="/variants/s27/g2db3k1db1k1db1k4g12r4g12k3g2k6g4k6g2k3g12y4g12k4db1k1db1k1db3g2/"><circle cx="200.7" cy="110.2" r="4" fill="#3465a4"><title>Stewart Hunting D</title></circle></a><a href="/variants/s27/g2db3k1db1k1db1k4g12r2g12k3g2k6g2k6g2k3g12y2g12k4db1k1db1k1db3g2/"><circle cx="215.6" cy="104.8" r="4" fill="#3465a4"><title>Stewart Hunting D</title></circle></a><a href="/variants/s27/g2db3k1db1k1db1k4g12r2g12k3g2k6g2k6g2k3g12y2g12k4db1k1db1k1db3g2~x2/"><circle cx="215.6" cy="104.8" r="4" fill="#3465a4"><title>Stewart Hunting D</title></circle></a><a href="/variants/s17/k1g1dr1g1lo1g1lo1g4db1k1db1k1db1k1db1g7dr1~x4/"><circle cx="187.6" cy="143.8" r="4" fill="#3465a4"><title>Myron</title></circle></a><circle cx="206.5" cy="131.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,8 +1,13 @@
 ---
 title: "Clan MacGregor (Clan Gregor)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
 ---
 **Territory:** dispersed (Balquhidder) · **1745 strength:** 500 men
+
+Bold red-and-black check; specimen in Highland Society of London collection certified by Sir John MacGregor Murray, 1815-16.
 
 ## Tartan
 

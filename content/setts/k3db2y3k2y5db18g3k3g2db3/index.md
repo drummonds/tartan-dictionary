@@ -1,6 +1,11 @@
 ---
 title: "St Andrews University Corporate Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "St Andrews University"
+  url: "/tartans/s/st/st-andrews-university/"
 ---
 This is the **St Andrews University Corporate Tartan** sett — one scale-free proportion (`k3db2y3k2y5db18g3k3g2db3`), colour order pattern
 [BGKGBGKGBK](/stripes/bgkgbgkgbk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/n3dp3k16n2o2n16k3n2o2~x2~n1900000-o2500000/"><circle cx="231.7" cy="172.6" r="4" fill="#3465a4"><title>Chinzei Keiai Junior High School</title></circle></a><a href="/variants/s15/db18n16o11n20k7n7k11n7k7n35k52n71o7k7o12~n1900000-o2500000/"><circle cx="247.3" cy="147.4" r="4" fill="#3465a4"><title>CBS (Corporate)</title></circle></a><a href="/variants/s13/db56k6g24k6db8k21y6k21db8k6g24k6db56/"><circle cx="233.1" cy="165.5" r="4" fill="#3465a4"><title>Murray of Elibank Clan Tartan</title></circle></a><a href="/variants/s8/k1t1k1t7dy7k1dy1lt1~x6/"><circle cx="199.4" cy="189.8" r="4" fill="#3465a4"><title>Auld Lang Syne</title></circle></a><a href="/variants/s9/n3o3k16n2k2n16k3n2lb2~x2~n1700000-o2500000/"><circle cx="231.1" cy="167.9" r="4" fill="#3465a4"><title>Chinzei Keiai Senior High School</title></circle></a><a href="/variants/s9/ni3o3k16ni2k2ni16k3ni2n2~x2~ni1700000/"><circle cx="243.9" cy="171.3" r="4" fill="#3465a4"><title>Chinzei Keiai Junior High School</title></circle></a><a href="/variants/s12/k1w1k8dg1k1db8dg8k1db1k8w1k1~x6/"><circle cx="214.1" cy="161.2" r="4" fill="#3465a4"><title>Chess (Universal)</title></circle></a><a href="/variants/s9/n3o3k16n2k2n16k3n2lb2~x2~n1900000-o2500000/"><circle cx="225.6" cy="166.4" r="4" fill="#3465a4"><title>Chinzei Keiai Senior High School</title></circle></a><a href="/variants/s11/r2db8k1g2k1g4k1g2k1db8y2~x2/"><circle cx="194.4" cy="167.2" r="4" fill="#3465a4"><title>MacCainsh Family Tartan</title></circle></a><a href="/variants/s9/k3g3k20r2k2r2db20g3db3~x2/"><circle cx="218.6" cy="156.0" r="4" fill="#3465a4"><title>Hume or Home Clan Tartan</title></circle></a><circle cx="251.4" cy="167.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Brocliande (Fashion))"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Brocliande )"
+  url: "/tartans/b/br/brocliande/"
 ---
 This is the **Brocliande (Fashion))** sett — one scale-free proportion (`k3lb11g15dgi5g10dg14dgi14lo2`), colour order pattern
 [KWGGGGGY](/stripes/kwgggggy/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k3db11g15dg5g10dgi14dg14ly2~x2~dg1302166-dgi1303152/"><circle cx="126.9" cy="233.5" r="4" fill="#3465a4"><title>Brocéliande (Restricted)</title></circle></a><a href="/variants/s7/dbi8g11k3g11dr12db10y2~x2~dbi1406275-db1404245/"><circle cx="114.4" cy="242.4" r="4" fill="#3465a4"><title>Parliament Trade Tartan</title></circle></a><a href="/variants/s9/lyi5g23t21ly30k10ly4g4ly16w3~x2~lyi2705081-ly2503076/"><circle cx="176.4" cy="187.8" r="4" fill="#3465a4"><title>State Seal of Kansas (Fashion)</title></circle></a><a href="/variants/s7/dg12g6r1g10dp8y2w2~x4/"><circle cx="174.0" cy="199.7" r="4" fill="#3465a4"><title>Connelly, James (Personal)</title></circle></a><a href="/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/"><circle cx="96.0" cy="204.9" r="4" fill="#3465a4"><title>Corcoran of Sherbrooke (Personal)</title></circle></a><a href="/variants/s8/g1lr1g6db5dg6r1dg1lo1~x4~dg1605139/"><circle cx="143.9" cy="213.9" r="4" fill="#3465a4"><title>Vermont District USA Tartan</title></circle></a><a href="/variants/s8/g9lb2g9k2dy14ly4lb2r2~x4~dy1603076-ly3307090/"><circle cx="149.4" cy="191.1" r="4" fill="#3465a4"><title>McShane (Personal)</title></circle></a><a href="/variants/s8/g14dt11y3k5y3dt11g14ly2~x2/"><circle cx="181.5" cy="225.4" r="4" fill="#3465a4"><title>Wilson's No.122</title></circle></a><a href="/variants/s12/dg29g16k8r4dg16g16y4r4k16t4g28dg16/"><circle cx="114.4" cy="185.3" r="4" fill="#3465a4"><title>MacCamley Clan Tartan</title></circle></a><a href="/variants/s12/dg29g16k8r4dg16g16y4r4k16gi4g28dg16~gi2003208/"><circle cx="115.5" cy="185.6" r="4" fill="#3465a4"><title>McCamley (Personal)</title></circle></a><circle cx="102.5" cy="227.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

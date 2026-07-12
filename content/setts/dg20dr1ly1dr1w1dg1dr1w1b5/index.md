@@ -1,6 +1,11 @@
 ---
 title: "Scotts Valley"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Scotts Valley"
+  url: "/tartans/s/sc/scotts-valley/"
 ---
 This is the **Scotts Valley** sett — one scale-free proportion (`dg20dr1ly1dr1w1dg1dr1w1b5`), colour order pattern
 [BWBGWBYBG](/stripes/bwbgwbybg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dy62y7g7r3w3db13w3r5~x2/"><circle cx="338.1" cy="108.6" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/variants/s7/g55dbi7dr24g12db4dy3db4~x2~dbi1406275-db1404245/"><circle cx="404.5" cy="183.7" r="4" fill="#3465a4"><title>Crieff &amp; Strathearn #1</title></circle></a><a href="/variants/s9/y3g6dg32r4y2r2dp7dg2w2~x2/"><circle cx="309.8" cy="124.9" r="4" fill="#3465a4"><title>Pienaar (Personal)</title></circle></a><a href="/variants/s6/w2dr45y3dg8db8w2~x2/"><circle cx="445.4" cy="150.9" r="4" fill="#3465a4"><title>Glencross (Moniaive) (Personal)</title></circle></a><a href="/variants/s5/g47dr3g6db35lo3~x2/"><circle cx="346.9" cy="197.8" r="4" fill="#3465a4"><title>Gracie</title></circle></a><a href="/variants/s8/g40dr3g4dr3g12db32lo4dr3~x2/"><circle cx="351.2" cy="196.3" r="4" fill="#3465a4"><title>Leatherneck</title></circle></a><a href="/variants/s6/g55y4db15w3dr3w5~x2/"><circle cx="390.6" cy="164.6" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/variants/s6/g55y4db15w3r3w5~x2/"><circle cx="379.9" cy="157.0" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/variants/s8/g78db13ly6r3ly5g6db9ly6~x2/"><circle cx="436.8" cy="140.5" r="4" fill="#3465a4"><title>Walterstrm (2014))</title></circle></a><a href="/variants/s7/lb5dy6w2g7w2t44w2~x2/"><circle cx="443.9" cy="163.5" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><circle cx="412.5" cy="126.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

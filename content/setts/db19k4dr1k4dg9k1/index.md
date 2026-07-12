@@ -1,6 +1,11 @@
 ---
 title: "Monarchs Corporate Sport Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Monarchs Corporate Sport"
+  url: "/tartans/m/mo/monarchs-corporate-sport/"
 ---
 This is the **Monarchs Corporate Sport Tartan** sett — one scale-free proportion (`db19k4dr1k4dg9k1`), colour order pattern
 [BKBKGK](/stripes/bkbkgk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db19k4dr1k4dg9dr1~x4/"><circle cx="340.2" cy="187.2" r="4" fill="#3465a4"><title>Monarchs</title></circle></a><a href="/variants/s6/db19k4b1k4dg9b1~x4/"><circle cx="324.0" cy="182.5" r="4" fill="#3465a4"><title>Monarchs</title></circle></a><a href="/variants/s7/dt6n4dt2db25k30g2k2~x2/"><circle cx="255.4" cy="152.6" r="4" fill="#3465a4"><title>Passion of Scotland (Fashion)</title></circle></a><a href="/variants/s7/k5r3k27ki37r5g2y2~x2~ki0604259/"><circle cx="266.6" cy="133.1" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s7/k8dr4k36db48dr6dg3lo2~x2/"><circle cx="288.5" cy="134.1" r="4" fill="#3465a4"><title>Royal Marines Condor (Military)</title></circle></a><a href="/variants/s5/k20db50dg50r3k3~x2/"><circle cx="284.1" cy="207.1" r="4" fill="#3465a4"><title>Louisville Spaulding (Personal)</title></circle></a><a href="/variants/s6/k10lo4dg34db34k1y3~x2/"><circle cx="265.1" cy="143.4" r="4" fill="#3465a4"><title>Singh, Gopal (Personal)</title></circle></a><a href="/variants/s6/db40b16k5dt16w2dp6~x2/"><circle cx="264.2" cy="164.4" r="4" fill="#3465a4"><title>McFarland-Collins</title></circle></a><a href="/variants/s6/db22k16y4k11dp2n1~x4/"><circle cx="271.4" cy="159.1" r="4" fill="#3465a4"><title>Martinez, Clément (Personal)</title></circle></a><a href="/variants/s8/y2k4y1dg16k14db23k4r1~x2/"><circle cx="216.5" cy="144.3" r="4" fill="#3465a4"><title>Thomas of Craigie (Personal)</title></circle></a><circle cx="318.4" cy="171.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

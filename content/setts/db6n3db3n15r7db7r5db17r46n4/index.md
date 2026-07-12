@@ -1,6 +1,11 @@
 ---
 title: "Harry (Welsh Name)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Harry"
+  url: "/tartans/h/ha/harry/"
 ---
 This is the **Harry (Welsh Name)** sett — one scale-free proportion (`db6n3db3n15r7db7r5db17r46n4`), colour order pattern
 [BBBBRBRBRB](/stripes/bbbbrbrbrb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r2w2b2w2b7w4b1r21b2~x4/"><circle cx="351.2" cy="146.3" r="4" fill="#3465a4"><title>American</title></circle></a><a href="/variants/s9/db2r21db1w4db7w2db2w2r2~x2/"><circle cx="329.2" cy="138.4" r="4" fill="#3465a4"><title>31, Tartan (The.. )</title></circle></a><a href="/variants/s9/t27db8t14db8t14db26r84db6r12/"><circle cx="316.4" cy="183.3" r="4" fill="#3465a4"><title>POF (Fashion)</title></circle></a><a href="/variants/s12/r28g2r5g2r28db3r3g24r3db24r3db3~x2/"><circle cx="328.6" cy="165.8" r="4" fill="#3465a4"><title>Robertson #5</title></circle></a><a href="/variants/s9/r5m2r1dg16m2r11m1r1m2~x4/"><circle cx="323.1" cy="171.6" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang (Artefact)</title></circle></a><a href="/variants/s12/dy4db2r7db15r4db3r4db7r28dg7r6dg2/"><circle cx="319.4" cy="157.1" r="4" fill="#3465a4"><title>Walker Family Tartan</title></circle></a><a href="/variants/s13/r5g2r30db3r3db30r3g30r3db3r30g2r5~x2/"><circle cx="319.3" cy="154.9" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/variants/s13/r5g2r30db3r3db30r3g30r3db3r30g2r5/"><circle cx="319.3" cy="154.9" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/variants/s13/r3g1r15db2r2db15r2g15r2db2r15g1r3~x2/"><circle cx="319.7" cy="159.8" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/variants/s9/db3dy1db14r14dy1r1dy1r1db2~x4/"><circle cx="349.0" cy="164.7" r="4" fill="#3465a4"><title>Breckon</title></circle></a><circle cx="352.0" cy="172.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

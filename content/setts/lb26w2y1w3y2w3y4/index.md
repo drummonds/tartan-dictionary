@@ -1,6 +1,11 @@
 ---
 title: "Argentine Flag"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Argentine Flag"
+  url: "/tartans/a/ar/argentine-flag/"
 ---
 This is the **Argentine Flag** sett — one scale-free proportion (`lb26w2y1w3y2w3y4`), colour order pattern
 [GWGWGWW](/stripes/gwgwgww/). It is recorded as a single **variant**, below.

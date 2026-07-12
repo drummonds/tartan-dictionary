@@ -1,6 +1,15 @@
 ---
 title: "Humphries (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Humphries"
+  url: "/clan/humphries/"
+- name: "Humphries"
+  url: "/families/humphries/"
+- name: "Humphries"
+  url: "/tartans/h/hu/humphries/"
 ---
 This is the **Humphries (Personal)** sett — one scale-free proportion (`db16k4db4k4db6k14dg17k2r3k2dg17k14db18w4`), colour order pattern
 [BKBKBKGKRKGKBW](/stripes/bkbkbkgkrkgkbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db10k2db2k2db2k8g8k1w2k1g8k8db9r2~x2/"><circle cx="109.3" cy="158.8" r="4" fill="#3465a4"><title>MacKenzie (Miniture) Clan Tartan</title></circle></a><a href="/variants/s14/db10k1db1k1db1k6g6k1y2k1g6k6db6r3~x2/"><circle cx="114.1" cy="155.8" r="4" fill="#3465a4"><title>MacLeod of Skye</title></circle></a><a href="/variants/s15/dg26k4dg6r4dg6k26db26k3w7k3db26k26dg26k3r7~x2/"><circle cx="114.6" cy="160.4" r="4" fill="#3465a4"><title>MacRae Htg - 1820 (Wilsons)</title></circle></a><a href="/variants/s15/dg2k1db9k9dg9k1w1k2w1k1dg9k9db9k1r2~x4/"><circle cx="143.4" cy="154.4" r="4" fill="#3465a4"><title>Stephenson Htg (Name)</title></circle></a><a href="/variants/s12/dg10k9db11lb1db3lo1db10k9dg11lb1dg3lo1~x4/"><circle cx="156.6" cy="176.1" r="4" fill="#3465a4"><title>Scottish Womens Rural Institute (Cor</title></circle></a><a href="/variants/s12/k19w3dg19r5dg19w3k19db19k3db2k3db19~x2/"><circle cx="121.6" cy="175.5" r="4" fill="#3465a4"><title>Fruin Colquhoun</title></circle></a><a href="/variants/s7/r4k2db16k17dg16k2y4~x2/"><circle cx="156.0" cy="182.6" r="4" fill="#3465a4"><title>Wilson's No.230</title></circle></a><a href="/variants/s12/db3dr2db13k9dy3k2dy14k2dy3k9db15w3~x2/"><circle cx="157.9" cy="180.2" r="4" fill="#3465a4"><title>McWilliams Dress (2014)</title></circle></a><a href="/variants/s15/db11k3db3k3db3k9dg9k1dy3k1dg9k9db9k1w3~x2/"><circle cx="135.5" cy="165.7" r="4" fill="#3465a4"><title>Glengoyne Distillery Corporate Tartan</title></circle></a><a href="/variants/s15/db11k3db3k3db3k9dg9k1y3k1dg9k9db9k1w3~x2/"><circle cx="128.0" cy="163.1" r="4" fill="#3465a4"><title>Glengoyne, Distillery</title></circle></a><circle cx="132.2" cy="172.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Mauthe Unidentified"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Mauthe Unidentified"
+  url: "/tartans/m/ma/mauthe-unidentified/"
 ---
 This is the **Mauthe Unidentified** sett — one scale-free proportion (`r2dy2r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2`), colour order pattern
 [RGRGGGWGGGRGRGRGR](/stripes/rgrgggwgggrgrgrgr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2~x2/"><circle cx="220.2" cy="174.2" r="4" fill="#3465a4"><title>Mauthe Unidentified (Name?)</title></circle></a><a href="/variants/s14/g6r2g2r18dp9r3g3r3dp9r3g24r2g2r4~x2/"><circle cx="270.6" cy="176.4" r="4" fill="#3465a4"><title>Stewart of Urrard (Clan?)</title></circle></a><a href="/variants/s14/r5g16r5db4w2db4r22db4w2db4r5g16r5db2~x4/"><circle cx="225.7" cy="169.4" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/variants/s14/dr2r3g2db2r6g16r2db4g2r16g8dr2r4w2~x2/"><circle cx="220.5" cy="166.8" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/variants/s14/dr2r3g2db2r6g16r2db4g2r16g8dr2r4w2/"><circle cx="220.5" cy="166.8" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/variants/s13/g8r1g1r1g1r6do8r1do8r6g7r1g1/"><circle cx="234.2" cy="216.2" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s12/do12r1do2r1do2lb2do3o9r1o2r1o3~x4~o2500000/"><circle cx="251.3" cy="146.6" r="4" fill="#3465a4"><title>Shieldhall</title></circle></a><a href="/variants/s14/dp2r3g2db2r6g16r2db4g2r16g8dp2r4w2~x2/"><circle cx="218.6" cy="166.1" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/variants/s14/dg2r3g2db2r6g16r2db4g2r16g8dg2r4w2/"><circle cx="219.0" cy="167.3" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/variants/s11/r2dp3ri2r15dp2g20dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><circle cx="243.9" cy="180.9" r="4" fill="#3465a4"><title>Drumlithie</title></circle></a><circle cx="223.7" cy="164.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

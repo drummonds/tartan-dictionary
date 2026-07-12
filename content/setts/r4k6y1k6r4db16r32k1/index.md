@@ -1,6 +1,15 @@
 ---
 title: "Leslie Clan Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Leslie"
+  url: "/clan/leslie/"
+- name: "Leslie"
+  url: "/families/leslie/"
+- name: "Leslie"
+  url: "/tartans/l/le/leslie-2/"
 ---
 This is the **Leslie Clan Tartan** sett — one scale-free proportion (`r4k6y1k6r4db16r32k1`), colour order pattern
 [KRBRKGKR](/stripes/krbrkgkr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r2k3y1k3r2db8r16k1~x4/"><circle cx="281.1" cy="130.9" r="4" fill="#3465a4"><title>Leslie Red (VS) (Clan)</title></circle></a><a href="/variants/s8/r4k6y1k6r4db16r32db1~x2/"><circle cx="319.9" cy="103.1" r="4" fill="#3465a4"><title>Leslie Dress</title></circle></a><a href="/variants/s8/r11w1r32k8db6k1db16k1~x2/"><circle cx="317.6" cy="110.2" r="4" fill="#3465a4"><title>Ostermeier (2015)</title></circle></a><a href="/variants/s8/r1k3lb2k28r30k1r2lb1~x2/"><circle cx="316.4" cy="99.4" r="4" fill="#3465a4"><title>Las Vegas Fire Fighters</title></circle></a><a href="/variants/s9/n3k14r3k14lb3r32k2r6k2~x2/"><circle cx="267.3" cy="122.9" r="4" fill="#3465a4"><title>Gallmore (Fashion)</title></circle></a><a href="/variants/s7/k3r1k30r28db1r1w3~x2/"><circle cx="292.6" cy="96.5" r="4" fill="#3465a4"><title>Cunningham (VS) Clan Tartan</title></circle></a><a href="/variants/s9/y1k3r24k3r3k24r3k3w1~x2/"><circle cx="295.1" cy="97.4" r="4" fill="#3465a4"><title>Maciver of Strathendry Castle Dress (Personal)</title></circle></a><a href="/variants/s9/y27k4w4r64w4r4k4r4k12~x2/"><circle cx="295.8" cy="110.3" r="4" fill="#3465a4"><title>O'Meehan (Name)</title></circle></a><a href="/variants/s9/r4k12w1k12r4k4r24g1r4~x2/"><circle cx="295.3" cy="114.7" r="4" fill="#3465a4"><title>Wemyss Clan Tartan</title></circle></a><a href="/variants/s9/r4k12w1k12r4k4r24g1r4~x4/"><circle cx="295.3" cy="114.7" r="4" fill="#3465a4"><title>Wemyss</title></circle></a><circle cx="316.4" cy="101.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

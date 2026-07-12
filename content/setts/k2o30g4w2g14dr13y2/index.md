@@ -1,6 +1,11 @@
 ---
 title: "Red Rum"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Red Rum"
+  url: "/tartans/r/re/red-rum-2/"
 ---
 This is the **Red Rum** sett — one scale-free proportion (`k2o30g4w2g14dr13y2`), colour order pattern
 [GBGWGRK](/stripes/gbgwgrk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k2dy30g4w2g14dr13y2~x2/"><circle cx="235.7" cy="153.6" r="4" fill="#3465a4"><title>Red Rum Commemorative Tartan</title></circle></a><a href="/variants/s8/g9lb2g9k2dy14ly4lb2r2~x4~dy1603076-ly3307090/"><circle cx="149.4" cy="191.1" r="4" fill="#3465a4"><title>McShane (Personal)</title></circle></a><a href="/variants/s9/r3k1g8ly1dyi7ly1g19dy25k1~x2~dyi1603076-dy1503076/"><circle cx="266.4" cy="125.5" r="4" fill="#3465a4"><title>The Broons (Corporate)</title></circle></a><a href="/variants/s6/r20w1k1o6dy1g18~x2/"><circle cx="246.4" cy="137.4" r="4" fill="#3465a4"><title>Gordon of Abergeldie (Red..) Portrait Tartan</title></circle></a><a href="/variants/s8/o4r3o24k1w7k1g24y3~x2/"><circle cx="229.3" cy="120.2" r="4" fill="#3465a4"><title>Layton, Mervin</title></circle></a><a href="/variants/s7/k3r12do8ly2g36do10lb2~x2/"><circle cx="232.6" cy="131.2" r="4" fill="#3465a4"><title>Snelgrove Htg (Name)</title></circle></a><a href="/variants/s6/r20w1k1b6y1g18~x2/"><circle cx="238.0" cy="137.8" r="4" fill="#3465a4"><title>Gordon of Abergeldie, (Red..)</title></circle></a><a href="/variants/s12/dy30g4w2g14dr13ly2dr13g14w2g4dy30k2~x2~dy1603076-ly3307090/"><circle cx="242.2" cy="144.6" r="4" fill="#3465a4"><title>Red Rum</title></circle></a><a href="/variants/s6/k7w2dg2o31dr35ly2~x2/"><circle cx="252.7" cy="137.6" r="4" fill="#3465a4"><title>Mason (Personal)</title></circle></a><a href="/variants/s8/o30k4o3k4o3g20dt20y4~x2/"><circle cx="188.7" cy="177.0" r="4" fill="#3465a4"><title>Sikh (Corporate)</title></circle></a><circle cx="235.0" cy="149.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

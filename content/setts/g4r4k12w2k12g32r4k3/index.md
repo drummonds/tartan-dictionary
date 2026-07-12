@@ -1,6 +1,15 @@
 ---
 title: "MacHardy (Clans Originaux)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacHardy"
+  url: "/clan/machardy/"
+- name: "MacHardy"
+  url: "/families/machardy/"
+- name: "MacHardy"
+  url: "/tartans/m/ma/machardy-2/"
 ---
 This is the **MacHardy (Clans Originaux)** sett — one scale-free proportion (`g4r4k12w2k12g32r4k3`), colour order pattern
 [GRKWKGRK](/stripes/grkwkgrk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k3r1g32k12w1k12r1g3~x2/"><circle cx="300.5" cy="107.9" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s8/k83r16g56k2w5k2g56r5~x2/"><circle cx="268.2" cy="108.2" r="4" fill="#3465a4"><title>MacDiarmid #2</title></circle></a><a href="/variants/s7/k6db1k6g4k10g20r2~x2/"><circle cx="249.7" cy="157.8" r="4" fill="#3465a4"><title>MacKinross</title></circle></a><a href="/variants/s7/g46k18g6k13r4k4w4~x2/"><circle cx="253.4" cy="161.5" r="4" fill="#3465a4"><title>Page</title></circle></a><a href="/variants/s7/g6r2g13k6w2k16r3~x2/"><circle cx="178.1" cy="197.2" r="4" fill="#3465a4"><title>Sinclair Hunting</title></circle></a><a href="/variants/s9/dr3g32k4g4k11db3k7dr4w3/"><circle cx="204.4" cy="139.6" r="4" fill="#3465a4"><title>Derick Wardrope (Portobello) (Personal)</title></circle></a><a href="/variants/s8/g28r3k28db8lb1g8r2k3~x2/"><circle cx="210.8" cy="112.7" r="4" fill="#3465a4"><title>Stansbury (2014)</title></circle></a><a href="/variants/s7/g8r3g30k8w3k36w8~x2/"><circle cx="198.4" cy="170.4" r="4" fill="#3465a4"><title>Cleghorn (Personal)</title></circle></a><a href="/variants/s9/k4ly17k2ly2g7k2ly2k22db4~x2/"><circle cx="200.1" cy="152.6" r="4" fill="#3465a4"><title>Bro-Leon</title></circle></a><a href="/variants/s10/k60g64dg5g8dg5g64k60y8k8y8/"><circle cx="222.3" cy="157.7" r="4" fill="#3465a4"><title>Sin-Cos</title></circle></a><circle cx="230.9" cy="145.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

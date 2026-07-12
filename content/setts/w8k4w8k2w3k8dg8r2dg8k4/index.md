@@ -1,6 +1,13 @@
 ---
 title: "Ferguson Dress variation"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ferguson"
+  url: "/clan/ferguson/"
+- name: "Ferguson Dress variation"
+  url: "/tartans/f/fe/ferguson-dress-variation/"
 ---
 This is the **Ferguson Dress variation** sett — one scale-free proportion (`w8k4w8k2w3k8dg8r2dg8k4`), colour order pattern
 [KGRGKWKWKW](/stripes/kgrgkwkwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g12k14lb11r3lb3r3lb11k14g12lb3~x2/"><circle cx="69.6" cy="231.5" r="4" fill="#3465a4"><title>Wellington (Wilson) #2</title></circle></a><a href="/variants/s9/k6w6k6w6g7w4dy3g2dy3~x2~g2203152/"><circle cx="43.2" cy="268.4" r="4" fill="#3465a4"><title>Burns Heritage Check</title></circle></a><a href="/variants/s12/dr2b5k5dg5w2dg5k5w2k2w4k2w2~x2/"><circle cx="14.0" cy="246.8" r="4" fill="#3465a4"><title>Davidson of Tulloch Dress</title></circle></a><a href="/variants/s9/k6w6k6w6g7w4dy3g2dy3~x2/"><circle cx="41.5" cy="269.4" r="4" fill="#3465a4"><title>Burns Heritage Check (Corporate)</title></circle></a><a href="/variants/s9/k12w12k12w12g13w8do6g4do5/"><circle cx="48.1" cy="272.5" r="4" fill="#3465a4"><title>Burns Heritage Check</title></circle></a><a href="/variants/s10/g12k14lb11k3lb3k3lb11k14g12lb3~x2/"><circle cx="119.4" cy="243.6" r="4" fill="#3465a4"><title>Wilson's No.166</title></circle></a><a href="/variants/s7/k4b9k13g6b3g9w4~x2/"><circle cx="77.9" cy="256.0" r="4" fill="#3465a4"><title>Ramsay, Red</title></circle></a><a href="/variants/s10/db7r3db9r2k10g9r3g2r2g7~x2/"><circle cx="86.3" cy="226.4" r="4" fill="#3465a4"><title>Cameron (altered by weaver)</title></circle></a><a href="/variants/s7/k4lo9k13g6lo3g9w4~x2/"><circle cx="74.1" cy="252.6" r="4" fill="#3465a4"><title>Ramsay (Orange)</title></circle></a><a href="/variants/s9/k1db3k3g3r1g3k3g1r1~x2/"><circle cx="76.0" cy="260.1" r="4" fill="#3465a4"><title>Unidentified No 30</title></circle></a><circle cx="60.8" cy="241.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

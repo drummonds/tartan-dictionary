@@ -1,6 +1,11 @@
 ---
 title: "Wiegratz Alba (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Wiegratz Alba"
+  url: "/tartans/w/wi/wiegratz-alba/"
 ---
 This is the **Wiegratz Alba (Personal)** sett — one scale-free proportion (`w3k2lb30k5r5y5lb5db12w1`), colour order pattern
 [WBWGRKWKW](/stripes/wbwgrkwkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r3w30b10k3dp15g2dp3g1~x2/"><circle cx="185.8" cy="90.3" r="4" fill="#3465a4"><title>S.O.B.H.D. (Corporate)</title></circle></a><a href="/variants/s9/lb50r3lb4r4lb7k14dg31ly2w2~x2/"><circle cx="224.7" cy="86.5" r="4" fill="#3465a4"><title>Highland Glen (Corporate)</title></circle></a><a href="/variants/s11/y4db7y4db26g3k1g3w9r2w4r2~x2/"><circle cx="204.3" cy="82.9" r="4" fill="#3465a4"><title>Baudoux et amis picards</title></circle></a><a href="/variants/s10/w50k1dp14g14w2dp2w2k4y2db30~x2/"><circle cx="192.2" cy="53.7" r="4" fill="#3465a4"><title>MacBeth Dress (Dance)</title></circle></a><a href="/variants/s10/r4k2dp14k12lo1lb32k12lb14k2g4~x2/"><circle cx="179.6" cy="85.3" r="4" fill="#3465a4"><title>Timmins (2013)</title></circle></a><a href="/variants/s10/w45r9k2w8k2y1k10db8dp12w2~x2/"><circle cx="238.1" cy="50.5" r="4" fill="#3465a4"><title>Bruce of Kinnaird Dress (Dance)</title></circle></a><a href="/variants/s11/y4lb1y2lb20y2r8y2lb20db16k1w4~x2/"><circle cx="218.0" cy="109.7" r="4" fill="#3465a4"><title>Congo, The Democratic Republic of the</title></circle></a><a href="/variants/s10/lb16db6k1y1k1db1lb4dy4k1r1~x4/"><circle cx="225.1" cy="95.0" r="4" fill="#3465a4"><title>Kirk in the Hills</title></circle></a><a href="/variants/s7/r8lb45w1n4k11g6r4~x2/"><circle cx="274.3" cy="69.8" r="4" fill="#3465a4"><title>Ascension Island Heritage Trust</title></circle></a><a href="/variants/s14/dy4lb1dy2lb1dy2lb16k1g8dy8r8k1lb24k1w4~x2/"><circle cx="209.9" cy="77.2" r="4" fill="#3465a4"><title>Ethiopia</title></circle></a><circle cx="209.9" cy="82.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

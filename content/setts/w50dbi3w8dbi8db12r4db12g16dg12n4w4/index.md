@@ -1,6 +1,11 @@
 ---
 title: "Fothergill (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Fothergill"
+  url: "/tartans/f/fo/fothergill/"
 ---
 This is the **Fothergill (Personal)** sett — one scale-free proportion (`w50dbi3w8dbi8db12r4db12g16dg12n4w4`), colour order pattern
 [WBGGBRBBWBW](/stripes/wbggbrbbwbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w50lb3w8lb8db12r4db12g16dg12n4w4/"><circle cx="160.8" cy="110.1" r="4" fill="#3465a4"><title>Fothergill, Baron of Kinross (Personal)</title></circle></a><a href="/variants/s12/n10b2do4y2do3w3do3o18w30r2w4do2~x2~do1003038-o2104058/"><circle cx="170.8" cy="101.0" r="4" fill="#3465a4"><title>MacLean of Duart, dress</title></circle></a><a href="/variants/s10/w4k2w30g3dp3g3dp7db14g3r3~x2/"><circle cx="169.9" cy="109.8" r="4" fill="#3465a4"><title>Edinburgh Dress (Dance)</title></circle></a><a href="/variants/s7/dp2g8r1dy1db6lb15w1~x4/"><circle cx="180.8" cy="140.1" r="4" fill="#3465a4"><title>Manx National District Tartan</title></circle></a><a href="/variants/s7/dp8g31r4dy4db17lb64w4/"><circle cx="213.0" cy="131.8" r="4" fill="#3465a4"><title>Manx National #2</title></circle></a><a href="/variants/s15/t4w2t1w19r2do4t8g4w2t3dy2g2do2r2dy2~x2/"><circle cx="153.9" cy="106.5" r="4" fill="#3465a4"><title>Highlands of Haliburton Dress</title></circle></a><a href="/variants/s11/g5r1db10w1r1w1lb10w1lb10w1y1~x4/"><circle cx="191.0" cy="145.8" r="4" fill="#3465a4"><title>Texas Blue Bonnet</title></circle></a><a href="/variants/s16/w24r1wi3n9w10n4wi3g1n3wi3n2k10wi4k7w12db2~x2~w3600000-wi4000000/"><circle cx="138.9" cy="73.0" r="4" fill="#3465a4"><title>Manhattan Financial</title></circle></a><a href="/variants/s7/dp2g6r1dy1db3lb10w1~x2/"><circle cx="148.7" cy="161.8" r="4" fill="#3465a4"><title>Manx National District Tartan</title></circle></a><a href="/variants/s14/t14lb2ly2lb2t25k6w17r3w3r3w3r3w3r3~x2/"><circle cx="154.8" cy="113.1" r="4" fill="#3465a4"><title>Letang (Personal)</title></circle></a><circle cx="157.9" cy="108.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Remony (Red)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Red Remony"
+  url: "/tartans/r/re/red-remony/"
 ---
 This is the **Remony (Red)** sett — one scale-free proportion (`dr17db2dr2db13dr2db2g17db2`), colour order pattern
 [BBBBBBGB](/stripes/bbbbbbgb/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r17db2r2db13r2db2g17db2~x2/"><circle cx="236.5" cy="215.3" r="4" fill="#3465a4"><title>Red Remony Trade Tartan</title></circle></a><a href="/variants/s7/r3db1r1db11g10r2db2~x4/"><circle cx="283.8" cy="212.2" r="4" fill="#3465a4"><title>Robertson of Struan 1816</title></circle></a><a href="/variants/s9/dp4db18dr2db2dr2db9g20db3g4~x2/"><circle cx="322.0" cy="216.8" r="4" fill="#3465a4"><title>St. Andrews New Golf Club (Corp)</title></circle></a><a href="/variants/s9/db12dr1db1dr1db1dr4g12y1g2~x4/"><circle cx="287.3" cy="195.9" r="4" fill="#3465a4"><title>Durie (Clan)</title></circle></a><a href="/variants/s9/db16dr2db2dr2db2dr6dg13ly2dg3~x2/"><circle cx="328.1" cy="243.0" r="4" fill="#3465a4"><title>Dewar, Christian (Personal)</title></circle></a><a href="/variants/s9/g20db2g2db2g2db8dr24db2dr3~x2/"><circle cx="320.8" cy="210.7" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/variants/s7/db3dr19db13dr5g21dr8db3~x2/"><circle cx="296.1" cy="277.8" r="4" fill="#3465a4"><title>MacBean of Tomatin (Clan)</title></circle></a><a href="/variants/s9/y7db32dp4db4dp8db4dp8g32y3~x2/"><circle cx="263.0" cy="211.7" r="4" fill="#3465a4"><title>Children 1st (Corporate)</title></circle></a><a href="/variants/s13/db11do1db1do1db1do8g8do1g8do8db8do1db1~x2/"><circle cx="294.3" cy="228.8" r="4" fill="#3465a4"><title>Tyneside Scottish District Tartan</title></circle></a><a href="/variants/s8/dp11dy2dp2dy2dp2dy11g14w2~x2/"><circle cx="216.9" cy="237.6" r="4" fill="#3465a4"><title>Lamont #2</title></circle></a><circle cx="286.7" cy="243.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Bailies of Bennachie Corporate Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Bailies"
+  url: "/clan/bailies/"
+- name: "Bailies of Bennachie"
+  url: "/families/bailies-of-bennachie/"
+- name: "Bailies of Bennachie"
+  url: "/tartans/b/ba/bailies-of-bennachie/"
 ---
 This is the **Bailies of Bennachie Corporate Tartan** sett — one scale-free proportion (`dg27dr2dg4o15db26k2db6`), colour order pattern
 [BKBRGBG](/stripes/bkbrgbg/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g27dr2g4r15db26k2db6~x2/"><circle cx="195.4" cy="172.1" r="4" fill="#3465a4"><title>Bailies of Bennachie (Corporate)</title></circle></a><a href="/variants/s7/dg5lp3dg32k16db32r3db5~x2/"><circle cx="219.8" cy="188.8" r="4" fill="#3465a4"><title>MacThomas (Clan)</title></circle></a><a href="/variants/s6/o4dg9w2dg24db37r3~x2/"><circle cx="329.3" cy="183.1" r="4" fill="#3465a4"><title>Hardie (Name)</title></circle></a><a href="/variants/s7/dr5dg27o2b25y7dg3dr3~x2/"><circle cx="274.7" cy="192.7" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><a href="/variants/s7/dr4dg27o2db25ly5dg3o3~x2/"><circle cx="278.4" cy="184.2" r="4" fill="#3465a4"><title>Kilkenny, County (District)</title></circle></a><a href="/variants/s8/r4dg4k2dg29db21k3db3y3~x2/"><circle cx="302.4" cy="161.7" r="4" fill="#3465a4"><title>Peter of Lee (Chief) (Personal)</title></circle></a><a href="/variants/s9/db4k3db28w2dp6dg28n2dg4dp4~x2~dg1806142-n1805302/"><circle cx="220.5" cy="140.3" r="4" fill="#3465a4"><title>Canmore</title></circle></a><a href="/variants/s8/dg5g32dp5k10dg8dr3dg8dp3~x2~dg1603171-g2203152/"><circle cx="217.3" cy="177.7" r="4" fill="#3465a4"><title>Scottish Power</title></circle></a><a href="/variants/s7/b32do6o5do6dg19o3dg5~x2/"><circle cx="283.4" cy="220.4" r="4" fill="#3465a4"><title>Roscommon</title></circle></a><a href="/variants/s7/dg3db12lb1k12dg13r2dg2~x2/"><circle cx="203.3" cy="183.4" r="4" fill="#3465a4"><title>MacPhedran/MacFadzean</title></circle></a><circle cx="252.7" cy="190.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "President High School"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "President High School"
+  url: "/tartans/p/pr/president-high-school-2/"
 ---
 This is the **President High School** sett — one scale-free proportion (`n83k7w6n10r7k3r20w3`), colour order pattern
 [BKWBRKRW](/stripes/bkwbrkrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr64k8w3k8w3b4w3dr18~x2/"><circle cx="435.3" cy="108.6" r="4" fill="#3465a4"><title>Inverness - 2000 (Fashion)</title></circle></a><a href="/variants/s10/n32k5w3n3w3n7r5k1r17w3~x2/"><circle cx="299.0" cy="104.8" r="4" fill="#3465a4"><title>President High School</title></circle></a><a href="/variants/s9/n16w1n1k1n8ly4r2w2r2~x4/"><circle cx="369.3" cy="132.9" r="4" fill="#3465a4"><title>Middleton, City of</title></circle></a><a href="/variants/s12/n68t5k9lo3k3lb3k3n20dr9k3dr5lb4/"><circle cx="350.6" cy="71.1" r="4" fill="#3465a4"><title>British Caledonian Airways #2</title></circle></a><a href="/variants/s10/o24lb2o7lb3k2n4k2lb1o4lb1~x2/"><circle cx="425.7" cy="113.8" r="4" fill="#3465a4"><title>Vemma (Corporate) XXXXXXXXX</title></circle></a><a href="/variants/s7/n140k3w16k3do16k3do16/"><circle cx="473.7" cy="91.3" r="4" fill="#3465a4"><title>Crail</title></circle></a><a href="/variants/s7/db13k3db20o70db20o30w3~x2/"><circle cx="382.5" cy="153.2" r="4" fill="#3465a4"><title>Unidentified 21</title></circle></a><a href="/variants/s10/n5k1n33dp1n9k9dp5k1dr2k4~x2/"><circle cx="405.6" cy="100.6" r="4" fill="#3465a4"><title>Lochnagar Dress (Fashion)</title></circle></a><a href="/variants/s8/dr2n2k2n28k8n9k1ly2~x2/"><circle cx="430.3" cy="114.4" r="4" fill="#3465a4"><title>Highland Autumn (Fashion)</title></circle></a><a href="/variants/s9/n68k4n18o20k3w3k10lb8lr4~n1900000-o2500000/"><circle cx="315.8" cy="93.2" r="4" fill="#3465a4"><title>Carbon (Corporate)</title></circle></a><circle cx="409.4" cy="105.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

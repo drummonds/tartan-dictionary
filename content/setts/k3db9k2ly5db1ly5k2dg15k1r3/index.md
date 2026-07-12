@@ -1,6 +1,11 @@
 ---
 title: "New Zealand (2003)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "New Zealand"
+  url: "/tartans/n/ne/new-zealand-2/"
 ---
 This is the **New Zealand (2003)** sett — one scale-free proportion (`k3db9k2ly5db1ly5k2dg15k1r3`), colour order pattern
 [KBKYBYKGKR](/stripes/kbkybykgkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r6db3r2db2r2db16k12g16r1k1y2~x2/"><circle cx="128.3" cy="127.2" r="4" fill="#3465a4"><title>Logan #7</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12g16r1g1y2~x2/"><circle cx="132.6" cy="129.7" r="4" fill="#3465a4"><title>Logan and MacLennan</title></circle></a><a href="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2~x2/"><circle cx="128.7" cy="137.9" r="4" fill="#3465a4"><title>Cameron of Erracht (Clan)</title></circle></a><a href="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2/"><circle cx="128.7" cy="137.9" r="4" fill="#3465a4"><title>Cameron of Erracht</title></circle></a><a href="/variants/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/"><circle cx="108.9" cy="152.9" r="4" fill="#3465a4"><title>MacDonell of Glengarry #2</title></circle></a><a href="/variants/s12/k9lo1dg3r5dg16k17r2t16r5t3r3t9~x2/"><circle cx="107.5" cy="140.5" r="4" fill="#3465a4"><title>Bowie, Black (Name)</title></circle></a><a href="/variants/s11/r6db6r3db3r3db28k21g28r21k2y4/"><circle cx="105.9" cy="138.2" r="4" fill="#3465a4"><title>MacLagan of Glenquiech</title></circle></a><a href="/variants/s12/db9r3db3r5db16r2k17g16r5g3y1g9~x2/"><circle cx="111.7" cy="142.7" r="4" fill="#3465a4"><title>Bowie</title></circle></a><a href="/variants/s11/db16r5db30r2k33g30r5g2r2g7w4/"><circle cx="127.7" cy="127.7" r="4" fill="#3465a4"><title>MacDonell of Glengarry #3</title></circle></a><a href="/variants/s9/r2g10k12n1k2n14k1n1g2~x2/"><circle cx="150.0" cy="142.6" r="4" fill="#3465a4"><title>MacWilliams Wedding Personal Tartan</title></circle></a><circle cx="105.8" cy="138.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

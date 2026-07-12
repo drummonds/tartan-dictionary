@@ -1,6 +1,11 @@
 ---
 title: "Lochinvar Marine Harvest"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Lochinvar Marine Harvest"
+  url: "/tartans/l/lo/lochinvar-marine-harvest-2/"
 ---
 This is the **Lochinvar Marine Harvest** sett — one scale-free proportion (`g10k2g2k2g2k7db8dp2db8k7g8k2g2`), colour order pattern
 [GKGKBBBKGKGKG](/stripes/gkgkbbbkgkgkg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g56k6g7k6g7k35db45ly6db45k35g45k6g6/"><circle cx="153.9" cy="172.2" r="4" fill="#3465a4"><title>Dewar's Highlander</title></circle></a><a href="/variants/s13/g25k8g8k8g8k46db46r8db46k46g46k8g8/"><circle cx="128.1" cy="194.9" r="4" fill="#3465a4"><title>Poulter SG 100 (Fashion)</title></circle></a><a href="/variants/s13/g8k1g1k1g1k8db8r1db8k8g8k1g1~x2/"><circle cx="135.3" cy="177.6" r="4" fill="#3465a4"><title>Urquhart Clan Tartan</title></circle></a><a href="/variants/s13/g8k1g1k1g1k8db8dr1db8k8g8k1g1~x2/"><circle cx="136.9" cy="178.4" r="4" fill="#3465a4"><title>Urquhart (Logan)</title></circle></a><a href="/variants/s13/g4k1g1k1g1k8db8r1db8k8g8k1g1~x8/"><circle cx="147.2" cy="174.9" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/variants/s12/db5k1db1k1db1k4g5y1g5k4db6k1~x4/"><circle cx="130.9" cy="207.0" r="4" fill="#3465a4"><title>Gordon</title></circle></a><a href="/variants/s13/db6k1db1k1db1k6g6lb2g6k6db6k1g2~x4/"><circle cx="105.1" cy="201.7" r="4" fill="#3465a4"><title>Cheape of Torosay #2 (Personal)</title></circle></a><a href="/variants/s13/db3k1db1k1db1k4g4w1g4k4db4k1db1/"><circle cx="101.0" cy="222.2" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s13/db3k1db1k1db1k4g4w1g4k4db4k1db1~x2/"><circle cx="101.0" cy="222.2" r="4" fill="#3465a4"><title>Lamont Clan Tartan</title></circle></a><a href="/variants/s11/db8k2db12k13g13w2k4w2g13k13db4~x2/"><circle cx="112.8" cy="210.1" r="4" fill="#3465a4"><title>Melville Family Tartan</title></circle></a><circle cx="118.7" cy="212.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

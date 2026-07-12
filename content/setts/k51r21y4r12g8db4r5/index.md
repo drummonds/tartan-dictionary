@@ -1,6 +1,15 @@
 ---
 title: "Totté (from Hofstade de Baerebeeck) (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Tott )"
+  url: "/clan/tott/"
+- name: "Tott )"
+  url: "/families/tott/"
+- name: "Totté"
+  url: "/tartans/t/to/tott/"
 ---
 This is the **Totté (from Hofstade de Baerebeeck) (Personal)** sett — one scale-free proportion (`k51r21y4r12g8db4r5`), colour order pattern
 [KRGRGBR](/stripes/krgrgbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k51r21ly4r12g8db4r5~x2/"><circle cx="213.8" cy="133.7" r="4" fill="#3465a4"><title>Tott (Personal))</title></circle></a><a href="/variants/s8/o2k37r10db3r5dy4r3w2~x2/"><circle cx="252.1" cy="82.2" r="4" fill="#3465a4"><title>Westin Kierland</title></circle></a><a href="/variants/s6/y6k5o4k48r36w6/"><circle cx="216.1" cy="141.1" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s6/y6k5r4k48o36w6/"><circle cx="214.4" cy="145.5" r="4" fill="#3465a4"><title>Drambuie dress</title></circle></a><a href="/variants/s8/t4r1k11r20k20r20g4ly1~x2/"><circle cx="229.6" cy="127.9" r="4" fill="#3465a4"><title>Templeton (Name?)</title></circle></a><a href="/variants/s8/k22ly4k4g4k16r36y3r6~x2/"><circle cx="197.9" cy="137.7" r="4" fill="#3465a4"><title>Dean Brae</title></circle></a><a href="/variants/s9/r60ly4k22g5k25lb8k4r4k4~x2/"><circle cx="218.7" cy="106.9" r="4" fill="#3465a4"><title>State Seal of Alabama (Fashion)</title></circle></a><a href="/variants/s9/lo7k3db4k3dr21k2dr4k2w4~x2/"><circle cx="194.4" cy="139.5" r="4" fill="#3465a4"><title>Castle Stewart (District)</title></circle></a><a href="/variants/s11/r12k4g2w2k21db3k22r4g4r15w3~x2/"><circle cx="193.7" cy="132.3" r="4" fill="#3465a4"><title>MacDonald, Sir John A.</title></circle></a><a href="/variants/s11/r10k3g2w2k22db4k22r4g4r14w3~x2/"><circle cx="196.7" cy="130.7" r="4" fill="#3465a4"><title>York Region Pipe Band</title></circle></a><circle cx="216.3" cy="134.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

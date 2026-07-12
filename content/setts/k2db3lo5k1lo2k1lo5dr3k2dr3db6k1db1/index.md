@@ -1,6 +1,15 @@
 ---
 title: "Franklin (District)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Franklin"
+  url: "/clan/franklin/"
+- name: "Franklin"
+  url: "/families/franklin/"
+- name: "Franklin"
+  url: "/tartans/f/fr/franklin-2/"
 ---
 This is the **Franklin (District)** sett — one scale-free proportion (`k2db3lo5k1lo2k1lo5dr3k2dr3db6k1db1`), colour order pattern
 [BKBBKBYKYKYBK](/stripes/bkbbkbykykybk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r10k10r4g2r2k2r4g12db12g3db4~x2/"><circle cx="86.7" cy="202.4" r="4" fill="#3465a4"><title>Hueg (Personal)</title></circle></a><a href="/variants/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/"><circle cx="108.9" cy="184.2" r="4" fill="#3465a4"><title>Unidentified Sample #2</title></circle></a><a href="/variants/s13/r13k2r3g10r5k3r3k12db2k3db2k3db12~x4~db1406275/"><circle cx="100.5" cy="179.6" r="4" fill="#3465a4"><title>Bonner or Bonnar</title></circle></a><a href="/variants/s13/r13k2r3g10r5k3r3k12db2k3db2k3db12~x4/"><circle cx="99.1" cy="179.8" r="4" fill="#3465a4"><title>Bonnar (Name)</title></circle></a><a href="/variants/s12/r20g3r3g13r6k10db14w3r3w3db14k12~x2/"><circle cx="55.2" cy="179.2" r="4" fill="#3465a4"><title>Glengarry Highland Games</title></circle></a><a href="/variants/s12/db8r2db2r4db10r2k11g10r4g2r2g8~x2/"><circle cx="83.9" cy="208.2" r="4" fill="#3465a4"><title>MacDonald #6</title></circle></a><a href="/variants/s10/lb10k3w3k3w3k3lb10r6k15r3~x2/"><circle cx="110.7" cy="201.0" r="4" fill="#3465a4"><title>Edinburgh, City of</title></circle></a><a href="/variants/s13/n25k8n8k8n8k46w46r8w46k46n46k8n8/"><circle cx="107.6" cy="186.0" r="4" fill="#3465a4"><title>Poulter SG 103 (Fashion)</title></circle></a><a href="/variants/s13/db4k1db5k4g8r4g8k4r3db3r12db2r4~x4/"><circle cx="126.5" cy="177.5" r="4" fill="#3465a4"><title>Murray of Atholl, Red Dress</title></circle></a><a href="/variants/s9/g12k2r12k3n12k16n12k3r6~x2/"><circle cx="93.1" cy="210.7" r="4" fill="#3465a4"><title>Borthwick Hunting</title></circle></a><circle cx="85.1" cy="200.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

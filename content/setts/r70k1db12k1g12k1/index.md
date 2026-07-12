@@ -1,6 +1,11 @@
 ---
 title: "Lawers Estate (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Lawers Estate"
+  url: "/tartans/l/la/lawers-estate/"
 ---
 This is the **Lawers Estate (Corporate)** sett — one scale-free proportion (`r70k1db12k1g12k1`), colour order pattern
 [KGKBKR](/stripes/kgkbkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db12k1r70k1g12k1~x2/"><circle cx="480.0" cy="80.9" r="4" fill="#3465a4"><title>Lawers Estate</title></circle></a><a href="/variants/s4/r32g8w4y1/"><circle cx="485.6" cy="159.0" r="4" fill="#3465a4"><title>MacLaine of Lochbuie</title></circle></a><a href="/variants/s4/r32dg8lb4y1~x2/"><circle cx="495.4" cy="159.9" r="4" fill="#3465a4"><title>MacLaine of Lochbuie (Coburn)</title></circle></a><a href="/variants/s8/dr90lr1k2lb10k5r2lr2lb2~x2/"><circle cx="515.6" cy="39.0" r="4" fill="#3465a4"><title>Lock in Northumberland (Name)</title></circle></a><a href="/variants/s6/lb5k1w11k1r42k1~x2/"><circle cx="422.7" cy="83.3" r="4" fill="#3465a4"><title>Davet (2014)</title></circle></a><a href="/variants/s8/db3w2k2r62db2k2y2w2~x2/"><circle cx="517.6" cy="47.3" r="4" fill="#3465a4"><title>Singer Sewing Machine Company</title></circle></a><a href="/variants/s6/g4r52k20dy9g2y1~x2/"><circle cx="331.5" cy="77.0" r="4" fill="#3465a4"><title>Jack, John (Fife) (Personal)</title></circle></a><a href="/variants/s8/r70k2y1dg18r10k4lb4w1~x2/"><circle cx="443.4" cy="37.2" r="4" fill="#3465a4"><title>MacIngust</title></circle></a><a href="/variants/s8/r70t1r2g12k2g1k10w1~x2/"><circle cx="451.8" cy="40.0" r="4" fill="#3465a4"><title>Zamzam (Personal)</title></circle></a><a href="/variants/s8/y8k2r23k1r17k1g4w3~x2/"><circle cx="371.3" cy="111.3" r="4" fill="#3465a4"><title>Hoa Sen</title></circle></a><circle cx="480.0" cy="80.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

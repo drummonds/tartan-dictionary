@@ -1,6 +1,11 @@
 ---
 title: "Stone of Destiny, The"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Stone"
+  url: "/clan/stone/"
 ---
 A family of [Clan Stone](/clan/stone/).
 

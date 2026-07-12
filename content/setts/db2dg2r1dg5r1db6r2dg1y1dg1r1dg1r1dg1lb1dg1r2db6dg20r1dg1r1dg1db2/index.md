@@ -1,6 +1,15 @@
 ---
 title: "Ettrick (Green) District Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ettrick"
+  url: "/clan/ettrick/"
+- name: "Ettrick"
+  url: "/families/ettrick/"
+- name: "Ettrick"
+  url: "/tartans/e/et/ettrick/"
 ---
 This is the **Ettrick (Green) District Tartan** sett — one scale-free proportion (`db2dg2r1dg5r1db6r2dg1y1dg1r1dg1r1dg1lb1dg1r2db6dg20r1dg1r1dg1db2`), colour order pattern
 [BGRGRBRGGGRGRGWGRBGRGRGB](/stripes/bgrgrbrgggrgrgwgrbgrgrgb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/dp40g2dp2g2dp2g2dp3g16db15m3db15g16dp3g2dp2g2dp2g2dp40w4~x2~dp1105325-g2203152/"><circle cx="328.9" cy="102.7" r="4" fill="#3465a4"><title>Solway Spirit</title></circle></a><a href="/variants/s10/r18db2r2db2r3db14dg29y1dg2y4~x2~db1406275/"><circle cx="329.0" cy="117.9" r="4" fill="#3465a4"><title>Unidentified Lindley #2</title></circle></a><a href="/variants/s12/dt36r3dt1r2dt3r6db1r2db35w1db1ly2~x2/"><circle cx="340.9" cy="63.6" r="4" fill="#3465a4"><title>Kirkcaldy Tartan Army</title></circle></a><a href="/variants/s25/b22r1dg4b4dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg9o24db2~x4/"><circle cx="295.7" cy="76.1" r="4" fill="#3465a4"><title>Allen hunting</title></circle></a><a href="/variants/s17/db67dy5g10r5y2r5g10dy5db4dy5g10r5n2r5dy5g10db24/"><circle cx="303.5" cy="69.8" r="4" fill="#3465a4"><title>Indianapolis MPD Emerald Society</title></circle></a><a href="/variants/s12/db15dy2db2r2db6dg30db6r2db2dy2db15w2~x2~db1204274-dg1605139/"><circle cx="346.2" cy="153.0" r="4" fill="#3465a4"><title>Hydesville Tower</title></circle></a><a href="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4~g2203152/"><circle cx="348.5" cy="136.0" r="4" fill="#3465a4"><title>Seton Hunting</title></circle></a><a href="/variants/s13/n19do2r1dr3w1dr1w1dr1do6n3dr1do3w1~x4/"><circle cx="335.0" cy="124.0" r="4" fill="#3465a4"><title>Leando Hunting (Personal)</title></circle></a><a href="/variants/s14/dg16r3n1db2dg4r2db4dg2r1lo1dy1lo1db6dg12~x4/"><circle cx="347.2" cy="131.3" r="4" fill="#3465a4"><title>Heneghan (Personal)</title></circle></a><a href="/variants/s15/n2dt1t2dt2r1t12dt2r1dr10dt28t1dt3t2dt3w1~x2~dt1102249-t2308259/"><circle cx="337.8" cy="84.9" r="4" fill="#3465a4"><title>Northfield Academy</title></circle></a><circle cx="340.0" cy="89.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Anderson of Kinnedear Red"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Anderson"
+  url: "/clan/anderson/"
+- name: "Anderson of Kinnedear"
+  url: "/families/anderson-of-kinnedear/"
+- name: "Anderson of Kinnedear"
+  url: "/tartans/a/an/anderson-of-kinnedear/"
 ---
 This is the **Anderson of Kinnedear Red** sett — one scale-free proportion (`dr4db6dr2db2dr4db6dr3k4lo2k2lo2k4g2k4dr22db1g2db1dr6db3`), colour order pattern
 [BBBBBBBKYKYKGKBBGBBB](/stripes/bbbbbbbkykykgkbbgbbb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/w1dr2y2dr20db1dr1k6dr6k6y2dr1y2db6dr3k1dr3k20dr1y2w1~x2/"><circle cx="221.5" cy="80.4" r="4" fill="#3465a4"><title>McDill (2015)</title></circle></a><a href="/variants/s19/k2w2k15dp5n5dp10lb2dp10n5dp5n30k2n4k2n30dp4n4k15w2~x2/"><circle cx="226.2" cy="105.8" r="4" fill="#3465a4"><title>Un-named fashion (2013)</title></circle></a><a href="/variants/s20/k3dr30k2dr4k2dr30k3db30k35w2k35db30k3dr30k2dr4k2dr30k3w2/"><circle cx="262.5" cy="125.9" r="4" fill="#3465a4"><title>Gwyn of Wales</title></circle></a><a href="/variants/s15/dr11w4dr8dy1dr1dy28ly2dy28k2dy2k23dr3ly6dr3k5~x2/"><circle cx="233.4" cy="90.3" r="4" fill="#3465a4"><title>Scottish Register of Tartans Corporate Tartan</title></circle></a><a href="/variants/s15/dr21k3y1k1w3k3db1k3db8k19y4k2y1k7y3~x2/"><circle cx="212.8" cy="90.8" r="4" fill="#3465a4"><title>Ruxton</title></circle></a><a href="/variants/s18/db40k8r4k4r8k4r4k8dg40k8r4k4r8k4r4k8db40y3~x2~db1204274/"><circle cx="179.2" cy="109.4" r="4" fill="#3465a4"><title>Griffiths of Llangynin (Personal)</title></circle></a><a href="/variants/s11/dr48k10db12k2dr3k2db12k10n10k2ly3~x2/"><circle cx="259.0" cy="109.6" r="4" fill="#3465a4"><title>Brooks Brothers (Corporate)</title></circle></a><a href="/variants/s15/db18dp2k2db2dp2k1db2k8g1y1g6k8db14k2g2~x2~db1504274-dp1502305/"><circle cx="247.4" cy="112.3" r="4" fill="#3465a4"><title>Angove, the Black Swan</title></circle></a><a href="/variants/s12/dr16dg4k3ly1k2lr1k3dg4dr4k1dr4lr1~x4/"><circle cx="286.0" cy="125.2" r="4" fill="#3465a4"><title>Unidentified #53</title></circle></a><a href="/variants/s16/dr4k1db8k1dy3k2db4dy6db4w3k2db20k4dr21k1dy3~x2/"><circle cx="229.2" cy="111.5" r="4" fill="#3465a4"><title>Westmeath County, Crest Range</title></circle></a><circle cx="249.9" cy="92.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

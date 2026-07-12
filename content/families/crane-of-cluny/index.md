@@ -1,6 +1,11 @@
 ---
 title: "Crane of Cluny"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Crane"
+  url: "/clan/crane/"
 ---
 A family of [Clan Crane](/clan/crane/).
 

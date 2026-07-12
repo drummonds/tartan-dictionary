@@ -1,6 +1,11 @@
 ---
 title: "MacArthur of Milton"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacArthur"
+  url: "/clan/macarthur/"
 ---
 A family of [Clan MacArthur](/clan/macarthur/).
 

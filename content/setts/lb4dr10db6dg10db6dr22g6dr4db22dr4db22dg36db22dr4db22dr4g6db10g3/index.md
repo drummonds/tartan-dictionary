@@ -1,6 +1,15 @@
 ---
 title: "Jorgensen of Taasinge (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Jorgensen"
+  url: "/clan/jorgensen/"
+- name: "Jorgensen of Taasinge"
+  url: "/families/jorgensen-of-taasinge/"
+- name: "Jorgensen of Taasinge"
+  url: "/tartans/j/jo/jorgensen-of-taasinge/"
 ---
 This is the **Jorgensen of Taasinge (Personal)** sett — one scale-free proportion (`lb4dr10db6dg10db6dr22g6dr4db22dr4db22dg36db22dr4db22dr4g6db10g3`), colour order pattern
 [GBGBBBBGBBBBGBBGBBW](/stripes/gbgbbbbgbbbbgbbgbbw/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s19/lb4dr10dt6dg10dt6dr22g6dr4dt22dr4dt22dg36dt22dr4dt22dr4g6dt10g3~dt1103265-dg1704144/"><circle cx="343.5" cy="204.7" r="4" fill="#3465a4"><title>Jrgensen of Taasingee (Personal)</title></circle></a><a href="/variants/s19/g2db5g3r2db11r2db11dg18db11r2db11r2g3r11db3dg5db3r5b2~x2~r1707016-dg1503171/"><circle cx="277.4" cy="187.8" r="4" fill="#3465a4"><title>Jorgensen of Taasinge Family Tartan</title></circle></a><a href="/variants/s10/db20dg6db6lb2dg20dr8dg6dr4dg10lr3~x2/"><circle cx="323.0" cy="232.7" r="4" fill="#3465a4"><title>MacConnell</title></circle></a><a href="/variants/s17/dy3dbi20db4dg3db3dg3db3dg3db4dbi13lo2dbi2lo2dbi2dg2dbi2dg3~x2~dbi1403246-db1106275/"><circle cx="375.5" cy="197.0" r="4" fill="#3465a4"><title>Fermanagh, County (District)</title></circle></a><a href="/variants/s16/db4dt24db6r3db4g3db8w3db8g3db4r3db6dt24db4dt3~x2~db1406275/"><circle cx="292.4" cy="185.8" r="4" fill="#3465a4"><title>Scozia</title></circle></a><a href="/variants/s17/dg14dbi2r2dbi2dg22lb2dbi16lb2db20dg5r2dg5db20lb2dbi16lb2dg8~x2~dbi1406275-db1204274/"><circle cx="260.9" cy="186.6" r="4" fill="#3465a4"><title>Frangord</title></circle></a><a href="/variants/s12/db3r1dbi12dg2dbi2db4dbi2dg2dbi2dg9db1ly2~x4~db1204274-dbi1406275/"><circle cx="303.9" cy="195.1" r="4" fill="#3465a4"><title>St. Andrew's Soc. of Philadelphia (C</title></circle></a><a href="/variants/s10/w2t4dy3dt3dy3dt20dy3t16dt8lb2~x2~t2102222-dt1102249/"><circle cx="309.9" cy="205.2" r="4" fill="#3465a4"><title>Sverker</title></circle></a><circle cx="320.2" cy="196.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Walk the Walk (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Walk the Walk"
+  url: "/tartans/w/wa/walk-the-walk/"
 ---
 This is the **Walk the Walk (Corporate)** sett — one scale-free proportion (`w60r15w3r3w3r3w5r15`), colour order pattern
 [RWRWRWRW](/stripes/rwrwrwrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r55w20r8w2r8w2r8w2~x2/"><circle cx="537.8" cy="148.4" r="4" fill="#3465a4"><title>Masai Shuka 08 (Artefact)</title></circle></a><a href="/variants/s8/r36w4r3w4r6w2r1w12~x4/"><circle cx="491.0" cy="139.6" r="4" fill="#3465a4"><title>Menzies (1815)</title></circle></a><a href="/variants/s8/r36w4r3w4r6w2r1w12/"><circle cx="491.0" cy="139.6" r="4" fill="#3465a4"><title>Menzies Dress</title></circle></a><a href="/variants/s8/r36w4r3w4r6w2r1w12~x2/"><circle cx="491.0" cy="139.6" r="4" fill="#3465a4"><title>Menzies Red &amp; White Clan Tartan</title></circle></a><a href="/variants/s10/w18r9w1r1w2r1w1r9db3r4~x4/"><circle cx="317.6" cy="154.9" r="4" fill="#3465a4"><title>Swiss Red (Fashion)</title></circle></a><a href="/variants/s10/w18r9w1r1w2r1w1r9db3r4~x4~w3600000/"><circle cx="330.3" cy="158.6" r="4" fill="#3465a4"><title>Swiss Red</title></circle></a><a href="/variants/s10/w75dy1r20w16r20w20g9w16g1r38~x2~w4000000/"><circle cx="366.4" cy="115.2" r="4" fill="#3465a4"><title>Border Sett</title></circle></a><a href="/variants/s10/r2g2w2r23w2g2w23g2r2w2~x2/"><circle cx="303.3" cy="158.7" r="4" fill="#3465a4"><title>Hose Artifact Tartan</title></circle></a><a href="/variants/s10/r4w8r3w2r3w2r21g2r2g4~x2/"><circle cx="378.0" cy="170.1" r="4" fill="#3465a4"><title>Queen Alexandra Tartan</title></circle></a><a href="/variants/s8/o31w5o2w5o4w3o2w7~x2/"><circle cx="454.6" cy="184.8" r="4" fill="#3465a4"><title>Menzies, Brown &amp; White</title></circle></a><circle cx="462.5" cy="164.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Sanley-Cantamessa (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Sanley-Cantamessa"
+  url: "/tartans/s/sa/sanley-cantamessa/"
 ---
 This is the **Sanley-Cantamessa (Personal)** sett — one scale-free proportion (`k16w15k4db12k22r2k6`), colour order pattern
 [KRKBKWK](/stripes/krkbkwk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k2lb5k1lb1k10r1k1~x4/"><circle cx="328.6" cy="164.1" r="4" fill="#3465a4"><title>Lundy Reform</title></circle></a><a href="/variants/s7/r4k8r4k8db12k1w2~x2/"><circle cx="171.5" cy="187.6" r="4" fill="#3465a4"><title>MacKean Red</title></circle></a><a href="/variants/s7/r8k18r6k18t27k2w3~x2/"><circle cx="189.1" cy="174.3" r="4" fill="#3465a4"><title>MacKean (Personal)</title></circle></a><a href="/variants/s7/k16g15k4lb12k22w2k6~x2/"><circle cx="243.9" cy="191.0" r="4" fill="#3465a4"><title>Frame (Edinburgh) (Personal)</title></circle></a><a href="/variants/s8/k5w5k5t11k3n17k30t3~x2/"><circle cx="226.5" cy="171.5" r="4" fill="#3465a4"><title>Australian Police</title></circle></a><a href="/variants/s7/k8lb3k32t14w3k25lb3~x2/"><circle cx="359.7" cy="172.9" r="4" fill="#3465a4"><title>Cowe (Personal)</title></circle></a><a href="/variants/s7/k32t2k6t2k13n30w2~x2/"><circle cx="304.4" cy="152.8" r="4" fill="#3465a4"><title>Mountain Rescue Association Honor Guard</title></circle></a><a href="/variants/s6/k42w5k5dg16k5db21~x2/"><circle cx="252.0" cy="197.3" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><a href="/variants/s9/k1g8k9r1k1r1k9db8r1~x6/"><circle cx="207.2" cy="173.2" r="4" fill="#3465a4"><title>Guthrie Family Tartan</title></circle></a><a href="/variants/s7/k6y2k16lb6k3db18k2~x2/"><circle cx="219.4" cy="184.5" r="4" fill="#3465a4"><title>Carrick High School</title></circle></a><circle cx="242.4" cy="187.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Caisteal Leòdhais"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Caisteal Leòdhais"
+  url: "/tartans/c/ca/caisteal-le-dhais/"
 ---
 This is the **Caisteal Leòdhais** sett — one scale-free proportion (`g4lb3g18k14y2k2dp18ly1dp2ly3`), colour order pattern
 [GWGKGKBYBY](/stripes/gwgkgkbyby/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y3db29k15r4g25r8k4r3w2~x2/"><circle cx="95.0" cy="129.0" r="4" fill="#3465a4"><title>George Brown Family Tartan</title></circle></a><a href="/variants/s9/w4k1g19y1k19db13r2db4r2~x2/"><circle cx="103.4" cy="116.1" r="4" fill="#3465a4"><title>Whitson Family Tartan</title></circle></a><a href="/variants/s10/r7g20ly2g4k5db4k2db20k3w1~x2/"><circle cx="139.0" cy="114.3" r="4" fill="#3465a4"><title>McMeeken (Name)</title></circle></a><a href="/variants/s10/r7g20y2g4k5db4k2db20k3w1~x2/"><circle cx="141.6" cy="114.7" r="4" fill="#3465a4"><title>McMeeken</title></circle></a><a href="/variants/s12/lb6k1t20r2g3r2k15r2g3r2k6ly3~x2~lb3200000-t2503227/"><circle cx="100.8" cy="92.4" r="4" fill="#3465a4"><title>Royal Scottish P.B. Assoc. (Corp.)</title></circle></a><a href="/variants/s11/k9r2g3r2k15r2g3r2t20k1lb6~x2~t2503227-lb3200000/"><circle cx="97.6" cy="89.6" r="4" fill="#3465a4"><title>Royal Scottish Pipe Band Association</title></circle></a><a href="/variants/s13/dr4g20k16ly2k3lr3k2db18dr6k2dr4k1lr2~x4/"><circle cx="92.4" cy="100.4" r="4" fill="#3465a4"><title>Galt, Alexander, Sir</title></circle></a><a href="/variants/s10/r3db3k2db13y2k25g20r2g3lb3~x2/"><circle cx="115.2" cy="121.5" r="4" fill="#3465a4"><title>Loch Freuchie</title></circle></a><a href="/variants/s10/r3db3k2db18ly2k25g20r2g3lb3~x2/"><circle cx="106.6" cy="122.6" r="4" fill="#3465a4"><title>Loch Freuchie (District)</title></circle></a><a href="/variants/s12/g19k20r1db8t8g8db3r1n12k8r1n1~x2~db1003265-t2105244/"><circle cx="94.6" cy="117.5" r="4" fill="#3465a4"><title>Vine (2015)</title></circle></a><circle cx="117.4" cy="114.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

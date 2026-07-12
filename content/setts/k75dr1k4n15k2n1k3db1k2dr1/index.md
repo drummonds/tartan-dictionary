@@ -1,6 +1,13 @@
 ---
 title: "Selkirk Silver Band (Corporate)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Selkirk"
+  url: "/clan/selkirk/"
+- name: "Selkirk Silver Band"
+  url: "/tartans/s/se/selkirk-silver-band/"
 ---
 This is the **Selkirk Silver Band (Corporate)** sett — one scale-free proportion (`k75dr1k4n15k2n1k3db1k2dr1`), colour order pattern
 [BKBKBKBKBK](/stripes/bkbkbkbkbk/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k85r6k1w3k3w3k1r6k6y1~x2/"><circle cx="525.5" cy="29.4" r="4" fill="#3465a4"><title>Ambassador</title></circle></a><a href="/variants/s10/w2k2dp8k10dp8k64w2k8y1k1~x2/"><circle cx="517.3" cy="55.2" r="4" fill="#3465a4"><title>Payne of Wallins Creek (Personal)</title></circle></a><a href="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/"><circle cx="450.5" cy="111.7" r="4" fill="#3465a4"><title>Laird Abdullah (Personal)</title></circle></a><a href="/variants/s14/k70n2k3n12k1o3k1n12k3n2k60o2n2dp3~x2~n1700000-o2500000/"><circle cx="509.0" cy="45.6" r="4" fill="#3465a4"><title>Grassi (2009)</title></circle></a><a href="/variants/s9/y2k4y1k4r5k50n1k2r1~x2/"><circle cx="570.4" cy="48.2" r="4" fill="#3465a4"><title>Magdalene</title></circle></a><a href="/variants/s9/k78y16k2dt2k2y2k3r2k10~x2~y2100000-dt1700000/"><circle cx="521.7" cy="62.7" r="4" fill="#3465a4"><title>Scotland's Lionheart</title></circle></a><a href="/variants/s9/k93dr2k4w2k8n8k2n16w2~x2/"><circle cx="494.9" cy="57.4" r="4" fill="#3465a4"><title>Wcwm 1669-3</title></circle></a><a href="/variants/s14/k91ly3k11w2r3k2r3w2k3r6k3r3ly3w3~x2/"><circle cx="479.0" cy="14.3" r="4" fill="#3465a4"><title>Firefighters</title></circle></a><a href="/variants/s8/k2w1k2dr6k6dr3k28w2~x2/"><circle cx="465.8" cy="114.2" r="4" fill="#3465a4"><title>Brockton</title></circle></a><a href="/variants/s9/k75dp6n2k2n2dp6k12db2n2~x2/"><circle cx="580.1" cy="82.9" r="4" fill="#3465a4"><title>Clan Inebriated (Corporate)</title></circle></a><circle cx="562.4" cy="50.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

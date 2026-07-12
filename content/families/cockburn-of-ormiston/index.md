@@ -1,6 +1,11 @@
 ---
 title: "Cockburn of Ormiston"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Cockburn"
+  url: "/clan/cockburn/"
 ---
 A family of [Clan Cockburn](/clan/cockburn/).
 

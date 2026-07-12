@@ -1,6 +1,15 @@
 ---
 title: "Jardine"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Jardine,"
+  url: "/clan/jardine/"
+- name: "Jardine"
+  url: "/families/jardine/"
+- name: "Jardine"
+  url: "/tartans/j/ja/jardine-2/"
 ---
 This is the **Jardine** sett — one scale-free proportion (`n9o9yi9r1y1o9y1r1`), colour order pattern
 [BRGRGRGR](/stripes/brgrgrgr/). It is recorded as a single **variant**, below.

@@ -1,6 +1,15 @@
 ---
 title: "MacDougall 6"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacDougall of Lorn"
+  url: "/clan/macdougall/"
+- name: "MacDougall"
+  url: "/families/macdougall/"
+- name: "MacDougall 6"
+  url: "/tartans/m/ma/macdougall-6/"
 ---
 This is the **MacDougall 6** sett — one scale-free proportion (`g18r6dr4ri6g20ri6dr4ri6dr4r6db22ri8r6dr4ri5`), colour order pattern
 [GRBRGRBRBRBRRBR](/stripes/grbrgrbrbrbrrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/g18rii6ri4r6g20r6ri4r6ri4rii6db22r8rii6ri4r5~rii1707033-ri1505012/"><circle cx="120.6" cy="204.2" r="4" fill="#3465a4"><title>Unidentified #35</title></circle></a><a href="/variants/s10/o5ly3o19do6ly5do6dg12db5dg12db3~x2/"><circle cx="146.8" cy="232.0" r="4" fill="#3465a4"><title>Roscommon, County</title></circle></a><a href="/variants/s10/o5lo3o19do6lo5do6dg12n5dg12n3~x2/"><circle cx="170.0" cy="239.1" r="4" fill="#3465a4"><title>Roscommon Irish County Tartan</title></circle></a><a href="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6o2g2gi4~x8~dg1104144-gi2104115/"><circle cx="164.0" cy="225.0" r="4" fill="#3465a4"><title>Maple Leaf</title></circle></a><a href="/variants/s12/y3r10g4y8do2y8dp11do16y4g4r10y3~x2/"><circle cx="167.1" cy="224.0" r="4" fill="#3465a4"><title>Hallowfield Wood</title></circle></a><a href="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6dy2g2y2~x8/"><circle cx="186.3" cy="221.8" r="4" fill="#3465a4"><title>Maple Leaf Canadian District Tartan</title></circle></a><a href="/variants/s12/dg6r1dg1r4g4r4dg1r1dg6dy2g2y2~x4/"><circle cx="186.3" cy="221.8" r="4" fill="#3465a4"><title>Maple Leaf MINI Canadian District Tartan</title></circle></a><a href="/variants/s12/ly5db2r14do9dg8db3r3db3r3db3dg18lyi3~x2~ly2705081-lyi3103095/"><circle cx="150.3" cy="175.0" r="4" fill="#3465a4"><title>Meath, County</title></circle></a><a href="/variants/s11/r10do10r4dg2r2do2r4dg12db12dg3db4~x2/"><circle cx="173.0" cy="236.6" r="4" fill="#3465a4"><title>Hueg (Munich) Hunting (Personal)</title></circle></a><a href="/variants/s18/dp19db2g9db2n19dp2n19db2g9db2r18g9r18db2g9db2dp19lb3~x2/"><circle cx="111.4" cy="164.0" r="4" fill="#3465a4"><title>Cuillins of Skye Fashion Tartan</title></circle></a><circle cx="123.4" cy="206.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

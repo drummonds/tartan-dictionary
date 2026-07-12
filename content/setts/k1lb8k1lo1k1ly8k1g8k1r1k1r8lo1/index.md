@@ -1,6 +1,11 @@
 ---
 title: "BeeJay"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "BeeJay"
+  url: "/tartans/b/be/beejay/"
 ---
 This is the **BeeJay** sett — one scale-free proportion (`k1lb8k1lo1k1ly8k1g8k1r1k1r8lo1`), colour order pattern
 [KWKYKYKGKRKRY](/stripes/kwkykykgkrkry/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lb1g8k1lb2k1y2k1lb2k1r8w1lb1~x4/"><circle cx="61.2" cy="132.4" r="4" fill="#3465a4"><title>MacWhirter Clan Tartan</title></circle></a><a href="/variants/s13/w4r25k2lb4k2y8k3y8k2lb4k2g25lb4~x2/"><circle cx="77.0" cy="112.5" r="4" fill="#3465a4"><title>Buchanan Clan Tartan</title></circle></a><a href="/variants/s13/w2r12k1lb2k1y3k1y3k1lb2k1g12lb2~x2/"><circle cx="80.7" cy="110.5" r="4" fill="#3465a4"><title>Buchanan #3</title></circle></a><a href="/variants/s13/w3k2t4w4t3w11k2g3y3k3t12r19k2~x2/"><circle cx="47.0" cy="128.7" r="4" fill="#3465a4"><title>Badminton Cup</title></circle></a><a href="/variants/s12/lb1dg8k1lb2k1y2k1lb2k1r8w1lb1~x4/"><circle cx="60.1" cy="128.8" r="4" fill="#3465a4"><title>MacWhirter</title></circle></a><a href="/variants/s13/y1k1r8db1r1g8k1db8y1g1y8k1w1~x6/"><circle cx="64.0" cy="137.9" r="4" fill="#3465a4"><title>Robieson Playfield</title></circle></a><a href="/variants/s17/lb7k9ly2k2ly2r14g14w2lb3w2g14r14k2lb7k9ly2k2~x2/"><circle cx="14.0" cy="140.3" r="4" fill="#3465a4"><title>Coulter (Personal)</title></circle></a><a href="/variants/s18/lb8k3ly22k3ly22k3lb8k3o22lb8o22k3lb8k3r14w3r14k6~x2~ly3607098-o2505058/"><circle cx="14.6" cy="141.0" r="4" fill="#3465a4"><title>Buchanan Variant</title></circle></a><a href="/variants/s13/w2dy14y3k6w2k2w2k2g8ly6k2ly3w2~x2~dy1603076-ly2605093/"><circle cx="17.3" cy="152.4" r="4" fill="#3465a4"><title>O'Farrell Irish Family Tartan</title></circle></a><a href="/variants/s13/w2o14ly3k6w2k2w2k2g8y6k2y3w1~x2~ly3307090-y2405105/"><circle cx="42.3" cy="123.5" r="4" fill="#3465a4"><title>O'Farrell</title></circle></a><circle cx="23.4" cy="129.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

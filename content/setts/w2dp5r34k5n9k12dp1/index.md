@@ -1,6 +1,13 @@
 ---
 title: "Thomson, Reona Ellen (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Thomson"
+  url: "/clan/thomson/"
+- name: "Thomson, Reona Ellen"
+  url: "/tartans/t/th/thomson-reona-ellen/"
 ---
 This is the **Thomson, Reona Ellen (Personal)** sett — one scale-free proportion (`w2dp5r34k5n9k12dp1`), colour order pattern
 [BKBKRBW](/stripes/bkbkrbw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r27db4k4db4k4lb6y1~x4/"><circle cx="271.4" cy="102.4" r="4" fill="#3465a4"><title>MacLeay</title></circle></a><a href="/variants/s7/r27g4k4g4k4db6lo1~x4/"><circle cx="270.0" cy="102.9" r="4" fill="#3465a4"><title>MacLeay (Clan)</title></circle></a><a href="/variants/s8/o5k1r2k4r36k23w4y2~x2/"><circle cx="258.4" cy="73.4" r="4" fill="#3465a4"><title>Aberdeen Football Club (1999)</title></circle></a><a href="/variants/s8/y3g9db9k1y2k15r37g2~x2/"><circle cx="233.9" cy="86.4" r="4" fill="#3465a4"><title>Mensah</title></circle></a><a href="/variants/s8/dg5k1r2k4r36k23w4y2~x2/"><circle cx="257.6" cy="74.0" r="4" fill="#3465a4"><title>Aberdeen F.C.</title></circle></a><a href="/variants/s6/k4w1k28r30dp1r3~x2/"><circle cx="304.6" cy="112.9" r="4" fill="#3465a4"><title>Ramsay (Red)</title></circle></a><a href="/variants/s7/r72g16k8y4db8w3k50~x2/"><circle cx="198.3" cy="94.6" r="4" fill="#3465a4"><title>Stewart, Anthony C (Personal)</title></circle></a><a href="/variants/s7/r28g4k4g4k4lb6y1~x2/"><circle cx="275.8" cy="99.6" r="4" fill="#3465a4"><title>Livingstone MacLay MacLeay Clan Tartan</title></circle></a><a href="/variants/s6/r97k18w5dr26k18n14/"><circle cx="266.6" cy="124.9" r="4" fill="#3465a4"><title>Bradley University</title></circle></a><a href="/variants/s5/r50k25dg10n5ly2~x2/"><circle cx="272.2" cy="127.9" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><circle cx="252.6" cy="95.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

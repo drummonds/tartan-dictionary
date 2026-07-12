@@ -1,6 +1,11 @@
 ---
 title: "Welsh, National"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Welsh National"
+  url: "/tartans/w/we/welsh-national-2/"
 ---
 This is the **Welsh, National** sett — one scale-free proportion (`r2g1r1g11w1`), colour order pattern
 [RGRGW](/stripes/rgrgw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r2dg1r1dg10w1~x4/"><circle cx="448.7" cy="201.5" r="4" fill="#3465a4"><title>Welsh National District Tartan</title></circle></a><a href="/variants/s5/r8dg3r4dg44w4~x2/"><circle cx="542.5" cy="173.6" r="4" fill="#3465a4"><title>Welsh National</title></circle></a><a href="/variants/s6/g32r12g6r6k2w3~x2/"><circle cx="346.3" cy="167.4" r="4" fill="#3465a4"><title>Princess Margaret Rose (Royal)</title></circle></a><a href="/variants/s4/g16r1g2r11~x8/"><circle cx="443.0" cy="247.8" r="4" fill="#3465a4"><title>Middleton</title></circle></a><a href="/variants/s4/g75r2g4r40~x2/"><circle cx="505.8" cy="205.7" r="4" fill="#3465a4"><title>Duke of Windsor (Royal)</title></circle></a><a href="/variants/s6/r19g6r7g101k7g7/"><circle cx="499.6" cy="162.5" r="4" fill="#3465a4"><title>Loch Laggan District Tartan</title></circle></a><a href="/variants/s6/r2g2r1g12r3k1~x4/"><circle cx="396.5" cy="186.9" r="4" fill="#3465a4"><title>Connell (Personal?)</title></circle></a><a href="/variants/s6/r4g2r1g19k1g2~x4/"><circle cx="557.5" cy="147.1" r="4" fill="#3465a4"><title>Loch Laggan</title></circle></a><a href="/variants/s6/r4g2r1g20k1g1~x4/"><circle cx="529.2" cy="158.7" r="4" fill="#3465a4"><title>Loch Laggan (District)</title></circle></a><a href="/variants/s6/g23r3g7r3g23dp7~x2/"><circle cx="506.6" cy="255.6" r="4" fill="#3465a4"><title>Highland Spring (1997)</title></circle></a><circle cx="492.4" cy="211.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

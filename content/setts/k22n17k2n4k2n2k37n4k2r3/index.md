@@ -1,6 +1,11 @@
 ---
 title: "Witches' Blood, The"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Witches' Blood, The"
+  url: "/tartans/w/wi/witches-blood-the/"
 ---
 This is the **Witches' Blood, The** sett — one scale-free proportion (`k22n17k2n4k2n2k37n4k2r3`), colour order pattern
 [KBKBKBKBKR](/stripes/kbkbkbkbkr/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k27w2k2w2k2w2k2w2k4r5~x4/"><circle cx="392.4" cy="113.7" r="4" fill="#3465a4"><title>Reiver Check</title></circle></a><a href="/variants/s10/k3n6k8lb2k8n3k5n36k2n3~x2~n1900000/"><circle cx="374.8" cy="133.2" r="4" fill="#3465a4"><title>City Building (Glasgow) LLP</title></circle></a><a href="/variants/s10/k3n6k8lb2k8n3k5n36k2n3~x2/"><circle cx="370.3" cy="132.0" r="4" fill="#3465a4"><title>City Building (Glasgow) LLP (Corp)</title></circle></a><a href="/variants/s8/k24n18k11n4k11n18k53n4/"><circle cx="402.8" cy="195.5" r="4" fill="#3465a4"><title>Spirit of Glyndwr Grey (Fashion)</title></circle></a><a href="/variants/s11/k68n11k16n4k4n4k4n19k14w4k14/"><circle cx="416.0" cy="124.0" r="4" fill="#3465a4"><title>Stewart Mourning</title></circle></a><a href="/variants/s10/k86n5k5n3k3n3k3g11dr11n4~x2/"><circle cx="438.9" cy="76.1" r="4" fill="#3465a4"><title>Racing Stewart, Stealth (Corporate)</title></circle></a><a href="/variants/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/"><circle cx="454.6" cy="87.9" r="4" fill="#3465a4"><title>Racing Stewart (Stealth)</title></circle></a><a href="/variants/s11/k40n3k5n2k2n2k2n6k4w2k4~x2/"><circle cx="396.9" cy="78.0" r="4" fill="#3465a4"><title>Stewart/Stuart Mourning</title></circle></a><a href="/variants/s8/k16n1k1n1k8n16k1n2~x2/"><circle cx="357.7" cy="169.7" r="4" fill="#3465a4"><title>Douglas VS</title></circle></a><a href="/variants/s11/k7n2lb2n2k13n2k2lb2n13k26lp2~x2/"><circle cx="326.5" cy="130.5" r="4" fill="#3465a4"><title>Pride of Scotland Platinum Fashion Tartan</title></circle></a><circle cx="392.4" cy="128.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

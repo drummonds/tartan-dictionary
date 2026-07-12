@@ -1,6 +1,11 @@
 ---
 title: "Ben Cleuch (Fashion)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Ben Cleuch"
+  url: "/tartans/b/be/ben-cleuch/"
 ---
 This is the **Ben Cleuch (Fashion)** sett — one scale-free proportion (`w68o3w3o8w3o27dy16r3dy20o3`), colour order pattern
 [RGRGRWRWRW](/stripes/rgrgrwrwrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w60o3w3o8w3o3dg24n12o3n16o4/"><circle cx="249.0" cy="127.0" r="4" fill="#3465a4"><title>Ben Ledi (Fashion)</title></circle></a><a href="/variants/s10/w3db2w30db4o26w2o2dp4o2w3~x2/"><circle cx="279.9" cy="140.2" r="4" fill="#3465a4"><title>Harris Lilac</title></circle></a><a href="/variants/s13/w4r21db4o16db4o8db4o4w3db6w49r3w4/"><circle cx="236.9" cy="127.9" r="4" fill="#3465a4"><title>Largs Dress (1983)</title></circle></a><a href="/variants/s12/n3w24k3w1k2w2k1w3n7w2r24w3~x2/"><circle cx="243.8" cy="100.5" r="4" fill="#3465a4"><title>Humanitarian Mission (Dress)</title></circle></a><a href="/variants/s13/w4r21db4dy16db4dy8db4dy4w3db6w49r3w4/"><circle cx="225.0" cy="125.3" r="4" fill="#3465a4"><title>Largs Dress District Tartan</title></circle></a><a href="/variants/s8/g3r12g12o5r1w25g2r1~x2/"><circle cx="235.9" cy="149.9" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/variants/s10/do2w20r2w2do3w3y3r8y26w2~x2/"><circle cx="236.1" cy="158.2" r="4" fill="#3465a4"><title>Liama, The</title></circle></a><a href="/variants/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="253.0" cy="103.2" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/variants/s10/o4n4o2w36n14w2lb4o7m5w3~x2~w4002111-m2107000/"><circle cx="260.5" cy="128.0" r="4" fill="#3465a4"><title>Rikaco Eve</title></circle></a><a href="/variants/s10/w49dg11r2dg3w2do10m9dg2m6w2~x2/"><circle cx="278.0" cy="95.0" r="4" fill="#3465a4"><title>Strathyre dress</title></circle></a><circle cx="265.5" cy="123.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Jupiter Shop Channel Co Ltd"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Jupiter Shop Channel Co Ltd"
+  url: "/tartans/j/ju/jupiter-shop-channel-co-ltd/"
 ---
 This is the **Jupiter Shop Channel Co Ltd** sett — one scale-free proportion (`k6r1k1r1k1r5k2r5k4r2w1r40w1`), colour order pattern
 [KRKRKRKRKRWRW](/stripes/krkrkrkrkrwrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r40w1r1k8r1w1r6w1r1k8~x2/"><circle cx="454.4" cy="62.5" r="4" fill="#3465a4"><title>Miyuki, Check Red, 1002A</title></circle></a><a href="/variants/s16/r80w2r5k10r6n4r4k2n6k2r10n4r8k10r5w2/"><circle cx="452.1" cy="29.4" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><a href="/variants/s12/r40k1r3k1w3k4w3k1r3k1r40k4~x2/"><circle cx="539.7" cy="57.7" r="4" fill="#3465a4"><title>Salt Lake County</title></circle></a><a href="/variants/s10/r64db4r1k4r12w4r1w4k4r1~x2/"><circle cx="516.4" cy="36.5" r="4" fill="#3465a4"><title>Ramsay (Angus &amp; Mearns)</title></circle></a><a href="/variants/s7/k4r40k1r3k1w3k4~x2/"><circle cx="492.7" cy="74.3" r="4" fill="#3465a4"><title>Salt Lake County (District)</title></circle></a><a href="/variants/s9/k5r40k4w2k4r10w4r5w1~x2/"><circle cx="447.7" cy="79.3" r="4" fill="#3465a4"><title>Southern Illinois University (Corp.)</title></circle></a><a href="/variants/s8/r51n2r6k10r2k4n3k3~x2~r2310029/"><circle cx="448.1" cy="92.7" r="4" fill="#3465a4"><title>Virgin</title></circle></a><a href="/variants/s8/r51n2r6k10r2k4n3k3~x2/"><circle cx="453.5" cy="94.8" r="4" fill="#3465a4"><title>Virgin (Corporate)</title></circle></a><a href="/variants/s12/r22k1r4w1r1k1w1r4w4r1w2k1~x4/"><circle cx="447.8" cy="82.7" r="4" fill="#3465a4"><title>Valour</title></circle></a><a href="/variants/s10/r80w7k2w2k2r3k7r2b12k2~x2/"><circle cx="438.1" cy="42.8" r="4" fill="#3465a4"><title>Masai Shuka 05 (Artefact)</title></circle></a><circle cx="494.7" cy="42.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

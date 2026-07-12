@@ -1,6 +1,11 @@
 ---
 title: "Order of the Holy Sepulchre of Jerusalem"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Order of the Holy Sepulchre of Jerusalem"
+  url: "/tartans/o/or/order-of-the-holy-sepulchre-of-jerusalem/"
 ---
 This is the **Order of the Holy Sepulchre of Jerusalem** sett — one scale-free proportion (`w1r7k7r1k7w1r7w1k7r1k7w1y2w1k8r1k8r7w1ly1`), colour order pattern
 [WRKRKWRWKRKWGWKRKRWY](/stripes/wrkrkwrwkrkwgwkrkrwy/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/dy2w2r13k17r2k17w2dy4w2k17r2k17w2r13w2k17r2k17r13w2~x2/"><circle cx="242.7" cy="133.0" r="4" fill="#3465a4"><title>Holy Sepulchre Corporate Tartan</title></circle></a><a href="/variants/s20/dy1w1r7k8r1k8w1ly2w1k7r1k7w1r7w1k7r1k7r7w1~x4/"><circle cx="183.9" cy="102.0" r="4" fill="#3465a4"><title>Order of the Holy Sepulchre</title></circle></a><a href="/variants/s19/k3r3k14lo2y2k3r13k3lo2y2k4lo6k3y2lo2k14r3k3y3~x2/"><circle cx="185.9" cy="139.8" r="4" fill="#3465a4"><title>Stevens #6</title></circle></a><a href="/variants/s18/dr12k2y2k2dr2k2y2k2dr12k1w2db3w2k1dr12k2y2k2~x2/"><circle cx="254.8" cy="108.2" r="4" fill="#3465a4"><title>City of New Bern 300</title></circle></a><a href="/variants/s11/r12k4g2w2k21db3k22r4g4r15w3~x2/"><circle cx="193.7" cy="132.3" r="4" fill="#3465a4"><title>MacDonald, Sir John A.</title></circle></a><a href="/variants/s11/r10k3g2w2k22db4k22r4g4r14w3~x2/"><circle cx="196.7" cy="130.7" r="4" fill="#3465a4"><title>York Region Pipe Band</title></circle></a><a href="/variants/s12/k20r2k4r2k19lo17k10lo10k6lo5ly2lo2~x2/"><circle cx="247.0" cy="150.4" r="4" fill="#3465a4"><title>Malt, The</title></circle></a><a href="/variants/s22/y2w15dp10k23y2k23dp10k15y2w2y2k15dp10k23y2k2w2k23dp10w15y2w2~x2/"><circle cx="217.4" cy="123.4" r="4" fill="#3465a4"><title>Freger (Corporate)</title></circle></a><a href="/variants/s13/r8k14r6y6r34k10r6w6r6k64r44db9r6/"><circle cx="216.7" cy="111.4" r="4" fill="#3465a4"><title>First Special Service Force</title></circle></a><a href="/variants/s13/r8k14r6ly6r34k10r6w6r6k64r44db9r6/"><circle cx="214.9" cy="111.0" r="4" fill="#3465a4"><title>First Special Service Force</title></circle></a><circle cx="195.0" cy="124.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

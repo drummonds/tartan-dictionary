@@ -1,6 +1,13 @@
 ---
 title: "Christmas Hill Game Farm"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Christmas"
+  url: "/clan/christmas/"
+- name: "Christmas Hill Game Farm"
+  url: "/tartans/c/ch/christmas-hill-game-farm/"
 ---
 This is the **Christmas Hill Game Farm** sett — one scale-free proportion (`dy5ly20r3dg13dy13dp3b3`), colour order pattern
 [BBGGRYG](/stripes/bbggryg/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dy5ly20r3dg13dy13db3b3~x2/"><circle cx="110.6" cy="205.5" r="4" fill="#3465a4"><title>Christmas Hill Game Farm (Corporate)</title></circle></a><a href="/variants/s7/r1g4w1g4y1dr8lb1~x6/"><circle cx="188.4" cy="191.4" r="4" fill="#3465a4"><title>George Watson's College</title></circle></a><a href="/variants/s9/r22lb6db10y4r4w4g22db8y3/"><circle cx="107.3" cy="189.2" r="4" fill="#3465a4"><title>Unnamed No 14 Tartan</title></circle></a><a href="/variants/s7/dg8b6dg48w31o42g6o8/"><circle cx="158.7" cy="202.3" r="4" fill="#3465a4"><title>Bannockbane, Green</title></circle></a><a href="/variants/s7/o17n5db2w12db2y4g7~x2/"><circle cx="125.5" cy="200.6" r="4" fill="#3465a4"><title>Ontario, Northern</title></circle></a><a href="/variants/s9/lb4dy27ly8k4ly8k4ly8o11y3~x2/"><circle cx="99.8" cy="161.1" r="4" fill="#3465a4"><title>Brittany National Walking</title></circle></a><a href="/variants/s8/w6ri8g24ri8db6r8db8w3~x2~ri2008029-r2008022/"><circle cx="118.2" cy="211.2" r="4" fill="#3465a4"><title>Utah Centennial</title></circle></a><a href="/variants/s6/dy19g23ly3db15r11w5~x2/"><circle cx="91.9" cy="230.1" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/"><circle cx="96.0" cy="204.9" r="4" fill="#3465a4"><title>Corcoran of Sherbrooke (Personal)</title></circle></a><a href="/variants/s6/dy19g23y3db15r11w5~x2/"><circle cx="96.6" cy="231.2" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><circle cx="112.0" cy="205.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

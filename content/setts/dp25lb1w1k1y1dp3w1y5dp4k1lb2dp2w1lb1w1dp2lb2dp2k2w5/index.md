@@ -1,6 +1,11 @@
 ---
 title: "Lions Canadian Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Lions"
+  url: "/tartans/l/li/lions/"
 ---
 This is the **Lions Canadian Tartan** sett — one scale-free proportion (`dp25lb1w1k1y1dp3w1y5dp4k1lb2dp2w1lb1w1dp2lb2dp2k2w5`), colour order pattern
 [BWWKGBWGBKWBWWWBWBKW](/stripes/bwwkgbwgbkwbwwwbwbkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/p60lb2k2p2lo2p10lbi3lo12p10k2lb5p5lbi2lb2lbi2p5lb4p4k4lbi8~lb3103284-lbi3200000/"><circle cx="377.8" cy="39.2" r="4" fill="#3465a4"><title>Lions International</title></circle></a><a href="/variants/s21/dp60y2w2k2dp2ly2dp8w8ly12dp10k2y5dp5w2y2w2dp5y5dp5k5w12~y2602166-ly3307090/"><circle cx="288.3" cy="31.5" r="4" fill="#3465a4"><title>Lions Club</title></circle></a><a href="/variants/s15/lb5k1dp5k1g4k1y4k1dp30lbi1k2dp1lb1y1k1~x2~lb3203246-lbi3402028/"><circle cx="310.0" cy="28.9" r="4" fill="#3465a4"><title>House of Holland</title></circle></a><a href="/variants/s11/lb32db12k2y2k2db2lb8dr63k2r2dr9~x2/"><circle cx="287.8" cy="24.1" r="4" fill="#3465a4"><title>Kirk in the Hills Corporate Tartan</title></circle></a><a href="/variants/s15/lb5k1dp5k1g4k1y4k1dp30r1k2dp1lb1y1k1~x2/"><circle cx="313.5" cy="28.5" r="4" fill="#3465a4"><title>House of Holland (Fashion)</title></circle></a><a href="/variants/s14/dp60g4dp4g4dp4k14r2k5r3k3r4k2r5w3~x2/"><circle cx="318.1" cy="44.8" r="4" fill="#3465a4"><title>Arran (Strathmore)</title></circle></a><a href="/variants/s10/y4k1m14k1w2k1dp28k4y2w3~x2/"><circle cx="244.4" cy="52.8" r="4" fill="#3465a4"><title>Svanholm (Personal)</title></circle></a><a href="/variants/s11/db74r6k12y3k3w3r16db8k3r4w3~x2/"><circle cx="319.5" cy="68.4" r="4" fill="#3465a4"><title>Suffolk County Police (Corporate)</title></circle></a><a href="/variants/s14/db28k1r7k1db6k1lb4k1db6y2r3y2db4w6~x2/"><circle cx="273.6" cy="54.8" r="4" fill="#3465a4"><title>Rabbinical</title></circle></a><a href="/variants/s14/y8lb8r8db2r3db2r3db3r2db3r2db52lb2w8/"><circle cx="319.9" cy="73.7" r="4" fill="#3465a4"><title>Kiltwalk</title></circle></a><circle cx="289.5" cy="39.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

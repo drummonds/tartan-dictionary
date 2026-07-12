@@ -1,6 +1,11 @@
 ---
 title: "Monarch of the Glen Fashion Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Monarch of the Glen"
+  url: "/tartans/m/mo/monarch-of-the-glen-2/"
 ---
 This is the **Monarch of the Glen Fashion Tartan** sett — one scale-free proportion (`dp42db3g1db2dpi1db2dp2k20db1dpi2db3g1db2dpi1db2dp2g3db1g2ly1g2k2`), colour order pattern
 [BBGBBBBKBBBGBBBBGBGYGK](/stripes/bbgbbbbkbbbgbbbbgbgygk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s25/dp86n4dp4n4dp4k16dr2k4dr3k3dr4k2dr6w3dr6k2dr4k3dr3k4dr2k16n24k4n10~x2/"><circle cx="269.4" cy="25.9" r="4" fill="#3465a4"><title>Arran, Isle of (Strathmore)</title></circle></a><a href="/variants/s25/dp86dg4dp4dg4dp4k16r2k4r3k3r4k2r6w3r6k2r4k3r3k4r2k16dpi24k4dpi10~dg1806142-dpi1607327/"><circle cx="226.1" cy="14.0" r="4" fill="#3465a4"><title>Arran - 1978 (Fashion)</title></circle></a><a href="/variants/s20/g6dpi2dp2g2dp15g3k2g1k15db43w2db43k15g1k2g2dp15g3dp2dpi2~x2~dpi1607327-dp1105325/"><circle cx="259.1" cy="40.4" r="4" fill="#3465a4"><title>Scottish Pride</title></circle></a><circle cx="304.9" cy="19.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,13 @@
 ---
 title: "Glen Talloch"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Glen"
+  url: "/clan/glen/"
+- name: "Glen Talloch"
+  url: "/tartans/g/gl/glen-talloch/"
 ---
 This is the **Glen Talloch** sett — one scale-free proportion (`dy32r2y3k3r2dy3y3dy3ly3dy3ly32`), colour order pattern
 [GRGKRGGGYGY](/stripes/grgkrgggygy/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g71k4r4dp9r4dp4r36dp4w4/"><circle cx="270.6" cy="109.0" r="4" fill="#3465a4"><title>Rattray</title></circle></a><a href="/variants/s9/g71k4r4db9r4db4r36db4w4/"><circle cx="266.4" cy="109.3" r="4" fill="#3465a4"><title>Rattray Family Tartan</title></circle></a><a href="/variants/s9/g71k4r4db9r4db4r36db4w4~x2/"><circle cx="266.4" cy="109.3" r="4" fill="#3465a4"><title>Rattay</title></circle></a><a href="/variants/s10/ly24k5r2k2w2n8w3k2w2ly2~x2/"><circle cx="188.9" cy="115.5" r="4" fill="#3465a4"><title>Stewart Fawn Trade Tartan</title></circle></a><a href="/variants/s8/k3g3dy28ly3dy3ly28db3lyi2~x2~dy1603076-lyi3307090/"><circle cx="204.3" cy="122.3" r="4" fill="#3465a4"><title>California Highway Patrol (Corporate</title></circle></a><a href="/variants/s14/b1r2g1k1r5g11r1k2g1r11g4b1r2w1~x2/"><circle cx="222.4" cy="123.1" r="4" fill="#3465a4"><title>MacKinnon 2</title></circle></a><a href="/variants/s11/ly32n4dr2k8dr3w2dr3k8dr2n4dr30~x2/"><circle cx="176.4" cy="109.9" r="4" fill="#3465a4"><title>Varenne</title></circle></a><a href="/variants/s11/k4w1r4k2g2r3k2g20r2k2r2~x2/"><circle cx="242.2" cy="107.8" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang #2</title></circle></a><a href="/variants/s10/k2y2k24y2k2y2ly30w3g2r2~x2/"><circle cx="163.4" cy="84.3" r="4" fill="#3465a4"><title>Spotsylvania County Sheriff (Corp)</title></circle></a><a href="/variants/s8/k2r2k1r18g24k1g2lo2~x2/"><circle cx="298.5" cy="118.2" r="4" fill="#3465a4"><title>Gleneil (Spoof)</title></circle></a><circle cx="228.5" cy="99.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

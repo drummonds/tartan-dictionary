@@ -1,6 +1,11 @@
 ---
 title: "Carlow, County"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Carlow, County"
+  url: "/tartans/c/ca/carlow-county/"
 ---
 This is the **Carlow, County** sett — one scale-free proportion (`dr20g2dr2g2dr2g8k24g2k3`), colour order pattern
 [BGBGBGKGK](/stripes/bgbgbgkgk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k12r1k1r1k1r4dg12y1dg2~x4/"><circle cx="216.9" cy="148.7" r="4" fill="#3465a4"><title>Durie</title></circle></a><a href="/variants/s10/k2dr24n24k2n2k2n3k14dr2k2~x2/"><circle cx="238.1" cy="161.6" r="4" fill="#3465a4"><title>Douglas (WCWM)</title></circle></a><a href="/variants/s10/k2dr26n26k2n3k2n3k14dr2k2~x2/"><circle cx="248.1" cy="158.2" r="4" fill="#3465a4"><title>Wcwm 1527</title></circle></a><a href="/variants/s9/dr20b2dr2b2dr2b8k24b2k3~x2/"><circle cx="248.6" cy="165.5" r="4" fill="#3465a4"><title>Carlow</title></circle></a><a href="/variants/s11/k1dr1dg7k8w1k8dr1dg2dr1dg4dr1~x4/"><circle cx="246.2" cy="181.7" r="4" fill="#3465a4"><title>Episcopal Clergy</title></circle></a><a href="/variants/s8/k7r3k27dg27ly3dg3ly3dg3~x2/"><circle cx="228.1" cy="167.7" r="4" fill="#3465a4"><title>Brunton (Personal)</title></circle></a><a href="/variants/s7/k15r4k1r4dg15r4k1~x4/"><circle cx="214.5" cy="174.3" r="4" fill="#3465a4"><title>Logan (Dark)</title></circle></a><a href="/variants/s11/k24dp5k9g3k2g3k2g14dp7k2dp10~x2/"><circle cx="234.3" cy="171.2" r="4" fill="#3465a4"><title>Paxton (Personal)</title></circle></a><a href="/variants/s11/k1dr1g7k8w1k8dr1g2dr1g4dr1~x4/"><circle cx="198.8" cy="170.0" r="4" fill="#3465a4"><title>Episcopal Clergy (Corporate)</title></circle></a><a href="/variants/s7/k14r6k2r6dg25r6k2~x2/"><circle cx="218.2" cy="183.8" r="4" fill="#3465a4"><title>Logan - 1810 (Cockburn Collection)</title></circle></a><circle cx="240.5" cy="164.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

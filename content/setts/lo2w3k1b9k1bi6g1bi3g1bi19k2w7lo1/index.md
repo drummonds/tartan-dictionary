@@ -1,6 +1,11 @@
 ---
 title: "Cahaba Memorial"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Cahaba Memorial"
+  url: "/tartans/c/ca/cahaba-memorial/"
 ---
 This is the **Cahaba Memorial** sett — one scale-free proportion (`lo2w3k1b9k1bi6g1bi3g1bi19k2w7lo1`), colour order pattern
 [YWKBGBGBKBKWY](/stripes/ywkbgbgbkbkwy/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/lb5k2lb17dbi3lb3db22lb3g22lb3dbi3lb27k2r4~x2~dbi1604274-db0805267/"><circle cx="173.0" cy="111.7" r="4" fill="#3465a4"><title>Leith</title></circle></a><a href="/variants/s11/y4lb1y2lb20y2r8y2lb20db16k1w4~x2/"><circle cx="218.0" cy="109.7" r="4" fill="#3465a4"><title>Congo, The Democratic Republic of the</title></circle></a><a href="/variants/s11/y4db7y4db26g3k1g3w9r2w4r2~x2/"><circle cx="204.3" cy="82.9" r="4" fill="#3465a4"><title>Baudoux et amis picards</title></circle></a><a href="/variants/s15/lb28n3lb3k2lb3n3lb28dg14k3n3k3dy3k4n3db6~x2/"><circle cx="212.5" cy="89.1" r="4" fill="#3465a4"><title>Buffalo</title></circle></a><a href="/variants/s10/lb16db6k1y1k1db1lb4dy4k1r1~x4/"><circle cx="225.1" cy="95.0" r="4" fill="#3465a4"><title>Kirk in the Hills</title></circle></a><a href="/variants/s14/b14db2y2db2b25k6w17r3w3r3w3r3w3r3~x2/"><circle cx="151.5" cy="107.7" r="4" fill="#3465a4"><title>Letang Family (Neuilly sur Seine, France) (Personal)</title></circle></a><a href="/variants/s11/y2db3y2db22lb8r1lb3r1lb22k1w2~x2/"><circle cx="242.0" cy="90.7" r="4" fill="#3465a4"><title>Liddell (Newfane, New York)</title></circle></a><a href="/variants/s12/r5w2db2w2y5w2lb2w2k7db14lb30w4~x2/"><circle cx="141.2" cy="98.0" r="4" fill="#3465a4"><title>St. Andrews Management School (Corp)</title></circle></a><a href="/variants/s10/w4k2w30g3dp3g3dp7db14g3r3~x2/"><circle cx="169.9" cy="109.8" r="4" fill="#3465a4"><title>Edinburgh Dress (Dance)</title></circle></a><a href="/variants/s14/t14lb2ly2lb2t25k6w17r3w3r3w3r3w3r3~x2/"><circle cx="154.8" cy="113.1" r="4" fill="#3465a4"><title>Letang (Personal)</title></circle></a><circle cx="196.0" cy="93.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

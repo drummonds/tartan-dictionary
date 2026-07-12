@@ -1,6 +1,11 @@
 ---
 title: "Spirit of Alva"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Spirit of Alva"
+  url: "/tartans/s/sp/spirit-of-alva/"
 ---
 This is the **Spirit of Alva** sett — one scale-free proportion (`lb6db10dp4db12dg19dp4dg8k20db50lb4`), colour order pattern
 [WBBBGBGKBW](/stripes/wbbbgbgkbw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db8k1db8k2dg6r1dg6k2db8lb1~x2/"><circle cx="284.0" cy="204.4" r="4" fill="#3465a4"><title>Dalmeny - 1965 (Fashion)</title></circle></a><a href="/variants/s10/y6db3k3db36k10n18db6k2g4k3~x2/"><circle cx="250.8" cy="128.5" r="4" fill="#3465a4"><title>Dinwiddie Hunting</title></circle></a><a href="/variants/s9/dg24lb4dg3db11dp8db37k3db2r4~x2/"><circle cx="304.9" cy="138.9" r="4" fill="#3465a4"><title>Stewmann (Personal)</title></circle></a><a href="/variants/s12/r4dy4db9w3dy2k9db21dy2db2dy2db8dy3~x2/"><circle cx="264.2" cy="150.3" r="4" fill="#3465a4"><title>Ruxton Dress</title></circle></a><a href="/variants/s14/db2dg6dp1dg1dp1dg1db2k2db1k2db9g1db2g1~x4~dg1806142-g2506142/"><circle cx="228.6" cy="156.5" r="4" fill="#3465a4"><title>Lochcarron of Scotland</title></circle></a><a href="/variants/s8/db15dp3db30k22dg18dp3dg3w3~x2/"><circle cx="218.5" cy="185.3" r="4" fill="#3465a4"><title>Moray (Corporate)</title></circle></a><a href="/variants/s12/k5lb2t10lb2k5db15k2db15k5db10lb1y2~x2~t2105244-db1406275/"><circle cx="237.5" cy="146.9" r="4" fill="#3465a4"><title>Goodwin, Robert Richard (Personal)</title></circle></a><a href="/variants/s10/db1k1db8k2ly1dg12ly1db8k1db1~x4/"><circle cx="293.2" cy="168.7" r="4" fill="#3465a4"><title>Rowan (Name)</title></circle></a><a href="/variants/s10/db6y3k2y5dbi30g2k4g2dbi6db4~x2~db1204274-dbi1406275/"><circle cx="323.5" cy="137.1" r="4" fill="#3465a4"><title>St. Andrews University (Corporate)</title></circle></a><a href="/variants/s8/db44k3ly20dr3db8k34db5k15~x2~k0700000-ly2705081/"><circle cx="240.8" cy="169.4" r="4" fill="#3465a4"><title>U.S. Air Force Reserve P. B. (Corpor</title></circle></a><circle cx="258.1" cy="155.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,15 @@
 ---
 title: "Miyuki #2"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Miyuki"
+  url: "/clan/miyuki/"
+- name: "Miyuki"
+  url: "/families/miyuki/"
+- name: "Miyuki"
+  url: "/tartans/m/mi/miyuki-3/"
 ---
 This is the **Miyuki #2** sett — one scale-free proportion (`r40w1r1db8r1w1r6w1r1db8`), colour order pattern
 [BRWRWRBRWR](/stripes/brwrwrbrwr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r64db18r2db3r2db3r14lb8r2lb4r2~x2/"><circle cx="487.3" cy="98.9" r="4" fill="#3465a4"><title>Bennet</title></circle></a><a href="/variants/s10/r64db16r1db1r12g16r8db2r2k1~x2/"><circle cx="465.4" cy="66.7" r="4" fill="#3465a4"><title>Moffat District District Tartan</title></circle></a><a href="/variants/s9/k2r35db6r5db2r2db2r14w2~x2/"><circle cx="496.0" cy="109.2" r="4" fill="#3465a4"><title>Rose of Kilravock (Personal)</title></circle></a><a href="/variants/s10/r64db4r1k4r12w4r1w4k4r1~x2/"><circle cx="516.4" cy="36.5" r="4" fill="#3465a4"><title>Ramsay (Angus &amp; Mearns)</title></circle></a><a href="/variants/s9/g4r32db9r6db2r3db2r12w3~x2/"><circle cx="447.4" cy="144.9" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/variants/s10/r51dy2r2dy2r3w3db2w2db2w8~x2/"><circle cx="474.1" cy="81.1" r="4" fill="#3465a4"><title>Prince of Denmark</title></circle></a><a href="/variants/s9/g2r28db6r5db2r2db2r11w2/"><circle cx="487.3" cy="144.0" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/variants/s9/g2r28db6r5db2r2db2r11w2~x2/"><circle cx="487.3" cy="144.0" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/variants/s7/r68db9lb10db13y1db1y2~x2/"><circle cx="456.4" cy="94.4" r="4" fill="#3465a4"><title>Canadian Legion Branch 50 Corporate Tartan</title></circle></a><a href="/variants/s8/w10r47b2r2b2r18db3w4~x2~b1511266-db1108266/"><circle cx="486.9" cy="118.0" r="4" fill="#3465a4"><title>Swiss National</title></circle></a><circle cx="513.0" cy="90.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Isle of Gigha"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Isle of Gigha"
+  url: "/tartans/i/is/isle-of-gigha/"
 ---
 This is the **Isle of Gigha** sett — one scale-free proportion (`dg4r1dg4k4db4ly1db4k4dg4r1dg4db2`), colour order pattern
 [BGRGKBYBKGRG](/stripes/bgrgkbybkgrg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db2dg4r1dg4k4db4ly1~x8/"><circle cx="123.9" cy="259.1" r="4" fill="#3465a4"><title>Isle of Gigha (District)</title></circle></a><a href="/variants/s10/dg8k9db7r2db2r2db7k9dg8t3~x2~t2503227/"><circle cx="88.4" cy="237.4" r="4" fill="#3465a4"><title>Wellington (Wilson)</title></circle></a><a href="/variants/s8/do10dr3do10g14k12db12do14dr4~x2/"><circle cx="143.0" cy="265.5" r="4" fill="#3465a4"><title>Wcwm 1310</title></circle></a><a href="/variants/s12/k14g14k8y4k4g14k14db14dp5db4dp5db14~x2/"><circle cx="59.5" cy="234.5" r="4" fill="#3465a4"><title>Price-Powell (Personal)</title></circle></a><a href="/variants/s12/k5g4w1g4k1g4r1g4k5db5k1db5~x4/"><circle cx="85.9" cy="215.5" r="4" fill="#3465a4"><title>Lloyd of Dolobran Family Tartan</title></circle></a><a href="/variants/s12/dg24k24db24k5db8r5db8k5db24k24dg24y5~x2~db1204274/"><circle cx="149.8" cy="225.0" r="4" fill="#3465a4"><title>Heritage</title></circle></a><a href="/variants/s10/dg12k14db11r3db3r3db11k14dg12y3~x2~dg1605139/"><circle cx="86.0" cy="227.3" r="4" fill="#3465a4"><title>Wilson's No.112 (Blue)</title></circle></a><a href="/variants/s10/dr5db1dr3db1dr5db4g3k3g3lo2~x4/"><circle cx="118.4" cy="234.5" r="4" fill="#3465a4"><title>MacGaugh (Name)</title></circle></a><a href="/variants/s12/db3k1db3n3g4r1g4n3db3k1db3dbi2~x8~db1204274-dbi1406275/"><circle cx="91.4" cy="245.1" r="4" fill="#3465a4"><title>New York City American District Tartan</title></circle></a><a href="/variants/s8/k12db12r4db12k12db11g12y4~x2/"><circle cx="96.2" cy="274.7" r="4" fill="#3465a4"><title>Montrose of Alabama</title></circle></a><circle cx="131.1" cy="247.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

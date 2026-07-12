@@ -1,6 +1,11 @@
 ---
 title: "Owen of Wales"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Owen"
+  url: "/clan/owen/"
 ---
 A family of [Clan Owen](/clan/owen/).
 

@@ -1,6 +1,15 @@
 ---
 title: "Pendleton Hunting"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Pendleton"
+  url: "/clan/pendleton/"
+- name: "Pendleton"
+  url: "/families/pendleton/"
+- name: "Pendleton Hunting"
+  url: "/tartans/p/pe/pendleton-hunting/"
 ---
 This is the **Pendleton Hunting** sett — one scale-free proportion (`dbi2db16dg14r3dg14k3dg14ly3dg14db16dbi2`), colour order pattern
 [BBGRGKGYGBB](/stripes/bbgrgkgygbb/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dbi6db40dg34r5dg34k6dg34y5dg34db40dbi6~dbi1406275-db1204274/"><circle cx="358.3" cy="220.2" r="4" fill="#3465a4"><title>Pendleton Dress</title></circle></a><a href="/variants/s11/db6ki40dg34r5dg34k6dg34y5dg34ki40db6~ki0604259/"><circle cx="314.2" cy="204.5" r="4" fill="#3465a4"><title>Pendleton dress</title></circle></a><a href="/variants/s11/db2ki16dg14r3dg14k3dg14b3dg14ki16db2~ki0604259/"><circle cx="293.5" cy="202.5" r="4" fill="#3465a4"><title>Pendleton hunting</title></circle></a><a href="/variants/s11/k3db10dg25y2dg2y3dg2y2dg25db10w3~x2/"><circle cx="343.9" cy="152.3" r="4" fill="#3465a4"><title>William and Mary GALA, Inc, The</title></circle></a><a href="/variants/s7/k4dg16db11dr16dg25lo2lb3~x2/"><circle cx="294.2" cy="184.0" r="4" fill="#3465a4"><title>Mayo, County</title></circle></a><a href="/variants/s10/dg9w2dg24db37r3db37dg24w2dg9o4~x2~db1103284/"><circle cx="381.8" cy="190.5" r="4" fill="#3465a4"><title>Hardie</title></circle></a><a href="/variants/s20/db16dg14r3dg14k3dg14ly3dg14db16dbi2db16dg14ly3dg14k3dg14r3dg14db16dbi2~x2~db1204274-dbi1406275/"><circle cx="284.4" cy="187.3" r="4" fill="#3465a4"><title>Pendleton hunting Corporate Tartan</title></circle></a><a href="/variants/s9/dg15db8k5db8dg15y3dg15db8k5~x2/"><circle cx="293.4" cy="274.9" r="4" fill="#3465a4"><title>Dewar, Robert Alexander</title></circle></a><a href="/variants/s9/dg15db20k2r4k2db20dg15k2dy2~x2/"><circle cx="297.1" cy="194.8" r="4" fill="#3465a4"><title>Manroth (Personal)</title></circle></a><a href="/variants/s8/db3dg10db5y1db10k1dr4w1~x4/"><circle cx="269.1" cy="186.9" r="4" fill="#3465a4"><title>Côté-Haché (Personal)</title></circle></a><circle cx="297.5" cy="204.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

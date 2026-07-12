@@ -1,6 +1,15 @@
 ---
 title: "MacAlister of Glenbarr"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacAlister"
+  url: "/clan/macalister/"
+- name: "MacAlister of Glenbarr"
+  url: "/families/macalister-of-glenbarr/"
+- name: "MacAlister of Glenbarr"
+  url: "/tartans/m/ma/macalister-of-glenbarr-2/"
 ---
 This is the **MacAlister of Glenbarr** sett — one scale-free proportion (`g4o2g2o2g2o3db1o1g4o1db1o12db2o3`), colour order pattern
 [GRGRGRBRGRBRBR](/stripes/grgrgrbrgrbrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/g8o5g5o5g5o6db1o2g8o2db1o24db4o6~x2/"><circle cx="462.1" cy="183.0" r="4" fill="#3465a4"><title>MacGillivray Htg (Clan)</title></circle></a><a href="/variants/s14/dg8o5dg5o5dg5o6db1o2dg8o2db1o24db4o6~x2~dg1806142-o2005046/"><circle cx="483.7" cy="187.5" r="4" fill="#3465a4"><title>MacGillivray Hunting</title></circle></a><a href="/variants/s18/n33g10r3g3r3g3r8n10r3n10r8g3r3g3r3g10n33r3~x2/"><circle cx="424.0" cy="196.6" r="4" fill="#3465a4"><title>Gray (Personal)</title></circle></a><a href="/variants/s11/g22r4g22r22g2r3g2r3g2r3y2~x2/"><circle cx="393.4" cy="190.9" r="4" fill="#3465a4"><title>MacRea / MacRae</title></circle></a><a href="/variants/s11/dr4y34do20y4do8y6r2y5do2y3dr4/"><circle cx="428.2" cy="177.5" r="4" fill="#3465a4"><title>Morgan of Wales</title></circle></a><a href="/variants/s11/r4y34do20y4do8y6ri2y5do2y3r4~r1706009-ri2109032/"><circle cx="430.6" cy="176.4" r="4" fill="#3465a4"><title>Morgan Welsh Name Tartan</title></circle></a><a href="/variants/s10/r3n33g10r3g3r3g3r8n10r3~x2/"><circle cx="421.9" cy="213.6" r="4" fill="#3465a4"><title>Gray (Name)</title></circle></a><a href="/variants/s16/dy13r1dy2r2dy2r1dy2r5dy11r1dy2g2dy2r1dy2g7~x2/"><circle cx="409.6" cy="172.4" r="4" fill="#3465a4"><title>Särna District Tartan</title></circle></a><a href="/variants/s9/dr3o28do5o5do33o5do5o28ly3~x2/"><circle cx="415.3" cy="207.6" r="4" fill="#3465a4"><title>MacIver of Strathendry Htg (Personal</title></circle></a><a href="/variants/s14/g14dy4db4dy27g3dy4ly5dy4g3dy27db4dy4g14ly5~x2~g2408144-dy1603076-db1406275-ly3307090/"><circle cx="352.3" cy="203.7" r="4" fill="#3465a4"><title>Invertere (Daks #2)</title></circle></a><circle cx="418.8" cy="202.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

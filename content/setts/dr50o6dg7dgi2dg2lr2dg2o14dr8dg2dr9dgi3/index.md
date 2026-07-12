@@ -1,6 +1,11 @@
 ---
 title: "Tyrone Irish County Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Tyrone Irish County"
+  url: "/tartans/t/ty/tyrone-irish-county/"
 ---
 This is the **Tyrone Irish County Tartan** sett — one scale-free proportion (`dr50o6dg7dgi2dg2lr2dg2o14dr8dg2dr9dgi3`), colour order pattern
 [BRGGGYGRBGBG](/stripes/brgggygrbgbg/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr50o6do7g2do2w2do2o16dr8do2dr9g3~x2/"><circle cx="445.7" cy="122.7" r="4" fill="#3465a4"><title>Tyrone</title></circle></a><a href="/variants/s12/dr50y6do7dg2do2lb2do2y14dr8dg2dr9dg3~x2/"><circle cx="503.4" cy="146.9" r="4" fill="#3465a4"><title>Tyrone, County</title></circle></a><a href="/variants/s15/r7dt2r3dg32r2dg2r2dt10r2lb2r31dt2r2dt1r6~x2~r1906028-dt1201300-dg1602166-lb3203246/"><circle cx="450.2" cy="132.7" r="4" fill="#3465a4"><title>Drummond of Megginch - 1997 Kilt</title></circle></a><a href="/variants/s11/dr42r10n2r2db2r2dr10db6r2db3dr2~x2/"><circle cx="483.1" cy="134.7" r="4" fill="#3465a4"><title>Kirtle</title></circle></a><a href="/variants/s9/o65do9r11o5lb2b2n5o2b13~x2/"><circle cx="467.2" cy="112.0" r="4" fill="#3465a4"><title>Down</title></circle></a><a href="/variants/s9/ly1dr45dt23w1dt6r2ly1r2ly1~x2/"><circle cx="448.2" cy="108.4" r="4" fill="#3465a4"><title>Arbroath Smokie</title></circle></a><a href="/variants/s13/g8y2o4dp4g3dp4o42g4r3g4o4dp5r3/"><circle cx="393.0" cy="124.7" r="4" fill="#3465a4"><title>Sarna</title></circle></a><circle cx="476.0" cy="127.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

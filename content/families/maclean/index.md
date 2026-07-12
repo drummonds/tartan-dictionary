@@ -1,6 +1,11 @@
 ---
 title: "MacLean"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Maclean"
+  url: "/clan/maclean/"
 ---
 A family of [Clan Maclean](/clan/maclean/).
 

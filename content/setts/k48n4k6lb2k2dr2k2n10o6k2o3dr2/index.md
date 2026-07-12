@@ -1,6 +1,11 @@
 ---
 title: "Longmount"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Longmount"
+  url: "/tartans/l/lo/longmount/"
 ---
 This is the **Longmount** sett — one scale-free proportion (`k48n4k6lb2k2dr2k2n10o6k2o3dr2`), colour order pattern
 [BRKRBKBKWKBK](/stripes/brkrbkbkwkbk/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k86n6k4lb3k3dr3k3n22o14k3o6lb4/"><circle cx="327.4" cy="50.9" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/variants/s12/k48n4k6lr2k2dr2k2n10ly6k2ly3dr2~x2/"><circle cx="346.5" cy="60.3" r="4" fill="#3465a4"><title>Glen Ross (WCWM - 2)</title></circle></a><a href="/variants/s12/k86n6k4w3k3r3k3n22o14k3o6w4/"><circle cx="319.4" cy="47.9" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/variants/s12/k86n6k4w3k3r3k3n22ly14k3ly6w4/"><circle cx="309.4" cy="46.4" r="4" fill="#3465a4"><title>Langtree Trade Tartan</title></circle></a><a href="/variants/s14/k3y3k3y3k3y3k3y3k36w1k2db9r2db1~x2/"><circle cx="361.0" cy="44.1" r="4" fill="#3465a4"><title>Goldwire (2015)</title></circle></a><a href="/variants/s12/k48db4k8y2k3w3k3g12r6k3r3w3~x2/"><circle cx="301.9" cy="49.7" r="4" fill="#3465a4"><title>Stewart Black Clan Tartan</title></circle></a><a href="/variants/s12/k36db4k6y1k1w1k1g8r4k1r2w1~x2/"><circle cx="342.2" cy="27.2" r="4" fill="#3465a4"><title>Stewart, Black ground</title></circle></a><a href="/variants/s12/k44y3k4y3k4db4w2db4dr2w2dg4y2~x2/"><circle cx="323.8" cy="48.4" r="4" fill="#3465a4"><title>Clan An Caigeann (Corporate)</title></circle></a><a href="/variants/s12/k24t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="348.3" cy="45.3" r="4" fill="#3465a4"><title>Stewart/Stuart (Black)</title></circle></a><a href="/variants/s11/r5k1w3k6n5k2y3k45n4k2y3~x2/"><circle cx="387.7" cy="36.1" r="4" fill="#3465a4"><title>Williams Dress (Carolinas) (Personal)</title></circle></a><circle cx="356.8" cy="60.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

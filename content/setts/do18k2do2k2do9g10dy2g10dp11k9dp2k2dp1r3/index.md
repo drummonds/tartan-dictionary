@@ -1,6 +1,15 @@
 ---
 title: "Hay Gray (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Hay"
+  url: "/clan/hay/"
+- name: "Hay"
+  url: "/families/hay/"
+- name: "Hay"
+  url: "/tartans/h/ha/hay/"
 ---
 This is the **Hay Gray (Personal)** sett — one scale-free proportion (`do18k2do2k2do9g10dy2g10dp11k9dp2k2dp1r3`), colour order pattern
 [BKBKBGGGBKBKBR](/stripes/bkbkbgggbkbkbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/r3dg4g2dg10k18dg2dp18dg3dp18dg2k18dg18w1r3~x2~dg1806142-g1903114/"><circle cx="129.6" cy="116.9" r="4" fill="#3465a4"><title>Paget (Personal)</title></circle></a><a href="/variants/s14/dr10w1do1w2n10dr8do2k17do2dr7n19k3y1k1~x2/"><circle cx="145.6" cy="103.5" r="4" fill="#3465a4"><title>Scottish Wildcat</title></circle></a><a href="/variants/s15/dg15db3dg3db3dg3db16o16k5lo2k5o16db16dg15r1k4~x2/"><circle cx="121.2" cy="134.5" r="4" fill="#3465a4"><title>Loseby, Luke (Personal)</title></circle></a><a href="/variants/s12/lb3ki15k10dy10ki1dg5ki1lo10ki10dg8ki1k2~x2~ki0700000-k0504259/"><circle cx="112.0" cy="141.5" r="4" fill="#3465a4"><title>Blue Castlefield (Fashion)</title></circle></a><a href="/variants/s14/dr27g20k7w3dy3dr2dy3w3dy6dp6k2dr3dy4dp3~x2/"><circle cx="123.9" cy="111.3" r="4" fill="#3465a4"><title>Roman Family Tribute (Personal)</title></circle></a><a href="/variants/s11/dr4lb2dr6k2dr6do16ly2k12n10k2n1~x2/"><circle cx="110.3" cy="141.3" r="4" fill="#3465a4"><title>Caledonian (WCWM)</title></circle></a><a href="/variants/s13/dr4dg20k16lo2k3lb3k2t18dr6k2dr4k1lb2~x4~dg1405139-t1903246/"><circle cx="106.0" cy="104.8" r="4" fill="#3465a4"><title>Tilley, Sir Samuel Leonard</title></circle></a><a href="/variants/s15/dy5k2t6w1t6k2dy7k16g7k2dr4g2dr4k2g4~x2/"><circle cx="85.6" cy="124.0" r="4" fill="#3465a4"><title>Redgate Hunting #2 (Name)</title></circle></a><a href="/variants/s15/dy5k2db6w1db6k2dy7k16g7k2r4g2r4k2g4~x2/"><circle cx="83.1" cy="119.1" r="4" fill="#3465a4"><title>Redgate (Connecticut) Hunting #2</title></circle></a><a href="/variants/s14/o19dg2db8dg4db8dg2k19dg2k2dg11ly2dg11o1dg2~x2~o2404072-ly3207098/"><circle cx="155.6" cy="126.0" r="4" fill="#3465a4"><title>Eildon (1996)</title></circle></a><circle cx="140.6" cy="125.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,13 @@
 ---
 title: "MacIntyre, or Perthshire"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacIntyre"
+  url: "/clan/macintyre/"
+- name: "MacIntyre, or Perthshire"
+  url: "/tartans/m/ma/macintyre-or-perthshire/"
 ---
 This is the **MacIntyre, or Perthshire** sett — one scale-free proportion (`r3db21r3g7r7db8r3g21r3db3r3g21r3db8r6g7r3db21r3db3lb1`), colour order pattern
 [RBRGRBRGRBRGRBRGRBRBW](/stripes/rbrgrbrgrbrgrbrgrbrbw/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/r3db21r3dg7r7db8r3dg21r3db3r3dg21r3db8r6dg7r3db21r3db3lb1~x2/"><circle cx="262.7" cy="141.4" r="4" fill="#3465a4"><title>MacIntyre of Littleport</title></circle></a><a href="/variants/s22/g10r3db12lb1r10g12r3db20r3db3lb1r3db20r3g12r12lb1db12r3g20r3db3~x2/"><circle cx="220.1" cy="139.7" r="4" fill="#3465a4"><title>Cumming</title></circle></a><a href="/variants/s22/r3db20r3g12r8lb1db12r3g22r3db3g33r3db12lb1r8g12r3db20r3db3lb1~x2/"><circle cx="252.9" cy="112.3" r="4" fill="#3465a4"><title>Cumming and Glenorchy</title></circle></a><a href="/variants/s22/g34r3db12lb1r8g12r3db20r3db3lb1r3db20r3g12r8lb1db12r3g22r3db3~x2/"><circle cx="255.6" cy="110.5" r="4" fill="#3465a4"><title>Cumming Glenorchy (Htg) Clan Tartan</title></circle></a><a href="/variants/s14/db2lb1r2g16r2db6lb1r2g6r2db16lb1r2g2~x2~db1406275-r2109032/"><circle cx="233.3" cy="125.3" r="4" fill="#3465a4"><title>Norwich No.023</title></circle></a><a href="/variants/s14/db2lb1r2g16r2db6lb1r2g6r2db16lb1r2g2~x2/"><circle cx="236.8" cy="144.7" r="4" fill="#3465a4"><title>Glenorchy</title></circle></a><a href="/variants/s28/g16db3g3db3g3db16r15db1dy3db1r15db16g15db3g3db3g15db16r15t1r3t1r15db16g3db3g3db3~x2/"><circle cx="190.1" cy="126.2" r="4" fill="#3465a4"><title>Cairns of Finavon (Name)</title></circle></a><a href="/variants/s19/g28r12db1w2r1g4db20y2db3y2db3g7db3w1y2w1db20g4r12~x2/"><circle cx="216.0" cy="96.3" r="4" fill="#3465a4"><title>O'Kelly Family (Personal)</title></circle></a><a href="/variants/s15/g3r2w1db18r2g8r4lb1db8r2g18r2w1db3lb1~x2~r2209032-w3502055/"><circle cx="216.5" cy="124.4" r="4" fill="#3465a4"><title>Glenorchy #2</title></circle></a><a href="/variants/s15/g3r2b1db18r2g8r4lb1db8r2g18r2b1db3lb1~x2/"><circle cx="222.9" cy="126.6" r="4" fill="#3465a4"><title>Glen Orchy</title></circle></a><circle cx="230.6" cy="134.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

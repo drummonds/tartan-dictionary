@@ -1,6 +1,13 @@
 ---
 title: "Thomas Blake Glover"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Thomas"
+  url: "/clan/thomas/"
+- name: "Thomas Blake Glover"
+  url: "/tartans/t/th/thomas-blake-glover-2/"
 ---
 This is the **Thomas Blake Glover** sett — one scale-free proportion (`db4b16o6b16o6b16db8b6db4b16db2o1`), colour order pattern
 [BBRBRBBBBBBR](/stripes/bbrbrbbbbbbr/). It is recorded as a single **variant**, below.

@@ -1,6 +1,11 @@
 ---
 title: "Laing of Archiestown"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Laing"
+  url: "/clan/laing/"
 ---
 A family of [Clan Laing](/clan/laing/).
 

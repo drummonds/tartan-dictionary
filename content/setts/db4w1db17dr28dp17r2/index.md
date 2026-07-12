@@ -1,6 +1,11 @@
 ---
 title: "Sail Chalmadale"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Sail Chalmadale"
+  url: "/tartans/s/sa/sail-chalmadale/"
 ---
 This is the **Sail Chalmadale** sett — one scale-free proportion (`db4w1db17dr28dp17r2`), colour order pattern
 [BWBBBR](/stripes/bwbbbr/). It is recorded as **2 variants** — the same
@@ -23,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db4w1db17dr28dp17r2~x2~r1908022/"><circle cx="374.7" cy="202.7" r="4" fill="#3465a4"><title>Sail Chalmadale</title></circle></a><a href="/variants/s7/dp30db30n4db4n4db5r6~x2/"><circle cx="380.8" cy="246.8" r="4" fill="#3465a4"><title>Komissarov, Dmitry (Personal)</title></circle></a><a href="/variants/s6/dr28r1db18y2g6db18~x2/"><circle cx="364.4" cy="186.9" r="4" fill="#3465a4"><title>British Judo Association</title></circle></a><a href="/variants/s7/dp6r2dp1dg25db16k2db4~x2/"><circle cx="355.7" cy="171.1" r="4" fill="#3465a4"><title>Laurie</title></circle></a><a href="/variants/s7/dp6dy2dp1dg25db16k2db4~x2/"><circle cx="393.1" cy="185.3" r="4" fill="#3465a4"><title>Lawrie</title></circle></a><a href="/variants/s7/dp6ly2dp1dg25db16k2db4~x2/"><circle cx="326.9" cy="162.5" r="4" fill="#3465a4"><title>Lowry</title></circle></a><a href="/variants/s6/db38w3db8dbi36dg9r3~x2~db1106275-dbi1406275/"><circle cx="359.3" cy="219.5" r="4" fill="#3465a4"><title>Waters of Georgian Bay (District)</title></circle></a><a href="/variants/s5/lr3db28dt12dr22dg1~x2/"><circle cx="364.8" cy="219.9" r="4" fill="#3465a4"><title>Diaspora (Fashion)</title></circle></a><a href="/variants/s6/dy11db2r4y1dp2n2~x4/"><circle cx="301.4" cy="194.9" r="4" fill="#3465a4"><title>Windy Meadows</title></circle></a><a href="/variants/s8/w3dp2ly2dp38db28o2db2r2~x2~db1204274/"><circle cx="398.3" cy="130.0" r="4" fill="#3465a4"><title>Gretna Gold</title></circle></a><circle cx="365.8" cy="199.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

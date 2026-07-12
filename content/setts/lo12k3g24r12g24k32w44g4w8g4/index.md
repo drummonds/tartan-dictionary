@@ -1,6 +1,15 @@
 ---
 title: "Gillies Dress Green"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Gillies"
+  url: "/clan/gillies/"
+- name: "Gillies"
+  url: "/families/gillies/"
+- name: "Gillies Dress"
+  url: "/tartans/g/gi/gillies-dress-2/"
 ---
 This is the **Gillies Dress Green** sett — one scale-free proportion (`lo12k3g24r12g24k32w44g4w8g4`), colour order pattern
 [GWGWKGRGKY](/stripes/gwgwkgrgky/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w7r1w14k6y2k6g14r2g10y1~x2~w3600000-r2209032/"><circle cx="119.5" cy="155.5" r="4" fill="#3465a4"><title>Spanish shirt</title></circle></a><a href="/variants/s12/g8r1g2r3g12k12dy1lb12r3lb2r1lb8~x2/"><circle cx="105.2" cy="149.0" r="4" fill="#3465a4"><title>Macallan Distillery</title></circle></a><a href="/variants/s13/w18dr3w3dr10w26dr3k26g28dr10g3dr3g8lo6/"><circle cx="68.4" cy="151.5" r="4" fill="#3465a4"><title>Carnegie Dress #2 (Fashion)</title></circle></a><a href="/variants/s10/dy20k4g14k1o2k1g14k10w22o7~x2/"><circle cx="81.4" cy="135.1" r="4" fill="#3465a4"><title>Border Union Cattle Show (Corporate)</title></circle></a><a href="/variants/s8/k20w4r4w20dg20w5dg2g2~x2~dg1705151-g2307139/"><circle cx="112.8" cy="164.7" r="4" fill="#3465a4"><title>Hackett, William (Coatbridge) (Personal)</title></circle></a><a href="/variants/s8/db7w30k13g9r6g16k2y7~x2/"><circle cx="69.8" cy="149.8" r="4" fill="#3465a4"><title>MacLaren Dress Clan Tartan</title></circle></a><a href="/variants/s10/r5k1r5g9k7w3db3w15db1r2~x2/"><circle cx="95.8" cy="139.7" r="4" fill="#3465a4"><title>MacDuff, dress</title></circle></a><a href="/variants/s10/dr20k4g14k1o2k1g14k10w22o7~x2~w3600000/"><circle cx="86.8" cy="134.6" r="4" fill="#3465a4"><title>Border Union Cattle Show</title></circle></a><a href="/variants/s10/lo12k3t24r12t24k32w44t4w8t4/"><circle cx="100.8" cy="150.5" r="4" fill="#3465a4"><title>Gillies Dress Blue</title></circle></a><a href="/variants/s12/k4g4k2g14k6w3k6n2w4n2w15r3~x2/"><circle cx="70.5" cy="164.7" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><circle cx="94.4" cy="149.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

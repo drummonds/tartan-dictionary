@@ -1,6 +1,15 @@
 ---
 title: "MacCainsh Family Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacCainsh"
+  url: "/clan/maccainsh/"
+- name: "MacCainsh"
+  url: "/families/maccainsh/"
+- name: "MacCainsh"
+  url: "/tartans/m/ma/maccainsh/"
 ---
 This is the **MacCainsh Family Tartan** sett — one scale-free proportion (`r2db8k1g2k1g4k1g2k1db8y2`), colour order pattern
 [GBKGKGKGKBR](/stripes/gbkgkgkgkbr/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dr2db8k1g2k1g4k1g2k1db8lo2~x2/"><circle cx="189.0" cy="165.7" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/variants/s7/db36r4db6g18db15k18w4~x2/"><circle cx="166.1" cy="177.3" r="4" fill="#3465a4"><title>Grainger</title></circle></a><a href="/variants/s10/db10k1g2k2lb3k2g2k1db10w1~x8/"><circle cx="244.0" cy="146.3" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><a href="/variants/s9/lb3db20k3db2k5db2k3g15r2~x2/"><circle cx="173.3" cy="153.2" r="4" fill="#3465a4"><title>Scottish Chamber Orchestra, The</title></circle></a><a href="/variants/s10/db8k1db8k2g6r1g6k2db8w1~x2/"><circle cx="220.2" cy="185.7" r="4" fill="#3465a4"><title>Dalmeny</title></circle></a><a href="/variants/s12/y2db17k4w2k2y2k2db4g6k2g2w2~x2/"><circle cx="147.8" cy="141.2" r="4" fill="#3465a4"><title>O'Sheehan</title></circle></a><a href="/variants/s14/db2dg6dp1dg1dp1dg1db2k2db1k2db9g1db2g1~x4~dg1806142-g2506142/"><circle cx="228.6" cy="156.5" r="4" fill="#3465a4"><title>Lochcarron of Scotland</title></circle></a><a href="/variants/s11/y2db10k2r5k2db19k2db19g17k2y2~x2/"><circle cx="256.9" cy="152.6" r="4" fill="#3465a4"><title>Montreat</title></circle></a><a href="/variants/s9/db8w2k8g12r2db3r2db24r2~x2/"><circle cx="239.4" cy="145.5" r="4" fill="#3465a4"><title>Burt #2 (Name)</title></circle></a><a href="/variants/s10/db18k10g9k2r2k2g9k10db9w2~x2/"><circle cx="114.9" cy="178.3" r="4" fill="#3465a4"><title>Robertson Hunting Clan Tartan</title></circle></a><circle cx="194.4" cy="167.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

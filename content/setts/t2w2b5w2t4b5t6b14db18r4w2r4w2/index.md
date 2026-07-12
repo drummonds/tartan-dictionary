@@ -1,6 +1,11 @@
 ---
 title: "Daughters of the American Revolution Corporate Tartan"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Daughters of the American Revolution"
+  url: "/tartans/d/da/daughters-of-the-american-revolution/"
 ---
 This is the **Daughters of the American Revolution Corporate Tartan** sett — one scale-free proportion (`t2w2b5w2t4b5t6b14db18r4w2r4w2`), colour order pattern
 [BWBWBBBBBRWRW](/stripes/bwbwbbbbbrwrw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w2r4w2r4db18b14lb6b5lb4w2b5w2lb2~x2~db1204274-b2008266/"><circle cx="137.3" cy="170.8" r="4" fill="#3465a4"><title>Daughters of the American Revolution</title></circle></a><a href="/variants/s13/w2r2w2r4db18dbi14lb6dbi5lb4w2dbi5w2lb2~x2~db1204274-dbi1706275/"><circle cx="145.4" cy="167.2" r="4" fill="#3465a4"><title>Daughters of the American Revolution</title></circle></a><a href="/variants/s11/db4y3db17r7w2o7w2db7b17o3b4~x2/"><circle cx="157.2" cy="180.6" r="4" fill="#3465a4"><title>Asman Hunting</title></circle></a><a href="/variants/s9/w3lb2n14o8lb14db16n13lb2w3~x2~n1900000-o2500000/"><circle cx="153.5" cy="218.9" r="4" fill="#3465a4"><title>Caitriot</title></circle></a><a href="/variants/s11/g4r1db8w1r1w1b8w1b8w1y1~x4/"><circle cx="184.4" cy="164.8" r="4" fill="#3465a4"><title>Texas, Bluebonnet</title></circle></a><a href="/variants/s17/r2lb8dbi1lb4dbi2lb3dbi3lb1dbi15db1dbi4db2dbi2db4dbi1db9w2~x2~dbi1406275-db1404245/"><circle cx="229.3" cy="146.3" r="4" fill="#3465a4"><title>Pride of Lorient (Fashion)</title></circle></a><a href="/variants/s11/y4r23db3r3db16lb15b27lb8b5lb13w4~db1108266-b1511266/"><circle cx="88.8" cy="173.8" r="4" fill="#3465a4"><title>Shanghai Scottish</title></circle></a><a href="/variants/s12/lb18db3lb10db3lb10db14ly2r7ly2g14ly2db14~x2/"><circle cx="150.3" cy="195.7" r="4" fill="#3465a4"><title>Ralston (UK)</title></circle></a><a href="/variants/s14/dr12db10lb3o3lb3db3lb16db3lb3o3lb3db10dr12w4~x2~o2500000/"><circle cx="109.4" cy="205.6" r="4" fill="#3465a4"><title>Greer</title></circle></a><a href="/variants/s11/dr5r2db24lb2db2lb2db6lb8dr6lb8ly4~x2/"><circle cx="214.8" cy="156.3" r="4" fill="#3465a4"><title>Tasmania (District)</title></circle></a><circle cx="152.6" cy="179.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

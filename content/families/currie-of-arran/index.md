@@ -1,6 +1,11 @@
 ---
 title: "Currie of Arran"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Currie"
+  url: "/clan/currie/"
 ---
 A family of [Clan Currie](/clan/currie/).
 

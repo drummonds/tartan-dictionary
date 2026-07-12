@@ -1,6 +1,13 @@
 ---
 title: "Ballantyne (Personal) STWR"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Ballantyne"
+  url: "/clan/ballantyne/"
+- name: "Ballantyne STWR"
+  url: "/tartans/b/ba/ballantyne-stwr/"
 ---
 This is the **Ballantyne (Personal) STWR** sett — one scale-free proportion (`db34dy9ly3dy9n30r3n11r5`), colour order pattern
 [BGYGBRBR](/stripes/bgygbrbr/). It is recorded as a single **variant**, below.
@@ -21,6 +28,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dg24b8do2b8do2b8o15g2~x2/"><circle cx="226.9" cy="204.0" r="4" fill="#3465a4"><title>Unidentified from Winnipeg</title></circle></a><a href="/variants/s7/dr5dg27o2b25y7dg3dr3~x2/"><circle cx="274.7" cy="192.7" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><a href="/variants/s6/db30y3o11y3n33r6~x2/"><circle cx="270.5" cy="219.6" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/variants/s7/r5o20db13dbi42db13o20lo5~db1404245-dbi1406275/"><circle cx="216.5" cy="230.4" r="4" fill="#3465a4"><title>Newmill Corporate Tartan</title></circle></a><a href="/variants/s7/dg3b22do10o5dg21r6b3~x2/"><circle cx="203.5" cy="230.1" r="4" fill="#3465a4"><title>Swankie</title></circle></a><a href="/variants/s7/dp9b4dp1b4dg15r4dp1~x2/"><circle cx="273.0" cy="207.6" r="4" fill="#3465a4"><title>Logan, Light</title></circle></a><a href="/variants/s6/db30y3dy11y3n33r6~x2/"><circle cx="278.2" cy="223.6" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/variants/s7/b32do6o5do6dg19o3dg5~x2/"><circle cx="283.4" cy="220.4" r="4" fill="#3465a4"><title>Roscommon</title></circle></a><a href="/variants/s8/dg2do13dg11y5do1b21dg2o1~x2/"><circle cx="270.4" cy="175.5" r="4" fill="#3465a4"><title>St Lawrence Trade</title></circle></a><a href="/variants/s7/db4dg2r17dr9dg10db30n2~x2/"><circle cx="272.9" cy="184.6" r="4" fill="#3465a4"><title>Dempster, Ross (Personal)</title></circle></a><circle cx="261.4" cy="204.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

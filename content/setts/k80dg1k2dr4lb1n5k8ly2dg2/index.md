@@ -1,6 +1,15 @@
 ---
 title: "Crichton (Clan)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Crichton"
+  url: "/clan/crichton/"
+- name: "Crichton"
+  url: "/families/crichton/"
+- name: "Crichton"
+  url: "/tartans/c/cr/crichton-2/"
 ---
 This is the **Crichton (Clan)** sett — one scale-free proportion (`k80dg1k2dr4lb1n5k8ly2dg2`), colour order pattern
 [GYKBWBKGK](/stripes/gykbwbkgk/). It is recorded as a single **variant**, below.
@@ -21,6 +30,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k24w1r6k21y2k24g1~x2/"><circle cx="506.1" cy="124.3" r="4" fill="#3465a4"><title>Gourlay, George (Personal)</title></circle></a><a href="/variants/s7/k24w1r6k21ly2k24g1~x2/"><circle cx="497.8" cy="122.0" r="4" fill="#3465a4"><title>Gourlay, George (Personal)</title></circle></a><a href="/variants/s7/dt4k2dt4k45n2k3n2~x2/"><circle cx="572.6" cy="133.4" r="4" fill="#3465a4"><title>STLTH</title></circle></a><a href="/variants/s6/k99r5k4r3k2g1~x2/"><circle cx="626.0" cy="85.6" r="4" fill="#3465a4"><title>Allt Dubh (Black Burn)</title></circle></a><a href="/variants/s9/k76db1k2lb1g14dr5k13o1lo1~x2~db2006246-lb3200000/"><circle cx="363.3" cy="14.0" r="4" fill="#3465a4"><title>Royal Canadian Mounted Police Corporate Tartan</title></circle></a><a href="/variants/s6/k36y5k1y1n5k12~x2/"><circle cx="522.6" cy="121.9" r="4" fill="#3465a4"><title>Merola (2016)</title></circle></a><a href="/variants/s8/k50db2k13w1k13db5g15r2~x2/"><circle cx="427.8" cy="74.3" r="4" fill="#3465a4"><title>Center</title></circle></a><a href="/variants/s8/k50t2k13w1k13t5g15r2~x2/"><circle cx="419.3" cy="72.5" r="4" fill="#3465a4"><title>Center (Name)</title></circle></a><a href="/variants/s6/k31r2k10db1k1w1~x4/"><circle cx="604.6" cy="103.7" r="4" fill="#3465a4"><title>NewGeneration Alchemy (NGA) Inc</title></circle></a><a href="/variants/s9/k21dp2n1k1n1dp2k6db2n1~x4/"><circle cx="485.3" cy="115.5" r="4" fill="#3465a4"><title>Clan Inebriated</title></circle></a><circle cx="557.9" cy="25.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

@@ -1,6 +1,11 @@
 ---
 title: "Malliou, Despina (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Malliou, Despina"
+  url: "/tartans/m/ma/malliou-despina/"
 ---
 This is the **Malliou, Despina (Personal)** sett — one scale-free proportion (`k8dr7ly4k8g5dr7k18lb2`), colour order pattern
 [KBYKGBKW](/stripes/kbykgbkw/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k12dr8ly4k8dy6dr8k22db1~x2/"><circle cx="297.1" cy="153.3" r="4" fill="#3465a4"><title>Lagavista (Personal)</title></circle></a><a href="/variants/s7/r8k18r6k18t27k2w3~x2/"><circle cx="189.1" cy="174.3" r="4" fill="#3465a4"><title>MacKean (Personal)</title></circle></a><a href="/variants/s7/ly3k9lb1k1dr6k2ly3~x4/"><circle cx="185.5" cy="189.2" r="4" fill="#3465a4"><title>LP Cover (Dance)</title></circle></a><a href="/variants/s8/r1k7g7k7db7k7r1w1~x4/"><circle cx="183.7" cy="197.2" r="4" fill="#3465a4"><title>Tennent (Personal)</title></circle></a><a href="/variants/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/"><circle cx="218.4" cy="200.2" r="4" fill="#3465a4"><title>Process Safety Solutions Ltd</title></circle></a><a href="/variants/s8/k4ly8k26o6g15o6k26w2~x2/"><circle cx="230.5" cy="151.9" r="4" fill="#3465a4"><title>Holestone (Corporate)</title></circle></a><a href="/variants/s7/k40dp5k6y26n13k9dy3~x2/"><circle cx="232.7" cy="155.8" r="4" fill="#3465a4"><title>de Meuron (Neuchâtel) Dress, The</title></circle></a><a href="/variants/s9/lg15k50w4r18k5db5k15y10k4~x2~lg2704216-w3600000/"><circle cx="217.3" cy="117.5" r="4" fill="#3465a4"><title>Care Leaver</title></circle></a><a href="/variants/s9/lbi15k50lb4r18k5db5k15ly10k4~x2~lbi3203246-lb3200000/"><circle cx="210.8" cy="115.4" r="4" fill="#3465a4"><title>Care Leaver</title></circle></a><a href="/variants/s6/dr1k10n2lb5k5dr1~x4/"><circle cx="275.6" cy="187.3" r="4" fill="#3465a4"><title>Callaway (Corporate)</title></circle></a><circle cx="212.7" cy="187.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

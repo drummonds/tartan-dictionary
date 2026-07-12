@@ -1,6 +1,11 @@
 ---
 title: "de Franck, Matt (Personal)"
 date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "de Franck, Matt"
+  url: "/tartans/d/de/de-franck-matt-2/"
 ---
 This is the **de Franck, Matt (Personal)** sett — one scale-free proportion (`n12k2n2k2n2k12lp12lb3w1`), colour order pattern
 [BKBKBKWWW](/stripes/bkbkbkwww/). It is recorded as a single **variant**, below.
@@ -21,6 +26,6 @@ The nearest existing variants to this sett's anchor cloth by ΔTartan distance, 
 
 ## Neighbour map
 
-Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this sett's anchor; blue dots are its nearest — click one to open its page. The map is a flat projection of a many-dimensional space — [how to read it](/posts/neighbourhood-maps/).
 
 <svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lr18k3lr4lb3lr4k19n20k2r4~x2~lr2800000-n1700000/"><circle cx="113.3" cy="158.1" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/variants/s11/y2k2r2db10r1k9w9r2w2r1w2~x2/"><circle cx="73.0" cy="142.8" r="4" fill="#3465a4"><title>Cameron Erracht Dress Trade Tartan</title></circle></a><a href="/variants/s10/dr1k1lr2k2lr2k1lr4k1db9lo1~x4/"><circle cx="135.3" cy="147.9" r="4" fill="#3465a4"><title>Hanna of Stirlingshire (Clan)</title></circle></a><a href="/variants/s9/o18k3o4lb3o4k18n20k2r4~x2~o2500000-n1900000/"><circle cx="120.7" cy="160.1" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/variants/s7/db4n19lr2k19n2lr25lb2~x2~lr2800000-lb3300000/"><circle cx="150.9" cy="164.1" r="4" fill="#3465a4"><title>Ritchie, Stephen James (Personal)</title></circle></a><a href="/variants/s11/r1k2w8k2r1k2db8k2r1k2y1~x4/"><circle cx="80.4" cy="147.0" r="4" fill="#3465a4"><title>Andreou Family (Personal)</title></circle></a><a href="/variants/s7/lb5k26y4lb24dp8k3r4~x2/"><circle cx="135.4" cy="166.3" r="4" fill="#3465a4"><title>Pengelly, The Cornish (Name)</title></circle></a><a href="/variants/s11/lb3k1n12k1n1k2n1k6lr12k1lo1~x4~lb3103284-lr2800000/"><circle cx="136.7" cy="131.0" r="4" fill="#3465a4"><title>McCandlish Dress, Grey (Name)</title></circle></a><a href="/variants/s11/lb3k1dr12k1dr1k2dr1k6lbi12k1lo1~x4~lb3103284-lbi3200000/"><circle cx="128.2" cy="124.0" r="4" fill="#3465a4"><title>MacCandlish Arisaid Red</title></circle></a><a href="/variants/s13/dg8r1dg2r2dg12w1k12r1lb12r2lb2r1lb8~x4/"><circle cx="110.7" cy="133.2" r="4" fill="#3465a4"><title>Boston Pipe Band, Greater</title></circle></a><circle cx="119.1" cy="149.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

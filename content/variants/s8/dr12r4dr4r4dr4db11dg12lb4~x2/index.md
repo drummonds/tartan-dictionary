@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Akins"
-  url: "/tartans/akins/"
+  url: "/tartans/a/ak/akins/"
 - name: "Akins Clan Tartan"
   url: "/setts/dr12r4dr4r4dr4db11dg12lb4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr12r4dr4r4dr4db11dg12lb4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBBGW](/stripes/brbrbbgw/).
 
-Part of the [Akins](/tartans/akins/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Akins](/tartans/a/ak/akins/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

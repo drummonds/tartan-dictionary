@@ -6,6 +6,8 @@ This is the **Sonsub Corporate Tartan** sett — one scale-free proportion (`k61
 [KKKKKBYBKY](/stripes/kkkkkbybky/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Sonsub](/tartans/s/so/sonsub/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Coutts 80th (James Robert)** sett — one scale-free proportion (`
 [BKBKBKBKGKGKGKGKWGWGKGKGKGKBKBKBKBKWKRKWKRKW](/stripes/bkbkbkbkgkgkgkgkwgwgkgkgkgkbkbkbkbkwkrkwkrkw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Coutts 80th](/tartans/c/co/coutts-80th/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

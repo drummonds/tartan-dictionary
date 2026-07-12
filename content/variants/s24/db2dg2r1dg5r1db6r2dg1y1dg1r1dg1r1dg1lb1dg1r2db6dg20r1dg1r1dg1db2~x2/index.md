@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ettrick"
+  url: "/tartans/e/et/ettrick-3/"
 - name: "Ettrick (Green) District Tartan"
   url: "/setts/db2dg2r1dg5r1db6r2dg1y1dg1r1dg1r1dg1lb1dg1r2db6dg20r1dg1r1dg1db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2dg2r1dg5r1db6r2dg1y1dg1r1dg1r1dg1lb1dg1r2db6dg20r1dg1r1dg1db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRGRBRGGGRGRGWGRBGRGRGB](/stripes/bgrgrbrgggrgrgwgrbgrgrgb/).
+
+Part of the [Ettrick](/tartans/e/et/ettrick-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 

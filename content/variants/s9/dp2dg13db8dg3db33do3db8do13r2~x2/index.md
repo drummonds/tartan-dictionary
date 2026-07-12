@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Burt"
+  url: "/tartans/b/bu/burt-3/"
 - name: "Burt Family"
   url: "/setts/dp2dg13db8dg3db33do3db8do13r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp2dg13db8dg3db33do3db8do13r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBBBBR](/stripes/bgbgbbbbr/).
+
+Part of the [Burt](/tartans/b/bu/burt-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,7 +6,7 @@ This is the **Stinson** sett — one scale-free proportion (`k7t20lb2r6lb2k20y3g
 [GRBGGKWRWBKBWRWKGGBR](/stripes/grbggkwrwbkbwrwkggbr/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
-Part of the [Stinson](/tartans/stinson/) tartan — the named design grouping this sett with its kin.
+Part of the [Stinson](/tartans/s/st/stinson/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

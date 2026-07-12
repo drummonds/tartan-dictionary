@@ -6,7 +6,7 @@ This is the **Hay, or Stewart** sett — one scale-free proportion (`w9r5w29k10y
 [WRKRGKWKGKWRW](/stripes/wrkrgkwkgkwrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Hay or Stewart](/tartans/hay-or-stewart/) tartan — the named design grouping this sett with its kin.
+Part of the [Hay or Stewart](/tartans/h/ha/hay-or-stewart/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

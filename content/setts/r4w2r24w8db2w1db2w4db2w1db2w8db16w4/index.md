@@ -6,6 +6,8 @@ This is the **Polish** sett — one scale-free proportion (`r4w2r24w8db2w1db2w4d
 [RWRWBWBWBWBWBW](/stripes/rwrwbwbwbwbwbw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Polish](/tartans/p/po/polish/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Glenfinnan** sett — one scale-free proportion (`dp28r26w2dp5w2r2
 [BRWBWRGRWR](/stripes/brwbwrgrwr/). It is recorded as a single **variant**, below.
 First attested **1772**.
 
+Part of the [Glenfinnan](/tartans/g/gl/glenfinnan-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

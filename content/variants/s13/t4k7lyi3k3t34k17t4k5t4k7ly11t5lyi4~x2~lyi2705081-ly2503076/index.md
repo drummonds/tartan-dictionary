@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Oregon"
+  url: "/tartans/s/st/state-seal-of-oregon/"
 - name: "State Seal of Oregon (Fashion)"
   url: "/setts/t4k7lyi3k3t34k17t4k5t4k7ly11t5lyi4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t4k7lyi3k3t34k17t4k5t4k7ly11t5lyi4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKYKBKBKBKYBY](/stripes/bkykbkbkbkyby/).
+
+Part of the [State Seal of Oregon](/tartans/s/st/state-seal-of-oregon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

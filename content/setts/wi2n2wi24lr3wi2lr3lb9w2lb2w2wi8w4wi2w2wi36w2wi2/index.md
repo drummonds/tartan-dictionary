@@ -6,6 +6,8 @@ This is the **Weston-McCue (Personal)** sett — one scale-free proportion (`wi2
 [WBWYWYWWWWWWWWWWW](/stripes/wbwywywwwwwwwwwww/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Weston-McCue](/tartans/w/we/weston-mccue/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

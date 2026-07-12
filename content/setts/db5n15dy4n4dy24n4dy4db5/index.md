@@ -6,6 +6,8 @@ This is the **Daks-Simpson (Muted Skye)** sett — one scale-free proportion (`d
 [BBGBGBGB](/stripes/bbgbgbgb/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Daks-Simpson](/tartans/d/da/daks-simpson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

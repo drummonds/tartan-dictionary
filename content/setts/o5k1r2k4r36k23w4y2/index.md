@@ -6,6 +6,8 @@ This is the **Aberdeen Football Club (1999)** sett — one scale-free proportion
 [GWKRKRKR](/stripes/gwkrkrkr/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Aberdeen Football Club](/tartans/a/ab/aberdeen-football-club-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

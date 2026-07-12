@@ -6,6 +6,8 @@ This is the **Florence (Fashion)** sett — one scale-free proportion (`oi32dp8o
 [BRBBRRWRWBRBR](/stripes/brbbrrwrwbrbr/). It is recorded as a single **variant**, below.
 First attested **~1983**.
 
+Part of the [Florence](/tartans/f/fl/florence/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

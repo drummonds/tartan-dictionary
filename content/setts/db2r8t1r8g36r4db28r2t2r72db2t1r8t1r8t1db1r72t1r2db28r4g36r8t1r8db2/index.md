@@ -6,6 +6,8 @@ This is the **MacGillivray** sett — one scale-free proportion (`db2r8t1r8g36r4
 [BRBRGRBRBRBBRBRBBRBRBRGRBRB](/stripes/brbrgrbrbrbbrbrbbrbrbrgrbrb/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
+Part of the [MacGillivray](/tartans/m/ma/macgillivray/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

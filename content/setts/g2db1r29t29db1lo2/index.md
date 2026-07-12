@@ -6,6 +6,8 @@ This is the **Reagan Clan Tartan** sett — one scale-free proportion (`g2db1r29
 [BRBBYBBRBG](/stripes/brbbybbrbg/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Reagan](/tartans/r/re/reagan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

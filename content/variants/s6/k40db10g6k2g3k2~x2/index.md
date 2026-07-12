@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Daks"
-  url: "/tartans/daks-3/"
+  url: "/tartans/d/da/daks-3/"
 - name: "Daks (Chino Check)"
   url: "/setts/k40db10g6k2g3k2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k40db10g6k2g3k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGBKKKKKK](/stripes/kgkgbkkkkkk/).
 
-Part of the [Daks](/tartans/daks-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Daks](/tartans/d/da/daks-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

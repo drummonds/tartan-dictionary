@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified"
+  url: "/tartans/u/un/unidentified-21/"
 - name: "Unidentified (Winterbottom)"
   url: "/setts/db13w13db4ly2g8r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db13w13db4ly2g8r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBYGR](/stripes/bwbygr/).
+
+Part of the [Unidentified](/tartans/u/un/unidentified-21/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

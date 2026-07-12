@@ -6,6 +6,8 @@ This is the **MacIntosh Old Ancient Artifact Tartan** sett — one scale-free pr
 [GRGRGRGRGRGRBRGRGRBR](/stripes/grgrgrgrgrgrbrgrgrbr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [MacIntosh Old](/tartans/m/ma/macintosh-old/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

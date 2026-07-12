@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tait"
+  url: "/tartans/t/ta/tait/"
 - name: "Tait #2"
   url: "/setts/w4k1r2k1g9k2t24k2r6k2g12y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4k1r2k1g9k2t24k2r6k2g12y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKRKBKGKRKW](/stripes/ggkrkbkgkrkw/).
+
+Part of the [Tait](/tartans/t/ta/tait/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

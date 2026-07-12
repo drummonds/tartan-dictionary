@@ -6,6 +6,8 @@ This is the **Digital Equipment Corp. (Corporate)** sett — one scale-free prop
 [YKYBYBYBYY](/stripes/ykybybybyy/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [Digital Equipment Corp.](/tartans/d/di/digital-equipment-corp/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

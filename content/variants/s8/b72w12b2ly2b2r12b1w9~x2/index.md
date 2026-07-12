@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Tennessee Pioneer Blanket"
+  url: "/tartans/t/te/tennessee-pioneer-blanket/"
+- name: "Tennessee Pioneer Blanket"
   url: "/setts/b72w12b2ly2b2r12b1w9/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b72w12b2ly2b2r12b1w9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBYBRBW](/stripes/bwbybrbw/).
+
+Part of the [Tennessee Pioneer Blanket](/tartans/t/te/tennessee-pioneer-blanket/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

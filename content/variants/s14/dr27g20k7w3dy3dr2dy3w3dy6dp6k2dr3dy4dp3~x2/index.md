@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Roman Family Tribute"
+  url: "/tartans/r/ro/roman-family-tribute/"
 - name: "Roman Family Tribute (Personal)"
   url: "/setts/dr27g20k7w3dy3dr2dy3w3dy6dp6k2dr3dy4dp3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr27g20k7w3dy3dr2dy3w3dy6dp6k2dr3dy4dp3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKBGWGBGWKGB](/stripes/bgbkbgwgbgwkgb/).
+
+Part of the [Roman Family Tribute](/tartans/r/ro/roman-family-tribute/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

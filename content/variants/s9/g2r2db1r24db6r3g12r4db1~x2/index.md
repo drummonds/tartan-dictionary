@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacDonald"
+  url: "/clan/macdonald/"
+- name: "MacDonald 1"
+  url: "/tartans/m/ma/macdonald-1/"
 - name: "MacDonald #7"
   url: "/setts/g2r2db1r24db6r3g12r4db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g2r2db1r24db6r3g12r4db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRBRBRG](/stripes/brgrbrbrg/).
+
+Part of the [MacDonald 1](/tartans/m/ma/macdonald-1/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

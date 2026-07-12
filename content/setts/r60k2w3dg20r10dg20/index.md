@@ -6,6 +6,8 @@ This is the **Greig (Personal)** sett — one scale-free proportion (`r60k2w3dg2
 [GRGWKR](/stripes/grgwkr/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Greig](/tartans/g/gr/greig/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

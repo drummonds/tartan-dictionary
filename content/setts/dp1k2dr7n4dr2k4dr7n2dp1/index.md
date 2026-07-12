@@ -6,6 +6,8 @@ This is the **Clanton (Personal)** sett — one scale-free proportion (`dp1k2dr7
 [BBBKBBBKB](/stripes/bbbkbbbkb/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Clanton](/tartans/c/cl/clanton/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

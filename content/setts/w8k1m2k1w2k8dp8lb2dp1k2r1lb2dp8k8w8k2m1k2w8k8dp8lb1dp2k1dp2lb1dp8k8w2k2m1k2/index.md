@@ -6,6 +6,8 @@ This is the **McLosek (Personal)** sett — one scale-free proportion (`w8k1m2k1
 [KRKWKBWBKBWBKWKRKWKBWRKBWBKWKRKW](/stripes/krkwkbwbkbwbkwkrkwkbwrkbwbkwkrkw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [McLosek](/tartans/m/mc/mclosek-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

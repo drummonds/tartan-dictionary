@@ -6,6 +6,8 @@ This is the **Sandilands-Watson (Personal)** sett — one scale-free proportion 
 [BKBBBGBGBGBGKBBBK](/stripes/bkbbbgbgbgbgkbbbk/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Sandilands-Watson](/tartans/s/sa/sandilands-watson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

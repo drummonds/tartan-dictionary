@@ -6,6 +6,8 @@ This is the **Indigo Blue (Corporate)** sett — one scale-free proportion (`db9
 [BKBKBWKWKWB](/stripes/bkbkbwkwkwb/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Indigo](/tartans/i/in/indigo-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

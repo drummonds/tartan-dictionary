@@ -6,6 +6,8 @@ This is the **Nicolson of Taransay Hunting (Personal)** sett — one scale-free 
 [KGGWBBR](/stripes/kggwbbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Nicolson of Taransay Hunting](/tartans/n/ni/nicolson-of-taransay-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

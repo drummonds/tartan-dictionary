@@ -7,7 +7,7 @@ This is the **MacQuarrie #3** sett — one scale-free proportion (`g2r3g2r52g2r2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
-Part of the [MacQuarrie 1815](/tartans/macquarrie-1815/) tartan — the named design grouping this sett with its kin.
+Part of the [MacQuarrie 1815](/tartans/m/ma/macquarrie-1815/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

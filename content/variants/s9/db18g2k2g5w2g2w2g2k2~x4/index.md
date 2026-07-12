@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Tweedside Hunting"
-  url: "/tartans/tweedside-hunting/"
+  url: "/tartans/t/tw/tweedside-hunting/"
 - name: "Tweedside Hunting"
   url: "/setts/db18g2k2g5w2g2w2g2k2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db18g2k2g5w2g2w2g2k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGWGWGK](/stripes/bgkgwgwgk/).
 
-Part of the [Tweedside Hunting](/tartans/tweedside-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Tweedside Hunting](/tartans/t/tw/tweedside-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

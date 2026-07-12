@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Intergen"
+  url: "/tartans/i/in/intergen-2/"
 - name: "Intergen (Corporate)"
   url: "/setts/k4dy3k30lg33r1lg4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4dy3k30lg33r1lg4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKYRY](/stripes/kgkyry/).
+
+Part of the [Intergen](/tartans/i/in/intergen-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

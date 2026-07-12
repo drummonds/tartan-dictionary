@@ -6,7 +6,7 @@ This is the **Fred Perry** sett — one scale-free proportion (`db36r4db3w3db36d
 [BRBWBGWGWGRGWGWG](/stripes/brbwbgwgwgrgwgwg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Fred Perry](/tartans/fred-perry/) tartan — the named design grouping this sett with its kin.
+Part of the [Fred Perry](/tartans/f/fr/fred-perry/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

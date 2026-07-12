@@ -6,7 +6,7 @@ This is the **Williams** sett — one scale-free proportion (`dy46do6lo3do3w3do3
 [GBYBWBGGBGW](/stripes/gbybwbggbgw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
-Part of the [Williams](/tartans/williams-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Williams](/tartans/w/wi/williams-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

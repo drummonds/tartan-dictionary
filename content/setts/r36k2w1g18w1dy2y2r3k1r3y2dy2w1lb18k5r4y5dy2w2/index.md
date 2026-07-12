@@ -6,7 +6,7 @@ This is the **Chattan Clan Tartan** sett — one scale-free proportion (`r36k2w1
 [RKWGWGGRKRGGWWKRGGW](/stripes/rkwgwggrkrggwwkrggw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Chattan](/tartans/chattan-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Chattan](/tartans/c/ch/chattan-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

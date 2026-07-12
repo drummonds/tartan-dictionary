@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ithilien Heather"
+  url: "/tartans/i/it/ithilien-heather-2/"
 - name: "Ithilien Heather (Personal)"
   url: "/setts/gi20r2g3db12k20r2lb3db4lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/gi20r2g3db12k20r2lb3db4lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGBKRWBW](/stripes/grgbkrwbw/).
+
+Part of the [Ithilien Heather](/tartans/i/it/ithilien-heather-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

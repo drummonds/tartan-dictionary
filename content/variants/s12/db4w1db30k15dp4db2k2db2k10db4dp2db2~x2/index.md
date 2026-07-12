@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scotland's Own"
-  url: "/tartans/scotland-s-own/"
+  url: "/tartans/s/sc/scotland-s-own/"
 - name: "Scotland's Own"
   url: "/setts/db4w1db30k15dp4db2k2db2k10db4dp2db2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db4w1db30k15dp4db2k2db2k10db4dp2db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKBKBBKBWB](/stripes/bbbkbkbbkbwb/).
 
-Part of the [Scotland's Own](/tartans/scotland-s-own/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Scotland's Own](/tartans/s/sc/scotland-s-own/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

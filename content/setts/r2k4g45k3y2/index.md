@@ -6,6 +6,8 @@ This is the **Mar (Tribe of..) District Tartan** sett — one scale-free proport
 [GKGKR](/stripes/gkgkr/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
+Part of the [Mar](/tartans/m/ma/mar/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

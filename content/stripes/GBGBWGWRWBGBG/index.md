@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/y4db5y4db5w8dg2w24r2w8db5y4db5y4~x2/">Aelfleda Arisaid (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/y4db5y4db5w8dg2w24r2w8db5y4db5y4~x2/"><img src="/variants/s13/y4db5y4db5w8dg2w24r2w8db5y4db5y4~x2/sett.png" alt="Aelfleda Arisaid (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s13/y4db5y4db5w8r2w24g2w8db5y4db5y4~x2/">Aelfleda Arisaid (Personal)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s13/y4db5y4db5w8r2w24g2w8db5y4db5y4~x2/"><img src="/variants/s13/y4db5y4db5w8r2w24g2w8db5y4db5y4~x2/sett.png" alt="Aelfleda Arisaid (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/y4db5y4db5w8dg2w24r2w8db5y4db5y4~x2/">Aelfleda Arisaid (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/y4db5y4db5w8dg2w24r2w8db5y4db5y4~x2/"><img src="/variants/s13/y4db5y4db5w8dg2w24r2w8db5y4db5y4~x2/sett.png" alt="Aelfleda Arisaid (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

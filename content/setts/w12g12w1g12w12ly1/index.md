@@ -6,6 +6,8 @@ This is the **Wallace Green Dress Fashion Tartan** sett — one scale-free propo
 [WGWGWY](/stripes/wgwgwy/). It is recorded as a single **variant**, below.
 First attested **~2004**.
 
+Part of the [Wallace Green Dress](/tartans/w/wa/wallace-green-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -7,6 +7,8 @@ This is the **HMS Neptune** sett — one scale-free proportion (`g4k1dbi9k1g3k1d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2015**.
 
+Part of the [HMS Neptune](/tartans/h/hm/hms-neptune/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

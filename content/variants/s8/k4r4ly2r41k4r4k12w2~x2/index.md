@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Aberdeen F. C."
+  url: "/tartans/a/ab/aberdeen-f-c/"
 - name: "Aberdeen F. C. (2002) (Sports)"
   url: "/setts/k4r4ly2r41k4r4k12w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4r4ly2r41k4r4k12w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRYRKRKW](/stripes/kryrkrkw/).
+
+Part of the [Aberdeen F. C.](/tartans/a/ab/aberdeen-f-c/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

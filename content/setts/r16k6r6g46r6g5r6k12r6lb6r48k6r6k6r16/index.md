@@ -6,6 +6,8 @@ This is the **Grant** sett — one scale-free proportion (`r16k6r6g46r6g5r6k12r6
 [RKRGRGRKRWRKRKR](/stripes/rkrgrgrkrwrkrkr/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Grant](/tartans/g/gr/grant-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

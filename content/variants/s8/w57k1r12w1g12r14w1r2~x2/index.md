@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "McBrayer Dress"
+  url: "/tartans/m/mc/mcbrayer-dress/"
+- name: "McBrayer Dress"
   url: "/setts/w57k1r12w1g12r14w1r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w57k1r12w1g12r14w1r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRGWRKW](/stripes/rwrgwrkw/).
+
+Part of the [McBrayer Dress](/tartans/m/mc/mcbrayer-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

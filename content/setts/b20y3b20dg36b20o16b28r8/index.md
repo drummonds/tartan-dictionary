@@ -6,6 +6,8 @@ This is the **Leighton** sett — one scale-free proportion (`b20y3b20dg36b20o16
 [BGBGBRBR](/stripes/bgbgbrbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Leighton](/tartans/l/le/leighton/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

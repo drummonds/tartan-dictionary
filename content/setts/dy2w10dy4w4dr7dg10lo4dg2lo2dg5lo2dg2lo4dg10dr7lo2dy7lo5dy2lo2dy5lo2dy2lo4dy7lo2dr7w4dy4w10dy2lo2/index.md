@@ -6,6 +6,8 @@ This is the **Strathearn Dress (Fashion?)** sett — one scale-free proportion (
 [GWGWBGYGYGYGYGBYGYGYGYGYGYBWGWGY](/stripes/gwgwbgygygygygbygygygygygybwgwgy/). It is recorded as a single **variant**, below.
 First attested **~2014**.
 
+Part of the [Strathearn Dress](/tartans/s/st/strathearn-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

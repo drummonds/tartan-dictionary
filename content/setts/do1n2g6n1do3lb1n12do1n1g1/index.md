@@ -6,6 +6,8 @@ This is the **Wicklow, County (District)** sett — one scale-free proportion (`
 [BBGBBWBBBG](/stripes/bbgbbwbbbg/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Wicklow, County](/tartans/w/wi/wicklow-county-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

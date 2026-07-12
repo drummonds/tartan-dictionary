@@ -6,6 +6,8 @@ This is the **Cavan County, Crest Range** sett — one scale-free proportion (`d
 [GBKBWKBWKG](/stripes/gbkbwkbwkg/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Cavan County, Crest Range](/tartans/c/ca/cavan-county-crest-range/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

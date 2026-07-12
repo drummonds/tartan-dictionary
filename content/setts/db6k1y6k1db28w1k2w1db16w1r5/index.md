@@ -6,6 +6,8 @@ This is the **Historic Caledonian Railway Enthusiasts', The** sett — one scale
 [BKGKBWKWBWR](/stripes/bkgkbwkwbwr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Historic Caledonian Railway Enthusiasts', The](/tartans/h/hi/historic-caledonian-railway-enthusiasts-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

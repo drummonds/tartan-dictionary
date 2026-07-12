@@ -18,5 +18,5 @@ date: 2023-03-18
 </tbody>
 </table>
 
-[See the Cheape of Torosay tartan and all its setts →](/tartans/cheape-of-torosay/)
+[See the Cheape of Torosay tartan and all its setts →](/tartans/c/ch/cheape-of-torosay/)
 

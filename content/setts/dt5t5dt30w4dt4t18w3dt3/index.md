@@ -6,7 +6,7 @@ This is the **Salem Scottish Dancers (Corporate)** sett — one scale-free propo
 [BBBWBBWB](/stripes/bbbwbbwb/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
-Part of the [Salem Scottish Dancers](/tartans/salem-scottish-dancers/) tartan — the named design grouping this sett with its kin.
+Part of the [Salem Scottish Dancers](/tartans/s/sa/salem-scottish-dancers/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

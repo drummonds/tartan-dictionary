@@ -6,6 +6,8 @@ This is the **Benedict (Personal)** sett — one scale-free proportion (`dg4lb4k
 [GWKRY](/stripes/gwkry/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Benedict](/tartans/b/be/benedict/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

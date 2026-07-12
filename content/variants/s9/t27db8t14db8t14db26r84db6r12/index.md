@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "POF"
+  url: "/tartans/p/po/pof/"
 - name: "POF (Fashion)"
   url: "/setts/t27db8t14db8t14db26r84db6r12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t27db8t14db8t14db26r84db6r12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBRBR](/stripes/bbbbbbrbr/).
+
+Part of the [POF](/tartans/p/po/pof/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

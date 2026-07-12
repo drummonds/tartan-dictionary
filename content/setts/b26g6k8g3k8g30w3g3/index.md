@@ -6,6 +6,8 @@ This is the **Riley (Personal)** sett — one scale-free proportion (`b26g6k8g3k
 [BGKGKGWG](/stripes/bgkgkgwg/). It is recorded as a single **variant**, below.
 First attested **1953**.
 
+Part of the [Riley](/tartans/r/ri/riley/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

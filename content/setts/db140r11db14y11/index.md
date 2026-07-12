@@ -6,6 +6,8 @@ This is the **Gem** sett — one scale-free proportion (`db140r11db14y11`), colo
 [BRBG](/stripes/brbg/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Gem](/tartans/g/ge/gem/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

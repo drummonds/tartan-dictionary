@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "FIRES Center of Excelence"
+  url: "/tartans/f/fi/fires-center-of-excelence/"
+- name: "FIRES Center of Excelence"
   url: "/setts/r50y8k2w2k2y8k22r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r50y8k2w2k2y8k22r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKWKGKR](/stripes/rgkwkgkr/).
+
+Part of the [FIRES Center of Excelence](/tartans/f/fi/fires-center-of-excelence/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

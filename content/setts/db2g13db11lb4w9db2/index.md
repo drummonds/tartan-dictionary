@@ -6,6 +6,8 @@ This is the **Loch Leven Check Trade Tartan** sett — one scale-free proportion
 [BGBWWB](/stripes/bgbwwb/). It is recorded as a single **variant**, below.
 First attested **1976**.
 
+Part of the [Loch Leven Check](/tartans/l/lo/loch-leven-check/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

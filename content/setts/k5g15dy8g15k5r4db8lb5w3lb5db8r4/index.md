@@ -6,6 +6,8 @@ This is the **Anderson (Blackwood) (Personal)** sett — one scale-free proporti
 [KGGGKRBWWWBR](/stripes/kgggkrbwwwbr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Anderson](/tartans/a/an/anderson-17/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

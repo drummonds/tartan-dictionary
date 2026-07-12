@@ -6,7 +6,7 @@ This is the **Hebrides, Inner #01** sett — one scale-free proportion (`g3dy1db
 [GBKGGGBGKGGGKGBGBRGRBGBGKGGGKGRWWWRGKGGGKGBGBRGRBGBGKGGGKGBGGGKBGG](/stripes/gbkgggbgkgggkgbgbrgrbgbgkgggkgrwwwrgkgggkgbgbrgrbgbgkgggkgbgggkbgg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Hebrides, Inner](/tartans/hebrides-inner-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Hebrides, Inner](/tartans/h/he/hebrides-inner-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

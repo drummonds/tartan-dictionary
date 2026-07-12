@@ -6,6 +6,8 @@ This is the **Hughes (USA) (Personal)** sett — one scale-free proportion (`k12
 [BKBBBKKBBKBBKKBBBK](/stripes/bkbbbkkbbkbbkkbbbk/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
+Part of the [Hughes](/tartans/h/hu/hughes-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

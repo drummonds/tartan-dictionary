@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Marie Curie Fields Of Hope"
+  url: "/tartans/m/ma/marie-curie-fields-of-hope/"
+- name: "Marie Curie Fields Of Hope"
   url: "/setts/t12lo1t2lo1t3k5g10lo1g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t12lo1t2lo1t3k5g10lo1g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBYBKGYG](/stripes/bybybkgyg/).
+
+Part of the [Marie Curie Fields Of Hope](/tartans/m/ma/marie-curie-fields-of-hope/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

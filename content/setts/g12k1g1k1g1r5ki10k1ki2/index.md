@@ -6,6 +6,8 @@ This is the **Lindsay (Crimson version) (Clan?)** sett — one scale-free propor
 [GKGKGRKKK](/stripes/gkgkgrkkk/). It is recorded as a single **variant**, below.
 First attested **~1856**.
 
+Part of the [Lindsay](/tartans/l/li/lindsay-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

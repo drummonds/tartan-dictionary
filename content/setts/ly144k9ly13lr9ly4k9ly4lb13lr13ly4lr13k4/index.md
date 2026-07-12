@@ -6,6 +6,8 @@ This is the **London Fog Camel (Fashion)** sett — one scale-free proportion (`
 [KYYYWYKYYYKY](/stripes/kyyywykyyyky/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
+Part of the [London Fog Camel](/tartans/l/lo/london-fog-camel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

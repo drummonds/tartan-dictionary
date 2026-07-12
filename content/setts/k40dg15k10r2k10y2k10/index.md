@@ -6,6 +6,8 @@ This is the **Langhein Family Tartan** sett — one scale-free proportion (`k40d
 [KGKRKGK](/stripes/kgkrkgk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Langhein](/tartans/l/la/langhein/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

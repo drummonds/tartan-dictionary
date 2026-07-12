@@ -6,6 +6,8 @@ This is the **Canadian Autumn** sett — one scale-free proportion (`g4dr28db6g1
 [GBBGKG](/stripes/gbbgkg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Canadian Autumn](/tartans/c/ca/canadian-autumn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

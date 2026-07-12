@@ -6,6 +6,8 @@ This is the **Scotch Mist** sett — one scale-free proportion (`n4lb4n4k4n18k3d
 [BWBKBKBW](/stripes/bwbkbkbw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Scotch Mist](/tartans/s/sc/scotch-mist/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Gordon Clan** sett — one scale-free proportion (`db23k3db3k3db3k
 [BKBKBKGKGKGKBKBKBKGKGKGKBKBK](/stripes/bkbkbkgkgkgkbkbkbkgkgkgkbkbk/). It is recorded as a single **variant**, below.
 First attested **1793**.
 
+Part of the [Gordon 2](/tartans/g/go/gordon-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

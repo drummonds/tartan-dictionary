@@ -6,6 +6,8 @@ This is the **Rikaco Morning Dew #2** sett — one scale-free proportion (`lr3lb
 [GWRYGYWY](/stripes/gwrygywy/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Rikaco Morning Dew 2](/tartans/r/ri/rikaco-morning-dew-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

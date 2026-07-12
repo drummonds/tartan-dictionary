@@ -6,7 +6,7 @@ This is the **MacMillan - 1847 (Clan)** sett — one scale-free proportion (`g7k
 [GKGKGKBGYKYK](/stripes/gkgkgkbgykyk/). It is recorded as a single **variant**, below.
 First attested **1847**.
 
-Part of the [MacMillan](/tartans/macmillan-6/) tartan — the named design grouping this sett with its kin.
+Part of the [MacMillan](/tartans/m/ma/macmillan-6/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

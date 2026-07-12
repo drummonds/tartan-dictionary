@@ -6,6 +6,8 @@ This is the **Walkers Shortbread** sett — one scale-free proportion (`r16db6r6
 [RBRBRWRGRBRGRBR](/stripes/rbrbrwrgrbrgrbr/). It is recorded as a single **variant**, below.
 First attested **undated**.
 
+Part of the [Walkers Shortbread](/tartans/w/wa/walkers-shortbread/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

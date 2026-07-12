@@ -6,7 +6,7 @@ This is the **Poulter Millicent** sett — one scale-free proportion (`g69w14g13
 [GWGWGWWBWWGWG](/stripes/gwgwgwwbwwgwg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Poulter Millicent](/tartans/poulter-millicent/) tartan — the named design grouping this sett with its kin.
+Part of the [Poulter Millicent](/tartans/p/po/poulter-millicent/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Large"
-  url: "/tartans/large/"
+  url: "/tartans/l/la/large/"
 - name: "Large (Personal)"
   url: "/setts/k2dr15dg10k2dg5k5dg2db11dg2k2dr8k2y2k2dr15k2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k2dr15dg10k2dg5k5dg2db11dg2k2dr8k2y2k2dr15k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGKGKGBGKBKGKBK](/stripes/kbgkgkgbgkbkgkbk/).
 
-Part of the [Large](/tartans/large/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Large](/tartans/l/la/large/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

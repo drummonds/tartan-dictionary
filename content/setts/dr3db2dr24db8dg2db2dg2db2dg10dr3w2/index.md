@@ -6,6 +6,8 @@ This is the **Waddell (Fife), Greg** sett — one scale-free proportion (`dr3db2
 [BBBBGBGBGBW](/stripes/bbbbgbgbgbw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Waddell](/tartans/w/wa/waddell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

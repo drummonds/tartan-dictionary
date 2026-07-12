@@ -6,6 +6,8 @@ This is the **Hanly** sett — one scale-free proportion (`y2k2g7k5dg26k9lb2g2dg
 [GGGGGGGGGWKGKGKG](/stripes/gggggggggwkgkgkg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Hanly](/tartans/h/ha/hanly/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

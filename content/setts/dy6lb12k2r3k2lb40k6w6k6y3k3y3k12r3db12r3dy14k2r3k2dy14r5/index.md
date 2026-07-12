@@ -6,6 +6,8 @@ This is the **Anderson (Paton)** sett — one scale-free proportion (`dy6lb12k2r
 [GWKRKWKWKGKGKRBRGKRKGR](/stripes/gwkrkwkwkgkgkrbrgkrkgr/). It is recorded as a single **variant**, below.
 First attested **1830**.
 
+Part of the [Anderson](/tartans/a/an/anderson-12/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

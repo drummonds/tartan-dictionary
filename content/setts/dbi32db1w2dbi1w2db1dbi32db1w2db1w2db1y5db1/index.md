@@ -6,6 +6,8 @@ This is the **Worsoff (Personal)** sett — one scale-free proportion (`dbi32db1
 [BBWBWBBBWBWBGB](/stripes/bbwbwbbbwbwbgb/). It is recorded as a single **variant**, below.
 First attested **1969**.
 
+Part of the [Worsoff](/tartans/w/wo/worsoff/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

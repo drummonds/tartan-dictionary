@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Nowell/Noel 1951"
+  url: "/tartans/n/no/nowell-noel-1951/"
 - name: "Nowell/Noel 1951 (Name)"
   url: "/setts/lb3k24lb6k8w4k8lb35k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb3k24lb6k8w4k8lb35k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWKWKW](/stripes/kwkwkwkw/).
+
+Part of the [Nowell/Noel 1951](/tartans/n/no/nowell-noel-1951/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

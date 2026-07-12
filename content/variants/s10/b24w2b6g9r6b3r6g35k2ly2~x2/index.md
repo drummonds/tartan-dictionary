@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "O'Donohue"
+  url: "/tartans/o/o/o-donohue/"
 - name: "O'Donohue Personal)"
   url: "/setts/b24w2b6g9r6b3r6g35k2ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b24w2b6g9r6b3r6g35k2ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGRBRGKY](/stripes/bwbgrbrgky/).
+
+Part of the [O'Donohue](/tartans/o/o/o-donohue/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

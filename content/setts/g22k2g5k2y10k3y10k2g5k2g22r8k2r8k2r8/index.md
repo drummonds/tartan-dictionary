@@ -6,6 +6,8 @@ This is the **MacMillan (1946)** sett — one scale-free proportion (`g22k2g5k2y
 [GKGKGKGKGKGRKRKR](/stripes/gkgkgkgkgkgrkrkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacMillan](/tartans/m/ma/macmillan-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

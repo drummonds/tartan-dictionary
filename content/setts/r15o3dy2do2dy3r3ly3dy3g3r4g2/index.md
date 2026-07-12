@@ -6,7 +6,7 @@ This is the **Unidentified Chair Covering** sett — one scale-free proportion (
 [GRGGYRGBGRR](/stripes/grggyrgbgrr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Unidentified Chair Covering](/tartans/unidentified-chair-covering/) tartan — the named design grouping this sett with its kin.
+Part of the [Unidentified Chair Covering](/tartans/u/un/unidentified-chair-covering/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

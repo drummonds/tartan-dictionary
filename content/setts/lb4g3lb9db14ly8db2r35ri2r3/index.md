@@ -6,6 +6,8 @@ This is the **Hogeboom (Personal)** sett — one scale-free proportion (`lb4g3lb
 [RRRBYBWGW](/stripes/rrrbybwgw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Hogeboom](/tartans/h/ho/hogeboom-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hebridean 6"
+  url: "/tartans/h/he/hebridean-6/"
+- name: "Hebridean 6"
   url: "/setts/k2r1k10r1k2r1k10r1k2r1k10r2k10r2dg2r2k10db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2r1k10r1k2r1k10r1k2r1k10r2k10r2dg2r2k10db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRGRKRKRKRKRKRKRK](/stripes/bkrgrkrkrkrkrkrkrk/).
+
+Part of the [Hebridean 6](/tartans/h/he/hebridean-6/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
 

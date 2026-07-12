@@ -6,6 +6,8 @@ This is the **Graham, Red Dress** sett — one scale-free proportion (`y1k1r8y4k
 [GKRGKGWKG](/stripes/gkrgkgwkg/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Graham, Red Dress](/tartans/g/gr/graham-red-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

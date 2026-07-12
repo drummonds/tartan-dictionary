@@ -6,6 +6,8 @@ This is the **Bruma** sett — one scale-free proportion (`dr2do1k1do10dr1do10k1
 [BBKBBBKBKBGBY](/stripes/bbkbbbkbkbgby/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Bruma](/tartans/b/br/bruma/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

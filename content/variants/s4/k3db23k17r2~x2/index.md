@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wellington Variation"
+  url: "/tartans/w/we/wellington-variation/"
+- name: "Wellington Variation"
   url: "/setts/k3db23k17r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3db23k17r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKR](/stripes/kbkr/).
+
+Part of the [Wellington Variation](/tartans/w/we/wellington-variation/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

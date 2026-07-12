@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "International Karate Alliance"
+  url: "/tartans/i/in/international-karate-alliance/"
 - name: "International Karate Fed. (Corporat)"
   url: "/setts/dr8w1k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr8w1k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWK](/stripes/bwk/).
+
+Part of the [International Karate Alliance](/tartans/i/in/international-karate-alliance/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 

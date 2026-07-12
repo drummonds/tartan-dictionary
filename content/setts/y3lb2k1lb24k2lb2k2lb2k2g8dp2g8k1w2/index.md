@@ -6,7 +6,7 @@ This is the **Alexander-Johnstone (Personal)** sett — one scale-free proportio
 [GWKWKWKWKGBGKW](/stripes/gwkwkwkwkgbgkw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Alexander-Johnstone](/tartans/alexander-johnstone/) tartan — the named design grouping this sett with its kin.
+Part of the [Alexander-Johnstone](/tartans/a/al/alexander-johnstone/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

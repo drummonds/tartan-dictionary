@@ -6,6 +6,8 @@ This is the **Frogaletto (Personal)** sett — one scale-free proportion (`n26db
 [BBBBBBBWBYBBKRKB](/stripes/bbbbbbbwbybbkrkb/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Frogaletto](/tartans/f/fr/frogaletto/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

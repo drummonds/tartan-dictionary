@@ -6,7 +6,7 @@ This is the **Ata?, H.M. & I.C. (Personal)** sett — one scale-free proportion 
 [KGWGKGKR](/stripes/kgwgkgkr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Ataç, H.M. & I.C.](/tartans/ata-h-m-i-c/) tartan — the named design grouping this sett with its kin.
+Part of the [Ataç, H.M. & I.C.](/tartans/a/at/ata-h-m-i-c/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

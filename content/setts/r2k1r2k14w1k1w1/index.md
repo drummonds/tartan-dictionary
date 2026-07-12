@@ -6,6 +6,8 @@ This is the **White Stripes Hunting** sett — one scale-free proportion (`r2k1r
 [RKRKWKW](/stripes/rkrkwkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [White Stripes Hunting](/tartans/w/wh/white-stripes-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

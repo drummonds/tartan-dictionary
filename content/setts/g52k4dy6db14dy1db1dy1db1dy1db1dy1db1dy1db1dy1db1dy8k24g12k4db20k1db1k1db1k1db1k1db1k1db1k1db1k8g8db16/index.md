@@ -6,6 +6,8 @@ This is the **Canadian Centennial #3** sett — one scale-free proportion (`g52k
 [BGKBKBKBKBKBKBKBKGKGBGBGBGBGBGBGBGKGKGBGBGBGBGBGBGBGKGKBKBKBKBKBKBKBKG](/stripes/bgkbkbkbkbkbkbkbkgkgbgbgbgbgbgbgbgkgkgbgbgbgbgbgbgbgkgkbkbkbkbkbkbkbkg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Canadian Centennial](/tartans/c/ca/canadian-centennial-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

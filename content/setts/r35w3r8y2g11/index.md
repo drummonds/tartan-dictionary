@@ -6,6 +6,8 @@ This is the **Highlands at Wyomissing, The** sett — one scale-free proportion 
 [GGRWR](/stripes/ggrwr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Highlands at Wyomissing, The](/tartans/h/hi/highlands-at-wyomissing-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

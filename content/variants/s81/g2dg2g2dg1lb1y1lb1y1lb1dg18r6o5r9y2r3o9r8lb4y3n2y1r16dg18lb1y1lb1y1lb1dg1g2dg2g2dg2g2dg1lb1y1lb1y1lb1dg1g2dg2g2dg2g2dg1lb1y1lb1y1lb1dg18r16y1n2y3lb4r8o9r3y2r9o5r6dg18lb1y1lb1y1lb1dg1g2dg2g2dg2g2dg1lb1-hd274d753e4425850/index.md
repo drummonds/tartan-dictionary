@@ -5,6 +5,8 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Beaverbrook"
+  url: "/tartans/b/be/beaverbrook/"
 - name: "Beaverbrook (District)"
   url: "/setts/g2dg2g2dg1lb1y1lb1y1lb1dg18r6o5r9y2r3o9r8lb4y3n2y1r16dg18lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg18r16y1n2y3lb4r8o9r3y2r9o5r6dg18lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1/"
 slug_full: "g2dg2g2dg1lb1y1lb1y1lb1dg18r6o5r9y2r3o9r8lb4y3n2y1r16dg18lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg18r16y1n2y3lb4r8o9r3y2r9o5r6dg18lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1~x2"
@@ -12,6 +14,8 @@ slug_full: "g2dg2g2dg1lb1y1lb1y1lb1dg18r6o5r9y2r3o9r8lb4y3n2y1r16dg18lb1y1lb1y1l
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g2dg2g2dg1lb1y1lb1y1lb1dg18r6o5r9y2r3o9r8lb4y3n2y1r16dg18lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1y1lb1dg18r16y1n2y3lb4r8o9r3y2r9o5r6dg18lb1y1lb1y1lb1dg1g2dg2g2dg2g2dg1lb1y1lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGWGWGWGRRRGRRRWGBGRGWGWGWGGGGGGGWGWGWGGGGGGGWGWGWGRGBGWRRRGRRRGWGWGWGGGGGGGWGW](/stripes/ggggwgwgwgrrrgrrrwgbgrgwgwgwgggggggwgwgwgggggggwgwgwgrgbgwrrrgrrrgwgwgwgggggggwgw/).
+
+Part of the [Beaverbrook](/tartans/b/be/beaverbrook/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [81 stripe tartan](/stripes/stripes81/).
 

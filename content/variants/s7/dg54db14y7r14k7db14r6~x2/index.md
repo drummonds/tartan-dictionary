@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gloucester County Pipe Band"
+  url: "/tartans/g/gl/gloucester-county-pipe-band/"
 - name: "Gloucester County Pipe Band (Corp)"
   url: "/setts/dg54db14y7r14k7db14r6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg54db14y7r14k7db14r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGRKBR](/stripes/gbgrkbr/).
+
+Part of the [Gloucester County Pipe Band](/tartans/g/gl/gloucester-county-pipe-band/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

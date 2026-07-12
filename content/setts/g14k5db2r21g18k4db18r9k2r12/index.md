@@ -6,6 +6,8 @@ This is the **Ruben Delanghe (Personal)** sett — one scale-free proportion (`g
 [GKBRGKBRKR](/stripes/gkbrgkbrkr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Ruben Delanghe](/tartans/r/ru/ruben-delanghe/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

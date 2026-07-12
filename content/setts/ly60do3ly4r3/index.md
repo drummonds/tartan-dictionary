@@ -6,6 +6,8 @@ This is the **Rabbie's Dram (Fashion)** sett — one scale-free proportion (`ly6
 [RYBY](/stripes/ryby/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Rabbie's Dram](/tartans/r/ra/rabbie-s-dram/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

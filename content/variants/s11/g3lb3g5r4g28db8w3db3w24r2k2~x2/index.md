@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Downie Dress"
+  url: "/tartans/d/do/downie-dress/"
+- name: "Downie Dress"
   url: "/setts/g3lb3g5r4g28db8w3db3w24r2k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g3lb3g5r4g28db8w3db3w24r2k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGRGBWBWRK](/stripes/gwgrgbwbwrk/).
+
+Part of the [Downie Dress](/tartans/d/do/downie-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

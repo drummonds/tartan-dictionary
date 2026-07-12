@@ -6,7 +6,7 @@ This is the **Coppa Romana (Switzerland)** sett — one scale-free proportion (`
 [GKWKWKGKGK](/stripes/gkwkwkgkgk/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Coppa Romana](/tartans/coppa-romana/) tartan — the named design grouping this sett with its kin.
+Part of the [Coppa Romana](/tartans/c/co/coppa-romana/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

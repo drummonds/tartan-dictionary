@@ -6,7 +6,7 @@ This is the **Gallaecia - Galicia National** sett — one scale-free proportion 
 [BBBBW](/stripes/bbbbw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
-Part of the [Gallaecia](/tartans/gallaecia/) tartan — the named design grouping this sett with its kin.
+Part of the [Gallaecia](/tartans/g/ga/gallaecia/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

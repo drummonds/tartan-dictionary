@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacRobart Dress"
-  url: "/tartans/macrobart-dress/"
+  url: "/tartans/m/ma/macrobart-dress/"
 - name: "MacRobart, dress"
   url: "/setts/db8w33k15g17lb3g17lb3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db8w33k15g17lb3g17lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKGWGW](/stripes/bwkgwgw/).
 
-Part of the [MacRobart Dress](/tartans/macrobart-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacRobart Dress](/tartans/m/ma/macrobart-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

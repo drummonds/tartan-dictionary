@@ -6,6 +6,8 @@ This is the **Dunoon Irish Corporate Tartan** sett — one scale-free proportion
 [WGYW](/stripes/wgyw/). It is recorded as a single **variant**, below.
 First attested **1935**.
 
+Part of the [Dunoon](/tartans/d/du/dunoon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

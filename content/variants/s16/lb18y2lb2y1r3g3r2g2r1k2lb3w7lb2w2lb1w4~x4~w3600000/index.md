@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Inverness County"
+  url: "/tartans/i/in/inverness-county/"
 - name: "Inverness County (Canada)"
   url: "/setts/lb18y2lb2y1r3g3r2g2r1k2lb3w7lb2w2lb1w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb18y2lb2y1r3g3r2g2r1k2lb3w7lb2w2lb1w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGWGRGRGRKWWWWWW](/stripes/wgwgrgrgrkwwwwww/).
+
+Part of the [Inverness County](/tartans/i/in/inverness-county/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 

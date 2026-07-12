@@ -6,6 +6,8 @@ This is the **Hoffman Texas German** sett — one scale-free proportion (`k23r27
 [GKWRBRK](/stripes/gkwrbrk/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Hoffman Texas German](/tartans/h/ho/hoffman-texas-german/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

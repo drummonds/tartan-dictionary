@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Bruce"
+  url: "/clan/bruce/"
+- name: "Bruce of Kinnaird"
+  url: "/families/bruce-of-kinnaird/"
+- name: "Bruce of Kinnaird Dress"
+  url: "/tartans/b/br/bruce-of-kinnaird-dress/"
 - name: "Bruce of Kinnaird Dress (Dance)"
   url: "/setts/w45r9k2w8k2y1k10db8dp12w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w45r9k2w8k2y1k10db8dp12w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBBKGKWKRW](/stripes/wbbkgkwkrw/).
+
+Part of the [Bruce of Kinnaird Dress](/tartans/b/br/bruce-of-kinnaird-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

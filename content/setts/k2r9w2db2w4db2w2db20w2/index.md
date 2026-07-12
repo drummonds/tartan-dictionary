@@ -6,6 +6,8 @@ This is the **Yudo (Corporate)** sett — one scale-free proportion (`k2r9w2db2w
 [KRWBWBWBW](/stripes/krwbwbwbw/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
+Part of the [Yudo](/tartans/y/yu/yudo/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

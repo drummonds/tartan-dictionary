@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Bridge"
+  url: "/clan/bridge/"
+- name: "Bridge of Weir Leather Co."
+  url: "/families/bridge-of-weir-leather-co/"
+- name: "Bridge of Weir Leather Co."
+  url: "/tartans/b/br/bridge-of-weir-leather-co/"
 - name: "Bridge of Weir Leather Co. (Corp)"
   url: "/setts/o3lr14dy3lr3dy3lr4dy11dt11r11o11lr1dt1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o3lr14dy3lr3dy3lr4dy11dt11r11o11lr1dt1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYRRBGYGYGYR](/stripes/byrrbgygygyr/).
+
+Part of the [Bridge of Weir Leather Co.](/tartans/b/br/bridge-of-weir-leather-co/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

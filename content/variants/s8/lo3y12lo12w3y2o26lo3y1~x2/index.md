@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Desert in Bloom"
+  url: "/tartans/d/de/desert-in-bloom/"
+- name: "Desert in Bloom"
   url: "/setts/lo3y12lo12w3y2o26lo3y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo3y12lo12w3y2o26lo3y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYRGWYGY](/stripes/gyrgwygy/).
+
+Part of the [Desert in Bloom](/tartans/d/de/desert-in-bloom/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

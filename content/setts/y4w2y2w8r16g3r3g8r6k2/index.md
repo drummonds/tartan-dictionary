@@ -6,6 +6,8 @@ This is the **Carolyn Melieres Family Tartan** sett — one scale-free proportio
 [GWGWRGRGRK](/stripes/gwgwrgrgrk/). It is recorded as a single **variant**, below.
 First attested **1966**.
 
+Part of the [Carolyn Melieres](/tartans/c/ca/carolyn-melieres/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

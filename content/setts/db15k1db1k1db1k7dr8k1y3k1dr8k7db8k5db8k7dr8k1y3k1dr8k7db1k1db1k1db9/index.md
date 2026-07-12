@@ -6,6 +6,8 @@ This is the **Dryer** sett — one scale-free proportion (`db15k1db1k1db1k7dr8k1
 [BKBKBKBKGKBKBKKKBKBKGKBKBKBKB](/stripes/bkbkbkbkgkbkbkkkbkbkgkbkbkbkb/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Dryer](/tartans/d/dr/dryer-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Crosser, Crozier** sett — one scale-free proportion (`w4db5r3db2
 [GRKRGKGBRBW](/stripes/grkrgkgbrbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Crosser Crozier](/tartans/crosser-crozier/) tartan — the named design grouping this sett with its kin.
+Part of the [Crosser Crozier](/tartans/c/cr/crosser-crozier/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

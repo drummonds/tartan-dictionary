@@ -1,0 +1,41 @@
+---
+title: "MacLeod of Assynt"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan MacLeod"
+  url: "/clan/macleod/"
+- name: "MacLeod of Assynt"
+  url: "/families/macleod-of-assynt/"
+---
+A tartan of the [MacLeod of Assynt](/families/macleod-of-assynt/) family.
+Its design is pattern [GBKGKR](/stripes/gbkgkr/) — the page of every tartan sharing this colour sequence.
+
+Worn by the 24th chief at George IV's 1822 Edinburgh visit; resembles the Vestiarium "loud" design.
+
+The **MacLeod of Assynt** tartan groups 2 setts — the same named design recorded as different cloths
+(its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/r3k2g20k10t20y2/">MacLeod of Assynt</a> ★</td><td><code>R/6 K4 G40 K20 T40 Y/4</code></td><td>218</td><td>1831</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/r3k2g20k10t20y2/"><img src="/variants/s6/r3k2g20k10t20y2~x2/sett.png" alt="MacLeod of Assynt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/r3k2g15k10db20y2/">MacLeod of Assynt</a></td><td><code>R/6 K4 G30 K20 DB40 Y/4</code></td><td>198</td><td>1906</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/r3k2g15k10db20y2/"><img src="/variants/s6/r3k2g15k10db20y2~x2/sett.png" alt="MacLeod of Assynt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">218</div><div class="nn-name nn-base"><a href="/variants/s6/r3k2g20k10t20y2~x2/">MacLeod of Assynt</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/r3k2g20k10t20y2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r3k2g15k10db20y2~x2&amp;base=r3k2g20k10t20y2~x2" title="compare in the TTD">0.39</a></div><div class="nn-threads">198</div><div class="nn-name"><a href="/variants/s6/r3k2g15k10db20y2~x2/">MacLeod of Assynt Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r3k2g15k10db20y2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2g11y1k8t9r2~x4&amp;base=r3k2g20k10t20y2~x2" title="compare in the TTD">1.01</a></div><div class="nn-threads">248</div><div class="nn-name"><a href="/variants/s6/k2g11y1k8t9r2~x4/">Forsyth (1795)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k2g11y1k8t9r2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2g11y1k8db9r2~x4&amp;base=r3k2g20k10t20y2~x2" title="compare in the TTD">1.01</a></div><div class="nn-threads">248</div><div class="nn-name"><a href="/variants/s6/k2g11y1k8db9r2~x4/">Forsyth Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k2g11y1k8db9r2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y1k1g9k9db8w1~x4&amp;base=r3k2g20k10t20y2~x2" title="compare in the TTD">1.08</a></div><div class="nn-threads">224</div><div class="nn-name"><a href="/variants/s6/y1k1g9k9db8w1~x4/">MacNeil 4</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/y1k1g9k9db8w1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2g12k11t12w1~x2&amp;base=r3k2g20k10t20y2~x2" title="compare in the TTD">1.10</a></div><div class="nn-threads">146</div><div class="nn-name"><a href="/variants/s5/k2g12k11t12w1~x2/">MacKirdy (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s5/k2g12k11t12w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k2g17k16r2db17w2~x2&amp;base=r3k2g20k10t20y2~x2" title="compare in the TTD">1.22</a></div><div class="nn-threads">216</div><div class="nn-name"><a href="/variants/s6/k2g17k16r2db17w2~x2/">Galbraith</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/k2g17k16r2db17w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db24k4r3g24k4o3~x2&amp;base=r3k2g20k10t20y2~x2" title="compare in the TTD">1.26</a></div><div class="nn-threads">194</div><div class="nn-name"><a href="/variants/s6/db24k4r3g24k4o3~x2/">(1) Skene</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/db24k4r3g24k4o3~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y4k2t20k10g15k2r3~x2&amp;base=r3k2g20k10t20y2~x2" title="compare in the TTD">1.31</a></div><div class="nn-threads">210</div><div class="nn-name"><a href="/variants/s7/y4k2t20k10g15k2r3~x2/">Green MacLeod</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/y4k2t20k10g15k2r3~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=ly4k2t20k10g15k2r3~x2&amp;base=r3k2g20k10t20y2~x2" title="compare in the TTD">1.31</a></div><div class="nn-threads">210</div><div class="nn-name"><a href="/variants/s7/ly4k2t20k10g15k2r3~x2/">MacLeod (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/ly4k2t20k10g15k2r3~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=db24k4r3k4g24k4lo4~x2&amp;base=r3k2g20k10t20y2~x2" title="compare in the TTD">1.66</a></div><div class="nn-threads">212</div><div class="nn-name"><a href="/variants/s7/db24k4r3k4g24k4lo4~x2/">Skene</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/db24k4r3k4g24k4lo4~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r3k2g15k10db20y2~x2/"><circle cx="146.8" cy="186.2" r="4" fill="#3465a4"><title>MacLeod of Assynt Clan Tartan</title></circle></a><a href="/variants/s6/k2g11y1k8t9r2~x4/"><circle cx="113.7" cy="191.8" r="4" fill="#3465a4"><title>Forsyth (1795)</title></circle></a><a href="/variants/s6/k2g11y1k8db9r2~x4/"><circle cx="118.9" cy="190.3" r="4" fill="#3465a4"><title>Forsyth Clan Tartan</title></circle></a><a href="/variants/s6/y1k1g9k9db8w1~x4/"><circle cx="121.1" cy="190.1" r="4" fill="#3465a4"><title>MacNeil 4</title></circle></a><a href="/variants/s5/k2g12k11t12w1~x2/"><circle cx="142.8" cy="215.9" r="4" fill="#3465a4"><title>MacKirdy (Clan)</title></circle></a><a href="/variants/s6/k2g17k16r2db17w2~x2/"><circle cx="109.5" cy="192.0" r="4" fill="#3465a4"><title>Galbraith</title></circle></a><a href="/variants/s6/db24k4r3g24k4o3~x2/"><circle cx="165.4" cy="187.0" r="4" fill="#3465a4"><title>(1) Skene</title></circle></a><a href="/variants/s7/y4k2t20k10g15k2r3~x2/"><circle cx="123.9" cy="180.2" r="4" fill="#3465a4"><title>Green MacLeod</title></circle></a><a href="/variants/s7/ly4k2t20k10g15k2r3~x2/"><circle cx="118.0" cy="178.9" r="4" fill="#3465a4"><title>MacLeod (Clan)</title></circle></a><a href="/variants/s7/db24k4r3k4g24k4lo4~x2/"><circle cx="132.3" cy="175.2" r="4" fill="#3465a4"><title>Skene</title></circle></a><circle cx="139.2" cy="189.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

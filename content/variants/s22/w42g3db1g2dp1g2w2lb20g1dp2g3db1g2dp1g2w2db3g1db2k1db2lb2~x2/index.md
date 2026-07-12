@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tiree Turquoise"
+  url: "/tartans/t/ti/tiree-turquoise/"
 - name: "Tiree, Turquoise (Dance)"
   url: "/setts/w42g3db1g2dp1g2w2lb20g1dp2g3db1g2dp1g2w2db3g1db2k1db2lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w42g3db1g2dp1g2w2lb20g1dp2g3db1g2dp1g2w2db3g1db2k1db2lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBKBGBWGBGBGBGWWGBGBGW](/stripes/wbkbgbwgbgbgbgwwgbgbgw/).
+
+Part of the [Tiree Turquoise](/tartans/t/ti/tiree-turquoise/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
 

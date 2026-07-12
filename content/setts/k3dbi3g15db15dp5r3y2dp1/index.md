@@ -6,7 +6,7 @@ This is the **Young** sett — one scale-free proportion (`k3dbi3g15db15dp5r3y2d
 [BGRBBGBK](/stripes/bgrbbgbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Young](/tartans/young/) tartan — the named design grouping this sett with its kin.
+Part of the [Young](/tartans/y/yo/young/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

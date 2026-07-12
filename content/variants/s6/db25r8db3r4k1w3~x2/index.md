@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Gregor"
+  url: "/tartans/c/cl/clan-gregor/"
 - name: "Clan Gregor Tartan"
   url: "/setts/db25r8db3r4k1w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db25r8db3r4k1w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRKW](/stripes/brbrkw/).
+
+Part of the [Clan Gregor](/tartans/c/cl/clan-gregor/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

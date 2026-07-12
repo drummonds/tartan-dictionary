@@ -6,6 +6,8 @@ This is the **Letang Family (Neuilly sur Seine, France) (Personal)** sett — on
 [BBGBBKWRWRWRWR](/stripes/bbgbbkwrwrwrwr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Letang](/tartans/l/le/letang-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

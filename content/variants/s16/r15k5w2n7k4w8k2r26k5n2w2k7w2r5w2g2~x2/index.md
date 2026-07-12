@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Sabrettes"
+  url: "/tartans/s/sa/sabrettes/"
+- name: "Sabrettes"
   url: "/setts/r15k5w2n7k4w8k2r26k5n2w2k7w2r5w2g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r15k5w2n7k4w8k2r26k5n2w2k7w2r5w2g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWBKWKRKBWKWRWGWRWKWBKRKWKBWKR](/stripes/kwbkwkrkbwkwrwgwrwkwbkrkwkbwkr/).
+
+Part of the [Sabrettes](/tartans/s/sa/sabrettes/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 

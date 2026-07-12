@@ -6,6 +6,8 @@ This is the **Asman Hunting** sett — one scale-free proportion (`db4y3db17r7w2
 [BGBRWRWBBRB](/stripes/bgbrwrwbbrb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Asman Hunting](/tartans/a/as/asman-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

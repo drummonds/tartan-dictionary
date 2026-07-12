@@ -6,6 +6,8 @@ This is the **Heil, Rudiger (Personal)** sett — one scale-free proportion (`ly
 [BBBYBYBY](/stripes/bbbybyby/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Heil, Rudiger](/tartans/h/he/heil-rudiger/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

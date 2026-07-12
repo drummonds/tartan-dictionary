@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Palmer, Edward"
+  url: "/tartans/p/pa/palmer-edward/"
+- name: "Palmer, Edward"
   url: "/setts/r4g20k16y2k3w3k2w18r6k2r4k1w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4g20k16y2k3w3k2w18r6k2r4k1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKGKWKWRKRKW](/stripes/rgkgkwkwrkrkw/).
+
+Part of the [Palmer, Edward](/tartans/p/pa/palmer-edward/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

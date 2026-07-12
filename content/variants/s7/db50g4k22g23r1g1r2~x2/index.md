@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Casely"
+  url: "/clan/casely/"
+- name: "Casely of Mannerston"
+  url: "/families/casely-of-mannerston/"
+- name: "Casely of Mannerston"
+  url: "/tartans/c/ca/casely-of-mannerston/"
 - name: "Casely of Mannerston (Personal)"
   url: "/setts/db50g4k22g23r1g1r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db50g4k22g23r1g1r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGRGR](/stripes/bgkgrgr/).
+
+Part of the [Casely of Mannerston](/tartans/c/ca/casely-of-mannerston/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

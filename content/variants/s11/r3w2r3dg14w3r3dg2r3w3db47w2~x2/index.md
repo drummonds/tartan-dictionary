@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Friends of Scotland Caucus"
+  url: "/tartans/f/fr/friends-of-scotland-caucus/"
+- name: "Friends of Scotland Caucus"
   url: "/setts/r3w2r3dg14w3r3dg2r3w3db47w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3w2r3dg14w3r3dg2r3w3db47w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRGWRGRWBW](/stripes/rwrgwrgrwbw/).
+
+Part of the [Friends of Scotland Caucus](/tartans/f/fr/friends-of-scotland-caucus/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

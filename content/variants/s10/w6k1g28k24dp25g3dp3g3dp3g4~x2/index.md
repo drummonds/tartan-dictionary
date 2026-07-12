@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Rennie"
-  url: "/tartans/rennie/"
+  url: "/tartans/r/re/rennie/"
 - name: "Rennie (Personal)"
   url: "/setts/w6k1g28k24dp25g3dp3g3dp3g4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w6k1g28k24dp25g3dp3g3dp3g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBKGKW](/stripes/gbgbgbkgkw/).
 
-Part of the [Rennie](/tartans/rennie/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Rennie](/tartans/r/re/rennie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

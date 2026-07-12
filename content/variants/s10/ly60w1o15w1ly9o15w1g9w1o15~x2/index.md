@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Smith"
+  url: "/clan/smith/"
+- name: "Smith Hunting"
+  url: "/tartans/s/sm/smith-hunting/"
 - name: "Smith Hunting (Name)"
   url: "/setts/ly60w1o15w1ly9o15w1g9w1o15/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly60w1o15w1ly9o15w1g9w1o15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWGWRYWRWY](/stripes/rwgwrywrwy/).
+
+Part of the [Smith Hunting](/tartans/s/sm/smith-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

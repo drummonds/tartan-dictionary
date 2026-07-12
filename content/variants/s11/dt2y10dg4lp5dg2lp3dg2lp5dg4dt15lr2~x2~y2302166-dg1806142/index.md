@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Elwyn Glen"
+  url: "/tartans/e/el/elwyn-glen/"
 - name: "Elwyn Glen (Corporate)"
   url: "/setts/dt2y10dg4lp5dg2lp3dg2lp5dg4dt15lr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt2y10dg4lp5dg2lp3dg2lp5dg4dt15lr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGWGWGWGBY](/stripes/bggwgwgwgby/).
+
+Part of the [Elwyn Glen](/tartans/e/el/elwyn-glen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

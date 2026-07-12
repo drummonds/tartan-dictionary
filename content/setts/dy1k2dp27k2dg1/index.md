@@ -6,6 +6,8 @@ This is the **Carolina University, Western** sett — one scale-free proportion 
 [GKBKG](/stripes/gkbkg/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Western Carolina University](/tartans/w/we/western-carolina-university/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

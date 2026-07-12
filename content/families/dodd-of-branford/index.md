@@ -18,5 +18,5 @@ date: 2023-03-18
 </tbody>
 </table>
 
-[See the Dodd of Branford tartan and all its setts →](/tartans/dodd-of-branford/)
+[See the Dodd of Branford tartan and all its setts →](/tartans/d/do/dodd-of-branford/)
 

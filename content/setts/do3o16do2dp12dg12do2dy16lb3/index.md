@@ -6,6 +6,8 @@ This is the **YPO Dress** sett — one scale-free proportion (`do3o16do2dp12dg12
 [BRBBGBGW](/stripes/brbbgbgw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [YPO Dress](/tartans/y/yp/ypo-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

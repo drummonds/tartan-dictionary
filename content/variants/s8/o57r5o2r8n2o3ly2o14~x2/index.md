@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cairngorms National Park"
+  url: "/tartans/c/ca/cairngorms-national-park/"
+- name: "Cairngorms National Park"
   url: "/setts/o57r5o2r8n2o3ly2o14/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o57r5o2r8n2o3ly2o14/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRRRBRYR](/stripes/rrrrbryr/).
+
+Part of the [Cairngorms National Park](/tartans/c/ca/cairngorms-national-park/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

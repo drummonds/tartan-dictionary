@@ -6,6 +6,8 @@ This is the **Loch Morar** sett — one scale-free proportion (`dr38w9dr3k9w3`),
 [BWBKW](/stripes/bwbkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Loch Morar](/tartans/l/lo/loch-morar-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

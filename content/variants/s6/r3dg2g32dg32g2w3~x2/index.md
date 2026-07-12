@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Galloway Hunting"
-  url: "/tartans/galloway-hunting/"
+  url: "/tartans/g/ga/galloway-hunting/"
 - name: "Galloway Hunting"
   url: "/setts/r3dg2g32dg32g2w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r3dg2g32dg32g2w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGGGGW](/stripes/rggggw/).
 
-Part of the [Galloway Hunting](/tartans/galloway-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Galloway Hunting](/tartans/g/ga/galloway-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Loch Lomond Millenium"
+  url: "/tartans/l/lo/loch-lomond-millenium/"
+- name: "Loch Lomond Millenium"
   url: "/setts/k3dg2k12db4t19dr3t19db4k12dg2lo3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3dg2k12db4t19dr3t19db4k12dg2lo3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKBBBBBKGY](/stripes/kgkbbbbbkgy/).
+
+Part of the [Loch Lomond Millenium](/tartans/l/lo/loch-lomond-millenium/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

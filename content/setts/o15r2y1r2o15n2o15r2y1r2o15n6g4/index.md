@@ -6,6 +6,8 @@ This is the **Ross, David** sett — one scale-free proportion (`o15r2y1r2o15n2o
 [GBRRGRRBRRGRR](/stripes/gbrrgrrbrrgrr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Ross, David](/tartans/r/ro/ross-david/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

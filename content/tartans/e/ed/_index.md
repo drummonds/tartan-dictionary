@@ -1,0 +1,45 @@
+---
+title: "Tartans — Ed"
+date: 2023-03-18
+---
+37 tartans beginning with Ed, each with the number of setts it groups. Back to [E](/tartans/e/) or the [A–Z](/tartans/).
+
+<ul class="clan-grid">
+<li><a class="tartan" href="/tartans/e/ed/edelstein/"><img src="/variants/s5/dp10db10g10w1dy1~x6/sett.png" alt="Edelstein" width="140"><br><strong>Edelstein (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edgar/"><img src="/variants/s13/w1db16k12lb2dp3lb2k12db2k2db2k2db7w1~x2/sett.png" alt="Edgar" width="140"><br><strong>Edgar (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edgar-feyen/"><img src="/variants/s6/w18k1db4g4dp10lo2~x4/sett.png" alt="Edgar-Feyen" width="140"><br><strong>Edgar-Feyen (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinburgh/"><img src="/variants/s9/w3db22k2r3k2r5g7b2k2~x2/sett.png" alt="Edinburgh" width="140"><br><strong>Edinburgh (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinburgh-lothian-tourist-board/"><img src="/variants/s7/db40dbi8ly3dbi6k3dbi6r4~x2~db1004274-dbi1406275/sett.png" alt="Edinburgh &amp; Lothian Tourist Board" width="140"><br><strong>Edinburgh & Lothian Tourist Board (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinburgh-86/"><img src="/variants/s11/db6w2db2w2db4w6db28lb4db4lb45r4/sett.png" alt="Edinburgh '86" width="140"><br><strong>Edinburgh '86 (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinburgh-bus-company/"><img src="/variants/s6/db3r2g5r8db12w3~x2/sett.png" alt="Edinburgh Bus Company" width="140"><br><strong>Edinburgh Bus Company (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinburgh-bus-tours/"><img src="/variants/s12/w6db20t5db5t5db20r14db4k18db30lo4db4~w3600000-t2607245/sett.png" alt="Edinburgh Bus Tours" width="140"><br><strong>Edinburgh Bus Tours (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinburgh-castle/"><img src="/variants/s13/dr2k4dr2k22n1k3n1k3n1k22y1k8dr1~x2/sett.png" alt="Edinburgh Castle" width="140"><br><strong>Edinburgh Castle (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinburgh-crystal/"><img src="/variants/s5/dt30lb2k6db3r3~x4/sett.png" alt="Edinburgh Crystal" width="140"><br><strong>Edinburgh Crystal (3)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinburgh-district/"><img src="/variants/s9/w3db25dr3r3dr3r5g10dr3k2~x2/sett.png" alt="Edinburgh District" width="140"><br><strong>Edinburgh District (3)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinburgh-dress/"><img src="/variants/s10/w4k2w30g3dp3g3dp7db14g3r3~x2/sett.png" alt="Edinburgh Dress" width="140"><br><strong>Edinburgh Dress (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinburgh-festival/"><img src="/variants/s8/t46dp3r3dp3r4dp12w3k3~x2/sett.png" alt="Edinburgh Festival" width="140"><br><strong>Edinburgh Festival (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinburgh-fire/"><img src="/variants/s7/y2dy4r4lb21w1lb1ri1~x4~r2109032-ri2307033/sett.png" alt="Edinburgh Fire" width="140"><br><strong>Edinburgh Fire (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinburgh-int-conf-centre/"><img src="/variants/s6/dy4dt20dy3k20o24dt3~x2/sett.png" alt="Edinburgh Int.Conf. Centre" width="140"><br><strong>Edinburgh Int.Conf. Centre (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinburgh-international-conference-centre/"><img src="/variants/s6/o4db19o3k20oi24db3~x2~o2102055-oi2104058/sett.png" alt="Edinburgh International Conference Centre" width="140"><br><strong>Edinburgh International Conference Centre (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinburgh-international-film-festival/"><img src="/variants/s13/k184r1k2r2k2r1k2w1k6w1k4r10k20/sett.png" alt="Edinburgh International Film Festival" width="140"><br><strong>Edinburgh International Film Festival (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinburgh-marketing/"><img src="/variants/s8/db6r1db1r2w1r2db1r3~x4/sett.png" alt="Edinburgh Marketing" width="140"><br><strong>Edinburgh Marketing (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinburgh-military-tattoo/"><img src="/variants/s14/k4r6db3r16lb18w4k4w4k4w4k4w4db18r4~x2/sett.png" alt="Edinburgh Military Tattoo" width="140"><br><strong>Edinburgh Military Tattoo (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinburgh-military-tattoo-50th/"><img src="/variants/s5/k1dg8r6db8k1~x4/sett.png" alt="Edinburgh Military Tattoo 50th" width="140"><br><strong>Edinburgh Military Tattoo 50th (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinburgh-military-tattoo-dress/"><img src="/variants/s8/k6w11lb11r13db17w10k2w4~x2/sett.png" alt="Edinburgh Military Tattoo Dress" width="140"><br><strong>Edinburgh Military Tattoo Dress (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinburgh-monarchs/"><img src="/variants/s8/dt5db4dr1db14dt14dr1dt5lo3~x2/sett.png" alt="Edinburgh Monarchs" width="140"><br><strong>Edinburgh Monarchs (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinburgh-napier-university/"><img src="/variants/s8/db4w8db8w10k16g4r38lo1/sett.png" alt="Edinburgh Napier University" width="140"><br><strong>Edinburgh Napier University (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinburgh-napier-university-2/"><img src="/variants/s8/lb4lr4lb4lr5k8g2r19ly1~x2/sett.png" alt="Edinburgh Napier University" width="140"><br><strong>Edinburgh Napier University (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinburgh-tic/"><img src="/variants/s8/db32r3db3r4w3r5db4r7~x2/sett.png" alt="Edinburgh TIC" width="140"><br><strong>Edinburgh TIC (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinburgh-zoo-panda/"><img src="/variants/s12/g4w28lb3w3k16lb4o10n4k14r2k2r3~o2500000-n1900000/sett.png" alt="Edinburgh Zoo Panda" width="140"><br><strong>Edinburgh Zoo Panda (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinburgh-zoo-panda-the/"><img src="/variants/s12/g4w28lb3w3k16lb4n10do4k14r2k2r3~n1900000-do1500000/sett.png" alt="Edinburgh Zoo Panda, The" width="140"><br><strong>Edinburgh Zoo Panda, The (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinburgh-and-lothian-tourist-board/"><img src="/variants/s7/ki40db8o3db6k3db6r4~x2~ki0503265-db1003265/sett.png" alt="Edinburgh and Lothian Tourist Board" width="140"><br><strong>Edinburgh and Lothian Tourist Board (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinburgh-86-border/"><img src="/variants/s30/db1b2db2b2db2b39db2b2db2b2db1r1db1n1db10w3db2w1db1w1db3w1db1w1db2w3db10n1db1r1~x2/sett.png" alt="Edinburgh, '86 Border" width="140"><br><strong>Edinburgh, '86 Border (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinburgh-city-of/"><img src="/variants/s10/lb10k3w3k3w3k3lb10r6k15r3~x2/sett.png" alt="Edinburgh, City of" width="140"><br><strong>Edinburgh, City of (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinburgh-the-university-of/"><img src="/variants/s7/k8dr26k22dt110w4k5w4/sett.png" alt="Edinburgh, The University of" width="140"><br><strong>Edinburgh, The University of (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edinchat/"><img src="/variants/s6/db2o28g13o2db13o2~x4/sett.png" alt="Edinchat" width="140"><br><strong>Edinchat (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edmonstone/"><img src="/variants/s10/g7r4g14db10g5db10w2db10g5db5~x2/sett.png" alt="Edmonstone" width="140"><br><strong>Edmonstone (1)</strong></a><div class="clan-territory">Clan Edmonstone</div></li>
+<li><a class="tartan" href="/tartans/e/ed/edmonstone-of-duntreath/"><img src="/variants/s10/dg7r4dg14db10dg5db10w2db10dg5db5~x2/sett.png" alt="Edmonstone of Duntreath" width="140"><br><strong>Edmonstone of Duntreath (1)</strong></a><div class="clan-territory">Edmonstone of Duntreath</div></li>
+<li><a class="tartan" href="/tartans/e/ed/ednie/"><img src="/variants/s7/t11k4g4o1g4k1r1~x4/sett.png" alt="Ednie" width="140"><br><strong>Ednie (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edwards/"><img src="/variants/s9/n37db4n7db4n9db40lb2db4n2/sett.png" alt="Edwards" width="140"><br><strong>Edwards (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/e/ed/edzell-u-s-navy/"><img src="/variants/s6/db45dbi7w3dbi27r1dbi7~x2~db0805267-dbi1604274/sett.png" alt="Edzell, U.S. Navy" width="140"><br><strong>Edzell, U.S. Navy (1)</strong></a></li>
+</ul>

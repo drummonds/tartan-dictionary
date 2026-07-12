@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Fontainbleu"
+  url: "/tartans/f/fo/fontainbleu/"
+- name: "Fontainbleu"
   url: "/setts/r66n8r4dt2r1ly2r3dt4r4ly1dt1r8dt2n8dt2r8dt2r1ly2r3dt4r4ly1dt1r4n8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r66n8r4dt2r1ly2r3dt4r4ly1dt1r8dt2n8dt2r8dt2r1ly2r3dt4r4ly1dt1r4n8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBYRBRYRBRBBBRBYRBRYRBRBR](/stripes/brbyrbryrbrbbbrbyrbryrbrbr/).
+
+Part of the [Fontainbleu](/tartans/f/fo/fontainbleu/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 

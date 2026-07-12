@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Jong Nederland Born Union, Dress"
+  url: "/tartans/j/jo/jong-nederland-born-union-dress/"
+- name: "Jong Nederland Born Union, Dress"
   url: "/setts/k1lb2k2ly2lb12w13dr1w1dr2w1dr1w13lb12ly2k2lb2k1y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k1lb2k2ly2lb12w13dr1w1dr2w1dr1w13lb12ly2k2lb2k1y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKWKYWWBWBWBWWYKWK](/stripes/gkwkywwbwbwbwwykwk/).
+
+Part of the [Jong Nederland Born Union, Dress](/tartans/j/jo/jong-nederland-born-union-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

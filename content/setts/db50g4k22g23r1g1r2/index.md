@@ -6,6 +6,8 @@ This is the **Casely of Mannerston (Personal)** sett — one scale-free proporti
 [BGKGRGR](/stripes/bgkgrgr/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [Casely of Mannerston](/tartans/c/ca/casely-of-mannerston/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

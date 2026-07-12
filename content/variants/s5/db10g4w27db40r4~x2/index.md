@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Turnbull"
+  url: "/clan/turnbull/"
+- name: "Turnbull Dress, Bruce"
+  url: "/tartans/t/tu/turnbull-dress-bruce/"
 - name: "Turnbull Dress, Bruce (Personal)"
   url: "/setts/db10g4w27db40r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db10g4w27db40r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGWBR](/stripes/bgwbr/).
+
+Part of the [Turnbull Dress, Bruce](/tartans/t/tu/turnbull-dress-bruce/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -6,6 +6,8 @@ This is the **Riddoch Personal Tartan** sett — one scale-free proportion (`g28
 [BKBKBKRGRKBKBK](/stripes/bkbkbkrgrkbkbk/). It is recorded as a single **variant**, below.
 First attested **~1992**.
 
+Part of the [Riddoch](/tartans/r/ri/riddoch-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

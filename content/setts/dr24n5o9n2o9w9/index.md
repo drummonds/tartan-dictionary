@@ -6,6 +6,8 @@ This is the **Plaid Wine** sett — one scale-free proportion (`dr24n5o9n2o9w9`)
 [BBRBRW](/stripes/bbrbrw/). It is recorded as a single **variant**, below.
 First attested **1973**.
 
+Part of the [Plaid Wine](/tartans/p/pl/plaid-wine/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

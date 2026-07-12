@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Colbert Check"
+  url: "/tartans/c/co/colbert-check/"
 - name: "Colbert Check (Fashion)"
   url: "/setts/k62w10y10k4w18k4ly3w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k62w10y10k4w18k4ly3w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWGKWKYW](/stripes/kwgkwkyw/).
+
+Part of the [Colbert Check](/tartans/c/co/colbert-check/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

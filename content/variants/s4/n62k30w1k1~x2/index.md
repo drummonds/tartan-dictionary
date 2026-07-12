@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Pride of New Zealand"
+  url: "/tartans/p/pr/pride-of-new-zealand/"
+- name: "Pride of New Zealand"
   url: "/setts/n62k30w1k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n62k30w1k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWK](/stripes/bkwk/).
+
+Part of the [Pride of New Zealand](/tartans/p/pr/pride-of-new-zealand/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

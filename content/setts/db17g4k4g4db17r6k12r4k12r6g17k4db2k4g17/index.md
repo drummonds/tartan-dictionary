@@ -6,6 +6,8 @@ This is the **Stewart Ancient (Fashion)** sett — one scale-free proportion (`d
 [BGKGBRKRKRGKBKG](/stripes/bgkgbrkrkrgkbkg/). It is recorded as a single **variant**, below.
 First attested **~2000**.
 
+Part of the [Stewart](/tartans/s/st/stewart/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

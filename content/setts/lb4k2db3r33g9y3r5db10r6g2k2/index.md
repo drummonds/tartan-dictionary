@@ -6,6 +6,8 @@ This is the **MacArthur-Fox Dress** sett — one scale-free proportion (`lb4k2db
 [KGRBRGGRBKW](/stripes/kgrbrggrbkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [MacArthur-Fox Dress](/tartans/m/ma/macarthur-fox-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -18,5 +18,5 @@ A family of [Clan MacLeod](/clan/macleod/).
 </tbody>
 </table>
 
-[See the MacLeod of Raasay tartan and all its setts →](/tartans/macleod-of-raasay/)
+[See the MacLeod of Raasay tartan and all its setts →](/tartans/m/ma/macleod-of-raasay/)
 

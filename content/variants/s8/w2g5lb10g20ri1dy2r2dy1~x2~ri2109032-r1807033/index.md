@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Muskoka"
-  url: "/tartans/muskoka/"
+  url: "/tartans/m/mu/muskoka/"
 - name: "Muskoka (District)"
   url: "/setts/w2g5lb10g20ri1dy2r2dy1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w2g5lb10g20ri1dy2r2dy1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGWGW](/stripes/grgrgwgw/).
 
-Part of the [Muskoka](/tartans/muskoka/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Muskoka](/tartans/m/mu/muskoka/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

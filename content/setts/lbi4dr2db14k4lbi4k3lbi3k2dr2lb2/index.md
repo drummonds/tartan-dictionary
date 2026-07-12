@@ -6,6 +6,8 @@ This is the **Naysmith, William A (Personal)** sett — one scale-free proportio
 [WBBKWKWKBW](/stripes/wbbkwkwkbw/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Naysmith](/tartans/n/na/naysmith/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

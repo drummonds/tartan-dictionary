@@ -6,6 +6,8 @@ This is the **Parkin (Personal)** sett — one scale-free proportion (`w3k9y1lb3
 [BKWBWGKW](/stripes/bkwbwgkw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Parkin](/tartans/p/pa/parkin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

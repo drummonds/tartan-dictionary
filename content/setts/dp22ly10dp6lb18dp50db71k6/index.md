@@ -6,6 +6,8 @@ This is the **Charleston Police Department** sett — one scale-free proportion 
 [BYBWBBK](/stripes/bybwbbk/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Charleston Police Department](/tartans/c/ch/charleston-police-department/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

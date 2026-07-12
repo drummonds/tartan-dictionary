@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Fulton"
+  url: "/tartans/f/fu/fulton/"
+- name: "Fulton"
   url: "/setts/dp3k1g16dr5g6dr5g14dr16lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp3k1g16dr5g6dr5g14dr16lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGBGBGBY](/stripes/bkgbgbgby/).
+
+Part of the [Fulton](/tartans/f/fu/fulton/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

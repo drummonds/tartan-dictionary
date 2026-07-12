@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "St. Andrew's Links Dress"
+  url: "/tartans/s/st/st-andrew-s-links-dress/"
 - name: "St. Andrew's Links Dress (Corporate)"
   url: "/setts/lr30lp4lr3dp2r2dp24w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lr30lp4lr3dp2r2dp24w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBRBYWY](/stripes/wbrbywy/).
+
+Part of the [St. Andrew's Links Dress](/tartans/s/st/st-andrew-s-links-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

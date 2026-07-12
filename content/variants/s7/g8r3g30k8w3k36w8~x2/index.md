@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cleghorn"
+  url: "/tartans/c/cl/cleghorn/"
 - name: "Cleghorn (Personal)"
   url: "/setts/g8r3g30k8w3k36w8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g8r3g30k8w3k36w8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGKWKW](/stripes/grgkwkw/).
+
+Part of the [Cleghorn](/tartans/c/cl/cleghorn/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

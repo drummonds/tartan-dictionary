@@ -6,6 +6,8 @@ This is the **Beatty** sett — one scale-free proportion (`k6t3db28lo8k10lo2k2l
 [KBBYKYKWKGBKBW](/stripes/kbbykykwkgbkbw/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Beatty](/tartans/b/be/beatty/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

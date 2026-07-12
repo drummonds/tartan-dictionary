@@ -6,6 +6,8 @@ This is the **Isle of Gigha (District)** sett — one scale-free proportion (`db
 [BGRGKBY](/stripes/bgrgkby/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Isle of Gigha](/tartans/i/is/isle-of-gigha-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

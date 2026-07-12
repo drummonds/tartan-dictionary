@@ -6,7 +6,7 @@ This is the **Skene of Cromar (Cant version)** sett — one scale-free proportio
 [GKRBRK](/stripes/gkrbrk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Skene of Cromar](/tartans/skene-of-cromar/) tartan — the named design grouping this sett with its kin.
+Part of the [Skene of Cromar](/tartans/s/sk/skene-of-cromar/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

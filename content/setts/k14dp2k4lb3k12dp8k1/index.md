@@ -6,6 +6,8 @@ This is the **Punky Princess** sett — one scale-free proportion (`k14dp2k4lb3k
 [KBKWKBK](/stripes/kbkwkbk/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Punky Princess](/tartans/p/pu/punky-princess-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

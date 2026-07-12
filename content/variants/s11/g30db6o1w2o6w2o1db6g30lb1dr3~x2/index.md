@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kuehle Hunting"
+  url: "/tartans/k/ku/kuehle-hunting/"
 - name: "Kuehle Hunting (Personal)"
   url: "/setts/g30db6o1w2o6w2o1db6g30lb1dr3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g30db6o1w2o6w2o1db6g30lb1dr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGBRWRWRBG](/stripes/bwgbrwrwrbg/).
+
+Part of the [Kuehle Hunting](/tartans/k/ku/kuehle-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

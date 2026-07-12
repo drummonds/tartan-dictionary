@@ -6,6 +6,8 @@ This is the **Wcwm 969-2** sett — one scale-free proportion (`w12ly1dy1lo1ly22
 [WYGYYYGYGYYY](/stripes/wygyyygygyyy/). It is recorded as a single **variant**, below.
 First attested **1990**.
 
+Part of the [Wcwm 969-2](/tartans/w/wc/wcwm-969-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Lang of Sherbrooke (Personal)** sett — one scale-free proportion
 [GGKGKGKGBBW](/stripes/ggkgkgkgbbw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Lang of Sherbrooke](/tartans/l/la/lang-of-sherbrooke-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

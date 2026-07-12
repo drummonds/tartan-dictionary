@@ -6,6 +6,8 @@ This is the **Siddle, New (Corporate)** sett — one scale-free proportion (`r30
 [RBWWY](/stripes/rbwwy/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Siddle, New](/tartans/s/si/siddle-new/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Bank of Scotland Corporate Tartan** sett — one scale-free propor
 [GBKBW](/stripes/gbkbw/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
-Part of the [Bank of Scotland](/tartans/bank-of-scotland/) tartan — the named design grouping this sett with its kin.
+Part of the [Bank of Scotland](/tartans/b/ba/bank-of-scotland/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

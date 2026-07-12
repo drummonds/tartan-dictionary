@@ -6,6 +6,8 @@ This is the **Ritch** sett — one scale-free proportion (`r6w2r3w2r20w2lb6w2dp1
 [RWRWRWWWBWBWWWGBWBGGRWRGGWGGGWWWWWGGGWGWRWRWBWWGWBWGWWBWRWWWRW](/stripes/rwrwrwwwbwbwwwgbwbggrwrggwgggwwwwwgggwgwrwrwbwwgwbwgwwbwrwwwrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Ritch](/tartans/r/ri/ritch/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

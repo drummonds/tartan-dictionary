@@ -6,6 +6,8 @@ This is the **Graham Dress** sett — one scale-free proportion (`w4db4w60db5w5k
 [WBWBWKBKBKGWGWGKWBWBW](/stripes/wbwbwkbkbkgwgwgkwbwbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Graham Dress](/tartans/g/gr/graham-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Perth (Duke of.. ) Portrait Tartan** sett — one scale-free propo
 [BRBRGWGWGRBRWR](/stripes/brbrgwgwgrbrwr/). It is recorded as a single **variant**, below.
 First attested **1739**.
 
+Part of the [Perth](/tartans/p/pe/perth-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

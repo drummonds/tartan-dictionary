@@ -6,6 +6,8 @@ This is the **Borrodale** sett — one scale-free proportion (`r5db3r3db29k29g29
 [RBRBKGWR](/stripes/rbrbkgwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Borrodale](/tartans/b/bo/borrodale/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scotia Village"
+  url: "/tartans/s/sc/scotia-village/"
 - name: "Scotia Village (Corporate)"
   url: "/setts/r90k1r2db8r2k12w1k2y1k3g13r11k1g2k1r5w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r90k1r2db8r2k12w1k2y1k3g13r11k1g2k1r5w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRBRKWKGKGRKGKRW](/stripes/rkrbrkwkgkgrkgkrw/).
+
+Part of the [Scotia Village](/tartans/s/sc/scotia-village/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

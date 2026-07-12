@@ -6,7 +6,7 @@ This is the **Contrecoeur Corporate Tartan** sett — one scale-free proportion 
 [BRWRGGGGKRWGGGG](/stripes/brwrggggkrwgggg/). It is recorded as a single **variant**, below.
 First attested **1992**.
 
-Part of the [Contrecoeur](/tartans/contrecoeur/) tartan — the named design grouping this sett with its kin.
+Part of the [Contrecoeur](/tartans/c/co/contrecoeur/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

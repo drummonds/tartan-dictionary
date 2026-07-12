@@ -6,7 +6,7 @@ This is the **Hogan (2014)** sett — one scale-free proportion (`g10w7y41k7`), 
 [GWGK](/stripes/gwgk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Hogan](/tartans/hogan/) tartan — the named design grouping this sett with its kin.
+Part of the [Hogan](/tartans/h/ho/hogan/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

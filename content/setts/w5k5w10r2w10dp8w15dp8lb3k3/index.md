@@ -6,6 +6,8 @@ This is the **Dijkgraaf, Markus Jack (Personal)** sett — one scale-free propor
 [KWBWBWRWKW](/stripes/kwbwbwrwkw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Dijkgraaf, Markus Jack](/tartans/d/di/dijkgraaf-markus-jack/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

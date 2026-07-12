@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Brown"
+  url: "/clan/brown/"
+- name: "Brown, Watch dress"
+  url: "/tartans/b/br/brown-watch-dress-2/"
 - name: "Brown, Watch dress"
   url: "/setts/o20do3o3do3o3do9w10do3w1do9o10do3o3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o20do3o3do3o3do9w10do3w1do9o10do3o3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRBWBWBRBR](/stripes/rbrbrbwbwbrbr/).
+
+Part of the [Brown, Watch dress](/tartans/b/br/brown-watch-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -6,6 +6,8 @@ This is the **Pendleton dress Corporate Tartan** sett — one scale-free proport
 [BBGRGKGGGBBBGGGKGRGB](/stripes/bbgrgkgggbbbgggkgrgb/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Pendleton dress](/tartans/p/pe/pendleton-dress-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Rae (Wilsons) (Clan)** sett — one scale-free proportion (`dp27dg
 [BGBGBGBGBGBGBGBGBGBGBGBGBGB](/stripes/bgbgbgbgbgbgbgbgbgbgbgbgbgb/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Rae](/tartans/r/ra/rae/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Craig"
+  url: "/tartans/c/cr/craig/"
 - name: "Craig (Personal)"
   url: "/setts/dr2k2db3lo1db20k1g18k1dr2db2k1db2k1db2k2g2k2dr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr2k2db3lo1db20k1g18k1dr2db2k1db2k1db2k2g2k2dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBYBKGKBBKBKBKGKB](/stripes/bkbybkgkbbkbkbkgkb/).
+
+Part of the [Craig](/tartans/c/cr/craig/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 

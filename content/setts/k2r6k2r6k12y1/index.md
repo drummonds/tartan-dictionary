@@ -7,6 +7,8 @@ This is the **MacQueen** sett — one scale-free proportion (`k2r6k2r6k12y1`), c
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1842**.
 
+Part of the [MacQueen](/tartans/m/ma/macqueen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

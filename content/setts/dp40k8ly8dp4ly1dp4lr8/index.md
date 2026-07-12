@@ -6,6 +6,8 @@ This is the **Wcwm 4907-2** sett — one scale-free proportion (`dp40k8ly8dp4ly1
 [BKYBYBY](/stripes/bkybyby/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Wcwm 4907-2](/tartans/w/wc/wcwm-4907-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

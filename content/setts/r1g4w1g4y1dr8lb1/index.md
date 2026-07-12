@@ -6,6 +6,8 @@ This is the **George Watson's College** sett — one scale-free proportion (`r1g
 [RGWGGBW](/stripes/rgwggbw/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [George Watson's College](/tartans/g/ge/george-watson-s-college/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

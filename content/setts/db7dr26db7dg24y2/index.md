@@ -6,6 +6,8 @@ This is the **McCarthy, Old** sett — one scale-free proportion (`db7dr26db7dg2
 [BBBGG](/stripes/bbbgg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [McCarthy, Old](/tartans/m/mc/mccarthy-old/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

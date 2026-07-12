@@ -6,6 +6,8 @@ This is the **Manderson #1 (Personal)** sett — one scale-free proportion (`k8n
 [KBWKWWWWW](/stripes/kbwkwwwww/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Manderson](/tartans/m/ma/manderson-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

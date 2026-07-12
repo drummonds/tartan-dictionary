@@ -6,7 +6,7 @@ This is the **Malcolm (a)** sett — one scale-free proportion (`db1r1db6k6g6k1y
 [BRBKGKGKWKGKBR](/stripes/brbkgkgkwkgkbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Malcolm](/tartans/malcolm/) tartan — the named design grouping this sett with its kin.
+Part of the [Malcolm](/tartans/m/ma/malcolm/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

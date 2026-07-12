@@ -6,6 +6,8 @@ This is the **Cavan County Crest (Fashion)** sett — one scale-free proportion 
 [YBKBWKBWKY](/stripes/ybkbwkbwky/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Cavan County Crest](/tartans/c/ca/cavan-county-crest/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

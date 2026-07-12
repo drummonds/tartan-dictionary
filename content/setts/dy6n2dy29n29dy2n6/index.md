@@ -6,7 +6,7 @@ This is the **Harmony 12 #2** sett — one scale-free proportion (`dy6n2dy29n29d
 [BGBGBG](/stripes/bgbgbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Harmony 12](/tartans/harmony-12/) tartan — the named design grouping this sett with its kin.
+Part of the [Harmony 12](/tartans/h/ha/harmony-12/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

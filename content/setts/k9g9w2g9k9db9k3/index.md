@@ -6,7 +6,7 @@ This is the **Graham of Montrose - 1850 (Clan)** sett — one scale-free proport
 [KBKGWGK](/stripes/kbkgwgk/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [Graham of Montrose](/tartans/graham-of-montrose-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Graham of Montrose](/tartans/g/gr/graham-of-montrose-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

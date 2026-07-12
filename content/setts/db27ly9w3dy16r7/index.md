@@ -6,6 +6,8 @@ This is the **Unidentified (Sock Tie)** sett — one scale-free proportion (`db2
 [BYWGR](/stripes/bywgr/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Unidentified](/tartans/u/un/unidentified-69/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

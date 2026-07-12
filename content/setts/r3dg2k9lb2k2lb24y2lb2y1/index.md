@@ -6,6 +6,8 @@ This is the **Bell Family Tartan** sett — one scale-free proportion (`r3dg2k9l
 [GWGWKWKGR](/stripes/gwgwkwkgr/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Bell](/tartans/b/be/bell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

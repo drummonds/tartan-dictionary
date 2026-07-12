@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unnamed C20th"
+  url: "/tartans/u/un/unnamed-c20th-5/"
 - name: "Unnamed C20th - USA"
   url: "/setts/db2y1db18g7r7db1g1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2y1db18g7r7db1g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGRBG](/stripes/bgbgrbg/).
+
+Part of the [Unnamed C20th](/tartans/u/un/unnamed-c20th-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

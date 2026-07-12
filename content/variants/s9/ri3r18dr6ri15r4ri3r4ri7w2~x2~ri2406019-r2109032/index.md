@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Tune Hotels"
-  url: "/tartans/tune-hotels/"
+  url: "/tartans/t/tu/tune-hotels/"
 - name: "Tune Hotels"
   url: "/setts/ri3r18dr6ri15r4ri3r4ri7w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ri3r18dr6ri15r4ri3r4ri7w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RRBRRRRRW](/stripes/rrbrrrrrw/).
 
-Part of the [Tune Hotels](/tartans/tune-hotels/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Tune Hotels](/tartans/t/tu/tune-hotels/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

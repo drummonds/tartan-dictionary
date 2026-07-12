@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cunningham Dress"
-  url: "/tartans/cunningham-dress/"
+  url: "/tartans/c/cu/cunningham-dress/"
 - name: "Cunningham Dress Green (Dance) Fashion Tartan"
   url: "/setts/y2g1k1g20w20g1w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y2g1k1g20w20g1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGKGWGW](/stripes/ggkgwgw/).
 
-Part of the [Cunningham Dress](/tartans/cunningham-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cunningham Dress](/tartans/c/cu/cunningham-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

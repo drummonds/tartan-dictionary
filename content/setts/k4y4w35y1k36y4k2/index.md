@@ -6,6 +6,8 @@ This is the **Gleneagles, Hotel** sett — one scale-free proportion (`k4y4w35y1
 [KGKGWGK](/stripes/kgkgwgk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Gleneagles, Hotel](/tartans/g/gl/gleneagles-hotel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

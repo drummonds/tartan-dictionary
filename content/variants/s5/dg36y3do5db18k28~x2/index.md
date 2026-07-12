@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dobson"
+  url: "/tartans/d/do/dobson/"
 - name: "Dobson Name Tartan"
   url: "/setts/dg36y3do5db18k28/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg36y3do5db18k28/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBBKK](/stripes/ggbbkk/).
+
+Part of the [Dobson](/tartans/d/do/dobson/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

@@ -6,6 +6,8 @@ This is the **North Dakota State University (Corp.** sett — one scale-free pro
 [YGGYGY](/stripes/yggygy/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [North Dakota State University (Corp.](/tartans/n/no/north-dakota-state-university-corp/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

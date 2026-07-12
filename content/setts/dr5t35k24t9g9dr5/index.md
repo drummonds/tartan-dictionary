@@ -6,6 +6,8 @@ This is the **Notre Dame Marching Guard (Corp)** sett — one scale-free proport
 [BBKBGB](/stripes/bbkbgb/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Notre Dame Marching Guard](/tartans/n/no/notre-dame-marching-guard-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

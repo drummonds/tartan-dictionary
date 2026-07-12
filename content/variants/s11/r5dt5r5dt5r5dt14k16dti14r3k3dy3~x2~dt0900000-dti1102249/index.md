@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacDougall of Lorn"
+  url: "/clan/macdougall/"
+- name: "MacDougall"
+  url: "/tartans/m/ma/macdougall-12/"
 - name: "MacDougall - 1970 (William) (Comm)"
   url: "/setts/r5dt5r5dt5r5dt14k16dti14r3k3dy3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r5dt5r5dt5r5dt14k16dti14r3k3dy3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRBKBRBRBR](/stripes/gkrbkbrbrbr/).
+
+Part of the [MacDougall](/tartans/m/ma/macdougall-12/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

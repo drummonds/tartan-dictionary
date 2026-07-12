@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacDuck"
+  url: "/tartans/m/ma/macduck/"
+- name: "MacDuck"
   url: "/setts/k4dg5k2o21b8k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4dg5k2o21b8k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBRKGK](/stripes/kbrkgk/).
+
+Part of the [MacDuck](/tartans/m/ma/macduck/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 

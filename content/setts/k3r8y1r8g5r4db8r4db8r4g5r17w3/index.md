@@ -6,6 +6,8 @@ This is the **Bruce, William** sett — one scale-free proportion (`k3r8y1r8g5r4
 [KRGRGRBRBRGRW](/stripes/krgrgrbrbrgrw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Bruce, William](/tartans/b/br/bruce-william/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

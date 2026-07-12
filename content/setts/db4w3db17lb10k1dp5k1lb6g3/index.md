@@ -6,6 +6,8 @@ This is the **Queen Margaret University** sett — one scale-free proportion (`d
 [BWBWKBKWG](/stripes/bwbwkbkwg/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Queen Margaret University](/tartans/q/qu/queen-margaret-university/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

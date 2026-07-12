@@ -6,7 +6,7 @@ This is the **Hawick Common Riding** sett — one scale-free proportion (`db4b23
 [BBBBBBBBBBBBG](/stripes/bbbbbbbbbbbbg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Hawick Common Riding](/tartans/hawick-common-riding/) tartan — the named design grouping this sett with its kin.
+Part of the [Hawick Common Riding](/tartans/h/ha/hawick-common-riding/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

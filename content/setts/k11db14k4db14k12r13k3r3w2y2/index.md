@@ -6,6 +6,8 @@ This is the **Huntley Fire Protection District** sett — one scale-free proport
 [GWRKRKBKBK](/stripes/gwrkrkbkbk/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Huntley Fire Protection District](/tartans/h/hu/huntley-fire-protection-district/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

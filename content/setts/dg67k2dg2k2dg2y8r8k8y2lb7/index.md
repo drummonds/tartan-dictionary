@@ -6,6 +6,8 @@ This is the **Moran (French) (Name)** sett — one scale-free proportion (`dg67k
 [GKGKGGRKGW](/stripes/gkgkggrkgw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Moran](/tartans/m/mo/moran-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

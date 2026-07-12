@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bannockbane Silver"
-  url: "/tartans/bannockbane-silver/"
+  url: "/tartans/b/ba/bannockbane-silver/"
 - name: "Bannockbane Silver"
   url: "/setts/db3dr2db18dr1w10n18dr2n3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db3dr2db18dr1w10n18dr2n3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBWBBB](/stripes/bbbbwbbb/).
 
-Part of the [Bannockbane Silver](/tartans/bannockbane-silver/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bannockbane Silver](/tartans/b/ba/bannockbane-silver/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

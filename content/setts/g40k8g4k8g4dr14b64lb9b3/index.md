@@ -6,6 +6,8 @@ This is the **West Lothian/Linlithgowshire** sett — one scale-free proportion 
 [BWBBGKGKG](/stripes/bwbbgkgkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [West Lothian/Linlithgowshire](/tartans/w/we/west-lothian-linlithgowshire/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

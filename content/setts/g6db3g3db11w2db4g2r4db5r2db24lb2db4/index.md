@@ -6,6 +6,8 @@ This is the **Massachusetts-The Bay State** sett — one scale-free proportion (
 [BWBRBRGBWBGBG](/stripes/bwbrbrgbwbgbg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Massachusetts-The Bay State](/tartans/m/ma/massachusetts-the-bay-state/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

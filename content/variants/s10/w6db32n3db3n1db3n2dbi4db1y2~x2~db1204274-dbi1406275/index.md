@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "X Marks the Scot"
+  url: "/tartans/x/x/x-marks-the-scot/"
+- name: "X Marks the Scot"
   url: "/setts/w6db32n3db3n1db3n2dbi4db1y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w6db32n3db3n1db3n2dbi4db1y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBBBBBBBW](/stripes/gbbbbbbbbw/).
+
+Part of the [X Marks the Scot](/tartans/x/x/x-marks-the-scot/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

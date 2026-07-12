@@ -7,6 +7,8 @@ This is the **Campbell-Simpson (Personal)** sett — one scale-free proportion (
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1974**.
 
+Part of the [Campbell-Simpson](/tartans/c/ca/campbell-simpson-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

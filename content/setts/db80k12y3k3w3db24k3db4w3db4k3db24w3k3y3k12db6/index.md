@@ -6,6 +6,8 @@ This is the **Suffolk County Police** sett — one scale-free proportion (`db80k
 [BKGKWBKBWBKBWKGKB](/stripes/bkgkwbkbwbkbwkgkb/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Suffolk County Police](/tartans/s/su/suffolk-county-police/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

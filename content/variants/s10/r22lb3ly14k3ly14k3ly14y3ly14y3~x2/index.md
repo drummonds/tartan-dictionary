@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Sutherland"
+  url: "/clan/sutherland/"
+- name: "Sutherland of Duffus"
+  url: "/families/sutherland-of-duffus/"
+- name: "Sutherland of Duffus"
+  url: "/tartans/s/su/sutherland-of-duffus/"
 - name: "Sutherland of Duffus (Clan)"
   url: "/setts/r22lb3ly14k3ly14k3ly14y3ly14y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r22lb3ly14k3ly14k3ly14y3ly14y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGYKYKYWR](/stripes/gygykykywr/).
+
+Part of the [Sutherland of Duffus](/tartans/s/su/sutherland-of-duffus/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

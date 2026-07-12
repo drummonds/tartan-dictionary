@@ -6,6 +6,8 @@ This is the **Pictou County** sett — one scale-free proportion (`db23w1r3w1db1
 [BGGBWRWB](/stripes/bggbwrwb/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Pictou County](/tartans/p/pi/pictou-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Milton"
+  url: "/tartans/m/mi/milton/"
+- name: "Milton"
   url: "/setts/g8r3g4k6g9dp2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g8r3g4k6g9dp2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKGRG](/stripes/bgkgrg/).
+
+Part of the [Milton](/tartans/m/mi/milton/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

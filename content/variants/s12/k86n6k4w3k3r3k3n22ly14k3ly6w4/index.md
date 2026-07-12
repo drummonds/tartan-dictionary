@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Langtree"
-  url: "/tartans/langtree/"
+  url: "/tartans/l/la/langtree/"
 - name: "Langtree Trade Tartan"
   url: "/setts/k86n6k4w3k3r3k3n22ly14k3ly6w4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k86n6k4w3k3r3k3n22ly14k3ly6w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKWKRKBYKYW](/stripes/kbkwkrkbykyw/).
 
-Part of the [Langtree](/tartans/langtree/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Langtree](/tartans/l/la/langtree/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 

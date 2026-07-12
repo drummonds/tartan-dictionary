@@ -6,6 +6,8 @@ This is the **Baluchistan Fitzgerald Regimental Tartan** sett — one scale-free
 [RGRGRGRGW](/stripes/rgrgrgrgw/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Baluchistan Fitzgerald Regimental](/tartans/b/ba/baluchistan-fitzgerald-regimental/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

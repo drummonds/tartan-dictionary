@@ -6,7 +6,7 @@ This is the **Ramblers Red Hat Society** sett — one scale-free proportion (`w4
 [RBWBRBBBRBRW](/stripes/rbwbrbbbrbrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Ramblers Red Hat Society](/tartans/ramblers-red-hat-society/) tartan — the named design grouping this sett with its kin.
+Part of the [Ramblers Red Hat Society](/tartans/r/ra/ramblers-red-hat-society/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

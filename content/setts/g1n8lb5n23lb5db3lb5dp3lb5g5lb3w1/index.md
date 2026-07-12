@@ -6,6 +6,8 @@ This is the **Hand, Edinburgh** sett — one scale-free proportion (`g1n8lb5n23l
 [GBWBWBWBWGWW](/stripes/gbwbwbwbwgww/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Hand, Edinburgh](/tartans/h/ha/hand-edinburgh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

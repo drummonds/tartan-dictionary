@@ -6,6 +6,8 @@ This is the **Poulter, Pink (Corporate)** sett — one scale-free proportion (`l
 [WBWBWBWWWBWBW](/stripes/wbwbwbwwwbwbw/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Poulter, Pink](/tartans/p/po/poulter-pink-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

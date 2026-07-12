@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacDonald"
+  url: "/clan/macdonald/"
+- name: "MacDonald of Ardnamurchan"
+  url: "/families/macdonald-of-ardnamurchan/"
+- name: "MacDonald of Ardnamurchan"
+  url: "/tartans/m/ma/macdonald-of-ardnamurchan/"
 - name: "MacKeane (MacIan) Clan Tartan"
   url: "/setts/r4k8r4k8r12k1y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4k8r4k8r12k1y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKRKR](/stripes/gkrkrkr/).
+
+Part of the [MacDonald of Ardnamurchan](/tartans/m/ma/macdonald-of-ardnamurchan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

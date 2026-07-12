@@ -6,6 +6,8 @@ This is the **Banff and Buchan** sett — one scale-free proportion (`k17lb2k3db
 [KWKBBBBY](/stripes/kwkbbbby/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Banff and Buchan](/tartans/b/ba/banff-and-buchan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

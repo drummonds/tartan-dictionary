@@ -6,6 +6,8 @@ This is the **Montrose (1983)** sett — one scale-free proportion (`dg6lo3dg26k
 [GYGKBW](/stripes/gygkbw/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Montrose](/tartans/m/mo/montrose/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

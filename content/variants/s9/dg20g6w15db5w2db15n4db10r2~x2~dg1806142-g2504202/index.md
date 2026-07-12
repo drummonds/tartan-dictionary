@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Copar a'Beannichte Dress"
-  url: "/tartans/copar-a-beannichte-dress/"
+  url: "/tartans/c/co/copar-a-beannichte-dress/"
 - name: "Copar a'Beannichte Dress (Personal)"
   url: "/setts/dg20g6w15db5w2db15n4db10r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg20g6w15db5w2db15n4db10r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGWBWBBBR](/stripes/ggwbwbbbr/).
 
-Part of the [Copar a'Beannichte Dress](/tartans/copar-a-beannichte-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Copar a'Beannichte Dress](/tartans/c/co/copar-a-beannichte-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

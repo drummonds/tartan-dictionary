@@ -6,7 +6,7 @@ This is the **Michigan State Police (Corporate)** sett — one scale-free propor
 [BBGKGKGKBKB](/stripes/bbgkgkgkbkb/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
-Part of the [Michigan State Police](/tartans/michigan-state-police/) tartan — the named design grouping this sett with its kin.
+Part of the [Michigan State Police](/tartans/m/mi/michigan-state-police/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

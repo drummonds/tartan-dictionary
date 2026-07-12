@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Highland Burn"
+  url: "/tartans/h/hi/highland-burn/"
 - name: "Highland Burn (Fashion)"
   url: "/setts/dp10lb1dg2k2dg18r1n45k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp10lb1dg2k2dg18r1n45k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWGKGRBK](/stripes/bwgkgrbk/).
+
+Part of the [Highland Burn](/tartans/h/hi/highland-burn/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

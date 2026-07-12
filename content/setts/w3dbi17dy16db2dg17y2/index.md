@@ -6,6 +6,8 @@ This is the **Atlantic Ancient Trade Tartan** sett — one scale-free proportion
 [GGBGBW](/stripes/ggbgbw/). It is recorded as a single **variant**, below.
 First attested **1968**.
 
+Part of the [Atlantic](/tartans/a/at/atlantic/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

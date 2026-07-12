@@ -6,6 +6,8 @@ This is the **Tilburg (District)** sett — one scale-free proportion (`db9y9db9
 [BGBWR](/stripes/bgbwr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Tilburg](/tartans/t/ti/tilburg/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

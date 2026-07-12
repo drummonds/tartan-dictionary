@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hawes"
-  url: "/tartans/hawes/"
+  url: "/tartans/h/ha/hawes/"
 - name: "Hawes (Personal)"
   url: "/setts/w2dr3g5k50g4dr3w2lb3k2ly2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w2dr3g5k50g4dr3w2lb3k2ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGKGBWWKY](/stripes/wbgkgbwwky/).
 
-Part of the [Hawes](/tartans/hawes/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hawes](/tartans/h/ha/hawes/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

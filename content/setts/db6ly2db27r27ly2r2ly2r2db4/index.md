@@ -6,6 +6,8 @@ This is the **New Breckon (Fashion?)** sett — one scale-free proportion (`db6l
 [BRYRYRBYB](/stripes/bryryrbyb/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [New Breckon](/tartans/n/ne/new-breckon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

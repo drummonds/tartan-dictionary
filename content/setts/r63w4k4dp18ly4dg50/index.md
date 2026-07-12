@@ -7,7 +7,7 @@ This is the **Gordon of Abergeldie** sett — one scale-free proportion (`r63w4k
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1723**.
 
-Part of the [Gordon of Abergeldie](/tartans/gordon-of-abergeldie/) tartan — the named design grouping this sett with its kin.
+Part of the [Gordon of Abergeldie](/tartans/g/go/gordon-of-abergeldie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

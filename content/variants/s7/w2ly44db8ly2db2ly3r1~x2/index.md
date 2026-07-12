@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Reece"
+  url: "/tartans/r/re/reece/"
 - name: "Reece (Name)"
   url: "/setts/w2ly44db8ly2db2ly3r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2ly44db8ly2db2ly3r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYBYBYW](/stripes/rybybyw/).
+
+Part of the [Reece](/tartans/r/re/reece/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

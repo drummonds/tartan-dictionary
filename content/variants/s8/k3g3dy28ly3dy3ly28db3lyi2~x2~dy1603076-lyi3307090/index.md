@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "California Highway Patrol (Corporate"
+  url: "/tartans/c/ca/california-highway-patrol-corporate/"
+- name: "California Highway Patrol (Corporate"
   url: "/setts/k3g3dy28ly3dy3ly28db3lyi2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3g3dy28ly3dy3ly28db3lyi2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGGYGYBY](/stripes/kggygyby/).
+
+Part of the [California Highway Patrol (Corporate](/tartans/c/ca/california-highway-patrol-corporate/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

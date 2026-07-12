@@ -6,6 +6,8 @@ This is the **Ambassador** sett — one scale-free proportion (`k85r6k1w3k3w3k1r
 [GKRKWKWKRK](/stripes/gkrkwkwkrk/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Ambassador](/tartans/a/am/ambassador/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

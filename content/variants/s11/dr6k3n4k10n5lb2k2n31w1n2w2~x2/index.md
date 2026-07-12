@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "William Glen and Son"
+  url: "/tartans/w/wi/william-glen-and-son/"
+- name: "William Glen and Son"
   url: "/setts/dr6k3n4k10n5lb2k2n31w1n2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr6k3n4k10n5lb2k2n31w1n2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBWKBWBW](/stripes/bkbkbwkbwbw/).
+
+Part of the [William Glen and Son](/tartans/w/wi/william-glen-and-son/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

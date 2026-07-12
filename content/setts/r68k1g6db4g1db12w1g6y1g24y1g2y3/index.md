@@ -6,7 +6,7 @@ This is the **Ellis Island** sett — one scale-free proportion (`r68k1g6db4g1db
 [GGGGGGWBGBGKR](/stripes/ggggggwbgbgkr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Ellis Island](/tartans/ellis-island/) tartan — the named design grouping this sett with its kin.
+Part of the [Ellis Island](/tartans/e/el/ellis-island/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

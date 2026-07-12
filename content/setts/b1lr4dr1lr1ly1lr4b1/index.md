@@ -6,7 +6,7 @@ This is the **Justus Dress (Personal)** sett — one scale-free proportion (`b1l
 [BYBYYYB](/stripes/bybyyyb/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
-Part of the [Justus Dress](/tartans/justus-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Justus Dress](/tartans/j/ju/justus-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

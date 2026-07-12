@@ -6,6 +6,8 @@ This is the **Baron of Crawfordjohn (Personal)** sett — one scale-free proport
 [BBBGGGB](/stripes/bbbgggb/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Baron of Crawfordjohn](/tartans/b/ba/baron-of-crawfordjohn/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

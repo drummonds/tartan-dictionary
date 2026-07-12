@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Mitsukoshi"
+  url: "/tartans/m/mi/mitsukoshi/"
+- name: "Mitsukoshi"
   url: "/setts/n12k3w3k3w3k3n13t6db17dr3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n12k3w3k3w3k3n13t6db17dr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBKWKWKB](/stripes/bbbbkwkwkb/).
+
+Part of the [Mitsukoshi](/tartans/m/mi/mitsukoshi/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

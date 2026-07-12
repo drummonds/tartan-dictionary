@@ -6,6 +6,8 @@ This is the **Haughfoot (Commemorative)** sett — one scale-free proportion (`r
 [GGBWKR](/stripes/ggbwkr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Haughfoot](/tartans/h/ha/haughfoot/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

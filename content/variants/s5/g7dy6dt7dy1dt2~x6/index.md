@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Bright"
+  url: "/clan/bright/"
+- name: "Bright of Garth"
+  url: "/families/bright-of-garth/"
+- name: "Bright of Garth"
+  url: "/tartans/b/br/bright-of-garth/"
 - name: "Bright of Garth (Personal)"
   url: "/setts/g7dy6dt7dy1dt2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g7dy6dt7dy1dt2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGG](/stripes/bgbgg/).
+
+Part of the [Bright of Garth](/tartans/b/br/bright-of-garth/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

@@ -6,6 +6,8 @@ This is the **Outdoorsmen (Fashion)** sett — one scale-free proportion (`t3k1g
 [BKGKBGK](/stripes/bkgkbgk/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Outdoorsmen](/tartans/o/ou/outdoorsmen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

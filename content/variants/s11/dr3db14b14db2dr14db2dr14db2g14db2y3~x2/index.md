@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Clare"
+  url: "/tartans/c/cl/clare-2/"
+- name: "Clare"
   url: "/setts/dr3db14b14db2dr14db2dr14db2g14db2y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr3db14b14db2dr14db2dr14db2g14db2y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBBGBG](/stripes/bbbbbbbbgbg/).
+
+Part of the [Clare](/tartans/c/cl/clare-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

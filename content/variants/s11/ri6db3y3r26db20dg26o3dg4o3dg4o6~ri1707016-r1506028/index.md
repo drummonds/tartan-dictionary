@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bonnie Brae"
+  url: "/tartans/b/bo/bonnie-brae/"
+- name: "Bonnie Brae"
   url: "/setts/ri6db3y3r26db20dg26o3dg4o3dg4o6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ri6db3y3r26db20dg26o3dg4o3dg4o6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBGRBGRGRGR](/stripes/rbgrbgrgrgr/).
+
+Part of the [Bonnie Brae](/tartans/b/bo/bonnie-brae/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 

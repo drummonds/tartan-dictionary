@@ -6,7 +6,7 @@ This is the **MacAlister of Glenbarr** sett — one scale-free proportion (`g4o2
 [GRGRGRBRGRBRBR](/stripes/grgrgrbrgrbrbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [MacAlister of Glenbarr](/tartans/macalister-of-glenbarr-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacAlister of Glenbarr](/tartans/m/ma/macalister-of-glenbarr-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

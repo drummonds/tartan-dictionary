@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Fred Perry"
-  url: "/tartans/fred-perry/"
+  url: "/tartans/f/fr/fred-perry/"
 - name: "Fred Perry (Corporate)"
   url: "/setts/db36r4db3w3db36g6w1g2w1g10r1g10w1g2w1g6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db36r4db3w3db36g6w1g2w1g10r1g10w1g2w1g6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBWBGWGWGRGWGWG](/stripes/brbwbgwgwgrgwgwg/).
 
-Part of the [Fred Perry](/tartans/fred-perry/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Fred Perry](/tartans/f/fr/fred-perry/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 

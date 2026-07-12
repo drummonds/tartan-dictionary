@@ -6,6 +6,8 @@ This is the **Setting Sun, The (Fashion)** sett — one scale-free proportion (`
 [WYBWRYBRBYWBRWBY](/stripes/wybwrybrbywbrwby/). It is recorded as a single **variant**, below.
 First attested **~1972**.
 
+Part of the [Setting Sun, The](/tartans/s/se/setting-sun-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

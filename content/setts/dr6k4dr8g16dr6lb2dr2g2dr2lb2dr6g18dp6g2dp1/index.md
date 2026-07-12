@@ -6,6 +6,8 @@ This is the **MacCall Family Tartan** sett — one scale-free proportion (`dr6k4
 [BGBGBWBGBWBGBKB](/stripes/bgbgbwbgbwbgbkb/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [MacCall](/tartans/m/ma/maccall/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

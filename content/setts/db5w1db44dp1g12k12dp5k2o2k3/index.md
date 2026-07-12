@@ -7,6 +7,8 @@ This is the **Heart of Scotland (Fashion)** sett — one scale-free proportion (
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1999**.
 
+Part of the [Heart of Scotland](/tartans/h/he/heart-of-scotland-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

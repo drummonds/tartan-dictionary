@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Tennessee Volunteer"
+  url: "/tartans/t/te/tennessee-volunteer/"
+- name: "Tennessee Volunteer"
   url: "/setts/w12lo12w12k5lo45k5lb5lo10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w12lo12w12k5lo45k5lb5lo10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WYWKYKWY](/stripes/wywkykwy/).
+
+Part of the [Tennessee Volunteer](/tartans/t/te/tennessee-volunteer/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

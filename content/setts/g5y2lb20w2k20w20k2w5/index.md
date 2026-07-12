@@ -6,6 +6,8 @@ This is the **Alexander Brothers - 2007? (Corp.)** sett — one scale-free propo
 [GGWWKWKW](/stripes/ggwwkwkw/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
+Part of the [Alexander Brothers](/tartans/a/al/alexander-brothers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

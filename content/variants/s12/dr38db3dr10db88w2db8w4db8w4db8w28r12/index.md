@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "St George"
+  url: "/tartans/s/st/st-george/"
+- name: "St George"
   url: "/setts/dr38db3dr10db88w2db8w4db8w4db8w28r12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr38db3dr10db88w2db8w4db8w4db8w28r12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBWBWBWBWR](/stripes/bbbbwbwbwbwr/).
+
+Part of the [St George](/tartans/s/st/st-george/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

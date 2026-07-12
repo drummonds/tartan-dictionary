@@ -6,6 +6,8 @@ This is the **South Australia #2** sett — one scale-free proportion (`r6dbi24r
 [KGGGKBRBRBR](/stripes/kgggkbrbrbr/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [South Australia](/tartans/s/so/south-australia-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

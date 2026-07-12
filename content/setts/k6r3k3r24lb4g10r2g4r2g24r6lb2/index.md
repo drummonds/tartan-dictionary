@@ -6,6 +6,8 @@ This is the **Leach (1999)** sett — one scale-free proportion (`k6r3k3r24lb4g1
 [KRKRWGRGRGRW](/stripes/krkrwgrgrgrw/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Leach](/tartans/l/le/leach/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

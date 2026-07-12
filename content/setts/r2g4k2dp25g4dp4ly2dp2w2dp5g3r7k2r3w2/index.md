@@ -6,6 +6,8 @@ This is the **Hueg Scottish Blue Thistle (Personal** sett — one scale-free pro
 [RGKBGBYBWBGRKRW](/stripes/rgkbgbybwbgrkrw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Hueg Scottish Blue Thistle](/tartans/h/hu/hueg-scottish-blue-thistle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

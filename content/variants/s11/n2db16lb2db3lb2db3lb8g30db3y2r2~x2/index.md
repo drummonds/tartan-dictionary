@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "San Diego Tartan Day"
+  url: "/tartans/s/sa/san-diego-tartan-day/"
 - name: "San Diego, The"
   url: "/setts/n2db16lb2db3lb2db3lb8g30db3y2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n2db16lb2db3lb2db3lb8g30db3y2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBWBWGBGR](/stripes/bbwbwbwgbgr/).
+
+Part of the [San Diego Tartan Day](/tartans/s/sa/san-diego-tartan-day/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

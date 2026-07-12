@@ -6,6 +6,8 @@ This is the **Ayrton** sett — one scale-free proportion (`r3g2k1g20k9lb20k1lb2
 [RGKGKWKWR](/stripes/rgkgkwkwr/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
+Part of the [Ayrton](/tartans/a/ay/ayrton/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

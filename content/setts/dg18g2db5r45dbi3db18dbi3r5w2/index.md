@@ -6,7 +6,7 @@ This is the **MacNiven Family Tartan** sett — one scale-free proportion (`dg18
 [GGBRBBBRW](/stripes/ggbrbbbrw/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
-Part of the [MacNiven](/tartans/macniven/) tartan — the named design grouping this sett with its kin.
+Part of the [MacNiven](/tartans/m/ma/macniven/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Lockwood Family Tartan** sett — one scale-free proportion (`n20w
 [BWBGKWRKRKRWKGGWKG](/stripes/bwbgkwrkrkrwkggwkg/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Lockwood](/tartans/l/lo/lockwood/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hunting Kenmore"
+  url: "/tartans/h/hu/hunting-kenmore/"
+- name: "Hunting Kenmore"
   url: "/setts/r2dg19g2dg2g19dg2y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2dg19g2dg2g19dg2y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGGR](/stripes/ggggggr/).
+
+Part of the [Hunting Kenmore](/tartans/h/hu/hunting-kenmore/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

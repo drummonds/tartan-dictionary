@@ -6,6 +6,8 @@ This is the **Chestico** sett — one scale-free proportion (`db20dy1db1dy1dg8k1
 [BGBGGKW](/stripes/bgbggkw/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Chestico](/tartans/c/ch/chestico/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

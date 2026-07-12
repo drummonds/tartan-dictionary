@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Plaid Wine"
+  url: "/tartans/p/pl/plaid-wine/"
+- name: "Plaid Wine"
   url: "/setts/dr24n5o9n2o9w9/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr24n5o9n2o9w9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBRW](/stripes/bbrbrw/).
+
+Part of the [Plaid Wine](/tartans/p/pl/plaid-wine/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

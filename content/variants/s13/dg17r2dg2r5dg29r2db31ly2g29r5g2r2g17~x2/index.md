@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Barbecue Presbyterian Church"
-  url: "/tartans/barbecue-presbyterian-church/"
+  url: "/tartans/b/ba/barbecue-presbyterian-church/"
 - name: "Barbecue Presbyterian Church (Corp)"
   url: "/setts/dg17r2dg2r5dg29r2db31ly2g29r5g2r2g17/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg17r2dg2r5dg29r2db31ly2g29r5g2r2g17/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGRBYGRGRG](/stripes/grgrgrbygrgrg/).
 
-Part of the [Barbecue Presbyterian Church](/tartans/barbecue-presbyterian-church/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Barbecue Presbyterian Church](/tartans/b/ba/barbecue-presbyterian-church/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

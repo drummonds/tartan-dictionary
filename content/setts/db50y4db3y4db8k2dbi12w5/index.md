@@ -6,6 +6,8 @@ This is the **Indiana #2** sett — one scale-free proportion (`db50y4db3y4db8k2
 [BGBGBKBW](/stripes/bgbgbkbw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Indiana](/tartans/i/in/indiana/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

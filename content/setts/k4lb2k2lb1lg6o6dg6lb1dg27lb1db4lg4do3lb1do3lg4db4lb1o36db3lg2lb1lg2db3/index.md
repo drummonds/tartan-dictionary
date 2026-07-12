@@ -6,6 +6,8 @@ This is the **Wedding Dress:1766** sett — one scale-free proportion (`k4lb2k2l
 [BYWYBRWBYBWBYBWGWGRYWKWK](/stripes/bywybrwbybwbybwgwgrywkwk/). It is recorded as a single **variant**, below.
 First attested **1766**.
 
+Part of the [Wedding Dress:1766](/tartans/w/we/wedding-dress-1766/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

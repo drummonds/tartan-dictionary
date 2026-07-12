@@ -6,7 +6,7 @@ This is the **Dundee Dress** sett — one scale-free proportion (`r36ri2k16ri2w1
 [GBWWGWKWGWRKRR](/stripes/gbwwgwkwgwrkrr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Dundee Dress](/tartans/dundee-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Dundee Dress](/tartans/d/du/dundee-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

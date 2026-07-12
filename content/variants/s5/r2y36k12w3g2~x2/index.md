@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Port Moresby City"
+  url: "/tartans/p/po/port-moresby-city/"
 - name: "Port Moresby City Pipes & Drums"
   url: "/setts/r2y36k12w3g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2y36k12w3g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWKGR](/stripes/gwkgr/).
+
+Part of the [Port Moresby City](/tartans/p/po/port-moresby-city/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

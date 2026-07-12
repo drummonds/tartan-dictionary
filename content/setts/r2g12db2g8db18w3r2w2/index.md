@@ -6,6 +6,8 @@ This is the **Albuquerque, City of** sett — one scale-free proportion (`r2g12d
 [RGBGBWRW](/stripes/rgbgbwrw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Albuquerque, City of](/tartans/a/al/albuquerque-city-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

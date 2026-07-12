@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Polaris"
+  url: "/tartans/p/po/polaris-2/"
+- name: "Polaris"
   url: "/setts/db6k1db1k1db1k7g6y1g1dbi1g1y1g6k7db7k1db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db6k1db1k1db1k7g6y1g1dbi1g1y1g6k7db7k1db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGGGBGGGKBKB](/stripes/bkbkbkgggbgggkbkb/).
+
+Part of the [Polaris](/tartans/p/po/polaris-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 

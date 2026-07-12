@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Limerick County Crest"
+  url: "/tartans/l/li/limerick-county-crest/"
 - name: "Limerick County Crest (Fashion)"
   url: "/setts/w12k3g50w3k13ly6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w12k3g50w3k13ly6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKGWKY](/stripes/wkgwky/).
+
+Part of the [Limerick County Crest](/tartans/l/li/limerick-county-crest/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

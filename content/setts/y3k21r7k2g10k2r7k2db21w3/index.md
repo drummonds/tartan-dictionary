@@ -6,7 +6,7 @@ This is the **Tantallon** sett — one scale-free proportion (`y3k21r7k2g10k2r7k
 [GKRKGKRKBW](/stripes/gkrkgkrkbw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
-Part of the [Tantallon](/tartans/tantallon/) tartan — the named design grouping this sett with its kin.
+Part of the [Tantallon](/tartans/t/ta/tantallon/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

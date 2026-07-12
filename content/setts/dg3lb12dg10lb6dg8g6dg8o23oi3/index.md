@@ -6,6 +6,8 @@ This is the **Lawrence's Seven Pillars of Khaki** sett — one scale-free propor
 [GWGWGGGRR](/stripes/gwgwgggrr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Lawrence's Seven Pillars of Khaki](/tartans/l/la/lawrence-s-seven-pillars-of-khaki-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

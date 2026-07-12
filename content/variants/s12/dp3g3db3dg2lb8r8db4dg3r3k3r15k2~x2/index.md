@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glengaela"
+  url: "/tartans/g/gl/glengaela/"
 - name: "Glengaela (Fashion)"
   url: "/setts/dp3g3db3dg2lb8r8db4dg3r3k3r15k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp3g3db3dg2lb8r8db4dg3r3k3r15k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGWRBGRKRK](/stripes/bgbgwrbgrkrk/).
+
+Part of the [Glengaela](/tartans/g/gl/glengaela/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

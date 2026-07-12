@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Glasgow, Rock and Wheel"
+  url: "/tartans/g/gl/glasgow-rock-and-wheel/"
+- name: "Glasgow, Rock and Wheel"
   url: "/setts/g25dr4db24dr21g25dr4db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g25dr4db24dr21g25dr4db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBBBG](/stripes/bbgbbbg/).
+
+Part of the [Glasgow, Rock and Wheel](/tartans/g/gl/glasgow-rock-and-wheel/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 

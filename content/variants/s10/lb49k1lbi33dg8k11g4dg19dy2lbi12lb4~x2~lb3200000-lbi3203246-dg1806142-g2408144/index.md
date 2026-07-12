@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Alaska"
+  url: "/tartans/s/st/state-seal-of-alaska/"
 - name: "State Seal of Alaska (Fashion)"
   url: "/setts/lb49k1lbi33dg8k11g4dg19dy2lbi12lb4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb49k1lbi33dg8k11g4dg19dy2lbi12lb4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWGKGGGWW](/stripes/wkwgkgggww/).
+
+Part of the [State Seal of Alaska](/tartans/s/st/state-seal-of-alaska/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

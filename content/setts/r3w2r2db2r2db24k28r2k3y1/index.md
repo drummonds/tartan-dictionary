@@ -6,6 +6,8 @@ This is the **Locky** sett — one scale-free proportion (`r3w2r2db2r2db24k28r2k
 [GKRKBRBRWR](/stripes/gkrkbrbrwr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Locky](/tartans/l/lo/locky/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

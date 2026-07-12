@@ -6,6 +6,8 @@ This is the **Steve Walls Commemorative** sett — one scale-free proportion (`r
 [RGBGBRBGBW](/stripes/rgbgbrbgbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Steve Walls](/tartans/s/st/steve-walls/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

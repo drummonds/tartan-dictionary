@@ -6,6 +6,8 @@ This is the **MacKenzie Hunting (Brown)** sett — one scale-free proportion (`l
 [RKYKRKWKRKYKYKY](/stripes/rkykrkwkrkykyky/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [MacKenzie Brown Hunting](/tartans/m/ma/mackenzie-brown-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

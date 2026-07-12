@@ -6,6 +6,8 @@ This is the **Scottish North American Business Council** sett — one scale-free
 [BRBBRBBBRBBBRBBRBW](/stripes/brbbrbbbrbbbrbbrbw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Scottish North American Business Council](/tartans/s/sc/scottish-north-american-business-council/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

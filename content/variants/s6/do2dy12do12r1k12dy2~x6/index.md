@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ferguson"
+  url: "/clan/ferguson/"
+- name: "Ferguson Britt"
+  url: "/tartans/f/fe/ferguson-britt-3/"
 - name: "Ferguson Britt (Corporate)"
   url: "/setts/do2dy12do12r1k12dy2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/do2dy12do12r1k12dy2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRKG](/stripes/bgbrkg/).
+
+Part of the [Ferguson Britt](/tartans/f/fe/ferguson-britt-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

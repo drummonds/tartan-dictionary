@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Unidentified Ross-shire"
-  url: "/tartans/unidentified-ross-shire/"
+  url: "/tartans/u/un/unidentified-ross-shire/"
 - name: "Unidentified Ross-shire"
   url: "/setts/w75dy1r18g9dy1r27w2r5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w75dy1r18g9dy1r27w2r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRGGRGW](/stripes/rwrggrgw/).
 
-Part of the [Unidentified Ross-shire](/tartans/unidentified-ross-shire/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Unidentified Ross-shire](/tartans/u/un/unidentified-ross-shire/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

@@ -10,7 +10,7 @@ crumbs:
 - name: "Stewart of Bute"
   url: "/families/stewart-of-bute/"
 - name: "Stewart of Bute"
-  url: "/tartans/stewart-of-bute/"
+  url: "/tartans/s/st/stewart-of-bute/"
 - name: "Stewart of Bute"
   url: "/setts/dg34k2t2k2dg34r3k34r2k34r3t33k2dg2k2dg2k2t33/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg34k2t2k2dg34r3k34r2k34r3t33k2dg2k2dg2k2t33/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKGKGKBRKRKRGKBKGKBKGRKRKRBKGKGK](/stripes/bkgkgkbrkrkrgkbkgkbkgrkrkrbkgkgk/).
 
-Part of the [Stewart of Bute](/tartans/stewart-of-bute/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Stewart of Bute](/tartans/s/st/stewart-of-bute/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 

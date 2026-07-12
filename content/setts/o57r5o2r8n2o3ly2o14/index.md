@@ -6,6 +6,8 @@ This is the **Cairngorms National Park** sett — one scale-free proportion (`o5
 [RRRRBRYR](/stripes/rrrrbryr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Cairngorms National Park](/tartans/c/ca/cairngorms-national-park/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

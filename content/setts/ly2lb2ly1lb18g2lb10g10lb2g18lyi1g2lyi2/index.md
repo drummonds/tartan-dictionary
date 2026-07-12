@@ -6,6 +6,8 @@ This is the **Yarmouth NS (District)** sett — one scale-free proportion (`ly2l
 [YGYGWGWGWYWY](/stripes/ygygwgwgwywy/). It is recorded as a single **variant**, below.
 First attested **1963**.
 
+Part of the [Yarmouth NS](/tartans/y/ya/yarmouth-ns/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

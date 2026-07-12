@@ -6,7 +6,7 @@ This is the **Ayrton Family Tartan** sett — one scale-free proportion (`r4k2g2
 [GKBKGKWKGKR](/stripes/gkbkgkwkgkr/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Ayrton](/tartans/ayrton-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Ayrton](/tartans/a/ay/ayrton-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

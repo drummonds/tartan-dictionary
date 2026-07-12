@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Kinloch"
+  url: "/clan/kinloch/"
+- name: "Kinloch Anderson Dress"
+  url: "/tartans/k/ki/kinloch-anderson-dress-2/"
 - name: "Kinloch Anderson Old Dress"
   url: "/setts/dr4y14lb2do4lb2k6y3k6db13dr2db4dr4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr4y14lb2do4lb2k6y3k6db13dr2db4dr4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBKGKWBWGB](/stripes/bbbbkgkwbwgb/).
+
+Part of the [Kinloch Anderson Dress](/tartans/k/ki/kinloch-anderson-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

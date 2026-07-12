@@ -6,6 +6,8 @@ This is the **Scottish Cultural Society** sett — one scale-free proportion (`g
 [BGKYKBWBWBWBKYKG](/stripes/bgkykbwbwbwbkykg/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Scottish Cultural Society](/tartans/s/sc/scottish-cultural-society/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

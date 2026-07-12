@@ -6,6 +6,8 @@ This is the **Brighton Mac Dermott (Fashion)** sett — one scale-free proportio
 [BYKRGYRBK](/stripes/bykrgyrbk/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Brighton Mac Dermott](/tartans/b/br/brighton-mac-dermott/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

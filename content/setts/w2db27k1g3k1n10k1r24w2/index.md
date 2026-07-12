@@ -6,6 +6,8 @@ This is the **Scotland's Charity Air Ambulance** sett — one scale-free proport
 [WBKGKBKRW](/stripes/wbkgkbkrw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Scotland's Charity Air Ambulance](/tartans/s/sc/scotland-s-charity-air-ambulance/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

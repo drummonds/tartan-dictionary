@@ -6,6 +6,8 @@ This is the **State Seal of Delaware (Fashion)** sett — one scale-free proport
 [RYWGYGYWBW](/stripes/rywgygywbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [State Seal of Delaware](/tartans/s/st/state-seal-of-delaware/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Sweetheart, The** sett — one scale-free proportion (`dr6n5dr23k2
 [BBBKRKRKBRKR](/stripes/bbbkrkrkbrkr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Sweetheart, The](/tartans/s/sw/sweetheart-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

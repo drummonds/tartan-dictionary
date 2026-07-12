@@ -6,6 +6,8 @@ This is the **Loughheed (Personal)** sett — one scale-free proportion (`dr3lo3
 [BYBYBYB](/stripes/bybybyb/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Loughheed](/tartans/l/lo/loughheed/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

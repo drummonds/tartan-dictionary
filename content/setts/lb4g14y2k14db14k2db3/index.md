@@ -6,7 +6,7 @@ This is the **Hogarth of Firhill (Clan)** sett — one scale-free proportion (`l
 [BKBKGGW](/stripes/bkbkggw/). It is recorded as a single **variant**, below.
 First attested **~1971**.
 
-Part of the [Hogarth of Firhill](/tartans/hogarth-of-firhill/) tartan — the named design grouping this sett with its kin.
+Part of the [Hogarth of Firhill](/tartans/h/ho/hogarth-of-firhill/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

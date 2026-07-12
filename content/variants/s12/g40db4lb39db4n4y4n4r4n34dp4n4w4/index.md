@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Glasgow Tattoo"
+  url: "/tartans/g/gl/glasgow-tattoo/"
+- name: "Glasgow Tattoo"
   url: "/setts/g40db4lb39db4n4y4n4r4n34dp4n4w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g40db4lb39db4n4y4n4r4n34dp4n4w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWBBGBRBBBW](/stripes/gbwbbgbrbbbw/).
+
+Part of the [Glasgow Tattoo](/tartans/g/gl/glasgow-tattoo/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

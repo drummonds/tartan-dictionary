@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Merric Dark Camel.."
+  url: "/tartans/m/me/merric-dark-camel/"
 - name: "Merric Dark Camel.. Trade Tartan"
   url: "/setts/r2w8k14dy25w2k2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2w8k14dy25w2k2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKGWKW](/stripes/rwkgwkw/).
+
+Part of the [Merric Dark Camel..](/tartans/m/me/merric-dark-camel/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

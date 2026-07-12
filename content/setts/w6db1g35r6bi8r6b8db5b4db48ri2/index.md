@@ -6,6 +6,8 @@ This is the **Coldstream** sett — one scale-free proportion (`w6db1g35r6bi8r6b
 [RBBBBRBRGBW](/stripes/rbbbbrbrgbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Coldstream](/tartans/c/co/coldstream-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

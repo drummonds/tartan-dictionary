@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Northcroft"
+  url: "/tartans/n/no/northcroft/"
 - name: "Northcroft (Personal)"
   url: "/setts/g24r4g3k14g5r2g10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g24r4g3k14g5r2g10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGKGRG](/stripes/grgkgrg/).
+
+Part of the [Northcroft](/tartans/n/no/northcroft/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

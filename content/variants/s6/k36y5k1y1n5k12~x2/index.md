@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Merola"
+  url: "/tartans/m/me/merola/"
 - name: "Merola (2016)"
   url: "/setts/k36y5k1y1n5k12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k36y5k1y1n5k12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGKGK](/stripes/kbgkgk/).
+
+Part of the [Merola](/tartans/m/me/merola/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

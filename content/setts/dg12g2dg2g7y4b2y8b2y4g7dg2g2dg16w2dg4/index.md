@@ -6,7 +6,7 @@ This is the **Confessore** sett — one scale-free proportion (`dg12g2dg2g7y4b2y
 [GGGGGBGBGGGGGWG](/stripes/gggggbgbgggggwg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Confessore](/tartans/confessore/) tartan — the named design grouping this sett with its kin.
+Part of the [Confessore](/tartans/c/co/confessore/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

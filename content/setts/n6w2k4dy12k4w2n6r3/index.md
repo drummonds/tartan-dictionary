@@ -6,6 +6,8 @@ This is the **Strathblane** sett — one scale-free proportion (`n6w2k4dy12k4w2n
 [BWKGKWBR](/stripes/bwkgkwbr/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Strathblane](/tartans/s/st/strathblane/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

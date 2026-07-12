@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Police College Tulliallan"
+  url: "/tartans/p/po/police-college-tulliallan/"
+- name: "Police College Tulliallan"
   url: "/setts/db2k4kii36g1ki34db4w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2k4kii36g1ki34db4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKKGKBW](/stripes/bkkgkbw/).
+
+Part of the [Police College Tulliallan](/tartans/p/po/police-college-tulliallan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

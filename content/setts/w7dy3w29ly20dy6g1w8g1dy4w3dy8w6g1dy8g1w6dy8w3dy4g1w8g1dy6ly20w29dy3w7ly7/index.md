@@ -6,6 +6,8 @@ This is the **Isle of Skye (Dalgety)** sett — one scale-free proportion (`w7dy
 [WGWYGGWGGWGWGGGWGWGGWGGYWGWY](/stripes/wgwyggwggwgwgggwgwggwggywgwy/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Isle of Skye](/tartans/i/is/isle-of-skye-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

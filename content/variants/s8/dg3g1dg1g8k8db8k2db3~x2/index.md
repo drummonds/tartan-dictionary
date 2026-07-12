@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Baird"
+  url: "/tartans/b/ba/baird/"
+- name: "Baird"
   url: "/setts/dg3g1dg1g8k8db8k2db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg3g1dg1g8k8db8k2db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKGGGG](/stripes/bkbkgggg/).
+
+Part of the [Baird](/tartans/b/ba/baird/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

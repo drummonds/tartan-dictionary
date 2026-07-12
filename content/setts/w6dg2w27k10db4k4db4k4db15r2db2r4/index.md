@@ -6,6 +6,8 @@ This is the **Sutherland Dress, Old (Dance)** sett — one scale-free proportion
 [RBRBKBKBKWGW](/stripes/rbrbkbkbkwgw/). It is recorded as a single **variant**, below.
 First attested **1980**.
 
+Part of the [Sutherland Dress, Old](/tartans/s/su/sutherland-dress-old/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

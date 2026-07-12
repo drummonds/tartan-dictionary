@@ -6,6 +6,8 @@ This is the **Scottish Heritage Society (Corporate** sett — one scale-free pro
 [BBKBGKRKGBKW](/stripes/bbkbgkrkgbkw/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
+Part of the [Scottish Heritage Society (Corporate](/tartans/s/sc/scottish-heritage-society-corporate/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

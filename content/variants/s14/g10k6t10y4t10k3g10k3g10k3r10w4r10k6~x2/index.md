@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scandinavian"
+  url: "/tartans/s/sc/scandinavian/"
+- name: "Scandinavian"
   url: "/setts/g10k6t10y4t10k3g10k3g10k3r10w4r10k6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g10k6t10y4t10k3g10k3g10k3r10w4r10k6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBGBKGKGKRWRK](/stripes/gkbgbkgkgkrwrk/).
+
+Part of the [Scandinavian](/tartans/s/sc/scandinavian/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

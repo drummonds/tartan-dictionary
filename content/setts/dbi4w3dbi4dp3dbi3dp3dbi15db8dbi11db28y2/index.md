@@ -6,6 +6,8 @@ This is the **Kilmarnock F.C. (Sports)** sett — one scale-free proportion (`db
 [BWBBBBBBBBG](/stripes/bwbbbbbbbbg/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Kilmarnock F.C.](/tartans/k/ki/kilmarnock-f-c/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

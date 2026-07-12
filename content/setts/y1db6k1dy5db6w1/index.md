@@ -7,6 +7,8 @@ This is the **Ancient Atlantic** sett — one scale-free proportion (`y1db6k1dy5
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1964**.
 
+Part of the [Ancient Atlantic](/tartans/a/an/ancient-atlantic/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

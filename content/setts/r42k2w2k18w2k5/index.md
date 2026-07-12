@@ -6,6 +6,8 @@ This is the **Forget Family (Red)** sett — one scale-free proportion (`r42k2w2
 [KWKWKR](/stripes/kwkwkr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Forget](/tartans/f/fo/forget/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

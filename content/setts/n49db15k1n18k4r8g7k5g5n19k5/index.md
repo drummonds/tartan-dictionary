@@ -6,6 +6,8 @@ This is the **State Seal of Virginia (Fashion)** sett — one scale-free proport
 [BBKBKRGKGBK](/stripes/bbkbkrgkgbk/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [State Seal of Virginia](/tartans/s/st/state-seal-of-virginia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

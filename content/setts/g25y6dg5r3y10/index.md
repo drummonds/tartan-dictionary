@@ -6,6 +6,8 @@ This is the **Pendlebury, Andrew (Personal)** sett — one scale-free proportion
 [GGGRG](/stripes/gggrg/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Pendlebury, Andrew](/tartans/p/pe/pendlebury-andrew/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

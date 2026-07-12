@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Gwyn"
+  url: "/clan/gwyn/"
+- name: "Gwyn of Wales"
+  url: "/families/gwyn-of-wales/"
+- name: "Gwyn of Wales"
+  url: "/tartans/g/gw/gwyn-of-wales/"
 - name: "Gwyn of Wales"
   url: "/setts/k3dr30k2dr4k2dr30k3db30k35w2k35db30k3dr30k2dr4k2dr30k3w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3dr30k2dr4k2dr30k3db30k35w2k35db30k3dr30k2dr4k2dr30k3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBKBKWKBKBKBKBKW](/stripes/kbkbkbkbkwkbkbkbkbkw/).
+
+Part of the [Gwyn of Wales](/tartans/g/gw/gwyn-of-wales/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

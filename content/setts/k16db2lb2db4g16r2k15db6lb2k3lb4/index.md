@@ -6,6 +6,8 @@ This is the **Wilson's No.060** sett — one scale-free proportion (`k16db2lb2db
 [KBWBGRKBWKW](/stripes/kbwbgrkbwkw/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Scottish Tartans Authority](/tartans/s/sc/scottish-tartans-authority/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

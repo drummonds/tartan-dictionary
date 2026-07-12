@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Illinois State"
+  url: "/tartans/i/il/illinois-state/"
 - name: "Illinois St.Andrews Society"
   url: "/setts/db6dr3lb24db12lr6lb6dr2lb6lr6lb12db2dr2db6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db6dr3lb24db12lr6lb6dr2lb6lr6lb12db2dr2db6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBYWBWYWBBBBBWYWBWYBWB](/stripes/bbwbywbwywbbbbbwywbwybwb/).
+
+Part of the [Illinois State](/tartans/i/il/illinois-state/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 

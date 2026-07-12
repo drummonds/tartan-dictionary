@@ -6,6 +6,8 @@ This is the **Gray, Sir John Hamilton (Commem)** sett — one scale-free proport
 [YBRBBYYYBY](/stripes/ybrbbyyyby/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Gray, Sir John Hamilton](/tartans/g/gr/gray-sir-john-hamilton/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

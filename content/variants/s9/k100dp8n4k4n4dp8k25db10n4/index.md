@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "CI"
+  url: "/tartans/c/ci/ci/"
 - name: "CI (Corporate)"
   url: "/setts/k100dp8n4k4n4dp8k25db10n4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k100dp8n4k4n4dp8k25db10n4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBBKBBK](/stripes/bbkbbkbbk/).
+
+Part of the [CI](/tartans/c/ci/ci/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

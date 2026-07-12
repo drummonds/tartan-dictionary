@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hong Kong St Andrew's Society"
+  url: "/tartans/h/ho/hong-kong-st-andrew-s-society/"
+- name: "Hong Kong St Andrew's Society"
   url: "/setts/db75k4r25db6k6w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db75k4r25db6k6w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRBKW](/stripes/bkrbkw/).
+
+Part of the [Hong Kong St Andrew's Society](/tartans/h/ho/hong-kong-st-andrew-s-society/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

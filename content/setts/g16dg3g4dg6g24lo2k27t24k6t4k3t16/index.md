@@ -6,6 +6,8 @@ This is the **Macallan (1980s) (Corporate)** sett — one scale-free proportion 
 [BKBKBKYGGGGG](/stripes/bkbkbkyggggg/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Macallan](/tartans/m/ma/macallan-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

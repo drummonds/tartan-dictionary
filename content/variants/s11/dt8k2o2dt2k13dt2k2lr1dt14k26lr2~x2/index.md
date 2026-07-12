@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pride of Scotland Dark"
+  url: "/tartans/p/pr/pride-of-scotland-dark/"
 - name: "Pride of Scotland, Dark (Fashion)"
   url: "/setts/dt8k2o2dt2k13dt2k2lr1dt14k26lr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt8k2o2dt2k13dt2k2lr1dt14k26lr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRBKBKYBKY](/stripes/bkrbkbkybky/).
+
+Part of the [Pride of Scotland Dark](/tartans/p/pr/pride-of-scotland-dark/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

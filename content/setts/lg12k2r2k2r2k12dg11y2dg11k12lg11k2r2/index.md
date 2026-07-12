@@ -6,6 +6,8 @@ This is the **92nd Regiment Drummers' Plaid (Mil.)** sett — one scale-free pro
 [RKYKGGGKRKRKY](/stripes/rkykgggkrkrky/). It is recorded as a single **variant**, below.
 First attested **1795**.
 
+Part of the [92nd Regiment Drummers'](/tartans/0-9/0-9/92nd-regiment-drummers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

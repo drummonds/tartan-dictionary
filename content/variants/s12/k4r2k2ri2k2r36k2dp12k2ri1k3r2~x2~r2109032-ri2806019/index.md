@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Red Hatters United"
+  url: "/tartans/r/re/red-hatters-united/"
+- name: "Red Hatters United"
   url: "/setts/k4r2k2ri2k2r36k2dp12k2ri1k3r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4r2k2ri2k2r36k2dp12k2ri1k3r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRKRKBKRKR](/stripes/krkrkrkbkrkr/).
+
+Part of the [Red Hatters United](/tartans/r/re/red-hatters-united/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

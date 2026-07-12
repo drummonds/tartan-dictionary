@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Smoke Showing"
-  url: "/tartans/smoke-showing/"
+  url: "/tartans/s/sm/smoke-showing/"
 - name: "Smoke Showing (UFES)"
   url: "/setts/g3n5k4n33g12k4w2n18ly3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g3n5k4n33g12k4w2n18ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKBGKWBY](/stripes/gbkbgkwby/).
 
-Part of the [Smoke Showing](/tartans/smoke-showing/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Smoke Showing](/tartans/s/sm/smoke-showing/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

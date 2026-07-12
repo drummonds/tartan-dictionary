@@ -6,6 +6,8 @@ This is the **Glenlea** sett — one scale-free proportion (`dt8n3lb3n3o28lb4o8n
 [BBWBRWRBBBBBBGBGBGG](/stripes/bbwbrwrbbbbbbgbgbgg/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Glenlea](/tartans/g/gl/glenlea/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

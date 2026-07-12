@@ -6,6 +6,8 @@ This is the **MIT1951** sett — one scale-free proportion (`r24dr5lr7dt2lr4dt14
 [RBYBYBRBRW](/stripes/rbybybrbrw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [MIT1951](/tartans/m/mi/mit1951/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

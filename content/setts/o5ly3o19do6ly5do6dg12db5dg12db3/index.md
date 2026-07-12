@@ -6,6 +6,8 @@ This is the **Roscommon, County** sett — one scale-free proportion (`o5ly3o19d
 [BGBGBYBRYR](/stripes/bgbgbybryr/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Roscommon, County](/tartans/r/ro/roscommon-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

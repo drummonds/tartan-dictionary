@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Schneidersohne Centenary"
+  url: "/tartans/s/sc/schneidersohne-centenary-2/"
 - name: "Schneidersohne Centenary (Corporate)"
   url: "/setts/k3db5r5k3db5k3r5k3g20k3db10k3r5w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3db5r5k3db5k3r5k3g20k3db10k3r5w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBRKBKRKGKBKRW](/stripes/kbrkbkrkgkbkrw/).
+
+Part of the [Schneidersohne Centenary](/tartans/s/sc/schneidersohne-centenary-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

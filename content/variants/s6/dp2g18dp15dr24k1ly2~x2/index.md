@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Miller, Reverend Ian"
+  url: "/tartans/m/mi/miller-reverend-ian/"
 - name: "Miller, Reverend Ian (Personal"
   url: "/setts/dp2g18dp15dr24k1ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp2g18dp15dr24k1ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBKY](/stripes/bgbbky/).
+
+Part of the [Miller, Reverend Ian](/tartans/m/mi/miller-reverend-ian/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

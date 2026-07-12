@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Celtic 2005 Sports"
+  url: "/tartans/c/ce/celtic-2005-sports/"
 - name: "Celtic Football Club (2005)"
   url: "/setts/dg6dgi3dg22k2dg4k14dgi5k3lyi5k3dgi20k4ly4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg6dgi3dg22k2dg4k14dgi5k3lyi5k3dgi20k4ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGKGKGKYKGKY](/stripes/gggkgkgkykgky/).
+
+Part of the [Celtic 2005 Sports](/tartans/c/ce/celtic-2005-sports/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -6,6 +6,8 @@ This is the **Varrie Commemorative Tartan** sett — one scale-free proportion (
 [GWBW](/stripes/gwbw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Varrie Commemorative](/tartans/v/va/varrie-commemorative/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

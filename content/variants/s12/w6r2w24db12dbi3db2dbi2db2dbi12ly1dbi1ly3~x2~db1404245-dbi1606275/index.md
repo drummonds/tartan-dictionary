@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Payeur, Francois"
+  url: "/tartans/p/pa/payeur-francois/"
 - name: "Payeur, Francois (Personal)"
   url: "/setts/w6r2w24db12dbi3db2dbi2db2dbi12ly1dbi1ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w6r2w24db12dbi3db2dbi2db2dbi12ly1dbi1ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRWBBBBBBYBY](/stripes/wrwbbbbbbyby/).
+
+Part of the [Payeur, Francois](/tartans/p/pa/payeur-francois/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

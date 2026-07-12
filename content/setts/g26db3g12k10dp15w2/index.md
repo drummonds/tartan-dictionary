@@ -6,6 +6,8 @@ This is the **Lossiemouth/Hersbruck** sett — one scale-free proportion (`g26db
 [GBGKBW](/stripes/gbgkbw/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Lossiemouth/Hersbruck](/tartans/l/lo/lossiemouth-hersbruck/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

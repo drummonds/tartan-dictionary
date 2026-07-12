@@ -6,7 +6,7 @@ This is the **MacCaughan or MacEachain Clan Tartan** sett — one scale-free pro
 [RGKBKR](/stripes/rgkbkr/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
-Part of the [MacCaughan, or MacEachain](/tartans/maccaughan-or-maceachain/) tartan — the named design grouping this sett with its kin.
+Part of the [MacCaughan, or MacEachain](/tartans/m/ma/maccaughan-or-maceachain/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

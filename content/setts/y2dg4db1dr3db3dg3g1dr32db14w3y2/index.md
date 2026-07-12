@@ -6,6 +6,8 @@ This is the **Banause-Zunft zu Olte** sett — one scale-free proportion (`y2dg4
 [GGBBBGGBBWG](/stripes/ggbbbggbbwg/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Banause-Zunft zu Olte](/tartans/b/ba/banause-zunft-zu-olte/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

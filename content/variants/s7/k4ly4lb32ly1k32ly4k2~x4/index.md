@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gleneagles Gold"
+  url: "/tartans/g/gl/gleneagles-gold/"
 - name: "Gleneagles Gold (Dalgleish)"
   url: "/setts/k4ly4lb32ly1k32ly4k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4ly4lb32ly1k32ly4k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYKYWYK](/stripes/kykywyk/).
+
+Part of the [Gleneagles Gold](/tartans/g/gl/gleneagles-gold/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

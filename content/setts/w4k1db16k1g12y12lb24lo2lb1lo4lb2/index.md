@@ -6,6 +6,8 @@ This is the **Rwanda** sett — one scale-free proportion (`w4k1db16k1g12y12lb24
 [WKBKGGWYWYW](/stripes/wkbkggwywyw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Rwanda](/tartans/r/rw/rwanda/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

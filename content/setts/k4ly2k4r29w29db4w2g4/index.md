@@ -6,7 +6,7 @@ This is the **Clan MacLeod Societies of Canada** sett — one scale-free proport
 [GWBWRKYK](/stripes/gwbwrkyk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Clan MacLeod Societies of Canada](/tartans/clan-macleod-societies-of-canada/) tartan — the named design grouping this sett with its kin.
+Part of the [Clan MacLeod Societies of Canada](/tartans/c/cl/clan-macleod-societies-of-canada/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

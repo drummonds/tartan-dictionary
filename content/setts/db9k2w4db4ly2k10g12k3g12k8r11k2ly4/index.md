@@ -6,7 +6,7 @@ This is the **Watt (Personal)** sett — one scale-free proportion (`db9k2w4db4l
 [BKWBYKGKGKRKY](/stripes/bkwbykgkgkrky/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
-Part of the [Watt](/tartans/watt/) tartan — the named design grouping this sett with its kin.
+Part of the [Watt](/tartans/w/wa/watt/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Ben Murad (Personal)** sett — one scale-free proportion (`dg18dr
 [GBGBGBGBGGGKGBGBGY](/stripes/gbgbgbgbgggkgbgbgy/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Ben Murad](/tartans/b/be/ben-murad-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

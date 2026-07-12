@@ -6,7 +6,7 @@ This is the **Dollar Academy Corporate Tartan** sett — one scale-free proporti
 [BKBKBW](/stripes/bkbkbw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Dollar Academy](/tartans/dollar-academy-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Dollar Academy](/tartans/d/do/dollar-academy-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

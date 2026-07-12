@@ -6,6 +6,8 @@ This is the **MacKillen** sett — one scale-free proportion (`k4ly15dg5k3dg7k3d
 [GRGKGKGYK](/stripes/grgkgkgyk/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [MacKillen](/tartans/m/ma/mackillen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

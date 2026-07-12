@@ -6,6 +6,8 @@ This is the **Westwood Red Anderson (Fashion)** sett — one scale-free proporti
 [RBRBRRRKYKYKWKRRKRRR](/stripes/rbrbrrrkykykwkrrkrrr/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Westwood Red Anderson](/tartans/w/we/westwood-red-anderson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

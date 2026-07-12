@@ -6,6 +6,8 @@ This is the **Druid** sett — one scale-free proportion (`db3n2db3y2w4y2k8y2w4y
 [BBBGWGKGWGRGWGWG](/stripes/bbbgwgkgwgrgwgwg/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Druid](/tartans/d/dr/druid/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

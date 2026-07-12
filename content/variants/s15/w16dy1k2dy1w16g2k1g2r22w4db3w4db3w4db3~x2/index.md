@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Salaberry-de-Valleyfield Ceremonial"
+  url: "/tartans/s/sa/salaberry-de-valleyfield-ceremonial/"
+- name: "Salaberry-de-Valleyfield Ceremonial"
   url: "/setts/w16dy1k2dy1w16g2k1g2r22w4db3w4db3w4db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w16dy1k2dy1w16g2k1g2r22w4db3w4db3w4db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBWRGKGWGKGW](/stripes/bwbwbwrgkgwgkgw/).
+
+Part of the [Salaberry-de-Valleyfield Ceremonial](/tartans/s/sa/salaberry-de-valleyfield-ceremonial/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

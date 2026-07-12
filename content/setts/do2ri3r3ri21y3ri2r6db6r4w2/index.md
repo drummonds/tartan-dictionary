@@ -6,7 +6,7 @@ This is the **Hello Kitty (Corporate)** sett — one scale-free proportion (`do2
 [BRRRGRRBRW](/stripes/brrrgrrbrw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
-Part of the [Hello Kitty](/tartans/hello-kitty-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Hello Kitty](/tartans/h/he/hello-kitty-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

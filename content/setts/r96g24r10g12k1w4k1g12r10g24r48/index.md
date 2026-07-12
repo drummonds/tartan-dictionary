@@ -6,6 +6,8 @@ This is the **MacGregor** sett — one scale-free proportion (`r96g24r10g12k1w4k
 [RGRGKWKGRGR](/stripes/rgrgkwkgrgr/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
+Part of the [MacGregor](/tartans/m/ma/macgregor-7/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

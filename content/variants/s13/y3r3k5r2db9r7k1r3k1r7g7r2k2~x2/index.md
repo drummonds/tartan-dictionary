@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Albany"
+  url: "/tartans/a/al/albany/"
 - name: "Prince Charles Edward (Edinburgh)"
   url: "/setts/y3r3k5r2db9r7k1r3k1r7g7r2k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y3r3k5r2db9r7k1r3k1r7g7r2k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKRBRKRKRGRK](/stripes/grkrbrkrkrgrk/).
+
+Part of the [Albany](/tartans/a/al/albany/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -6,7 +6,7 @@ This is the **Gleneil (Spoof)** sett — one scale-free proportion (`k2r2k1r18g2
 [KRKRGKGY](/stripes/krkrgkgy/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
-Part of the [Gleneil](/tartans/gleneil/) tartan — the named design grouping this sett with its kin.
+Part of the [Gleneil](/tartans/g/gl/gleneil/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

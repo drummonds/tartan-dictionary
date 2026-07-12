@@ -6,7 +6,7 @@ This is the **Seaford House** sett — one scale-free proportion (`b3db3b12db26g
 [BBBBGRGBW](/stripes/bbbbgrgbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Seaford House](/tartans/seaford-house/) tartan — the named design grouping this sett with its kin.
+Part of the [Seaford House](/tartans/s/se/seaford-house/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

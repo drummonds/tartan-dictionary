@@ -6,7 +6,7 @@ This is the **MacCoul** sett — one scale-free proportion (`r12ri2r2dg2r4dg2r4d
 [RRBRGRGRRRBRGRGRRR](/stripes/rrbrgrgrrrbrgrgrrr/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
-Part of the [MacCoul](/tartans/maccoul/) tartan — the named design grouping this sett with its kin.
+Part of the [MacCoul](/tartans/m/ma/maccoul/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cub Scouts of America"
+  url: "/tartans/c/cu/cub-scouts-of-america/"
+- name: "Cub Scouts of America"
   url: "/setts/g10db2dr8lo2g5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g10db2dr8lo2g5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBYG](/stripes/gbbyg/).
+
+Part of the [Cub Scouts of America](/tartans/c/cu/cub-scouts-of-america/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

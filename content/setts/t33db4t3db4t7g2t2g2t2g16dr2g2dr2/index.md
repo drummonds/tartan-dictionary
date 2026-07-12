@@ -6,6 +6,8 @@ This is the **International Cricket Council** sett — one scale-free proportion
 [BBBBBGBGBGBGB](/stripes/bbbbbgbgbgbgb/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [International Cricket Council](/tartans/i/in/international-cricket-council/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

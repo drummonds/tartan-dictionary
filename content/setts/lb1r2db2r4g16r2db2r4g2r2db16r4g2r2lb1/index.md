@@ -6,6 +6,8 @@ This is the **MacIntyre of Whitehouse (Clan?)** sett — one scale-free proporti
 [WRBRGRBRGRBRGRW](/stripes/wrbrgrbrgrbrgrw/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [MacIntyre of Whitehouse](/tartans/m/ma/macintyre-of-whitehouse/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

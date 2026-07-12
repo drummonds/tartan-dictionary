@@ -7,6 +7,8 @@ This is the **BABC** sett — one scale-free proportion (`r3db4w2db33dbi32db2r4w
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2005**.
 
+Part of the [BABC](/tartans/b/ba/babc/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

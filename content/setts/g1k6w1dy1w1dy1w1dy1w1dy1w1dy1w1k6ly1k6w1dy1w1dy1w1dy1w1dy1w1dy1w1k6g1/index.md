@@ -6,6 +6,8 @@ This is the **Alliance of Border Scots** sett — one scale-free proportion (`g1
 [GKWGWGWGWGWGWKYKWGWGWGWGWGWKG](/stripes/gkwgwgwgwgwgwkykwgwgwgwgwgwkg/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [Alliance of Border Scots](/tartans/a/al/alliance-of-border-scots/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

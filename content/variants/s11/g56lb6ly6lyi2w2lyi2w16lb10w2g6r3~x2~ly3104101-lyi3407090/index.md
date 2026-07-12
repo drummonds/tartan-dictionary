@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McAleavy"
+  url: "/tartans/m/mc/mcaleavy-2/"
 - name: "McAleavy (2014)"
   url: "/setts/g56lb6ly6lyi2w2lyi2w16lb10w2g6r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g56lb6ly6lyi2w2lyi2w16lb10w2g6r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWYYWYWWWGR](/stripes/gwyywywwwgr/).
+
+Part of the [McAleavy](/tartans/m/mc/mcaleavy-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

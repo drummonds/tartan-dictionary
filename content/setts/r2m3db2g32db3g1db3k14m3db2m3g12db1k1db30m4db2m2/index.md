@@ -6,6 +6,8 @@ This is the **Cooper/Couper** sett — one scale-free proportion (`r2m3db2g32db3
 [RBRBKBGRBRKBGBGBRR](/stripes/rbrbkbgrbrkbgbgbrr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Cooper/Couper](/tartans/c/co/cooper-couper/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

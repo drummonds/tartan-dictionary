@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lebrun"
+  url: "/tartans/l/le/lebrun/"
+- name: "Lebrun"
   url: "/setts/lr40k11do8lr2do8k6lr2k16lr1k16/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lr40k11do8lr2do8k6lr2k16lr1k16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYKYKBYBKY](/stripes/kykykbybky/).
+
+Part of the [Lebrun](/tartans/l/le/lebrun/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

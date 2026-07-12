@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacDonnald"
+  url: "/clan/macdonnald/"
+- name: "MacDonnald of ye Ylis"
+  url: "/families/macdonnald-of-ye-ylis/"
+- name: "MacDonnald of ye Ylis"
+  url: "/tartans/m/ma/macdonnald-of-ye-ylis/"
 - name: "MacDonnald of ye Ylis"
   url: "/setts/w4g30k1g1k1g3k12db10r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4g30k1g1k1g3k12db10r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKGKGKGW](/stripes/rbkgkgkgw/).
+
+Part of the [MacDonnald of ye Ylis](/tartans/m/ma/macdonnald-of-ye-ylis/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

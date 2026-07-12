@@ -6,6 +6,8 @@ This is the **Wilson's No.149** sett — one scale-free proportion (`k8w2g11lb2k
 [BKBGWKWGWKWGWKWGBKBG](/stripes/bkbgwkwgwkwgwkwgbkbg/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Wilson's No.149](/tartans/w/wi/wilson-s-no-149/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

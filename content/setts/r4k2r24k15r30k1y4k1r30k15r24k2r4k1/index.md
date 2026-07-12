@@ -6,6 +6,8 @@ This is the **Oilmens** sett — one scale-free proportion (`r4k2r24k15r30k1y4k1
 [KRKRKRKGKRKRKR](/stripes/krkrkrkgkrkrkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Oilmens](/tartans/o/oi/oilmens-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

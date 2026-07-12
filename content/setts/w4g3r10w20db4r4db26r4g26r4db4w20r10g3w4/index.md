@@ -6,7 +6,7 @@ This is the **Robertson Dress Hunting Clan Tartan** sett — one scale-free prop
 [WGRWBRBRGRBWRGW](/stripes/wgrwbrbrgrbwrgw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Robertson dress Hunting](/tartans/robertson-dress-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Robertson dress Hunting](/tartans/r/ro/robertson-dress-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

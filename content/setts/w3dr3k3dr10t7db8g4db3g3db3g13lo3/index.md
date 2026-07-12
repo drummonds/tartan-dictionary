@@ -6,6 +6,8 @@ This is the **Chattahoochee River** sett — one scale-free proportion (`w3dr3k3
 [WBKBBBGBGBGY](/stripes/wbkbbbgbgbgy/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Chattahoochee River](/tartans/c/ch/chattahoochee-river/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Denholm (Fashion)** sett — one scale-free proportion (`k5g20k18d
 [KGKBR](/stripes/kgkbr/). It is recorded as a single **variant**, below.
 First attested **1847**.
 
+Part of the [Denholm](/tartans/d/de/denholm/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

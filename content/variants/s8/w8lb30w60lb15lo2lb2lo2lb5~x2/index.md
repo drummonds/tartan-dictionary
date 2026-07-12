@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Amazon"
+  url: "/tartans/a/am/amazon/"
+- name: "Amazon"
   url: "/setts/w8lb30w60lb15lo2lb2lo2lb5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w8lb30w60lb15lo2lb2lo2lb5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WWWWYWYW](/stripes/wwwwywyw/).
+
+Part of the [Amazon](/tartans/a/am/amazon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

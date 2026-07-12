@@ -6,6 +6,8 @@ This is the **California Riverside, University of (Corporate)** sett — one sca
 [BKBKBWBWGK](/stripes/bkbkbwbwgk/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [California Riverside, University of](/tartans/c/ca/california-riverside-university-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

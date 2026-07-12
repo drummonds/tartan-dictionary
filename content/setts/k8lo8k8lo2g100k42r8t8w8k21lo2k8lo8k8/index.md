@@ -6,7 +6,7 @@ This is the **Tarassow Russian Scout** sett — one scale-free proportion (`k8lo
 [KYKYGKRBWKYKYK](/stripes/kykygkrbwkykyk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Tarassow Russian Scout](/tartans/tarassow-russian-scout/) tartan — the named design grouping this sett with its kin.
+Part of the [Tarassow Russian Scout](/tartans/t/ta/tarassow-russian-scout/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

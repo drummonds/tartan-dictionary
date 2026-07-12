@@ -6,6 +6,8 @@ This is the **Bush (Artefact)** sett — one scale-free proportion (`lb12k8lb12w
 [WKWWYWYWYWYWYWY](/stripes/wkwwywywywywywy/). It is recorded as a single **variant**, below.
 First attested **~2010**.
 
+Part of the [Bush](/tartans/b/bu/bush/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

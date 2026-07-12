@@ -6,6 +6,8 @@ This is the **Baru** sett — one scale-free proportion (`dp23dg8dp23dg35w5`), c
 [BGBGW](/stripes/bgbgw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Baru](/tartans/b/ba/baru/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

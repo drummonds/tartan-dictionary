@@ -6,7 +6,7 @@ This is the **MacNeil of Colonsay (Highland Society of London)** sett — one sc
 [GKGKGKGBRBRBW](/stripes/gkgkgkgbrbrbw/). It is recorded as a single **variant**, below.
 First attested **1815**.
 
-Part of the [MacNeil of Colonsay](/tartans/macneil-of-colonsay-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacNeil of Colonsay](/tartans/m/ma/macneil-of-colonsay-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

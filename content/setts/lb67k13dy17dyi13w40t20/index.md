@@ -6,7 +6,7 @@ This is the **MacGregor-Ryan (Personal)** sett — one scale-free proportion (`l
 [BWGGKW](/stripes/bwggkw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [MacGregor-Ryan](/tartans/macgregor-ryan/) tartan — the named design grouping this sett with its kin.
+Part of the [MacGregor-Ryan](/tartans/m/ma/macgregor-ryan/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

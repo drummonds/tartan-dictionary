@@ -6,6 +6,8 @@ This is the **MacCandlish Arisaid Red** sett — one scale-free proportion (`lb3
 [WKBKBKBKWKY](/stripes/wkbkbkbkwky/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacCandlish Arisaid](/tartans/m/ma/maccandlish-arisaid-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

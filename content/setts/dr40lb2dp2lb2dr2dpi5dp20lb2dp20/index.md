@@ -6,6 +6,8 @@ This is the **Phillips** sett — one scale-free proportion (`dr40lb2dp2lb2dr2dp
 [BWBBBWBWB](/stripes/bwbbbwbwb/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Phillips](/tartans/p/ph/phillips-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Robertson 1820 - White line** sett — one scale-free proportion (
 [WGRBRBRGRBRGW](/stripes/wgrbrbrgrbrgw/). It is recorded as a single **variant**, below.
 First attested **1820**.
 
+Part of the [Robertson](/tartans/r/ro/robertson-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Bannockbane Dark Green** sett — one scale-free proportion (`dg4g
 [GGGWYGY](/stripes/gggwygy/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
+Part of the [Bannockbane Dark](/tartans/b/ba/bannockbane-dark/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

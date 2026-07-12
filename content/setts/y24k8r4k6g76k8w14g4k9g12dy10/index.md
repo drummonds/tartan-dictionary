@@ -6,6 +6,8 @@ This is the **Offaly County, Crest Range** sett — one scale-free proportion (`
 [GGKGWKGKRKG](/stripes/ggkgwkgkrkg/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Offaly County, Crest Range](/tartans/o/of/offaly-county-crest-range/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

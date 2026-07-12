@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Roast Den, The"
+  url: "/tartans/r/ro/roast-den-the-2/"
+- name: "Roast Den, The"
   url: "/setts/ly62dr12g1dgi4dg2dgi4g1dr12dg12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly62dr12g1dgi4dg2dgi4g1dr12dg12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGGGGGBY](/stripes/gbgggggby/).
+
+Part of the [Roast Den, The](/tartans/r/ro/roast-den-the-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

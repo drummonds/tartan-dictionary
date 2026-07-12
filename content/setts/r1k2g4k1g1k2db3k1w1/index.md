@@ -6,7 +6,7 @@ This is the **MacKean Dress (Personal)** sett — one scale-free proportion (`r1
 [RKGKGKBKW](/stripes/rkgkgkbkw/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
-Part of the [MacKean Dress](/tartans/mackean-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [MacKean Dress](/tartans/m/ma/mackean-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

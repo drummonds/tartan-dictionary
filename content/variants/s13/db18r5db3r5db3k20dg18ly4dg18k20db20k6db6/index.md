@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Keith District"
+  url: "/tartans/k/ke/keith-district/"
 - name: "Keith District District Tartan"
   url: "/setts/db18r5db3r5db3k20dg18ly4dg18k20db20k6db6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db18r5db3r5db3k20dg18ly4dg18k20db20k6db6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBKGYGKBKBKBKGYGKBRBR](/stripes/brbrbkgygkbkbkbkgygkbrbr/).
+
+Part of the [Keith District](/tartans/k/ke/keith-district/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 

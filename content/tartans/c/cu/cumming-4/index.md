@@ -1,0 +1,41 @@
+---
+title: "Cumming"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [KRGRGRGWGR](/stripes/krgrgrgwgr/) — the page of every tartan sharing this colour sequence.
+
+First recorded in the unreliable Vestiarium Scoticum (1842); true origins unknown.
+
+The **Cumming** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/r4g8w1g8r4g4r2g4r24k2/">Cumming</a></td><td><code>R/8 G16 W2 G16 R8 G8 R4 G8 R48 K/4</code></td><td>232</td><td>1842</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/r4g8w1g8r4g4r2g4r24k2/"><img src="/variants/s10/r4g8w1g8r4g4r2g4r24k2~x2/sett.png" alt="Cumming sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- Cumming VS
+- Cumming, Comyn
+- Cumming/Comyn
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">232</div><div class="nn-name nn-base"><a href="/variants/s10/r4g8w1g8r4g4r2g4r24k2~x2/">Cumming</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/r4g8w1g8r4g4r2g4r24k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g4r3k1r28g14r4g4w3g4r4g4w3~x2~w4000000&amp;base=r4g8w1g8r4g4r2g4r24k2~x2" title="compare in the TTD">1.75</a></div><div class="nn-threads">290</div><div class="nn-name"><a href="/variants/s12/g4r3k1r28g14r4g4w3g4r4g4w3~x2~w4000000/">Scott</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s12/g4r3k1r28g14r4g4w3g4r4g4w3~x2~w4000000/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r40k15r6g32r6g32r40g2r20&amp;base=r4g8w1g8r4g4r2g4r24k2~x2" title="compare in the TTD">1.98</a></div><div class="nn-threads">326</div><div class="nn-name"><a href="/variants/s9/r40k15r6g32r6g32r40g2r20/">Maxwell Variant</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r40k15r6g32r6g32r40g2r20/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g20k2r3k2r6g20r29g3r10~x2&amp;base=r4g8w1g8r4g4r2g4r24k2~x2" title="compare in the TTD">1.99</a></div><div class="nn-threads">320</div><div class="nn-name"><a href="/variants/s9/g20k2r3k2r6g20r29g3r10~x2/">Livingston</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/g20k2r3k2r6g20r29g3r10~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r5g20r5g3r4g5r36do2w4~x2~w4000000&amp;base=r4g8w1g8r4g4r2g4r24k2~x2" title="compare in the TTD">2.05</a></div><div class="nn-threads nn-far">318</div><div class="nn-name nn-far"><a href="/variants/s9/r5g20r5g3r4g5r36do2w4~x2~w4000000/">Baluch Regiment (Old Count)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r5g20r5g3r4g5r36do2w4~x2~w4000000/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=r5g20r5g3r4g5r36do2w4~x2&amp;base=r4g8w1g8r4g4r2g4r24k2~x2" title="compare in the TTD">2.05</a></div><div class="nn-threads nn-far">318</div><div class="nn-name nn-far"><a href="/variants/s9/r5g20r5g3r4g5r36do2w4~x2/">Baluch Regiment (Military)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/r5g20r5g3r4g5r36do2w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g6w1g12r4db4r2k4r32g1r2~x2&amp;base=r4g8w1g8r4g4r2g4r24k2~x2" title="compare in the TTD">2.09</a></div><div class="nn-threads nn-far">256</div><div class="nn-name nn-far"><a href="/variants/s10/g6w1g12r4db4r2k4r32g1r2~x2/">Seton Family Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/g6w1g12r4db4r2k4r32g1r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y1r12g2r1g16r1g2r12w1~x4&amp;base=r4g8w1g8r4g4r2g4r24k2~x2" title="compare in the TTD">2.23</a></div><div class="nn-threads nn-far">376</div><div class="nn-name nn-far"><a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x4/">MacPhie/Macfie</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/y1r12g2r1g16r1g2r12w1~x4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y1r12g2r1g16r1g2r12w1&amp;base=r4g8w1g8r4g4r2g4r24k2~x2" title="compare in the TTD">2.23</a></div><div class="nn-threads nn-far">94</div><div class="nn-name nn-far"><a href="/variants/s9/y1r12g2r1g16r1g2r12w1/">MacFie</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/y1r12g2r1g16r1g2r12w1/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=y1r12g2r1g16r1g2r12w1~x2&amp;base=r4g8w1g8r4g4r2g4r24k2~x2" title="compare in the TTD">2.23</a></div><div class="nn-threads nn-far">188</div><div class="nn-name nn-far"><a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x2/">MacPhee MacFie Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/y1r12g2r1g16r1g2r12w1~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=g12r4k1r2k1r4g16r20g2r8~x2&amp;base=r4g8w1g8r4g4r2g4r24k2~x2" title="compare in the TTD">2.23</a></div><div class="nn-threads nn-far">240</div><div class="nn-name nn-far"><a href="/variants/s10/g12r4k1r2k1r4g16r20g2r8~x2/">Livingstone #2</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s10/g12r4k1r2k1r4g16r20g2r8~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g4r3k1r28g14r4g4w3g4r4g4w3~x2~w4000000/"><circle cx="307.1" cy="106.6" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/variants/s9/r40k15r6g32r6g32r40g2r20/"><circle cx="318.3" cy="176.6" r="4" fill="#3465a4"><title>Maxwell Variant</title></circle></a><a href="/variants/s9/g20k2r3k2r6g20r29g3r10~x2/"><circle cx="312.3" cy="175.2" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/variants/s9/r5g20r5g3r4g5r36do2w4~x2~w4000000/"><circle cx="381.1" cy="149.1" r="4" fill="#3465a4"><title>Baluch Regiment (Old Count)</title></circle></a><a href="/variants/s9/r5g20r5g3r4g5r36do2w4~x2/"><circle cx="382.4" cy="149.5" r="4" fill="#3465a4"><title>Baluch Regiment (Military)</title></circle></a><a href="/variants/s10/g6w1g12r4db4r2k4r32g1r2~x2/"><circle cx="328.6" cy="77.6" r="4" fill="#3465a4"><title>Seton Family Tartan</title></circle></a><a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x4/"><circle cx="368.4" cy="165.1" r="4" fill="#3465a4"><title>MacPhie/Macfie</title></circle></a><a href="/variants/s9/y1r12g2r1g16r1g2r12w1/"><circle cx="368.4" cy="165.1" r="4" fill="#3465a4"><title>MacFie</title></circle></a><a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x2/"><circle cx="368.4" cy="165.1" r="4" fill="#3465a4"><title>MacPhee MacFie Clan Tartan</title></circle></a><a href="/variants/s10/g12r4k1r2k1r4g16r20g2r8~x2/"><circle cx="346.3" cy="157.4" r="4" fill="#3465a4"><title>Livingstone #2</title></circle></a><circle cx="337.8" cy="125.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

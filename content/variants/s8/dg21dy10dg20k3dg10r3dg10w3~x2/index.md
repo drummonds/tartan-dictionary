@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hanby"
+  url: "/tartans/h/ha/hanby/"
 - name: "Hanby (Personal)"
   url: "/setts/dg21dy10dg20k3dg10r3dg10w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg21dy10dg20k3dg10r3dg10w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGKGRGW](/stripes/gggkgrgw/).
+
+Part of the [Hanby](/tartans/h/ha/hanby/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

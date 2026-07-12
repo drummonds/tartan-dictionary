@@ -6,6 +6,8 @@ This is the **Ogilvie (Paton)** sett — one scale-free proportion (`db6k2db6y4k
 [BKBGKRGRWRKGBWBGKRWRKGBKBKBGKRWRWRKW](/stripes/bkbgkrgrwrkgbwbgkrwrkgbkbkbgkrwrwrkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Ogilvie](/tartans/o/og/ogilvie-6/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

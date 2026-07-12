@@ -6,6 +6,8 @@ This is the **Wagland (Name)** sett — one scale-free proportion (`r3db6y2db15g
 [RBGBGGW](/stripes/rbgbggw/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Wagland](/tartans/w/wa/wagland-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

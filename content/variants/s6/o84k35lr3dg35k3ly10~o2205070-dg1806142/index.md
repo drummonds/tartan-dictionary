@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Brandon"
+  url: "/tartans/b/br/brandon/"
 - name: "Brandon (Manitoba)"
   url: "/setts/o84k35lr3dg35k3ly10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o84k35lr3dg35k3ly10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKYGKY](/stripes/rkygky/).
+
+Part of the [Brandon](/tartans/b/br/brandon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

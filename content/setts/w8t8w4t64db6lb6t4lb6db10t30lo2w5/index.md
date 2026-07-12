@@ -6,7 +6,7 @@ This is the **Akashi** sett — one scale-free proportion (`w8t8w4t64db6lb6t4lb6
 [WBWBBWBWBBYW](/stripes/wbwbbwbwbbyw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
-Part of the [Akashi](/tartans/akashi/) tartan — the named design grouping this sett with its kin.
+Part of the [Akashi](/tartans/a/ak/akashi/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

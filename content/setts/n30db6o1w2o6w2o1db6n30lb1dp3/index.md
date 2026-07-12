@@ -6,6 +6,8 @@ This is the **Kuehle Family (Personal)** sett — one scale-free proportion (`n3
 [BBRWRWRBBWB](/stripes/bbrwrwrbbwb/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Kuehle](/tartans/k/ku/kuehle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

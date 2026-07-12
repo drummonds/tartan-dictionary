@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Hockey Union"
-  url: "/tartans/scottish-hockey-union/"
+  url: "/tartans/s/sc/scottish-hockey-union/"
 - name: "Scottish Hockey Union (Sports)"
   url: "/setts/db50k10db6k10db6g5lp5g5o8g23w5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db50k10db6k10db6g5lp5g5o8g23w5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBGWGRGW](/stripes/bkbkbgwgrgw/).
 
-Part of the [Scottish Hockey Union](/tartans/scottish-hockey-union/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Scottish Hockey Union](/tartans/s/sc/scottish-hockey-union/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

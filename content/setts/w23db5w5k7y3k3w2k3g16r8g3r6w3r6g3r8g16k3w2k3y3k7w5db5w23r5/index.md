@@ -6,6 +6,8 @@ This is the **Victoria Highland Dress Artifact Tartan** sett — one scale-free 
 [RWBWKGKWKGRGRWRGRGKWKGKWBW](/stripes/rwbwkgkwkgrgrwrgrgkwkgkwbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Victoria Highland Dress](/tartans/v/vi/victoria-highland-dress-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

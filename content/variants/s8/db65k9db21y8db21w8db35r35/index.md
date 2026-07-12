@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Maud, Mary"
-  url: "/tartans/maud-mary/"
+  url: "/tartans/m/ma/maud-mary/"
 - name: "Maud Mary Irish Family Tartan"
   url: "/setts/db65k9db21y8db21w8db35r35/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db65k9db21y8db21w8db35r35/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGBWBR](/stripes/bkbgbwbr/).
 
-Part of the [Maud, Mary](/tartans/maud-mary/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Maud, Mary](/tartans/m/ma/maud-mary/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

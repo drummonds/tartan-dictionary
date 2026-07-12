@@ -6,6 +6,8 @@ This is the **Unnamed C19th (Silk Sash)** sett — one scale-free proportion (`d
 [BYBYGYRYRYB](/stripes/bybygyryryb/). It is recorded as a single **variant**, below.
 First attested **~1900**.
 
+Part of the [Unnamed C19th](/tartans/u/un/unnamed-c19th/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

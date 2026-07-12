@@ -6,6 +6,8 @@ This is the **Tweedside Variation (silk sample)** sett — one scale-free propor
 [KRWRWRKWK](/stripes/krwrwrkwk/). It is recorded as a single **variant**, below.
 First attested **~2015**.
 
+Part of the [Tweedside Variation](/tartans/t/tw/tweedside-variation/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

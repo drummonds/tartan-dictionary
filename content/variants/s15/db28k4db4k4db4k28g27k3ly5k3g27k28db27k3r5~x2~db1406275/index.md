@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Baillie"
   url: "/clan/baillie/"
 - name: "Baillie"
-  url: "/tartans/baillie/"
+  url: "/tartans/b/ba/baillie/"
 - name: "Baillie (William Wilson)"
   url: "/setts/db28k4db4k4db4k28g27k3ly5k3g27k28db27k3r5/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db28k4db4k4db4k28g27k3ly5k3g27k28db27k3r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKYKGKBKR](/stripes/bkbkbkgkykgkbkr/).
 
-Part of the [Baillie](/tartans/baillie/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Baillie](/tartans/b/ba/baillie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

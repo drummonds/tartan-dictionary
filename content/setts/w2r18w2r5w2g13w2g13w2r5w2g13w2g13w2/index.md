@@ -6,6 +6,8 @@ This is the **Frazer Major Portrait Tartan** sett — one scale-free proportion 
 [WGWGWRWGWGWRWRW](/stripes/wgwgwrwgwgwrwrw/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Frazer Major](/tartans/f/fr/frazer-major/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

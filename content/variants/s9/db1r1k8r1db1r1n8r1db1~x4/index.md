@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan MacPherson"
   url: "/clan/macpherson/"
 - name: "MacPherson Hunting"
-  url: "/tartans/macpherson-hunting/"
+  url: "/tartans/m/ma/macpherson-hunting/"
 - name: "MacPherson Hunting"
   url: "/setts/db1r1k8r1db1r1n8r1db1/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db1r1k8r1db1r1n8r1db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRKRB](/stripes/brbrbrkrb/).
 
-Part of the [MacPherson Hunting](/tartans/macpherson-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacPherson Hunting](/tartans/m/ma/macpherson-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

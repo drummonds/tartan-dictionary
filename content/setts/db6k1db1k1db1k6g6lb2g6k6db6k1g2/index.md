@@ -6,7 +6,7 @@ This is the **Cheape of Torosay #2 (Personal)** sett — one scale-free proporti
 [BKBKBKGWGKBKG](/stripes/bkbkbkgwgkbkg/). It is recorded as a single **variant**, below.
 First attested **~1960**.
 
-Part of the [Cheape of Torosay](/tartans/cheape-of-torosay/) tartan — the named design grouping this sett with its kin.
+Part of the [Cheape of Torosay](/tartans/c/ch/cheape-of-torosay/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

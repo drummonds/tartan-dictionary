@@ -6,6 +6,8 @@ This is the **Aquascutum (Kinloch Anderson)** sett — one scale-free proportion
 [BBWBWBGBG](/stripes/bbwbwbgbg/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Aquascutum](/tartans/a/aq/aquascutum-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

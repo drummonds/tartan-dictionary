@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clyde"
+  url: "/tartans/c/cl/clyde-4/"
 - name: "Clyde (WCWM Fashion)"
   url: "/setts/lo2n28k2w2k2t26n3t5lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lo2n28k2w2k2t26n3t5lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YBBBKWKBY](/stripes/ybbbkwkby/).
+
+Part of the [Clyde](/tartans/c/cl/clyde-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

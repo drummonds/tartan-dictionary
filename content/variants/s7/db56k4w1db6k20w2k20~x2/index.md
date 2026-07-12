@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dalziel Rugby Club"
+  url: "/tartans/d/da/dalziel-rugby-club/"
 - name: "Dalziel Rugby Club (Corporate)"
   url: "/setts/db56k4w1db6k20w2k20/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db56k4w1db6k20w2k20/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKWBKWK](/stripes/bkwbkwk/).
+
+Part of the [Dalziel Rugby Club](/tartans/d/da/dalziel-rugby-club/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

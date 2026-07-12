@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "German National"
+  url: "/tartans/g/ge/german-national/"
 - name: "German National (US) (Fashion)"
   url: "/setts/r16k2r2k2r13k12r2k12r13k13r2y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r16k2r2k2r13k12r2k12r13k13r2y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRKRKRKRKRKR](/stripes/grkrkrkrkrkr/).
+
+Part of the [German National](/tartans/g/ge/german-national/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

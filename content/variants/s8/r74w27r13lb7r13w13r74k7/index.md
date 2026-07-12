@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cornell"
+  url: "/tartans/c/co/cornell/"
 - name: "Cornell (Corporate)"
   url: "/setts/r74w27r13lb7r13w13r74k7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r74w27r13lb7r13w13r74k7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRWRWRWR](/stripes/krwrwrwr/).
+
+Part of the [Cornell](/tartans/c/co/cornell/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

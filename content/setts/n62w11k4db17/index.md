@@ -6,6 +6,8 @@ This is the **Thunderlord (Celtic Group, USA)** sett — one scale-free proporti
 [BKWB](/stripes/bkwb/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Thunderlord](/tartans/t/th/thunderlord-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Heart of Midlothian Football Club** sett — one scale-free propor
 [GRWRWRKWBWKRWRWR](/stripes/grwrwrkwbwkrwrwr/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
+Part of the [Heart of Midlothian Football Club](/tartans/h/he/heart-of-midlothian-football-club/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

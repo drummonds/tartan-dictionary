@@ -6,6 +6,8 @@ This is the **Ithilien Heather (Personal)** sett — one scale-free proportion (
 [BBBBKBGBG](/stripes/bbbbkbgbg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Ithilien Heather](/tartans/i/it/ithilien-heather/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

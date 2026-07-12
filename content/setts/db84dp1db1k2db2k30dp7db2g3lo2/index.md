@@ -6,6 +6,8 @@ This is the **Ulster Scots (Fashion)** sett — one scale-free proportion (`db84
 [BBBKBKBBGY](/stripes/bbbkbkbbgy/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Ulster Scots](/tartans/u/ul/ulster-scots/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

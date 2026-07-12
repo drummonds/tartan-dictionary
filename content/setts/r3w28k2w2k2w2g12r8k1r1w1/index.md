@@ -6,6 +6,8 @@ This is the **Royal Stuart Royal Family Tartan** sett — one scale-free proport
 [RWKWKWGRKRW](/stripes/rwkwkwgrkrw/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
+Part of the [Royal Stuart Royal](/tartans/r/ro/royal-stuart-royal/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

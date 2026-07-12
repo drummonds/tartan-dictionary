@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "CSCA"
+  url: "/tartans/c/cs/csca/"
+- name: "CSCA"
   url: "/setts/g5r4g19k10g8w4db18r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g5r4g19k10g8w4db18r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGKGWBRBWGKGR](/stripes/grgkgwbrbwgkgr/).
+
+Part of the [CSCA](/tartans/c/cs/csca/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

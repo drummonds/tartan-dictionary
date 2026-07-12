@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rooney"
+  url: "/tartans/r/ro/rooney/"
 - name: "Rooney (Personal)"
   url: "/setts/lb36g12lb4g72k4g13k36r4k4y4k36g13k4g72lb4g12lb36w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb36g12lb4g72k4g13k36r4k4y4k36g13k4g72lb4g12lb36w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WGWGKGKRKGKGKGWGWW](/stripes/wgwgkgkrkgkgkgwgww/).
+
+Part of the [Rooney](/tartans/r/ro/rooney/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 

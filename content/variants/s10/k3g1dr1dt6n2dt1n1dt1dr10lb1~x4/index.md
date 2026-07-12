@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Crieff Primary School"
-  url: "/tartans/crieff-primary-school/"
+  url: "/tartans/c/cr/crieff-primary-school/"
 - name: "Crieff Primary School Corporate (Schools) Tartan"
   url: "/setts/k3g1dr1dt6n2dt1n1dt1dr10lb1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k3g1dr1dt6n2dt1n1dt1dr10lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGBBBBBBBW](/stripes/kgbbbbbbbw/).
 
-Part of the [Crieff Primary School](/tartans/crieff-primary-school/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Crieff Primary School](/tartans/c/cr/crieff-primary-school/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

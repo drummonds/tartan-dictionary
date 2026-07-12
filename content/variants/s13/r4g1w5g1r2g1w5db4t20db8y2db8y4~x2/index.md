@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pille"
+  url: "/tartans/p/pi/pille/"
 - name: "Pille Family (Belgium) (Personal)"
   url: "/setts/r4g1w5g1r2g1w5db4t20db8y2db8y4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4g1w5g1r2g1w5db4t20db8y2db8y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBBBWGRGWGR](/stripes/gbgbbbwgrgwgr/).
+
+Part of the [Pille](/tartans/p/pi/pille/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

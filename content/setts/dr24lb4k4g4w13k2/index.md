@@ -6,6 +6,8 @@ This is the **Rose White Dress** sett — one scale-free proportion (`dr24lb4k4g
 [BWKGWK](/stripes/bwkgwk/). It is recorded as a single **variant**, below.
 First attested **1950**.
 
+Part of the [Rose White Dress](/tartans/r/ro/rose-white-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

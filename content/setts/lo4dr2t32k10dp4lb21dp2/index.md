@@ -6,6 +6,8 @@ This is the **Dignan School of Dancing** sett — one scale-free proportion (`lo
 [BWBKBBY](/stripes/bwbkbby/). It is recorded as a single **variant**, below.
 First attested **1997**.
 
+Part of the [Dignan Corporate School](/tartans/d/di/dignan-corporate-school/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

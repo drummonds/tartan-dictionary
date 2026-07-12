@@ -6,6 +6,8 @@ This is the **Thompson (J.C.'s Fancy) (Personal)** sett — one scale-free propo
 [GKGBYR](/stripes/gkgbyr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Thompson](/tartans/t/th/thompson-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

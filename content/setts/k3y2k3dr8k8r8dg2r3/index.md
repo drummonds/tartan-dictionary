@@ -6,6 +6,8 @@ This is the **Davis** sett — one scale-free proportion (`k3y2k3dr8k8r8dg2r3`),
 [KGKBKRGR](/stripes/kgkbkrgr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Davis](/tartans/d/da/davis/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

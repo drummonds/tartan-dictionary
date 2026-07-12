@@ -6,6 +6,8 @@ This is the **Impulse** sett — one scale-free proportion (`dr2b10k9bi13k7db3k2
 [BBKBKBKBKBB](/stripes/bbkbkbkbkbb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Impulse](/tartans/i/im/impulse-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacCandlish Arisaid"
+  url: "/tartans/m/ma/maccandlish-arisaid-2/"
 - name: "MacCandlish Arisaid Red"
   url: "/setts/lb3k1dr12k1dr1k2dr1k6lbi12k1lo1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb3k1dr12k1dr1k2dr1k6lbi12k1lo1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKBKBKBKWKY](/stripes/wkbkbkbkwky/).
+
+Part of the [MacCandlish Arisaid](/tartans/m/ma/maccandlish-arisaid-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

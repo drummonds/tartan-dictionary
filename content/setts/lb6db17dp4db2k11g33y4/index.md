@@ -6,7 +6,7 @@ This is the **East Lothian** sett — one scale-free proportion (`lb6db17dp4db2k
 [GGKBBBW](/stripes/ggkbbbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [East Lothian](/tartans/east-lothian/) tartan — the named design grouping this sett with its kin.
+Part of the [East Lothian](/tartans/e/ea/east-lothian/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

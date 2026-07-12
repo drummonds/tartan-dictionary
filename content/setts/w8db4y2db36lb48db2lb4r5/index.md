@@ -6,6 +6,8 @@ This is the **MacRaes of America** sett — one scale-free proportion (`w8db4y2d
 [RWBWBGBW](/stripes/rwbwbgbw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [MacRaes of America](/tartans/m/ma/macraes-of-america/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

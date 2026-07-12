@@ -6,6 +6,8 @@ This is the **Agincourt (Fashion)** sett — one scale-free proportion (`lo4k1lo
 [YBKYKBYKBYBYKY](/stripes/ybkykbykbybyky/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
+Part of the [Agincourt](/tartans/a/ag/agincourt/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

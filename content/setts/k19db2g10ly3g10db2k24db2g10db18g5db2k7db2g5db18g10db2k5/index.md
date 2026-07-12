@@ -6,6 +6,8 @@ This is the **Offally Irish County Tartan** sett — one scale-free proportion (
 [KBGBGBKBGBGBKBGYGBK](/stripes/kbgbgbkbgbgbkbgygbk/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Offally Irish County](/tartans/o/of/offally-irish-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

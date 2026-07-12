@@ -6,7 +6,7 @@ This is the **Tribal #2** sett — one scale-free proportion (`y2dp16k1r5k1o8k1r
 [GBKRKRKRKG](/stripes/gbkrkrkrkg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
-Part of the [Tribal](/tartans/tribal/) tartan — the named design grouping this sett with its kin.
+Part of the [Tribal](/tartans/t/tr/tribal/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

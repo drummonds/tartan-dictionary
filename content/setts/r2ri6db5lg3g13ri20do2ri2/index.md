@@ -6,6 +6,8 @@ This is the **Flowers of the Forest, The** sett — one scale-free proportion (`
 [RBRGYBRR](/stripes/rbrgybrr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Flowers of the Forest, The](/tartans/f/fl/flowers-of-the-forest-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

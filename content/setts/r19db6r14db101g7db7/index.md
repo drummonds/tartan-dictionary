@@ -6,7 +6,7 @@ This is the **Lynch Family Tartan** sett — one scale-free proportion (`r19db6r
 [BGBRBR](/stripes/bgbrbr/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
-Part of the [Lynch](/tartans/lynch/) tartan — the named design grouping this sett with its kin.
+Part of the [Lynch](/tartans/l/ly/lynch/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

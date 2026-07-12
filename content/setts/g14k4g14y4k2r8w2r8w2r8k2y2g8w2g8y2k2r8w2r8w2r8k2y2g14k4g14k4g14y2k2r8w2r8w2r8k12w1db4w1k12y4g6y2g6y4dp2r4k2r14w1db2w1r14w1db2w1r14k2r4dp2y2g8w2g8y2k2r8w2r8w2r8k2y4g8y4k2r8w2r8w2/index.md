@@ -6,6 +6,8 @@ This is the **Ogilvie - 1831 (Clan)** sett — one scale-free proportion (`g14k4
 [GKGGKRWRWRKGGWGGKRWRWRKGGKGKGGKRWRWRKWBWKGGGGGBRKRWBWRWBWRKRBGGWGGKRWRWRKGGGKRWRW](/stripes/gkggkrwrwrkggwggkrwrwrkggkgkggkrwrwrkwbwkgggggbrkrwbwrwbwrkrbggwggkrwrwrkgggkrwrw/). It is recorded as a single **variant**, below.
 First attested **~1812**.
 
+Part of the [Ogilvie](/tartans/o/og/ogilvie-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

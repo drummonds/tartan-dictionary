@@ -6,6 +6,8 @@ This is the **Caledonian Society of Prince Edward Island** sett — one scale-fr
 [BKBKGKWRKWRBRBRBR](/stripes/bkbkgkwrkwrbrbrbr/). It is recorded as a single **variant**, below.
 First attested **1835**.
 
+Part of the [Caledonian Society of Prince Edward Island](/tartans/c/ca/caledonian-society-of-prince-edward-island/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

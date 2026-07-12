@@ -1,0 +1,41 @@
+---
+title: "MacLean VS"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+- name: "Clan Maclean"
+  url: "/clan/maclean/"
+---
+A tartan of [Clan Maclean](/clan/maclean/).
+Its design is pattern [GKWKGKGK](/stripes/gkwkgkgk/) — the page of every tartan sharing this colour sequence.
+
+The **MacLean VS** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/g3k6w1k6g2k2g16k1/">MacLean VS</a></td><td><code>G/6 K12 W2 K12 G4 K4 G32 K/2</code></td><td>140</td><td>1842</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/g3k6w1k6g2k2g16k1/"><img src="/variants/s8/g3k6w1k6g2k2g16k1~x2/sett.png" alt="MacLean VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- MacLean of Duart Hunting
+- MacLean of Duart, hunting
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">140</div><div class="nn-name nn-base"><a href="/variants/s8/g3k6w1k6g2k2g16k1~x2/">MacLean VS</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s8/g3k6w1k6g2k2g16k1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g3k6r2k6g3k2g16k1~x4&amp;base=g3k6w1k6g2k2g16k1~x2" title="compare in the TTD">0.36</a></div><div class="nn-threads">296</div><div class="nn-name"><a href="/variants/s8/g3k6r2k6g3k2g16k1~x4/">Glenbarr</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g3k6r2k6g3k2g16k1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k22g5k2g5k11g33k2r4~x2&amp;base=g3k6w1k6g2k2g16k1~x2" title="compare in the TTD">0.97</a></div><div class="nn-threads">284</div><div class="nn-name"><a href="/variants/s8/k22g5k2g5k11g33k2r4~x2/">MacArthur-Fox 1993 (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k22g5k2g5k11g33k2r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4g32k4g4k8w3k8b4~x2&amp;base=g3k6w1k6g2k2g16k1~x2" title="compare in the TTD">1.48</a></div><div class="nn-threads">252</div><div class="nn-name"><a href="/variants/s8/k4g32k4g4k8w3k8b4~x2/">Hartmann</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k4g32k4g4k8w3k8b4~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4g32k4g4k8w3k8lb4~x2&amp;base=g3k6w1k6g2k2g16k1~x2" title="compare in the TTD">1.48</a></div><div class="nn-threads">252</div><div class="nn-name"><a href="/variants/s8/k4g32k4g4k8w3k8lb4~x2/">Hartmann (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k4g32k4g4k8w3k8lb4~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g6k16w1k16g8k4g12r2~x2&amp;base=g3k6w1k6g2k2g16k1~x2" title="compare in the TTD">1.83</a></div><div class="nn-threads">244</div><div class="nn-name"><a href="/variants/s8/g6k16w1k16g8k4g12r2~x2/">MacAulay Hunting</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g6k16w1k16g8k4g12r2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g6k16r3k16g28k4g12w3~x2&amp;base=g3k6w1k6g2k2g16k1~x2" title="compare in the TTD">1.87</a></div><div class="nn-threads">334</div><div class="nn-name"><a href="/variants/s8/g6k16r3k16g28k4g12w3~x2/">MacAulay of Lewis</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g6k16r3k16g28k4g12w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g2k3y1k3g2db8g16k1~x4&amp;base=g3k6w1k6g2k2g16k1~x2" title="compare in the TTD">1.94</a></div><div class="nn-threads">276</div><div class="nn-name"><a href="/variants/s8/g2k3y1k3g2db8g16k1~x4/">Harley (Leslie), Robert</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/g2k3y1k3g2db8g16k1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k19r1g3k7g2k2g20w2~x2&amp;base=g3k6w1k6g2k2g16k1~x2" title="compare in the TTD">2.12</a></div><div class="nn-threads nn-far">182</div><div class="nn-name nn-far"><a href="/variants/s8/k19r1g3k7g2k2g20w2~x2/">Scottish Chieftain</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k19r1g3k7g2k2g20w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=k3w7g3k16g17w1g8k1~x2&amp;base=g3k6w1k6g2k2g16k1~x2" title="compare in the TTD">2.13</a></div><div class="nn-threads nn-far">216</div><div class="nn-name nn-far"><a href="/variants/s8/k3w7g3k16g17w1g8k1~x2/">Utah Valley University</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/k3w7g3k16g17w1g8k1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far"><a href="/ttd/edit/#slug=dy2g1k1g26k11db6k1g2~x2&amp;base=g3k6w1k6g2k2g16k1~x2" title="compare in the TTD">2.14</a></div><div class="nn-threads nn-far">192</div><div class="nn-name nn-far"><a href="/variants/s8/dy2g1k1g26k11db6k1g2~x2/">Mackie (2016)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/dy2g1k1g26k11db6k1g2~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g3k6r2k6g3k2g16k1~x4/"><circle cx="290.4" cy="166.8" r="4" fill="#3465a4"><title>Glenbarr</title></circle></a><a href="/variants/s8/k22g5k2g5k11g33k2r4~x2/"><circle cx="276.2" cy="160.4" r="4" fill="#3465a4"><title>MacArthur-Fox 1993 (Personal)</title></circle></a><a href="/variants/s8/k4g32k4g4k8w3k8b4~x2/"><circle cx="244.9" cy="159.5" r="4" fill="#3465a4"><title>Hartmann</title></circle></a><a href="/variants/s8/k4g32k4g4k8w3k8lb4~x2/"><circle cx="242.6" cy="158.8" r="4" fill="#3465a4"><title>Hartmann (Personal)</title></circle></a><a href="/variants/s8/g6k16w1k16g8k4g12r2~x2/"><circle cx="255.7" cy="174.3" r="4" fill="#3465a4"><title>MacAulay Hunting</title></circle></a><a href="/variants/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="219.3" cy="188.3" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/variants/s8/g2k3y1k3g2db8g16k1~x4/"><circle cx="272.4" cy="152.2" r="4" fill="#3465a4"><title>Harley (Leslie), Robert</title></circle></a><a href="/variants/s8/k19r1g3k7g2k2g20w2~x2/"><circle cx="259.3" cy="134.9" r="4" fill="#3465a4"><title>Scottish Chieftain</title></circle></a><a href="/variants/s8/k3w7g3k16g17w1g8k1~x2/"><circle cx="229.6" cy="168.3" r="4" fill="#3465a4"><title>Utah Valley University</title></circle></a><a href="/variants/s8/dy2g1k1g26k11db6k1g2~x2/"><circle cx="308.2" cy="117.7" r="4" fill="#3465a4"><title>Mackie (2016)</title></circle></a><circle cx="302.0" cy="162.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

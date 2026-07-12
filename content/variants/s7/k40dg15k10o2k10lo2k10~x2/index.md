@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Langhein, Alex"
-  url: "/tartans/langhein-alex/"
+  url: "/tartans/l/la/langhein-alex/"
 - name: "Langhein, Alex (Personal)"
   url: "/setts/k40dg15k10o2k10lo2k10/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k40dg15k10o2k10lo2k10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKRKYK](/stripes/kgkrkyk/).
 
-Part of the [Langhein, Alex](/tartans/langhein-alex/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Langhein, Alex](/tartans/l/la/langhein-alex/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

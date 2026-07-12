@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Rogue Attitude"
+  url: "/tartans/r/ro/rogue-attitude/"
+- name: "Rogue Attitude"
   url: "/setts/k31lr4n2r2n2lr6n2lb4n2lr8k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k31lr4n2r2n2lr6n2lb4n2lr8k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYBRBYBWBYK](/stripes/kybrbybwbyk/).
+
+Part of the [Rogue Attitude](/tartans/r/ro/rogue-attitude/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

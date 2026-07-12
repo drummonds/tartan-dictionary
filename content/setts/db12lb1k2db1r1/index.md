@@ -6,6 +6,8 @@ This is the **Lochcarron (1985)** sett — one scale-free proportion (`db12lb1k2
 [BWKBR](/stripes/bwkbr/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Lochcarron](/tartans/l/lo/lochcarron/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

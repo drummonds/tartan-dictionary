@@ -6,6 +6,8 @@ This is the **Moss** sett — one scale-free proportion (`g4k2g28r4g4k18g4lp4g4l
 [GKGRGKGWGWKW](/stripes/gkgrgkgwgwkw/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Moss](/tartans/m/mo/moss/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

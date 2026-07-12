@@ -6,6 +6,8 @@ This is the **Skene** sett — one scale-free proportion (`db9r3db1r3g9r3db1`), 
 [BRBRGRB](/stripes/brbrgrb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Skene](/tartans/s/sk/skene/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

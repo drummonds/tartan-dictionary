@@ -6,6 +6,8 @@ This is the **St. John (Corporate?)** sett — one scale-free proportion (`db67w
 [BWGBW](/stripes/bwgbw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [St. John](/tartans/s/st/st-john/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

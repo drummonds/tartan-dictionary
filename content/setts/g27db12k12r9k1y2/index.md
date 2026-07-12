@@ -6,6 +6,8 @@ This is the **Ferguson, Jeffrey S (Personal)** sett — one scale-free proportio
 [GBKRKG](/stripes/gbkrkg/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Ferguson, Jeffrey S](/tartans/f/fe/ferguson-jeffrey-s/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

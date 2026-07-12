@@ -6,7 +6,7 @@ This is the **MacAndreis** sett — one scale-free proportion (`k3dg4dp25k16dg3k
 [KGBKGKGKGR](/stripes/kgbkgkgkgr/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [MacAndreis](/tartans/macandreis/) tartan — the named design grouping this sett with its kin.
+Part of the [MacAndreis](/tartans/m/ma/macandreis/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

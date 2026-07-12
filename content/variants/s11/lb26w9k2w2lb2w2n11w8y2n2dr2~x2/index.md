@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Manchester Blues"
-  url: "/tartans/manchester-blues/"
+  url: "/tartans/m/ma/manchester-blues/"
 - name: "Manchester Blues Modern"
   url: "/setts/lb26w9k2w2lb2w2n11w8y2n2dr2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/lb26w9k2w2lb2w2n11w8y2n2dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGWBWWWKWW](/stripes/bbgwbwwwkww/).
 
-Part of the [Manchester Blues](/tartans/manchester-blues/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Manchester Blues](/tartans/m/ma/manchester-blues/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

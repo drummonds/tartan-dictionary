@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lions International"
+  url: "/tartans/l/li/lions-international/"
+- name: "Lions International"
   url: "/setts/p60lb2k2p2lo2p10lbi3lo12p10k2lb5p5lbi2lb2lbi2p5lb4p4k4lbi8/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/p60lb2k2p2lo2p10lbi3lo12p10k2lb5p5lbi2lb2lbi2p5lb4p4k4lbi8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWKBYBWYBKWBWWWBWBKW](/stripes/bwkbybwybkwbwwwbwbkw/).
+
+Part of the [Lions International](/tartans/l/li/lions-international/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

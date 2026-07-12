@@ -6,6 +6,8 @@ This is the **Rob Roy (Film)** sett — one scale-free proportion (`n3dg1n10dg4r
 [BGBGRB](/stripes/bgbgrb/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [MacGregor](/tartans/m/ma/macgregor-10/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

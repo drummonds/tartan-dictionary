@@ -6,7 +6,7 @@ This is the **Ogg of Tarragann Hunting (Personal)** sett — one scale-free prop
 [RWRGRGRKGYGY](/stripes/rwrgrgrkgygy/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
-Part of the [Ogg of Tarragann Hunting](/tartans/ogg-of-tarragann-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Ogg of Tarragann Hunting](/tartans/o/og/ogg-of-tarragann-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

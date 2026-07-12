@@ -7,6 +7,8 @@ This is the **British European** sett — one scale-free proportion (`r12db2r12d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2001**.
 
+Part of the [British European](/tartans/b/br/british-european/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

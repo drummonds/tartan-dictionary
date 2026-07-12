@@ -7,7 +7,7 @@ This is the **Bavidge (Personal)** sett — one scale-free proportion (`db92k14d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1998**.
 
-Part of the [Bavidge](/tartans/bavidge/) tartan — the named design grouping this sett with its kin.
+Part of the [Bavidge](/tartans/b/ba/bavidge/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

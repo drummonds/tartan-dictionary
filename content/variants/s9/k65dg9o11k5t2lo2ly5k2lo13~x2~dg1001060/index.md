@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Down Irish County"
+  url: "/tartans/d/do/down-irish-county/"
 - name: "Down Irish County Tartan"
   url: "/setts/k65dg9o11k5t2lo2ly5k2lo13/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k65dg9o11k5t2lo2ly5k2lo13/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGRKBYYKY](/stripes/kgrkbyyky/).
+
+Part of the [Down Irish County](/tartans/d/do/down-irish-county/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

@@ -6,6 +6,8 @@ This is the **Highland Pride of Scotland** sett — one scale-free proportion (`
 [BGBBGBKGKBWBKGKBGBBG](/stripes/bgbbgbkgkbwbkgkbgbbg/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Highland Pride of Scotland](/tartans/h/hi/highland-pride-of-scotland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

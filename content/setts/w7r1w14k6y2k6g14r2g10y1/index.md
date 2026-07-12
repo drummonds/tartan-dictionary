@@ -6,6 +6,8 @@ This is the **Spanish shirt** sett — one scale-free proportion (`w7r1w14k6y2k6
 [GGRGKGKWRW](/stripes/ggrgkgkwrw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Spanish shirt](/tartans/s/sp/spanish-shirt/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

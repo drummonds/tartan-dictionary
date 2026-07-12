@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Robertson"
+  url: "/clan/robertson/"
+- name: "Robertson of Kindeace"
+  url: "/families/robertson-of-kindeace/"
+- name: "Robertson of Kindeace"
+  url: "/tartans/r/ro/robertson-of-kindeace/"
 - name: "Robertson of Kindeace"
   url: "/setts/db12k2db2k2db2k12g16k1r3k1g16k12db12k1w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db12k2db2k2db2k12g16k1r3k1g16k12db12k1w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKRKGKBKW](/stripes/bkbkbkgkrkgkbkw/).
+
+Part of the [Robertson of Kindeace](/tartans/r/ro/robertson-of-kindeace/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 

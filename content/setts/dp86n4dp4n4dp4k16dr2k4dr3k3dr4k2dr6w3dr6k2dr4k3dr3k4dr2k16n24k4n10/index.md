@@ -6,6 +6,8 @@ This is the **Arran, Isle of (Strathmore)** sett — one scale-free proportion (
 [BBBBBKBKBKBKBWBKBKBKBKBKB](/stripes/bbbbbkbkbkbkbwbkbkbkbkbkb/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
+Part of the [Arran, Isle of](/tartans/a/ar/arran-isle-of/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

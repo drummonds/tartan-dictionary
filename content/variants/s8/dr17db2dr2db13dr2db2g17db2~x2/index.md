@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Red Remony"
-  url: "/tartans/red-remony/"
+  url: "/tartans/r/re/red-remony/"
 - name: "Remony (Red)"
   url: "/setts/dr17db2dr2db13dr2db2g17db2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr17db2dr2db13dr2db2g17db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBGB](/stripes/bbbbbbgb/).
 
-Part of the [Red Remony](/tartans/red-remony/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Red Remony](/tartans/r/re/red-remony/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

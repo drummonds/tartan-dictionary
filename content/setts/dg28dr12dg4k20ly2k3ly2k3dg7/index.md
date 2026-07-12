@@ -7,6 +7,8 @@ This is the **Cork, County** sett — one scale-free proportion (`dg28dr12dg4k20
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1996**.
 
+Part of the [Cork, County](/tartans/c/co/cork-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

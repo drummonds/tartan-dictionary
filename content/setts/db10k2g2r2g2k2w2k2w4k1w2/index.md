@@ -6,6 +6,8 @@ This is the **Highfield Dress** sett — one scale-free proportion (`db10k2g2r2g
 [BKGRGKWKWKWKWKWKGRGK](/stripes/bkgrgkwkwkwkwkwkgrgk/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
+Part of the [Highfield Dress](/tartans/h/hi/highfield-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **MacWatts (Personal)** sett — one scale-free proportion (`g7dp2g2
 [GBGBGKGKBBBBBKRKBBBBBKGKGBGBGG](/stripes/gbgbgkgkbbbbbkrkbbbbbkgkgbgbgg/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [MacWatts](/tartans/m/ma/macwatts/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

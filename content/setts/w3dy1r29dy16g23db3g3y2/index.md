@@ -6,6 +6,8 @@ This is the **Etienne Paschal Tache Sir... Canadian Tartan** sett — one scale-
 [GGBGGRGW](/stripes/ggbggrgw/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Etienne Paschal Tache Sir...](/tartans/e/et/etienne-paschal-tache-sir/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Barbour - Cardinal Red** sett — one scale-free proportion (`r3ly
 [RRWBRYR](/stripes/rrwbryr/). It is recorded as a single **variant**, below.
 First attested **~2014**.
 
+Part of the [Barbour](/tartans/b/ba/barbour-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

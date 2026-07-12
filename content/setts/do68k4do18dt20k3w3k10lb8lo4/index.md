@@ -6,6 +6,8 @@ This is the **Carbon** sett — one scale-free proportion (`do68k4do18dt20k3w3k1
 [BKBBKWKWY](/stripes/bkbbkwkwy/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Carbon](/tartans/c/ca/carbon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

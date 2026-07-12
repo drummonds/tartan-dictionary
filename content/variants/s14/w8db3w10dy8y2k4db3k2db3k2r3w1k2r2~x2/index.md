@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacInnes Hunting Dress"
+  url: "/tartans/m/ma/macinnes-hunting-dress/"
 - name: "MacInnes Hunting Dress Clan Tartan"
   url: "/setts/w8db3w10dy8y2k4db3k2db3k2r3w1k2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w8db3w10dy8y2k4db3k2db3k2r3w1k2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKWRKBKBKGGWBW](/stripes/rkwrkbkbkggwbw/).
+
+Part of the [MacInnes Hunting Dress](/tartans/m/ma/macinnes-hunting-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 

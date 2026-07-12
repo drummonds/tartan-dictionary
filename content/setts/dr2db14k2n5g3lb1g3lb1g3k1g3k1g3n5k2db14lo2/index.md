@@ -6,7 +6,7 @@ This is the **Service of Drymen (Personal)** sett — one scale-free proportion 
 [BBKBGWGWGKGKGBKBY](/stripes/bbkbgwgwgkgkgbkby/). It is recorded as a single **variant**, below.
 First attested **~1986**.
 
-Part of the [Service of Drymen](/tartans/service-of-drymen/) tartan — the named design grouping this sett with its kin.
+Part of the [Service of Drymen](/tartans/s/se/service-of-drymen/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

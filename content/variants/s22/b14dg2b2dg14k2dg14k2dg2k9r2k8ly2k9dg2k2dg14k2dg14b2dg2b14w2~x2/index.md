@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dow-Aerlift"
+  url: "/tartans/d/do/dow-aerlift/"
 - name: "Dow-Aerlift (Name)"
   url: "/setts/b14dg2b2dg14k2dg14k2dg2k9r2k8ly2k9dg2k2dg14k2dg14b2dg2b14w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b14dg2b2dg14k2dg14k2dg2k9r2k8ly2k9dg2k2dg14k2dg14b2dg2b14w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGKGKGKRKYKGKGKGBGBW](/stripes/bgbgkgkgkrkykgkgkgbgbw/).
+
+Part of the [Dow-Aerlift](/tartans/d/do/dow-aerlift/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
 

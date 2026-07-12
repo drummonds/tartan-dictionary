@@ -6,7 +6,7 @@ This is the **Manx National** sett — one scale-free proportion (`p5g9r2dy2db6l
 [BGRGBWW](/stripes/bgrgbww/). It is recorded as a single **variant**, below.
 First attested **1946**.
 
-Part of the [Manx National](/tartans/manx-national/) tartan — the named design grouping this sett with its kin.
+Part of the [Manx National](/tartans/m/ma/manx-national/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

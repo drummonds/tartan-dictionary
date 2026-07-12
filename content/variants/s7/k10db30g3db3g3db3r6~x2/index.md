@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kinding"
-  url: "/tartans/kinding/"
+  url: "/tartans/k/ki/kinding/"
 - name: "Kinding"
   url: "/setts/k10db30g3db3g3db3r6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k10db30g3db3g3db3r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGBGBR](/stripes/kbgbgbr/).
 
-Part of the [Kinding](/tartans/kinding/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Kinding](/tartans/k/ki/kinding/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

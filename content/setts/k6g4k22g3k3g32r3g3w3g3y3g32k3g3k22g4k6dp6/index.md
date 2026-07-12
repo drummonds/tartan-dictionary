@@ -6,6 +6,8 @@ This is the **Campbell, Marquis of Lorne** sett — one scale-free proportion (`
 [BKGKGKGGGWGRGKGKGK](/stripes/bkgkgkgggwgrgkgkgk/). It is recorded as a single **variant**, below.
 First attested **1871**.
 
+Part of the [Campbell, Marquis of Lorne](/tartans/c/ca/campbell-marquis-of-lorne/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

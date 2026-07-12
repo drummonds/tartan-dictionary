@@ -6,6 +6,8 @@ This is the **Wynberg Boys' High School** sett — one scale-free proportion (`w
 [WBWGKYWBW](/stripes/wbwgkywbw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Wynberg Boys' High School](/tartans/w/wy/wynberg-boys-high-school/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **LOOK Keith** sett — one scale-free proportion (`n10r2n2r2n2dt5o2
 [BRBRBBRBRBRWRWRBRBRBBRBR](/stripes/brbrbbrbrbrwrwrbrbrbbrbr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [LOOK Keith](/tartans/l/lo/look-keith/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

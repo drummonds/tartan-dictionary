@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacMillan Hunting"
-  url: "/tartans/macmillan-hunting/"
+  url: "/tartans/m/ma/macmillan-hunting/"
 - name: "MacMillan, hunting"
   url: "/setts/db10y3db30y5k8g16b4g16b2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db10y3db30y5k8g16b4g16b2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGKGBGB](/stripes/bgbgkgbgb/).
 
-Part of the [MacMillan Hunting](/tartans/macmillan-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacMillan Hunting](/tartans/m/ma/macmillan-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 

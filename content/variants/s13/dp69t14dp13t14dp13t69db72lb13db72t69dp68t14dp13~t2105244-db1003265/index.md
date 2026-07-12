@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Poulter Sandwich"
-  url: "/tartans/poulter-sandwich/"
+  url: "/tartans/p/po/poulter-sandwich/"
 - name: "Poulter Sandwich"
   url: "/setts/dp69t14dp13t14dp13t69db72lb13db72t69dp68t14dp13/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp69t14dp13t14dp13t69db72lb13db72t69dp68t14dp13/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBBBWBBBBB](/stripes/bbbbbbbwbbbbb/).
 
-Part of the [Poulter Sandwich](/tartans/poulter-sandwich/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Poulter Sandwich](/tartans/p/po/poulter-sandwich/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

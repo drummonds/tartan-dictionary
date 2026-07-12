@@ -6,6 +6,8 @@ This is the **Glassary (Initial)** sett — one scale-free proportion (`w2r2g3r6
 [WGGGWKWGKGKGKWWWKGKGKRWKWRGRW](/stripes/wgggwkwgkgkgkwwwkgkgkrwkwrgrw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Glassary](/tartans/g/gl/glassary-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Thousand Islands"
+  url: "/tartans/t/th/thousand-islands/"
 - name: "Thousand Islands District Tartan"
   url: "/setts/db20lb8lo5k6lb4r3lb3y30r2lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db20lb8lo5k6lb4r3lb3y30r2lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWYKWRWGRW](/stripes/bwykwrwgrw/).
+
+Part of the [Thousand Islands](/tartans/t/th/thousand-islands/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

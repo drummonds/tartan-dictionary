@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wagga Wagga"
+  url: "/tartans/w/wa/wagga-wagga/"
+- name: "Wagga Wagga"
   url: "/setts/dg16k6dg16g32k2dy7y2dy7y2dy7t13/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg16k6dg16g32k2dy7y2dy7y2dy7t13/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGGKGGGGGBGGGGGKGGK](/stripes/gkggkgggggbgggggkggk/).
+
+Part of the [Wagga Wagga](/tartans/w/wa/wagga-wagga/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

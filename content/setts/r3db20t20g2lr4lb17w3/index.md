@@ -6,6 +6,8 @@ This is the **Silversea (Corporate)** sett — one scale-free proportion (`r3db2
 [RBBGYWW](/stripes/rbbgyww/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Silversea](/tartans/s/si/silversea-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

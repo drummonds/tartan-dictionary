@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Nebar"
+  url: "/tartans/n/ne/nebar/"
 - name: "Nebar (Corporate)"
   url: "/setts/n24r11k6db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n24r11k6db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRB](/stripes/bkrb/).
+
+Part of the [Nebar](/tartans/n/ne/nebar/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

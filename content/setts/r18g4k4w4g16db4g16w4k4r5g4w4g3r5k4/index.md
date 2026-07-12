@@ -6,6 +6,8 @@ This is the **Gayre Bodyguard (Clan)** sett — one scale-free proportion (`r18g
 [KRGWGRKWGBGWKGR](/stripes/krgwgrkwgbgwkgr/). It is recorded as a single **variant**, below.
 First attested **~1800**.
 
+Part of the [Gayre Bodyguard](/tartans/g/ga/gayre-bodyguard/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

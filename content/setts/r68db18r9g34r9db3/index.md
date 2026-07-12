@@ -6,6 +6,8 @@ This is the **MacKintosh #2** sett — one scale-free proportion (`r68db18r9g34r
 [BRGRBR](/stripes/brgrbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacKintosh 3](/tartans/m/ma/mackintosh-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

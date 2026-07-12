@@ -6,6 +6,8 @@ This is the **Herbage of Laggan (Personal)** sett — one scale-free proportion 
 [BBBKG](/stripes/bbbkg/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Herbage of Laggan](/tartans/h/he/herbage-of-laggan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

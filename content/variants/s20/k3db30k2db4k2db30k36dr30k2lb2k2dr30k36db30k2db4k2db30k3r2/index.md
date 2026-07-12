@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Evans"
+  url: "/clan/evans/"
+- name: "Evans of Wales"
+  url: "/families/evans-of-wales/"
+- name: "Evans of Wales"
+  url: "/tartans/e/ev/evans-of-wales/"
 - name: "Evans of Wales"
   url: "/setts/k3db30k2db4k2db30k36dr30k2lb2k2dr30k36db30k2db4k2db30k3r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k3db30k2db4k2db30k36dr30k2lb2k2dr30k36db30k2db4k2db30k3r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBKBKBKWKBKBKBKBKR](/stripes/kbkbkbkbkwkbkbkbkbkr/).
+
+Part of the [Evans of Wales](/tartans/e/ev/evans-of-wales/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

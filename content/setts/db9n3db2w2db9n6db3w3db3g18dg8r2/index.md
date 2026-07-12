@@ -7,6 +7,8 @@ This is the **Patterson, William J.M. (Personal)** sett — one scale-free propo
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2009**.
 
+Part of the [Patterson, William J.M.](/tartans/p/pa/patterson-william-j-m/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

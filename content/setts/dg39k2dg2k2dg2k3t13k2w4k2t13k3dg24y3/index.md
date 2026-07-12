@@ -6,7 +6,7 @@ This is the **Proctor (Name)** sett — one scale-free proportion (`dg39k2dg2k2d
 [GGKBKWKBKGKGKG](/stripes/ggkbkwkbkgkgkg/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Proctor](/tartans/proctor/) tartan — the named design grouping this sett with its kin.
+Part of the [Proctor](/tartans/p/pr/proctor/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

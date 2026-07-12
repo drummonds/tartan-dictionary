@@ -6,6 +6,8 @@ This is the **Eynon (Welsh Name)** sett — one scale-free proportion (`k11ki1g3
 [KGGKGKGKGKKKGKK](/stripes/kggkgkgkgkkkgkk/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Eynon](/tartans/e/ey/eynon/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

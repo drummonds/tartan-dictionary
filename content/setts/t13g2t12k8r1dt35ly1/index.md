@@ -6,6 +6,8 @@ This is the **Spirit of South Lanarkshire District Tartan** sett — one scale-f
 [BGBKRBY](/stripes/bgbkrby/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Spirit of South Lanarkshire](/tartans/s/sp/spirit-of-south-lanarkshire/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

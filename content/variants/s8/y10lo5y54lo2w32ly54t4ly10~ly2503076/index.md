@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cladish"
+  url: "/tartans/c/cl/cladish/"
+- name: "Cladish"
   url: "/setts/y10lo5y54lo2w32ly54t4ly10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y10lo5y54lo2w32ly54t4ly10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGYWYBY](/stripes/gygywyby/).
+
+Part of the [Cladish](/tartans/c/cl/cladish/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

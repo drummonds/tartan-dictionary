@@ -18,5 +18,5 @@ date: 2023-03-18
 </tbody>
 </table>
 
-[See the Dunbar of Pitgaveny tartan and all its setts →](/tartans/dunbar-of-pitgaveny/)
+[See the Dunbar of Pitgaveny tartan and all its setts →](/tartans/d/du/dunbar-of-pitgaveny/)
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Law Society of Scotland"
+  url: "/tartans/l/la/law-society-of-scotland/"
+- name: "Law Society of Scotland"
   url: "/setts/t5dr3t30k6w4k6dg24dr4dg6dr3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t5dr3t30k6w4k6dg24dr4dg6dr3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKWKGBGB](/stripes/bbbkwkgbgb/).
+
+Part of the [Law Society of Scotland](/tartans/l/la/law-society-of-scotland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

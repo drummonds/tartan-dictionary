@@ -6,7 +6,7 @@ This is the **Stewart of Rothesay Clan Tartan** sett — one scale-free proporti
 [GRBRKRGRKRW](/stripes/grbrkrgrkrw/). It is recorded as a single **variant**, below.
 First attested **1829**.
 
-Part of the [Stewart of Rothesay](/tartans/stewart-of-rothesay/) tartan — the named design grouping this sett with its kin.
+Part of the [Stewart of Rothesay](/tartans/s/st/stewart-of-rothesay/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

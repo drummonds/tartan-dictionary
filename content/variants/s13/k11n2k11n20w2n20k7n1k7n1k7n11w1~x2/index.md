@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Westwood MacRock"
+  url: "/tartans/w/we/westwood-macrock/"
 - name: "Westwood MacRock (Fashion)"
   url: "/setts/k11n2k11n20w2n20k7n1k7n1k7n11w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k11n2k11n20w2n20k7n1k7n1k7n11w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBWBKBKBKBW](/stripes/kbkbwbkbkbkbw/).
+
+Part of the [Westwood MacRock](/tartans/w/we/westwood-macrock/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

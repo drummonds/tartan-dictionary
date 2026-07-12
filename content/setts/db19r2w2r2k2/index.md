@@ -6,7 +6,7 @@ This is the **Laing of Archiestown** sett — one scale-free proportion (`db19r2
 [BRWRK](/stripes/brwrk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Laing of Archiestown](/tartans/laing-of-archiestown/) tartan — the named design grouping this sett with its kin.
+Part of the [Laing of Archiestown](/tartans/l/la/laing-of-archiestown/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

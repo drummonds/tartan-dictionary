@@ -6,6 +6,8 @@ This is the **Merwe** sett — one scale-free proportion (`g15y2k30g32r3w2`), co
 [GGKGRW](/stripes/ggkgrw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Merwe](/tartans/m/me/merwe/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

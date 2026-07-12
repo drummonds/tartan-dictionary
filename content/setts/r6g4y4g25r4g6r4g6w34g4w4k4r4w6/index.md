@@ -6,7 +6,7 @@ This is the **Hay, White Dress** sett — one scale-free proportion (`r6g4y4g25r
 [RGGGRGRGWGWKRW](/stripes/rgggrgrgwgwkrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Hay, White Dress](/tartans/hay-white-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Hay, White Dress](/tartans/h/ha/hay-white-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **St Lawrence Trade** sett — one scale-free proportion (`dg2do13dg
 [GBGGBBGR](/stripes/gbggbbgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [St Lawrence Trade](/tartans/s/st/st-lawrence-trade/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

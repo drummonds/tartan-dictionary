@@ -6,6 +6,8 @@ This is the **King George VI (Green Stewart)** sett — one scale-free proportio
 [BKGKWKGRKRWRKRGKWKGKBG](/stripes/bkgkwkgrkrwrkrgkwkgkbg/). It is recorded as a single **variant**, below.
 First attested **1930**.
 
+Part of the [King George](/tartans/k/ki/king-george/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

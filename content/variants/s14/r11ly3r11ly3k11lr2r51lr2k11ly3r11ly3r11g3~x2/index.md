@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hackston or Halkerston"
+  url: "/tartans/h/ha/hackston-or-halkerston/"
 - name: "Hackston (Green stripe) or Halkerston"
   url: "/setts/r11ly3r11ly3k11lr2r51lr2k11ly3r11ly3r11g3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r11ly3r11ly3k11lr2r51lr2k11ly3r11ly3r11g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRYRYKYRYKYRYR](/stripes/gryrykyrykyryr/).
+
+Part of the [Hackston or Halkerston](/tartans/h/ha/hackston-or-halkerston/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

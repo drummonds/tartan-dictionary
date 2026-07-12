@@ -6,6 +6,8 @@ This is the **Hier (Personal)** sett — one scale-free proportion (`lb58ly2db24
 [WBRGBYW](/stripes/wbrgbyw/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
+Part of the [Hier](/tartans/h/hi/hier/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

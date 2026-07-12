@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cromdale"
+  url: "/tartans/c/cr/cromdale/"
+- name: "Cromdale"
   url: "/setts/r20w1r20k2r20g8y1k4db1k1db4r1db4k1db1k4g8y1r20k2r20w1r20/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r20w1r20k2r20g8y1k4db1k1db4r1db4k1db1k4g8y1r20k2r20w1r20/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRKRGGKBKBRBKBKGGRKRWR](/stripes/rwrkrggkbkbrbkbkggrkrwr/).
+
+Part of the [Cromdale](/tartans/c/cr/cromdale/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 

@@ -6,7 +6,7 @@ This is the **Kleto, Susan (Personal)** sett — one scale-free proportion (`w1d
 [WBYRYGGGW](/stripes/wbyrygggw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Kleto, Susan](/tartans/kleto-susan/) tartan — the named design grouping this sett with its kin.
+Part of the [Kleto, Susan](/tartans/k/kl/kleto-susan/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

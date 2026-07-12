@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "University of Nebraska"
+  url: "/tartans/u/un/university-of-nebraska/"
 - name: "University of Nebraska Alumni Association"
   url: "/setts/w6k2w2k31r41k2r2k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w6k2w2k31r41k2r2k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRKWKW](/stripes/krkrkwkw/).
+
+Part of the [University of Nebraska](/tartans/u/un/university-of-nebraska/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

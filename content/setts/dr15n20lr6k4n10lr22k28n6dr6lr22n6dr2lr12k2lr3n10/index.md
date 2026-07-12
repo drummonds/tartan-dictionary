@@ -6,6 +6,8 @@ This is the **Alexander Brothers - 1993 (Corp.)** sett — one scale-free propor
 [BBYKBYKBBYBBYKYB](/stripes/bbykbykbbybbykyb/). It is recorded as a single **variant**, below.
 First attested **1994**.
 
+Part of the [Alexander](/tartans/a/al/alexander/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

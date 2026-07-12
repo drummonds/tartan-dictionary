@@ -6,6 +6,8 @@ This is the **Kremlin Zoria** sett — one scale-free proportion (`w5g2w5db5r2db
 [RBGGGBRBWGW](/stripes/rbgggbrbwgw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Kremlin Zoria](/tartans/k/kr/kremlin-zoria/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

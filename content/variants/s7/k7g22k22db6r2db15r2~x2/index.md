@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "National Galleries of Scotland"
+  url: "/tartans/n/na/national-galleries-of-scotland/"
+- name: "National Galleries of Scotland"
   url: "/setts/k7g22k22db6r2db15r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k7g22k22db6r2db15r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKBRBR](/stripes/kgkbrbr/).
+
+Part of the [National Galleries of Scotland](/tartans/n/na/national-galleries-of-scotland/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

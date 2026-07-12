@@ -6,6 +6,8 @@ This is the **Martha De Laurentiis** sett — one scale-free proportion (`db35g3
 [BGWRBRBWBWBRBRBWBWBR](/stripes/bgwrbrbwbwbrbrbwbwbr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Martha De Laurentiis](/tartans/m/ma/martha-de-laurentiis-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

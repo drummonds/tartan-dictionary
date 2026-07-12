@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacGregor (Clan Gregor)"
+  url: "/clan/macgregor/"
+- name: "MacGregor of Glen Strae"
+  url: "/families/macgregor-of-glen-strae/"
+- name: "MacGregor of Glen Strae"
+  url: "/tartans/m/ma/macgregor-of-glen-strae/"
 - name: "MacGregor of Glen Straye Htg Clan Tartan"
   url: "/setts/g8r2g9r16g1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g8r2g9r16g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRG](/stripes/grgrg/).
+
+Part of the [MacGregor of Glen Strae](/tartans/m/ma/macgregor-of-glen-strae/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 

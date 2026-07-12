@@ -6,6 +6,8 @@ This is the **Hogg Dress** sett — one scale-free proportion (`lb34r3lb8db4lb8k
 [WKGKWBWRW](/stripes/wkgkwbwrw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Hogg Dress](/tartans/h/ho/hogg-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Hong Kong Police Pipe Band** sett — one scale-free proportion (`
 [KWGWGRKRGWWKRGWGRKWWGRKRGWGWKR](/stripes/kwgwgrkrgwwkrgwgrkwwgrkrgwgwkr/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
+Part of the [Hong Kong Police Pipe Band](/tartans/h/ho/hong-kong-police-pipe-band/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

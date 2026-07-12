@@ -6,6 +6,8 @@ This is the **California Highway Patrol (Corporate** sett — one scale-free pro
 [KGGYGYBY](/stripes/kggygyby/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
+Part of the [California Highway Patrol (Corporate](/tartans/c/ca/california-highway-patrol-corporate/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

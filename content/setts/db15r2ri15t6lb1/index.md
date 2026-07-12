@@ -6,6 +6,8 @@ This is the **O2 (Corporate)** sett — one scale-free proportion (`db15r2ri15t6
 [BRRBW](/stripes/brrbw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [O2](/tartans/o/o/o2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

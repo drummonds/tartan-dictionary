@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ibrox"
+  url: "/tartans/i/ib/ibrox/"
+- name: "Ibrox"
   url: "/setts/db4r2db2r4k7db10w2k13db18k2db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4r2db2r4k7db10w2k13db18k2db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKWBKRBRB](/stripes/bkbkwbkrbrb/).
+
+Part of the [Ibrox](/tartans/i/ib/ibrox/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

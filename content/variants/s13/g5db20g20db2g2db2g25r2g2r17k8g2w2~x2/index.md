@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Boyle, Cameron"
+  url: "/tartans/b/bo/boyle-cameron/"
 - name: "Boyle, Cameron (Personal)"
   url: "/setts/g5db20g20db2g2db2g25r2g2r17k8g2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g5db20g20db2g2db2g25r2g2r17k8g2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGBGBGRGRKGW](/stripes/gbgbgbgrgrkgw/).
+
+Part of the [Boyle, Cameron](/tartans/b/bo/boyle-cameron/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

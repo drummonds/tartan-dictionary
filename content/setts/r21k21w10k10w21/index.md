@@ -6,6 +6,8 @@ This is the **Havel** sett — one scale-free proportion (`r21k21w10k10w21`), co
 [RKWKW](/stripes/rkwkw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Havel](/tartans/h/ha/havel/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

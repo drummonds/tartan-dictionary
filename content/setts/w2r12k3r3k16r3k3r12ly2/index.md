@@ -6,7 +6,7 @@ This is the **MacIver (Clan)** sett — one scale-free proportion (`w2r12k3r3k16
 [WRKRKRKRY](/stripes/wrkrkrkry/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [MacIver](/tartans/maciver/) tartan — the named design grouping this sett with its kin.
+Part of the [MacIver](/tartans/m/ma/maciver/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Duke of York"
+  url: "/tartans/d/du/duke-of-york/"
 - name: "Duke of York (Royal)"
   url: "/setts/db61r6w2r8y2db3y2db15/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db61r6w2r8y2db3y2db15/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGRWRB](/stripes/bgbgrwrb/).
+
+Part of the [Duke of York](/tartans/d/du/duke-of-york/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

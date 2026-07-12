@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Barrington Municipality"
+  url: "/tartans/b/ba/barrington-municipality/"
+- name: "Barrington Municipality"
   url: "/setts/y5n3db6dy8w5r17k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y5n3db6dy8w5r17k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBGWRK](/stripes/gbbgwrk/).
+
+Part of the [Barrington Municipality](/tartans/b/ba/barrington-municipality/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -10,7 +10,7 @@ crumbs:
 - name: "Newlands of Lauriston"
   url: "/families/newlands-of-lauriston/"
 - name: "Newlands of Lauriston"
-  url: "/tartans/newlands-of-lauriston/"
+  url: "/tartans/n/ne/newlands-of-lauriston/"
 - name: "Newlands of Lauriston (Name)"
   url: "/setts/t9k9t9dr2k20g13dr2g4dr2g4/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/t9k9t9dr2k20g13dr2g4dr2g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBBKGBGBG](/stripes/bkbbkgbgbg/).
 
-Part of the [Newlands of Lauriston](/tartans/newlands-of-lauriston/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Newlands of Lauriston](/tartans/n/ne/newlands-of-lauriston/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

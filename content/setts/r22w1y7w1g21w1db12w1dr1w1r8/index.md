@@ -6,6 +6,8 @@ This is the **Bendigo** sett — one scale-free proportion (`r22w1y7w1g21w1db12w
 [RWBWBWGWGWR](/stripes/rwbwbwgwgwr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Bendigo](/tartans/b/be/bendigo/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

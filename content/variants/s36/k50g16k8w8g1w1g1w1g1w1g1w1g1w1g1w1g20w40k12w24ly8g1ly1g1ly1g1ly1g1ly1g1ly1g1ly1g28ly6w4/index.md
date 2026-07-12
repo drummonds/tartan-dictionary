@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Saskatchewan"
+  url: "/tartans/s/sa/saskatchewan-4/"
 - name: "Saskatchewan (Commemorative)"
   url: "/setts/k50g16k8w8g1w1g1w1g1w1g1w1g1w1g1w1g20w40k12w24ly8g1ly1g1ly1g1ly1g1ly1g1ly1g1ly1g28ly6w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k50g16k8w8g1w1g1w1g1w1g1w1g1w1g1w1g20w40k12w24ly8g1ly1g1ly1g1ly1g1ly1g1ly1g1ly1g28ly6w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKWGWGWGWGWGWGWGWKWYGYGYGYGYGYGYGYW](/stripes/kgkwgwgwgwgwgwgwgwkwygygygygygygygyw/).
+
+Part of the [Saskatchewan](/tartans/s/sa/saskatchewan-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
 

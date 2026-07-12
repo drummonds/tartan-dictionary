@@ -6,6 +6,8 @@ This is the **Livingstone (Australia) Dress** sett — one scale-free proportion
 [GRGKGBGKGBW](/stripes/grgkgbgkgbw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Livingstone Dress](/tartans/l/li/livingstone-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

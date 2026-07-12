@@ -6,6 +6,8 @@ This is the **Dublin Lie-ins (Corporate)** sett — one scale-free proportion (`
 [BKBKWBRBWKW](/stripes/bkbkwbrbwkw/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Dublin Lie-ins](/tartans/d/du/dublin-lie-ins/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

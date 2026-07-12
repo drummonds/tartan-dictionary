@@ -6,6 +6,8 @@ This is the **Rothesay & Caithness Fencibles (Mil)** sett — one scale-free pro
 [BKGKG](/stripes/bkgkg/). It is recorded as a single **variant**, below.
 First attested **~2014**.
 
+Part of the [Rothesay & Caithness Fencibles](/tartans/r/ro/rothesay-caithness-fencibles/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

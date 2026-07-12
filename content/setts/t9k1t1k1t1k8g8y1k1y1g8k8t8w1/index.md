@@ -6,7 +6,7 @@ This is the **Dyce** sett — one scale-free proportion (`t9k1t1k1t1k8g8y1k1y1g8
 [BKBKBKGGKGGKBW](/stripes/bkbkbkggkggkbw/). It is recorded as a single **variant**, below.
 First attested **1906**.
 
-Part of the [Dyce](/tartans/dyce-3/) tartan — the named design grouping this sett with its kin.
+Part of the [Dyce](/tartans/d/dy/dyce-3/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

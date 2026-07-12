@@ -6,6 +6,8 @@ This is the **West Virginia Old Shawl** sett — one scale-free proportion (`ly1
 [YGBRGRWGRGY](/stripes/ygbrgrwgrgy/). It is recorded as a single **variant**, below.
 First attested **1820**.
 
+Part of the [West Virginia Old Shawl](/tartans/w/we/west-virginia-old-shawl/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

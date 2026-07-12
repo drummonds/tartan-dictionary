@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "City of Barrie"
+  url: "/tartans/c/ci/city-of-barrie/"
+- name: "City of Barrie"
   url: "/setts/t50r3t4k8n4k2y3k2r12w2r4t4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t50r3t4k8n4k2y3k2r12w2r4t4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBKBKGKRWRB](/stripes/brbkbkgkrwrb/).
+
+Part of the [City of Barrie](/tartans/c/ci/city-of-barrie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

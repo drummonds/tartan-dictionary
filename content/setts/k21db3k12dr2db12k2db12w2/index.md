@@ -6,6 +6,8 @@ This is the **Inverness Caledonian Thistle F.C Corporate Weavers Tartan** sett â
 [KBKBBKBW](/stripes/kbkbbkbw/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Inverness Caledonian Thistle F.C Corporate Weavers](/tartans/i/in/inverness-caledonian-thistle-f-c-corporate-weavers/) tartan â€” the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

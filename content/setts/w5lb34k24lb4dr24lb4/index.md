@@ -6,6 +6,8 @@ This is the **Wcwm 759-3** sett — one scale-free proportion (`w5lb34k24lb4dr24
 [WBWKWW](/stripes/wbwkww/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Wcwm 759-3](/tartans/w/wc/wcwm-759-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

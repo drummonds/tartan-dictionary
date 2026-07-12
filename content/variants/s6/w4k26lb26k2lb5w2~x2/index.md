@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Indian Pipe Band"
+  url: "/tartans/i/in/indian-pipe-band/"
 - name: "Indian Pipe Band (Corporate)"
   url: "/setts/w4k26lb26k2lb5w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4k26lb26k2lb5w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKWKWW](/stripes/wkwkww/).
+
+Part of the [Indian Pipe Band](/tartans/i/in/indian-pipe-band/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

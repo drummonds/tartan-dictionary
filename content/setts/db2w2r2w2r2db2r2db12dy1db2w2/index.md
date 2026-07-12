@@ -6,6 +6,8 @@ This is the **Good Morning America (Corporate)** sett — one scale-free proport
 [BWRWRBRBGBW](/stripes/bwrwrbrbgbw/). It is recorded as a single **variant**, below.
 First attested **~2005**.
 
+Part of the [Good Morning America](/tartans/g/go/good-morning-america/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

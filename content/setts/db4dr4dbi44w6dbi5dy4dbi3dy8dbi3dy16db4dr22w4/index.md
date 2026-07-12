@@ -6,6 +6,8 @@ This is the **Largs District Tartan** sett — one scale-free proportion (`db4dr
 [BBBWBGBGBGBBW](/stripes/bbbwbgbgbgbbw/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
+Part of the [Largs](/tartans/l/la/largs/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

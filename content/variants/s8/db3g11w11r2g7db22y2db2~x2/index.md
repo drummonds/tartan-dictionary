@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Bahamas"
-  url: "/tartans/bahamas/"
+  url: "/tartans/b/ba/bahamas/"
 - name: "Bahamas"
   url: "/setts/db3g11w11r2g7db22y2db2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db3g11w11r2g7db22y2db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGRWGB](/stripes/bgbgrwgb/).
 
-Part of the [Bahamas](/tartans/bahamas/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Bahamas](/tartans/b/ba/bahamas/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

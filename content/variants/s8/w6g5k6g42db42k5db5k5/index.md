@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ben Lomond"
-  url: "/tartans/ben-lomond/"
+  url: "/tartans/b/be/ben-lomond/"
 - name: "Ben Lomond Fashion Tartan"
   url: "/setts/w6g5k6g42db42k5db5k5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w6g5k6g42db42k5db5k5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBGKGW](/stripes/kbkbgkgw/).
 
-Part of the [Ben Lomond](/tartans/ben-lomond/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ben Lomond](/tartans/b/be/ben-lomond/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

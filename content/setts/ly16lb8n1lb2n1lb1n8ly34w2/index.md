@@ -6,6 +6,8 @@ This is the **Stuart of Bute St Colmac** sett — one scale-free proportion (`ly
 [WYBWBWBWY](/stripes/wybwbwbwy/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Stuart of Bute St Colmac](/tartans/s/st/stuart-of-bute-st-colmac/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

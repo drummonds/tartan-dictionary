@@ -6,6 +6,8 @@ This is the **Montrose (Graham)** sett — one scale-free proportion (`y1k1r8dg8
 [GKRGKGRKG](/stripes/gkrgkgrkg/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
+Part of the [Graham Dress](/tartans/g/gr/graham-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

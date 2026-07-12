@@ -6,7 +6,7 @@ This is the **Nova Scotia, dress** sett — one scale-free proportion (`db2w20r1
 [BWRGGBGBGBW](/stripes/bwrggbgbgbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Nova Scotia Dress](/tartans/nova-scotia-dress-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Nova Scotia Dress](/tartans/n/no/nova-scotia-dress-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

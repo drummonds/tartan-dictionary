@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Black Scottish National"
+  url: "/tartans/b/bl/black-scottish-national/"
 - name: "Black Scottish National Tartan"
   url: "/setts/o8w1o1dp1o1k7g7k1g3k1g7k7o7k1dp3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o8w1o1dp1o1k7g7k1g3k1g7k7o7k1dp3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRKGKGKGKRBRWR](/stripes/bkrkgkgkgkrbrwr/).
+
+Part of the [Black Scottish National](/tartans/b/bl/black-scottish-national/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 

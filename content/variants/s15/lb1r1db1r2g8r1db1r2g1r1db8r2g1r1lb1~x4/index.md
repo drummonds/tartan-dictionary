@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacIntyre"
+  url: "/clan/macintyre/"
+- name: "MacIntyre of Glenorchy"
+  url: "/families/macintyre-of-glenorchy/"
+- name: "MacIntyre of Glenorchy"
+  url: "/tartans/m/ma/macintyre-of-glenorchy/"
 - name: "MacIntyre of Glenorchy Clan Tartan"
   url: "/setts/lb1r1db1r2g8r1db1r2g1r1db8r2g1r1lb1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb1r1db1r2g8r1db1r2g1r1db8r2g1r1lb1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRBRGRBRGRBRGRW](/stripes/wrbrgrbrgrbrgrw/).
+
+Part of the [MacIntyre of Glenorchy](/tartans/m/ma/macintyre-of-glenorchy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 

@@ -6,7 +6,7 @@ This is the **Shire of Hornwood (USA)** sett — one scale-free proportion (`r18
 [KGRGR](/stripes/kgrgr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Shire of Hornwood](/tartans/shire-of-hornwood/) tartan — the named design grouping this sett with its kin.
+Part of the [Shire of Hornwood](/tartans/s/sh/shire-of-hornwood/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

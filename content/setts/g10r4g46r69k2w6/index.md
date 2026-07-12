@@ -6,6 +6,8 @@ This is the **Colchester & District Pipes & Drums** sett — one scale-free prop
 [GRGRKW](/stripes/grgrkw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Colchester & District P&D (Corporate](/tartans/c/co/colchester-district-p-d-corporate/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

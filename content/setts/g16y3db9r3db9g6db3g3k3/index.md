@@ -6,6 +6,8 @@ This is the **Blarney Castle** sett — one scale-free proportion (`g16y3db9r3db
 [GGBRBGBGK](/stripes/ggbrbgbgk/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Blarney Castle](/tartans/b/bl/blarney-castle/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

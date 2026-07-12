@@ -6,6 +6,8 @@ This is the **PSD: Operation Iraqi Freedom** sett — one scale-free proportion 
 [KGGGBKR](/stripes/kgggbkr/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [PSD: Operation Iraqi Freedom](/tartans/p/ps/psd-operation-iraqi-freedom/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

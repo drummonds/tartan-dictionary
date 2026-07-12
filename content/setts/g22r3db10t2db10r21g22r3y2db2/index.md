@@ -6,6 +6,8 @@ This is the **Glasgow Cathedral 2000** sett — one scale-free proportion (`g22r
 [BGRGRBBBRG](/stripes/bgrgrbbbrg/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Glasgow Cathedral 2000](/tartans/g/gl/glasgow-cathedral-2000/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

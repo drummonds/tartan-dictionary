@@ -6,6 +6,8 @@ This is the **Dundhuin Ladies (Personal)** sett — one scale-free proportion (`
 [BBKGRW](/stripes/bbkgrw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Dundhuin Ladies](/tartans/d/du/dundhuin-ladies/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

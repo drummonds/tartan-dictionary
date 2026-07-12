@@ -6,6 +6,8 @@ This is the **IRPA (Corporate)** sett — one scale-free proportion (`r6n2r2n23k
 [RBRBKRKWRWW](/stripes/rbrbkrkwrww/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [IRPA](/tartans/i/ir/irpa/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

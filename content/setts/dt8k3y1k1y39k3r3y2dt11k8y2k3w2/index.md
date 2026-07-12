@@ -6,6 +6,8 @@ This is the **Afghanistan Memorial** sett — one scale-free proportion (`dt8k3y
 [BKGKGKRGBKGKW](/stripes/bkgkgkrgbkgkw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Afghanistan Memorial](/tartans/a/af/afghanistan-memorial-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

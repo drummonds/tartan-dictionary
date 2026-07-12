@@ -6,7 +6,7 @@ This is the **Iron Horse (Corporate)** sett — one scale-free proportion (`k16n
 [BRKRWBKRBKBRKBWRKRBK](/stripes/brkrwbkrbkbrkbwrkrbk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Iron Horse](/tartans/iron-horse/) tartan — the named design grouping this sett with its kin.
+Part of the [Iron Horse](/tartans/i/ir/iron-horse/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

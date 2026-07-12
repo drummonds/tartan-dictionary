@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Tricotisse"
+  url: "/tartans/t/tr/tricotisse/"
+- name: "Tricotisse"
   url: "/setts/w9k2db9k1lb9w12ly2w12lb24w9lb9/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w9k2db9k1lb9w12ly2w12lb24w9lb9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKBKWWYWWWW](/stripes/wkbkwwywwww/).
+
+Part of the [Tricotisse](/tartans/t/tr/tricotisse/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

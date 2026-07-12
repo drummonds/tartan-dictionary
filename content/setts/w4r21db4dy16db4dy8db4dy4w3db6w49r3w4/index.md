@@ -6,6 +6,8 @@ This is the **Largs Dress District Tartan** sett — one scale-free proportion (
 [WRBGBGBGWBWRW](/stripes/wrbgbgbgwbwrw/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Largs Dress](/tartans/l/la/largs-dress-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

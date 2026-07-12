@@ -6,6 +6,8 @@ This is the **Undiscovered Scotland** sett — one scale-free proportion (`lb3k1
 [GWKWKGGKGGGGGKGGKWKW](/stripes/gwkwkggkgggggkggkwkw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Undiscovered Scotland](/tartans/u/un/undiscovered-scotland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

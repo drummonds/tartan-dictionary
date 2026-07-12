@@ -6,6 +6,8 @@ This is the **Clackson Arisaid (Name?)** sett — one scale-free proportion (`w2
 [GBGBWGW](/stripes/gbgbwgw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Clackson Arisaid](/tartans/c/cl/clackson-arisaid/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

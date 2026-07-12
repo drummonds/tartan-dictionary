@@ -6,6 +6,8 @@ This is the **Wild Rose (Commemorative)** sett — one scale-free proportion (`d
 [BBRBRWWBR](/stripes/bbrbrwwbr/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
+Part of the [Wild Rose](/tartans/w/wi/wild-rose/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

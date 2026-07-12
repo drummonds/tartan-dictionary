@@ -6,6 +6,8 @@ This is the **Bruce of Kinnaird Dress (Dance)** sett — one scale-free proporti
 [WBBKGKWKRW](/stripes/wbbkgkwkrw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Bruce of Kinnaird Dress](/tartans/b/br/bruce-of-kinnaird-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

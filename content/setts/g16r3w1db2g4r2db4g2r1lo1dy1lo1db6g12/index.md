@@ -6,6 +6,8 @@ This is the **Heneghan Commemorative Family Tartan** sett — one scale-free pro
 [GBYGYRGBRGBWRG](/stripes/gbygyrgbrgbwrg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Heneghan Commemorative](/tartans/h/he/heneghan-commemorative/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

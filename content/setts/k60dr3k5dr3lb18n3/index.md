@@ -6,6 +6,8 @@ This is the **Ailsa, Navy (Fashion)** sett — one scale-free proportion (`k60dr
 [BWBKBK](/stripes/bwbkbk/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Ailsa, Navy](/tartans/a/ai/ailsa-navy-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

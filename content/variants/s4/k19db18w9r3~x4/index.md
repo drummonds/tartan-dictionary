@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Raven"
+  url: "/tartans/r/ra/raven/"
 - name: "Raven (Fashion)"
   url: "/setts/k19db18w9r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k19db18w9r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBWR](/stripes/kbwr/).
+
+Part of the [Raven](/tartans/r/ra/raven/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 

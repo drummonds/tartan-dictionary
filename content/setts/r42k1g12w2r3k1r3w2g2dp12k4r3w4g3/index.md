@@ -6,6 +6,8 @@ This is the **Lendrum (Clan)** sett — one scale-free proportion (`r42k1g12w2r3
 [GWRKBGWRKRWGKR](/stripes/gwrkbgwrkrwgkr/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
+Part of the [Lendrum](/tartans/l/le/lendrum-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

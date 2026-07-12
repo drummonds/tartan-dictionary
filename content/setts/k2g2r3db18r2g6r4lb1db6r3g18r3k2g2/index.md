@@ -6,6 +6,8 @@ This is the **Glen Orchy #2 or MacIntyre** sett — one scale-free proportion (`
 [GKRGRBWRGRBRGK](/stripes/gkrgrbwrgrbrgk/). It is recorded as a single **variant**, below.
 First attested **1822**.
 
+Part of the [Glen Orchy](/tartans/g/gl/glen-orchy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

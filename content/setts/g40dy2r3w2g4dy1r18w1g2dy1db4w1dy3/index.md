@@ -6,6 +6,8 @@ This is the **Morgan Jocelyn Osmélian Peregrine (Personal)** sett — one scale
 [GGRWGGRWGGBWG](/stripes/ggrwggrwggbwg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Morgan Jocelyn Osmélian Peregrine](/tartans/m/mo/morgan-jocelyn-osm-lian-peregrine/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

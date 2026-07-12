@@ -6,6 +6,8 @@ This is the **Duncan of Sketraw Clan Tartan** sett — one scale-free proportion
 [KGKGKGKBRBKWKGKBKGKWKBRBKGKGKGKR](/stripes/kgkgkgkbrbkwkgkbkgkwkbrbkgkgkgkr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Duncan of Sketraw](/tartans/d/du/duncan-of-sketraw-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

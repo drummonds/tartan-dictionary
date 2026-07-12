@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Thermos Un-named"
+  url: "/tartans/t/th/thermos-un-named/"
 - name: "Thermos Un-named (aretefact)"
   url: "/setts/k6r20w2dr9w3lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k6r20w2dr9w3lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRWBWW](/stripes/krwbww/).
+
+Part of the [Thermos Un-named](/tartans/t/th/thermos-un-named/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

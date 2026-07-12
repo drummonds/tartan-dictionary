@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified"
+  url: "/tartans/u/un/unidentified-29/"
 - name: "Unidentified (Paisley)"
   url: "/setts/db4k1db2k1db1k2db1k6g1k2g2k2g2k1g3k1g28r2g6r6w2r33k1r3k1r2k2r2k2r1k6g8k1dy2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4k1db2k1db1k2db1k6g1k2g2k2g2k1g3k1g28r2g6r6w2r33k1r3k1r2k2r2k2r1k6g8k1dy2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKGKGKGKGKGRGRWRKRKRKRKRKGKGKGKRKRKRKRKRWRGRGKGKGKGKGKBKBKBK](/stripes/bkbkbkbkgkgkgkgkgrgrwrkrkrkrkrkgkgkgkrkrkrkrkrwrgrgkgkgkgkgkbkbkbk/).
+
+Part of the [Unidentified](/tartans/u/un/unidentified-29/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [66 stripe tartan](/stripes/stripes66/).
 

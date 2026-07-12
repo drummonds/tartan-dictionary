@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Shipley, Ian"
+  url: "/tartans/s/sh/shipley-ian-2/"
 - name: "Shipley, Ian (Personal)"
   url: "/setts/g3r3g3lb3yi13lb5yi3lb5k9g3lb3g3yi6lb3k3lb16y3lb3g3lb3r3lb16k3lb3yi6g3lb3g3k9lb5yi3lb5yi13lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g3r3g3lb3yi13lb5yi3lb5k9g3lb3g3yi6lb3k3lb16y3lb3g3lb3r3lb16k3lb3yi6g3lb3g3k9lb5yi3lb5yi13lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGWGWGWKGWGGWKWGWGWRWKWGGWGKWGWGW](/stripes/grgwgwgwkgwggwkwgwgwrwkwggwgkwgwgw/).
+
+Part of the [Shipley, Ian](/tartans/s/sh/shipley-ian-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [34 stripe tartan](/stripes/stripes34/).
 

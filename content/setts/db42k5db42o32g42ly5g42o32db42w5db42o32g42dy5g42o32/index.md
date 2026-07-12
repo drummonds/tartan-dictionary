@@ -6,7 +6,7 @@ This is the **Amnesty** sett — one scale-free proportion (`db42k5db42o32g42ly5
 [BKBRGYGRBWBRGGGR](/stripes/bkbrgygrbwbrgggr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Amnesty](/tartans/amnesty/) tartan — the named design grouping this sett with its kin.
+Part of the [Amnesty](/tartans/a/am/amnesty/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

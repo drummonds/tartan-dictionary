@@ -6,6 +6,8 @@ This is the **Open Championship, The** sett — one scale-free proportion (`y1db
 [GBBBG](/stripes/gbbbg/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Open Championship, The](/tartans/o/op/open-championship-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

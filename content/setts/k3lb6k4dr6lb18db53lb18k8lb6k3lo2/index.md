@@ -6,7 +6,7 @@ This is the **Australia 2000 (Fashion)** sett — one scale-free proportion (`k3
 [KWKBWBWKWKY](/stripes/kwkbwbwkwky/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
-Part of the [Australia 2000](/tartans/australia-2000/) tartan — the named design grouping this sett with its kin.
+Part of the [Australia 2000](/tartans/a/au/australia-2000/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

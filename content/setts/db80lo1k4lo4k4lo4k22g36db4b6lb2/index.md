@@ -6,6 +6,8 @@ This is the **Swedish District Tartan** sett — one scale-free proportion (`db8
 [BYKYKYKGBBW](/stripes/bykykykgbbw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Swedish](/tartans/s/sw/swedish/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

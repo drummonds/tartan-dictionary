@@ -6,6 +6,8 @@ This is the **Satisfashion Argyll** sett — one scale-free proportion (`do5lyi1
 [BYYBBYGYBYGYBBYYBY](/stripes/byybbygybygybbyyby/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Satisfashion Argyll](/tartans/s/sa/satisfashion-argyll/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

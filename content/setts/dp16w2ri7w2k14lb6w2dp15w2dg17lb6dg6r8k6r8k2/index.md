@@ -6,7 +6,7 @@ This is the **Gordon, Red (1819)** sett — one scale-free proportion (`dp16w2ri
 [BWRWKWWBWGWGRKRKRKRGWGWBWWKWRW](/stripes/bwrwkwwbwgwgrkrkrkrgwgwbwwkwrw/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
-Part of the [Gordon](/tartans/gordon-6/) tartan — the named design grouping this sett with its kin.
+Part of the [Gordon](/tartans/g/go/gordon-6/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

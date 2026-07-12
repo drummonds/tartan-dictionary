@@ -6,6 +6,8 @@ This is the **Portree, Check** sett — one scale-free proportion (`n38db4n8o2n4
 [BBBRBWBBBBBW](/stripes/bbbrbwbbbbbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Portree, Check](/tartans/p/po/portree-check-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

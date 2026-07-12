@@ -6,6 +6,8 @@ This is the **Instakilt, Blue (Fashion)** sett — one scale-free proportion (`p
 [BWBKBKR](/stripes/bwbkbkr/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Instakilt](/tartans/i/in/instakilt-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

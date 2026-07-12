@@ -6,6 +6,8 @@ This is the **Okada, Yayoi (Personal)** sett — one scale-free proportion (`db1
 [BRRKGKGKBGR](/stripes/brrkgkgkbgr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Okada, Yayoi](/tartans/o/ok/okada-yayoi/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Turnbull"
   url: "/clan/turnbull/"
 - name: "Turnbull Dress"
-  url: "/tartans/turnbull-dress/"
+  url: "/tartans/t/tu/turnbull-dress/"
 - name: "Turnbull Dress"
   url: "/setts/k2db1g10r10ly1/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k2db1g10r10ly1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBGRY](/stripes/kbgry/).
 
-Part of the [Turnbull Dress](/tartans/turnbull-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Turnbull Dress](/tartans/t/tu/turnbull-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

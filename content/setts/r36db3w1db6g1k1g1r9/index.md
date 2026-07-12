@@ -7,7 +7,7 @@ This is the **Inverness** sett — one scale-free proportion (`r36db3w1db6g1k1g1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1822**.
 
-Part of the [Inverness](/tartans/inverness/) tartan — the named design grouping this sett with its kin.
+Part of the [Inverness](/tartans/i/in/inverness/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

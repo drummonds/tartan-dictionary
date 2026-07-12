@@ -6,6 +6,8 @@ This is the **Ascension Island Heritage Society** sett — one scale-free propor
 [RBWBKGR](/stripes/rbwbkgr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Ascension Island Heritage Society](/tartans/a/as/ascension-island-heritage-society/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

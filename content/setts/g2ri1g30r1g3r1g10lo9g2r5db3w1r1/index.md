@@ -6,6 +6,8 @@ This is the **Hans, Jaswinder (Personal)** sett — one scale-free proportion (`
 [GRGRGRGYGRBWR](/stripes/grgrgrgygrbwr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Hans, Jaswinder](/tartans/h/ha/hans-jaswinder/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

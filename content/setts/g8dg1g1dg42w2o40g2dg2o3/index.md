@@ -6,6 +6,8 @@ This is the **MacDonald of Kingsburgh -1746 (Clan)** sett — one scale-free pro
 [GGGGWRGGR](/stripes/ggggwrggr/). It is recorded as a single **variant**, below.
 First attested **1746**.
 
+Part of the [MacDonald of Kingsburgh -1746](/tartans/m/ma/macdonald-of-kingsburgh-1746/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

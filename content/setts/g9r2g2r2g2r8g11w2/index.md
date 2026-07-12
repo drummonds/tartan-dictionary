@@ -6,6 +6,8 @@ This is the **Leeds University Corporate Tartan** sett — one scale-free propor
 [GRGRGRGW](/stripes/grgrgrgw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Leeds University](/tartans/l/le/leeds-university/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

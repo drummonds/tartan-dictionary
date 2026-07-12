@@ -6,6 +6,8 @@ This is the **Kierson** sett — one scale-free proportion (`k22w16dg2w14dg2w16k
 [BKWGWGWK](/stripes/bkwgwgwk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Kierson](/tartans/k/ki/kierson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

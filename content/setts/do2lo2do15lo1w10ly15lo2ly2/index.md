@@ -6,6 +6,8 @@ This is the **Bannockbane Orange Stripes** sett — one scale-free proportion (`
 [BYBYWYYY](/stripes/bybywyyy/). It is recorded as a single **variant**, below.
 First attested **1975**.
 
+Part of the [Bannockbane Orange Stripes](/tartans/b/ba/bannockbane-orange-stripes/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

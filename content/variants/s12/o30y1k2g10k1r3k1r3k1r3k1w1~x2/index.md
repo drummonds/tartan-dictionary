@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Tweedmouth Middle School"
+  url: "/tartans/t/tw/tweedmouth-middle-school/"
+- name: "Tweedmouth Middle School"
   url: "/setts/o30y1k2g10k1r3k1r3k1r3k1w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/o30y1k2g10k1r3k1r3k1r3k1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGKGKRKRKRKW](/stripes/rgkgkrkrkrkw/).
+
+Part of the [Tweedmouth Middle School](/tartans/t/tw/tweedmouth-middle-school/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

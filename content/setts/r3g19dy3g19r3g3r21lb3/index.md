@@ -6,6 +6,8 @@ This is the **Burnett of Powis (Personal)** sett — one scale-free proportion (
 [RGGGRGRW](/stripes/rgggrgrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Burnett of Powis](/tartans/b/bu/burnett-of-powis/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

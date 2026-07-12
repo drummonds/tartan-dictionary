@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Empire Golf Check"
+  url: "/tartans/e/em/empire-golf-check/"
 - name: "Empire Golf Check (Fashion)"
   url: "/setts/r2dp4db2dg25db4dg2db4k11dp4w2dp4dg11db2k2db24dp4db2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2dp4db2dg25db4dg2db4k11dp4w2dp4dg11db2k2db24dp4db2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBBBKBGBWBKBGBGBBR](/stripes/rbbbkbgbwbkbgbgbbr/).
+
+Part of the [Empire Golf Check](/tartans/e/em/empire-golf-check/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 

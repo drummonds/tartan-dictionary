@@ -7,6 +7,8 @@ This is the **Round Table** sett — one scale-free proportion (`lb11db2lb11k2db
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1983**.
 
+Part of the [Round Table](/tartans/r/ro/round-table-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

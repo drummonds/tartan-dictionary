@@ -6,6 +6,8 @@ This is the **Bob the Builder (Corporate?)** sett — one scale-free proportion 
 [WRWRYRYRYWYW](/stripes/wrwryryrywyw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Bob the Builder](/tartans/b/bo/bob-the-builder/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

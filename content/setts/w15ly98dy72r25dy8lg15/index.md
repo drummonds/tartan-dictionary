@@ -6,6 +6,8 @@ This is the **Afternoon Tea / Milk Tea** sett — one scale-free proportion (`w1
 [WYGRGY](/stripes/wygrgy/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Afternoon Tea / Milk Tea](/tartans/a/af/afternoon-tea-milk-tea/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

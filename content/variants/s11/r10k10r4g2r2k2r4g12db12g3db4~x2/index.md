@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hueg"
+  url: "/tartans/h/hu/hueg/"
 - name: "Hueg (Personal)"
   url: "/setts/r10k10r4g2r2k2r4g12db12g3db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r10k10r4g2r2k2r4g12db12g3db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGRKRGRKR](/stripes/bgbgrkrgrkr/).
+
+Part of the [Hueg](/tartans/h/hu/hueg/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

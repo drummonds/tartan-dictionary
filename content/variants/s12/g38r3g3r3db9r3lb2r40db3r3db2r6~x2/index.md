@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacLintock"
-  url: "/tartans/maclintock/"
+  url: "/tartans/m/ma/maclintock/"
 - name: "MacLintock"
   url: "/setts/g38r3g3r3db9r3lb2r40db3r3db2r6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g38r3g3r3db9r3lb2r40db3r3db2r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRBRWRBRBR](/stripes/grgrbrwrbrbr/).
 
-Part of the [MacLintock](/tartans/maclintock/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacLintock](/tartans/m/ma/maclintock/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

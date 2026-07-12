@@ -6,6 +6,8 @@ This is the **MacLulich Clan Tartan** sett — one scale-free proportion (`db33r
 [BRKGKWKGBKBW](/stripes/brkgkwkgbkbw/). It is recorded as a single **variant**, below.
 First attested **1862**.
 
+Part of the [MacBeth](/tartans/m/ma/macbeth-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

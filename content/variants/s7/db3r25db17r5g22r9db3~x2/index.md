@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacFadyan"
+  url: "/tartans/m/ma/macfadyan/"
 - name: "MacFadyan (MacGregor Hastie)"
   url: "/setts/db3r25db17r5g22r9db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db3r25db17r5g22r9db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRGRB](/stripes/brbrgrb/).
+
+Part of the [MacFadyan](/tartans/m/ma/macfadyan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

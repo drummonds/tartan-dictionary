@@ -6,6 +6,8 @@ This is the **Dunlop** sett — one scale-free proportion (`k3r1k30w1o28g1o1w3`)
 [KRKWRGRW](/stripes/krkwrgrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Dunlop](/tartans/d/du/dunlop-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

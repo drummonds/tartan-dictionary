@@ -6,6 +6,8 @@ This is the **Sneddon, Jonathan Taylor (Personal)** sett — one scale-free prop
 [BKWKWKBG](/stripes/bkwkwkbg/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Sneddon, Jonathan Taylor](/tartans/s/sn/sneddon-jonathan-taylor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

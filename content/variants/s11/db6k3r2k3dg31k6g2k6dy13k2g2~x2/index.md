@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Rourke-Frew Hunting"
+  url: "/tartans/r/ro/rourke-frew-hunting-2/"
+- name: "Rourke-Frew Hunting"
   url: "/setts/db6k3r2k3dg31k6g2k6dy13k2g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db6k3r2k3dg31k6g2k6dy13k2g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRKGKGKGKG](/stripes/bkrkgkgkgkg/).
+
+Part of the [Rourke-Frew Hunting](/tartans/r/ro/rourke-frew-hunting-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

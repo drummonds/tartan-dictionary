@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Serenade"
+  url: "/tartans/s/se/serenade-2/"
 - name: "Serenade (Fashion)"
   url: "/setts/db6dp12lg3dp12t6db2t26dp16lb2dp6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db6dp12lg3dp12t6db2t26dp16lb2dp6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBYBBBBBWB](/stripes/bbybbbbbwb/).
+
+Part of the [Serenade](/tartans/s/se/serenade-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

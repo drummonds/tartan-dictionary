@@ -6,6 +6,8 @@ This is the **Drummond Relic** sett — one scale-free proportion (`r26w1k8y1g13
 [RWKGGKWKGKWR](/stripes/rwkggkwkgkwr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Drummond Relic](/tartans/d/dr/drummond-relic/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **MacKenzie Dress #2** sett — one scale-free proportion (`w16db3w3
 [RKBKGKWKGKWBWBW](/stripes/rkbkgkwkgkwbwbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacKenzie Dress](/tartans/m/ma/mackenzie-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

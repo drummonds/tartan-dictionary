@@ -6,6 +6,8 @@ This is the **Kilnsey (Fashion)** sett — one scale-free proportion (`db1n2db2n
 [BBBBBWBWBWBWBWBWBWBWBWBWBWBW](/stripes/bbbbbwbwbwbwbwbwbwbwbwbwbwbw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Kilnsey](/tartans/k/ki/kilnsey/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

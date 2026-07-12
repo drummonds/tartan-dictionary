@@ -1,0 +1,37 @@
+---
+title: "International Karate Alliance"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [BWK](/stripes/bwk/) — the page of every tartan sharing this colour sequence.
+
+The **International Karate Alliance** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/dr8w1k1/">International Karate Alliance</a></td><td><code>DR/160 W20 K/20</code></td><td>220</td><td>~2008</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/dr8w1k1/"><img src="/variants/s3/dr8w1k1~x20/sett.png" alt="International Karate Alliance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- International Karate Fed.
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">220</div><div class="nn-name nn-base"><a href="/variants/s3/dr8w1k1~x20/">International Karate Alliance</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s3/dr8w1k1~x20/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr14k3dg3w1~x2&amp;base=dr8w1k1~x20" title="compare in the TTD">0.76</a></div><div class="nn-threads">54</div><div class="nn-name"><a href="/variants/s4/dr14k3dg3w1~x2/">Bacon, Red (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/dr14k3dg3w1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y6k3r40w3~x2&amp;base=dr8w1k1~x20" title="compare in the TTD">0.76</a></div><div class="nn-threads">190</div><div class="nn-name"><a href="/variants/s4/y6k3r40w3~x2/">Masai Shuka 18 (Artefact)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/y6k3r40w3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r63k16y5~x2&amp;base=dr8w1k1~x20" title="compare in the TTD">0.78</a></div><div class="nn-threads">200</div><div class="nn-name"><a href="/variants/s3/r63k16y5~x2/">McPeek (Fictitious clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/r63k16y5~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r125k26lb20lo16&amp;base=dr8w1k1~x20" title="compare in the TTD">0.78</a></div><div class="nn-threads">233</div><div class="nn-name"><a href="/variants/s4/r125k26lb20lo16/">McPeek (Fashion)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/r125k26lb20lo16/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=y2k3dr31w1~x4&amp;base=dr8w1k1~x20" title="compare in the TTD">0.87</a></div><div class="nn-threads">284</div><div class="nn-name"><a href="/variants/s4/y2k3dr31w1~x4/">Riddick Furya</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/y2k3dr31w1~x4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r30k10y3~x4&amp;base=dr8w1k1~x20" title="compare in the TTD">0.92</a></div><div class="nn-threads">212</div><div class="nn-name"><a href="/variants/s3/r30k10y3~x4/">Masai Shuka 20 (Artefact)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/r30k10y3~x4/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dr3lo2k10w1~x6&amp;base=dr8w1k1~x20" title="compare in the TTD">1.07</a></div><div class="nn-threads">168</div><div class="nn-name"><a href="/variants/s4/dr3lo2k10w1~x6/">St. Eloi</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s4/dr3lo2k10w1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k69r14y5~x2&amp;base=dr8w1k1~x20" title="compare in the TTD">1.10</a></div><div class="nn-threads">204</div><div class="nn-name"><a href="/variants/s3/k69r14y5~x2/">Batson (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s3/k69r14y5~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4r1~x36&amp;base=dr8w1k1~x20" title="compare in the TTD">1.10</a></div><div class="nn-threads">180</div><div class="nn-name"><a href="/variants/s2/k4r1~x36/">St Kilda</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s2/k4r1~x36/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=k4r1~x6&amp;base=dr8w1k1~x20" title="compare in the TTD">1.10</a></div><div class="nn-threads">30</div><div class="nn-name"><a href="/variants/s2/k4r1~x6/">St Kilda District Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s2/k4r1~x6/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/dr14k3dg3w1~x2/"><circle cx="395.3" cy="190.0" r="4" fill="#3465a4"><title>Bacon, Red (Fashion)</title></circle></a><a href="/variants/s4/y6k3r40w3~x2/"><circle cx="479.3" cy="161.6" r="4" fill="#3465a4"><title>Masai Shuka 18 (Artefact)</title></circle></a><a href="/variants/s3/r63k16y5~x2/"><circle cx="425.4" cy="153.4" r="4" fill="#3465a4"><title>McPeek (Fictitious clan)</title></circle></a><a href="/variants/s4/r125k26lb20lo16/"><circle cx="341.8" cy="189.4" r="4" fill="#3465a4"><title>McPeek (Fashion)</title></circle></a><a href="/variants/s4/y2k3dr31w1~x4/"><circle cx="590.4" cy="135.7" r="4" fill="#3465a4"><title>Riddick Furya</title></circle></a><a href="/variants/s3/r30k10y3~x4/"><circle cx="387.2" cy="215.6" r="4" fill="#3465a4"><title>Masai Shuka 20 (Artefact)</title></circle></a><a href="/variants/s4/dr3lo2k10w1~x6/"><circle cx="343.5" cy="184.1" r="4" fill="#3465a4"><title>St. Eloi</title></circle></a><a href="/variants/s3/k69r14y5~x2/"><circle cx="462.1" cy="196.2" r="4" fill="#3465a4"><title>Batson (Personal)</title></circle></a><a href="/variants/s2/k4r1~x36/"><circle cx="442.1" cy="303.2" r="4" fill="#3465a4"><title>St Kilda</title></circle></a><a href="/variants/s2/k4r1~x6/"><circle cx="442.1" cy="303.2" r="4" fill="#3465a4"><title>St Kilda District Tartan</title></circle></a><circle cx="472.4" cy="219.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

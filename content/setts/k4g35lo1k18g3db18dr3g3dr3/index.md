@@ -6,6 +6,8 @@ This is the **Mackay, John W. (Personal)** sett — one scale-free proportion (`
 [BGBBGKYGK](/stripes/bgbbgkygk/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [John.W.Mackay](/tartans/j/jo/john-w-mackay/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

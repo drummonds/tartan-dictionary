@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Golden Broom"
-  url: "/tartans/golden-broom/"
+  url: "/tartans/g/go/golden-broom/"
 - name: "Golden Broom"
   url: "/setts/g12y3g6dr19k1r8k2lb4k2g19k1dr19k1r9/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g12y3g6dr19k1r8k2lb4k2g19k1dr19k1r9/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGBKRKWKGKBKR](/stripes/gggbkrkwkgkbkr/).
 
-Part of the [Golden Broom](/tartans/golden-broom/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Golden Broom](/tartans/g/go/golden-broom/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

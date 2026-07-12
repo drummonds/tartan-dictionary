@@ -10,7 +10,7 @@ crumbs:
 - name: "Murray of Tullibardine"
   url: "/families/murray-of-tullibardine/"
 - name: "Murray of Tullibardine"
-  url: "/tartans/murray-of-tullibardine/"
+  url: "/tartans/m/mu/murray-of-tullibardine/"
 - name: "Murray of Tullibardine - 1820 (Clan)"
   url: "/setts/db7r2db2r5db24r6db2r2k8r2db2r50db50r10dg10r50dg50r30db22r24k3/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db7r2db2r5db24r6db2r2k8r2db2r50db50r10dg10r50dg50r30db22r24k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRBRKRBRBRGRGRBRK](/stripes/brbrbrbrkrbrbrgrgrbrk/).
 
-Part of the [Murray of Tullibardine](/tartans/murray-of-tullibardine/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Murray of Tullibardine](/tartans/m/mu/murray-of-tullibardine/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 

@@ -6,6 +6,8 @@ This is the **Red Hatters United** sett — one scale-free proportion (`k4r2k2ri
 [KRKRKRKBKRKR](/stripes/krkrkrkbkrkr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Red Hatters United](/tartans/r/re/red-hatters-united/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

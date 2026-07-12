@@ -6,6 +6,8 @@ This is the **Geddes** sett — one scale-free proportion (`dp1r5g15r3dp9r10w1`)
 [BRGRBRW](/stripes/brgrbrw/). It is recorded as a single **variant**, below.
 First attested **1840**.
 
+Part of the [Geddes](/tartans/g/ge/geddes/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

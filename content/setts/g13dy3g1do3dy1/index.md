@@ -6,7 +6,7 @@ This is the **Glen Boig** sett — one scale-free proportion (`g13dy3g1do3dy1`),
 [GBGGG](/stripes/gbggg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Glen Boig](/tartans/glen-boig-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Glen Boig](/tartans/g/gl/glen-boig-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

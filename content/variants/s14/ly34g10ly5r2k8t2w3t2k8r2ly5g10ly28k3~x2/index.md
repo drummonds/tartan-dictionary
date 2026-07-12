@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lambert Hunting"
-  url: "/tartans/lambert-hunting/"
+  url: "/tartans/l/la/lambert-hunting/"
 - name: "Lambert Hunting (Personal)"
   url: "/setts/ly34g10ly5r2k8t2w3t2k8r2ly5g10ly28k3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/ly34g10ly5r2k8t2w3t2k8r2ly5g10ly28k3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KYGYRKBWBKRYGY](/stripes/kygyrkbwbkrygy/).
 
-Part of the [Lambert Hunting](/tartans/lambert-hunting/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lambert Hunting](/tartans/l/la/lambert-hunting/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

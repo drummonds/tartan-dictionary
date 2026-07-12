@@ -6,6 +6,8 @@ This is the **Queensferry High School: Ferry Fling** sett — one scale-free pro
 [WWBBWWWWW](/stripes/wwbbwwwww/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Queensferry High School: Ferry Fling](/tartans/q/qu/queensferry-high-school-ferry-fling/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Unnamed, No 20** sett — one scale-free proportion (`lb3k2lb2b8db
 [WKWBBRGBWKW](/stripes/wkwbbrgbwkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unnamed, No 20](/tartans/u/un/unnamed-no-20/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

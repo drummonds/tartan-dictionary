@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cherry Valley New York"
+  url: "/tartans/c/ch/cherry-valley-new-york-2/"
 - name: "Cherry Valley New York (District)"
   url: "/setts/w16r2w2r2w2k16dg2lb2dg2lb2dg10r2o10lb2o2lb2o2k16w15r2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w16r2w2r2w2k16dg2lb2dg2lb2dg10r2o10lb2o2lb2o2k16w15r2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRWKRWRWRRGWGWGKWRWRW](/stripes/wrwkrwrwrrgwgwgkwrwrw/).
+
+Part of the [Cherry Valley New York](/tartans/c/ch/cherry-valley-new-york-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 

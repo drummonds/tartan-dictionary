@@ -6,6 +6,8 @@ This is the **Fountain of the Strong** sett — one scale-free proportion (`o6k3
 [GRGKBKBKGKR](/stripes/grgkbkbkgkr/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Fountain of the Strong](/tartans/f/fo/fountain-of-the-strong/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

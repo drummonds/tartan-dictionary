@@ -6,6 +6,8 @@ This is the **German Heritage** sett — one scale-free proportion (`ly4k2dr8k4d
 [YKBKBKBRKBKBKY](/stripes/ykbkbkbrkbkbky/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [German Heritage](/tartans/g/ge/german-heritage/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

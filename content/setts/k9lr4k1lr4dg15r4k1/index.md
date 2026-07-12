@@ -6,6 +6,8 @@ This is the **Logan - 1797 (Dark)** sett — one scale-free proportion (`k9lr4k1
 [KRGYKYK](/stripes/krgykyk/). It is recorded as a single **variant**, below.
 First attested **1819**.
 
+Part of the [Logan](/tartans/l/lo/logan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

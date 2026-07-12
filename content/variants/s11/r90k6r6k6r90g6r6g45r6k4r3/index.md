@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacPherson-Grant"
+  url: "/tartans/m/ma/macpherson-grant/"
+- name: "MacPherson-Grant"
   url: "/setts/r90k6r6k6r90g6r6g45r6k4r3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r90k6r6k6r90g6r6g45r6k4r3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RKRGRGRKRKR](/stripes/rkrgrgrkrkr/).
+
+Part of the [MacPherson-Grant](/tartans/m/ma/macpherson-grant/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

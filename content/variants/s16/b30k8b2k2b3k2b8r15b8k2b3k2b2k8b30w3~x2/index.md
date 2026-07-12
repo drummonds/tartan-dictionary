@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Chicago, University of.."
+  url: "/tartans/c/ch/chicago-university-of-3/"
+- name: "Chicago, University of.."
   url: "/setts/b30k8b2k2b3k2b8r15b8k2b3k2b2k8b30w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b30k8b2k2b3k2b8r15b8k2b3k2b2k8b30w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBRBKBKBKBW](/stripes/bkbkbkbrbkbkbkbw/).
+
+Part of the [Chicago, University of..](/tartans/c/ch/chicago-university-of-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 

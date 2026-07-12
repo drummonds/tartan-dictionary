@@ -6,6 +6,8 @@ This is the **Masai Shuka 24 (Artefact)** sett — one scale-free proportion (`l
 [WRWW](/stripes/wrww/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
+Part of the [Masai Shuka 24](/tartans/m/ma/masai-shuka-24/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

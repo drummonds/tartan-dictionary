@@ -6,6 +6,8 @@ This is the **Westwood MacAndreas** sett — one scale-free proportion (`r5t6r2t
 [BWRKRWKWKYKYKRBRBR](/stripes/bwrkrwkwkykykrbrbr/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Westwood MacAndreas](/tartans/w/we/westwood-macandreas/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

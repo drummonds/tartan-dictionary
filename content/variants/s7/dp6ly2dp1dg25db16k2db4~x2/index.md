@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lowry"
-  url: "/tartans/lowry/"
+  url: "/tartans/l/lo/lowry/"
 - name: "Lowry"
   url: "/setts/dp6ly2dp1dg25db16k2db4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp6ly2dp1dg25db16k2db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGBYB](/stripes/bkbgbyb/).
 
-Part of the [Lowry](/tartans/lowry/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lowry](/tartans/l/lo/lowry/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

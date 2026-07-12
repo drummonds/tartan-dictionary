@@ -6,6 +6,8 @@ This is the **Muzzi, Massimiliano Baron of Striche** sett — one scale-free pro
 [WRKBKBKGKGKRKRBY](/stripes/wrkbkbkgkgkrkrby/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Muzzi, Massimiliano Baron of Striche](/tartans/m/mu/muzzi-massimiliano-baron-of-striche/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -10,7 +10,7 @@ crumbs:
 - name: "Way of the Rainbow"
   url: "/families/way-of-the-rainbow/"
 - name: "Way of the Rainbow"
-  url: "/tartans/way-of-the-rainbow/"
+  url: "/tartans/w/wa/way-of-the-rainbow/"
 - name: "Way of the Rainbow"
   url: "/setts/k1db24r1dy1ly1g1dbi1lp1/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k1db24r1dy1ly1g1dbi1lp1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBRGYGBW](/stripes/kbrgygbw/).
 
-Part of the [Way of the Rainbow](/tartans/way-of-the-rainbow/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Way of the Rainbow](/tartans/w/wa/way-of-the-rainbow/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

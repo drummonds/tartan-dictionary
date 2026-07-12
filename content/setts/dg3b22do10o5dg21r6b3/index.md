@@ -6,6 +6,8 @@ This is the **Swankie** sett — one scale-free proportion (`dg3b22do10o5dg21r6b
 [BRGRBBG](/stripes/brgrbbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Swankie](/tartans/s/sw/swankie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

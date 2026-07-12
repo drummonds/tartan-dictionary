@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dickson"
+  url: "/tartans/d/di/dickson-3/"
 - name: "Dickson (Personal)"
   url: "/setts/db8lb8db6g8db14k14db8k14y4db60g4r4g4db13w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db8lb8db6g8db14k14db8k14y4db60g4r4g4db13w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBGBKBKGBGRGBW](/stripes/bwbgbkbkgbgrgbw/).
+
+Part of the [Dickson](/tartans/d/di/dickson-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

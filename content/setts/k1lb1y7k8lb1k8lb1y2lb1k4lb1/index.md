@@ -7,6 +7,8 @@ This is the **Priest** sett — one scale-free proportion (`k1lb1y7k8lb1k8lb1y2l
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
+Part of the [Priest](/tartans/p/pr/priest-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

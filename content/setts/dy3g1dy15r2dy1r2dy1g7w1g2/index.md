@@ -7,7 +7,7 @@ This is the **Seton Hunting** sett — one scale-free proportion (`dy3g1dy15r2dy
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1930**.
 
-Part of the [Seton Hunting](/tartans/seton-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Seton Hunting](/tartans/s/se/seton-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

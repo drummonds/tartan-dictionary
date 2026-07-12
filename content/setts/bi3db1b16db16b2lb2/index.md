@@ -6,6 +6,8 @@ This is the **U.S.S. John Paul Jones (Military)** sett — one scale-free propor
 [BBBBBW](/stripes/bbbbbw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [U.S.S. John Paul Jones](/tartans/u/u/u-s-s-john-paul-jones/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

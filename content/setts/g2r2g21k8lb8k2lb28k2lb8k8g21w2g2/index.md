@@ -6,6 +6,8 @@ This is the **Mack Original (Personal)** sett — one scale-free proportion (`g2
 [GRGKWKWKWKGWG](/stripes/grgkwkwkwkgwg/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Mack](/tartans/m/ma/mack/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

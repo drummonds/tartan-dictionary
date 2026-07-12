@@ -6,6 +6,8 @@ This is the **MacInroy (Wedding) (Personal)** sett — one scale-free proportion
 [BGBGBGKRGRGR](/stripes/bgbgbgkrgrgr/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
+Part of the [MacInroy](/tartans/m/ma/macinroy-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

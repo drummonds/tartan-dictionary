@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Black Rose"
+  url: "/tartans/b/bl/black-rose/"
+- name: "Black Rose"
   url: "/setts/r20dp3k8dp3db2dp24r2dp3r2dp24k15dp1n3dp2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r20dp3k8dp3db2dp24r2dp3r2dp24k15dp1n3dp2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBKBRBRBBBKBR](/stripes/bbbkbrbrbbbkbr/).
+
+Part of the [Black Rose](/tartans/b/bl/black-rose/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

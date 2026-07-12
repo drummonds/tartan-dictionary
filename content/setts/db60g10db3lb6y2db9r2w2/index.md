@@ -6,6 +6,8 @@ This is the **St. Petersburg City (District)** sett — one scale-free proportio
 [BGBWGBRW](/stripes/bgbwgbrw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [St. Petersburg City](/tartans/s/st/st-petersburg-city/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

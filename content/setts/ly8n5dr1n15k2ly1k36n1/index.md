@@ -6,6 +6,8 @@ This is the **Cirse 3D** sett — one scale-free proportion (`ly8n5dr1n15k2ly1k3
 [BKYKBBBY](/stripes/bkykbbby/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Cirse 3D](/tartans/c/ci/cirse-3d/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Stephenson** sett — one scale-free proportion (`k6g20t2dr5t2k20l
 [BBGBYKBBBGKGBBBKYBGB](/stripes/bbgbykbbbgkgbbbkybgb/). It is recorded as a single **variant**, below.
 First attested **1970**.
 
-Part of the [Stephenson](/tartans/stephenson/) tartan — the named design grouping this sett with its kin.
+Part of the [Stephenson](/tartans/s/st/stephenson/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

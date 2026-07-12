@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Caledonian Society of P.E.I."
+  url: "/tartans/c/ca/caledonian-society-of-p-e-i/"
 - name: "Caledonian Society of P.E.I. (Corp)"
   url: "/setts/r14db4r2db2r4db2r2db14k4db4k15g20k2y4r2k1w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r14db4r2db2r4db2r2db14k4db4k15g20k2y4r2k1w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBRBRBRBKBKGKGRKW](/stripes/rbrbrbrbkbkgkgrkw/).
+
+Part of the [Caledonian Society of P.E.I.](/tartans/c/ca/caledonian-society-of-p-e-i/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

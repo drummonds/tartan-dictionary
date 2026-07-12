@@ -6,7 +6,7 @@ This is the **Buchanan, dress** sett — one scale-free proportion (`r3w34k2n4k2
 [RWKBKGKGKBKRW](/stripes/rwkbkgkgkbkrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Buchanan Dress](/tartans/buchanan-dress/) tartan — the named design grouping this sett with its kin.
+Part of the [Buchanan Dress](/tartans/b/bu/buchanan-dress/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

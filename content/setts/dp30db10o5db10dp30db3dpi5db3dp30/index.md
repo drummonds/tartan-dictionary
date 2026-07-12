@@ -6,6 +6,8 @@ This is the **Meanwood McMain (Personal)** sett — one scale-free proportion (`
 [BBBBBBRBB](/stripes/bbbbbbrbb/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Meanwood McMain](/tartans/m/me/meanwood-mcmain/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

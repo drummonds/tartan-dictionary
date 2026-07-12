@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Stinson"
-  url: "/tartans/stinson/"
+  url: "/tartans/s/st/stinson/"
 - name: "Stinson"
   url: "/setts/k7t20lb2r6lb2k20y3g20t27r3g6/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/k7t20lb2r6lb2k20y3g20t27r3g6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRBGGKWRWBKBWRWKGGBR](/stripes/grbggkwrwbkbwrwkggbr/).
 
-Part of the [Stinson](/tartans/stinson/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Stinson](/tartans/s/st/stinson/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

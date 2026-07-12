@@ -6,6 +6,8 @@ This is the **Over Mountain** sett — one scale-free proportion (`r2b1db8b8o8b1
 [RBBBRBR](/stripes/rbbbrbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Over Mountain](/tartans/o/ov/over-mountain-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Lucard, Stphane (Personal))** sett — one scale-free proportion (
 [WWYWYW](/stripes/wwywyw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Lucard, Stphane )](/tartans/l/lu/lucard-stphane/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

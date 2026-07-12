@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Banff & Buchan"
+  url: "/tartans/b/ba/banff-buchan/"
 - name: "Banff & Buchan (District)"
   url: "/setts/b17lb2b3db16t28db2t3lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b17lb2b3db16t28db2t3lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBBBBBY](/stripes/bwbbbbby/).
+
+Part of the [Banff & Buchan](/tartans/b/ba/banff-buchan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

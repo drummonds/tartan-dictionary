@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hilton Champion Corporate Golf"
+  url: "/tartans/h/hi/hilton-champion-corporate-golf/"
 - name: "Hilton Champion Corporate Golf Tartan"
   url: "/setts/r44lb3k22r5k2r3w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r44lb3k22r5k2r3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWKKKKKRKRW](/stripes/rwkkkkkrkrw/).
+
+Part of the [Hilton Champion Corporate Golf](/tartans/h/hi/hilton-champion-corporate-golf/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 

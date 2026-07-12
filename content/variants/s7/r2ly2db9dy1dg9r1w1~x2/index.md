@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified"
+  url: "/tartans/u/un/unidentified-64/"
 - name: "Unidentified (ex Tony Murray)"
   url: "/setts/r2ly2db9dy1dg9r1w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r2ly2db9dy1dg9r1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RYBGGRW](/stripes/rybggrw/).
+
+Part of the [Unidentified](/tartans/u/un/unidentified-64/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

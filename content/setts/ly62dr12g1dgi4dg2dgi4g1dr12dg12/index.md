@@ -6,6 +6,8 @@ This is the **Roast Den, The** sett — one scale-free proportion (`ly62dr12g1dg
 [GBGGGGGBY](/stripes/gbgggggby/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Roast Den, The](/tartans/r/ro/roast-den-the-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

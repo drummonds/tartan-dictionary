@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Peter"
   url: "/clan/peter/"
 - name: "Peter Pan"
-  url: "/tartans/peter-pan/"
+  url: "/tartans/p/pe/peter-pan/"
 - name: "Peter Pan (Corporate)"
   url: "/setts/db22dg2gi2dg2gi2dg2db6k3dg14db1g4db1dg2g2dg2g2dg1db1k1r2/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db22dg2gi2dg2gi2dg2db6k3dg14db1g4db1dg2g2dg2g2dg1db1k1r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGGGBKGBGBGGGGGBKR](/stripes/bgggggbkgbgbgggggbkr/).
 
-Part of the [Peter Pan](/tartans/peter-pan/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Peter Pan](/tartans/p/pe/peter-pan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 

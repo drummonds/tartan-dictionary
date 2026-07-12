@@ -6,7 +6,7 @@ This is the **Wilson's, No 211** sett — one scale-free proportion (`g8dp4g1dp2
 [BGBG](/stripes/bgbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Wilson's No 211](/tartans/wilson-s-no-211/) tartan — the named design grouping this sett with its kin.
+Part of the [Wilson's No 211](/tartans/w/wi/wilson-s-no-211/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

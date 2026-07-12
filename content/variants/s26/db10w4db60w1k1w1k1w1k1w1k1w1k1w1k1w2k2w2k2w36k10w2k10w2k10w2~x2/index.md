@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Kilbarchan Unidentified No. 5"
+  url: "/tartans/k/ki/kilbarchan-unidentified-no-5/"
+- name: "Kilbarchan Unidentified No. 5"
   url: "/setts/db10w4db60w1k1w1k1w1k1w1k1w1k1w1k1w2k2w2k2w36k10w2k10w2k10w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db10w4db60w1k1w1k1w1k1w1k1w1k1w1k1w2k2w2k2w36k10w2k10w2k10w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWBW](/stripes/bwbwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwbw/).
+
+Part of the [Kilbarchan Unidentified No. 5](/tartans/k/ki/kilbarchan-unidentified-no-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [50 stripe tartan](/stripes/stripes50/).
 

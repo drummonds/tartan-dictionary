@@ -6,6 +6,8 @@ This is the **Fremsaeter, Jenny (Personal)** sett — one scale-free proportion 
 [BGWBBWKY](/stripes/bgwbbwky/). It is recorded as a single **variant**, below.
 First attested **1956**.
 
+Part of the [Fremsaeter, Jenny](/tartans/f/fr/fremsaeter-jenny/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

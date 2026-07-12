@@ -6,6 +6,8 @@ This is the **Burns, Virginia (Personal)** sett — one scale-free proportion (`
 [BBBKRKRBKBKBKBKRK](/stripes/bbbkrkrbkbkbkbkrk/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Burns, Virginia](/tartans/b/bu/burns-virginia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

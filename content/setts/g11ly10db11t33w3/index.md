@@ -6,6 +6,8 @@ This is the **Sterling (Name)** sett — one scale-free proportion (`g11ly10db11
 [GYBBW](/stripes/gybbw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Sterling](/tartans/s/st/sterling/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

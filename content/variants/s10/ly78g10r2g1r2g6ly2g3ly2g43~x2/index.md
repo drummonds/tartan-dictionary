@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Montreal"
+  url: "/tartans/m/mo/montreal/"
+- name: "Montreal"
   url: "/setts/ly78g10r2g1r2g6ly2g3ly2g43/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly78g10r2g1r2g6ly2g3ly2g43/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGYGRGRGY](/stripes/gygygrgrgy/).
+
+Part of the [Montreal](/tartans/m/mo/montreal/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

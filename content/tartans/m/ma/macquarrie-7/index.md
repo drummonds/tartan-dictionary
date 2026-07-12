@@ -1,0 +1,39 @@
+---
+title: "MacQuarrie 7"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [GRGRGR](/stripes/grgrgr/) — the page of every tartan sharing this colour sequence.
+
+Clan MacQuarrie tartan related to red MacDonald; J. Grant's version now used; followers of Lords of the Isles on Mull.
+
+The **MacQuarrie 7** tartan is recorded as a single sett.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/r16dg1r1dg1r4dg12/">MacQuarrie 7</a></td><td><code>R/32 DG2 R2 DG2 R8 DG/24</code></td><td>84</td><td>1886</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/r16dg1r1dg1r4dg12/"><img src="/variants/s6/r16dg1r1dg1r4dg12~x2/sett.png" alt="MacQuarrie 7 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- MacQuarrie
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">84</div><div class="nn-name nn-base"><a href="/variants/s6/r16dg1r1dg1r4dg12~x2/">MacQuarrie 7</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s6/r16dg1r1dg1r4dg12~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r16g1r1g1r4g12~x4&amp;base=r16dg1r1dg1r4dg12~x2" title="compare in the TTD">0.17</a></div><div class="nn-threads">168</div><div class="nn-name"><a href="/variants/s6/r16g1r1g1r4g12~x4/">MacQuarrie #5</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r16g1r1g1r4g12~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r16g1r1g1r4g12&amp;base=r16dg1r1dg1r4dg12~x2" title="compare in the TTD">0.17</a></div><div class="nn-threads">42</div><div class="nn-name"><a href="/variants/s6/r16g1r1g1r4g12/">MacQuarrie</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r16g1r1g1r4g12/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r16g1r1g1r4g12~x2&amp;base=r16dg1r1dg1r4dg12~x2" title="compare in the TTD">0.17</a></div><div class="nn-threads">84</div><div class="nn-name"><a href="/variants/s6/r16g1r1g1r4g12~x2/">MacQuarie</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r16g1r1g1r4g12~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dg6r1dg24r28dg1r4~x2&amp;base=r16dg1r1dg1r4dg12~x2" title="compare in the TTD">0.77</a></div><div class="nn-threads">236</div><div class="nn-name"><a href="/variants/s6/dg6r1dg24r28dg1r4~x2/">Erskine (Vestiarium Scoticum)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/dg6r1dg24r28dg1r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=g6r1g24r28g1r4~x2&amp;base=r16dg1r1dg1r4dg12~x2" title="compare in the TTD">0.81</a></div><div class="nn-threads">236</div><div class="nn-name"><a href="/variants/s6/g6r1g24r28g1r4~x2/">Erskine (Green &amp; Red) Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/g6r1g24r28g1r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r2g2r16g15r2g2~x2&amp;base=r16dg1r1dg1r4dg12~x2" title="compare in the TTD">0.81</a></div><div class="nn-threads">148</div><div class="nn-name"><a href="/variants/s6/r2g2r16g15r2g2~x2/">Unidentified NW Highlands</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r2g2r16g15r2g2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r1g14r1g1r14g1w1~x2&amp;base=r16dg1r1dg1r4dg12~x2" title="compare in the TTD">1.10</a></div><div class="nn-threads">128</div><div class="nn-name"><a href="/variants/s7/r1g14r1g1r14g1w1~x2/">MacKintosh Fragment</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r1g14r1g1r14g1w1~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=dg4r4dg13r13dg4r36lo4~x2&amp;base=r16dg1r1dg1r4dg12~x2" title="compare in the TTD">1.12</a></div><div class="nn-threads">296</div><div class="nn-name"><a href="/variants/s7/dg4r4dg13r13dg4r36lo4~x2/">Wolfe (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/dg4r4dg13r13dg4r36lo4~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r29g2r2g2r6dy21~x4&amp;base=r16dg1r1dg1r4dg12~x2" title="compare in the TTD">1.55</a></div><div class="nn-threads">296</div><div class="nn-name"><a href="/variants/s6/r29g2r2g2r6dy21~x4/">Maguire Clan Family Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r29g2r2g2r6dy21~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r29dg2r2dg2r6ly21~x4&amp;base=r16dg1r1dg1r4dg12~x2" title="compare in the TTD">1.55</a></div><div class="nn-threads">296</div><div class="nn-name"><a href="/variants/s6/r29dg2r2dg2r6ly21~x4/">Maguire, Black (Name)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r29dg2r2dg2r6ly21~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r16g1r1g1r4g12~x4/"><circle cx="451.4" cy="210.9" r="4" fill="#3465a4"><title>MacQuarrie #5</title></circle></a><a href="/variants/s6/r16g1r1g1r4g12/"><circle cx="451.4" cy="210.9" r="4" fill="#3465a4"><title>MacQuarrie</title></circle></a><a href="/variants/s6/r16g1r1g1r4g12~x2/"><circle cx="451.4" cy="210.9" r="4" fill="#3465a4"><title>MacQuarie</title></circle></a><a href="/variants/s6/dg6r1dg24r28dg1r4~x2/"><circle cx="421.6" cy="184.7" r="4" fill="#3465a4"><title>Erskine (Vestiarium Scoticum)</title></circle></a><a href="/variants/s6/g6r1g24r28g1r4~x2/"><circle cx="432.3" cy="193.8" r="4" fill="#3465a4"><title>Erskine (Green &amp; Red) Clan Tartan</title></circle></a><a href="/variants/s6/r2g2r16g15r2g2~x2/"><circle cx="389.8" cy="243.9" r="4" fill="#3465a4"><title>Unidentified NW Highlands</title></circle></a><a href="/variants/s7/r1g14r1g1r14g1w1~x2/"><circle cx="370.2" cy="184.2" r="4" fill="#3465a4"><title>MacKintosh Fragment</title></circle></a><a href="/variants/s7/dg4r4dg13r13dg4r36lo4~x2/"><circle cx="435.6" cy="205.0" r="4" fill="#3465a4"><title>Wolfe (Name)</title></circle></a><a href="/variants/s6/r29g2r2g2r6dy21~x4/"><circle cx="419.1" cy="164.0" r="4" fill="#3465a4"><title>Maguire Clan Family Tartan</title></circle></a><a href="/variants/s6/r29dg2r2dg2r6ly21~x4/"><circle cx="406.8" cy="192.5" r="4" fill="#3465a4"><title>Maguire, Black (Name)</title></circle></a><circle cx="439.9" cy="202.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

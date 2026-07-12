@@ -6,6 +6,8 @@ This is the **Wyckoff (Commemorative)** sett — one scale-free proportion (`lb7
 [RBWWRWBW](/stripes/rbwwrwbw/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Wyckoff](/tartans/w/wy/wyckoff/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

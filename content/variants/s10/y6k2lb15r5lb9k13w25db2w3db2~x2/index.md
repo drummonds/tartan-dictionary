@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gillies, dress"
+  url: "/tartans/g/gi/gillies-dress-6/"
 - name: "Gillies, dress Blue"
   url: "/setts/y6k2lb15r5lb9k13w25db2w3db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y6k2lb15r5lb9k13w25db2w3db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWKWRWKG](/stripes/bwbwkwrwkg/).
+
+Part of the [Gillies, dress](/tartans/g/gi/gillies-dress-6/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 

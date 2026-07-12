@@ -6,7 +6,7 @@ This is the **Lambert Kai (Personal)** sett — one scale-free proportion (`k3g3
 [KGBGRKGW](/stripes/kgbgrkgw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Lambert Kai](/tartans/lambert-kai/) tartan — the named design grouping this sett with its kin.
+Part of the [Lambert Kai](/tartans/l/la/lambert-kai/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

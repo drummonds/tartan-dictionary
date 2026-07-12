@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Great Glen"
+  url: "/tartans/g/gr/great-glen/"
 - name: "Great Glen (Fashion)"
   url: "/setts/dt5o4dt4o38n34dt4n4lb2n2y2n4dt4n34o38dt4o4dt2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt5o4dt4o38n34dt4n4lb2n2y2n4dt4n34o38dt4o4dt2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBBBGBWBBBRBRB](/stripes/brbrbbbgbwbbbrbrb/).
+
+Part of the [Great Glen](/tartans/g/gr/great-glen/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 

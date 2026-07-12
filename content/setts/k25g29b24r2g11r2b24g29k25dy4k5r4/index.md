@@ -6,6 +6,8 @@ This is the **ABF The Soldiers' Charity** sett — one scale-free proportion (`k
 [KGBRGRBGKGKR](/stripes/kgbrgrbgkgkr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [ABF The Soldiers' Charity](/tartans/a/ab/abf-the-soldiers-charity/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -7,6 +7,8 @@ This is the **Connemara** sett — one scale-free proportion (`y3dg1g3dg16dr32dg
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~1997**.
 
+Part of the [Connemara](/tartans/c/co/connemara/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Ferguson of Balquhidder** sett — one scale-free proportion (`k2g
 [GBRKGK](/stripes/gbrkgk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Ferguson of Balquhidder](/tartans/f/fe/ferguson-of-balquhidder/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

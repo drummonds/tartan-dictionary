@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Eastern Townshippers"
+  url: "/tartans/e/ea/eastern-townshippers/"
 - name: "Eastern Townshippers (Corporate)"
   url: "/setts/r1dy5g5w5y1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r1dy5g5w5y1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGGR](/stripes/gwggr/).
+
+Part of the [Eastern Townshippers](/tartans/e/ea/eastern-townshippers/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 

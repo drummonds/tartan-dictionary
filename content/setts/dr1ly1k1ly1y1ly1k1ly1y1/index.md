@@ -7,6 +7,8 @@ This is the **Seaforth Estate Check** sett — one scale-free proportion (`dr1ly
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1990**.
 
+Part of the [Seaforth](/tartans/s/se/seaforth/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

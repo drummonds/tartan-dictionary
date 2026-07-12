@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Wine Watch"
+  url: "/tartans/w/wi/wine-watch/"
+- name: "Wine Watch"
   url: "/setts/db11k1db1k1db1k8dr8k1dr8k8db8k1db1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db11k1db1k1db1k8dr8k1dr8k8db8k1db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKBKBKB](/stripes/bkbkbkbkbkbkb/).
+
+Part of the [Wine Watch](/tartans/w/wi/wine-watch/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bredillet"
+  url: "/tartans/b/br/bredillet/"
 - name: "Bredillet (Personal)"
   url: "/setts/db16k2ly2k2ly2k15db14k2db14k15db16k4w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db16k2ly2k2ly2k15db14k2db14k15db16k4w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKYKYKBKBKBKW](/stripes/bkykykbkbkbkw/).
+
+Part of the [Bredillet](/tartans/b/br/bredillet/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

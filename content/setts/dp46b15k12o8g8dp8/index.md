@@ -6,7 +6,7 @@ This is the **Haut (Personal)** sett — one scale-free proportion (`dp46b15k12o
 [BBKRGB](/stripes/bbkrgb/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
-Part of the [Haut](/tartans/haut-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Haut](/tartans/h/ha/haut-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -6,6 +6,8 @@ This is the **Pride of Nova Scotia (Corporate)** sett — one scale-free proport
 [KYKBKBW](/stripes/kykbkbw/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Pride of Nova Scotia](/tartans/p/pr/pride-of-nova-scotia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

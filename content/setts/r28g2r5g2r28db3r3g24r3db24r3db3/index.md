@@ -6,7 +6,7 @@ This is the **Robertson #5** sett — one scale-free proportion (`r28g2r5g2r28db
 [BRBRGRBRGRGR](/stripes/brbrgrbrgrgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Robertson](/tartans/robertson-5/) tartan — the named design grouping this sett with its kin.
+Part of the [Robertson](/tartans/r/ro/robertson-5/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

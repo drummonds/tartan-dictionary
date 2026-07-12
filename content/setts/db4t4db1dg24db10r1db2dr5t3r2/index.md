@@ -6,6 +6,8 @@ This is the **Rikaco Classic (Fashion)** sett — one scale-free proportion (`db
 [BBBGBRBBBR](/stripes/bbbgbrbbbr/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Rikaco Classic](/tartans/r/ri/rikaco-classic/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

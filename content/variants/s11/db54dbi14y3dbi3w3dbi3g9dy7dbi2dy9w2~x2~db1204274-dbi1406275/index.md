@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Holyrood"
+  url: "/tartans/h/ho/holyrood/"
 - name: "Holyrood Corporate Tartan"
   url: "/setts/db54dbi14y3dbi3w3dbi3g9dy7dbi2dy9w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db54dbi14y3dbi3w3dbi3g9dy7dbi2dy9w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGBWBGGBGW](/stripes/bbgbwbggbgw/).
+
+Part of the [Holyrood](/tartans/h/ho/holyrood/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 

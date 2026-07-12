@@ -6,6 +6,8 @@ This is the **Strange Of Balcaskie** sett — one scale-free proportion (`g32o7g
 [GRGRBGR](/stripes/grgrbgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Strange Of Balcaskie](/tartans/s/st/strange-of-balcaskie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

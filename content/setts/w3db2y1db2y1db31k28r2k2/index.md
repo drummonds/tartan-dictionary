@@ -6,7 +6,7 @@ This is the **Hill (Name)** sett — one scale-free proportion (`w3db2y1db2y1db3
 [KRKBGBGBW](/stripes/krkbgbgbw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Hill](/tartans/hill/) tartan — the named design grouping this sett with its kin.
+Part of the [Hill](/tartans/h/hi/hill/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

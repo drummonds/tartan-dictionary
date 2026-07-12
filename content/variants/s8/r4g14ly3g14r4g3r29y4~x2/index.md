@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Burnett"
   url: "/clan/burnett/"
 - name: "Burnett"
-  url: "/tartans/burnett/"
+  url: "/tartans/b/bu/burnett/"
 - name: "Burnett"
   url: "/setts/r4g14ly3g14r4g3r29y4/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r4g14ly3g14r4g3r29y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGYGR](/stripes/grgrgygr/).
 
-Part of the [Burnett](/tartans/burnett/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Burnett](/tartans/b/bu/burnett/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

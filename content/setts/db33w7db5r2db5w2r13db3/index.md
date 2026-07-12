@@ -6,6 +6,8 @@ This is the **Americana - 1978 (Fashion)** sett — one scale-free proportion (`
 [BRWBRBWB](/stripes/brwbrbwb/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
+Part of the [Americana](/tartans/a/am/americana/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

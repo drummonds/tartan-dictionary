@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Ainslie, Lake"
-  url: "/tartans/ainslie-lake/"
+  url: "/tartans/a/ai/ainslie-lake/"
 - name: "Ainslie Lake.. District Tartan"
   url: "/setts/db6w10g10r2y3r1db3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db6w10g10r2y3r1db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRGWB](/stripes/brgrgwb/).
 
-Part of the [Ainslie, Lake](/tartans/ainslie-lake/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Ainslie, Lake](/tartans/a/ai/ainslie-lake/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

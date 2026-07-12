@@ -6,6 +6,8 @@ This is the **Mercer, James (Personal)** sett — one scale-free proportion (`db
 [BRBWBGBWB](/stripes/brbwbgbwb/). It is recorded as a single **variant**, below.
 First attested **~2006**.
 
+Part of the [Mercer, James](/tartans/m/me/mercer-james/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

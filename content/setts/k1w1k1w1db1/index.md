@@ -6,6 +6,8 @@ This is the **Buccleuch Check Regimental Tartan** sett — one scale-free propor
 [BWKWKWKW](/stripes/bwkwkwkw/). It is recorded as a single **variant**, below.
 First attested **1908**.
 
+Part of the [Buccleuch Check Regimental](/tartans/b/bu/buccleuch-check-regimental/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

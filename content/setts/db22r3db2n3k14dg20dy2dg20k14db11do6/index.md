@@ -6,6 +6,8 @@ This is the **Wisconsin** sett — one scale-free proportion (`db22r3db2n3k14dg2
 [BBKGGGKBBRB](/stripes/bbkgggkbbrb/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Wisconsin](/tartans/w/wi/wisconsin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

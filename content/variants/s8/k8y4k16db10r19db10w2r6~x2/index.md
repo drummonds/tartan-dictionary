@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Sullivan"
+  url: "/clan/sullivan/"
+- name: "Sullivan of Braemar"
+  url: "/families/sullivan-of-braemar/"
+- name: "Sullivan of Braemar"
+  url: "/tartans/s/su/sullivan-of-braemar/"
 - name: "Sullivan of Braemar"
   url: "/setts/k8y4k16db10r19db10w2r6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k8y4k16db10r19db10w2r6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKBRBWR](/stripes/kgkbrbwr/).
+
+Part of the [Sullivan of Braemar](/tartans/s/su/sullivan-of-braemar/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

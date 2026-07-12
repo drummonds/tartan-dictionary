@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "U.S. 2001 Air Force"
+  url: "/tartans/u/u/u-s-2001-air-force-2/"
+- name: "U.S. 2001 Air Force"
   url: "/setts/t33db3t7db3t33r2k22g3dbi49g3k22r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t33db3t7db3t33r2k22g3dbi49g3k22r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBBRKGBGKR](/stripes/bbbbbrkgbgkr/).
+
+Part of the [U.S. 2001 Air Force](/tartans/u/u/u-s-2001-air-force-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

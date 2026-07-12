@@ -6,6 +6,8 @@ This is the **Coinean Dubh** sett — one scale-free proportion (`db50k12db21w5`
 [BKBW](/stripes/bkbw/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Coinean Dubh](/tartans/c/co/coinean-dubh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

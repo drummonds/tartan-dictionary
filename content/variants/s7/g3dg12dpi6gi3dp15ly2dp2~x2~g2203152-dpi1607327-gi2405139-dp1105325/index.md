@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Myres Castle"
+  url: "/tartans/m/my/myres-castle-2/"
 - name: "Myres Castle (Corporate)"
   url: "/setts/g3dg12dpi6gi3dp15ly2dp2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g3dg12dpi6gi3dp15ly2dp2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBGBGG](/stripes/bybgbgg/).
+
+Part of the [Myres Castle](/tartans/m/my/myres-castle-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

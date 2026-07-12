@@ -6,6 +6,8 @@ This is the **Roseate Sunrise** sett — one scale-free proportion (`ri26dr5dp12
 [RBBYGR](/stripes/rbbygr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Roseate Sunrise](/tartans/r/ro/roseate-sunrise/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

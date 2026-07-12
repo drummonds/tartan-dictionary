@@ -6,6 +6,8 @@ This is the **Confederate Memorial Commemmorative Tartan** sett — one scale-fr
 [WBWRYGYRYY](/stripes/wbwrygyryy/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Confederate Memorial Commemmorative](/tartans/c/co/confederate-memorial-commemmorative/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

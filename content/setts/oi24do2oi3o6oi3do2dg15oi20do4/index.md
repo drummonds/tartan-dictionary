@@ -6,6 +6,8 @@ This is the **Land's End (Unnamed Camel)** sett — one scale-free proportion (`
 [BRGBRRRBR](/stripes/brgbrrrbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Land's End](/tartans/l/la/land-s-end-4/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

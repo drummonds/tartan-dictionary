@@ -6,7 +6,7 @@ This is the **Cathro (Name)** sett — one scale-free proportion (`b9t6w1g4b2`),
 [BBWGB](/stripes/bbwgb/). It is recorded as a single **variant**, below.
 First attested **~2007**.
 
-Part of the [Cathro](/tartans/cathro/) tartan — the named design grouping this sett with its kin.
+Part of the [Cathro](/tartans/c/ca/cathro/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

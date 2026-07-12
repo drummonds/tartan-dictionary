@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Antique 2000"
+  url: "/tartans/a/an/antique-2000/"
+- name: "Antique 2000"
   url: "/setts/db10r1db1r1db1k6y9t2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db10r1db1r1db1k6y9t2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKBRBRB](/stripes/bgkbrbrb/).
+
+Part of the [Antique 2000](/tartans/a/an/antique-2000/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

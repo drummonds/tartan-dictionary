@@ -6,6 +6,8 @@ This is the **Clutha** sett — one scale-free proportion (`w6k4w3k3w2k18n1y5n1k
 [KWKWBKBGKBGKBGBKWKWKW](/stripes/kwkwbkbgkbgkbgbkwkwkw/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Clutha](/tartans/c/cl/clutha/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

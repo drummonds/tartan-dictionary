@@ -6,6 +6,8 @@ This is the **Lewis, Red (Dance)** sett — one scale-free proportion (`r4w35r31
 [RWRW](/stripes/rwrw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Lewis](/tartans/l/le/lewis-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

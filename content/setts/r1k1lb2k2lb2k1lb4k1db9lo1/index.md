@@ -6,6 +6,8 @@ This is the **Thompson Variant** sett — one scale-free proportion (`r1k1lb2k2l
 [RKWKWKWKBY](/stripes/rkwkwkwkby/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Thompson Variant](/tartans/t/th/thompson-variant/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

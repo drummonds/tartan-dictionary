@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Trithart"
+  url: "/tartans/t/tr/trithart/"
 - name: "(1) Trithart"
   url: "/setts/k79lb1o1lo1do1ly1lg1g1gi1t1b1dp1k17dp4dr4n4o4lo4do4ly4lg4g4gi4t4b4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k79lb1o1lo1do1ly1lg1g1gi1t1b1dp1k17dp4dr4n4o4lo4do4ly4lg4g4gi4t4b4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGGYYBYRBBBKKBBBGGYYBYRWK](/stripes/bbggyybyrbbbkkbbbggyybyrwk/).
+
+Part of the [Trithart](/tartans/t/tr/trithart/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [26 stripe tartan](/stripes/stripes26/).
 

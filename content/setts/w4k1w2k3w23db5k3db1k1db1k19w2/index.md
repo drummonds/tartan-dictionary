@@ -6,6 +6,8 @@ This is the **Menzies Black Dress Clan Tartan** sett — one scale-free proporti
 [WKBKBKBWKWKW](/stripes/wkbkbkbwkwkw/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Menzies Black Dress](/tartans/m/me/menzies-black-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

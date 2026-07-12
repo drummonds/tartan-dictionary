@@ -6,6 +6,8 @@ This is the **Boyle Family, Susan (Personal)** sett — one scale-free proportio
 [GRGBGBKBYBY](/stripes/grgbgbkbyby/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Boyle Family, Susan](/tartans/b/bo/boyle-family-susan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **McClurg, William Thomas (Personal)** sett — one scale-free propo
 [BWGWGGGGK](/stripes/bwgwggggk/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [McClurg, William Thomas](/tartans/m/mc/mcclurg-william-thomas/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

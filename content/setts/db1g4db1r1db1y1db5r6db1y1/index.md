@@ -6,6 +6,8 @@ This is the **Unidentified Specimen #3** sett — one scale-free proportion (`db
 [BGBRBGBRBG](/stripes/bgbrbgbrbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified Specimen](/tartans/u/un/unidentified-specimen-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

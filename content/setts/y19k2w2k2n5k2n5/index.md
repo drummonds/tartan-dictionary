@@ -6,6 +6,8 @@ This is the **Kyle** sett — one scale-free proportion (`y19k2w2k2n5k2n5`), col
 [BKBKWKG](/stripes/bkbkwkg/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Kyle](/tartans/k/ky/kyle-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hay or Stewart"
-  url: "/tartans/hay-or-stewart/"
+  url: "/tartans/h/ha/hay-or-stewart/"
 - name: "Hay, or Stewart"
   url: "/setts/w9r5w29k10y2k3w3k3g12r6k3r3w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w9r5w29k10y2k3w3k3g12r6k3r3w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WRKRGKWKGKWRW](/stripes/wrkrgkwkgkwrw/).
 
-Part of the [Hay or Stewart](/tartans/hay-or-stewart/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Hay or Stewart](/tartans/h/ha/hay-or-stewart/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 

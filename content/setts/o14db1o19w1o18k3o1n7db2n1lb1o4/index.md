@@ -6,6 +6,8 @@ This is the **Orkney Magnus** sett — one scale-free proportion (`o14db1o19w1o1
 [RBRWRKRBBBWR](/stripes/rbrwrkrbbbwr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Orkney Magnus](/tartans/o/or/orkney-magnus/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

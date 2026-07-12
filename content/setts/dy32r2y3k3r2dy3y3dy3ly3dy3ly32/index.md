@@ -6,6 +6,8 @@ This is the **Glen Talloch** sett — one scale-free proportion (`dy32r2y3k3r2dy
 [GRGKRGGGYGY](/stripes/grgkrgggygy/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Glen Talloch](/tartans/g/gl/glen-talloch/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

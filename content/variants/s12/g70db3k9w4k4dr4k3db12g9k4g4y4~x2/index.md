@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Canmore Highland Games"
-  url: "/tartans/canmore-highland-games/"
+  url: "/tartans/c/ca/canmore-highland-games/"
 - name: "Canmore Highland Games"
   url: "/setts/g70db3k9w4k4dr4k3db12g9k4g4y4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g70db3k9w4k4dr4k3db12g9k4g4y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKWKBKBGKGG](/stripes/gbkwkbkbgkgg/).
 
-Part of the [Canmore Highland Games](/tartans/canmore-highland-games/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Canmore Highland Games](/tartans/c/ca/canmore-highland-games/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

@@ -6,6 +6,8 @@ This is the **Robinson, Barbara Ann (Personal)** sett — one scale-free proport
 [GBGBGKWWWWG](/stripes/gbgbgkwwwwg/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Robinson, Barbara Ann](/tartans/r/ro/robinson-barbara-ann/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Eynon"
+  url: "/tartans/e/ey/eynon/"
 - name: "Eynon (Welsh Name)"
   url: "/setts/k11ki1g3k6ki1k6g3k4g7k11y1k11g7y2ki4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k11ki1g3k6ki1k6g3k4g7k11y1k11g7y2ki4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGGKGKGKGKKKGKK](/stripes/kggkgkgkgkkkgkk/).
+
+Part of the [Eynon](/tartans/e/ey/eynon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

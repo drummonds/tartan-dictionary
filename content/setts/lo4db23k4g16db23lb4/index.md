@@ -6,6 +6,8 @@ This is the **Baptist Union of Scotland** sett — one scale-free proportion (`l
 [WBGKBY](/stripes/wbgkby/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Baptist Union of Scotland](/tartans/b/ba/baptist-union-of-scotland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

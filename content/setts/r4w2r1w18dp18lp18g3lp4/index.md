@@ -6,6 +6,8 @@ This is the **Gigha, Lilac (Dance)** sett — one scale-free proportion (`r4w2r1
 [RWRWBWGW](/stripes/rwrwbwgw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Gigha, Lilac](/tartans/g/gi/gigha-lilac-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

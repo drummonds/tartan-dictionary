@@ -6,6 +6,8 @@ This is the **Cornish Pascoe, The** sett — one scale-free proportion (`w2k32lr
 [WKGKGKGBYBYBYBYKW](/stripes/wkgkgkgbybybybykw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Cornish Pascoe, The](/tartans/c/co/cornish-pascoe-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

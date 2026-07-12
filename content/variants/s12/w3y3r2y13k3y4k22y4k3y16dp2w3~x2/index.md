@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Loch Sween"
-  url: "/tartans/loch-sween/"
+  url: "/tartans/l/lo/loch-sween/"
 - name: "Loch Sween"
   url: "/setts/w3y3r2y13k3y4k22y4k3y16dp2w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/w3y3r2y13k3y4k22y4k3y16dp2w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGKGKGKGRGW](/stripes/wbgkgkgkgrgw/).
 
-Part of the [Loch Sween](/tartans/loch-sween/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Loch Sween](/tartans/l/lo/loch-sween/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

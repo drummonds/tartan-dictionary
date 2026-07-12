@@ -7,6 +7,8 @@ This is the **Aberlour** sett — one scale-free proportion (`w23k4w4k4w4k22o23l
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2001**.
 
+Part of the [Aberlour](/tartans/a/ab/aberlour/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

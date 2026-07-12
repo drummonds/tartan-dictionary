@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Land's End"
+  url: "/tartans/l/la/land-s-end/"
 - name: "MacKenzie Dress"
   url: "/setts/w3lb2w7lb2w2k7g8k1w2k1g8k7db7r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3lb2w7lb2w2k7g8k1w2k1g8k7db7r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKGKWKGKWWWWW](/stripes/rbkgkwkgkwwwww/).
+
+Part of the [Land's End](/tartans/l/la/land-s-end/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

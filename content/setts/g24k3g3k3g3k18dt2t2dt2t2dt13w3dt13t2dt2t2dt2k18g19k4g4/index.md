@@ -6,7 +6,7 @@ This is the **Dorris** sett — one scale-free proportion (`g24k3g3k3g3k18dt2t2d
 [GKGKBBBBBWBBBBBKGKGKG](/stripes/gkgkbbbbbwbbbbbkgkgkg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
-Part of the [Dorris](/tartans/dorris/) tartan — the named design grouping this sett with its kin.
+Part of the [Dorris](/tartans/d/do/dorris/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

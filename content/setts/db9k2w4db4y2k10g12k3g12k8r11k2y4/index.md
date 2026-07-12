@@ -6,7 +6,7 @@ This is the **Watt (Dunfermline) (Personal)** sett — one scale-free proportion
 [BKWBGKGKGKRKG](/stripes/bkwbgkgkgkrkg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Watt](/tartans/watt/) tartan — the named design grouping this sett with its kin.
+Part of the [Watt](/tartans/w/wa/watt/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

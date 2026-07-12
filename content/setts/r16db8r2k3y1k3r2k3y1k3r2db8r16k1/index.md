@@ -6,6 +6,8 @@ This is the **Leslie Red (VS)** sett — one scale-free proportion (`r16db8r2k3y
 [KRBRKGKRKGKRBR](/stripes/krbrkgkrkgkrbr/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
+Part of the [Leslie](/tartans/l/le/leslie-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

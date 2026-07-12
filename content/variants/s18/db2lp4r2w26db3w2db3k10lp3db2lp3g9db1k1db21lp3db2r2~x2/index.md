@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Cooper Dress"
-  url: "/tartans/cooper-dress/"
+  url: "/tartans/c/co/cooper-dress/"
 - name: "Cooper Dress Tartan"
   url: "/setts/db2lp4r2w26db3w2db3k10lp3db2lp3g9db1k1db21lp3db2r2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db2lp4r2w26db3w2db3k10lp3db2lp3g9db1k1db21lp3db2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRWBWBKWBWGBKBWBR](/stripes/bwrwbwbkwbwgbkbwbr/).
 
-Part of the [Cooper Dress](/tartans/cooper-dress/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cooper Dress](/tartans/c/co/cooper-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 

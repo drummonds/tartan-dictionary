@@ -6,6 +6,8 @@ This is the **Connolly Dress** sett — one scale-free proportion (`g6k2g3k2g6db
 [GKGKGBRGRG](/stripes/gkgkgbrgrg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Connolly Dress](/tartans/c/co/connolly-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

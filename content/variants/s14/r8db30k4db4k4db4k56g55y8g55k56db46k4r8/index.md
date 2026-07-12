@@ -8,7 +8,7 @@ crumbs:
 - name: "Clan Farquharson"
   url: "/clan/farquharson/"
 - name: "Farquharson"
-  url: "/tartans/farquharson-3/"
+  url: "/tartans/f/fa/farquharson-3/"
 - name: "Farquharson (Clan)"
   url: "/setts/r8db30k4db4k4db4k56g55y8g55k56db46k4r8/"
 ---
@@ -16,7 +16,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r8db30k4db4k4db4k56g55y8g55k56db46k4r8/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBKBKBKGGGKBKR](/stripes/rbkbkbkgggkbkr/).
 
-Part of the [Farquharson](/tartans/farquharson-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Farquharson](/tartans/f/fa/farquharson-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Union Fire Club Pipes and Drums"
+  url: "/tartans/u/un/union-fire-club-pipes-and-drums/"
+- name: "Union Fire Club Pipes and Drums"
   url: "/setts/k30r10y1k8w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k30r10y1k8w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRGKW](/stripes/krgkw/).
+
+Part of the [Union Fire Club Pipes and Drums](/tartans/u/un/union-fire-club-pipes-and-drums/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

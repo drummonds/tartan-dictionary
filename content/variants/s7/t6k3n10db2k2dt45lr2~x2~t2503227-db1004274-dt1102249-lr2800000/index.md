@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Vonarb, Alfred"
+  url: "/tartans/v/vo/vonarb-alfred/"
 - name: "Vonarb, Alfred (Personal)"
   url: "/setts/t6k3n10db2k2dt45lr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t6k3n10db2k2dt45lr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBBKBY](/stripes/bkbbkby/).
+
+Part of the [Vonarb, Alfred](/tartans/v/vo/vonarb-alfred/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

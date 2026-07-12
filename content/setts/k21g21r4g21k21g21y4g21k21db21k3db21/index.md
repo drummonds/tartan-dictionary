@@ -6,7 +6,7 @@ This is the **Rollo** sett — one scale-free proportion (`k21g21r4g21k21g21y4g2
 [BKBKGGGKGRGK](/stripes/bkbkgggkgrgk/). It is recorded as a single **variant**, below.
 First attested **1946**.
 
-Part of the [Rollo](/tartans/rollo/) tartan — the named design grouping this sett with its kin.
+Part of the [Rollo](/tartans/r/ro/rollo/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

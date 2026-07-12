@@ -6,6 +6,8 @@ This is the **Robieson QAHS** sett — one scale-free proportion (`k1db1k8r1k1r8
 [KBKGKGBRKRKBK](/stripes/kbkgkgbrkrkbk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Robieson QAHS](/tartans/r/ro/robieson-qahs/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

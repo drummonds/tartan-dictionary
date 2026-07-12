@@ -6,6 +6,8 @@ This is the **Laois** sett — one scale-free proportion (`do20db2do5db5k18g5do5
 [BBBBKGBGB](/stripes/bbbbkgbgb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Laois](/tartans/l/la/laois/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

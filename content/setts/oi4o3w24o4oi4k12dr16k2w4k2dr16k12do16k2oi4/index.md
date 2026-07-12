@@ -6,6 +6,8 @@ This is the **Dunkeld** sett — one scale-free proportion (`oi4o3w24o4oi4k12dr1
 [RKBKBKWKBKRRWRR](/stripes/rkbkbkwkbkrrwrr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Dunkeld](/tartans/d/du/dunkeld-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

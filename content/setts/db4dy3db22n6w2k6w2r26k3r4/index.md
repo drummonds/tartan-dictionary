@@ -7,6 +7,8 @@ This is the **Asman, Dress (Name)** sett — one scale-free proportion (`db4dy3d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1989**.
 
+Part of the [Asman Dress](/tartans/a/as/asman-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Clan Pipers Frankfurt and District Pipe Band** sett — one scale-
 [BKBKBKRKWKRKBKR](/stripes/bkbkbkrkwkrkbkr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Clan Pipers Frankfurt and District Pipe Band](/tartans/c/cl/clan-pipers-frankfurt-and-district-pipe-band/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

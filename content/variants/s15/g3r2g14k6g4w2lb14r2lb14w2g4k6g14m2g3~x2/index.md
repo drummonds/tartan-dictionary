@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scottish Heritage USA"
+  url: "/tartans/s/sc/scottish-heritage-usa/"
 - name: "Scottish Heritage USA (SHUSA)"
   url: "/setts/g3r2g14k6g4w2lb14r2lb14w2g4k6g14m2g3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g3r2g14k6g4w2lb14r2lb14w2g4k6g14m2g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGKGWWRWWGKGRGRGKGWWRWWGKGR](/stripes/grgkgwwrwwgkgrgrgkgwwrwwgkgr/).
+
+Part of the [Scottish Heritage USA](/tartans/s/sc/scottish-heritage-usa/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 

@@ -6,6 +6,8 @@ This is the **Gunning, Robert Maxwell Stewart (Personal)** sett — one scale-fr
 [GBKBKGBGKGKGKGKGRGKBKBG](/stripes/gbkbkgbgkgkgkgkgrgkbkbg/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Gunning, Robert Maxwell Stewart](/tartans/g/gu/gunning-robert-maxwell-stewart/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

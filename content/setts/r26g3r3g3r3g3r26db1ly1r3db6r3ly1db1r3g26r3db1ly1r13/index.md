@@ -6,7 +6,7 @@ This is the **Munro** sett — one scale-free proportion (`r26g3r3g3r3g3r26db1ly
 [RGRGRGRBYRBRYBRGRBYR](/stripes/rgrgrgrbyrbrybrgrbyr/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
-Part of the [Munro](/tartans/munro-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Munro](/tartans/m/mu/munro-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

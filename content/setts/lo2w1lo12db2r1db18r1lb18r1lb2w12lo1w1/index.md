@@ -6,6 +6,8 @@ This is the **International Council for Commercial Arbitration** sett — one sc
 [WYWWRWRBRBYWY](/stripes/wywwrwrbrbywy/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [International Council for Commercial Arbitration](/tartans/i/in/international-council-for-commercial-arbitration/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

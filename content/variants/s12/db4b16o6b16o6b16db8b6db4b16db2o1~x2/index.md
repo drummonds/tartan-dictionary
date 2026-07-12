@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Thomas"
+  url: "/clan/thomas/"
+- name: "Thomas Blake Glover"
+  url: "/tartans/t/th/thomas-blake-glover-2/"
 - name: "Thomas Blake Glover"
   url: "/setts/db4b16o6b16o6b16db8b6db4b16db2o1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4b16o6b16o6b16db8b6db4b16db2o1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBRBRBBBBBBR](/stripes/bbrbrbbbbbbr/).
+
+Part of the [Thomas Blake Glover](/tartans/t/th/thomas-blake-glover-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

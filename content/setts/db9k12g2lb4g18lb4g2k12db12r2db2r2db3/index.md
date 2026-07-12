@@ -6,6 +6,8 @@ This is the **MacTaggert Clan Tartan** sett — one scale-free proportion (`db9k
 [BKGWGWGKBRBRB](/stripes/bkgwgwgkbrbrb/). It is recorded as a single **variant**, below.
 First attested **1906**.
 
+Part of the [MacTaggert](/tartans/m/ma/mactaggert-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

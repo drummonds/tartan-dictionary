@@ -6,6 +6,8 @@ This is the **Great Glen (Fashion)** sett — one scale-free proportion (`dt5o4d
 [BRBRBBBGBWBBBRBRB](/stripes/brbrbbbgbwbbbrbrb/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Great Glen](/tartans/g/gr/great-glen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

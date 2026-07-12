@@ -6,6 +6,8 @@ This is the **Balfour blue & brown** sett — one scale-free proportion (`db18y2
 [BGRGRR](/stripes/bgrgrr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Balfour blue &](/tartans/b/ba/balfour-blue/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

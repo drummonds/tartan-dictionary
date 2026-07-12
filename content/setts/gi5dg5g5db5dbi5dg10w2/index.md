@@ -6,7 +6,7 @@ This is the **Pollard (2014)** sett — one scale-free proportion (`gi5dg5g5db5d
 [GGGBBGW](/stripes/gggbbgw/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Pollard](/tartans/pollard/) tartan — the named design grouping this sett with its kin.
+Part of the [Pollard](/tartans/p/po/pollard/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

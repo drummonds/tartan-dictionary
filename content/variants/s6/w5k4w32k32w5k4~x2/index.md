@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Valley Forge"
+  url: "/tartans/v/va/valley-forge/"
 - name: "Valley Forge (Artefact)"
   url: "/setts/w5k4w32k32w5k4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w5k4w32k32w5k4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWKWKW](/stripes/kwkwkw/).
+
+Part of the [Valley Forge](/tartans/v/va/valley-forge/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

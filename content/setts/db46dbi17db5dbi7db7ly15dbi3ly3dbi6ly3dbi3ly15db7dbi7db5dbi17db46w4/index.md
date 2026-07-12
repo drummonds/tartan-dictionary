@@ -6,6 +6,8 @@ This is the **Rhys of Wales** sett — one scale-free proportion (`db46dbi17db5d
 [BBBBBYBYBYBYBBBBBW](/stripes/bbbbbybybybybbbbbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Rhys of Wales](/tartans/r/rh/rhys-of-wales/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

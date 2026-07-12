@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sir George Etienne-Cartier Canada"
+  url: "/tartans/s/si/sir-george-etienne-cartier-canada/"
 - name: "Sir George Etienne-Cartier Canada Tartan"
   url: "/setts/r4g6y3g12k14db5r20db5k4db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4g6y3g12k14db5r20db5k4db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBRBKGGGR](/stripes/bkbrbkgggr/).
+
+Part of the [Sir George Etienne-Cartier Canada](/tartans/s/si/sir-george-etienne-cartier-canada/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 

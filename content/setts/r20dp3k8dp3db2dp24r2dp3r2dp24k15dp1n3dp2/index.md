@@ -6,6 +6,8 @@ This is the **Black Rose** sett — one scale-free proportion (`r20dp3k8dp3db2dp
 [BBBKBRBRBBBKBR](/stripes/bbbkbrbrbbbkbr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Black Rose](/tartans/b/bl/black-rose/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

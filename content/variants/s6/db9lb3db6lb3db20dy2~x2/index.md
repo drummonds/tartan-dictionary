@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Oman RAF, Sultanate of"
+  url: "/tartans/o/om/oman-raf-sultanate-of/"
 - name: "Oman RAF, Sultanate of (Military)"
   url: "/setts/db9lb3db6lb3db20dy2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db9lb3db6lb3db20dy2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWBG](/stripes/bwbwbg/).
+
+Part of the [Oman RAF, Sultanate of](/tartans/o/om/oman-raf-sultanate-of/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

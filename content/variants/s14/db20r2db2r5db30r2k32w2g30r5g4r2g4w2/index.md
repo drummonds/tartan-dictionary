@@ -10,7 +10,7 @@ crumbs:
 - name: "MacDonald of Clanranald"
   url: "/families/macdonald-of-clanranald/"
 - name: "MacDonald of Clanranald"
-  url: "/tartans/macdonald-of-clanranald/"
+  url: "/tartans/m/ma/macdonald-of-clanranald/"
 - name: "MacDonald of Clanranald #5"
   url: "/setts/db20r2db2r5db30r2k32w2g30r5g4r2g4w2/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db20r2db2r5db30r2k32w2g30r5g4r2g4w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBRKWGRGRGW](/stripes/brbrbrkwgrgrgw/).
 
-Part of the [MacDonald of Clanranald](/tartans/macdonald-of-clanranald/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacDonald of Clanranald](/tartans/m/ma/macdonald-of-clanranald/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

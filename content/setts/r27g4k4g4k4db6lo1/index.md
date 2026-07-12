@@ -6,6 +6,8 @@ This is the **MacLeay (Clan)** sett — one scale-free proportion (`r27g4k4g4k4d
 [RGKGKBY](/stripes/rgkgkby/). It is recorded as a single **variant**, below.
 First attested **~1961**.
 
+Part of the [MacLeay](/tartans/m/ma/macleay-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

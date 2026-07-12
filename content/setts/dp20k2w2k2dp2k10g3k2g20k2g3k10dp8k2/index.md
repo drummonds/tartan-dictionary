@@ -6,7 +6,7 @@ This is the **Caithelyn (Personal)** sett — one scale-free proportion (`dp20k2
 [BKWKBKGKGKGKBK](/stripes/bkwkbkgkgkgkbk/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Caithelyn](/tartans/caithelyn/) tartan — the named design grouping this sett with its kin.
+Part of the [Caithelyn](/tartans/c/ca/caithelyn/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

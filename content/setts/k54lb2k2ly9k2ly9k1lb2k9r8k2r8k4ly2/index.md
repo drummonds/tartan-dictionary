@@ -6,6 +6,8 @@ This is the **Largs Dress (1972)** sett — one scale-free proportion (`k54lb2k2
 [KWKYKYKWKRKRKY](/stripes/kwkykykwkrkrky/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Largs Dress](/tartans/l/la/largs-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Ware/Warr (Name)** sett — one scale-free proportion (`t9w2dg30o6
 [BWGRBRBR](/stripes/bwgrbrbr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Ware/Warr](/tartans/w/wa/ware-warr/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Smith Hunting (Name)** sett — one scale-free proportion (`ly60w1
 [RWGWRYWRWY](/stripes/rwgwrywrwy/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Smith Hunting](/tartans/s/sm/smith-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacVicar, McVicar, McVicker"
+  url: "/tartans/m/ma/macvicar-mcvicar-mcvicker/"
+- name: "MacVicar, McVicar, McVicker"
   url: "/setts/db12dy2y2dy2db2dy10g12dy3g12dy10db11r2y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db12dy2y2dy2db2dy10g12dy3g12dy10db11r2y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGBGGGGGBRG](/stripes/bgggbgggggbrg/).
+
+Part of the [MacVicar, McVicar, McVicker](/tartans/m/ma/macvicar-mcvicar-mcvicker/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

@@ -6,6 +6,8 @@ This is the **Gift of Life Michigan** sett — one scale-free proportion (`r2lb1
 [RWRWGGW](/stripes/rwrwggw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Gift of Life Michigan](/tartans/g/gi/gift-of-life-michigan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

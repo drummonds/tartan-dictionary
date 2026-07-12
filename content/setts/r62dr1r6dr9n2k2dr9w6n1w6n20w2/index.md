@@ -6,6 +6,8 @@ This is the **Canfor** sett — one scale-free proportion (`r62dr1r6dr9n2k2dr9w6
 [RBRBBKBWBWBW](/stripes/rbrbbkbwbwbw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Canfor](/tartans/c/ca/canfor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

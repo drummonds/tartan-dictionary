@@ -6,6 +6,8 @@ This is the **Cape Breton University Chemistry Society** sett — one scale-free
 [BRBGBGBGBG](/stripes/brbgbgbgbg/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Cape Breton University Chemistry Society](/tartans/c/ca/cape-breton-university-chemistry-society/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

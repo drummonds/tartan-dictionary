@@ -6,6 +6,8 @@ This is the **Jones of Wales** sett — one scale-free proportion (`dg46db17dg5d
 [GBGBGWBWBWBWGBGBGG](/stripes/gbgbgwbwbwbwgbgbgg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Jones of Wales](/tartans/j/jo/jones-of-wales/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -7,6 +7,8 @@ This is the **City of Rome Pipe Band** sett — one scale-free proportion (`dr12
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2005**.
 
+Part of the [City of Rome Pipe Band](/tartans/c/ci/city-of-rome-pipe-band/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

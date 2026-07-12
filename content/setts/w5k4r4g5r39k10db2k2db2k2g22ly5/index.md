@@ -6,7 +6,7 @@ This is the **Boyd (Clan)** sett — one scale-free proportion (`w5k4r4g5r39k10d
 [WKRGRKBKBKGY](/stripes/wkrgrkbkbkgy/). It is recorded as a single **variant**, below.
 First attested **1930**.
 
-Part of the [Boyd](/tartans/boyd/) tartan — the named design grouping this sett with its kin.
+Part of the [Boyd](/tartans/b/bo/boyd/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

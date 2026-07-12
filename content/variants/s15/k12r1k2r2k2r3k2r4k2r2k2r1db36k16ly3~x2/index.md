@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Citymoves"
+  url: "/tartans/c/ci/citymoves/"
 - name: "Citymoves (2012) (Corporate)"
   url: "/setts/k12r1k2r2k2r3k2r4k2r2k2r1db36k16ly3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k12r1k2r2k2r3k2r4k2r2k2r1db36k16ly3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKRKRKRKRKRBKY](/stripes/krkrkrkrkrkrbky/).
+
+Part of the [Citymoves](/tartans/c/ci/citymoves/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

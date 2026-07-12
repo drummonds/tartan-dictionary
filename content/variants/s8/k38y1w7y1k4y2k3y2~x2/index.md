@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Erck, Georges van"
+  url: "/tartans/e/er/erck-georges-van/"
 - name: "Erck, Georges van (Personal),"
   url: "/setts/k38y1w7y1k4y2k3y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k38y1w7y1k4y2k3y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGKGWGK](/stripes/gkgkgwgk/).
+
+Part of the [Erck, Georges van](/tartans/e/er/erck-georges-van/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

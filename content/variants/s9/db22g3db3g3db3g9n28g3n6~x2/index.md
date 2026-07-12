@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Manx Centenary"
+  url: "/tartans/m/ma/manx-centenary/"
+- name: "Manx Centenary"
   url: "/setts/db22g3db3g3db3g9n28g3n6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db22g3db3g3db3g9n28g3n6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBGBGB](/stripes/bgbgbgbgb/).
+
+Part of the [Manx Centenary](/tartans/m/ma/manx-centenary/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

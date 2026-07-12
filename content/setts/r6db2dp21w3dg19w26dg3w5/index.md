@@ -6,6 +6,8 @@ This is the **Culloden Dress Old Tartan** sett — one scale-free proportion (`r
 [RBBWGWGW](/stripes/rbbwgwgw/). It is recorded as a single **variant**, below.
 First attested **1983**.
 
+Part of the [Culloden Dress](/tartans/c/cu/culloden-dress-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

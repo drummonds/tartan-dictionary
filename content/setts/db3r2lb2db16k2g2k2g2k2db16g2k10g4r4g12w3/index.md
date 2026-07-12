@@ -6,6 +6,8 @@ This is the **Annandale (Personal)** sett — one scale-free proportion (`db3r2l
 [BRWBKGKGKBGKGRGW](/stripes/brwbkgkgkbgkgrgw/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
+Part of the [Annandale](/tartans/a/an/annandale-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

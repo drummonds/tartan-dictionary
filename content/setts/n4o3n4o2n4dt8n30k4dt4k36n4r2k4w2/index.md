@@ -6,7 +6,7 @@ This is the **Capercaillie Corporate Tartan** sett — one scale-free proportion
 [BRBRBBBKBKBRKW](/stripes/brbrbbbkbkbrkw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
-Part of the [Capercaillie](/tartans/capercaillie/) tartan — the named design grouping this sett with its kin.
+Part of the [Capercaillie](/tartans/c/ca/capercaillie/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

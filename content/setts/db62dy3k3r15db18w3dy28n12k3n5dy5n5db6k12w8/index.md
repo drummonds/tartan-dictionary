@@ -6,6 +6,8 @@ This is the **Clare County, Crest Range** sett — one scale-free proportion (`d
 [BGKRBWGBKBGBBKW](/stripes/bgkrbwgbkbgbbkw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Clare County, Crest Range](/tartans/c/cl/clare-county-crest-range/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Coogan"
+  url: "/tartans/c/co/coogan/"
 - name: "Coogan (Personal)"
   url: "/setts/y2db66dr16w2dr1w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y2db66dr16w2dr1w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBBWBW](/stripes/gbbwbw/).
+
+Part of the [Coogan](/tartans/c/co/coogan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

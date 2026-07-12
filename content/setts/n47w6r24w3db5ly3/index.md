@@ -6,7 +6,7 @@ This is the **Duminiak (Personal)** sett — one scale-free proportion (`n47w6r2
 [BWRWBY](/stripes/bwrwby/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Duminiak](/tartans/duminiak/) tartan — the named design grouping this sett with its kin.
+Part of the [Duminiak](/tartans/d/du/duminiak/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

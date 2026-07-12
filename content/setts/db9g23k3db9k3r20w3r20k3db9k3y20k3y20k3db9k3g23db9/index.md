@@ -6,6 +6,8 @@ This is the **Buchanan (1850 - Clan)** sett — one scale-free proportion (`db9g
 [BGKBKGKGKBKRWRKBKGB](/stripes/bgkbkgkgkbkrwrkbkgb/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
+Part of the [Buchanan (1850](/tartans/b/bu/buchanan-1850/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

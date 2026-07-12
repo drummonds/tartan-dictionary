@@ -6,7 +6,7 @@ This is the **Applecross** sett — one scale-free proportion (`dg18r2dg7r18`), 
 [GRGR](/stripes/grgr/). It is recorded as a single **variant**, below.
 First attested **1850**.
 
-Part of the [Applecross](/tartans/applecross/) tartan — the named design grouping this sett with its kin.
+Part of the [Applecross](/tartans/a/ap/applecross/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

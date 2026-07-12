@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Confederate Rose"
+  url: "/tartans/c/co/confederate-rose/"
+- name: "Confederate Rose"
   url: "/setts/dp24w4m10w4y4w28n6w4n6w28m18w1db4w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dp24w4m10w4y4w28n6w4n6w28m18w1db4w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRWGWBWBWRWBW](/stripes/bwrwgwbwbwrwbw/).
+
+Part of the [Confederate Rose](/tartans/c/co/confederate-rose/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

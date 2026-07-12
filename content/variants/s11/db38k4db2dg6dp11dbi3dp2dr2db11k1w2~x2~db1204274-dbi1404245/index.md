@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Highland Pride 2"
+  url: "/tartans/h/hi/highland-pride-2/"
 - name: "Highland Pride 2 (Fashion)"
   url: "/setts/db38k4db2dg6dp11dbi3dp2dr2db11k1w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db38k4db2dg6dp11dbi3dp2dr2db11k1w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGBBBBBKW](/stripes/bkbgbbbbbkw/).
+
+Part of the [Highland Pride 2](/tartans/h/hi/highland-pride-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

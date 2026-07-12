@@ -6,6 +6,8 @@ This is the **Canadian Estate** sett — one scale-free proportion (`g18dr1g2dr2
 [GBGBGBKBKBBBW](/stripes/gbgbgbkbkbbbw/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Canadian Estate](/tartans/c/ca/canadian-estate/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

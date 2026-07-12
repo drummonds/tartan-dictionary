@@ -7,7 +7,7 @@ This is the **MacGillivray** sett — one scale-free proportion (`r4lb1db1r32lb2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1831**.
 
-Part of the [MacGillivray](/tartans/macgillivray-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacGillivray](/tartans/m/ma/macgillivray-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

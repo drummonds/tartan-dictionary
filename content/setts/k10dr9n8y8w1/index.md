@@ -6,7 +6,7 @@ This is the **Pople** sett — one scale-free proportion (`k10dr9n8y8w1`), colou
 [KBBGW](/stripes/kbbgw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Pople](/tartans/pople/) tartan — the named design grouping this sett with its kin.
+Part of the [Pople](/tartans/p/po/pople/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

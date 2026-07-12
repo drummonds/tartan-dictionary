@@ -6,6 +6,8 @@ This is the **Washington Stockmens** sett — one scale-free proportion (`db4n3d
 [BBBBKBKBBBBBKBGBGBKBKBGBGBKBBBBBKBKBBB](/stripes/bbbbkbkbbbbbkbgbgbkbkbgbgbkbbbbbkbkbbb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Washington Stockmens](/tartans/w/wa/washington-stockmens/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

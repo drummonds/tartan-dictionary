@@ -6,6 +6,8 @@ This is the **Windsor** sett — one scale-free proportion (`dr4db12k18db4y22lb1
 [BBKBGWGWGW](/stripes/bbkbgwgwgw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Windsor](/tartans/w/wi/windsor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

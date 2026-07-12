@@ -6,6 +6,8 @@ This is the **Japan–Scotland Society, The** sett — one scale-free proportion
 [BRGRBWBWW](/stripes/brgrbwbww/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Japan-Scotland Society](/tartans/j/ja/japan-scotland-society/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

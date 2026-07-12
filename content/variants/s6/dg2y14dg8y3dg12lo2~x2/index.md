@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Confederate Cavalry"
+  url: "/tartans/c/co/confederate-cavalry/"
 - name: "Confederate Cavalry (Military)"
   url: "/setts/dg2y14dg8y3dg12lo2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg2y14dg8y3dg12lo2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGGGY](/stripes/gggggy/).
+
+Part of the [Confederate Cavalry](/tartans/c/co/confederate-cavalry/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

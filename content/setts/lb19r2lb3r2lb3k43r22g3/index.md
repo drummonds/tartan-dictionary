@@ -6,6 +6,8 @@ This is the **Carson Red (Personal)** sett — one scale-free proportion (`lb19r
 [GRKWRWRW](/stripes/grkwrwrw/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Carson](/tartans/c/ca/carson/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

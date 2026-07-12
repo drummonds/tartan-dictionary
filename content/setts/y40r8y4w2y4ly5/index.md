@@ -6,6 +6,8 @@ This is the **Reid (1939)** sett — one scale-free proportion (`y40r8y4w2y4ly5`
 [GRGWGY](/stripes/grgwgy/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Reid](/tartans/r/re/reid-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

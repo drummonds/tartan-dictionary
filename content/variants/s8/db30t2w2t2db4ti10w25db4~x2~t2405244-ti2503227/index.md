@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Eildon/Longniddry Blue Dress"
+  url: "/tartans/e/ei/eildon-longniddry-blue-dress/"
 - name: "Eildon/Longniddry Blue Dress Fashion Tartan"
   url: "/setts/db30t2w2t2db4ti10w25db4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db30t2w2t2db4ti10w25db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBBBWB](/stripes/bbwbbbwb/).
+
+Part of the [Eildon/Longniddry Blue Dress](/tartans/e/ei/eildon-longniddry-blue-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 

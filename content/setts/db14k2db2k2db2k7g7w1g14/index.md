@@ -7,6 +7,8 @@ This is the **Abercrombie D** sett — one scale-free proportion (`db14k2db2k2db
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
+Part of the [Abercrombie D](/tartans/a/ab/abercrombie-d/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

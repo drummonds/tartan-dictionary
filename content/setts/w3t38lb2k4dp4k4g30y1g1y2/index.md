@@ -6,6 +6,8 @@ This is the **Pinewoods Jubilee** sett — one scale-free proportion (`w3t38lb2k
 [GGGGKBKWBW](/stripes/ggggkbkwbw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Pinewoods Jubilee](/tartans/p/pi/pinewoods-jubilee/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Forbes (Fashion)** sett — one scale-free proportion (`k46dr8lr1d
 [KBYBKYYYYY](/stripes/kbybkyyyyy/). It is recorded as a single **variant**, below.
 First attested **1970**.
 
+Part of the [Forbes](/tartans/f/fo/forbes-10/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

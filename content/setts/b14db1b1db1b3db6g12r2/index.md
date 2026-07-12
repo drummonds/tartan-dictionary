@@ -6,6 +6,8 @@ This is the **Cranstoun** sett — one scale-free proportion (`b14db1b1db1b3db6g
 [BBBBBBGR](/stripes/bbbbbbgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Cranstoun](/tartans/c/cr/cranstoun-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

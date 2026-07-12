@@ -7,6 +7,8 @@ This is the **Tweedside Red** sett — one scale-free proportion (`k18r2k2r5w2r2
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1840**.
 
+Part of the [Tweedside](/tartans/t/tw/tweedside/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

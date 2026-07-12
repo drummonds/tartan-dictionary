@@ -6,6 +6,8 @@ This is the **Apache** sett — one scale-free proportion (`k15db7n3k13n3db7k23n
 [GBGBBKBBKBBK](/stripes/gbgbbkbbkbbk/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Apache](/tartans/a/ap/apache/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

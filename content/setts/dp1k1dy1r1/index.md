@@ -6,6 +6,8 @@ This is the **Bowater (Estate Check)** sett — one scale-free proportion (`dp1k
 [BKGR](/stripes/bkgr/). It is recorded as a single **variant**, below.
 First attested **~1859**.
 
+Part of the [Bowater](/tartans/b/bo/bowater/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

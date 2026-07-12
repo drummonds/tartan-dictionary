@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "National Wedding"
-  url: "/tartans/national-wedding/"
+  url: "/tartans/n/na/national-wedding/"
 - name: "National Wedding"
   url: "/setts/g22y2g4dp3g4k20db20k1w3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g22y2g4dp3g4k20db20k1w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGBGKBKW](/stripes/gggbgkbkw/).
 
-Part of the [National Wedding](/tartans/national-wedding/) tartan — the named design grouping this sett with its other cloths.
+Part of the [National Wedding](/tartans/n/na/national-wedding/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

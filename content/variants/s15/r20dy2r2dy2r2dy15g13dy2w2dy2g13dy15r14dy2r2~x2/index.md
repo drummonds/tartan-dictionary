@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Mauthe Unidentified"
+  url: "/tartans/m/ma/mauthe-unidentified-2/"
 - name: "Mauthe Unidentified (Name?)"
   url: "/setts/r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r20dy2r2dy2r2dy15g13dy2w2dy2g13dy15r14dy2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGGGWGGGRGRGR](/stripes/rgrgggwgggrgrgr/).
+
+Part of the [Mauthe Unidentified](/tartans/m/ma/mauthe-unidentified-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 

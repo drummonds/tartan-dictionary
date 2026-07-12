@@ -6,7 +6,7 @@ This is the **MacAulay** sett — one scale-free proportion (`k2r16g6r3g8lb1`), 
 [KRGRGW](/stripes/krgrgw/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
-Part of the [MacAulay](/tartans/macaulay/) tartan — the named design grouping this sett with its kin.
+Part of the [MacAulay](/tartans/m/ma/macaulay/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

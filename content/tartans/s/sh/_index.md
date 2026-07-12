@@ -1,0 +1,66 @@
+---
+title: "Tartans — Sh"
+date: 2023-03-18
+---
+58 tartans beginning with Sh, each with the number of setts it groups. Back to [S](/tartans/s/) or the [A–Z](/tartans/).
+
+<ul class="clan-grid">
+<li><a class="tartan" href="/tartans/s/sh/shadow-halls/"><img src="/variants/s15/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4/sett.png" alt="Shadow Halls" width="140"><br><strong>Shadow Halls (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shadowhalls/"><img src="/variants/s15/dti1dt4k11dt1k1dt1k1dti1k11n4g1n8k8dt8n1~x4~dti1503227-dt1202249/sett.png" alt="ShadowHalls" width="140"><br><strong>ShadowHalls (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shalom/"><img src="/variants/s11/k15lb3k3w4k3lb3k15db4k4db30k4~x2~db1406275/sett.png" alt="Shalom" width="140"><br><strong>Shalom (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shanahan/"><img src="/variants/s16/t17dg16k2dg24ly3k4r2k2r2k4ly3dg24k2dg16t17r2~x2/sett.png" alt="Shanahan" width="140"><br><strong>Shanahan (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shanahan-2/"><img src="/variants/s9/k2r2k4ly3dg24k2dg16t17r2~x2/sett.png" alt="Shanahan" width="140"><br><strong>Shanahan (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shandon/"><img src="/variants/s14/k20g18k2y2k5w2k2g18k20dp18t4dp4t4dp18~x2/sett.png" alt="Shandon" width="140"><br><strong>Shandon (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shandon-2/"><img src="/variants/s14/k20dg18k2w2k5y2k2dg18k20db18t4db4t4db18~x2~db1406275-t2205244/sett.png" alt="Shandon" width="140"><br><strong>Shandon (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shanghai-scottish/"><img src="/variants/s11/y4r23db3r3db16lb15b27lb8b5lb13w4~db1108266-b1511266/sett.png" alt="Shanghai Scottish" width="140"><br><strong>Shanghai Scottish (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shannon/"><img src="/variants/s7/dy48dp11g16y16dy11r3dy11~x2/sett.png" alt="Shannon" width="140"><br><strong>Shannon (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shapiro/"><img src="/variants/s37/k16lb2lp2ly2lp10lb4ly6lb10ly6lb10ly4lb10ly4lb10ly2lb32ly2lb10lp4ly14lb10ly10lb6ly10lb6ly10lb6ly10lb4ly10lb2ly28lb3ly10lp6lb4ly16~x2~ly3104101/sett.png" alt="Shapiro" width="140"><br><strong>Shapiro (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shaughnessy/"><img src="/variants/s12/db68lb4dr10ly2dr3w3dr3g11db8dr3db3w3~x2~db1404245-lb3203246-ly3307090-w4000000/sett.png" alt="Shaughnessy" width="140"><br><strong>Shaughnessy (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shaw/"><img src="/variants/s6/g24k2db3k2db8r2~x2~db1406275/sett.png" alt="Shaw" width="140"><br><strong>Shaw (1)</strong></a><div class="clan-territory">Clan Shaw</div></li>
+<li><a class="tartan" href="/tartans/s/sh/shaw-2/"><img src="/variants/s8/lb5k1r30dr15r8g30r8dr2/sett.png" alt="Shaw" width="140"><br><strong>Shaw (2)</strong></a><div class="clan-territory">Clan Shaw</div></li>
+<li><a class="tartan" href="/tartans/s/sh/shaw-dress/"><img src="/variants/s19/dp3w14g8w10dp4w32r1w2r1w2r1w2r1w2r1w2r1w6lb3~x2/sett.png" alt="Shaw Dress" width="140"><br><strong>Shaw Dress (1)</strong></a><div class="clan-territory">Clan Shaw</div></li>
+<li><a class="tartan" href="/tartans/s/sh/shaw-of-carolina/"><img src="/variants/s20/g6k3g18r4db4w4g18k3g6k3db6k3db18w4db4r4db18k3db6k3~x2~r2109032-db1204274/sett.png" alt="Shaw of Carolina" width="140"><br><strong>Shaw of Carolina (1)</strong></a><div class="clan-territory">Shaw of Carolina</div></li>
+<li><a class="tartan" href="/tartans/s/sh/shaw-of-tordarroch/"><img src="/variants/s8/lb5k1g30db15r8g30r8db2~x2/sett.png" alt="Shaw of Tordarroch" width="140"><br><strong>Shaw of Tordarroch (1)</strong></a><div class="clan-territory">Shaw of Tordarroch</div></li>
+<li><a class="tartan" href="/tartans/s/sh/shaw-of-tordarroch-2/"><img src="/variants/s8/lb5k1r30dp15r8dg30r8dp2~x2~dg1806142/sett.png" alt="Shaw of Tordarroch" width="140"><br><strong>Shaw of Tordarroch (2)</strong></a><div class="clan-territory">Shaw of Tordarroch</div></li>
+<li><a class="tartan" href="/tartans/s/sh/shaw-of-tordarroch-mrs/"><img src="/variants/s11/r8w46db4w4db4w5g7w7g7w4db2~x2/sett.png" alt="Shaw of Tordarroch, Mrs" width="140"><br><strong>Shaw of Tordarroch, Mrs (1)</strong></a><div class="clan-territory">Shaw of Tordarroch, Mrs</div></li>
+<li><a class="tartan" href="/tartans/s/sh/shaw-of-tordarroch-hunting/"><img src="/variants/s8/lb5k1dg30dp15r8dg30r8dp2~x2/sett.png" alt="Shaw of Tordarroch, hunting" width="140"><br><strong>Shaw of Tordarroch, hunting (2)</strong></a><div class="clan-territory">Shaw of Tordarroch</div></li>
+<li><a class="tartan" href="/tartans/s/sh/shaw-miss-rebecca/"><img src="/variants/s8/lb5k1w30dp15w8g30w8dp2~x2/sett.png" alt="Shaw, Miss Rebecca" width="140"><br><strong>Shaw, Miss Rebecca (1)</strong></a><div class="clan-territory">Clan Shaw</div></li>
+<li><a class="tartan" href="/tartans/s/sh/shawlands-international/"><img src="/variants/s6/k3g44db27ly6r10w3~x2/sett.png" alt="Shawlands International" width="140"><br><strong>Shawlands International (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shawn-jones-afghan-memorial-the/"><img src="/variants/s6/r12g4k8dy3y62dr8~x2/sett.png" alt="Shawn Jones Afghan Memorial, The" width="140"><br><strong>Shawn Jones Afghan Memorial, The (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shawn-jones-afghan-memorial-the-2/"><img src="/variants/s6/ri12g4k8dr3ly62r8~x2~ri2109032-r1807033/sett.png" alt="Shawn Jones Afghan Memorial, The" width="140"><br><strong>Shawn Jones Afghan Memorial, The (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/sheboom/"><img src="/variants/s8/k35o2k3dp13g8w4g8dp8~x2/sett.png" alt="SheBoom" width="140"><br><strong>SheBoom (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shearer/"><img src="/variants/s29/r2g4n2g11dt9ri12dt2ri12dt9g2dt2g2dt2g6r2g6dt2g2dt2g2dt9ri12lo2ri12dt9g11n2g4r2~x2~ri1606028/sett.png" alt="Shearer" width="140"><br><strong>Shearer (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shearer-2/"><img src="/variants/s28/g4lb2g11k9do12lo2do12k9g2k2g2k2g6dr2g6k2g2k2g2k9do12k2do12k9g11lb2g4dr2~x2/sett.png" alt="Shearer" width="140"><br><strong>Shearer (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shearer-3/"><img src="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/sett.png" alt="Shearer" width="140"><br><strong>Shearer (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shedor/"><img src="/variants/s18/lb25g3lb4g4lb5g5lb15r6lb5g19lb8g26lb4w4lb4g7lb4db21~x2/sett.png" alt="Shedor" width="140"><br><strong>Shedor (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/sheffield-high/"><img src="/variants/s4/lb5db12g8lb4/sett.png" alt="Sheffield High" width="140"><br><strong>Sheffield High (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/sheffield-high-school/"><img src="/variants/s6/db12g8lb4g8db12lb5/sett.png" alt="Sheffield High School" width="140"><br><strong>Sheffield High School (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/sheffield-city-of/"><img src="/variants/s14/lb5g5k4n31dg3n3dg62n3dg3n31k4g5lb5r3~x2~g2408144-dg1806142/sett.png" alt="Sheffield, City of" width="140"><br><strong>Sheffield, City of (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/sheffield-city-of-2/"><img src="/variants/s8/dg62n3dg3n31k4g5lb5r3~x2~dg1806142-g2408144/sett.png" alt="Sheffield, City of" width="140"><br><strong>Sheffield, City of (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shembe-zulu-church/"><img src="/variants/s5/k5w25r6k45w4~x2/sett.png" alt="Shembe Zulu Church" width="140"><br><strong>Shembe Zulu Church (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shenzhen/"><img src="/variants/s11/k3o29lo2o2lo4o2lo20y1lo2y10w3~x2/sett.png" alt="Shenzhen" width="140"><br><strong>Shenzhen (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shenzhen-2/"><img src="/variants/s20/o29lo2o2lo4o2lo20y1lo2y10w3y10lo2y1lo20o2lo4o2lo2o29k3~x2~lo2905070-w3600000/sett.png" alt="Shenzhen" width="140"><br><strong>Shenzhen (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shepherd/"><img src="/variants/s2/dy1lb1~x6/sett.png" alt="Shepherd" width="140"><br><strong>Shepherd (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shepherd-2/"><img src="/variants/s2/k1w1/sett.png" alt="Shepherd" width="140"><br><strong>Shepherd (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shepherd-3/"><img src="/variants/s19/g40dy5k40lb8g1lb1g1dy2g1dy2g1lb1g1lb7g1k15lb5g1lb10~x2/sett.png" alt="Shepherd" width="140"><br><strong>Shepherd (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shepherd-piping/"><img src="/variants/s6/k5y2dy7ly18dy2w2~x4/sett.png" alt="Shepherd Piping" width="140"><br><strong>Shepherd Piping (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shepherd-or-falkirk/"><img src="/variants/s2/k1lb1~x6/sett.png" alt="Shepherd or Falkirk" width="140"><br><strong>Shepherd or Falkirk (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shepherd-derek/"><img src="/variants/s6/k5r2dy7ly18dy2w2~x4/sett.png" alt="Shepherd, Derek" width="140"><br><strong>Shepherd, Derek (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shepherd-derek-2/"><img src="/variants/s19/dy2dg1dy2dg1lb1dg1lb8k40dy5dg40lb10dg1lb5k15dg1lb7dg1lb1dg1~x2/sett.png" alt="Shepherd, Derek" width="140"><br><strong>Shepherd, Derek (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shiach/"><img src="/variants/s8/g45k4ri2g4ri2k4db21r5~x2~ri2806019-r2109032/sett.png" alt="Shiach" width="140"><br><strong>Shiach (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shiel/"><img src="/variants/s7/w8g5lb10dp24w30g2lp2~x2/sett.png" alt="Shiel" width="140"><br><strong>Shiel (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shiel-claret/"><img src="/variants/s7/w8dr5dp10r24w30dr2db2~x2/sett.png" alt="Shiel Claret" width="140"><br><strong>Shiel Claret (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shiel-lavender/"><img src="/variants/s7/w8g5dp10lb24w30g2lp2~x2/sett.png" alt="Shiel Lavender" width="140"><br><strong>Shiel Lavender (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shiel-magenta/"><img src="/variants/s7/w8b5lb10o24w30b2dg2~x2/sett.png" alt="Shiel Magenta" width="140"><br><strong>Shiel Magenta (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shieldhall/"><img src="/variants/s12/do12r1do2r1do2lb2do3n9r1n2r1n3~x4/sett.png" alt="Shieldhall" width="140"><br><strong>Shieldhall (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shieldhall-2/"><img src="/variants/s12/do12r1do2r1do2lb2do3o9r1o2r1o3~x4~o2500000/sett.png" alt="Shieldhall" width="140"><br><strong>Shieldhall (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/ship-hector/"><img src="/variants/s8/k4db9y6db22g4w20g6w4/sett.png" alt="Ship Hector" width="140"><br><strong>Ship Hector (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/ship-hector-the/"><img src="/variants/s8/k3db10ly5db16g3w16g5w3~x2/sett.png" alt="Ship Hector, The" width="140"><br><strong>Ship Hector, The (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/ship-hector-the-2/"><img src="/variants/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10k3~x2~db1406275/sett.png" alt="Ship Hector, The" width="140"><br><strong>Ship Hector, The (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shipley-ian/"><img src="/variants/s34/dg3r3dg3db3g13db5g3db5k9dg3db3dg3g6db3k3db16y3db3dg3db3r3db16k3db3g6dg3db3dg3k9db5g3db5g13db3~x2/sett.png" alt="Shipley, Ian" width="140"><br><strong>Shipley, Ian (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shipley-ian-2/"><img src="/variants/s34/g3r3g3lb3yi13lb5yi3lb5k9g3lb3g3yi6lb3k3lb16y3lb3g3lb3r3lb16k3lb3yi6g3lb3g3k9lb5yi3lb5yi13lb3~x2~yi2404144/sett.png" alt="Shipley, Ian" width="140"><br><strong>Shipley, Ian (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shire-of-hornwood/"><img src="/variants/s5/r18y3r18y30k4~x2/sett.png" alt="Shire of Hornwood" width="140"><br><strong>Shire of Hornwood (2)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shirra/"><img src="/variants/s3/db40k32w1~x2/sett.png" alt="Shirra" width="140"><br><strong>Shirra (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shotts-dykehead/"><img src="/variants/s12/wi10w2ri3y2ri2w2ri2n14r22wi2r6ri2~x2~wi3600000-ri2109032/sett.png" alt="Shotts &amp; Dykehead" width="140"><br><strong>Shotts & Dykehead (1)</strong></a></li>
+<li><a class="tartan" href="/tartans/s/sh/shrek/"><img src="/variants/s12/dy4dg3dy30y12dg5lg4dg3lg14lgi2lg2lgi10ly3~x2~dg1804158-y2204115-lgi3205128/sett.png" alt="Shrek" width="140"><br><strong>Shrek (1)</strong></a></li>
+</ul>

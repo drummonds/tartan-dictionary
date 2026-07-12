@@ -6,6 +6,8 @@ This is the **Redpath, The Ronald** sett — one scale-free proportion (`p26o15r
 [BRRWYBR](/stripes/brrwybr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Redpath, The Ronald](/tartans/r/re/redpath-the-ronald/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

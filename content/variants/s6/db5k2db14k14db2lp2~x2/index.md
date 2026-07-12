@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Royal Scotsman Train"
+  url: "/tartans/r/ro/royal-scotsman-train-2/"
 - name: "Royal Scotsman Train (Corporate)"
   url: "/setts/db5k2db14k14db2lp2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db5k2db14k14db2lp2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBW](/stripes/bkbkbw/).
+
+Part of the [Royal Scotsman Train](/tartans/r/ro/royal-scotsman-train-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

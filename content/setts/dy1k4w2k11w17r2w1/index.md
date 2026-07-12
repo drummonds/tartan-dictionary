@@ -6,6 +6,8 @@ This is the **MacPherson - 1842 (VS) Dress** sett — one scale-free proportion 
 [GKWKWRW](/stripes/gkwkwrw/). It is recorded as a single **variant**, below.
 First attested **1829**.
 
+Part of the [MacPherson](/tartans/m/ma/macpherson-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

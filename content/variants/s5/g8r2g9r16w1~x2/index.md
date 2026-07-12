@@ -10,7 +10,7 @@ crumbs:
 - name: "MacGregor of Balquhidder"
   url: "/families/macgregor-of-balquhidder/"
 - name: "MacGregor of Balquhidder"
-  url: "/tartans/macgregor-of-balquhidder/"
+  url: "/tartans/m/ma/macgregor-of-balquhidder/"
 - name: "MacGregor of Balquhidder"
   url: "/setts/g8r2g9r16w1/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g8r2g9r16w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRW](/stripes/grgrw/).
 
-Part of the [MacGregor of Balquhidder](/tartans/macgregor-of-balquhidder/) tartan — the named design grouping this sett with its other cloths.
+Part of the [MacGregor of Balquhidder](/tartans/m/ma/macgregor-of-balquhidder/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 

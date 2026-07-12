@@ -10,7 +10,7 @@ crumbs:
 - name: "Cairns of Finavon"
   url: "/families/cairns-of-finavon/"
 - name: "Cairns of Finavon"
-  url: "/tartans/cairns-of-finavon/"
+  url: "/tartans/c/ca/cairns-of-finavon/"
 - name: "Cairns of Finavon (Name)"
   url: "/setts/g16db3g3db3g3db16r15db1dy3db1r15db16g15db3g3db3g15db16r15t1r3t1r15db16g3db3g3db3/"
 ---
@@ -18,7 +18,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g16db3g3db3g3db16r15db1dy3db1r15db16g15db3g3db3g15db16r15t1r3t1r15db16g3db3g3db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBRBRBRBGBGBGBRBGBRBGBGBG](/stripes/bgbgbrbrbrbgbgbgbrbgbrbgbgbg/).
 
-Part of the [Cairns of Finavon](/tartans/cairns-of-finavon/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Cairns of Finavon](/tartans/c/ca/cairns-of-finavon/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [28 stripe tartan](/stripes/stripes28/).
 

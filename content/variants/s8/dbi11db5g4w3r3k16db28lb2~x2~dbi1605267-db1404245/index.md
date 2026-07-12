@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Italian"
-  url: "/tartans/scottish-italian/"
+  url: "/tartans/s/sc/scottish-italian/"
 - name: "Scottish Italian"
   url: "/setts/dbi11db5g4w3r3k16db28lb2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dbi11db5g4w3r3k16db28lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBGWRKBW](/stripes/bbgwrkbw/).
 
-Part of the [Scottish Italian](/tartans/scottish-italian/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Scottish Italian](/tartans/s/sc/scottish-italian/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

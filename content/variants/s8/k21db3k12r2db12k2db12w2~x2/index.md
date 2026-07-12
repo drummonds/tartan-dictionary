@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Inverness Caledonian Thistle Football Club"
+  url: "/tartans/i/in/inverness-caledonian-thistle-football-club/"
+- name: "Inverness Caledonian Thistle Football Club"
   url: "/setts/k21db3k12r2db12k2db12w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k21db3k12r2db12k2db12w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKRBKBW](/stripes/kbkrbkbw/).
+
+Part of the [Inverness Caledonian Thistle Football Club](/tartans/i/in/inverness-caledonian-thistle-football-club/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

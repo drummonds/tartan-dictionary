@@ -6,7 +6,7 @@ This is the **Leaf Peeper** sett — one scale-free proportion (`k2w1g25dy11r12w
 [KWGGRWGKW](/stripes/kwggrwgkw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
-Part of the [Leaf Peeper](/tartans/leaf-peeper/) tartan — the named design grouping this sett with its kin.
+Part of the [Leaf Peeper](/tartans/l/le/leaf-peeper/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Montana"
+  url: "/tartans/s/st/state-seal-of-montana/"
 - name: "State Seal of Montana (Fashion)"
   url: "/setts/db4ly4db26t5db5t8ly10g8dg5g5dg22n3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db4ly4db26t5db5t8ly10g8dg5g5dg22n3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGGGYBBBBYB](/stripes/bggggybbbbyb/).
+
+Part of the [State Seal of Montana](/tartans/s/st/state-seal-of-montana/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

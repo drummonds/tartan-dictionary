@@ -6,6 +6,8 @@ This is the **Scottish Women's Rural Institutes** sett — one scale-free propor
 [BWBKGGGWGKBG](/stripes/bwbkgggwgkbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Scottish Women's Rural Institutes](/tartans/s/sc/scottish-women-s-rural-institutes/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

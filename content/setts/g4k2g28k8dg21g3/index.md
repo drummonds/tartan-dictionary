@@ -6,6 +6,8 @@ This is the **Dunbar Hunting** sett — one scale-free proportion (`g4k2g28k8dg2
 [GGKGKG](/stripes/ggkgkg/). It is recorded as a single **variant**, below.
 First attested **1986**.
 
+Part of the [Dunbar Hunting](/tartans/d/du/dunbar-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

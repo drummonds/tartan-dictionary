@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Walker, hunting"
+  url: "/tartans/w/wa/walker-hunting-2/"
+- name: "Walker, hunting"
   url: "/setts/r4ki2g7ki15g3ki3g3ki7g28k7g6k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r4ki2g7ki15g3ki3g3ki7g28k7g6k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGKGKGKGKGKR](/stripes/kgkgkgkgkgkr/).
+
+Part of the [Walker, hunting](/tartans/w/wa/walker-hunting-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

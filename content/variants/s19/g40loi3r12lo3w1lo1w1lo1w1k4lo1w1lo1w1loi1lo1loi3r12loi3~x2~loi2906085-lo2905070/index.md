@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Tenon Tours"
+  url: "/tartans/t/te/tenon-tours-2/"
+- name: "Tenon Tours"
   url: "/setts/g40loi3r12lo3w1lo1w1lo1w1k4lo1w1lo1w1loi1lo1loi3r12loi3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g40loi3r12lo3w1lo1w1lo1w1k4lo1w1lo1w1loi1lo1loi3r12loi3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYRYWYWYWKYWYWYYYRY](/stripes/gyrywywywkywywyyyry/).
+
+Part of the [Tenon Tours](/tartans/t/te/tenon-tours-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 

@@ -6,6 +6,8 @@ This is the **Moorlands (Corporate)** sett — one scale-free proportion (`dp27k
 [BKBKG](/stripes/bkbkg/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Moorlands](/tartans/m/mo/moorlands/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

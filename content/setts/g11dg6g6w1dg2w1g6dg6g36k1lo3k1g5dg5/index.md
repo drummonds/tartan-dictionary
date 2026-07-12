@@ -6,6 +6,8 @@ This is the **Wexford Irish County Tartan** sett — one scale-free proportion (
 [GGGWGWGGGKYKGG](/stripes/gggwgwgggkykgg/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Wexford Irish County](/tartans/w/we/wexford-irish-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

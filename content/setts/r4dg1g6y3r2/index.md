@@ -6,6 +6,8 @@ This is the **Belladrum Estate** sett — one scale-free proportion (`r4dg1g6y3r
 [RGGGR](/stripes/rgggr/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Belladrum Estate](/tartans/b/be/belladrum-estate/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

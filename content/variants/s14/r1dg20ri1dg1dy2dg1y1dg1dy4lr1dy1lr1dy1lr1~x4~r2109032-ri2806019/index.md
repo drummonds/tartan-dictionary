@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Forster"
+  url: "/tartans/f/fo/forster/"
 - name: "Forster (Personal)"
   url: "/setts/r1dg20ri1dg1dy2dg1y1dg1dy4lr1dy1lr1dy1lr1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r1dg20ri1dg1dy2dg1y1dg1dy4lr1dy1lr1dy1lr1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGRGGGGGGYGYGY](/stripes/rgrggggggygygy/).
+
+Part of the [Forster](/tartans/f/fo/forster/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

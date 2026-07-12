@@ -6,6 +6,8 @@ This is the **White Stripes Dress, (Corporate)** sett — one scale-free proport
 [KRKRWRW](/stripes/krkrwrw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [White Stripes Dress](/tartans/w/wh/white-stripes-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

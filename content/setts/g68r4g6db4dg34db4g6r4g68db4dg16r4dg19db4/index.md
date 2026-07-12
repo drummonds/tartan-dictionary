@@ -6,6 +6,8 @@ This is the **ASDA Wal-Mart** sett — one scale-free proportion (`g68r4g6db4dg3
 [BGRGBGRGBGBGRG](/stripes/bgrgbgrgbgbgrg/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [ASDA Wal-Mart](/tartans/a/as/asda-wal-mart/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

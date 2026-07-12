@@ -6,6 +6,8 @@ This is the **Price-Powell (Personal)** sett — one scale-free proportion (`k14
 [BBBBBKGKGKGK](/stripes/bbbbbkgkgkgk/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Price-Powell](/tartans/p/pr/price-powell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

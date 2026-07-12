@@ -6,6 +6,8 @@ This is the **Moray of Abercairny** sett — one scale-free proportion (`w1lb3db
 [WWBBRGRBRWW](/stripes/wwbbrgrbrww/). It is recorded as a single **variant**, below.
 First attested **1735**.
 
+Part of the [Moray of Abercairny](/tartans/m/mo/moray-of-abercairny/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

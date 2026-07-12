@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ashers"
+  url: "/clan/ashers/"
+- name: "Ashers of Nairn"
+  url: "/families/ashers-of-nairn/"
+- name: "Ashers of Nairn"
+  url: "/tartans/a/as/ashers-of-nairn/"
 - name: "Ashers of Nairn"
   url: "/setts/ly2k3w3k44ly4k22lb22w3k3ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly2k3w3k44ly4k22lb22w3k3ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YKWKYKWWKY](/stripes/ykwkykwwky/).
+
+Part of the [Ashers of Nairn](/tartans/a/as/ashers-of-nairn/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

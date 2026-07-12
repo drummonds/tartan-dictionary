@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Idaho"
+  url: "/tartans/s/st/state-seal-of-idaho/"
 - name: "State Seal of Idaho (Fashion)"
   url: "/setts/w4k1t33w4ly15g4ly3t4ly15lyi2g30k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w4k1t33w4ly15g4ly3t4ly15lyi2g30k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KGYYBYGYWBKW](/stripes/kgyybygywbkw/).
+
+Part of the [State Seal of Idaho](/tartans/s/st/state-seal-of-idaho/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

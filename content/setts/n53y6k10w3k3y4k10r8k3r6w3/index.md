@@ -6,6 +6,8 @@ This is the **Stevens #5** sett — one scale-free proportion (`n53y6k10w3k3y4k1
 [BGKWKGKRKRW](/stripes/bgkwkgkrkrw/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Stevens](/tartans/s/st/stevens-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

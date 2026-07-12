@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "St. David's"
+  url: "/tartans/s/st/st-david-s/"
 - name: "St. David's (District)"
   url: "/setts/dg60r2dg8r1dg5w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg60r2dg8r1dg5w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGRGW](/stripes/grgrgw/).
+
+Part of the [St. David's](/tartans/s/st/st-david-s/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 

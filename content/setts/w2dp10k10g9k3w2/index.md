@@ -6,6 +6,8 @@ This is the **MacNeil 2** sett — one scale-free proportion (`w2dp10k10g9k3w2`)
 [WBKGKW](/stripes/wbkgkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacNeil 2](/tartans/m/ma/macneil-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

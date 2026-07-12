@@ -6,6 +6,8 @@ This is the **Edinchat** sett — one scale-free proportion (`db2o28g13o2db13o2`
 [BRGRBR](/stripes/brgrbr/). It is recorded as a single **variant**, below.
 First attested **1720**.
 
+Part of the [Edinchat](/tartans/e/ed/edinchat/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

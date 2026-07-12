@@ -6,6 +6,8 @@ This is the **Kernow Spirit (Corporate)** sett — one scale-free proportion (`k
 [GKWGKWK](/stripes/gkwgkwk/). It is recorded as a single **variant**, below.
 First attested **~2008**.
 
+Part of the [Kernow Spirit](/tartans/k/ke/kernow-spirit/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

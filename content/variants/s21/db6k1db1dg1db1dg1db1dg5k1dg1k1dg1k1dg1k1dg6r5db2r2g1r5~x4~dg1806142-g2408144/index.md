@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Recovery"
-  url: "/tartans/recovery/"
+  url: "/tartans/r/re/recovery/"
 - name: "Recovery"
   url: "/setts/db6k1db1dg1db1dg1db1dg5k1dg1k1dg1k1dg1k1dg6r5db2r2g1r5/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db6k1db1dg1db1dg1db1dg5k1dg1k1dg1k1dg1k1dg6r5db2r2g1r5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBGBGBGKGKGKGKGRBRGR](/stripes/bkbgbgbgkgkgkgkgrbrgr/).
 
-Part of the [Recovery](/tartans/recovery/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Recovery](/tartans/r/re/recovery/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 

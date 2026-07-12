@@ -6,6 +6,8 @@ This is the **Noordermeer Personal Tartan** sett — one scale-free proportion (
 [KRWRKRKRKRKRKRWRKW](/stripes/krwrkrkrkrkrkrwrkw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Noordermeer](/tartans/n/no/noordermeer-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

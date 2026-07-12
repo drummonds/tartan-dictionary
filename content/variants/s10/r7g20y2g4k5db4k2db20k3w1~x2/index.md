@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "McMeeken"
-  url: "/tartans/mcmeeken/"
+  url: "/tartans/m/mc/mcmeeken/"
 - name: "McMeeken"
   url: "/setts/r7g20y2g4k5db4k2db20k3w1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/r7g20y2g4k5db4k2db20k3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RGGGKBKBKW](/stripes/rgggkbkbkw/).
 
-Part of the [McMeeken](/tartans/mcmeeken/) tartan — the named design grouping this sett with its other cloths.
+Part of the [McMeeken](/tartans/m/mc/mcmeeken/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

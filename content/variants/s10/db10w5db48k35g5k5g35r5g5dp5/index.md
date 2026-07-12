@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Big Rory"
+  url: "/tartans/b/bi/big-rory/"
 - name: "Big Rory (Corporate)"
   url: "/setts/db10w5db48k35g5k5g35r5g5dp5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db10w5db48k35g5k5g35r5g5dp5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRGKGKBWB](/stripes/bgrgkgkbwb/).
+
+Part of the [Big Rory](/tartans/b/bi/big-rory/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,6 +6,8 @@ This is the **Derry County Crest (Fashion)** sett — one scale-free proportion 
 [KBKYKGKYRYK](/stripes/kbkykgkyryk/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Derry County Crest](/tartans/d/de/derry-county-crest/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

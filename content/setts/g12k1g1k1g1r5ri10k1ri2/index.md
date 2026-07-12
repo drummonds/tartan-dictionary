@@ -7,6 +7,8 @@ This is the **Lindsay** sett — one scale-free proportion (`g12k1g1k1g1r5ri10k1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
+Part of the [Lindsay](/tartans/l/li/lindsay-6/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

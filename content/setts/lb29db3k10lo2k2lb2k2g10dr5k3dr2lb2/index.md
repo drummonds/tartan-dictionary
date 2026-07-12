@@ -6,6 +6,8 @@ This is the **Stuart/Stewart Blue** sett — one scale-free proportion (`lb29db3
 [WBKBGKWKYKBW](/stripes/wbkbgkwkykbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Stuart/Stewart](/tartans/s/st/stuart-stewart-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

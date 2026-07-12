@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Hart"
+  url: "/clan/hart/"
+- name: "Hart"
+  url: "/tartans/h/ha/hart/"
 - name: "Hart (Texas) (Personal)"
   url: "/setts/y4k3w2db7r7k4r5db4r30w2db3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y4k3w2db7r7k4r5db4r30w2db3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRBRKRBWKG](/stripes/bwrbrkrbwkg/).
+
+Part of the [Hart](/tartans/h/ha/hart/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

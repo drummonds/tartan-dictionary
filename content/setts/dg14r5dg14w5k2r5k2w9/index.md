@@ -6,6 +6,8 @@ This is the **Unnamed (Hip Flask)** sett — one scale-free proportion (`dg14r5d
 [GRGWKRKW](/stripes/grgwkrkw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Unnamed](/tartans/u/un/unnamed-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

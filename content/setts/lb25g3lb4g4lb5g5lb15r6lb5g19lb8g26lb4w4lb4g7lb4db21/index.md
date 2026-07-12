@@ -6,6 +6,8 @@ This is the **Shedor (2013)** sett — one scale-free proportion (`lb25g3lb4g4lb
 [BWGWWWGWGWRWGWGWGW](/stripes/bwgwwwgwgwrwgwgwgw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Shedor](/tartans/s/sh/shedor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Orkney Slate** sett — one scale-free proportion (`dt8y74k8dt42y1
 [BGKBGKGB](/stripes/bgkbgkgb/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Orkney Slate](/tartans/o/or/orkney-slate/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

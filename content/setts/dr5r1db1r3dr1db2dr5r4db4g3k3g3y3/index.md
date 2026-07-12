@@ -6,6 +6,8 @@ This is the **MacEochaidh (Personal)** sett — one scale-free proportion (`dr5r
 [BRBRBBBRBGKGG](/stripes/brbrbbbrbgkgg/). It is recorded as a single **variant**, below.
 First attested **1982**.
 
+Part of the [MacEochaidh](/tartans/m/ma/maceochaidh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

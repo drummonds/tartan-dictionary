@@ -6,6 +6,8 @@ This is the **Menez Du** sett — one scale-free proportion (`db5k9g7k3g7k3g7k25
 [BKGKGKGKG](/stripes/bkgkgkgkg/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Menez Du](/tartans/m/me/menez-du/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

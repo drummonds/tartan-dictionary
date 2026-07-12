@@ -6,6 +6,8 @@ This is the **Durie (Clan)** sett — one scale-free proportion (`db12dr1db1dr1d
 [BBBBBBGGG](/stripes/bbbbbbggg/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Durie](/tartans/d/du/durie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

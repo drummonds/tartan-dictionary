@@ -6,6 +6,8 @@ This is the **Tinkler, Andrew (Stobart Group)** sett — one scale-free proporti
 [GYBGBGBGW](/stripes/gybgbgbgw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Tinkler, Andrew](/tartans/t/ti/tinkler-andrew/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

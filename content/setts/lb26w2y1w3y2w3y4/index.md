@@ -6,6 +6,8 @@ This is the **Argentine Flag** sett — one scale-free proportion (`lb26w2y1w3y2
 [GWGWGWW](/stripes/gwgwgww/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Argentine Flag](/tartans/a/ar/argentine-flag/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

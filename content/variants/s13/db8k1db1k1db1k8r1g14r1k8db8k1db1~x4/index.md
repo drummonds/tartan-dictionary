@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Riddoch"
-  url: "/tartans/riddoch/"
+  url: "/tartans/r/ri/riddoch/"
 - name: "Riddoch (Name)"
   url: "/setts/db8k1db1k1db1k8r1g14r1k8db8k1db1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db8k1db1k1db1k8r1g14r1k8db8k1db1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKRGRKBKB](/stripes/bkbkbkrgrkbkb/).
 
-Part of the [Riddoch](/tartans/riddoch/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Riddoch](/tartans/r/ri/riddoch/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

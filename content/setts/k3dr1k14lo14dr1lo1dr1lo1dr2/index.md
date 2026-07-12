@@ -6,6 +6,8 @@ This is the **Brecheen** sett — one scale-free proportion (`k3dr1k14lo14dr1lo1
 [BYBYBYKBK](/stripes/bybybykbk/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Brecheen](/tartans/b/br/brecheen/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

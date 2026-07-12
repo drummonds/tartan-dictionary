@@ -6,6 +6,8 @@ This is the **Bartlett, Chris (Personal)** sett — one scale-free proportion (`
 [KYGYKYKYBGBYR](/stripes/kygykykybgbyr/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Bartlett, Chris](/tartans/b/ba/bartlett-chris/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

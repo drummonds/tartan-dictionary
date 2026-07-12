@@ -6,6 +6,8 @@ This is the **Broz Sanz Elementary (Corporate)** sett — one scale-free proport
 [KBKBKBRBW](/stripes/kbkbkbrbw/). It is recorded as a single **variant**, below.
 First attested **~2002**.
 
+Part of the [Broz Sanz Elementary](/tartans/b/br/broz-sanz-elementary/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

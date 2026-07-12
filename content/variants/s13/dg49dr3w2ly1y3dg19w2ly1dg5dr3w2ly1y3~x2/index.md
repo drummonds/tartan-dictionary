@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Hogan"
+  url: "/tartans/h/ho/hogan-2/"
+- name: "Hogan"
   url: "/setts/dg49dr3w2ly1y3dg19w2ly1dg5dr3w2ly1y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg49dr3w2ly1y3dg19w2ly1dg5dr3w2ly1y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWYGGWYGBWYG](/stripes/gbwyggwygbwyg/).
+
+Part of the [Hogan](/tartans/h/ho/hogan-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

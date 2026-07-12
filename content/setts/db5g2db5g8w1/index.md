@@ -6,7 +6,7 @@ This is the **Hamilton Hunting Clan Tartan** sett — one scale-free proportion 
 [BGBGW](/stripes/bgbgw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Hamilton Hunting](/tartans/hamilton-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Hamilton Hunting](/tartans/h/ha/hamilton-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

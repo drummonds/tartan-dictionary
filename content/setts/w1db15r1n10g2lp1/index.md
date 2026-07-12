@@ -6,6 +6,8 @@ This is the **Peterson, Oren (Name)** sett — one scale-free proportion (`w1db1
 [WBRBGW](/stripes/wbrbgw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Peterson, Oren](/tartans/p/pe/peterson-oren/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

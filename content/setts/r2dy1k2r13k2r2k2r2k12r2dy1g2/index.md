@@ -6,7 +6,7 @@ This is the **Hallingdal** sett — one scale-free proportion (`r2dy1k2r13k2r2k2
 [GGRKRKRKRKGRGKRKRKRKRG](/stripes/ggrkrkrkrkgrgkrkrkrkrg/). It is recorded as a single **variant**, below.
 First attested **1970**.
 
-Part of the [Hallingdal](/tartans/hallingdal/) tartan — the named design grouping this sett with its kin.
+Part of the [Hallingdal](/tartans/h/ha/hallingdal/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

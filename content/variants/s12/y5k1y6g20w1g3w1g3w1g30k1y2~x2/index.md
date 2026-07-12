@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Delta Lambda Phi"
-  url: "/tartans/delta-lambda-phi/"
+  url: "/tartans/d/de/delta-lambda-phi/"
 - name: "Delta Lambda Phi"
   url: "/setts/y5k1y6g20w1g3w1g3w1g30k1y2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/y5k1y6g20w1g3w1g3w1g30k1y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGGWGWGWGKG](/stripes/gkggwgwgwgkg/).
 
-Part of the [Delta Lambda Phi](/tartans/delta-lambda-phi/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Delta Lambda Phi](/tartans/d/de/delta-lambda-phi/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

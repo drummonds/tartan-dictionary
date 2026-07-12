@@ -6,6 +6,8 @@ This is the **Lesotho** sett — one scale-free proportion (`w4k1db24k1dg12k1w12
 [KWKWBKWKGKBKW](/stripes/kwkwbkwkgkbkw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Lesotho](/tartans/l/le/lesotho/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

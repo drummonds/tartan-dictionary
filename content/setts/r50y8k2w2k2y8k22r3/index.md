@@ -6,6 +6,8 @@ This is the **FIRES Center of Excelence** sett — one scale-free proportion (`r
 [RGKWKGKR](/stripes/rgkwkgkr/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [FIRES Center of Excelence](/tartans/f/fi/fires-center-of-excelence/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

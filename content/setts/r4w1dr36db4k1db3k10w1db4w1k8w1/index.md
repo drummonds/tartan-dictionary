@@ -6,6 +6,8 @@ This is the **YMCA** sett — one scale-free proportion (`r4w1dr36db4k1db3k10w1d
 [RWBBKBKWBWKW](/stripes/rwbbkbkwbwkw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [YMCA](/tartans/y/ym/ymca/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

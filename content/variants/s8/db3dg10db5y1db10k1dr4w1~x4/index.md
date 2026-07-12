@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cot-Hach l)"
+  url: "/tartans/c/co/cot-hach-l/"
 - name: "Côté-Haché (Personal)"
   url: "/setts/db3dg10db5y1db10k1dr4w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db3dg10db5y1db10k1dr4w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBKBW](/stripes/bgbgbkbw/).
+
+Part of the [Cot-Hach l)](/tartans/c/co/cot-hach-l/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

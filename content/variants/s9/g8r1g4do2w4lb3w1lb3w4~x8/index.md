@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Gaelic College of St.Anns"
+  url: "/tartans/g/ga/gaelic-college-of-st-anns/"
+- name: "Gaelic College of St.Anns"
   url: "/setts/g8r1g4do2w4lb3w1lb3w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g8r1g4do2w4lb3w1lb3w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GRGBWWWWW](/stripes/grgbwwwww/).
+
+Part of the [Gaelic College of St.Anns](/tartans/g/ga/gaelic-college-of-st-anns/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

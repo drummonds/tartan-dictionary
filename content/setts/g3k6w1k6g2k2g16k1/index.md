@@ -6,6 +6,8 @@ This is the **MacLean of Duart Hunting Clan Tartan** sett — one scale-free pro
 [GKWKGKGK](/stripes/gkwkgkgk/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
+Part of the [MacLean VS](/tartans/m/ma/maclean-vs/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

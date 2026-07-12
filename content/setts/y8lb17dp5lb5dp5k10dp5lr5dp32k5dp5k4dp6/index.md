@@ -6,7 +6,7 @@ This is the **Life Goes On Foundation (Corporate)** sett — one scale-free prop
 [BKBKBYBKBWBWG](/stripes/bkbkbybkbwbwg/). It is recorded as a single **variant**, below.
 First attested **~2009**.
 
-Part of the [Life Goes on Foundation](/tartans/life-goes-on-foundation/) tartan — the named design grouping this sett with its kin.
+Part of the [Life Goes on Foundation](/tartans/l/li/life-goes-on-foundation/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

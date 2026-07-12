@@ -6,6 +6,8 @@ This is the **Bradley University** sett — one scale-free proportion (`r97k18w5
 [BKBWKR](/stripes/bkbwkr/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Bradley University](/tartans/b/br/bradley-university/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Highland Spring (1988)** sett — one scale-free proportion (`dp3g
 [BGBRBG](/stripes/bgbrbg/). It is recorded as a single **variant**, below.
 First attested **1987**.
 
-Part of the [Highland Spring](/tartans/highland-spring-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Highland Spring](/tartans/h/hi/highland-spring-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

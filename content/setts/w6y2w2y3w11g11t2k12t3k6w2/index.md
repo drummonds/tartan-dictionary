@@ -6,7 +6,7 @@ This is the **Fitzpatrick** sett — one scale-free proportion (`w6y2w2y3w11g11t
 [WGWGWGBKBKW](/stripes/wgwgwgbkbkw/). It is recorded as a single **variant**, below.
 First attested **1978**.
 
-Part of the [Fitzpatrick](/tartans/fitzpatrick/) tartan — the named design grouping this sett with its kin.
+Part of the [Fitzpatrick](/tartans/f/fi/fitzpatrick/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

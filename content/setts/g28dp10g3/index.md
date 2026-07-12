@@ -6,7 +6,7 @@ This is the **Elphinstone Clan Tartan** sett — one scale-free proportion (`g28
 [BGBG](/stripes/bgbg/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
-Part of the [Elphinstone](/tartans/elphinstone/) tartan — the named design grouping this sett with its kin.
+Part of the [Elphinstone](/tartans/e/el/elphinstone/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

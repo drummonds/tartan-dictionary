@@ -6,7 +6,7 @@ This is the **MacGregor of Balquhidder** sett — one scale-free proportion (`g8
 [GRGRW](/stripes/grgrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [MacGregor of Balquhidder](/tartans/macgregor-of-balquhidder/) tartan — the named design grouping this sett with its kin.
+Part of the [MacGregor of Balquhidder](/tartans/m/ma/macgregor-of-balquhidder/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

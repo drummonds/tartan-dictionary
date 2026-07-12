@@ -6,7 +6,7 @@ This is the **Kendle (2013)** sett — one scale-free proportion (`r5db58lb4n6y4
 [KGBWBR](/stripes/kgbwbr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Kendle](/tartans/kendle/) tartan — the named design grouping this sett with its kin.
+Part of the [Kendle](/tartans/k/ke/kendle/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

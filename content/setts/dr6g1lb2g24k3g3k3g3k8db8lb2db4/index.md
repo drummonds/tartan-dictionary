@@ -6,6 +6,8 @@ This is the **Kerby/Kirby** sett — one scale-free proportion (`dr6g1lb2g24k3g3
 [BGWGKGKGKBWB](/stripes/bgwgkgkgkbwb/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Kerby/Kirby](/tartans/k/ke/kerby-kirby/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

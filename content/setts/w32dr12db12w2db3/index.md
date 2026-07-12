@@ -6,6 +6,8 @@ This is the **Fraser Arisaid Red (Dance)** sett — one scale-free proportion (`
 [BWBBW](/stripes/bwbbw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Fraser Arisaid](/tartans/f/fr/fraser-arisaid-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

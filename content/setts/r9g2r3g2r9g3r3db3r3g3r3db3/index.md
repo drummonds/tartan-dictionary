@@ -6,6 +6,8 @@ This is the **Unidentified Early 18th Centuary #2** sett — one scale-free prop
 [BRGRBRGRGRGR](/stripes/brgrbrgrgrgr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Unidentified Early 18th Centuary](/tartans/u/un/unidentified-early-18th-centuary/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

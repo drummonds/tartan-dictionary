@@ -6,7 +6,7 @@ This is the **Glasgow, University of** sett — one scale-free proportion (`k2db
 [BWKBKGBK](/stripes/bwkbkgbk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Glasgow, University of](/tartans/glasgow-university-of/) tartan — the named design grouping this sett with its kin.
+Part of the [Glasgow, University of](/tartans/g/gl/glasgow-university-of/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

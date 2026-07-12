@@ -6,6 +6,8 @@ This is the **Oliver Dress (Red)** sett — one scale-free proportion (`r15k1r1d
 [RKRBRGRGY](/stripes/rkrbrgrgy/). It is recorded as a single **variant**, below.
 First attested **1973**.
 
+Part of the [Oliver Dress](/tartans/o/ol/oliver-dress-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **McCurdy-Stribbling (Personal)** sett — one scale-free proportion
 [BBBRG](/stripes/bbbrg/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [McCurdy-Stribbling](/tartans/m/mc/mccurdy-stribbling-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

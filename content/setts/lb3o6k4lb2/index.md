@@ -6,6 +6,8 @@ This is the **Bedford Check** sett — one scale-free proportion (`lb3o6k4lb2`),
 [WKRW](/stripes/wkrw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Bedford Check](/tartans/b/be/bedford-check-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

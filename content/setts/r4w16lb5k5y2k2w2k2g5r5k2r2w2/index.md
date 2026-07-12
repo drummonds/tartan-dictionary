@@ -6,6 +6,8 @@ This is the **Victoria (Wilsons)** sett — one scale-free proportion (`r4w16lb5
 [RWWKGKWKGRKRW](/stripes/rwwkgkwkgrkrw/). It is recorded as a single **variant**, below.
 First attested **1838**.
 
+Part of the [Victoria](/tartans/v/vi/victoria-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacHinery Dress"
+  url: "/tartans/m/ma/machinery-dress-2/"
+- name: "MacHinery Dress"
   url: "/setts/lb6k2lb24w4lb4dr2db16lb20w4lb20db16w16db3w4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb6k2lb24w4lb4dr2db16lb20w4lb20db16w16db3w4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWBWWWBBWWWKW](/stripes/wbwbwwwbbwwwkw/).
+
+Part of the [MacHinery Dress](/tartans/m/ma/machinery-dress-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

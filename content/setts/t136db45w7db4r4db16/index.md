@@ -6,6 +6,8 @@ This is the **S.C.O.T.S** sett — one scale-free proportion (`t136db45w7db4r4db
 [BBWBRB](/stripes/bbwbrb/). It is recorded as a single **variant**, below.
 First attested **1989**.
 
+Part of the [S.C.O.T.S](/tartans/s/s/s-c-o-t-s/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

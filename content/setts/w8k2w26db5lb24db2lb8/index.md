@@ -6,6 +6,8 @@ This is the **Lennox Turquoise Dress District Tartan** sett — one scale-free p
 [WBWBWKW](/stripes/wbwbwkw/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Lennox Turquoise Dress](/tartans/l/le/lennox-turquoise-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

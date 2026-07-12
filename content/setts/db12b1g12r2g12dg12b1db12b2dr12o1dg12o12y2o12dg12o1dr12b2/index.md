@@ -6,6 +6,8 @@ This is the **United Distillers, (Warp)** sett — one scale-free proportion (`d
 [BBGRGGBBBBRGRGRGRBB](/stripes/bbgrggbbbbrgrgrgrbb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [United Distillers](/tartans/u/un/united-distillers-3/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

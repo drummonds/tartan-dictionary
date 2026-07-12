@@ -6,6 +6,8 @@ This is the **Beartrap (Military)** sett — one scale-free proportion (`dr22lb1
 [BWBKGGGKBWBWB](/stripes/bwbkgggkbwbwb/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Beartrap](/tartans/b/be/beartrap/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

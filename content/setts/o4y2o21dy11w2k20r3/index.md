@@ -6,6 +6,8 @@ This is the **Barbour - Classic** sett — one scale-free proportion (`o4y2o21dy
 [RGRGWKR](/stripes/rgrgwkr/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Barbour](/tartans/b/ba/barbour-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

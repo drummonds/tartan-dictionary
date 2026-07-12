@@ -6,7 +6,7 @@ This is the **Manor of Wrentnall (Personal)** sett — one scale-free proportion
 [RBGW](/stripes/rbgw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
-Part of the [Manor of Wrentnall](/tartans/manor-of-wrentnall/) tartan — the named design grouping this sett with its kin.
+Part of the [Manor of Wrentnall](/tartans/m/ma/manor-of-wrentnall/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

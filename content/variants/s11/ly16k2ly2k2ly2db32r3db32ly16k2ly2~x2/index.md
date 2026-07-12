@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacLachlan"
+  url: "/clan/maclachlan/"
+- name: "MacLachlan, Gold Dress"
+  url: "/tartans/m/ma/maclachlan-gold-dress/"
 - name: "MacLachlan, Gold Dress (Fashion)"
   url: "/setts/ly16k2ly2k2ly2db32r3db32ly16k2ly2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly16k2ly2k2ly2db32r3db32ly16k2ly2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [YKYBRBYKYKY](/stripes/ykybrbykyky/).
+
+Part of the [MacLachlan, Gold Dress](/tartans/m/ma/maclachlan-gold-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

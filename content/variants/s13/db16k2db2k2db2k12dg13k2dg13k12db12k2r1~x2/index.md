@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Black Watch/Isetan Men's"
-  url: "/tartans/black-watch-isetan-men-s/"
+  url: "/tartans/b/bl/black-watch-isetan-men-s/"
 - name: "Black Watch/Isetan Men's"
   url: "/setts/db16k2db2k2db2k12dg13k2dg13k12db12k2r1/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db16k2db2k2db2k12dg13k2dg13k12db12k2r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKGKGKBKR](/stripes/bkbkbkgkgkbkr/).
 
-Part of the [Black Watch/Isetan Men's](/tartans/black-watch-isetan-men-s/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Black Watch/Isetan Men's](/tartans/b/bl/black-watch-isetan-men-s/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 

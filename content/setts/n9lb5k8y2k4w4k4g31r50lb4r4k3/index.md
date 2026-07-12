@@ -6,7 +6,7 @@ This is the **MacLean of Duart** sett — one scale-free proportion (`n9lb5k8y2k
 [BWKGKWKGRWRK](/stripes/bwkgkwkgrwrk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [MacLean of Duart](/tartans/maclean-of-duart-2/) tartan — the named design grouping this sett with its kin.
+Part of the [MacLean of Duart](/tartans/m/ma/maclean-of-duart-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

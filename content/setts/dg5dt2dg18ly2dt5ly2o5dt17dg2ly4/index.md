@@ -6,6 +6,8 @@ This is the **Antrim, County** sett — one scale-free proportion (`dg5dt2dg18ly
 [GBGYBYRBGY](/stripes/gbgybyrbgy/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Antrim, County](/tartans/a/an/antrim-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

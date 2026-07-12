@@ -6,6 +6,8 @@ This is the **Stinson Ancient U.S.A. Tartan** sett — one scale-free proportion
 [BRBGGKWRWBK](/stripes/brbggkwrwbk/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [Stinson Ancient U.S.A.](/tartans/s/st/stinson-ancient-u-s-a/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

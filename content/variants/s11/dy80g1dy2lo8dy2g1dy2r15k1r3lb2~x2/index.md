@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Drovers' Tryst"
+  url: "/tartans/d/dr/drovers-tryst/"
 - name: "Drovers' Tryst (Corporate)"
   url: "/setts/dy80g1dy2lo8dy2g1dy2r15k1r3lb2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy80g1dy2lo8dy2g1dy2r15k1r3lb2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGYGGGRKRW](/stripes/gggygggrkrw/).
+
+Part of the [Drovers' Tryst](/tartans/d/dr/drovers-tryst/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

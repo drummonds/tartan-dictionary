@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Oromocto"
+  url: "/tartans/o/or/oromocto/"
+- name: "Oromocto"
   url: "/setts/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r6k5y1k1w3t5w1t20w1t5w3k1r1k5y6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKRKWBWBWBWKGKR](/stripes/gkrkwbwbwbwkgkr/).
+
+Part of the [Oromocto](/tartans/o/or/oromocto/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

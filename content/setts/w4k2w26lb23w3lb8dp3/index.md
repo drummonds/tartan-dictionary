@@ -6,6 +6,8 @@ This is the **MacPherson Turquoise Dress Tartan** sett — one scale-free propor
 [BWWWWKW](/stripes/bwwwwkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacPherson Turquoise Dress](/tartans/m/ma/macpherson-turquoise-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

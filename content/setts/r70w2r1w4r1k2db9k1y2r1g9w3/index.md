@@ -6,6 +6,8 @@ This is the **Brittish Lions Corporate Tartan** sett — one scale-free proporti
 [RWRWRKBKGRGW](/stripes/rwrwrkbkgrgw/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Brittish Lions](/tartans/b/br/brittish-lions/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

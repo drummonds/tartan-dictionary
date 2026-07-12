@@ -6,6 +6,8 @@ This is the **Baluch Regiment** sett — one scale-free proportion (`r4g24r6g4r4
 [RGRGRGRGW](/stripes/rgrgrgrgw/). It is recorded as a single **variant**, below.
 First attested **1993**.
 
+Part of the [Baluch Regiment](/tartans/b/ba/baluch-regiment-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **MacLachlan, Marled Dress (Fashion)** sett — one scale-free propo
 [WBWBRBWBWBW](/stripes/wbwbrbwbwbw/). It is recorded as a single **variant**, below.
 First attested **~2013**.
 
+Part of the [MacLachlan, Marled Dress](/tartans/m/ma/maclachlan-marled-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

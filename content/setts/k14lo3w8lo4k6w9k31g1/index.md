@@ -6,6 +6,8 @@ This is the **Entrepreneurial Spark** sett — one scale-free proportion (`k14lo
 [GKWKYWYK](/stripes/gkwkywyk/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Entrepreneurial Spark](/tartans/e/en/entrepreneurial-spark/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

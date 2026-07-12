@@ -6,6 +6,8 @@ This is the **Vonarb, Alfred (Personal)** sett — one scale-free proportion (`t
 [BKBBKBY](/stripes/bkbbkby/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Vonarb, Alfred](/tartans/v/vo/vonarb-alfred/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

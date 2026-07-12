@@ -6,6 +6,8 @@ This is the **Bro-Zol** sett — one scale-free proportion (`k3w9k2dr8db1g3db1dr
 [BWBBGBBKWK](/stripes/bwbbgbbkwk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Bro-Zol](/tartans/b/br/bro-zol/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

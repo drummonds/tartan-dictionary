@@ -6,7 +6,7 @@ This is the **Robertson Hunting** sett — one scale-free proportion (`db24k2db2
 [BKBKBKGKRKGKBKW](/stripes/bkbkbkgkrkgkbkw/). It is recorded as a single **variant**, below.
 First attested **1803**.
 
-Part of the [Robertson Hunting](/tartans/robertson-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Robertson Hunting](/tartans/r/ro/robertson-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

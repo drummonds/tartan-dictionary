@@ -6,7 +6,7 @@ This is the **Euphoria** sett — one scale-free proportion (`w1r1lb8k1w1db8w1lb
 [WKWWKWWBWKWRW](/stripes/wkwwkwwbwkwrw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
-Part of the [Euphoria](/tartans/euphoria/) tartan — the named design grouping this sett with its kin.
+Part of the [Euphoria](/tartans/e/eu/euphoria/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

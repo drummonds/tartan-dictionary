@@ -6,6 +6,8 @@ This is the **Shawlands International (Commem.)** sett — one scale-free propor
 [KGBYRW](/stripes/kgbyrw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Shawlands International](/tartans/s/sh/shawlands-international/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

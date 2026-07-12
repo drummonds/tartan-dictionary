@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Downs Dress"
+  url: "/tartans/d/do/downs-dress/"
 - name: "Downs Dress (Personal)"
   url: "/setts/k69dr6k4dr1k12w1dr6ly1dr24ly1dr5g3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k69dr6k4dr1k12w1dr6ly1dr24ly1dr5g3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBYBYBWKBKBK](/stripes/gbybybwkbkbk/).
+
+Part of the [Downs Dress](/tartans/d/do/downs-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

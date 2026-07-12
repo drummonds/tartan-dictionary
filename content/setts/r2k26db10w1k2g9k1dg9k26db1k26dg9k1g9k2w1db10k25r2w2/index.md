@@ -6,6 +6,8 @@ This is the **Binder (2013)** sett — one scale-free proportion (`r2k26db10w1k2
 [RKBWKGKGKBKGKGKWBKRW](/stripes/rkbwkgkgkbkgkgkwbkrw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Binder](/tartans/b/bi/binder/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

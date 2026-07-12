@@ -6,7 +6,7 @@ This is the **U.S. Special Forces** sett — one scale-free proportion (`db3k3w1
 [BKWBKBGBKWKBG](/stripes/bkwbkbgbkwkbg/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
-Part of the [U.S. Special Forces](/tartans/u-s-special-forces/) tartan — the named design grouping this sett with its kin.
+Part of the [U.S. Special Forces](/tartans/u/u/u-s-special-forces/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

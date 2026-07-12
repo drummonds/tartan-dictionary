@@ -6,6 +6,8 @@ This is the **Incorporation of Weavers (Glasgow)** sett — one scale-free propo
 [BBBBKBGKG](/stripes/bbbbkbgkg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Incorporation of Weavers](/tartans/i/in/incorporation-of-weavers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

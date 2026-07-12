@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "National"
+  url: "/tartans/n/na/national/"
 - name: "National Trade Tartan"
   url: "/setts/w2db3r6k8g12y1db4k2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w2db3r6k8g12y1db4k2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBRKGGBKW](/stripes/wbrkggbkw/).
+
+Part of the [National](/tartans/n/na/national/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 

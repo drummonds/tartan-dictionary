@@ -6,6 +6,8 @@ This is the **Dean Brae** sett — one scale-free proportion (`k22ly4k4g4k16r36y
 [KYKGKRGR](/stripes/kykgkrgr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Dean Brae](/tartans/d/de/dean-brae/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

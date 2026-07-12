@@ -6,6 +6,8 @@ This is the **Feddinch Club, St Andrews Limited, The** sett — one scale-free p
 [BBKG](/stripes/bbkg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Feddinch Club, St Andrews](/tartans/f/fe/feddinch-club-st-andrews/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

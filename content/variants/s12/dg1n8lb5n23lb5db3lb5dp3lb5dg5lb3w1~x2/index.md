@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hand"
+  url: "/tartans/h/ha/hand/"
 - name: "Hand Name Tartan"
   url: "/setts/dg1n8lb5n23lb5db3lb5dp3lb5dg5lb3w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg1n8lb5n23lb5db3lb5dp3lb5dg5lb3w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWBWBWBWGWW](/stripes/gbwbwbwbwgww/).
+
+Part of the [Hand](/tartans/h/ha/hand/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 

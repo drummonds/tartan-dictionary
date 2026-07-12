@@ -6,6 +6,8 @@ This is the **Stewart /Stuart- Fragment Cf 1452 & 1445** sett — one scale-free
 [RBGRKWR](/stripes/rbgrkwr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Stewart](/tartans/s/st/stewart-12/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cailean"
+  url: "/tartans/c/ca/cailean-2/"
 - name: "Cailean (Pendleton)"
   url: "/setts/dy4k12db2k2db2k2db2ly16dr3ly2w2ly4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy4k12db2k2db2k2db2ly16dr3ly2w2ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKBKBKBYBYWY](/stripes/gkbkbkbybywy/).
+
+Part of the [Cailean](/tartans/c/ca/cailean-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

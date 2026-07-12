@@ -6,6 +6,8 @@ This is the **Un-named Dutch** sett — one scale-free proportion (`n2dr10n10o3d
 [BBBRBWW](/stripes/bbbrbww/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Un-named Dutch](/tartans/u/un/un-named-dutch/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

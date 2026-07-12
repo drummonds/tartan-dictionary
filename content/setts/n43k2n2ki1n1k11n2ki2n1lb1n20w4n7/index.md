@@ -6,6 +6,8 @@ This is the **Highland Storm (Fashion)** sett — one scale-free proportion (`n4
 [BKBKBKBKBWBWB](/stripes/bkbkbkbkbwbwb/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Highland Storm](/tartans/h/hi/highland-storm/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

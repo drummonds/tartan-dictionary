@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Norham and Ladykirk"
+  url: "/tartans/n/no/norham-and-ladykirk/"
 - name: "Norham and Ladykirk (District)"
   url: "/setts/dg50db12n7db12dr10n7k2n7k2n7dr10/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg50db12n7db12dr10n7k2n7k2n7dr10/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKBKBBBBBG](/stripes/bbkbkbbbbbg/).
+
+Part of the [Norham and Ladykirk](/tartans/n/no/norham-and-ladykirk/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

@@ -6,6 +6,8 @@ This is the **Entrelacs** sett — one scale-free proportion (`lb14dg4w4lb1w2ly2
 [WGWWWYWGWWWWY](/stripes/wgwwwywgwwwwy/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Entrelacs](/tartans/e/en/entrelacs/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

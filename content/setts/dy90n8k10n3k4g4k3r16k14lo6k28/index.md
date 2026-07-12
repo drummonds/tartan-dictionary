@@ -6,6 +6,8 @@ This is the **Father’s Pride, The** sett — one scale-free proportion (`dy90n
 [GBKBKGKRKYK](/stripes/gbkbkgkrkyk/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Father’s Pride, The](/tartans/f/fa/father-s-pride-the-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

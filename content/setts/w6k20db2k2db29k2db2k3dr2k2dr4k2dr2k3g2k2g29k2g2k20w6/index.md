@@ -6,6 +6,8 @@ This is the **Genet of An Gwylvos (Montana)** sett — one scale-free proportion
 [WKBKBKBKBKBKBKGKGKGKW](/stripes/wkbkbkbkbkbkbkgkgkgkw/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Genet of An Gwylvos](/tartans/g/ge/genet-of-an-gwylvos/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

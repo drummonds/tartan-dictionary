@@ -6,6 +6,8 @@ This is the **United Scots American** sett — one scale-free proportion (`dp3dt
 [BBBBBBBRBRW](/stripes/bbbbbbbrbrw/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [United Scots American](/tartans/u/un/united-scots-american/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

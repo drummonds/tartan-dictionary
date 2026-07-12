@@ -6,6 +6,8 @@ This is the **Austin College (Corporate)** sett — one scale-free proportion (`
 [RYRYRYRKRY](/stripes/ryryryrkry/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Austin College](/tartans/a/au/austin-college/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

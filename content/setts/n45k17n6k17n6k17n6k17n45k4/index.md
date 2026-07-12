@@ -6,6 +6,8 @@ This is the **Grey Spirit** sett — one scale-free proportion (`n45k17n6k17n6k1
 [BKBKBKBKBK](/stripes/bkbkbkbkbk/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Grey Spirit](/tartans/g/gr/grey-spirit-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

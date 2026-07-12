@@ -6,6 +6,8 @@ This is the **Apache North Sea Commemorative Tartan** sett — one scale-free pr
 [BGBBKBBKBBKBBKBBKBBGBG](/stripes/bgbbkbbkbbkbbkbbkbbgbg/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Apache North Sea Commemorative](/tartans/a/ap/apache-north-sea-commemorative/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

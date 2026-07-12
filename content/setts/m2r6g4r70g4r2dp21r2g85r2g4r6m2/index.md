@@ -6,7 +6,7 @@ This is the **Crieff** sett — one scale-free proportion (`m2r6g4r70g4r2dp21r2g
 [RRGRGRBRGRGRR](/stripes/rrgrgrbrgrgrr/). It is recorded as a single **variant**, below.
 First attested **1797**.
 
-Part of the [Crieff](/tartans/crieff/) tartan — the named design grouping this sett with its kin.
+Part of the [Crieff](/tartans/c/cr/crieff/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

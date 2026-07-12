@@ -6,6 +6,8 @@ This is the **Rainford (Personal)** sett — one scale-free proportion (`k12db10
 [KBKWKBKGK](/stripes/kbkwkbkgk/). It is recorded as a single **variant**, below.
 First attested **2006**.
 
+Part of the [Rainford](/tartans/r/ra/rainford/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

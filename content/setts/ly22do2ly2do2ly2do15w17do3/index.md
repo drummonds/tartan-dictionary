@@ -6,6 +6,8 @@ This is the **Turnberry Manx Snaefell Family Tartan** sett — one scale-free pr
 [BWBYBYBY](/stripes/bwbybyby/). It is recorded as a single **variant**, below.
 First attested **1981**.
 
+Part of the [Turnberry Manx Snaefell](/tartans/t/tu/turnberry-manx-snaefell/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

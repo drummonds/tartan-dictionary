@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Earl of Inverness"
+  url: "/tartans/e/ea/earl-of-inverness-2/"
 - name: "Earl of Inverness (Royal)"
   url: "/setts/r100db10w5db14y4dbi8y4r24/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r100db10w5db14y4dbi8y4r24/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBWBGBGR](/stripes/rbwbgbgr/).
+
+Part of the [Earl of Inverness](/tartans/e/ea/earl-of-inverness-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

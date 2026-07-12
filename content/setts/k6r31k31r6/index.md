@@ -6,7 +6,7 @@ This is the **Ettrick District Tartan** sett — one scale-free proportion (`k6r
 [KRKR](/stripes/krkr/). It is recorded as a single **variant**, below.
 First attested **1830**.
 
-Part of the [Ettrick](/tartans/ettrick/) tartan — the named design grouping this sett with its kin.
+Part of the [Ettrick](/tartans/e/et/ettrick/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

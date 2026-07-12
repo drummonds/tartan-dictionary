@@ -6,6 +6,8 @@ This is the **Ontario, Northern** sett — one scale-free proportion (`o17n5db2w
 [GGBWBBR](/stripes/ggbwbbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Ontario, Northern](/tartans/o/on/ontario-northern-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Sarasota - Dunfermline** sett — one scale-free proportion (`g6dy
 [GGGBGBKBWBKBGBGGGR](/stripes/gggbgbkbwbkbgbgggr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
-Part of the [Sarasota](/tartans/sarasota/) tartan — the named design grouping this sett with its kin.
+Part of the [Sarasota](/tartans/s/sa/sarasota/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

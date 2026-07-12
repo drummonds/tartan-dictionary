@@ -6,6 +6,8 @@ This is the **Mitsukoshi Sendai** sett — one scale-free proportion (`n4k1w1k1w
 [BKWKWKBBGR](/stripes/bkwkwkbbgr/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Mitsukoshi Sendai](/tartans/m/mi/mitsukoshi-sendai/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

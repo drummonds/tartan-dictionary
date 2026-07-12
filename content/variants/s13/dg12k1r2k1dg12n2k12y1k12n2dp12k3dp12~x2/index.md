@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Greg Wells"
+  url: "/tartans/g/gr/greg-wells/"
 - name: "Greg Wells (Personal)"
   url: "/setts/dg12k1r2k1dg12n2k12y1k12n2dp12k3dp12/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg12k1r2k1dg12n2k12y1k12n2dp12k3dp12/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBBKGKBGKRKG](/stripes/bkbbkgkbgkrkg/).
+
+Part of the [Greg Wells](/tartans/g/gr/greg-wells/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

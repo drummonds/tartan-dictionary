@@ -7,6 +7,8 @@ This is the **City of Armadale** sett — one scale-free proportion (`k21g2k2g2k
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2003**.
 
+Part of the [City of Armadale](/tartans/c/ci/city-of-armadale/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

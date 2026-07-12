@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Corrie"
+  url: "/tartans/c/co/corrie/"
+- name: "Corrie"
   url: "/setts/dt14o1dt1o1dt6n14w1n1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt14o1dt1o1dt6n14w1n1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBBWB](/stripes/brbrbbwb/).
+
+Part of the [Corrie](/tartans/c/co/corrie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

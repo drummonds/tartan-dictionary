@@ -6,6 +6,8 @@ This is the **Nevis Dress** sett — one scale-free proportion (`lr42dr10n2dr2w2
 [YBBBWBYWBWY](/stripes/ybbbwbywbwy/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Nevis Dress](/tartans/n/ne/nevis-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

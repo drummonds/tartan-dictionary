@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Indianapolis MPD Emerald Society"
+  url: "/tartans/i/in/indianapolis-mpd-emerald-society/"
+- name: "Indianapolis MPD Emerald Society"
   url: "/setts/db67dy5g10r5y2r5g10dy5db4dy5g10r5n2r5dy5g10db24/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db67dy5g10r5y2r5g10dy5db4dy5g10r5n2r5dy5g10db24/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGGRBRGGBGGRGRGGB](/stripes/bggrbrggbggrgrggb/).
+
+Part of the [Indianapolis MPD Emerald Society](/tartans/i/in/indianapolis-mpd-emerald-society/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 

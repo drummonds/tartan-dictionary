@@ -6,6 +6,8 @@ This is the **Duke of Sussex** sett — one scale-free proportion (`r18g1k5g1k1g
 [RGKGKGR](/stripes/rgkgkgr/). It is recorded as a single **variant**, below.
 First attested **1830**.
 
+Part of the [Duke of Sussex](/tartans/d/du/duke-of-sussex/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

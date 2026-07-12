@@ -6,6 +6,8 @@ This is the **Western Illinois University** sett — one scale-free proportion (
 [GBGWGBWK](/stripes/gbgwgbwk/). It is recorded as a single **variant**, below.
 First attested **2015**.
 
+Part of the [Western Illinois University](/tartans/w/we/western-illinois-university/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

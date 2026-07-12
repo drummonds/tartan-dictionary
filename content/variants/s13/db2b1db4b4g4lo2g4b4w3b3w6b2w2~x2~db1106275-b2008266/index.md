@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Calgary"
+  url: "/tartans/c/ca/calgary-3/"
 - name: "Calgary (Deerskin Trading Post)"
   url: "/setts/db2b1db4b4g4lo2g4b4w3b3w6b2w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2b1db4b4g4lo2g4b4w3b3w6b2w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBBBGYGBWBWBW](/stripes/bbbbgygbwbwbw/).
+
+Part of the [Calgary](/tartans/c/ca/calgary-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

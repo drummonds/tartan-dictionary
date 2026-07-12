@@ -6,7 +6,7 @@ This is the **Amarillo District Tartan** sett — one scale-free proportion (`db
 [BKWBKGRBWKG](/stripes/bkwbkgrbwkg/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
-Part of the [Amarillo](/tartans/amarillo/) tartan — the named design grouping this sett with its kin.
+Part of the [Amarillo](/tartans/a/am/amarillo/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

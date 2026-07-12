@@ -6,7 +6,7 @@ This is the **Scotland (Personal)** sett — one scale-free proportion (`ri3y1dp
 [GGBGRBRRBGR](/stripes/ggbgrbrrbgr/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
-Part of the [Scotland](/tartans/scotland/) tartan — the named design grouping this sett with its kin.
+Part of the [Scotland](/tartans/s/sc/scotland/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

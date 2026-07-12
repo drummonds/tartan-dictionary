@@ -6,6 +6,8 @@ This is the **University of Delaware (Corporate)** sett — one scale-free propo
 [BWBYBYBYB](/stripes/bwbybybyb/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [University of Delaware](/tartans/u/un/university-of-delaware/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

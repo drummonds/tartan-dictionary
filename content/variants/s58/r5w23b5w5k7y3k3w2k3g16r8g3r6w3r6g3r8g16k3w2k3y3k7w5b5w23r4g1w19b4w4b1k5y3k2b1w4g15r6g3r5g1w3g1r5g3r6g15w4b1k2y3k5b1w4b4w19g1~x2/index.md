@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Victoria, Highland dress"
+  url: "/tartans/v/vi/victoria-highland-dress-4/"
+- name: "Victoria, Highland dress"
   url: "/setts/r5w23b5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3y3k7w5b5w23r4g1w19b4w4b1k5y3k2b1w4g15r6g3r5g1w3g1r5g3r6g15w4b1k2y3k5b1w4b4w19g1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r5w23b5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3y3k7w5b5w23r4g1w19b4w4b1k5y3k2b1w4g15r6g3r5g1w3g1r5g3r6g15w4b1k2y3k5b1w4b4w19g1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBWBKGKBWGRGRGWGRGRGWBKGKBWBWGRWBWKGKWKGRGRWRGRGKWKGKWBWR](/stripes/gwbwbkgkbwgrgrgwgrgrgwbkgkbwbwgrwbwkgkwkgrgrwrgrgkwkgkwbwr/).
+
+Part of the [Victoria, Highland dress](/tartans/v/vi/victoria-highland-dress-4/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [58 stripe tartan](/stripes/stripes58/).
 

@@ -6,6 +6,8 @@ This is the **Northumberland** sett — one scale-free proportion (`k1w1k1`), co
 [KWK](/stripes/kwk/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Northumberland](/tartans/n/no/northumberland/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ This is the **Tartan Army Whisky** sett — one scale-free proportion (`ri26g5dg
 [GYYBRGGR](/stripes/gyybrggr/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Tartan Army Whisky](/tartans/tartan-army-whisky/) tartan — the named design grouping this sett with its kin.
+Part of the [Tartan Army Whisky](/tartans/t/ta/tartan-army-whisky/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

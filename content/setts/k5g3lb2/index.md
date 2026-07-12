@@ -6,6 +6,8 @@ This is the **Glen Lyon or Mull (No.53) District Tartan** sett — one scale-fre
 [KGW](/stripes/kgw/). It is recorded as a single **variant**, below.
 First attested **1820**.
 
+Part of the [Glen Lyon or Mull](/tartans/g/gl/glen-lyon-or-mull/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

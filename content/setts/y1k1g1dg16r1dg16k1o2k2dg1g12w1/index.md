@@ -6,6 +6,8 @@ This is the **Walsh** sett — one scale-free proportion (`y1k1g1dg16r1dg16k1o2k
 [GKGGRGKRKGGW](/stripes/gkggrgkrkggw/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [Walsh](/tartans/w/wa/walsh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

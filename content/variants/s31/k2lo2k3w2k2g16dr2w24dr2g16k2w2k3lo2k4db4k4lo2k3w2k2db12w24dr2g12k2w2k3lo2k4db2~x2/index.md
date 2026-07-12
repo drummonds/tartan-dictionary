@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hawick Dress"
+  url: "/tartans/h/ha/hawick-dress/"
 - name: "Hawick Dress (District)"
   url: "/setts/k2lo2k3w2k2g16dr2w24dr2g16k2w2k3lo2k4db4k4lo2k3w2k2db12w24dr2g12k2w2k3lo2k4db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2lo2k3w2k2g16dr2w24dr2g16k2w2k3lo2k4db4k4lo2k3w2k2db12w24dr2g12k2w2k3lo2k4db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKYKWKGBWBKWKYKBKYKWKGBWBGKWKYK](/stripes/bkykwkgbwbkwkykbkykwkgbwbgkwkyk/).
+
+Part of the [Hawick Dress](/tartans/h/ha/hawick-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [31 stripe tartan](/stripes/stripes31/).
 

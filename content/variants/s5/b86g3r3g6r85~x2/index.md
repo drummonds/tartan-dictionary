@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "MacNab 2"
+  url: "/tartans/m/ma/macnab-2/"
+- name: "MacNab 2"
   url: "/setts/b86g3r3g6r85/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b86g3r3g6r85/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRGR](/stripes/bgrgr/).
+
+Part of the [MacNab 2](/tartans/m/ma/macnab-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 

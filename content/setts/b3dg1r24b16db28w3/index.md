@@ -6,6 +6,8 @@ This is the **Diaspora** sett — one scale-free proportion (`b3dg1r24b16db28w3`
 [BGRBBW](/stripes/bgrbbw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Diaspora](/tartans/d/di/diaspora-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Casey"
+  url: "/clan/casey/"
+- name: "Casey of West Virginia"
+  url: "/families/casey-of-west-virginia/"
+- name: "Casey of West Virginia"
+  url: "/tartans/c/ca/casey-of-west-virginia/"
 - name: "Casey of West Virginia (Personal)"
   url: "/setts/g4lo1dt1lo1dt2g9r1dt6w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g4lo1dt1lo1dt2g9r1dt6w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYBYBGRBW](/stripes/gybybgrbw/).
+
+Part of the [Casey of West Virginia](/tartans/c/ca/casey-of-west-virginia/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

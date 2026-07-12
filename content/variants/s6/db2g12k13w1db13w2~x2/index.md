@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Herd"
-  url: "/tartans/herd/"
+  url: "/tartans/h/he/herd/"
 - name: "Herd Family Tartan"
   url: "/setts/db2g12k13w1db13w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/db2g12k13w1db13w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGKWBW](/stripes/bgkwbw/).
 
-Part of the [Herd](/tartans/herd/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Herd](/tartans/h/he/herd/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 

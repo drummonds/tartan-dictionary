@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Embrace"
+  url: "/tartans/e/em/embrace/"
 - name: "Embrace, The"
   url: "/setts/b10r24b4r3b24w2r6b6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/b10r24b4r3b24w2r6b6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRBRBWRB](/stripes/brbrbwrb/).
+
+Part of the [Embrace](/tartans/e/em/embrace/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

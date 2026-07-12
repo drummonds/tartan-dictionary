@@ -6,6 +6,8 @@ This is the **Montgomerie Artifact Tartan** sett — one scale-free proportion (
 [GBGBGBGBGBGG](/stripes/gbgbgbgbgbgg/). It is recorded as a single **variant**, below.
 First attested **~1815**.
 
+Part of the [Montgomerie](/tartans/m/mo/montgomerie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

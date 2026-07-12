@@ -6,7 +6,7 @@ This is the **Craigmoor Tartan** sett — one scale-free proportion (`k2r8db2k2r
 [GGGKRKBRK](/stripes/gggkrkbrk/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
-Part of the [Craigmoor](/tartans/craigmoor/) tartan — the named design grouping this sett with its kin.
+Part of the [Craigmoor](/tartans/c/cr/craigmoor/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

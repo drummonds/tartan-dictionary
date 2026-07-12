@@ -6,6 +6,8 @@ This is the **MacQueen variant** sett — one scale-free proportion (`db2r7db2r7
 [BRBRBG](/stripes/brbrbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [MacQueen variant](/tartans/m/ma/macqueen-variant/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

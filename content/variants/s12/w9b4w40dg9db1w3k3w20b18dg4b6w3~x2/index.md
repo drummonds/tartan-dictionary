@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Grant"
+  url: "/clan/grant/"
+- name: "Grant of Achnarrow"
+  url: "/families/grant-of-achnarrow/"
+- name: "Grant of Achnarrow"
+  url: "/tartans/g/gr/grant-of-achnarrow-3/"
 - name: "Grant of Acharrow"
   url: "/setts/w9b4w40dg9db1w3k3w20b18dg4b6w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w9b4w40dg9db1w3k3w20b18dg4b6w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBGBWKWBGWBW](/stripes/wbgbwkwbgwbw/).
+
+Part of the [Grant of Achnarrow](/tartans/g/gr/grant-of-achnarrow-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 

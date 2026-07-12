@@ -5,12 +5,20 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Smith"
+  url: "/clan/smith/"
+- name: "Smith of Pennylands"
+  url: "/families/smith-of-pennylands/"
+- name: "Smith of Pennylands"
+  url: "/tartans/s/sm/smith-of-pennylands/"
 - name: "Smith of Pennylands"
   url: "/setts/dt30dg30dt2r7dt2dg30dt30lg30t7lg30dt30dg30dt2y7dt2dg30dt30lg30t7lg30/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dt30dg30dt2r7dt2dg30dt30lg30t7lg30dt30dg30dt2y7dt2dg30dt30lg30t7lg30/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBRBGBYBYBGBGBGBYBY](/stripes/bgbrbgbybybgbgbgbyby/).
+
+Part of the [Smith of Pennylands](/tartans/s/sm/smith-of-pennylands/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 

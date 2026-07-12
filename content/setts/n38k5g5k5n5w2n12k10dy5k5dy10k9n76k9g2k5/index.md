@@ -6,6 +6,8 @@ This is the **Guildford Town Centre (British Columbia)** sett — one scale-free
 [BKGKBWBKGKGKBKGK](/stripes/bkgkbwbkgkgkbkgk/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Guildford Town Centre](/tartans/g/gu/guildford-town-centre/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

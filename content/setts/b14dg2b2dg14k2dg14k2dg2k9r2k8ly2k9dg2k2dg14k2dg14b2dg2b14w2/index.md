@@ -6,6 +6,8 @@ This is the **Dow-Aerlift (Name)** sett — one scale-free proportion (`b14dg2b2
 [BGBGKGKGKRKYKGKGKGBGBW](/stripes/bgbgkgkgkrkykgkgkgbgbw/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Dow-Aerlift](/tartans/d/do/dow-aerlift/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan MacRae"
+  url: "/clan/macrae/"
+- name: "MacRae"
+  url: "/tartans/m/ma/macrae-9/"
 - name: "MacRae Grey (Fashion)"
   url: "/setts/dr2o9lb4w2n22w2lb4w22n2w8dr2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr2o9lb4w2n22w2lb4w22n2w8dr2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRWWBWWWBWB](/stripes/brwwbwwwbwb/).
+
+Part of the [MacRae](/tartans/m/ma/macrae-9/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

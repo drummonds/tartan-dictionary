@@ -6,6 +6,8 @@ This is the **Highlands of Haliburton Dress** sett — one scale-free proportion
 [BWBWRBBGWBGGBRG](/stripes/bwbwrbbgwbggbrg/). It is recorded as a single **variant**, below.
 First attested **2011**.
 
+Part of the [Highlands of Haliburton Dress](/tartans/h/hi/highlands-of-haliburton-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Unnamed C18th - Blanket Pattern** sett — one scale-free proporti
 [RWRKWGBKW](/stripes/rwrkwgbkw/). It is recorded as a single **variant**, below.
 First attested **~1800**.
 
+Part of the [Unnamed C18th](/tartans/u/un/unnamed-c18th-8/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

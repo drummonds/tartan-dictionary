@@ -6,6 +6,8 @@ This is the **Ogilvy #2** sett — one scale-free proportion (`db3k2db10y6k2r4w2
 [BKBGKRWRWRKGBWBGKRWRWRKGBKBKBGKRWRWRKWWWKGBGBGWRKRWWWRWWWRKRWGBWBGKRWRWRKGBGKRKR](/stripes/bkbgkrwrwrkgbwbgkrwrwrkgbkbkbgkrwrwrkwwwkgbgbgwrkrwwwrwwwrkrwgbwbgkrwrwrkgbgkrkr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Ogilvy](/tartans/o/og/ogilvy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

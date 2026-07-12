@@ -6,7 +6,7 @@ This is the **Brooke (D.C.Dalgliesh version)** sett — one scale-free proportio
 [BWBKGKRWG](/stripes/bwbkgkrwg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
-Part of the [Brooke](/tartans/brooke/) tartan — the named design grouping this sett with its kin.
+Part of the [Brooke](/tartans/b/br/brooke/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

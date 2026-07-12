@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Royal Navy Submarine Service"
+  url: "/tartans/r/ro/royal-navy-submarine-service/"
+- name: "Royal Navy Submarine Service"
   url: "/setts/w3db3r2db14k3g12k14db16y2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w3db3r2db14k3g12k14db16y2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBKGKBRBW](/stripes/gbkgkbrbw/).
+
+Part of the [Royal Navy Submarine Service](/tartans/r/ro/royal-navy-submarine-service/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

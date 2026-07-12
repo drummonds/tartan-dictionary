@@ -6,6 +6,8 @@ This is the **Stuart/Stewart of Rothesay** sett — one scale-free proportion (`
 [GRBRKGKWGRKRW](/stripes/grbrkgkwgrkrw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Stewart of Rothesay](/tartans/s/st/stewart-of-rothesay-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Newfoundland"
-  url: "/tartans/newfoundland-3/"
+  url: "/tartans/n/ne/newfoundland-3/"
 - name: "Newfoundland (CIDD 28098)"
   url: "/setts/g50r16g8do8r1do1r1do1r1do1r1do1r1do1r1do1r20do40g12do24y8r1y1r1y1r1y1r1y1r1y1r1y1r28y6do4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g50r16g8do8r1do1r1do1r1do1r1do1r1do1r1do1r20do40g12do24y8r1y1r1y1r1y1r1y1r1y1r1y1r28y6do4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGRGRGRGRGRGRGRGBGBRBRBRBRBRBRBRBGRG](/stripes/bgrgrgrgrgrgrgrgbgbrbrbrbrbrbrbrbgrg/).
 
-Part of the [Newfoundland](/tartans/newfoundland-3/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Newfoundland](/tartans/n/ne/newfoundland-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 

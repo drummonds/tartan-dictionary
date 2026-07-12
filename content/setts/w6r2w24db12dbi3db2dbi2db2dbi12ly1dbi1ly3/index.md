@@ -6,6 +6,8 @@ This is the **Payeur, Francois (Personal)** sett — one scale-free proportion (
 [WRWBBBBBBYBY](/stripes/wrwbbbbbbyby/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Payeur, Francois](/tartans/p/pa/payeur-francois/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

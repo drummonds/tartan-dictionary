@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of West Virginia"
+  url: "/tartans/s/st/state-seal-of-west-virginia/"
 - name: "State Seal of West Virginia (Fash)"
   url: "/setts/n49ly3t13dy8k23t10n14r4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n49ly3t13dy8k23t10n14r4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYBGKBBR](/stripes/bybgkbbr/).
+
+Part of the [State Seal of West Virginia](/tartans/s/st/state-seal-of-west-virginia/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 

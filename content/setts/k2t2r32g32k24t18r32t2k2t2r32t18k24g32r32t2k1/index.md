@@ -6,6 +6,8 @@ This is the **MacNaughton** sett — one scale-free proportion (`k2t2r32g32k24t1
 [KBRGKBRBKBRBKGRBK](/stripes/kbrgkbrbkbrbkgrbk/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
+Part of the [MacNaughton](/tartans/m/ma/macnaughton-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

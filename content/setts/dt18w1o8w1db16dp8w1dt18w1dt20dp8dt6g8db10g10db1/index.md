@@ -6,6 +6,8 @@ This is the **Forbes - 1970 (WCWM #2)** sett — one scale-free proportion (`dt1
 [BGBGBBBWBWBBWRWB](/stripes/bgbgbbbwbwbbwrwb/). It is recorded as a single **variant**, below.
 First attested **1970**.
 
+Part of the [Forbes](/tartans/f/fo/forbes-8/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

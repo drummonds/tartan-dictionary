@@ -6,6 +6,8 @@ This is the **West Point** sett — one scale-free proportion (`k13n1k1n1k4n10y1
 [BGBKBKBK](/stripes/bgbkbkbk/). It is recorded as a single **variant**, below.
 First attested **1985**.
 
+Part of the [West Point](/tartans/w/we/west-point/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

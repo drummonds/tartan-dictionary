@@ -21,5 +21,5 @@ A family of [Clan Gordon (Duke of Gordon)](/clan/gordon/).
 </tbody>
 </table>
 
-[See the Gordon of Abergeldie tartan and all its setts →](/tartans/gordon-of-abergeldie/)
+[See the Gordon of Abergeldie tartan and all its setts →](/tartans/g/go/gordon-of-abergeldie/)
 

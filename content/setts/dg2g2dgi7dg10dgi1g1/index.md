@@ -6,6 +6,8 @@ This is the **Emerald, The** sett — one scale-free proportion (`dg2g2dgi7dg10d
 [GGGGGG](/stripes/gggggg/). It is recorded as a single **variant**, below.
 First attested **1972**.
 
+Part of the [Emerald](/tartans/e/em/emerald/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

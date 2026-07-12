@@ -6,6 +6,8 @@ This is the **Hoban (Name)** sett — one scale-free proportion (`y3lp9k3lp4k9g1
 [GWKWKGKBW](/stripes/gwkwkgkbw/). It is recorded as a single **variant**, below.
 First attested **~2004**.
 
+Part of the [Hoban](/tartans/h/ho/hoban/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

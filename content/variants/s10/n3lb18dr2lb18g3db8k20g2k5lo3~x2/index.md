@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "RAF Lossiemouth"
+  url: "/tartans/r/ra/raf-lossiemouth/"
 - name: "Royal Air Force Lossiemouth"
   url: "/setts/n3lb18dr2lb18g3db8k20g2k5lo3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n3lb18dr2lb18g3db8k20g2k5lo3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBWGBKGKY](/stripes/bwbwgbkgky/).
+
+Part of the [RAF Lossiemouth](/tartans/r/ra/raf-lossiemouth/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,6 +6,8 @@ This is the **American Soc.of Travel Agents (Corp)** sett — one scale-free pro
 [BBBBBRBGW](/stripes/bbbbbrbgw/). It is recorded as a single **variant**, below.
 First attested **~1995**.
 
+Part of the [American Soc.of Travel Agents](/tartans/a/am/american-soc-of-travel-agents-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

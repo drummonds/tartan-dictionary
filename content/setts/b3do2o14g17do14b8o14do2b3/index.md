@@ -6,6 +6,8 @@ This is the **Monaghan** sett — one scale-free proportion (`b3do2o14g17do14b8o
 [BBRBBGRBB](/stripes/bbrbbgrbb/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Monaghan](/tartans/m/mo/monaghan/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

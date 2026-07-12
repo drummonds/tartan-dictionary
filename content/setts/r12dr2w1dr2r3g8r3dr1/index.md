@@ -7,7 +7,7 @@ This is the **Chisholm** sett — one scale-free proportion (`r12dr2w1dr2r3g8r3d
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **~2016**.
 
-Part of the [Chisholm](/tartans/chisholm-2/) tartan — the named design grouping this sett with its kin.
+Part of the [Chisholm](/tartans/c/ch/chisholm-2/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gallmore"
+  url: "/tartans/g/ga/gallmore/"
 - name: "Gallmore (Fashion)"
   url: "/setts/n3k14r3k14lb3r32k2r6k2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/n3k14r3k14lb3r32k2r6k2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRKWRKRK](/stripes/bkrkwrkrk/).
+
+Part of the [Gallmore](/tartans/g/ga/gallmore/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

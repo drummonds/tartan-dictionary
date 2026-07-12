@@ -1,0 +1,49 @@
+---
+title: "MacDuff"
+date: 2023-03-18
+crumbs:
+- name: "Home"
+  url: "/"
+---
+Its design is pattern [RWKGRWR](/stripes/rwkgrwr/) — the page of every tartan sharing this colour sequence.
+
+The **MacDuff** tartan groups 5 setts — the same named design recorded as different cloths
+(its kilt, Carpet, Child's…, or a transcription apart). The master sett (★) is the exemplar.
+
+<table class="sett-table">
+<thead><tr><th>Sett</th><th>Thread count</th><th>Threads</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td><a href="/setts/r22lb8k9g14r10lb2r10/">MacDuff</a> ★</td><td><code>R/44 LB16 K18 G28 R20 LB4 R/20</code></td><td>236</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/r22lb8k9g14r10lb2r10/"><img src="/variants/s7/r22lb8k9g14r10lb2r10~x2/sett.png" alt="MacDuff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/r36db9k12dg17r10k3r10/">1819 (Clan)</a></td><td><code>R/72 DB18 K24 DG34 R20 K6 R/20</code></td><td>296</td><td>1819</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/r36db9k12dg17r10k3r10/"><img src="/variants/s7/r36db9k12dg17r10k3r10~x2/sett.png" alt="1819 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/r36db9k12g17r10k3r10/">#6</a></td><td><code>R/72 DB18 K24 G34 R20 K6 R/20</code></td><td>296</td><td>1819</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/r36db9k12g17r10k3r10/"><img src="/variants/s7/r36db9k12g17r10k3r10~x2/sett.png" alt="#6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/r8db3k4g6r4k1r4/">MacDuff</a></td><td><code>R/16 DB6 K8 G12 R8 K2 R/8</code></td><td>96</td><td>1831</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/r8db3k4g6r4k1r4/"><img src="/variants/s7/r8db3k4g6r4k1r4~x2/sett.png" alt="MacDuff sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="4" class="sett-variants">2 Variants: <a href="/variants/s7/r8db3k4g6r4k1r4~x2/">MacDuff</a> · <a href="/variants/s7/r8db3k4g6r4k1r4~x4/">Clan Tartan</a></td></tr>
+<tr><td><a href="/setts/r8lb3k4g6r4k1r4/">#5</a></td><td><code>R/16 LB6 K8 G12 R8 K2 R/8</code></td><td>96</td><td>—</td></tr>
+<tr><td colspan="4" class="sett-swatch"><a href="/setts/r8lb3k4g6r4k1r4/"><img src="/variants/s7/r8lb3k4g6r4k1r4~x2/sett.png" alt="#5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+</tbody>
+</table>
+
+
+## Also known as
+
+This tartan is also recorded under:
+
+- MacDuff #2
+- MacDuff #5
+- MacDuff #6
+
+## Nearest tartans
+
+The nearest variants to this tartan's master sett by ΔTartan distance, with the master at the top so the swatches line up against it.
+
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">236</div><div class="nn-name nn-base"><a href="/variants/s7/r22lb8k9g14r10lb2r10~x2/">MacDuff</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s7/r22lb8k9g14r10lb2r10~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r52db16k16g22r16y3r16&amp;base=r22lb8k9g14r10lb2r10~x2" title="compare in the TTD">0.72</a></div><div class="nn-threads">214</div><div class="nn-name"><a href="/variants/s7/r52db16k16g22r16y3r16/">Sturrock</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r52db16k16g22r16y3r16/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r52k32g22r16y3r16&amp;base=r22lb8k9g14r10lb2r10~x2" title="compare in the TTD">1.15</a></div><div class="nn-threads">214</div><div class="nn-name"><a href="/variants/s6/r52k32g22r16y3r16/">Sturrock</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r52k32g22r16y3r16/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r36db9k12g17r10k3r10~x2&amp;base=r22lb8k9g14r10lb2r10~x2" title="compare in the TTD">1.29</a></div><div class="nn-threads">296</div><div class="nn-name"><a href="/variants/s7/r36db9k12g17r10k3r10~x2/">MacDuff #6</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r36db9k12g17r10k3r10~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r36db9k12dg17r10k3r10~x2&amp;base=r22lb8k9g14r10lb2r10~x2" title="compare in the TTD">1.29</a></div><div class="nn-threads">296</div><div class="nn-name"><a href="/variants/s7/r36db9k12dg17r10k3r10~x2/">MacDuff - 1819 (Clan)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r36db9k12dg17r10k3r10~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r8lb3k4g6r4k1r4~x2&amp;base=r22lb8k9g14r10lb2r10~x2" title="compare in the TTD">1.32</a></div><div class="nn-threads">96</div><div class="nn-name"><a href="/variants/s7/r8lb3k4g6r4k1r4~x2/">MacDuff #5</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r8lb3k4g6r4k1r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r8db3k4g6r4k1r4~x2&amp;base=r22lb8k9g14r10lb2r10~x2" title="compare in the TTD">1.32</a></div><div class="nn-threads">96</div><div class="nn-name"><a href="/variants/s7/r8db3k4g6r4k1r4~x2/">MacDuff</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r8db3k4g6r4k1r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r8db3k4g6r4k1r4~x4&amp;base=r22lb8k9g14r10lb2r10~x2" title="compare in the TTD">1.32</a></div><div class="nn-threads">192</div><div class="nn-name"><a href="/variants/s7/r8db3k4g6r4k1r4~x4/">MacDuff Clan Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s7/r8db3k4g6r4k1r4~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r5w2r28k12g16r3~x2&amp;base=r22lb8k9g14r10lb2r10~x2" title="compare in the TTD">1.40</a></div><div class="nn-threads">248</div><div class="nn-name"><a href="/variants/s6/r5w2r28k12g16r3~x2/">Nisbet Family Tartan</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r5w2r28k12g16r3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r6g21k8r28k2r4~x2&amp;base=r22lb8k9g14r10lb2r10~x2" title="compare in the TTD">1.52</a></div><div class="nn-threads">256</div><div class="nn-name"><a href="/variants/s6/r6g21k8r28k2r4~x2/">Dunbar</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r6g21k8r28k2r4~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt"><a href="/ttd/edit/#slug=r10g24k10r28lb3r6~x2&amp;base=r22lb8k9g14r10lb2r10~x2" title="compare in the TTD">1.62</a></div><div class="nn-threads">292</div><div class="nn-name"><a href="/variants/s6/r10g24k10r28lb3r6~x2/">Nisbet</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s6/r10g24k10r28lb3r6~x2/sett-rev.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+
+## Neighbour map
+
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan's master sett; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r52db16k16g22r16y3r16/"><circle cx="271.5" cy="156.6" r="4" fill="#3465a4"><title>Sturrock</title></circle></a><a href="/variants/s6/r52k32g22r16y3r16/"><circle cx="281.3" cy="173.7" r="4" fill="#3465a4"><title>Sturrock</title></circle></a><a href="/variants/s7/r36db9k12g17r10k3r10~x2/"><circle cx="258.1" cy="178.8" r="4" fill="#3465a4"><title>MacDuff #6</title></circle></a><a href="/variants/s7/r36db9k12dg17r10k3r10~x2/"><circle cx="265.0" cy="179.0" r="4" fill="#3465a4"><title>MacDuff - 1819 (Clan)</title></circle></a><a href="/variants/s7/r8lb3k4g6r4k1r4~x2/"><circle cx="193.5" cy="221.1" r="4" fill="#3465a4"><title>MacDuff #5</title></circle></a><a href="/variants/s7/r8db3k4g6r4k1r4~x2/"><circle cx="196.7" cy="221.7" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/variants/s7/r8db3k4g6r4k1r4~x4/"><circle cx="196.7" cy="221.7" r="4" fill="#3465a4"><title>MacDuff Clan Tartan</title></circle></a><a href="/variants/s6/r5w2r28k12g16r3~x2/"><circle cx="257.2" cy="169.5" r="4" fill="#3465a4"><title>Nisbet Family Tartan</title></circle></a><a href="/variants/s6/r6g21k8r28k2r4~x2/"><circle cx="290.6" cy="184.1" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/variants/s6/r10g24k10r28lb3r6~x2/"><circle cx="246.8" cy="202.5" r="4" fill="#3465a4"><title>Nisbet</title></circle></a><circle cx="233.0" cy="206.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>

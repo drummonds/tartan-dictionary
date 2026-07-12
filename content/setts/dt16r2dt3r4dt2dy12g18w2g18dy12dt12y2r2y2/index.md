@@ -7,6 +7,8 @@ This is the **Allen - 2001 (Personal)** sett — one scale-free proportion (`dt1
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2001**.
 
+Part of the [Allen](/tartans/a/al/allen-5/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

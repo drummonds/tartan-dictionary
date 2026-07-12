@@ -6,6 +6,8 @@ This is the **Solberg-Bell Hunting** sett — one scale-free proportion (`k2n1ly
 [KBYKBKYBBBBWK](/stripes/kbykbkybbbbwk/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Solberg-Bell Hunting](/tartans/s/so/solberg-bell-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

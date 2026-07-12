@@ -6,6 +6,8 @@ This is the **Tartan de Longueuil** sett — one scale-free proportion (`y4db3y2
 [BGBRGKRKBKRKBGBG](/stripes/bgbrgkrkbkrkbgbg/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Tartan de Longueuil](/tartans/t/ta/tartan-de-longueuil/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

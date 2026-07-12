@@ -6,6 +6,8 @@ This is the **Nance (1998)** sett — one scale-free proportion (`db2lo1db6dr1db
 [BYBBBBKGWG](/stripes/bybbbbkgwg/). It is recorded as a single **variant**, below.
 First attested **1998**.
 
+Part of the [Nance](/tartans/n/na/nance/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

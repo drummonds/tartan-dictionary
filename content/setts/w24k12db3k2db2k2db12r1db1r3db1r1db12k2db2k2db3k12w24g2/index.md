@@ -6,6 +6,8 @@ This is the **Sutherland, Dress Royal (Dance)** sett — one scale-free proporti
 [GWKBKBKBRBRBRBKBKBKW](/stripes/gwkbkbkbrbrbrbkbkbkw/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Sutherland, Dress Royal](/tartans/s/su/sutherland-dress-royal/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

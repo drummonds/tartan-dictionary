@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Lawrie"
-  url: "/tartans/lawrie/"
+  url: "/tartans/l/la/lawrie/"
 - name: "Lawrie Clan Tartan"
   url: "/setts/dp6dy2dp1g25db16k2db4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dp6dy2dp1g25db16k2db4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBKB](/stripes/bgbgbkb/).
 
-Part of the [Lawrie](/tartans/lawrie/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Lawrie](/tartans/l/la/lawrie/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 

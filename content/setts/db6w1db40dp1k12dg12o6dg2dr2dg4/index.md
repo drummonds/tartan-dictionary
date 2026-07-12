@@ -6,7 +6,7 @@ This is the **Scotland the Brave Corporate Tartan** sett — one scale-free prop
 [BWBBKGRGBG](/stripes/bwbbkgrgbg/). It is recorded as a single **variant**, below.
 First attested **1999**.
 
-Part of the [Scotland the Brave](/tartans/scotland-the-brave/) tartan — the named design grouping this sett with its kin.
+Part of the [Scotland the Brave](/tartans/s/sc/scotland-the-brave/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

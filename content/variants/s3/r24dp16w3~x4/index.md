@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "National Autistic Society Scotla"
+  url: "/tartans/n/na/national-autistic-society-scotla/"
 - name: "National Autistic Society Scotland"
   url: "/setts/r24dp16w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r24dp16w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RBW](/stripes/rbw/).
+
+Part of the [National Autistic Society Scotla](/tartans/n/na/national-autistic-society-scotla/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 

@@ -6,6 +6,8 @@ This is the **Sutherland de Albergaria (Personal)** sett — one scale-free prop
 [KWKGRKRKRGKWKW](/stripes/kwkgrkrkrgkwkw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Sutherland de Albergaria](/tartans/s/su/sutherland-de-albergaria/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Land's End Camel"
+  url: "/tartans/l/la/land-s-end-camel/"
+- name: "Land's End Camel"
   url: "/setts/ly24do2ly3dy6ly3do2dg15ly20do4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly24do2ly3dy6ly3do2dg15ly20do4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BYGBYGYBY](/stripes/bygbygyby/).
+
+Part of the [Land's End Camel](/tartans/l/la/land-s-end-camel/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 

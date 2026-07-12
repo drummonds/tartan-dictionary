@@ -6,6 +6,8 @@ This is the **Scottish Ballet** sett — one scale-free proportion (`dy5g22dp15d
 [GBBBGG](/stripes/gbbbgg/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Scottish Ballet](/tartans/s/sc/scottish-ballet/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

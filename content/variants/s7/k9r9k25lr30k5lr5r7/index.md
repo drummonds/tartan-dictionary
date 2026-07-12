@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rocket Dog"
+  url: "/tartans/r/ro/rocket-dog/"
 - name: "Rocket Dog (Fashion)"
   url: "/setts/k9r9k25lr30k5lr5r7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k9r9k25lr30k5lr5r7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KRKYKYR](/stripes/krkykyr/).
+
+Part of the [Rocket Dog](/tartans/r/ro/rocket-dog/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dalbraith-Eastern Western (Corporate"
+  url: "/tartans/d/da/dalbraith-eastern-western-corporate/"
 - name: "Eastern Western Motor Group, Dalbraith"
   url: "/setts/dy28g2dy4db18g23db2g3ly4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dy28g2dy4db18g23db2g3ly4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGBGBGY](/stripes/gggbgbgy/).
+
+Part of the [Dalbraith-Eastern Western (Corporate](/tartans/d/da/dalbraith-eastern-western-corporate/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

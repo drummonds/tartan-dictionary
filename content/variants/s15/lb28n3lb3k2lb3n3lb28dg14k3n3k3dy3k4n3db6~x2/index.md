@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Buffalo"
+  url: "/tartans/b/bu/buffalo-3/"
+- name: "Buffalo"
   url: "/setts/lb28n3lb3k2lb3n3lb28dg14k3n3k3dy3k4n3db6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb28n3lb3k2lb3n3lb28dg14k3n3k3dy3k4n3db6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBKGKBKGWBWKWBW](/stripes/bbkgkbkgwbwkwbw/).
+
+Part of the [Buffalo](/tartans/b/bu/buffalo-3/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 

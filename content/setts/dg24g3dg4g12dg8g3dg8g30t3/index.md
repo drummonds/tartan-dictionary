@@ -6,6 +6,8 @@ This is the **Gates, Hunting** sett — one scale-free proportion (`dg24g3dg4g12
 [BGGGGGGGG](/stripes/bgggggggg/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Gates, Hunting](/tartans/g/ga/gates-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

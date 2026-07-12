@@ -6,7 +6,7 @@ This is the **Safeway** sett — one scale-free proportion (`db19k3db3k3db3k20g1
 [BKBKBKGKRKGKBKB](/stripes/bkbkbkgkrkgkbkb/). It is recorded as a single **variant**, below.
 First attested **1991**.
 
-Part of the [Safeway](/tartans/safeway/) tartan — the named design grouping this sett with its kin.
+Part of the [Safeway](/tartans/s/sa/safeway/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

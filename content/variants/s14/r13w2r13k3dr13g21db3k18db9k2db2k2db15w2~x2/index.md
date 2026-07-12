@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Taiwan Scottish"
+  url: "/tartans/t/ta/taiwan-scottish/"
+- name: "Taiwan Scottish"
   url: "/setts/r13w2r13k3dr13g21db3k18db9k2db2k2db15w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r13w2r13k3dr13g21db3k18db9k2db2k2db15w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [RWRKBGBKBKBKBW](/stripes/rwrkbgbkbkbkbw/).
+
+Part of the [Taiwan Scottish](/tartans/t/ta/taiwan-scottish/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 

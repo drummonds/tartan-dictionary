@@ -6,7 +6,7 @@ This is the **Zwijnenberg, Frans (Personal)** sett — one scale-free proportion
 [GGK](/stripes/ggk/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
-Part of the [Zwijnenberg, Frans](/tartans/zwijnenberg-frans/) tartan — the named design grouping this sett with its kin.
+Part of the [Zwijnenberg, Frans](/tartans/z/zw/zwijnenberg-frans/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

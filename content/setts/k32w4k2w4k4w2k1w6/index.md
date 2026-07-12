@@ -6,7 +6,7 @@ This is the **Menzies B/W Clan Tartan** sett — one scale-free proportion (`k32
 [KWKWKWKW](/stripes/kwkwkwkw/). It is recorded as a single **variant**, below.
 First attested **1934**.
 
-Part of the [Menzies](/tartans/menzies-5/) tartan — the named design grouping this sett with its kin.
+Part of the [Menzies](/tartans/m/me/menzies-5/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

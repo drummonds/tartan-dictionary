@@ -6,6 +6,8 @@ This is the **Kirkton** sett — one scale-free proportion (`dg4lr1n4lr1n3lr1n2l
 [GYBYBYBYGYGYGYGYGYGGBGBGGYGYGYGYGYGYBYBYBYGY](/stripes/gybybybygygygygygyggbgbggygygygygygybybybygy/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Kirkton](/tartans/k/ki/kirkton/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -7,6 +7,8 @@ This is the **Conroy** sett — one scale-free proportion (`ri64k10y4r5w2k2db3y4
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **1986**.
 
+Part of the [Conroy](/tartans/c/co/conroy/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

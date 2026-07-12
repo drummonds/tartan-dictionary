@@ -6,6 +6,8 @@ This is the **Johnston Orange/Black (Corporate)** sett — one scale-free propor
 [WYKYKYKY](/stripes/wykykyky/). It is recorded as a single **variant**, below.
 First attested **1945**.
 
+Part of the [Atlas Textile](/tartans/a/at/atlas-textile/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

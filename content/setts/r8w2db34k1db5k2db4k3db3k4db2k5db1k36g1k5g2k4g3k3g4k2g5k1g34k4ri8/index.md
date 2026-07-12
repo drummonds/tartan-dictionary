@@ -6,6 +6,8 @@ This is the **St. Andrews Soc. of New York (Corp)** sett — one scale-free prop
 [RKGKGKGKGKGKGKBKBKBKBKBKBWR](/stripes/rkgkgkgkgkgkgkbkbkbkbkbkbwr/). It is recorded as a single **variant**, below.
 First attested **2003**.
 
+Part of the [St. Andrews Soc. of New York](/tartans/s/st/st-andrews-soc-of-new-york/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Reid"
+  url: "/clan/reid/"
+- name: "Reid and Taylor"
+  url: "/tartans/r/re/reid-and-taylor/"
 - name: "Reid and Taylor"
   url: "/setts/k2g10k9db9r1k1db2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k2g10k9db9r1k1db2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKRBKGK](/stripes/bkrbkgk/).
+
+Part of the [Reid and Taylor](/tartans/r/re/reid-and-taylor/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

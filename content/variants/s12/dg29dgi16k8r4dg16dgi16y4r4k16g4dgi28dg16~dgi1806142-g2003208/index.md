@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "McCamley"
-  url: "/tartans/mccamley/"
+  url: "/tartans/m/mc/mccamley/"
 - name: "McCamley (Personal)"
   url: "/setts/dg29dgi16k8r4dg16dgi16y4r4k16g4dgi28dg16/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dg29dgi16k8r4dg16dgi16y4r4k16g4dgi28dg16/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGKRGGGRKGG](/stripes/gggkrgggrkgg/).
 
-Part of the [McCamley](/tartans/mccamley/) tartan — the named design grouping this sett with its other cloths.
+Part of the [McCamley](/tartans/m/mc/mccamley/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 

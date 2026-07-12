@@ -6,6 +6,8 @@ This is the **Rannoch Moor (Fashion)** sett — one scale-free proportion (`g3r1
 [GRGGRBGR](/stripes/grggrbgr/). It is recorded as a single **variant**, below.
 First attested **2007**.
 
+Part of the [Rannoch Moor](/tartans/r/ra/rannoch-moor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

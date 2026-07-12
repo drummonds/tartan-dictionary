@@ -6,6 +6,8 @@ This is the **Clan Gregor Tartan** sett — one scale-free proportion (`db25r8db
 [BRBRKW](/stripes/brbrkw/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Clan Gregor](/tartans/c/cl/clan-gregor/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

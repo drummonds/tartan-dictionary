@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Order of Saint Lazarus"
+  url: "/tartans/o/or/order-of-saint-lazarus/"
+- name: "Order of Saint Lazarus"
   url: "/setts/g9w9k2w2k2y2dg28g2db12g4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g9w9k2w2k2y2dg28g2db12g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBGGGKWKWG](/stripes/gbgggkwkwg/).
+
+Part of the [Order of Saint Lazarus](/tartans/o/or/order-of-saint-lazarus/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

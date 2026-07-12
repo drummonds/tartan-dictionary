@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Ferguson"
+  url: "/clan/ferguson/"
+- name: "Ferguson"
+  url: "/tartans/f/fe/ferguson-5/"
 - name: "Ferguson of Balquhidder #2"
   url: "/setts/k4g25k24r3db24g4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4g25k24r3db24g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBRKGK](/stripes/gbrkgk/).
+
+Part of the [Ferguson](/tartans/f/fe/ferguson-5/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

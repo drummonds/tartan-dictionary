@@ -6,6 +6,8 @@ This is the **Orvis Sports Company (Corporate)** sett — one scale-free proport
 [GBGKGKGKGG](/stripes/gbgkgkgkgg/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Orvis Sports Company](/tartans/o/or/orvis-sports-company/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

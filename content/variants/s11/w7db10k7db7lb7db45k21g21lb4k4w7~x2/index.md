@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Utah State University"
+  url: "/tartans/u/ut/utah-state-university/"
+- name: "Utah State University"
   url: "/setts/w7db10k7db7lb7db45k21g21lb4k4w7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/w7db10k7db7lb7db45k21g21lb4k4w7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBKBWBKGWKW](/stripes/wbkbwbkgwkw/).
+
+Part of the [Utah State University](/tartans/u/ut/utah-state-university/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 

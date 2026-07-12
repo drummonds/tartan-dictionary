@@ -6,6 +6,8 @@ This is the **Caledonian Labrador Retrievers** sett — one scale-free proportio
 [RBBBRKGY](/stripes/rbbbrkgy/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
+Part of the [Caledonian Labrador Retrievers](/tartans/c/ca/caledonian-labrador-retrievers/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

@@ -6,6 +6,8 @@ This is the **Hakkarain (Personal)** sett — one scale-free proportion (`ki37w1
 [KWKRKRKRKW](/stripes/kwkrkrkrkw/). It is recorded as a single **variant**, below.
 First attested **2004**.
 
+Part of the [Hakkarain](/tartans/h/ha/hakkarain/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

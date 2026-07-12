@@ -6,6 +6,8 @@ This is the **MacLeish** sett — one scale-free proportion (`k18db12k5g4r6g12k2
 [KBKGRGKY](/stripes/kbkgrgky/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [MacLeish](/tartans/m/ma/macleish/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

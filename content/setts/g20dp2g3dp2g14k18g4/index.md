@@ -6,6 +6,8 @@ This is the **Pringle, James (Fashion)** sett — one scale-free proportion (`g2
 [GBGBGKG](/stripes/gbgbgkg/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Pringle, James](/tartans/p/pr/pringle-james/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

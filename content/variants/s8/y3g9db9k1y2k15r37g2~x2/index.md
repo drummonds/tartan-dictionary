@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Mensah"
+  url: "/tartans/m/me/mensah/"
+- name: "Mensah"
   url: "/setts/y3g9db9k1y2k15r37g2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/y3g9db9k1y2k15r37g2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGBKGKRG](/stripes/ggbkgkrg/).
+
+Part of the [Mensah](/tartans/m/me/mensah/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 

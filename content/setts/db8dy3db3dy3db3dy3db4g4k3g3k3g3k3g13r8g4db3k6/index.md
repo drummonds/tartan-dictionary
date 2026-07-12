@@ -6,7 +6,7 @@ This is the **Glasgow Celtic Society Corporate Tartan** sett — one scale-free 
 [BGBGBGBGKGKGKGRGBK](/stripes/bgbgbgbgkgkgkgrgbk/). It is recorded as a single **variant**, below.
 First attested **~1857**.
 
-Part of the [Glasgow Celtic Society](/tartans/glasgow-celtic-society/) tartan — the named design grouping this sett with its kin.
+Part of the [Glasgow Celtic Society](/tartans/g/gl/glasgow-celtic-society/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

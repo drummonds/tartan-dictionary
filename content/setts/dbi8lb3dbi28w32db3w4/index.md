@@ -6,6 +6,8 @@ This is the **Ailsa, Royal Blue (Dance)** sett — one scale-free proportion (`d
 [BWBWBW](/stripes/bwbwbw/). It is recorded as a single **variant**, below.
 First attested **2008**.
 
+Part of the [Ailsa Royal](/tartans/a/ai/ailsa-royal/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

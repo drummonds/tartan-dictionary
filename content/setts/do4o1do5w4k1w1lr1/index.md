@@ -6,6 +6,8 @@ This is the **Elgin** sett — one scale-free proportion (`do4o1do5w4k1w1lr1`), 
 [BRBWKWY](/stripes/brbwkwy/). It is recorded as a single **variant**, below.
 First attested **1988**.
 
+Part of the [Elgin](/tartans/e/el/elgin/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

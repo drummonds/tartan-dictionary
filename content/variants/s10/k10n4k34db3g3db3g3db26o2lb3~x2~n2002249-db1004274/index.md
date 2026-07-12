@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dugan"
+  url: "/tartans/d/du/dugan/"
 - name: "Dugan (Personal)"
   url: "/setts/k10n4k34db3g3db3g3db26o2lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k10n4k34db3g3db3g3db26o2lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBGBGBRW](/stripes/kbkbgbgbrw/).
+
+Part of the [Dugan](/tartans/d/du/dugan/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

@@ -6,6 +6,8 @@ This is the **Alzheimer Scotland Action on Dementia** sett — one scale-free pr
 [BRBYBBBWRBG](/stripes/brbybbbwrbg/). It is recorded as a single **variant**, below.
 First attested **2016**.
 
+Part of the [Alzheimer Scotland Action on Dementia](/tartans/a/al/alzheimer-scotland-action-on-dementia/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

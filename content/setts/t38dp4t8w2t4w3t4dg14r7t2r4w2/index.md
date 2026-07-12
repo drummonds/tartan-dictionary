@@ -6,6 +6,8 @@ This is the **Louth Irish County Tartan** sett — one scale-free proportion (`t
 [BBBWBWBGRBRW](/stripes/bbbwbwbgrbrw/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Louth Irish County](/tartans/l/lo/louth-irish-county/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

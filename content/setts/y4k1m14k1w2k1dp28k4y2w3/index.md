@@ -6,6 +6,8 @@ This is the **Svanholm (Personal)** sett — one scale-free proportion (`y4k1m14
 [GKRKWKBKGWGKBKWKRK](/stripes/gkrkwkbkgwgkbkwkrk/). It is recorded as a single **variant**, below.
 First attested **2000**.
 
+Part of the [Svanholm](/tartans/s/sv/svanholm/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

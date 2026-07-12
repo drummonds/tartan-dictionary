@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Willox"
-  url: "/tartans/willox/"
+  url: "/tartans/w/wi/willox/"
 - name: "Willox"
   url: "/setts/g6lb12dp3w1dp6lb4w1lb4dp6w1k27g5w2/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/g6lb12dp3w1dp6lb4w1lb4dp6w1k27g5w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWBWBWWWBWKGW](/stripes/gwbwbwwwbwkgw/).
 
-Part of the [Willox](/tartans/willox/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Willox](/tartans/w/wi/willox/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

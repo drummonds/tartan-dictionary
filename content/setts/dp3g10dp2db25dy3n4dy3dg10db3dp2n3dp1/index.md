@@ -6,7 +6,7 @@ This is the **Bowhunter (Fashion)** sett — one scale-free proportion (`dp3g10d
 [BBBBGGBGBBGB](/stripes/bbbbggbgbbgb/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Bowhunter](/tartans/bowhunter/) tartan — the named design grouping this sett with its kin.
+Part of the [Bowhunter](/tartans/b/bo/bowhunter/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

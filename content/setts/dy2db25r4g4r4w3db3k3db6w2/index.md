@@ -7,6 +7,8 @@ This is the **University of Edinburgh Business Sch** sett — one scale-free pro
 cloth woven at different scales or shades, each its own page below; the oldest (★) anchors the sett.
 First attested **2002**.
 
+Part of the [University of Edinburgh Business Sch](/tartans/u/un/university-of-edinburgh-business-sch/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

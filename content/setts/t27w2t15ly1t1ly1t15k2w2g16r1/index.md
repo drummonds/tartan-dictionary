@@ -6,6 +6,8 @@ This is the **Quigley of Knockcroghery Htg (Per.)** sett — one scale-free prop
 [BWBYBYBKWGR](/stripes/bwbybybkwgr/). It is recorded as a single **variant**, below.
 First attested **~2011**.
 
+Part of the [Quigley of Knockcroghery Hunting](/tartans/q/qu/quigley-of-knockcroghery-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

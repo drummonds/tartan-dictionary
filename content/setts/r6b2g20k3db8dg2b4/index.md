@@ -6,6 +6,8 @@ This is the **Royal British Legion, The** sett — one scale-free proportion (`r
 [BGBKGBR](/stripes/bgbkgbr/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Royal British Legion, The](/tartans/r/ro/royal-british-legion-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

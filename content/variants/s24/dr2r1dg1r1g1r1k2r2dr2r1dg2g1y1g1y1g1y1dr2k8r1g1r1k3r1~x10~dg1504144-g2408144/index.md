@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McNair"
+  url: "/tartans/m/mc/mcnair/"
 - name: "McNair (2016)"
   url: "/setts/dr2r1dg1r1g1r1k2r2dr2r1dg2g1y1g1y1g1y1dr2k8r1g1r1k3r1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dr2r1dg1r1g1r1k2r2dr2r1dg2g1y1g1y1g1y1dr2k8r1g1r1k3r1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BRGRGRKRBRGGGGGGGBKRGRKR](/stripes/brgrgrkrbrgggggggbkrgrkr/).
+
+Part of the [McNair](/tartans/m/mc/mcnair/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 

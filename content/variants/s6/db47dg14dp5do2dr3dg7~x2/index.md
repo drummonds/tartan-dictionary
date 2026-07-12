@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Round Table"
+  url: "/tartans/r/ro/round-table/"
 - name: "Round Table (1997)"
   url: "/setts/db47dg14dp5do2dr3dg7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db47dg14dp5do2dr3dg7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBBBG](/stripes/bgbbbg/).
+
+Part of the [Round Table](/tartans/r/ro/round-table/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

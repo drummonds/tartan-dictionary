@@ -6,6 +6,8 @@ This is the **Veron** sett — one scale-free proportion (`w12dg2r2w5dg31w5dg2y5
 [WGRWGWGGGWGRW](/stripes/wgrwgwgggwgrw/). It is recorded as a single **variant**, below.
 First attested **1974**.
 
+Part of the [Veron](/tartans/v/ve/veron/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

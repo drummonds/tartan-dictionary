@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Peeper"
+  url: "/tartans/p/pe/peeper/"
 - name: "Peeper (check)"
   url: "/setts/g4k1y4ly4y4ly4y4o5y4ly4y4ly4y4ly4y4ly4y4ly4k1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g4k1y4ly4y4ly4y4o5y4ly4y4ly4y4ly4y4ly4y4ly4k1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GKGYGYGRGYGYGYGYGYK](/stripes/gkgygygrgygygygygyk/).
+
+Part of the [Peeper](/tartans/p/pe/peeper/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 

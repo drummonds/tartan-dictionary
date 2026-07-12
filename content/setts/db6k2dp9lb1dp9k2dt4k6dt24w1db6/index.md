@@ -6,6 +6,8 @@ This is the **Newlands, Charlie (Personal)** sett — one scale-free proportion 
 [BKBWBKBKBWB](/stripes/bkbwbkbkbwb/). It is recorded as a single **variant**, below.
 First attested **2012**.
 
+Part of the [Newlands, Charlie](/tartans/n/ne/newlands-charlie/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

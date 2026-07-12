@@ -6,6 +6,8 @@ This is the **Diana, Plaid Dress** sett — one scale-free proportion (`lr46r3do
 [YRBGYBYBYWYY](/stripes/yrbgybybywyy/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Diana, Plaid Dress](/tartans/d/di/diana-plaid-dress/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

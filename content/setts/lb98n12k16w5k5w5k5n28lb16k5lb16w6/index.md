@@ -6,7 +6,7 @@ This is the **Glen Moy Tartan** sett — one scale-free proportion (`lb98n12k16w
 [WBKWKWKBWKWW](/stripes/wbkwkwkbwkww/). It is recorded as a single **variant**, below.
 First attested **~1986**.
 
-Part of the [Glen Moy](/tartans/glen-moy/) tartan — the named design grouping this sett with its kin.
+Part of the [Glen Moy](/tartans/g/gl/glen-moy/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

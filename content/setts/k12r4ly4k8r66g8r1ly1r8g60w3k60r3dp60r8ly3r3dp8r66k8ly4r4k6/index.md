@@ -6,6 +6,8 @@ This is the **Hay** sett — one scale-free proportion (`k12r4ly4k8r66g8r1ly1r8g
 [KRYKRBRYRBRKWGRYRGRKYRK](/stripes/krykrbryrbrkwgryrgrkyrk/). It is recorded as a single **variant**, below.
 First attested **1831**.
 
+Part of the [Hay](/tartans/h/ha/hay-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

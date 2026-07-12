@@ -6,6 +6,8 @@ This is the **Bannockbane Light Blue** sett — one scale-free proportion (`db2l
 [BWBWWWBW](/stripes/bwbwwwbw/). It is recorded as a single **variant**, below.
 First attested **1984**.
 
+Part of the [Bannockbane Light](/tartans/b/ba/bannockbane-light/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

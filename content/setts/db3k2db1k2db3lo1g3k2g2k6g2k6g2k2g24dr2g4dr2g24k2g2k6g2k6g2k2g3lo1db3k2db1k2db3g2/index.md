@@ -6,6 +6,8 @@ This is the **Hislop Hunting (Personal)** sett — one scale-free proportion (`d
 [BKBKBYGKGKGKGKGBGBGKGKGKGKGYBKBKBG](/stripes/bkbkbygkgkgkgkgbgbgkgkgkgkgybkbkbg/). It is recorded as a single **variant**, below.
 First attested **~2016**.
 
+Part of the [Hislop Hunting](/tartans/h/hi/hislop-hunting/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

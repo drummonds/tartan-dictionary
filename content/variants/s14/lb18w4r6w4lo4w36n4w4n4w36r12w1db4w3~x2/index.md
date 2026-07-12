@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Confederate Memorial Dress (Military"
+  url: "/tartans/c/co/confederate-memorial-dress-military/"
+- name: "Confederate Memorial Dress (Military"
   url: "/setts/lb18w4r6w4lo4w36n4w4n4w36r12w1db4w3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb18w4r6w4lo4w36n4w4n4w36r12w1db4w3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WBWRWBWBWYWRWW](/stripes/wbwrwbwbwywrww/).
+
+Part of the [Confederate Memorial Dress (Military](/tartans/c/co/confederate-memorial-dress-military/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 

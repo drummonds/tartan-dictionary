@@ -6,6 +6,8 @@ This is the **Carstairs** sett — one scale-free proportion (`g5ly2w2db8k2db5k2
 [GYWBKBKBKBWGWY](/stripes/gywbkbkbkbwgwy/). It is recorded as a single **variant**, below.
 First attested **2001**.
 
+Part of the [Carstairs](/tartans/c/ca/carstairs/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

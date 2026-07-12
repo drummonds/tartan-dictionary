@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "McGuigan, Julia"
-  url: "/tartans/mcguigan-julia/"
+  url: "/tartans/m/mc/mcguigan-julia/"
 - name: "McGuigan, Julia (St Monans, Fife) (Personal)"
   url: "/setts/yi9g52dy15y4/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/yi9g52dy15y4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGG](/stripes/gggg/).
 
-Part of the [McGuigan, Julia](/tartans/mcguigan-julia/) tartan — the named design grouping this sett with its other cloths.
+Part of the [McGuigan, Julia](/tartans/m/mc/mcguigan-julia/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 

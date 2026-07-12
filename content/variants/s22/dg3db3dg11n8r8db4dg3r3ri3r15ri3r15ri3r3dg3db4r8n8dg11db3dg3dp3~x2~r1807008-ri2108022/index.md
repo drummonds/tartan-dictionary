@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Strathgaela"
+  url: "/tartans/s/st/strathgaela-2/"
+- name: "Strathgaela"
   url: "/setts/dg3db3dg11n8r8db4dg3r3ri3r15ri3r15ri3r3dg3db4r8n8dg11db3dg3dp3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg3db3dg11n8r8db4dg3r3ri3r15ri3r15ri3r3dg3db4r8n8dg11db3dg3dp3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBGBRBGRRRRRRRGBRBGBG](/stripes/bgbgbrbgrrrrrrrgbrbgbg/).
+
+Part of the [Strathgaela](/tartans/s/st/strathgaela-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 

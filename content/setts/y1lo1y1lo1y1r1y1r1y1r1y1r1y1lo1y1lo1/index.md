@@ -6,6 +6,8 @@ This is the **Compaq** sett — one scale-free proportion (`y1lo1y1lo1y1r1y1r1y1
 [GYGYGRGRGRGRGYGY](/stripes/gygygrgrgrgrgygy/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Compaq](/tartans/c/co/compaq-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

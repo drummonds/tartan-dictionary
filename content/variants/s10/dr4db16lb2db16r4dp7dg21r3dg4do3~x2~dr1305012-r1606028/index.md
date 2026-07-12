@@ -6,7 +6,7 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Scottish Lion"
-  url: "/tartans/scottish-lion/"
+  url: "/tartans/s/sc/scottish-lion/"
 - name: "Scottish Lion (Corporate)"
   url: "/setts/dr4db16lb2db16r4dp7dg21r3dg4do3/"
 ---
@@ -14,7 +14,7 @@ This is one **variant** — a specific cloth: this exact thread count and colour
 provenance below. It is one weaving of the [sett](/setts/dr4db16lb2db16r4dp7dg21r3dg4do3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BBWBRBGRGB](/stripes/bbwbrbgrgb/).
 
-Part of the [Scottish Lion](/tartans/scottish-lion/) tartan — the named design grouping this sett with its other cloths.
+Part of the [Scottish Lion](/tartans/s/sc/scottish-lion/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 

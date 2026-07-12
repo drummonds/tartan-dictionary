@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Investors Group"
+  url: "/tartans/i/in/investors-group/"
+- name: "Investors Group"
   url: "/setts/lb7k2w2k2w2k2lb7t4k10w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lb7k2w2k2w2k2lb7t4k10w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKBWKWKWKW](/stripes/wkbwkwkwkw/).
+
+Part of the [Investors Group](/tartans/i/in/investors-group/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 

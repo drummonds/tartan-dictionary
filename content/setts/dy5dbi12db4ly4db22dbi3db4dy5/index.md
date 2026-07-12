@@ -6,7 +6,7 @@ This is the **Daks Muted blue Trade Tartan** sett — one scale-free proportion 
 [GBBBYBBG](/stripes/gbbbybbg/). It is recorded as a single **variant**, below.
 First attested **1987**.
 
-Part of the [Daks](/tartans/daks-13/) tartan — the named design grouping this sett with its kin.
+Part of the [Daks](/tartans/d/da/daks-13/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

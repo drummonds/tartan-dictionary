@@ -6,6 +6,8 @@ This is the **Braveheart Htg (Fashion)** sett — one scale-free proportion (`g3
 [BGBGBGBGBG](/stripes/bgbgbgbgbg/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [Braveheart -Warrior](/tartans/b/br/braveheart-warrior-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

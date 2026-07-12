@@ -6,6 +6,8 @@ This is the **Miss Emma Halford-MacLeod** sett — one scale-free proportion (`w
 [RWGBKWKGKW](/stripes/rwgbkwkgkw/). It is recorded as a single **variant**, below.
 First attested **2009**.
 
+Part of the [Miss Emma Halford-MacLeod](/tartans/m/mi/miss-emma-halford-macleod/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

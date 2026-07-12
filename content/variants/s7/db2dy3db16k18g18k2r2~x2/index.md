@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "McEwan '1856', The"
+  url: "/tartans/m/mc/mcewan-1856-the-2/"
+- name: "McEwan '1856', The"
   url: "/setts/db2dy3db16k18g18k2r2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db2dy3db16k18g18k2r2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BGBKGKR](/stripes/bgbkgkr/).
+
+Part of the [McEwan '1856', The](/tartans/m/mc/mcewan-1856-the-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

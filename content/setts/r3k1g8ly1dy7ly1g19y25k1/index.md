@@ -6,6 +6,8 @@ This is the **Broons, The (DC Thomson)** sett — one scale-free proportion (`r3
 [KGGYGYGKR](/stripes/kggygygkr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Broons, The](/tartans/b/br/broons-the/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

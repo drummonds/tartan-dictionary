@@ -6,7 +6,7 @@ This is the **Remember the Somme 1916** sett — one scale-free proportion (`dg5
 [BGWBBBGG](/stripes/bgwbbbgg/). It is recorded as a single **variant**, below.
 First attested **2014**.
 
-Part of the [Remember the Somme 1916](/tartans/remember-the-somme-1916/) tartan — the named design grouping this sett with its kin.
+Part of the [Remember the Somme 1916](/tartans/r/re/remember-the-somme-1916/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

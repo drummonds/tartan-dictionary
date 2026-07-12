@@ -6,6 +6,8 @@ This is the **Fitzpatrick Irish Family Tartan** sett — one scale-free proporti
 [GGGGGKBKG](/stripes/gggggkbkg/). It is recorded as a single **variant**, below.
 First attested **1880**.
 
+Part of the [Fitzpatrick](/tartans/f/fi/fitzpatrick-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

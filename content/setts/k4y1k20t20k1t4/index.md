@@ -6,6 +6,8 @@ This is the **Oakleigh (Corporate)** sett — one scale-free proportion (`k4y1k2
 [BKBKGK](/stripes/bkbkgk/). It is recorded as a single **variant**, below.
 First attested **~2003**.
 
+Part of the [Oakleigh](/tartans/o/oa/oakleigh/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

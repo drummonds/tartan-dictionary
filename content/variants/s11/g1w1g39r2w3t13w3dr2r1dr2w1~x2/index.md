@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Schuster"
+  url: "/tartans/s/sc/schuster/"
 - name: "Schuster (Perosnal)"
   url: "/setts/g1w1g39r2w3t13w3dr2r1dr2w1/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g1w1g39r2w3t13w3dr2r1dr2w1/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GWGRWBWBRBW](/stripes/gwgrwbwbrbw/).
+
+Part of the [Schuster](/tartans/s/sc/schuster/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 

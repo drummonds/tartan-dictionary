@@ -6,6 +6,8 @@ This is the **MacDonald, Flora (Dance)** sett — one scale-free proportion (`r3
 [RGBWGWBWBWBWR](/stripes/rgbwgwbwbwbwr/). It is recorded as a single **variant**, below.
 First attested **1996**.
 
+Part of the [Flora MacDonald dancing](/tartans/f/fl/flora-macdonald-dancing/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

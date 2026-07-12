@@ -5,12 +5,18 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clan Montrose"
+  url: "/clan/montrose/"
+- name: "Montrose"
+  url: "/tartans/m/mo/montrose/"
 - name: "Montrose (1983)"
   url: "/setts/dg6lo3dg26k10n30lb3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/dg6lo3dg26k10n30lb3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GYGKBW](/stripes/gygkbw/).
+
+Part of the [Montrose](/tartans/m/mo/montrose/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 

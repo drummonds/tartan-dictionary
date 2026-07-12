@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Whiskey & Bourbon"
+  url: "/tartans/w/wh/whiskey-bourbon-2/"
 - name: "Whiskey & Bourbon (Corporate)"
   url: "/setts/lyi8k2w3k4ly3k2lb6k2ly3k4lb3db44k4ly4k4dy5ly5dy5ly6dy5ly5dy5k4dy5lyi5dy5lyi6dy5lyi5dy5k4w6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/lyi8k2w3k4ly3k2lb6k2ly3k4lb3db44k4ly4k4dy5ly5dy5ly6dy5ly5dy5k4dy5lyi5dy5lyi6dy5lyi5dy5k4w6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [WKGYGYGYGKGYGYGYGKYKBWKYKWKYKWKY](/stripes/wkgygygygkgygygygkykbwkykwkykwky/).
+
+Part of the [Whiskey & Bourbon](/tartans/w/wh/whiskey-bourbon-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [32 stripe tartan](/stripes/stripes32/).
 

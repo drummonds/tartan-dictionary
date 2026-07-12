@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Canna Saphire"
+  url: "/tartans/c/ca/canna-saphire/"
 - name: "Canna, Saphire (Dance)"
   url: "/setts/t4w30r4t3r1t1r1t22w2/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/t4w30r4t3r1t1r1t22w2/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWRBRBRBW](/stripes/bwrbrbrbw/).
+
+Part of the [Canna Saphire](/tartans/c/ca/canna-saphire/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 

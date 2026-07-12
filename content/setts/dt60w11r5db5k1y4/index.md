@@ -6,7 +6,7 @@ This is the **Christie (London) Hunting** sett — one scale-free proportion (`d
 [BWRBKG](/stripes/bwrbkg/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
-Part of the [Christie Hunting](/tartans/christie-hunting/) tartan — the named design grouping this sett with its kin.
+Part of the [Christie Hunting](/tartans/c/ch/christie-hunting/) tartan — the named design grouping this sett with its kin.
 
 
 | Scale | Variant | Earliest | |

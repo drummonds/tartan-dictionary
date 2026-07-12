@@ -6,6 +6,8 @@ This is the **Highland Pride 2 (Fashion)** sett — one scale-free proportion (`
 [BKBGBBBBBKW](/stripes/bkbgbbbbbkw/). It is recorded as a single **variant**, below.
 First attested **2013**.
 
+Part of the [Highland Pride 2](/tartans/h/hi/highland-pride-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

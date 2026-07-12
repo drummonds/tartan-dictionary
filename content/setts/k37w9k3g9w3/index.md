@@ -6,6 +6,8 @@ This is the **Glen Coe #2** sett — one scale-free proportion (`k37w9k3g9w3`), 
 [KWKGWGKW](/stripes/kwkgwgkw/). It is recorded as a single **variant**, below.
 First attested **2002**.
 
+Part of the [Glencoe](/tartans/g/gl/glencoe/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

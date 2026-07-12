@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Blairmore"
+  url: "/tartans/b/bl/blairmore/"
+- name: "Blairmore"
   url: "/setts/db34w5db5r5db5do26g33o6/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/db34w5db5r5db5do26g33o6/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BWBRBBGR](/stripes/bwbrbbgr/).
+
+Part of the [Blairmore](/tartans/b/bl/blairmore/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 

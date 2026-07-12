@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Silver Thistle"
+  url: "/tartans/s/si/silver-thistle/"
+- name: "Silver Thistle"
   url: "/setts/k4n2k46db20k6dbi3g4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k4n2k46db20k6dbi3g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [BKBKBKBKBKBG](/stripes/bkbkbkbkbkbg/).
+
+Part of the [Silver Thistle](/tartans/s/si/silver-thistle/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 

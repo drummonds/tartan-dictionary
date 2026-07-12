@@ -6,6 +6,8 @@ This is the **McEwan '1856', The** sett — one scale-free proportion (`db2dy3db
 [BGBKGKR](/stripes/bgbkgkr/). It is recorded as a single **variant**, below.
 First attested **1995**.
 
+Part of the [McEwan '1856', The](/tartans/m/mc/mcewan-1856-the-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

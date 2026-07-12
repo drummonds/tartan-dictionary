@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Duffy"
+  url: "/tartans/d/du/duffy/"
+- name: "Duffy"
   url: "/setts/g8dg60w1k33g9y4g4/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/g8dg60w1k33g9y4g4/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GGGKWGG](/stripes/gggkwgg/).
+
+Part of the [Duffy](/tartans/d/du/duffy/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

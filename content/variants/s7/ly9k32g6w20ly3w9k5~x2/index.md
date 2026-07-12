@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Black & White Golf"
+  url: "/tartans/b/bl/black-white-golf/"
 - name: "Black & White Golf (Corporate)"
   url: "/setts/ly9k32g6w20ly3w9k5/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/ly9k32g6w20ly3w9k5/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KWYWGKY](/stripes/kwywgky/).
+
+Part of the [Black & White Golf](/tartans/b/bl/black-white-golf/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 

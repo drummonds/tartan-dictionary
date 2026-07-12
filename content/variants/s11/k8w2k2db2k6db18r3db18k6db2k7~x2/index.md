@@ -6,11 +6,15 @@ crumbs:
 - name: "Home"
   url: "/"
 - name: "Pride of Norway"
+  url: "/tartans/p/pr/pride-of-norway-2/"
+- name: "Pride of Norway"
   url: "/setts/k8w2k2db2k6db18r3db18k6db2k7/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/k8w2k2db2k6db18r3db18k6db2k7/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [KBKBRBKKBKWKK](/stripes/kbkbrbkkbkwkk/).
+
+Part of the [Pride of Norway](/tartans/p/pr/pride-of-norway-2/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 

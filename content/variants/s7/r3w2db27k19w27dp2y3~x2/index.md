@@ -5,12 +5,16 @@ type: variants
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Christian Dress"
+  url: "/tartans/c/ch/christian-dress/"
 - name: "Christian Dress (Personal)"
   url: "/setts/r3w2db27k19w27dp2y3/"
 ---
 This is one **variant** — a specific cloth: this exact thread count and colourway, with its own
 provenance below. It is one weaving of the [sett](/setts/r3w2db27k19w27dp2y3/) (the scale-free proportion — the
 same cloth at any scale or shade), whose colour order is pattern [GBWKBWR](/stripes/gbwkbwr/).
+
+Part of the [Christian Dress](/tartans/c/ch/christian-dress/) tartan — the named design grouping this sett with its other cloths.
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 

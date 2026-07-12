@@ -6,6 +6,8 @@ This is the **Stewart/Stuart of Galloway (VS)** sett — one scale-free proporti
 [KRKYKWBGRKRWRKRGBWKYKR](/stripes/krkykwbgrkrwrkrgbwkykr/). It is recorded as a single **variant**, below.
 First attested **1842**.
 
+Part of the [Stewart/Stuart of Galloway](/tartans/s/st/stewart-stuart-of-galloway-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

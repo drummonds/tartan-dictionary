@@ -6,6 +6,8 @@ This is the **Cornish Countryside** sett — one scale-free proportion (`do19lo3
 [BYWKGR](/stripes/bywkgr/). It is recorded as a single **variant**, below.
 First attested **2010**.
 
+Part of the [Cornish Countryside](/tartans/c/co/cornish-countryside/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

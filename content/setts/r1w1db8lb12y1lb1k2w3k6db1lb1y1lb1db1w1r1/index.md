@@ -6,6 +6,8 @@ This is the **Buchanan, John & Isabella** sett — one scale-free proportion (`r
 [RWBWGWBKWKWGWBWR](/stripes/rwbwgwbkwkwgwbwr/). It is recorded as a single **variant**, below.
 First attested **2005**.
 
+Part of the [Buchanan, John & Isabella](/tartans/b/bu/buchanan-john-isabella-2/) tartan — the named design grouping this sett with its kin.
+
 
 | Scale | Variant | Earliest | |
 |---|---|---|---|

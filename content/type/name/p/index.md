@@ -34,8 +34,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s5/k1dr9n8y8w1~x2/"><img src="/variants/s5/k1dr9n8y8w1~x2/sett.png" alt="Pople (Name)" width="140"><br>Pople (Name)</a></li>
 <li><a class="tartan" href="/variants/s16/t21k3t15k4n6k3t2dr3t1dy2t1dp3t18k2t2k2~x2/"><img src="/variants/s16/t21k3t15k4n6k3t2dr3t1dy2t1dp3t18k2t2k2~x2/sett.png" alt="Pounds" width="140"><br>Pounds</a></li>
 <li><a class="tartan" href="/variants/s16/t21k3t15k4n6k3t2dr3t1ly2t1dp3t18k2t2k2~x2/"><img src="/variants/s16/t21k3t15k4n6k3t2dr3t1ly2t1dp3t18k2t2k2~x2/sett.png" alt="Pounds (Name)" width="140"><br>Pounds (Name)</a></li>
-<li><a class="tartan" href="/variants/s5/dp30ly7w6db30y8~x2/"><img src="/variants/s5/dp30ly7w6db30y8~x2/sett.png" alt="Pownall (2015)" width="140"><br>Pownall (2015)</a></li>
 <li><a class="tartan" href="/variants/s5/dp30y7w6db30ly8~x2~y2203076-ly3307090/"><img src="/variants/s5/dp30y7w6db30ly8~x2~y2203076-ly3307090/sett.png" alt="Pownall (2015)" width="140"><br>Pownall (2015)</a></li>
+<li><a class="tartan" href="/variants/s5/dp30ly7w6db30y8~x2/"><img src="/variants/s5/dp30ly7w6db30y8~x2/sett.png" alt="Pownall (2015)" width="140"><br>Pownall (2015)</a></li>
 <li><a class="tartan" href="/variants/s13/db17k2m2db17k14dy1w2dy1k4dy1w2dy1k14~x2/"><img src="/variants/s13/db17k2m2db17k14dy1w2dy1k4dy1w2dy1k14~x2/sett.png" alt="Presley of Lonmay #2" width="140"><br>Presley of Lonmay #2</a></li>
 <li><a class="tartan" href="/variants/s11/r4g64y4g4k6db4y4db56w4db4w1/"><img src="/variants/s11/r4g64y4g4k6db4y4db56w4db4w1/sett.png" alt="Pringle" width="140"><br>Pringle</a></li>
 <li><a class="tartan" href="/variants/s14/dg78k4dg4k4dg4k6db26k4w8k4db26k6dg48g3/"><img src="/variants/s14/dg78k4dg4k4dg4k6db26k4w8k4db26k6dg48g3/sett.png" alt="Proctor" width="140"><br>Proctor</a></li>

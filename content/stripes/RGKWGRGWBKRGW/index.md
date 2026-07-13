@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s13/r28g10k7w2y2r1y2w2db5k2r2y2w3~x4/">MacGill</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s13/r28g10k7w2y2r1y2w2db5k2r2y2w3~x4/"><img src="/variants/s13/r28g10k7w2y2r1y2w2db5k2r2y2w3~x4/sett.png" alt="MacGill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s13/r41g13k8w2y2r1y2w2db6k2r3y2w5/">MacGill</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s13/r41g13k8w2y2r1y2w2db6k2r3y2w5/"><img src="/variants/s13/r41g13k8w2y2r1y2w2db6k2r3y2w5/sett.png" alt="MacGill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/r28g10k7w2y2r1y2w2db5k2r2y2w3~x4/">MacGill</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s13/r28g10k7w2y2r1y2w2db5k2r2y2w3~x4/"><img src="/variants/s13/r28g10k7w2y2r1y2w2db5k2r2y2w3~x4/sett.png" alt="MacGill sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s13/r47g16k8w3y3r2y3w3db6k3r4y4w3~x2/">MacGill Clan Tartan</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s13/r47g16k8w3y3r2y3w3db6k3r4y4w3~x2/"><img src="/variants/s13/r47g16k8w3y3r2y3w3db6k3r4y4w3~x2/sett.png" alt="MacGill Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

@@ -15,8 +15,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s21/w6k20db2k2db29k2db2k3dr2k2dr4k2dr2k3g2k2g29k2g2k20w6~x2/"><img src="/variants/s21/w6k20db2k2db29k2db2k3dr2k2dr4k2dr2k3g2k2g29k2g2k20w6~x2/sett.png" alt="Genet of An Gwylvos (Montana)" width="140"><br>Genet of An Gwylvos (Montana)</a></li>
 <li><a class="tartan" href="/variants/s10/k60n4dg25g3dg4w1db1r1w1db3~x2/"><img src="/variants/s10/k60n4dg25g3dg4w1db1r1w1db3~x2/sett.png" alt="Gettelman (2016)" width="140"><br>Gettelman (2016)</a></li>
 <li><a class="tartan" href="/variants/s13/dg1r16w1db2w2ly4w2ly4w2db2w1dg16lb1~x4/"><img src="/variants/s13/dg1r16w1db2w2ly4w2ly4w2db2w1dg16lb1~x4/sett.png" alt="Gibbs/Gibson (Name)" width="140"><br>Gibbs/Gibson (Name)</a></li>
-<li><a class="tartan" href="/variants/s6/k42w5k5dg16k5db21~x2/"><img src="/variants/s6/k42w5k5dg16k5db21~x2/sett.png" alt="Givens (Arizona)" width="140"><br>Givens (Arizona)</a></li>
 <li><a class="tartan" href="/variants/s5/k42w5dg16k10db21~x2/"><img src="/variants/s5/k42w5dg16k10db21~x2/sett.png" alt="Givens (Arizona)" width="140"><br>Givens (Arizona)</a></li>
+<li><a class="tartan" href="/variants/s6/k42w5k5dg16k5db21~x2/"><img src="/variants/s6/k42w5k5dg16k5db21~x2/sett.png" alt="Givens (Arizona)" width="140"><br>Givens (Arizona)</a></li>
 <li><a class="tartan" href="/variants/s8/db4r1y12r2y2r12y1db4~x4/"><img src="/variants/s8/db4r1y12r2y2r12y1db4~x4/sett.png" alt="Glassary #2" width="140"><br>Glassary #2</a></li>
 <li><a class="tartan" href="/variants/s8/db4y1r12y2r2y12r1y4~x4/"><img src="/variants/s8/db4y1r12y2r2y12r1y4~x4/sett.png" alt="Glassary #3" width="140"><br>Glassary #3</a></li>
 <li><a class="tartan" href="/variants/s29/w2r2g3r6w1k1w1r6k1g3k1dy4k1w1lb2w1k1dy4k1g3k1y6w1k1w1y6g3y2w2~x2/"><img src="/variants/s29/w2r2g3r6w1k1w1r6k1g3k1dy4k1w1lb2w1k1dy4k1g3k1y6w1k1w1y6g3y2w2~x2/sett.png" alt="Glassary (Initial)" width="140"><br>Glassary (Initial)</a></li>

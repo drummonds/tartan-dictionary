@@ -397,8 +397,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s9/t3r2dg16r2t3r2n16r2t3~x4/"><img src="/variants/s9/t3r2dg16r2t3r2n16r2t3~x4/sett.png" alt="MacPherson Gathering 1996" width="140"><br>MacPherson Gathering 1996</a></li>
 <li><a class="tartan" href="/variants/s9/t1r1k8r1t1r1n8r1t1~x4/"><img src="/variants/s9/t1r1k8r1t1r1n8r1t1~x4/sett.png" alt="MacPherson Htg" width="140"><br>MacPherson Htg</a></li>
 <li><a class="tartan" href="/variants/s9/t11r1k8r1t1r1n8r1t1~x4/"><img src="/variants/s9/t11r1k8r1t1r1n8r1t1~x4/sett.png" alt="MacPherson Hunting" width="140"><br>MacPherson Hunting</a></li>
-<li><a class="tartan" href="/variants/s10/r5dp2r2g42r5dp36r70dp4r7g2/"><img src="/variants/s10/r5dp2r2g42r5dp36r70dp4r7g2/sett.png" alt="MacPherson of Cluny" width="140"><br>MacPherson of Cluny</a></li>
 <li><a class="tartan" href="/variants/s11/r5k2r2g42r5k36r70k2y2r7g2/"><img src="/variants/s11/r5k2r2g42r5k36r70k2y2r7g2/sett.png" alt="MacPherson of Cluny" width="140"><br>MacPherson of Cluny</a></li>
+<li><a class="tartan" href="/variants/s10/r5dp2r2g42r5dp36r70dp4r7g2/"><img src="/variants/s10/r5dp2r2g42r5dp36r70dp4r7g2/sett.png" alt="MacPherson of Cluny" width="140"><br>MacPherson of Cluny</a></li>
 <li><a class="tartan" href="/variants/s7/w5r3w35k28w4k11w2~x2/"><img src="/variants/s7/w5r3w35k28w4k11w2~x2/sett.png" alt="MacPherson of Cluny (Black and White)" width="140"><br>MacPherson of Cluny (Black and White)</a></li>
 <li><a class="tartan" href="/variants/s9/db1dr1k8dr1db1dr1w8dr1db1~x4/"><img src="/variants/s9/db1dr1k8dr1db1dr1w8dr1db1~x4/sett.png" alt="MacPherson of Pitmain" width="140"><br>MacPherson of Pitmain</a></li>
 <li><a class="tartan" href="/variants/s7/r6k3r29k23w4k7y3~x2/"><img src="/variants/s7/r6k3r29k23w4k7y3~x2/sett.png" alt="MacPherson Red Cluny" width="140"><br>MacPherson Red Cluny</a></li>

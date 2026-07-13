@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r5db58lb4n6y4k4~x2~db1406275-n2203265/">Kendle (2013)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r5db58lb4n6y4k4~x2~db1406275-n2203265/"><img src="/variants/s6/r5db58lb4n6y4k4~x2~db1406275-n2203265/sett.png" alt="Kendle (2013) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/r5db58lb4t6y4k4~x2~lb3103284-t2503227/">Kendle (2013)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/r5db58lb4t6y4k4~x2~lb3103284-t2503227/"><img src="/variants/s6/r5db58lb4t6y4k4~x2~lb3103284-t2503227/sett.png" alt="Kendle (2013) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r5db58lb4n6y4k4~x2~db1406275-n2203265/">Kendle (2013)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r5db58lb4n6y4k4~x2~db1406275-n2203265/"><img src="/variants/s6/r5db58lb4n6y4k4~x2~db1406275-n2203265/sett.png" alt="Kendle (2013) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s6/r5db40w1db13dg8k4~x2/">London Caledonian Rugby Club</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/r5db40w1db13dg8k4~x2/"><img src="/variants/s6/r5db40w1db13dg8k4~x2/sett.png" alt="London Caledonian Rugby Club sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

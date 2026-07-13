@@ -215,9 +215,11 @@
   }
 
   /* Build the sample sheet as a PDF (rendered in pure Go via the wasm engine — name, woven sample,
-   * thread count, palette) and download it directly, no server and no browser print dialog. */
+   * thread count, palette) and download it directly, no server and no browser print dialog. The
+   * user's name and exact palette ride along so the PDF titles and dyes exactly as the page shows. */
   function downloadSheet(info, paper, scale) {
-    var res = window.weaver.sampleSheet(info.slug, paper || 'A4', scale || 'reduced');
+    var res = window.weaver.sampleSheet(info.slug, paper || 'A4', scale || 'reduced',
+      info.name || '', overlayArg());
     if (!res || res.error) {
       statLine('sample sheet failed: ' + ((res && res.error) || 'unknown'));
       return;

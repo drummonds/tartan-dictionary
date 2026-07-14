@@ -34,7 +34,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/u/u/u-s-coast-guard-2/"><img src="/variants/s5/db6r1db6r5w5~x4/sett.png" alt="U.S. Coast Guard sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/c/ca/callum-2/">Callum</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ca/callum-2/"><img src="/variants/s5/n7r1dt6r8lb1~x8/sett.png" alt="Callum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ca/callum-2/"><img src="/variants/s5/dt7r1n6r8lb1~x8/sett.png" alt="Callum sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/j/ja/jardine-4/">Jardine</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/j/ja/jardine-4/"><img src="/variants/s5/do18o9n9r1lb1~x4/sett.png" alt="Jardine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

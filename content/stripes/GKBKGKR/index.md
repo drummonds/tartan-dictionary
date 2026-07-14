@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/g/gr/green-macleod/">Green MacLeod</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gr/green-macleod/"><img src="/variants/s7/y4k2t20k10g15k2r3~x2/sett.png" alt="Green MacLeod sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macleod/">MacLeod</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/macleod/"><img src="/variants/s7/r3k2g15k10db21k1y2/sett.png" alt="MacLeod sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macleod/"><img src="/variants/s7/r3k2g15k10db20k2y2/sett.png" alt="MacLeod sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macleod-small/">MacLeod Small</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macleod-small/"><img src="/variants/s7/r1k1g7k5db10k1y1~x2/sett.png" alt="MacLeod Small sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

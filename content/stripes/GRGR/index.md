@@ -35,7 +35,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/m/ma/macdonald-lord-of-the-isles/">MacDonald Lord of the Isles</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-lord-of-the-isles/"><img src="/variants/s4/r38g2r5g16/sett.png" alt="MacDonald Lord of the Isles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macdonald-of-sleat/">MacDonald of Sleat</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-sleat/"><img src="/variants/s4/r36dg2r5dg16~x2/sett.png" alt="MacDonald of Sleat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/macdonald-of-sleat/"><img src="/variants/s4/r36g2r5g16~x2/sett.png" alt="MacDonald of Sleat sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/mi/middleton/">Middleton</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/mi/middleton/"><img src="/variants/s4/g16r1g2r11~x8/sett.png" alt="Middleton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>

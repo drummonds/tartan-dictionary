@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/k/ka/karibu/">Karibu</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/ka/karibu/"><img src="/variants/s9/g12w1r1w4r1w1r8y2r1~x4/sett.png" alt="Karibu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ka/karibu/"><img src="/variants/s9/g12w1r1w4r1w1r8dy2r1~x4/sett.png" alt="Karibu sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

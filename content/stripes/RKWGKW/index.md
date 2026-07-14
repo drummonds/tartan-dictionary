@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/co/cornish-national-2/">Cornish National</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/co/cornish-national-2/"><img src="/variants/s6/w5k26y26lb7k3r3~x2/sett.png" alt="Cornish National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cornish-national-2/"><img src="/variants/s6/w5k26dy26lb7k3r3~x2/sett.png" alt="Cornish National sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/co/cornish-national-small-set/">Cornish National Small Set</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/co/cornish-national-small-set/"><img src="/variants/s6/w2k11y11lb3k1r1~x2/sett.png" alt="Cornish National Small Set sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

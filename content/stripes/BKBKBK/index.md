@@ -33,7 +33,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/f/fr/freedom-of-scotland/">Freedom of Scotland</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/f/fr/freedom-of-scotland/"><img src="/variants/s6/k15n7k6n11k50n4~x2/sett.png" alt="Freedom of Scotland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/g/gr/grey-spirit/">Grey Spirit</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gr/grey-spirit/"><img src="/variants/s6/n6k16n6k16n45k4~x2/sett.png" alt="Grey Spirit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grey-spirit/"><img src="/variants/s6/n6k17n6k17n45k4~x2/sett.png" alt="Grey Spirit sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/hi/highland-4/">Highland</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/h/hi/highland-4/"><img src="/variants/s6/k4n4k1n4k4n1~x4/sett.png" alt="Highland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/si/silver-mist-2/">Silver Mist</a></td></tr>

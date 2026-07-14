@@ -44,8 +44,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s13/b3t3b3t3b3g22t2y2t22r5b8y2t2~x2/"><img src="/variants/s13/b3t3b3t3b3g22t2y2t22r5b8y2t2~x2/sett.png" alt="Pitcairn Heritage Hunting" width="140"><br>Pitcairn Heritage Hunting</a></li>
 <li><a class="tartan" href="/variants/s8/db1r1y1k15y15r1db1y1~x4/"><img src="/variants/s8/db1r1y1k15y15r1db1y1~x4/sett.png" alt="Pittsburgh St Andrew's Society" width="140"><br>Pittsburgh St Andrew's Society</a></li>
 <li><a class="tartan" href="/variants/s12/n2k3dp1k45n1k2n2k2dg4r1dg1w1~x2/"><img src="/variants/s12/n2k3dp1k45n1k2n2k2dg4r1dg1w1~x2/sett.png" alt="Platinum Golf Scotland" width="140"><br>Platinum Golf Scotland</a></li>
-<li><a class="tartan" href="/variants/s7/r3k11dg29k28g19y2db1~x2~dg1504144-g2408144/"><img src="/variants/s7/r3k11dg29k28g19y2db1~x2~dg1504144-g2408144/sett.png" alt="PMMC" width="140"><br>PMMC</a></li>
 <li><a class="tartan" href="/variants/s7/r3k11dg29k28g19ly2db1~x2~dg1806142-g2408144/"><img src="/variants/s7/r3k11dg29k28g19ly2db1~x2~dg1806142-g2408144/sett.png" alt="PMMC" width="140"><br>PMMC</a></li>
+<li><a class="tartan" href="/variants/s7/r3k11dg29k28g19y2db1~x2~dg1504144-g2408144/"><img src="/variants/s7/r3k11dg29k28g19y2db1~x2~dg1504144-g2408144/sett.png" alt="PMMC" width="140"><br>PMMC</a></li>
 <li><a class="tartan" href="/variants/s7/db2k4kii36g1ki34db4w2~x2~kii0803152-ki0604259/"><img src="/variants/s7/db2k4kii36g1ki34db4w2~x2~kii0803152-ki0604259/sett.png" alt="Police College Tulliallan" width="140"><br>Police College Tulliallan</a></li>
 <li><a class="tartan" href="/variants/s11/k7ly3db62n16g5n5g5n5g16db16k4/"><img src="/variants/s11/k7ly3db62n16g5n5g5n5g16db16k4/sett.png" alt="Polkemmet (Corporate)" width="140"><br>Polkemmet (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s4/lb24o9n23y3~x2~o2500000-n1900000/"><img src="/variants/s4/lb24o9n23y3~x2~o2500000-n1900000/sett.png" alt="Porcelanosa" width="140"><br>Porcelanosa</a></li>

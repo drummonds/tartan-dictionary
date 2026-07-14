@@ -29,9 +29,9 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/bh/bhatti/">Bhatti</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/bh/bhatti/"><img src="/variants/s5/k7lt3dg18db18w2~x2/sett.png" alt="Bhatti sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bh/bhatti/"><img src="/variants/s5/k7lb3g18db18w2~x2/sett.png" alt="Bhatti sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/d/do/douglas/">Douglas</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/do/douglas/"><img src="/variants/s5/k2lb2g8db8w1/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/douglas/"><img src="/variants/s5/k2w2g8db8w1/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/d/do/dougles/">Dougles</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/do/dougles/"><img src="/variants/s5/k4lb2g8db8w1/sett.png" alt="Dougles sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>

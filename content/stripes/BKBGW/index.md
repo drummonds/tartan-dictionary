@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/k/ka/kansai-highland-games/">Kansai Highland Games</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/ka/kansai-highland-games/"><img src="/variants/s5/dp2k1dp16g17w2~x4/sett.png" alt="Kansai Highland Games sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ka/kansai-highland-games/"><img src="/variants/s5/dp2k1dp16g16w2~x4/sett.png" alt="Kansai Highland Games sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

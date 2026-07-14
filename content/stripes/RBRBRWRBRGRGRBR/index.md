@@ -28,8 +28,6 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/tartans/d/dr/drummond-8/">Drummond</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/dr/drummond-8/"><img src="/variants/s15/r6t2r2g24r2g2r2t8r2lb1r32t2r2t1r6~x2/sett.png" alt="Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/d/dr/drummond-of-megginch/">Drummond of Megginch</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/dr/drummond-of-megginch/"><img src="/variants/s15/r26db2r6db6r126lb6r6db38r6dg6r6dg130r19db6r18~r2109032-db0906265-lb3203246-dg1405139/sett.png" alt="Drummond of Megginch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/g/gr/grant-d/">Grant D</a></td></tr>
@@ -41,6 +39,8 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/g/gr/grant-or-drummond/">Grant or Drummond</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gr/grant-or-drummond/"><img src="/variants/s15/r6db2r2g24r2g2r2db8r2lb2r32db2r2db1r6~x2/sett.png" alt="Grant or Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/d/dr/drummond-8/">Drummond</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/dr/drummond-8/"><img src="/variants/s15/r6dp2r2dg24r2dg2r2dp8r2lb1r32dp2r2dp1r6~x2/sett.png" alt="Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/g/gr/grant-3/">Grant</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gr/grant-3/"><img src="/variants/s15/r15dp1r2dp2r78lb1r2dp21r3g2r3g79r2dp2r10/sett.png" alt="Grant sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

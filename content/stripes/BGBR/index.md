@@ -37,7 +37,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/h/he/heslop-lurdenlaw-by-kelso/"><img src="/variants/s4/n44dg12db1r6~x2/sett.png" alt="Heslop Lurdenlaw by Kelso sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/h/hi/highland-spring-4/">Highland Spring</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/hi/highland-spring-4/"><img src="/variants/s4/dp5g3dp19r5~x2/sett.png" alt="Highland Spring sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/hi/highland-spring-4/"><img src="/variants/s4/dp5g2dp19r5~x2/sett.png" alt="Highland Spring sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

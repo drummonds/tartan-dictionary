@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/pr/prince-george/">Prince George</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pr/prince-george/"><img src="/variants/s11/g6w4g3w4g2w7g2w2g5r15w2~x2/sett.png" alt="Prince George sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/prince-george/"><img src="/variants/s11/dg6w4dg3w4dg2w7dg2w2dg5r15w2~x2/sett.png" alt="Prince George sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

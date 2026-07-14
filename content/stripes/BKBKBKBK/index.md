@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/d/do/douglas-3/">Douglas</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/d/do/douglas-3/"><img src="/variants/s8/k10n1k2n1k4n10k1n2~x4/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/d/do/douglas-3/"><img src="/variants/s8/k9n1k2n1k4n9k1n2~x4/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/d/do/douglas-vs/">Douglas VS</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/do/douglas-vs/"><img src="/variants/s8/k16n1k1n1k8n16k1n2~x2/sett.png" alt="Douglas VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/sp/spirit-of-glyndwr/">Spirit of Glyndwr</a></td></tr>

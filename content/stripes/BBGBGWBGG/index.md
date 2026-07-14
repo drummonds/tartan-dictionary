@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/b/bo/boucherville/">Boucherville</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/b/bo/boucherville/"><img src="/variants/s9/g20y2n5w4g2n2g2n2t6~x2~w4000000/sett.png" alt="Boucherville sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/b/bo/boucherville/"><img src="/variants/s9/g20y2n5w4g2n2g2n2db6~x2/sett.png" alt="Boucherville sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

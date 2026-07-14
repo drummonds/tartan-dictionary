@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/p/po/poulter-millicent/">Poulter Millicent</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/po/poulter-millicent/"><img src="/variants/s13/g36w7g7w7g7lb36w35dp7w36lb35g34w7g7/sett.png" alt="Poulter Millicent sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/po/poulter-millicent/"><img src="/variants/s13/g69w14g13w14g13lb69w72dp13w72lb69g68w14g13/sett.png" alt="Poulter Millicent sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

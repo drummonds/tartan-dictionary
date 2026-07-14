@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/s/sh/shaw/">Shaw</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/s/sh/shaw/"><img src="/variants/s8/lb5k1r30dr15r8g30r8dr2/sett.png" alt="Shaw sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/s/sh/shaw/"><img src="/variants/s8/w5k1r30db15r8g30r8db2/sett.png" alt="Shaw sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/s/sh/shaw-of-tordarroch-2/">Shaw of Tordarroch</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/s/sh/shaw-of-tordarroch-2/"><img src="/variants/s8/lb5k1r30dp15r8g30r8dp2/sett.png" alt="Shaw of Tordarroch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

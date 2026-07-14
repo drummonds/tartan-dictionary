@@ -15,8 +15,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s21/w6k20db2k2db29k2db2k3dr2k2dr4k2dr2k3g2k2g29k2g2k20w6~x2/"><img src="/variants/s21/w6k20db2k2db29k2db2k3dr2k2dr4k2dr2k3g2k2g29k2g2k20w6~x2/sett.png" alt="Genet of An Gwylvos (Montana)" width="140"><br>Genet of An Gwylvos (Montana)</a></li>
 <li><a class="tartan" href="/variants/s10/k60n4dg25g3dg4w1db1r1w1db3~x2/"><img src="/variants/s10/k60n4dg25g3dg4w1db1r1w1db3~x2/sett.png" alt="Gettelman (2016)" width="140"><br>Gettelman (2016)</a></li>
 <li><a class="tartan" href="/variants/s13/dg1r16w1db2w2ly4w2ly4w2db2w1dg16lb1~x4/"><img src="/variants/s13/dg1r16w1db2w2ly4w2ly4w2db2w1dg16lb1~x4/sett.png" alt="Gibbs/Gibson (Name)" width="140"><br>Gibbs/Gibson (Name)</a></li>
-<li><a class="tartan" href="/variants/s5/k42w5dg16k10db21~x2/"><img src="/variants/s5/k42w5dg16k10db21~x2/sett.png" alt="Givens (Arizona)" width="140"><br>Givens (Arizona)</a></li>
 <li><a class="tartan" href="/variants/s6/k42w5k5dg16k5db21~x2/"><img src="/variants/s6/k42w5k5dg16k5db21~x2/sett.png" alt="Givens (Arizona)" width="140"><br>Givens (Arizona)</a></li>
+<li><a class="tartan" href="/variants/s5/k42w5dg16k10db21~x2/"><img src="/variants/s5/k42w5dg16k10db21~x2/sett.png" alt="Givens (Arizona)" width="140"><br>Givens (Arizona)</a></li>
 <li><a class="tartan" href="/variants/s8/db4r1y12r2y2r12y1db4~x4/"><img src="/variants/s8/db4r1y12r2y2r12y1db4~x4/sett.png" alt="Glassary #2" width="140"><br>Glassary #2</a></li>
 <li><a class="tartan" href="/variants/s8/db4y1r12y2r2y12r1y4~x4/"><img src="/variants/s8/db4y1r12y2r2y12r1y4~x4/sett.png" alt="Glassary #3" width="140"><br>Glassary #3</a></li>
 <li><a class="tartan" href="/variants/s29/w2r2g3r6w1k1w1r6k1g3k1dy4k1w1lb2w1k1dy4k1g3k1y6w1k1w1y6g3y2w2~x2/"><img src="/variants/s29/w2r2g3r6w1k1w1r6k1g3k1dy4k1w1lb2w1k1dy4k1g3k1y6w1k1w1y6g3y2w2~x2/sett.png" alt="Glassary (Initial)" width="140"><br>Glassary (Initial)</a></li>
@@ -24,8 +24,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s14/k3y3k3y3k3y3k3y3k36w1k2db9r2db1~x2/"><img src="/variants/s14/k3y3k3y3k3y3k3y3k36w1k2db9r2db1~x2/sett.png" alt="Goldwire (2015)" width="140"><br>Goldwire (2015)</a></li>
 <li><a class="tartan" href="/variants/s28/db2k2db11k12g12ly2g12k12db2k2db2k2db12k2db2k2db2k12g12ly2k12g12ly2g12k12db11k2db1~x4/"><img src="/variants/s28/db2k2db11k12g12ly2g12k12db2k2db2k2db12k2db2k2db2k12g12ly2k12g12ly2g12k12db11k2db1~x4/sett.png" alt="Gordon" width="140"><br>Gordon</a></li>
 <li><a class="tartan" href="/variants/s25/db2k2db11k12dg12ly2dg12k12db2k2db2k2db12k2db2k2db2k12dg12ly2dg12k12db11k2db1~x4/"><img src="/variants/s25/db2k2db11k12dg12ly2dg12k12db2k2db2k2db12k2db2k2db2k12dg12ly2dg12k12db11k2db1~x4/sett.png" alt="Gordon of The Burn" width="140"><br>Gordon of The Burn</a></li>
-<li><a class="tartan" href="/variants/s7/o3dp8g20k20db17k3lb3~x2/"><img src="/variants/s7/o3dp8g20k20db17k3lb3~x2/sett.png" alt="Gracey (2013)" width="140"><br>Gracey (2013)</a></li>
 <li><a class="tartan" href="/variants/s7/r3dp8g20k20db17k3lg3~x2/"><img src="/variants/s7/r3dp8g20k20db17k3lg3~x2/sett.png" alt="Gracey (2013)" width="140"><br>Gracey (2013)</a></li>
+<li><a class="tartan" href="/variants/s7/o3dp8g20k20db17k3lb3~x2/"><img src="/variants/s7/o3dp8g20k20db17k3lb3~x2/sett.png" alt="Gracey (2013)" width="140"><br>Gracey (2013)</a></li>
 <li><a class="tartan" href="/variants/s5/g47dr3g6db35lo3~x2/"><img src="/variants/s5/g47dr3g6db35lo3~x2/sett.png" alt="Gracie" width="140"><br>Gracie</a></li>
 <li><a class="tartan" href="/variants/s7/db3g13lb1r3lb1db10y1~x2/"><img src="/variants/s7/db3g13lb1r3lb1db10y1~x2/sett.png" alt="Graeme Heckenberg Hunting" width="140"><br>Graeme Heckenberg Hunting</a></li>
 <li><a class="tartan" href="/variants/s11/k2db12k12g1t2g16t2g1k12db12k1~x4/"><img src="/variants/s11/k2db12k12g1t2g16t2g1k12db12k1~x4/sett.png" alt="Graham" width="140"><br>Graham</a></li>

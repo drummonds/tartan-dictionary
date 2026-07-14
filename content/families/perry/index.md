@@ -25,6 +25,6 @@ crumbs:
 <tr><td><a href="/tartans/p/pe/perry-hunting/">Perry Hunting</a></td><td>1986</td><td>1</td><td>1</td><td>4.41</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/p/pe/perry-hunting/"><img src="/variants/s5/k75g26lr2g4lo5~x2/sett.png" alt="Perry Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/p/pe/perry/">Perry</a></td><td>1982</td><td>1</td><td>1</td><td>6.98</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/p/pe/perry/"><img src="/variants/s4/ly75k29ly4y6~x2~ly3307090-k0700000/sett.png" alt="Perry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/p/pe/perry/"><img src="ly75k29ly4y6-rev.png" alt="Perry sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/i/in/innes-5/">Innes</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/i/in/innes-5/"><img src="/variants/s16/lb7k24r4k4r4k4r24y4r6db12r6k4g20k4r6w4/sett.png" alt="Innes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/i/in/innes-d/">Innes D</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/i/in/innes-d/"><img src="/variants/s16/lb3k12r2k2r2k2r12y2r3db6r3k2g10k2r3w2/sett.png" alt="Innes D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/i/in/innes-d/"><img src="/variants/s16/w3k12r2k2r2k2r12y2r3db6r3k2g10k2r3w2/sett.png" alt="Innes D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

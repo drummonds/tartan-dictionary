@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/m/mc/mcgran/">McGran</a> ★</td><td>2005</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mc/mcgran/"><img src="/variants/s26/dp3g3dg32dp2dg4dp4dg3g10dp2r2w1g1r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142/sett.png" alt="McGran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/mc/mcgran-2/">McGran</a></td><td>2005</td><td>1</td><td>1</td><td>2.78</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mc/mcgran-2/"><img src="r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2-rev.png" alt="McGran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mc/mcgran-2/"><img src="/variants/s14/r3g1w1r2dp2g10dg3dp4dg4dp2dg32g3dp3ly2~x2~g2408144-dg1806142/sett.png" alt="McGran sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

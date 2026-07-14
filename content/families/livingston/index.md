@@ -21,6 +21,6 @@ crumbs:
 <tr><td><a href="/tartans/l/li/livingston-2/">Livingston</a></td><td>1996</td><td>1</td><td>1</td><td>3.88</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/l/li/livingston-2/"><img src="g26r5k1r2k1r5g16r5w16g2w8-rev.png" alt="Livingston sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/l/li/livingston-dress/">Livingston, dress</a></td><td>—</td><td>1</td><td>1</td><td>10.14</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/l/li/livingston-dress/"><img src="db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12-rev.png" alt="Livingston, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/l/li/livingston-dress/"><img src="/variants/s16/db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12/sett.png" alt="Livingston, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

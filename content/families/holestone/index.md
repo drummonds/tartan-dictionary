@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/h/ho/holestone/">Holestone</a> ★</td><td>—</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ho/holestone/"><img src="/variants/s14/ly8k26o6g15o6k26w2k26o6g15o6k26ly8k4~x2/sett.png" alt="Holestone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/ho/holestone-2/">Holestone</a></td><td>~2005</td><td>1</td><td>1</td><td>2.51</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ho/holestone-2/"><img src="/variants/s8/k4ly8k26o6g15o6k26w2~x2/sett.png" alt="Holestone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ho/holestone-2/"><img src="k4ly8k26o6g15o6k26w2-rev.png" alt="Holestone sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/c/co/compaq-2/">Compaq</a> ★</td><td>2002</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/co/compaq-2/"><img src="/variants/s16/y1lo1y1lo1y1r1y1r1y1r1y1r1y1lo1y1lo1~x6/sett.png" alt="Compaq sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/co/compaq/">Compaq</a></td><td>—</td><td>1</td><td>1</td><td>2.00</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/co/compaq/"><img src="/variants/s9/y1r1y1r1y1b1y1b1y1~x6/sett.png" alt="Compaq sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/co/compaq/"><img src="y1r1y1r1y1b1y1b1y1-rev.png" alt="Compaq sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -19,6 +19,6 @@ crumbs:
 <tr><td><a href="/tartans/d/di/dickson/">Dickson</a></td><td>2009</td><td>2</td><td>2</td><td>6.85</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/di/dickson/"><img src="/variants/s7/lb6k8lb6g12db29w3db4~x2/sett.png" alt="Dickson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/d/di/dickson-2/">Dickson</a></td><td>2009</td><td>1</td><td>1</td><td>9.12</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/di/dickson-2/"><img src="/variants/s7/n6dbi8n8g12db29w3db4~x2~dbi1105279/sett.png" alt="Dickson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/di/dickson-2/"><img src="n6dbi8n8g12db29w3db4-rev.png" alt="Dickson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

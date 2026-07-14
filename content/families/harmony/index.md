@@ -29,7 +29,7 @@ crumbs:
 <tr><td><a href="/tartans/h/ha/harmony-5/">Harmony 5</a></td><td>—</td><td>1</td><td>1</td><td>10.37</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ha/harmony-5/"><img src="g9r3g4dy3g3dy4g3o11ly30r3ly4g3-rev.png" alt="Harmony 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/ha/harmony-6-2/">Harmony, 6</a></td><td>—</td><td>1</td><td>1</td><td>11.11</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ha/harmony-6-2/"><img src="g2b10o15g10b2-rev.png" alt="Harmony, 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ha/harmony-6-2/"><img src="/variants/s5/g2b10o15g10b2~x4/sett.png" alt="Harmony, 6 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/ha/harmony-12/">Harmony 12</a></td><td>—</td><td>2</td><td>2</td><td>11.37</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ha/harmony-12/"><img src="/variants/s6/db6g2db29g29db2g6~x2/sett.png" alt="Harmony 12 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/ha/harmony-8-2/">Harmony 8</a></td><td>—</td><td>1</td><td>1</td><td>12.02</td></tr>
@@ -45,9 +45,9 @@ crumbs:
 <tr><td><a href="/tartans/h/ha/harmony-8/">Harmony 8</a></td><td>—</td><td>1</td><td>1</td><td>13.09</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ha/harmony-8/"><img src="do2n10o15do10n2-rev.png" alt="Harmony 8 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/ha/harmony-9/">Harmony 9</a></td><td>—</td><td>1</td><td>1</td><td>13.12</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ha/harmony-9/"><img src="dy2y10r15dy10y2-rev.png" alt="Harmony 9 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ha/harmony-9/"><img src="/variants/s5/dy2y10r15dy10y2~x4/sett.png" alt="Harmony 9 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/ha/harmony-14-2/">Harmony 14</a></td><td>—</td><td>1</td><td>1</td><td>13.74</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ha/harmony-14-2/"><img src="g3n16o11n2y11n2y11n2o11n16w3-rev.png" alt="Harmony 14 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ha/harmony-14-2/"><img src="/variants/s11/g3n16o11n2y11n2y11n2o11n16w3~x2/sett.png" alt="Harmony 14 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/ha/harmony-11-3/">Harmony, 11</a></td><td>—</td><td>1</td><td>1</td><td>15.44</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ha/harmony-11-3/"><img src="/variants/s6/o6g2o29g29o2g6~x2/sett.png" alt="Harmony, 11 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/ha/harmony-11/">Harmony 11</a></td><td>—</td><td>1</td><td>1</td><td>17.46</td></tr>

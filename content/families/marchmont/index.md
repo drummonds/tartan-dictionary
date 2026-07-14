@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/m/ma/marchmont-2/">Marchmont</a> ★</td><td>1997</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/marchmont-2/"><img src="/variants/s12/db12k12g1k12db12g1db12k12g1k12db12k1~x4/sett.png" alt="Marchmont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/marchmont/">Marchmont</a></td><td>1997</td><td>2</td><td>2</td><td>3.37</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/marchmont/"><img src="/variants/s7/k1db12k12b1k12db12w1~x4/sett.png" alt="Marchmont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/marchmont/"><img src="k1db12k12b1k12db12w1-rev.png" alt="Marchmont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

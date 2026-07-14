@@ -21,25 +21,25 @@ crumbs:
 <tr><td><a href="/tartans/w/wc/wcwm-1105/">Wcwm 1105</a></td><td>2002</td><td>1</td><td>1</td><td>4.57</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1105/"><img src="/variants/s12/b84dr3k16ly4k4w4k4dg20b8k4b8w4/sett.png" alt="Wcwm 1105 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wc/wcwm-1138/">Wcwm 1138</a></td><td>—</td><td>1</td><td>1</td><td>4.82</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1138/"><img src="/variants/s14/db14k2g3k2g3k2db12dr4db10dr3db10dr4lb28dr4~x2/sett.png" alt="Wcwm 1138 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1138/"><img src="db14k2g3k2g3k2db12dr4db10dr3db10dr4lb28dr4-rev.png" alt="Wcwm 1138 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wc/wcwm-1445/">Wcwm 1445</a></td><td>1981</td><td>1</td><td>1</td><td>5.72</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1445/"><img src="/variants/s13/db3k1dr1n24dr1n4lo3db1k4dr1n8dr1k1~x4/sett.png" alt="Wcwm 1445 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wc/wcwm-1717/">Wcwm 1717</a></td><td>2002</td><td>1</td><td>1</td><td>6.09</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1717/"><img src="/variants/s16/n20w1ly8w1dr16r4w1n18w1n20r8n8lb8dr8lb8dr1~x4/sett.png" alt="Wcwm 1717 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1717/"><img src="n20w1ly8w1dr16r4w1n18w1n20r8n8lb8dr8lb8dr1-rev.png" alt="Wcwm 1717 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wc/wcwm-1538/">Wcwm 1538</a></td><td>2002</td><td>1</td><td>1</td><td>6.26</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1538/"><img src="/variants/s21/ly3k2db2dg24db1k4db2k6dg6ly2dg10ly2dg6k6db2k4db1k24dg2db4ly1~x4/sett.png" alt="Wcwm 1538 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1538/"><img src="ly3k2db2dg24db1k4db2k6dg6ly2dg10ly2dg6k6db2k4db1k24dg2db4ly1-rev.png" alt="Wcwm 1538 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wc/wcwm-1684/">Wcwm 1684</a></td><td>2002</td><td>1</td><td>1</td><td>6.33</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1684/"><img src="/variants/s10/dr48k10dt12k2dr3k2dt12k10dr2ly3~x2/sett.png" alt="Wcwm 1684 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1684/"><img src="dr48k10dt12k2dr3k2dt12k10dr2ly3-rev.png" alt="Wcwm 1684 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wc/wcwm-1438/">Wcwm 1438</a></td><td>2002</td><td>1</td><td>1</td><td>6.46</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1438/"><img src="dr100b6k14ly2k3w3k4dg14dr6k3dr3w2dr3k3dr6dg14-rev.png" alt="Wcwm 1438 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wc/wcwm-3947/">WCWM 3947</a></td><td>1987</td><td>1</td><td>1</td><td>6.64</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-3947/"><img src="/variants/s8/n2b30y3b2n16r2g16w2~x2/sett.png" alt="WCWM 3947 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wc/wcwm-1712/">Wcwm 1712</a></td><td>2002</td><td>1</td><td>1</td><td>7.27</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1712/"><img src="/variants/s12/dr8w2dr22k8dg6k6dg6k6dg8lg3dg3lg3~x2/sett.png" alt="Wcwm 1712 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1712/"><img src="dr8w2dr22k8dg6k6dg6k6dg8lg3dg3lg3-rev.png" alt="Wcwm 1712 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wc/wcwm-1399/">Wcwm 1399</a></td><td>1981</td><td>1</td><td>1</td><td>7.36</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1399/"><img src="k44w3lo16w2lo2w2lo2y10k3y8-rev.png" alt="Wcwm 1399 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1399/"><img src="/variants/s10/k44w3lo16w2lo2w2lo2y10k3y8~x2/sett.png" alt="Wcwm 1399 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wc/wcwm-1527/">Wcwm 1527</a></td><td>2002</td><td>1</td><td>1</td><td>7.51</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1527/"><img src="/variants/s10/k2dr26n26k2n3k2n3k14dr2k2~x2/sett.png" alt="Wcwm 1527 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1527/"><img src="k2dr26n26k2n3k2n3k14dr2k2-rev.png" alt="Wcwm 1527 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wc/wcwm-1163/">Wcwm 1163</a></td><td>2002</td><td>1</td><td>1</td><td>7.71</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1163/"><img src="/variants/s5/n52k10do16n1w2~x2/sett.png" alt="Wcwm 1163 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wc/wcwm-1528/">Wcwm 1528</a></td><td>2002</td><td>1</td><td>1</td><td>8.12</td></tr>
@@ -53,21 +53,21 @@ crumbs:
 <tr><td><a href="/tartans/w/wc/wcwm-1062/">Wcwm 1062</a></td><td>1990</td><td>1</td><td>1</td><td>9.29</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1062/"><img src="/variants/s7/g3r20g16k22lo6k3g2~x2/sett.png" alt="Wcwm 1062 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wc/wcwm-1543/">Wcwm 1543</a></td><td>2002</td><td>1</td><td>1</td><td>9.33</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1543/"><img src="/variants/s14/n48dr2n12w2ly2dr2ly2w2n2db12dr3ly3w3n3~x2/sett.png" alt="Wcwm 1543 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1543/"><img src="n48dr2n12w2ly2dr2ly2w2n2db12dr3ly3w3n3-rev.png" alt="Wcwm 1543 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wc/wcwm-1243/">Wcwm 1243</a></td><td>2002</td><td>1</td><td>1</td><td>9.40</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1243/"><img src="/variants/s12/g3db1g6r6lo1r6n6db1n6r2n6lb1~x4/sett.png" alt="Wcwm 1243 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1243/"><img src="g3db1g6r6lo1r6n6db1n6r2n6lb1-rev.png" alt="Wcwm 1243 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wc/wcwm-1716/">Wcwm 1716</a></td><td>2002</td><td>1</td><td>1</td><td>9.41</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1716/"><img src="/variants/s6/g6ly3g26dg10dt30w3~x2/sett.png" alt="Wcwm 1716 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1716/"><img src="g6ly3g26dg10dt30w3-rev.png" alt="Wcwm 1716 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wc/wcwm-1713/">Wcwm 1713</a></td><td>2002</td><td>1</td><td>1</td><td>9.47</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1713/"><img src="/variants/s11/dr3o26k12o3k16o4k16o3k12o26ly3~x2/sett.png" alt="Wcwm 1713 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wc/wcwm-1255/">Wcwm 1255</a></td><td>1990</td><td>1</td><td>1</td><td>9.49</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1255/"><img src="g3dr1k14g14lo1-rev.png" alt="Wcwm 1255 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1255/"><img src="/variants/s5/g3dr1k14g14lo1~x4/sett.png" alt="Wcwm 1255 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wc/wcwm-1651/">Wcwm 1651</a></td><td>2002</td><td>1</td><td>1</td><td>9.85</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1651/"><img src="/variants/s7/dr10k1dr3g7k7g5lo3~x4/sett.png" alt="Wcwm 1651 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wc/wcwm-1310/">Wcwm 1310</a></td><td>1980</td><td>1</td><td>1</td><td>10.62</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1310/"><img src="/variants/s8/do10dr3do10g14k12db12do14dr4~x2/sett.png" alt="Wcwm 1310 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1310/"><img src="do10dr3do10g14k12db12do14dr4-rev.png" alt="Wcwm 1310 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wc/wcwm-1131/">Wcwm 1131</a></td><td>2002</td><td>1</td><td>1</td><td>13.43</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1131/"><img src="w10do1w1do1w1do1w1do1w1do1w1ly1w1ly1w1ly1w1ly1w1ly1w1do1ly1do1ly1do1ly1do1ly1do1ly10-rev.png" alt="Wcwm 1131 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1131/"><img src="/variants/s31/w10do1w1do1w1do1w1do1w1do1w1ly1w1ly1w1ly1w1ly1w1ly1w1do1ly1do1ly1do1ly1do1ly1do1ly10~x4/sett.png" alt="Wcwm 1131 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wc/wcwm-1155/">Wcwm 1155</a></td><td>2002</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wc/wcwm-1155/"><img src="/variants/s10/doi7do2doi2do2doi2do6r14do2r2do2~x4~doi1402055-do1103038/sett.png" alt="Wcwm 1155 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

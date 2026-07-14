@@ -21,9 +21,9 @@ crumbs:
 <tr><td><a href="/tartans/c/cu/cumming-2/">Cumming</a></td><td>1850</td><td>1</td><td>1</td><td>5.69</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cu/cumming-2/"><img src="k1r1g8r1k6lb1r6g6r1k8r1lb1k1r1k8r1g6r6lb1k6r1g8r1-rev.png" alt="Cumming sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/cu/cumming-4/">Cumming</a></td><td>—</td><td>1</td><td>2</td><td>6.24</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cu/cumming-4/"><img src="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1/sett.png" alt="Cumming sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cu/cumming-4/"><img src="k1db1r1k8r1g6r6db1k6r1g8r1k1-rev.png" alt="Cumming sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/cu/cumming-5/">Cumming</a></td><td>1850</td><td>1</td><td>1</td><td>7.39</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cu/cumming-5/"><img src="/variants/s8/r3g9w1g9r3g6r18k2~x2/sett.png" alt="Cumming sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cu/cumming-5/"><img src="r3g9w1g9r3g6r18k2-rev.png" alt="Cumming sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/cu/cumming-3/">Cumming</a></td><td>1842</td><td>1</td><td>1</td><td>7.84</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cu/cumming-3/"><img src="/variants/s10/r4g8w1g8r4g4r2g4r24k2~x2/sett.png" alt="Cumming sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

@@ -23,7 +23,7 @@ crumbs:
 <tr><td><a href="/tartans/m/ma/matheson-hunting-2/">Matheson Hunting</a></td><td>~2003</td><td>1</td><td>1</td><td>3.70</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/matheson-hunting-2/"><img src="/variants/s21/r8g3r1g1r1g22db8g3r1g1r1g3r6g1r1g1r2db6g5r3g4~x2/sett.png" alt="Matheson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/matheson-hunting/">Matheson Hunting</a></td><td>1810</td><td>1</td><td>1</td><td>4.98</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/matheson-hunting/"><img src="db4g2db1g2db1g22db6g2r2g2r2g2r4g2r2g2r2db6g4r2g4-rev.png" alt="Matheson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/matheson-hunting/"><img src="/variants/s21/db4g2db1g2db1g22db6g2r2g2r2g2r4g2r2g2r2db6g4r2g4~x4/sett.png" alt="Matheson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/matheson-3/">Matheson</a></td><td>1985</td><td>1</td><td>1</td><td>7.43</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/matheson-3/"><img src="/variants/s21/y8db4y1db1y1db24k8y4db1y1db1y4db8y1db1y1db1k8y8db2y2~x4/sett.png" alt="Matheson sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/matheson-hunting-3/">Matheson Hunting</a></td><td>1906</td><td>2</td><td>2</td><td>7.78</td></tr>

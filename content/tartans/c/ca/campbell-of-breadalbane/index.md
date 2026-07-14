@@ -24,8 +24,8 @@ The **Campbell of Breadalbane** tartan groups 2 setts — the same named design 
 <tbody>
 <tr><td><a href="/variants/s13/db26k4db4k4db4k27y5g47y5k27db25k4db4~x2/">Campbell of Breadalbane</a> ★</td><td></td><td><code>DB/52 K8 DB8 K8 DB8 K54 Y10 G94 Y10 K54 DB50 K8 DB/8</code></td><td>684</td><td>1793</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db26k4db4k4db4k27y5g47y5k27db25k4db4~x2/"><img src="/variants/s13/db26k4db4k4db4k27y5g47y5k27db25k4db4~x2/sett.png" alt="Campbell of Breadalbane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/db4k2db2k2db2k14ly1g22ly1k14db12k2db2~x4/">Campbell of Breadalbane</a></td><td>0.68</td><td><code>DB/16 K8 DB8 K8 DB8 K56 LY4 G88 LY4 K56 DB48 K8 DB/8</code></td><td>616</td><td>1831</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db4k2db2k2db2k14ly1g22ly1k14db12k2db2~x4/"><img src="/variants/s13/db4k2db2k2db2k14ly1g22ly1k14db12k2db2~x4/sett.png" alt="Campbell of Breadalbane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s13/db4k2db2k2db2k14ly1g22ly1k14db12k2db2~x4/">Campbell of Breadalbane</a></td><td>0.68</td><td><code>DB/8 K8 DB48 K56 LY4 G88 LY4 K56 DB8 K8 DB8 K8 DB/16</code></td><td>616</td><td>1831</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/db4k2db2k2db2k14ly1g22ly1k14db12k2db2~x4/"><img src="db4k2db2k2db2k14ly1g22ly1k14db12k2db2-rev.png" alt="Campbell of Breadalbane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

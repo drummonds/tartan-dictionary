@@ -27,6 +27,6 @@ crumbs:
 <tr><td><a href="/tartans/m/ma/macdougal-5/">MacDougal 5</a></td><td>—</td><td>1</td><td>1</td><td>6.06</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macdougal-5/"><img src="k1r4g8r2g1r2db4r2w1r1w1r2g4r3g4r1k1r8w1-rev.png" alt="MacDougal 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macdougal/">MacDougal</a></td><td>2000</td><td>1</td><td>1</td><td>6.63</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macdougal/"><img src="w2r2ri2r16k2r2w6r7dg6ri2r2ri2k6r3w2r3w2r3w16r2ri2w2-rev.png" alt="MacDougal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macdougal/"><img src="/variants/s22/w2r2ri2r16k2r2w6r7dg6ri2r2ri2k6r3w2r3w2r3w16r2ri2w2~x2~r2109032-ri2806019/sett.png" alt="MacDougal sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

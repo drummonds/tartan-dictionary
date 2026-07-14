@@ -17,8 +17,8 @@ crumbs:
 <tr><td><a href="/tartans/b/be/bermuda-3/">Bermuda</a> ★</td><td>1986</td><td>1</td><td>2</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/be/bermuda-3/"><img src="/variants/s5/lb4w2g17lb17lo2~x4/sett.png" alt="Bermuda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/b/be/bermuda-2/">Bermuda</a></td><td>1947</td><td>1</td><td>1</td><td>6.24</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/be/bermuda-2/"><img src="/variants/s7/lb33r8db12g12lb8db2lb8~x2/sett.png" alt="Bermuda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/be/bermuda-2/"><img src="lb33r8db12g12lb8db2lb8-rev.png" alt="Bermuda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/b/be/bermuda/">Bermuda</a></td><td>1962</td><td>3</td><td>3</td><td>6.95</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/be/bermuda/"><img src="/variants/s13/t12r4db4t42r6t6db11t6g19t8r4t6db6/sett.png" alt="Bermuda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/be/bermuda/"><img src="t12r4db4t42r6t6db11t6g19t8r4t6db6-rev.png" alt="Bermuda sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

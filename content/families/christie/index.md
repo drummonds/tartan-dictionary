@@ -19,8 +19,8 @@ crumbs:
 <tr><td><a href="/tartans/c/ch/christie/">Christie</a></td><td>2010</td><td>1</td><td>1</td><td>1.59</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/ch/christie/"><img src="/variants/s6/y5k2g4lb18r25w5~x2/sett.png" alt="Christie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/ch/christie-hunting/">Christie Hunting</a></td><td>2010</td><td>2</td><td>2</td><td>2.95</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/ch/christie-hunting/"><img src="/variants/s6/dt60w11r5db5k1y4~x2/sett.png" alt="Christie Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/ch/christie-hunting/"><img src="dt60w11r5db5k1y4-rev.png" alt="Christie Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/ch/christie-2/">Christie</a></td><td>1930</td><td>2</td><td>2</td><td>9.94</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/ch/christie-2/"><img src="r6db2k2db4k4y2k1w2k1g9r6w2r6-rev.png" alt="Christie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/ch/christie-2/"><img src="/variants/s13/r6db2k2db4k4y2k1w2k1g9r6w2r6~x4/sett.png" alt="Christie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

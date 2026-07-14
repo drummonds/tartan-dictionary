@@ -17,7 +17,7 @@ crumbs:
 <tr><td><a href="/tartans/p/pr/priest-2/">Priest</a> ★</td><td>1830</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/p/pr/priest-2/"><img src="/variants/s11/k1y1dp7k8y1k8y1dp2y1k4y1~x4/sett.png" alt="Priest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/p/pr/priest-3/">Priest</a></td><td>—</td><td>1</td><td>2</td><td>3.25</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/p/pr/priest-3/"><img src="/variants/s11/k1lb1y7k8lb1k8lb1y2lb1k4lb1~x2/sett.png" alt="Priest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/p/pr/priest-3/"><img src="k1lb1y7k8lb1k8lb1y2lb1k4lb1-rev.png" alt="Priest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/p/pr/priest/">Priest</a></td><td>—</td><td>1</td><td>1</td><td>6.05</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/p/pr/priest/"><img src="/variants/s8/k1w8k8w1k8w4k4w1~x2/sett.png" alt="Priest sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

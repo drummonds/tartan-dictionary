@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/w/wa/watt-2/">Watt</a> ★</td><td>2002</td><td>1</td><td>2</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wa/watt-2/"><img src="/variants/s12/k96db8k12dp3k3dp3k3g20r8k3r4w4/sett.png" alt="Watt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wa/watt/">Watt</a></td><td>~2005</td><td>2</td><td>2</td><td>12.66</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wa/watt/"><img src="db9k2w4db4y2k10g12k3g12k8r11k2y4-rev.png" alt="Watt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wa/watt/"><img src="/variants/s13/db9k2w4db4y2k10g12k3g12k8r11k2y4~x2/sett.png" alt="Watt sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

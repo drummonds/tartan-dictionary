@@ -23,6 +23,6 @@ A family of [Clan Macaulay](/clan/macaulay/).
 <tr><td><a href="/tartans/m/ma/macaulay-2/">MacAulay</a></td><td>1831</td><td>1</td><td>1</td><td>4.42</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macaulay-2/"><img src="/variants/s15/k2r18g7r3g10w1g10r3g10w1g10r3g7r18k1~x4/sett.png" alt="MacAulay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macaulay-hunting/">MacAulay Hunting</a></td><td>1850</td><td>1</td><td>1</td><td>7.14</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macaulay-hunting/"><img src="g6k16w1k16g8k4g12r2-rev.png" alt="MacAulay Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macaulay-hunting/"><img src="/variants/s8/g6k16w1k16g8k4g12r2~x2/sett.png" alt="MacAulay Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -23,6 +23,6 @@ crumbs:
 <tr><td><a href="/tartans/o/ol/oliver-hunting/">Oliver Hunting</a></td><td>1973</td><td>3</td><td>3</td><td>7.64</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/o/ol/oliver-hunting/"><img src="/variants/s9/lb62g5lb3g22k3g3y3g3k6~x2~g2203152/sett.png" alt="Oliver Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/o/ol/oliver-dress/">Oliver Dress</a></td><td>2002</td><td>1</td><td>1</td><td>10.65</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/o/ol/oliver-dress/"><img src="g1dr1g1dr1db7dr6w7k1w7dr6db7dr1g1dr1g1w1-rev.png" alt="Oliver Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/o/ol/oliver-dress/"><img src="/variants/s16/g1dr1g1dr1db7dr6w7k1w7dr6db7dr1g1dr1g1w1~x4/sett.png" alt="Oliver Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

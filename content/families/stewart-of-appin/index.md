@@ -21,7 +21,7 @@ A family of [Clan Stewart](/clan/stewart/).
 <tr><td><a href="/tartans/s/st/stewart-of-appin-3/">Stewart of Appin 3</a></td><td>—</td><td>1</td><td>1</td><td>1.16</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/stewart-of-appin-3/"><img src="/variants/s16/r3k2lb2r2g19r3g2r2db6r2g2r21k2lb2r2g2~x2/sett.png" alt="Stewart of Appin 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/st/stewart-of-appin-5/">Stewart of Appin 5</a></td><td>—</td><td>1</td><td>1</td><td>5.78</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/stewart-of-appin-5/"><img src="r3g1r2g1r18k4y1k2w1db4g6r3k1r2w1-rev.png" alt="Stewart of Appin 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/stewart-of-appin-5/"><img src="/variants/s15/r3g1r2g1r18k4y1k2w1db4g6r3k1r2w1~x2/sett.png" alt="Stewart of Appin 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/st/stewart-of-appin-2/">Stewart of Appin 2</a></td><td>—</td><td>1</td><td>1</td><td>6.34</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/stewart-of-appin-2/"><img src="/variants/s10/g11r4g4r7g41db11lb4db41r4db8/sett.png" alt="Stewart of Appin 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/st/stewart-of-appin-1/">Stewart of Appin 1</a></td><td>~2002</td><td>1</td><td>1</td><td>6.49</td></tr>

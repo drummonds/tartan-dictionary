@@ -21,7 +21,7 @@ crumbs:
 <tr><td><a href="/tartans/r/re/recovery-dress/">Recovery Dress</a></td><td>1998</td><td>1</td><td>1</td><td>5.80</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/re/recovery-dress/"><img src="/variants/s25/r1k1w8dg1db1dg1db1dg1db1dg1db8w1db2w1db8dg1db1dg1db1dg1db1dg1w8k1lo1~x4/sett.png" alt="Recovery Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/r/re/recovery-hunting-2/">Recovery hunting</a></td><td>—</td><td>1</td><td>1</td><td>6.07</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/re/recovery-hunting-2/"><img src="/variants/s48/k1g8k1y1k1g8k1ki1k1ki1k1ki1k1ki8w1ki2w1ki8k1ki1k1ki1k1ki1k1g8k1r1k1g8k1ki1k1ki1k1ki1k1ki8w1ki2w1ki8k1ki1k1ki1k1ki1~x4~ki0604259/sett.png" alt="Recovery hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/re/recovery-hunting-2/"><img src="k1g8k1y1k1g8k1ki1k1ki1k1ki1k1ki8w1ki2w1ki8k1ki1k1ki1k1ki1k1g8k1r1k1g8k1ki1k1ki1k1ki1k1ki8w1ki2w1ki8k1ki1k1ki1k1ki1-rev.png" alt="Recovery hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/r/re/recovery-dress-2/">Recovery dress</a></td><td>—</td><td>1</td><td>1</td><td>6.38</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/re/recovery-dress-2/"><img src="/variants/s48/ki1g1ki1g1ki1g1ki8w1ki2w1ki8g1ki1g1ki1g1ki1g1w8k1y1k1w8g1ki1g1ki1g1ki1g1ki8w1ki2w1ki8g1ki1g1ki1g1ki1g1w8k1r1k1w8g1~x4~ki0604259/sett.png" alt="Recovery dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

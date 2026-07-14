@@ -19,6 +19,6 @@ crumbs:
 <tr><td><a href="/tartans/d/de/dewar-2/">Dewar</a></td><td>2003</td><td>1</td><td>1</td><td>4.25</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/de/dewar-2/"><img src="dy1r7dy4g7dy1g1-rev.png" alt="Dewar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/d/de/dewar-3/">Dewar</a></td><td>1979</td><td>1</td><td>1</td><td>6.50</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/de/dewar-3/"><img src="db1dy1db7dy5y7lr1-rev.png" alt="Dewar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/de/dewar-3/"><img src="/variants/s6/db1dy1db7dy5y7lr1~x4/sett.png" alt="Dewar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

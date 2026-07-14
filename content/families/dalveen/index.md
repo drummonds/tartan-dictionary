@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/d/da/dalveen-2/">Dalveen</a> ★</td><td>1981</td><td>2</td><td>2</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/da/dalveen-2/"><img src="/variants/s8/k3g2k10w11g1dy10g2dy3~x6~w3600000/sett.png" alt="Dalveen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/d/da/dalveen/">Dalveen</a></td><td>2004</td><td>2</td><td>2</td><td>7.53</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/da/dalveen/"><img src="/variants/s7/lg22w1dg6r6dg6y3g12~x2/sett.png" alt="Dalveen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/da/dalveen/"><img src="lg22w1dg6r6dg6y3g12-rev.png" alt="Dalveen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

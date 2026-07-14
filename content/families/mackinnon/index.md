@@ -27,7 +27,7 @@ A family of [Clan MacKinnon](/clan/mackinnon/).
 <tr><td><a href="/tartans/m/ma/mackinnon-2/">MacKinnon</a></td><td>—</td><td>1</td><td>1</td><td>1.00</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-2/"><img src="/variants/s14/dg2r3g2db2r6g16r2db4g2r16g8dg2r4w2/sett.png" alt="MacKinnon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackinnon-9/">MacKinnon 9</a></td><td>—</td><td>1</td><td>1</td><td>1.31</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-9/"><img src="w2r4g2db2r6g4r2db5g2r20g7w2r4w2-rev.png" alt="MacKinnon 9 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-9/"><img src="/variants/s14/w2r4g2db2r6g4r2db5g2r20g7w2r4w2~x2/sett.png" alt="MacKinnon 9 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackinnon-3/">MacKinnon 3</a></td><td>—</td><td>1</td><td>1</td><td>1.53</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-3/"><img src="/variants/s14/w3r5g3dp3r14g36r3dp8g3r36g14b3r5w3~x2/sett.png" alt="MacKinnon 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackinnon-2/">MacKinnon 2</a></td><td>—</td><td>1</td><td>1</td><td>1.84</td></tr>
@@ -47,7 +47,7 @@ A family of [Clan MacKinnon](/clan/mackinnon/).
 <tr><td><a href="/tartans/m/ma/mackinnon-hunting-4/">MacKinnon Hunting</a></td><td>~1959</td><td>1</td><td>2</td><td>6.42</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-hunting-4/"><img src="/variants/s7/g1dy8g8r1g8dy8w1~x4/sett.png" alt="MacKinnon Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackinnon/">MacKinnon</a></td><td>2007</td><td>1</td><td>1</td><td>6.57</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon/"><img src="dp3r4k5r12k24r3k10r26k12dp3r6w3-rev.png" alt="MacKinnon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon/"><img src="/variants/s12/dp3r4k5r12k24r3k10r26k12dp3r6w3~x2/sett.png" alt="MacKinnon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackinnon-8/">MacKinnon 8</a></td><td>—</td><td>1</td><td>1</td><td>6.84</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackinnon-8/"><img src="/variants/s7/k1r18g12r2g12r18w1~x2/sett.png" alt="MacKinnon 8 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackinnon-hunting/">MacKinnon Hunting</a></td><td>~2003</td><td>1</td><td>1</td><td>7.07</td></tr>

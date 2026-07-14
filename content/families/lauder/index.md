@@ -23,6 +23,6 @@ crumbs:
 <tr><td><a href="/tartans/l/la/lauder-dress-2/">Lauder Dress</a></td><td>2002</td><td>1</td><td>1</td><td>9.44</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/l/la/lauder-dress-2/"><img src="r4db4w52db5w5k26dg25r6dg28k25dg3db26dg6db25dg3k27w50db4r4-rev.png" alt="Lauder Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/l/la/lauder-dress/">Lauder Dress</a></td><td>~2002</td><td>1</td><td>1</td><td>11.06</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/l/la/lauder-dress/"><img src="db4w52db5w5k26dg25r6dg28k25dg3db26dg6db25dg3k27w50db4r4db4w50k27dg3db25dg6db26dg3k25dg28r6dg25k26w5db5w52db4r4-rev.png" alt="Lauder Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/l/la/lauder-dress/"><img src="/variants/s36/db4w52db5w5k26dg25r6dg28k25dg3db26dg6db25dg3k27w50db4r4db4w50k27dg3db25dg6db26dg3k25dg28r6dg25k26w5db5w52db4r4/sett.png" alt="Lauder Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

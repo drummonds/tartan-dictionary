@@ -19,6 +19,6 @@ A family of [Clan Maclean](/clan/maclean/).
 <tr><td><a href="/tartans/m/ma/maclean-of-kingairloch/">MacLean of Kingairloch</a> ★</td><td>1987</td><td>2</td><td>2</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/maclean-of-kingairloch/"><img src="/variants/s10/t81k6y1k2w2k2g12dy28w1dy4~x2/sett.png" alt="MacLean of Kingairloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/maclean-of-kingairloch-2/">MacLean of Kingairloch</a></td><td>—</td><td>1</td><td>1</td><td>5.69</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/maclean-of-kingairloch-2/"><img src="db8lb1k6y1k2w2k2g12o28w1o4-rev.png" alt="MacLean of Kingairloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/maclean-of-kingairloch-2/"><img src="/variants/s11/db8lb1k6y1k2w2k2g12o28w1o4~x2/sett.png" alt="MacLean of Kingairloch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

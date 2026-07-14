@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/ap/applecross/">Applecross</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/ap/applecross/"><img src="/variants/s4/dg18r2dg7r18~x2~dg1806142-r2109032/sett.png" alt="Applecross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/ap/applecross/"><img src="/variants/s4/r18g7r2g18~x2/sett.png" alt="Applecross sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/d/du/duke-of-windsor/">Duke of Windsor</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/du/duke-of-windsor/"><img src="/variants/s4/g75r2g4r40~x2/sett.png" alt="Duke of Windsor sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macdonald-lord-of-the-isles/">MacDonald Lord of the Isles</a></td></tr>

@@ -23,7 +23,7 @@ crumbs:
 <tr><td><a href="/tartans/c/co/connacht/">Connacht</a></td><td>—</td><td>1</td><td>1</td><td>9.13</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/co/connacht/"><img src="/variants/s10/o64g4dy1g4dy1g4dy64do2dy2do8~x2/sett.png" alt="Connacht sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/co/connacht-4/">Connacht</a></td><td>—</td><td>1</td><td>1</td><td>9.25</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/co/connacht-4/"><img src="b64g4o1g4o1g4o64do2o2do8-rev.png" alt="Connacht sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/co/connacht-4/"><img src="/variants/s10/b64g4o1g4o1g4o64do2o2do8~x2/sett.png" alt="Connacht sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/co/connacht-5/">Connacht</a></td><td>1993</td><td>1</td><td>1</td><td>13.98</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/co/connacht-5/"><img src="/variants/s10/o64g6o2g3o2g6o64do2o2do6~x2/sett.png" alt="Connacht sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

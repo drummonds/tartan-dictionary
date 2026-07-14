@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/c/ch/choinka/">Choinka</a> ★</td><td>2012</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/ch/choinka/"><img src="/variants/s8/k6y3k18g20k2db3k2g4~x2/sett.png" alt="Choinka sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/ch/choinka-2/">Choinka</a></td><td>2012</td><td>1</td><td>1</td><td>3.25</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/ch/choinka-2/"><img src="dy4k2lo3k2dy7k9g20k2lb3k2g4-rev.png" alt="Choinka sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/ch/choinka-2/"><img src="/variants/s11/dy4k2lo3k2dy7k9g20k2lb3k2g4~x2/sett.png" alt="Choinka sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

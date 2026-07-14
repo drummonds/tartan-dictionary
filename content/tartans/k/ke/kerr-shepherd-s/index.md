@@ -22,8 +22,8 @@ The **Kerr Shepherd's** tartan groups 2 setts — the same named design recorded
 <tbody>
 <tr><td><a href="/variants/s20/r1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1~x8/">Kerr Shepherd's</a> ★</td><td></td><td><code>R/1 W1 K1 W1 K1 W1 K1 W1 K1 W1 K1 W1 K1 W1 K1 W1 K1 W1 K1 W/1</code></td><td>—</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s20/r1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1~x8/"><img src="/variants/s20/r1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1~x8/sett.png" alt="Kerr Shepherd's sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/k1w1k1w1k1w1k1w1k1w1r1~x8/">Plaid (Clan)</a></td><td>0.00</td><td><code>K/8 W8 K8 W8 K8 W8 K8 W8 K8 W8 R/8</code></td><td>160</td><td>2002</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k1w1k1w1k1w1k1w1k1w1r1~x8/"><img src="/variants/s11/k1w1k1w1k1w1k1w1k1w1r1~x8/sett.png" alt="Plaid (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s11/k1w1k1w1k1w1k1w1k1w1r1~x8/">Plaid (Clan)</a></td><td>0.00</td><td><code>R/8 W8 K8 W8 K8 W8 K8 W8 K8 W8 K/8</code></td><td>160</td><td>2002</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k1w1k1w1k1w1k1w1k1w1r1~x8/"><img src="k1w1k1w1k1w1k1w1k1w1r1-rev.png" alt="Plaid (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

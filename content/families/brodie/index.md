@@ -27,8 +27,8 @@ A family of [Clan Brodie](/clan/brodie/).
 <tr><td><a href="/tartans/b/br/brodie-dress/">Brodie Dress</a></td><td>2001</td><td>1</td><td>1</td><td>10.69</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/br/brodie-dress/"><img src="/variants/s5/k6r33k18w20db6~x2/sett.png" alt="Brodie Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/b/br/brodie-hunting-2/">Brodie Hunting</a></td><td>1880</td><td>2</td><td>3</td><td>11.60</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/br/brodie-hunting-2/"><img src="r2k8y1k8g8db8r2-rev.png" alt="Brodie Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/br/brodie-hunting-2/"><img src="/variants/s7/r2k8y1k8g8db8r2~x4/sett.png" alt="Brodie Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/b/br/brodie-hunting/">Brodie Hunting</a></td><td>—</td><td>1</td><td>1</td><td>11.71</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/br/brodie-hunting/"><img src="/variants/s7/r2db8g8k8y1g8r2/sett.png" alt="Brodie Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/br/brodie-hunting/"><img src="r2db8g8k8y1g8r2-rev.png" alt="Brodie Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

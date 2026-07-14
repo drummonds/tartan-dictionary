@@ -19,6 +19,6 @@ crumbs:
 <tr><td><a href="/tartans/m/mc/mckerrell-of-hillhouse-dress/">McKerrell of Hillhouse Dress</a></td><td>1996</td><td>1</td><td>1</td><td>1.73</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mc/mckerrell-of-hillhouse-dress/"><img src="w4n28lb48y3-rev.png" alt="McKerrell of Hillhouse Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/mc/mckerrell-of-hillhouse-dress-2/">McKerrell of Hillhouse Dress</a></td><td>1996</td><td>1</td><td>1</td><td>4.89</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mc/mckerrell-of-hillhouse-dress-2/"><img src="lb48n28w4n28lb48y3-rev.png" alt="McKerrell of Hillhouse Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mc/mckerrell-of-hillhouse-dress-2/"><img src="/variants/s6/lb48n28w4n28lb48y3~x2/sett.png" alt="McKerrell of Hillhouse Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

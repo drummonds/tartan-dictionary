@@ -23,17 +23,17 @@ A family of [Clan Maclean](/clan/maclean/).
 <tr><td><a href="/tartans/m/ma/maclean-of-duart-dress-7/">MacLean of Duart, dress</a></td><td>—</td><td>1</td><td>1</td><td>3.17</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/maclean-of-duart-dress-7/"><img src="/variants/s12/n10b2do4y2do3w3do3o18w30r2w4do2~x2~do1003038-o2104058/sett.png" alt="MacLean of Duart, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/maclean-of-duart-dress-2/">MacLean of Duart Dress</a></td><td>1995</td><td>1</td><td>1</td><td>5.44</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/maclean-of-duart-dress-2/"><img src="/variants/s12/n12o2dy4ly2dy3w3dy3w19r30o2r4dy2~x2~n1900000-o2500000/sett.png" alt="MacLean of Duart Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/maclean-of-duart-dress-2/"><img src="n12o2dy4ly2dy3w3dy3w19r30o2r4dy2-rev.png" alt="MacLean of Duart Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/maclean-of-duart-dress-6/">MacLean of Duart, dress</a></td><td>—</td><td>1</td><td>1</td><td>5.59</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/maclean-of-duart-dress-6/"><img src="/variants/s12/n12b2o4y2o3w3o3w19r30n2r4o2~x2/sett.png" alt="MacLean of Duart, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/maclean-of-duart-dress-6/"><img src="n12b2o4y2o3w3o3w19r30n2r4o2-rev.png" alt="MacLean of Duart, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/maclean-of-duart-1/">MacLean of Duart 1</a></td><td>—</td><td>1</td><td>1</td><td>7.23</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/maclean-of-duart-1/"><img src="lb13k6y2k3w4k3g22r31lb3r4k2-rev.png" alt="MacLean of Duart 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/maclean-of-duart-1/"><img src="/variants/s11/lb13k6y2k3w4k3g22r31lb3r4k2~x2/sett.png" alt="MacLean of Duart 1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/maclean-of-duart-3/">MacLean of Duart 3</a></td><td>—</td><td>1</td><td>1</td><td>7.39</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/maclean-of-duart-3/"><img src="lb16k12y4k4w6k4g32r50lb6r8k3-rev.png" alt="MacLean of Duart 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/maclean-of-duart-3/"><img src="/variants/s11/lb16k12y4k4w6k4g32r50lb6r8k3/sett.png" alt="MacLean of Duart 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/maclean-of-duart-dress/">MacLean of Duart Dress</a></td><td>~2003</td><td>1</td><td>1</td><td>7.54</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/maclean-of-duart-dress/"><img src="/variants/s12/lb12o2db4g2dr3r3dr3r19w30n2w4k2~x2/sett.png" alt="MacLean of Duart Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/maclean-of-duart-dress-3/">MacLean of Duart Dress</a></td><td>—</td><td>1</td><td>1</td><td>7.55</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/maclean-of-duart-dress-3/"><img src="/variants/s12/n12w2k4g2k3w3k3w19r30w2r4k2~x2/sett.png" alt="MacLean of Duart Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/maclean-of-duart-dress-3/"><img src="n12w2k4g2k3w3k3w19r30w2r4k2-rev.png" alt="MacLean of Duart Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/maclean-of-duart-4/">MacLean of Duart 4</a></td><td>—</td><td>1</td><td>1</td><td>7.63</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/maclean-of-duart-4/"><img src="lb8k4y1k2w3k2g12r24lb2r3k2-rev.png" alt="MacLean of Duart 4 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/maclean-of-duart-2/">MacLean of Duart 2</a></td><td>—</td><td>1</td><td>1</td><td>7.79</td></tr>

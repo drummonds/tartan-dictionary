@@ -19,6 +19,6 @@ crumbs:
 <tr><td><a href="/tartans/s/st/stephenson-hunting-2/">Stephenson Hunting</a></td><td>1981</td><td>3</td><td>4</td><td>3.69</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/stephenson-hunting-2/"><img src="/variants/s16/r2k1t9k9g9k1w1k2w1k1g9t9k9t9k1g2~x4/sett.png" alt="Stephenson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/st/stephenson-hunting/">Stephenson Hunting</a></td><td>—</td><td>1</td><td>1</td><td>4.39</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/stephenson-hunting/"><img src="/variants/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/sett.png" alt="Stephenson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/stephenson-hunting/"><img src="db9k9g9k1w1k2w1k1g9k9db9k1g2-rev.png" alt="Stephenson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -23,7 +23,7 @@ A family of [Clan Cockburn](/clan/cockburn/).
 <tr><td><a href="/tartans/c/co/cockburn-4/">Cockburn</a></td><td>—</td><td>1</td><td>1</td><td>3.35</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/co/cockburn-4/"><img src="r3k2g9db12w3db12g2k2g2k2g36k2g2k2g2db12w3db12k3y3k2g12k2r3k2g6w3-rev.png" alt="Cockburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/co/cockburn-3/">Cockburn</a></td><td>—</td><td>1</td><td>1</td><td>6.05</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/co/cockburn-3/"><img src="/variants/s17/db15k1g1k1g1k1db5k1w1k1db5k1y1k1g5k1r1~x2/sett.png" alt="Cockburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/co/cockburn-3/"><img src="db15k1g1k1g1k1db5k1w1k1db5k1y1k1g5k1r1-rev.png" alt="Cockburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/co/cockburn-5/">Cockburn</a></td><td>1830</td><td>2</td><td>3</td><td>6.16</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/co/cockburn-5/"><img src="g10k1g1k1g1k1db4k1w1k1db1y1k1g4k1r1-rev.png" alt="Cockburn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

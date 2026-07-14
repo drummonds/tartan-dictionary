@@ -25,10 +25,10 @@ A family of [Clan Milne](/clan/milne/).
 <tr><td><a href="/tartans/m/mi/milne-purple-dress-2/">Milne Purple Dress</a></td><td>1985</td><td>1</td><td>1</td><td>2.32</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mi/milne-purple-dress-2/"><img src="/variants/s8/w12db2w12o17w12db2w5r2~x4/sett.png" alt="Milne Purple Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/mi/milne-purple-dress/">Milne Purple Dress</a></td><td>1985</td><td>1</td><td>1</td><td>2.88</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mi/milne-purple-dress/"><img src="w5db2w12o17w12db2w12db2w12o17w12db2w5r2-rev.png" alt="Milne Purple Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mi/milne-purple-dress/"><img src="/variants/s14/w5db2w12o17w12db2w12db2w12o17w12db2w5r2~x4~r2109032/sett.png" alt="Milne Purple Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/mi/milne-dress/">Milne dress</a></td><td>2007</td><td>1</td><td>1</td><td>3.62</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mi/milne-dress/"><img src="/variants/s9/w14lb3w14y1dg20w15lb3w7dp3~x2/sett.png" alt="Milne dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/mi/milne-2/">Milne</a></td><td>2004</td><td>1</td><td>1</td><td>4.46</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mi/milne-2/"><img src="w5r2w12g17w12r2w12r2w12g17w12r2w5b2-rev.png" alt="Milne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mi/milne-2/"><img src="/variants/s14/w5r2w12g17w12r2w12r2w12g17w12r2w5b2~x4/sett.png" alt="Milne sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

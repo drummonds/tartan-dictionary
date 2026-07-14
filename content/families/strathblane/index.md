@@ -19,6 +19,6 @@ crumbs:
 <tr><td><a href="/tartans/s/st/strathblane-2/">Strathblane</a></td><td>1984</td><td>1</td><td>1</td><td>2.81</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/strathblane-2/"><img src="/variants/s5/dy12k4w2n6r3~x2/sett.png" alt="Strathblane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/st/strathblane/">Strathblane</a></td><td>—</td><td>1</td><td>1</td><td>4.21</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/strathblane/"><img src="o12k4w2n6r3-rev.png" alt="Strathblane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/strathblane/"><img src="/variants/s5/o12k4w2n6r3~x2/sett.png" alt="Strathblane sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

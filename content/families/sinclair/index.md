@@ -29,6 +29,6 @@ A family of [Clan Sinclair](/clan/sinclair/).
 <tr><td><a href="/tartans/s/si/sinclair-3/">Sinclair</a></td><td>2002</td><td>1</td><td>1</td><td>3.50</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/si/sinclair-3/"><img src="r30g12k5w2db6r30db12w2k5g12-rev.png" alt="Sinclair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/si/sinclair-dress-2/">Sinclair Dress</a></td><td>1977</td><td>3</td><td>4</td><td>6.57</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/si/sinclair-dress-2/"><img src="db4r2db31k10g4w21g2-rev.png" alt="Sinclair Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/si/sinclair-dress-2/"><img src="/variants/s7/db4r2db31k10g4w21g2~x2/sett.png" alt="Sinclair Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

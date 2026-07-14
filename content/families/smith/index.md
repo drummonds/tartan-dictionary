@@ -21,10 +21,10 @@ A family of [Clan Smith](/clan/smith/).
 <tr><td><a href="/tartans/s/sm/smith/">Smith</a></td><td>1975</td><td>1</td><td>1</td><td>1.83</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sm/smith/"><img src="/variants/s8/db18k20g20k5g20k20db18lb3~x2/sett.png" alt="Smith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/sm/smith-2/">Smith</a></td><td>—</td><td>1</td><td>1</td><td>4.98</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sm/smith-2/"><img src="y3k1g20k20db18lb3-rev.png" alt="Smith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sm/smith-2/"><img src="/variants/s6/y3k1g20k20db18lb3~x2/sett.png" alt="Smith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/sm/smith-4/">Smith</a></td><td>2010</td><td>1</td><td>1</td><td>7.28</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sm/smith-4/"><img src="/variants/s11/g2db2lb23db2lb2db6lb2db2k33y2lb2~x2/sett.png" alt="Smith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/sm/smith-hunting/">Smith Hunting</a></td><td>2012</td><td>1</td><td>1</td><td>14.98</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sm/smith-hunting/"><img src="/variants/s10/ly60w1o15w1ly9o15w1g9w1o15~x2/sett.png" alt="Smith Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sm/smith-hunting/"><img src="ly60w1o15w1ly9o15w1g9w1o15-rev.png" alt="Smith Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

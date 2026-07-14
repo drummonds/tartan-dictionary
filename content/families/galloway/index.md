@@ -23,7 +23,7 @@ crumbs:
 <tr><td><a href="/tartans/g/ga/galloway-hunting/">Galloway Hunting</a></td><td>1939</td><td>2</td><td>2</td><td>8.49</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/ga/galloway-hunting/"><img src="r3dg2g32dg32g2w3-rev.png" alt="Galloway Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/g/ga/galloway-2/">Galloway</a></td><td>2009</td><td>1</td><td>1</td><td>10.16</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/ga/galloway-2/"><img src="r2k50n2r1-rev.png" alt="Galloway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/ga/galloway-2/"><img src="/variants/s4/r2k50n2r1~x2/sett.png" alt="Galloway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/g/ga/galloway-3/">Galloway</a></td><td>1950</td><td>2</td><td>2</td><td>15.35</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/ga/galloway-3/"><img src="r3dg2g32dg32g2y3-rev.png" alt="Galloway sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/g/ga/galloway-5/">Galloway</a></td><td>1950</td><td>1</td><td>1</td><td>16.35</td></tr>

@@ -25,13 +25,13 @@ A family of [Clan Drummond](/clan/drummond/).
 <tr><td><a href="/tartans/d/dr/drummond-7/">Drummond</a></td><td>—</td><td>2</td><td>2</td><td>6.27</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/dr/drummond-7/"><img src="r22db3y1g12r6db3lb3w1-rev.png" alt="Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/d/dr/drummond-6/">Drummond</a></td><td>1831</td><td>1</td><td>1</td><td>6.66</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/dr/drummond-6/"><img src="w1t4db6r16g32ly1db6w1r68w1db6ly1g32r16db6t4w1-rev.png" alt="Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/dr/drummond-6/"><img src="/variants/s17/w1t4db6r16g32ly1db6w1r68w1db6ly1g32r16db6t4w1~x2/sett.png" alt="Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/d/dr/drummond-9/">Drummond</a></td><td>~2003</td><td>1</td><td>1</td><td>6.69</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/dr/drummond-9/"><img src="k4lb2k2n14lb2k2lb2k4n2k16lb2k2lb1k4-rev.png" alt="Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/dr/drummond-9/"><img src="/variants/s14/k4lb2k2n14lb2k2lb2k4n2k16lb2k2lb1k4~x2/sett.png" alt="Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/d/dr/drummond-4/">Drummond</a></td><td>—</td><td>1</td><td>1</td><td>7.07</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/dr/drummond-4/"><img src="k20r6k4r6dg15w2g5w2dg15r30k4r5lb2r6-rev.png" alt="Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/dr/drummond-4/"><img src="/variants/s14/k20r6k4r6dg15w2g5w2dg15r30k4r5lb2r6~x2/sett.png" alt="Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/d/dr/drummond/">Drummond</a></td><td>1880</td><td>1</td><td>1</td><td>7.28</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/dr/drummond/"><img src="k5w3k3lb10w3k3w2k6w1k15w3k3w2k5-rev.png" alt="Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/dr/drummond/"><img src="/variants/s14/k5w3k3lb10w3k3w2k6w1k15w3k3w2k5~x2/sett.png" alt="Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/d/dr/drummond-5/">Drummond</a></td><td>—</td><td>1</td><td>1</td><td>7.53</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/dr/drummond-5/"><img src="k4b2k2dg14b2k2b2k4dg2k16b2k2b1k4-rev.png" alt="Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/d/dr/drummond-2/">Drummond</a></td><td>~1930</td><td>1</td><td>1</td><td>7.71</td></tr>

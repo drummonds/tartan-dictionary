@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/b/bl/blair/">Blair</a> ★</td><td>~1963</td><td>3</td><td>3</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/bl/blair/"><img src="/variants/s7/dg4r1dg18k20db18r1db4~x2~dg1806142-r2109032-db1406275/sett.png" alt="Blair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/b/bl/blair-dress/">Blair Dress</a></td><td>1988</td><td>2</td><td>2</td><td>5.69</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/bl/blair-dress/"><img src="/variants/s13/db2dr2db12k5dg12dr2dg2dr2dg12k5w14dr2w2~x2/sett.png" alt="Blair Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/bl/blair-dress/"><img src="db2dr2db12k5dg12dr2dg2dr2dg12k5w14dr2w2-rev.png" alt="Blair Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

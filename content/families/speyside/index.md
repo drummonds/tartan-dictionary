@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/s/sp/speyside-2/">Speyside</a> ★</td><td>1979</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sp/speyside-2/"><img src="/variants/s8/n32k3n3k3o5k8oi21k4~x2~n1900000-oi2500000/sett.png" alt="Speyside sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/sp/speyside/">Speyside</a></td><td>~2015</td><td>1</td><td>1</td><td>0.30</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sp/speyside/"><img src="/variants/s8/n32k3n3k3t5k8o21k4~x2~n1900000-o2500000/sett.png" alt="Speyside sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sp/speyside/"><img src="n32k3n3k3t5k8o21k4-rev.png" alt="Speyside sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

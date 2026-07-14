@@ -35,6 +35,6 @@ A family of [Clan MacNeil](/clan/macneil/).
 <tr><td><a href="/tartans/m/ma/macneil-3/">MacNeil</a></td><td>1994</td><td>1</td><td>1</td><td>4.77</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macneil-3/"><img src="/variants/s5/b30k12db12k2w3~x2/sett.png" alt="MacNeil sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macneil-dress/">MacNeil Dress</a></td><td>1830</td><td>2</td><td>2</td><td>7.75</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macneil-dress/"><img src="t18k13g18y4g18k13w4t4w18t4w4t4w18t4w4k13t18w4-rev.png" alt="MacNeil Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/macneil-dress/"><img src="/variants/s18/t18k13g18y4g18k13w4t4w18t4w4t4w18t4w4k13t18w4~x2/sett.png" alt="MacNeil Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -21,7 +21,7 @@ A family of [Clan Jardine,](/clan/jardine/).
 <tr><td><a href="/tartans/j/ja/jardine-4/">Jardine</a></td><td>—</td><td>1</td><td>1</td><td>1.76</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/j/ja/jardine-4/"><img src="/variants/s5/do18o9n9r1lb1~x4/sett.png" alt="Jardine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/j/ja/jardine/">Jardine</a></td><td>1978</td><td>1</td><td>1</td><td>6.52</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/j/ja/jardine/"><img src="/variants/s8/n9dy9yi9r1y1dy9y1r1~x4~n1900000-yi2300000/sett.png" alt="Jardine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/j/ja/jardine/"><img src="n9dy9yi9r1y1dy9y1r1-rev.png" alt="Jardine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/j/ja/jardine-dress/">Jardine Dress</a></td><td>1991</td><td>2</td><td>2</td><td>8.95</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/j/ja/jardine-dress/"><img src="r26k2r6k2r6k20lr2db44lr2k6dg64k3-rev.png" alt="Jardine Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/j/ja/jardine-2/">Jardine</a></td><td>1978</td><td>1</td><td>1</td><td>13.50</td></tr>

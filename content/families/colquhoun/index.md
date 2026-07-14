@@ -17,7 +17,7 @@ crumbs:
 <tr><td><a href="/tartans/c/co/colquhoun-2/">Colquhoun</a> ★</td><td>1810</td><td>5</td><td>6</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/co/colquhoun-2/"><img src="/variants/s7/dp6k3dp21k23w3g24r3~x2/sett.png" alt="Colquhoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/co/colquhoun/">Colquhoun</a></td><td>1831</td><td>1</td><td>1</td><td>4.39</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/co/colquhoun/"><img src="db2k2db12k18w1g14r2g14w3k18db12k2db1-rev.png" alt="Colquhoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/co/colquhoun/"><img src="/variants/s13/db2k2db12k18w1g14r2g14w3k18db12k2db1~x4/sett.png" alt="Colquhoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/co/colquhoun-dress-2/">Colquhoun Dress</a></td><td>1960</td><td>1</td><td>1</td><td>5.32</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/co/colquhoun-dress-2/"><img src="k15lr2g14dr2g14lr2k15lr3db3lr19db2dr2db2lr18db3lr3k15db10k2db2k2db10-rev.png" alt="Colquhoun Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/co/colquhoun-dress/">Colquhoun Dress</a></td><td>1960</td><td>1</td><td>1</td><td>5.83</td></tr>

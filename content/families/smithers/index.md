@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/s/sm/smithers/">Smithers</a> ★</td><td>2002</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sm/smithers/"><img src="/variants/s20/g5k1g5k6t4lb1t3n1t6dp2t6n1t3lb1t4k6g5k1g5dp2~x4/sett.png" alt="Smithers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/sm/smithers-2/">Smithers</a></td><td>1995</td><td>2</td><td>2</td><td>2.69</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sm/smithers-2/"><img src="dp2t6n1t3lb1t4k6g5k1g5dp2-rev.png" alt="Smithers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sm/smithers-2/"><img src="/variants/s11/dp2t6n1t3lb1t4k6g5k1g5dp2~x4/sett.png" alt="Smithers sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

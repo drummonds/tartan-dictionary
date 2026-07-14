@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/l/la/lander-2/">Lander</a> ★</td><td>1990</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/l/la/lander-2/"><img src="/variants/s15/ly18do3ly3do3ly3do16g16r2y2r2g16do16ly17do3ly3~x2/sett.png" alt="Lander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/l/la/lander/">Lander</a></td><td>2013</td><td>1</td><td>1</td><td>8.68</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/l/la/lander/"><img src="/variants/s15/k18dy3k3dy3k3dy16dg16r1y1r1dg16dy16k17dy3k3~x2/sett.png" alt="Lander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/l/la/lander/"><img src="k18dy3k3dy3k3dy16dg16r1y1r1dg16dy16k17dy3k3-rev.png" alt="Lander sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

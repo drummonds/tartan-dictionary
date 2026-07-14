@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/h/ha/hatfield-mize/">Hatfield &amp; Mize</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/h/ha/hatfield-mize/"><img src="/variants/s6/dg10w2k10y5db35r6~x2/sett.png" alt="Hatfield &amp; Mize sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/h/ha/hatfield-mize/"><img src="/variants/s6/dg10w2k10dy10db35r6~x2/sett.png" alt="Hatfield &amp; Mize sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

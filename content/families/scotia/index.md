@@ -21,6 +21,6 @@ crumbs:
 <tr><td><a href="/tartans/s/sc/scotia-2/">Scotia</a></td><td>—</td><td>1</td><td>1</td><td>6.56</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sc/scotia-2/"><img src="y4db8r3db14w18o4g28db58w4-rev.png" alt="Scotia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/sc/scotia-3/">Scotia</a></td><td>1982</td><td>1</td><td>1</td><td>8.60</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sc/scotia-3/"><img src="/variants/s16/db58g28dy4w18db14r3db8k4db8r3db14w18dy4g28db58w4/sett.png" alt="Scotia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sc/scotia-3/"><img src="db58g28dy4w18db14r3db8k4db8r3db14w18dy4g28db58w4-rev.png" alt="Scotia sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/f/fr/fraser/">Fraser</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/f/fr/fraser/"><img src="/variants/s6/r2db12r2g12r24w1~x2/sett.png" alt="Fraser sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fr/fraser/"><img src="/variants/s6/r2db12r2dg12r24w1~x2/sett.png" alt="Fraser sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/f/fr/fraser-vs/">Fraser VS</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/f/fr/fraser-vs/"><img src="/variants/s6/r1db6r1g6r12w1/sett.png" alt="Fraser VS sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/g/gr/grant-of-lurg-2/">Grant of Lurg</a></td></tr>

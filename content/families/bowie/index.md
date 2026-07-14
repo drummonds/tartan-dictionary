@@ -21,8 +21,8 @@ crumbs:
 <tr><td><a href="/tartans/b/bo/bowie-2/">Bowie</a></td><td>1990</td><td>1</td><td>2</td><td>1.78</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/bo/bowie-2/"><img src="/variants/s12/k9lo1dg3r5dg16k17r2t16r5t3r3t9~x2/sett.png" alt="Bowie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/b/bo/bowie-4/">Bowie</a></td><td>—</td><td>1</td><td>1</td><td>1.90</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/bo/bowie-4/"><img src="/variants/s13/db8r2db3r4db13w2o13w2g13r4g4y2g8~x2/sett.png" alt="Bowie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/bo/bowie-4/"><img src="db8r2db3r4db13w2o13w2g13r4g4y2g8-rev.png" alt="Bowie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/b/bo/bowie-3/">Bowie</a></td><td>1970</td><td>1</td><td>1</td><td>3.71</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/bo/bowie-3/"><img src="/variants/s13/db8r2db3r4db13w2dr13w2g13r4g4y2g8~x2/sett.png" alt="Bowie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/bo/bowie-3/"><img src="db8r2db3r4db13w2dr13w2g13r4g4y2g8-rev.png" alt="Bowie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

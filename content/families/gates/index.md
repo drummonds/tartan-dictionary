@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/g/ga/gates/">Gates</a> ★</td><td>2002</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/ga/gates/"><img src="/variants/s9/db24r3db4r6g8r3g8r30k3~x2/sett.png" alt="Gates sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/g/ga/gates-hunting/">Gates, Hunting</a></td><td>2002</td><td>1</td><td>1</td><td>18.23</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/ga/gates-hunting/"><img src="dg24g3dg4g12dg8g3dg8g30t3-rev.png" alt="Gates, Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/ga/gates-hunting/"><img src="/variants/s9/dg24g3dg4g12dg8g3dg8g30t3~x2~dg1806142-g2408144/sett.png" alt="Gates, Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

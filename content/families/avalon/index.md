@@ -17,7 +17,7 @@ crumbs:
 <tr><td><a href="/tartans/a/av/avalon/">Avalon</a> ★</td><td>2004</td><td>1</td><td>2</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/a/av/avalon/"><img src="/variants/s14/w3k1g15k6g5k3g8k2g5y3w2y4k1w3~x2/sett.png" alt="Avalon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/a/av/avalon-2/">Avalon</a></td><td>2004</td><td>2</td><td>2</td><td>4.04</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/a/av/avalon-2/"><img src="/variants/s14/w3k1n15k6n5k3n8k2n5y3w2y4k1w3~x2/sett.png" alt="Avalon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/a/av/avalon-2/"><img src="w3k1n15k6n5k3n8k2n5y3w2y4k1w3-rev.png" alt="Avalon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/a/av/avalon-3/">Avalon</a></td><td>2004</td><td>1</td><td>1</td><td>8.07</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/a/av/avalon-3/"><img src="/variants/s14/w3k1r15k6r5k3r8k2r5y3w2y4k1w3~x2/sett.png" alt="Avalon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/a/av/avalon-4/">Avalon</a></td><td>2004</td><td>2</td><td>2</td><td>8.46</td></tr>

@@ -19,6 +19,6 @@ crumbs:
 <tr><td><a href="/tartans/i/in/inverness-2/">Inverness</a></td><td>~2002</td><td>1</td><td>1</td><td>3.53</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/i/in/inverness-2/"><img src="/variants/s8/dr64k8w3k8w3b4w3dr18~x2/sett.png" alt="Inverness sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/i/in/inverness-hunting/">Inverness Hunting</a></td><td>~1930</td><td>1</td><td>1</td><td>7.93</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/i/in/inverness-hunting/"><img src="/variants/s8/db61dr6w2dr8lo2db3lo2db15~x2/sett.png" alt="Inverness Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/i/in/inverness-hunting/"><img src="db61dr6w2dr8lo2db3lo2db15-rev.png" alt="Inverness Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

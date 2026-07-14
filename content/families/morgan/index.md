@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/m/mo/morgan-2/">Morgan</a> ★</td><td>2002</td><td>2</td><td>2</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mo/morgan-2/"><img src="/variants/s11/dr4y34do20y4do8y6r2y5do2y3dr4/sett.png" alt="Morgan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/mo/morgan/">Morgan</a></td><td>1842</td><td>1</td><td>2</td><td>10.74</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mo/morgan/"><img src="db1k3db1k3db8r1-rev.png" alt="Morgan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mo/morgan/"><img src="/variants/s6/db1k3db1k3db8r1~x4/sett.png" alt="Morgan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

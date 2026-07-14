@@ -17,7 +17,7 @@ crumbs:
 <tr><td><a href="/tartans/r/ra/rainbow/">Rainbow</a> ★</td><td>2000</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ra/rainbow/"><img src="/variants/s12/b21lb21o21b2r2lb2y21ri21r21o2ri2y2~x2~r2209032-ri2409032/sett.png" alt="Rainbow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/r/ra/rainbow-2/">Rainbow</a></td><td>2000</td><td>1</td><td>1</td><td>4.92</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ra/rainbow-2/"><img src="/variants/s12/y12lo12o12g2r2y2dp12db12g12dp2r2db1~x2/sett.png" alt="Rainbow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ra/rainbow-2/"><img src="y12lo12o12g2r2y2dp12db12g12dp2r2db1-rev.png" alt="Rainbow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/r/ra/rainbow-7/">Rainbow</a></td><td>1974</td><td>1</td><td>1</td><td>7.57</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ra/rainbow-7/"><img src="/variants/s12/db6g2dg4db12r3lr2r8lr3dg6lr3dg6lr3~x2~g2304202-dg1806142/sett.png" alt="Rainbow sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/r/ra/rainbow-4/">Rainbow</a></td><td>1999</td><td>2</td><td>2</td><td>9.73</td></tr>

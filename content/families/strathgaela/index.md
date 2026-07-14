@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/s/st/strathgaela-2/">Strathgaela</a> ★</td><td>2002</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/strathgaela-2/"><img src="/variants/s22/dg3db3dg11n8r8db4dg3r3ri3r15ri3r15ri3r3dg3db4r8n8dg11db3dg3dp3~x2~r1807008-ri2108022/sett.png" alt="Strathgaela sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/st/strathgaela/">Strathgaela</a></td><td>2002</td><td>1</td><td>1</td><td>2.68</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/strathgaela/"><img src="dp3dg3db3dg11n8r8db4dg3r3ri3r15ri3-rev.png" alt="Strathgaela sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/st/strathgaela/"><img src="/variants/s12/dp3dg3db3dg11n8r8db4dg3r3ri3r15ri3~x2~r1807008-ri2108022/sett.png" alt="Strathgaela sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

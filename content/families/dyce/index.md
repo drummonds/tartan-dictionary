@@ -19,6 +19,6 @@ crumbs:
 <tr><td><a href="/tartans/d/dy/dyce-3/">Dyce</a></td><td>1906</td><td>2</td><td>2</td><td>1.47</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/dy/dyce-3/"><img src="/variants/s14/t9k1t1k1t1k8g8y1k1y1g8k8t8w1~x4/sett.png" alt="Dyce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/d/dy/dyce/">Dyce</a></td><td>1880</td><td>1</td><td>1</td><td>5.48</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/dy/dyce/"><img src="k2y1g6k6db6w1-rev.png" alt="Dyce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/dy/dyce/"><img src="/variants/s6/k2y1g6k6db6w1~x4/sett.png" alt="Dyce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

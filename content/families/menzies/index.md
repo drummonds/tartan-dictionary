@@ -25,18 +25,18 @@ A family of [Clan Menzies](/clan/menzies/).
 <tr><td><a href="/tartans/m/me/menzies-dress-2/">Menzies Dress</a></td><td>—</td><td>1</td><td>1</td><td>7.80</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/me/menzies-dress-2/"><img src="/variants/s9/w6k1w2k4w4k2w4k15r1~x2/sett.png" alt="Menzies Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/me/menzies/">Menzies</a></td><td>1831</td><td>4</td><td>4</td><td>7.92</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/me/menzies/"><img src="/variants/s5/r22g17w2lb6r13~x2/sett.png" alt="Menzies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/me/menzies/"><img src="r22g17w2lb6r13-rev.png" alt="Menzies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/me/menzies-1819/">Menzies 1819</a></td><td>1819</td><td>1</td><td>1</td><td>8.35</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/me/menzies-1819/"><img src="/variants/s5/r22g17w2lg6r19~x2/sett.png" alt="Menzies 1819 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/me/menzies-1819/"><img src="r22g17w2lg6r19-rev.png" alt="Menzies 1819 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/me/menzies-2/">Menzies</a></td><td>1934</td><td>2</td><td>2</td><td>9.52</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/me/menzies-2/"><img src="k36w4k3w4k6w2k1w12-rev.png" alt="Menzies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/me/menzies-4/">Menzies</a></td><td>1893</td><td>1</td><td>1</td><td>10.44</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/me/menzies-4/"><img src="dg48r4dg2r4dg6r2dg3r9-rev.png" alt="Menzies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/me/menzies-4/"><img src="/variants/s8/dg48r4dg2r4dg6r2dg3r9~x2/sett.png" alt="Menzies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/me/menzies-hunting/">Menzies Hunting</a></td><td>1893</td><td>1</td><td>2</td><td>11.06</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/me/menzies-hunting/"><img src="/variants/s8/g48r4g2r4g6r2g3r9~x2/sett.png" alt="Menzies Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/me/menzies-hunting-2/">Menzies Hunting</a></td><td>1906</td><td>1</td><td>1</td><td>11.86</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/me/menzies-hunting-2/"><img src="k48r4k2r4k6r2k3r9-rev.png" alt="Menzies Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/me/menzies-hunting-2/"><img src="/variants/s8/k48r4k2r4k6r2k3r9~x2/sett.png" alt="Menzies Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/me/menzies-3/">Menzies</a></td><td>—</td><td>1</td><td>1</td><td>13.33</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/me/menzies-3/"><img src="k19g10k6g10k12g6k4g14-rev.png" alt="Menzies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/me/menzies-3/"><img src="/variants/s8/k19g10k6g10k12g6k4g14~x2/sett.png" alt="Menzies sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -21,7 +21,7 @@ crumbs:
 <tr><td><a href="/tartans/h/hu/hueg/">Hueg</a></td><td>2011</td><td>1</td><td>1</td><td>8.04</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/hu/hueg/"><img src="r10k10r4g2r2k2r4g12db12g3db4-rev.png" alt="Hueg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/hu/hueg-2/">Hueg</a></td><td>2011</td><td>1</td><td>1</td><td>9.06</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/hu/hueg-2/"><img src="r4w4r5t4r12dg4r12g8t13db3t4-rev.png" alt="Hueg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/hu/hueg-2/"><img src="/variants/s11/r4w4r5t4r12dg4r12g8t13db3t4~x2/sett.png" alt="Hueg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/hu/hueg-hunting/">Hueg Hunting</a></td><td>2011</td><td>1</td><td>1</td><td>9.21</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/hu/hueg-hunting/"><img src="r10do10r4dg2r2do2r4dg12db12dg3db4-rev.png" alt="Hueg Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

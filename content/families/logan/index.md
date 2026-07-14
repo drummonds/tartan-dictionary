@@ -33,7 +33,7 @@ crumbs:
 <tr><td><a href="/tartans/l/lo/logan-6/">Logan</a></td><td>1819</td><td>1</td><td>1</td><td>7.34</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/l/lo/logan-6/"><img src="/variants/s7/g9ri4g1ri4g15r4g1~x4~ri2806019-r2109032/sett.png" alt="Logan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/l/lo/logan-9/">Logan</a></td><td>1831</td><td>1</td><td>1</td><td>7.55</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/l/lo/logan-9/"><img src="r10db6r3db3r3db28k22g28r2k2ly4k2r2g28k22db28r3db3r3db6r5-rev.png" alt="Logan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/l/lo/logan-9/"><img src="/variants/s21/r10db6r3db3r3db28k22g28r2k2ly4k2r2g28k22db28r3db3r3db6r5~x2/sett.png" alt="Logan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/l/lo/logan-2/">Logan</a></td><td>—</td><td>1</td><td>1</td><td>7.67</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/l/lo/logan-2/"><img src="/variants/s7/g10b4g1b4g15r4g1~x4/sett.png" alt="Logan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

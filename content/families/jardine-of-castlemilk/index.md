@@ -21,6 +21,6 @@ A family of [Clan Jardine,](/clan/jardine/).
 <tr><td><a href="/tartans/j/ja/jardine-of-castlemilk-3/">Jardine, of Castlemilk</a></td><td>—</td><td>1</td><td>1</td><td>6.33</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/j/ja/jardine-of-castlemilk-3/"><img src="/variants/s8/do9o9b9r1db1o9db1r1~x4/sett.png" alt="Jardine, of Castlemilk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/j/ja/jardine-of-castlemilk/">Jardine of Castlemilk</a></td><td>~1978</td><td>2</td><td>2</td><td>12.51</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/j/ja/jardine-of-castlemilk/"><img src="/variants/s8/do9dy9n9r1db1dy9db1r1~x4/sett.png" alt="Jardine of Castlemilk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/j/ja/jardine-of-castlemilk/"><img src="do9dy9n9r1db1dy9db1r1-rev.png" alt="Jardine of Castlemilk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

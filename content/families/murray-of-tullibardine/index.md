@@ -25,7 +25,7 @@ A family of [Clan Murray](/clan/murray/).
 <tr><td><a href="/tartans/m/mu/murray-of-tullibardine-5/">Murray of Tullibardine 5</a></td><td>—</td><td>1</td><td>1</td><td>3.41</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mu/murray-of-tullibardine-5/"><img src="/variants/s25/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4g4r14g27r9db6r6k3/sett.png" alt="Murray of Tullibardine 5 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/mu/murray-of-tullibardine-3/">Murray of Tullibardine</a></td><td>1900</td><td>1</td><td>1</td><td>3.98</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mu/murray-of-tullibardine-3/"><img src="/variants/s21/k4r3k3r4k22r4k3r3dg4r3k3r44k30r10dg10r40dg30r27k10r14dg3~x2/sett.png" alt="Murray of Tullibardine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mu/murray-of-tullibardine-3/"><img src="k4r3k3r4k22r4k3r3dg4r3k3r44k30r10dg10r40dg30r27k10r14dg3-rev.png" alt="Murray of Tullibardine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/mu/murray-of-tullibardine-3/">Murray of Tullibardine 3</a></td><td>—</td><td>1</td><td>1</td><td>4.37</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mu/murray-of-tullibardine-3/"><img src="k4r5dp6r8g12r13g2r2dp12r20dp2r2dp4r2dp2r3dp6r3dp2r2dp4-rev.png" alt="Murray of Tullibardine 3 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

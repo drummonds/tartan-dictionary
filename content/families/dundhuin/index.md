@@ -19,6 +19,6 @@ crumbs:
 <tr><td><a href="/tartans/d/du/dundhuin-dress/">Dundhuin Dress</a></td><td>2010</td><td>1</td><td>1</td><td>4.27</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/du/dundhuin-dress/"><img src="o62n17ly12y8dg8-rev.png" alt="Dundhuin Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/d/du/dundhuin-hunting/">Dundhuin Hunting</a></td><td>2010</td><td>1</td><td>1</td><td>5.00</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/du/dundhuin-hunting/"><img src="dg62y17ly12n8o8-rev.png" alt="Dundhuin Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/du/dundhuin-hunting/"><img src="/variants/s5/dg62y17ly12n8o8~x2/sett.png" alt="Dundhuin Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

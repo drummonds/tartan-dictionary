@@ -19,6 +19,6 @@ crumbs:
 <tr><td><a href="/tartans/n/no/norris/">Norris</a></td><td>1998</td><td>2</td><td>2</td><td>6.29</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/n/no/norris/"><img src="/variants/s6/k2w1g5dr1lb18r2~x2/sett.png" alt="Norris sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/n/no/norris-hunting/">Norris Hunting</a></td><td>1999</td><td>1</td><td>1</td><td>8.46</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/n/no/norris-hunting/"><img src="k2w1n8dr1lb28dr2-rev.png" alt="Norris Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/n/no/norris-hunting/"><img src="/variants/s6/k2w1n8dr1lb28dr2~x2/sett.png" alt="Norris Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

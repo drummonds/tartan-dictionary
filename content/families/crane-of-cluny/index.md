@@ -21,6 +21,6 @@ A family of [Clan Crane](/clan/crane/).
 <tr><td><a href="/tartans/c/cr/crane-of-cluny-dress/">Crane of Cluny Dress</a></td><td>2002</td><td>1</td><td>1</td><td>1.60</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cr/crane-of-cluny-dress/"><img src="/variants/s8/w83k6w3k9r2k5w2y2~x2/sett.png" alt="Crane of Cluny Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/cr/crane-of-cluny-hunting/">Crane of Cluny Hunting</a></td><td>2003</td><td>1</td><td>1</td><td>8.77</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cr/crane-of-cluny-hunting/"><img src="/variants/s8/ly83k6ly3k9r2k5ly2y2~x2/sett.png" alt="Crane of Cluny Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cr/crane-of-cluny-hunting/"><img src="ly83k6ly3k9r2k5ly2y2-rev.png" alt="Crane of Cluny Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

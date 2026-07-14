@@ -25,10 +25,10 @@ A family of [Clan Hamilton](/clan/hamilton/).
 <tr><td><a href="/tartans/h/ha/hamilton-5/">Hamilton</a></td><td>1842</td><td>2</td><td>3</td><td>5.49</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ha/hamilton-5/"><img src="/variants/s5/db6r1db6r9w1~x4/sett.png" alt="Hamilton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/ha/hamilton-3/">Hamilton</a></td><td>1842</td><td>1</td><td>1</td><td>9.18</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ha/hamilton-3/"><img src="r15db8r2db8r2db8r15w2-rev.png" alt="Hamilton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ha/hamilton-3/"><img src="/variants/s8/r15db8r2db8r2db8r15w2~x4~db1406275-w3600000/sett.png" alt="Hamilton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/ha/hamilton-4/">Hamilton</a></td><td>1997</td><td>1</td><td>1</td><td>9.33</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ha/hamilton-4/"><img src="o23dr4o23dr32lo4-rev.png" alt="Hamilton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/ha/hamilton/">Hamilton</a></td><td>1997</td><td>1</td><td>1</td><td>9.61</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ha/hamilton/"><img src="dr32lo4dr32o23dr4o23dr4o23-rev.png" alt="Hamilton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ha/hamilton/"><img src="/variants/s8/dr32lo4dr32o23dr4o23dr4o23~x2/sett.png" alt="Hamilton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

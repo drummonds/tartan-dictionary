@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/m/mi/mitchell-2/">Mitchell</a> ★</td><td>1815</td><td>2</td><td>3</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mi/mitchell-2/"><img src="/variants/s6/k2g12k12r1db12w2~x2/sett.png" alt="Mitchell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/mi/mitchell/">Mitchell</a></td><td>—</td><td>1</td><td>1</td><td>2.75</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mi/mitchell/"><img src="db17dr2k16g17k2g17k16dr2db17lr2-rev.png" alt="Mitchell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mi/mitchell/"><img src="/variants/s10/db17dr2k16g17k2g17k16dr2db17lr2~x2/sett.png" alt="Mitchell sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/b/ba/bacon-2/">Bacon</a> ★</td><td>—</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/ba/bacon-2/"><img src="/variants/s4/db14k3dr3w1~x2/sett.png" alt="Bacon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/b/ba/bacon/">Bacon</a></td><td>~2002</td><td>2</td><td>2</td><td>1.53</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/ba/bacon/"><img src="/variants/s4/dr14k3dg3w1~x2/sett.png" alt="Bacon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/ba/bacon/"><img src="dr14k3dg3w1-rev.png" alt="Bacon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

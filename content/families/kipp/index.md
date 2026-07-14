@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/k/ki/kipp/">Kipp</a> ★</td><td>1996</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/k/ki/kipp/"><img src="/variants/s7/db2lo10lb1o8g7dr10lb2~x2/sett.png" alt="Kipp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/k/ki/kipp-2/">Kipp</a></td><td>—</td><td>1</td><td>1</td><td>4.17</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/k/ki/kipp-2/"><img src="db1y7w1b7g7dr7w1-rev.png" alt="Kipp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/k/ki/kipp-2/"><img src="/variants/s7/db1y7w1b7g7dr7w1~x2/sett.png" alt="Kipp sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

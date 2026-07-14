@@ -17,7 +17,7 @@ crumbs:
 <tr><td><a href="/tartans/e/er/erskine-4/">Erskine</a> ★</td><td>1980</td><td>4</td><td>4</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/e/er/erskine-4/"><img src="/variants/s6/db6w2db29w29db2w6~x2/sett.png" alt="Erskine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/e/er/erskine-blue-dress/">Erskine Blue Dress</a></td><td>1971</td><td>1</td><td>1</td><td>0.67</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/e/er/erskine-blue-dress/"><img src="/variants/s6/w5lb2w25lb25w2lb5~x2/sett.png" alt="Erskine Blue Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/e/er/erskine-blue-dress/"><img src="w5lb2w25lb25w2lb5-rev.png" alt="Erskine Blue Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/e/er/erskine/">Erskine</a></td><td>1995</td><td>1</td><td>1</td><td>3.61</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/e/er/erskine/"><img src="/variants/s6/db3w1db12b12db1b3~x4/sett.png" alt="Erskine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/e/er/erskine-6/">Erskine</a></td><td>1980</td><td>1</td><td>1</td><td>6.32</td></tr>

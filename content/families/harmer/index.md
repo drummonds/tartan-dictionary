@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/h/ha/harmer/">Harmer</a> ★</td><td>1997</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ha/harmer/"><img src="/variants/s12/dg36ly8k9ly24dg4ly12dg4ly24k9ly8dg36dr4/sett.png" alt="Harmer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/ha/harmer-2/">Harmer</a></td><td>~1997</td><td>2</td><td>2</td><td>2.37</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ha/harmer-2/"><img src="ly12dg4ly24k9ly8dg36dr4-rev.png" alt="Harmer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ha/harmer-2/"><img src="/variants/s7/ly12dg4ly24k9ly8dg36dr4/sett.png" alt="Harmer sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

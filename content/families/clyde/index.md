@@ -23,6 +23,6 @@ crumbs:
 <tr><td><a href="/tartans/c/cl/clyde-4/">Clyde</a></td><td>~1992</td><td>1</td><td>1</td><td>6.64</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cl/clyde-4/"><img src="/variants/s10/lb4n2lb18r2n5o16r2o2r2o2~x2~n1900000-o2500000/sett.png" alt="Clyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/cl/clyde-2/">Clyde</a></td><td>2011</td><td>2</td><td>2</td><td>9.99</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cl/clyde-2/"><img src="/variants/s7/r64k30y30db18w4db2w3/sett.png" alt="Clyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/c/cl/clyde-2/"><img src="r64k30y30db18w4db2w3-rev.png" alt="Clyde sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

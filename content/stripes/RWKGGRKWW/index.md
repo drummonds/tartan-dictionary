@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/gi/gillespie/">Gillespie</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gi/gillespie/"><img src="/variants/s9/r13lb1k3dy1g4r1k2lb1w1~x4/sett.png" alt="Gillespie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gi/gillespie/"><img src="/variants/s9/r13lb1k3y1g4r1k2lb1w1~x4/sett.png" alt="Gillespie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

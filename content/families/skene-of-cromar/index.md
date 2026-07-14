@@ -21,6 +21,6 @@ A family of [Clan Skene](/clan/skene/).
 <tr><td><a href="/tartans/s/sk/skene-of-cromar-2/">Skene of Cromar</a></td><td>~2002</td><td>1</td><td>2</td><td>3.89</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sk/skene-of-cromar-2/"><img src="k4r37db37r2db37g37r37k4-rev.png" alt="Skene of Cromar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/sk/skene-of-cromar-3/">Skene of Cromar</a></td><td>2002</td><td>1</td><td>1</td><td>6.33</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sk/skene-of-cromar-3/"><img src="/variants/s14/r37db37r2db37g37r37k4r37g37db37r2db37r37k4~x2~db1406275/sett.png" alt="Skene of Cromar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sk/skene-of-cromar-3/"><img src="r37db37r2db37g37r37k4r37g37db37r2db37r37k4-rev.png" alt="Skene of Cromar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

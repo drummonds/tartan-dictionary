@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/b/bl/black-2/">Black</a> ★</td><td>~1945</td><td>3</td><td>3</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/bl/black-2/"><img src="/variants/s6/k17dr6k2lb6k17ly2~x2/sett.png" alt="Black sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/b/bl/black/">Black</a></td><td>~1991</td><td>1</td><td>1</td><td>5.41</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/bl/black/"><img src="k17db3k4r1k17r2k3r2k17r3k17r3g3r3-rev.png" alt="Black sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/bl/black/"><img src="/variants/s14/k17db3k4r1k17r2k3r2k17r3k17r3g3r3~x2/sett.png" alt="Black sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

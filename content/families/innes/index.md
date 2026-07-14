@@ -23,13 +23,13 @@ A family of [Clan Innes,](/clan/innes/).
 <tr><td><a href="/tartans/i/in/innes-dress-3/">Innes Dress</a></td><td>~2002</td><td>1</td><td>1</td><td>3.04</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/i/in/innes-dress-3/"><img src="/variants/s17/t3k2lr20dr2lr3dr2lr3dr4lo3dr2db4dr2k2g6k3dr2lr3~x2/sett.png" alt="Innes Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/i/in/innes/">Innes</a></td><td>—</td><td>1</td><td>1</td><td>4.71</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/i/in/innes/"><img src="/variants/s22/r24k4r4k4r4k24lb7k24r4k4r4k4r24y4r6db12r6k4g20k4r6w4/sett.png" alt="Innes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/i/in/innes/"><img src="r24k4r4k4r4k24lb7k24r4k4r4k4r24y4r6db12r6k4g20k4r6w4-rev.png" alt="Innes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/i/in/innes-hunting-3/">Innes, hunting</a></td><td>—</td><td>1</td><td>1</td><td>4.91</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/i/in/innes-hunting-3/"><img src="w3o3k3g15db3o3db8o3y3o18k3o3k4o3k18lb3-rev.png" alt="Innes, hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/i/in/innes-dress/">Innes Dress</a></td><td>~2003</td><td>1</td><td>1</td><td>5.89</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/i/in/innes-dress/"><img src="lb4k12r2k2r2k2w12y2w3db6w3k2g12k2w3r2-rev.png" alt="Innes Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/i/in/innes-dress/"><img src="/variants/s16/lb4k12r2k2r2k2w12y2w3db6w3k2g12k2w3r2~x2/sett.png" alt="Innes Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/i/in/innes-dress-2/">Innes Dress</a></td><td>~2002</td><td>1</td><td>1</td><td>5.91</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/i/in/innes-dress-2/"><img src="lg4k12r2k2r2k2w12y2w3t6k3g12k2w3r2-rev.png" alt="Innes Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/i/in/innes-dress-2/"><img src="/variants/s15/lg4k12r2k2r2k2w12y2w3t6k3g12k2w3r2~x3/sett.png" alt="Innes Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/i/in/innes-hunting-2/">Innes Hunting</a></td><td>~1992</td><td>1</td><td>1</td><td>6.04</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/i/in/innes-hunting-2/"><img src="w3dy3k3g15db3dy3db8dy3y3dy18k3dy3k4dy3k18lb3-rev.png" alt="Innes Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/i/in/innes-2/">Innes</a></td><td>1850</td><td>1</td><td>2</td><td>10.53</td></tr>

@@ -27,6 +27,6 @@ crumbs:
 <tr><td><a href="/tartans/r/ro/rothesay-2/">Rothesay</a></td><td>1906</td><td>1</td><td>1</td><td>12.58</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ro/rothesay-2/"><img src="g4r16g4r2g3r2g32w1g1w2-rev.png" alt="Rothesay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/r/ro/rothesay-3/">Rothesay</a></td><td>1840</td><td>3</td><td>3</td><td>13.08</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ro/rothesay-3/"><img src="/variants/s17/w8r83g7r5g7r7g28r7g28r7g7r5g7r83w4r4w8/sett.png" alt="Rothesay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/r/ro/rothesay-3/"><img src="w8r83g7r5g7r7g28r7g28r7g7r5g7r83w4r4w8-rev.png" alt="Rothesay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

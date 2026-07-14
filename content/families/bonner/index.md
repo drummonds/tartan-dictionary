@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/b/bo/bonner/">Bonner</a> ★</td><td>~2002</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/bo/bonner/"><img src="/variants/s14/db15k2db2k2db2k14dg18k1y2k1dg18k14db18r2~x2/sett.png" alt="Bonner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/b/bo/bonner-2/">Bonner</a></td><td>1930</td><td>1</td><td>1</td><td>6.23</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/bo/bonner-2/"><img src="/variants/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/sett.png" alt="Bonner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/bo/bonner-2/"><img src="r13k1r3g10r5k2r3k12db2k2db2k2db12-rev.png" alt="Bonner sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

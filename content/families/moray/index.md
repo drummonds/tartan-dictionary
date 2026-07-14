@@ -19,6 +19,6 @@ A family of [Clan Moray](/clan/moray/).
 <tr><td><a href="/tartans/m/mo/moray/">Moray</a> ★</td><td>1820</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mo/moray/"><img src="/variants/s20/g28r1g2r3g1r16g1r3g2r1g14k3y3k3db3k3r48w3r3w3~x2/sett.png" alt="Moray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/mo/moray-2/">Moray</a></td><td>2009</td><td>1</td><td>1</td><td>11.64</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mo/moray-2/"><img src="/variants/s8/db15dp3db30k22dg18dp3dg3w3~x2/sett.png" alt="Moray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/mo/moray-2/"><img src="db15dp3db30k22dg18dp3dg3w3-rev.png" alt="Moray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

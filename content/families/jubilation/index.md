@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/j/ju/jubilation-2/">Jubilation</a> ★</td><td>1977</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/j/ju/jubilation-2/"><img src="/variants/s14/r11w13db30w13db11w2db8w2db11w13db30w13r11db2~x2/sett.png" alt="Jubilation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/j/ju/jubilation/">Jubilation</a></td><td>~2002</td><td>2</td><td>2</td><td>8.34</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/j/ju/jubilation/"><img src="/variants/s7/b13w13b30w13b11w2b8~x2/sett.png" alt="Jubilation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/j/ju/jubilation/"><img src="b13w13b30w13b11w2b8-rev.png" alt="Jubilation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

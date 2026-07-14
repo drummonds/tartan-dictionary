@@ -19,6 +19,6 @@ crumbs:
 <tr><td><a href="/tartans/n/ne/newfoundland-2/">Newfoundland</a></td><td>1955</td><td>2</td><td>2</td><td>11.26</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/n/ne/newfoundland-2/"><img src="r6g4dy14w4dy7g30y4-rev.png" alt="Newfoundland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/n/ne/newfoundland/">Newfoundland</a></td><td>1955</td><td>2</td><td>2</td><td>11.80</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/n/ne/newfoundland/"><img src="r4g3o8w3o4g18y3-rev.png" alt="Newfoundland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/n/ne/newfoundland/"><img src="/variants/s7/r4g3o8w3o4g18y3~x2/sett.png" alt="Newfoundland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -27,8 +27,8 @@ The **Estes** tartan groups 3 setts — the same named design recorded as differ
 <tbody>
 <tr><td><a href="/variants/s15/r4g1r1g5k1lo1k1lo1k6lb1k1lb15w1lb1w1~x4/">Estes</a> ★</td><td></td><td><code>R/16 G4 R4 G20 K4 LO4 K4 LO4 K24 LB4 K4 LB60 W4 LB4 W/4</code></td><td>308</td><td>1986</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r4g1r1g5k1lo1k1lo1k6lb1k1lb15w1lb1w1~x4/"><img src="/variants/s15/r4g1r1g5k1lo1k1lo1k6lb1k1lb15w1lb1w1~x4/sett.png" alt="Estes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/r6b2r2b8k2y2k2y2k10db2k2db23w2db2w2~x2/">Estes</a></td><td>1.48</td><td><code>W/4 DB4 W4 DB46 K4 DB4 K20 Y4 K4 Y4 K4 B16 R4 B4 R/12</code></td><td>260</td><td>—</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r6b2r2b8k2y2k2y2k10db2k2db23w2db2w2~x2/"><img src="r6b2r2b8k2y2k2y2k10db2k2db23w2db2w2-rev.png" alt="Estes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s15/r6b2r2b8k2y2k2y2k10db2k2db23w2db2w2~x2/">Estes</a></td><td>1.48</td><td><code>R/12 B4 R4 B16 K4 Y4 K4 Y4 K20 DB4 K4 DB46 W4 DB4 W/4</code></td><td>260</td><td>—</td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r6b2r2b8k2y2k2y2k10db2k2db23w2db2w2~x2/"><img src="/variants/s15/r6b2r2b8k2y2k2y2k10db2k2db23w2db2w2~x2/sett.png" alt="Estes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s15/r6g2r2g8k2y2k2y2k10db2k2db23w2db2w2~x2/">Family Tartan</a></td><td>0.90</td><td><code>R/12 G4 R4 G16 K4 Y4 K4 Y4 K20 DB4 K4 DB46 W4 DB4 W/4</code></td><td>260</td><td>1985</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/r6g2r2g8k2y2k2y2k10db2k2db23w2db2w2~x2/"><img src="/variants/s15/r6g2r2g8k2y2k2y2k10db2k2db23w2db2w2~x2/sett.png" alt="Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

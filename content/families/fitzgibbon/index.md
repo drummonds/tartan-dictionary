@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/f/fi/fitzgibbon-2/">Fitzgibbon</a> ★</td><td>2005</td><td>1</td><td>2</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fi/fitzgibbon-2/"><img src="/variants/s9/dg2ly6g24r2dy2dg1dy6dg10g2~x2/sett.png" alt="Fitzgibbon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/f/fi/fitzgibbon/">Fitzgibbon</a></td><td>2009</td><td>1</td><td>1</td><td>10.69</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fi/fitzgibbon/"><img src="/variants/s9/dr2k6dr24g2dr2r1dr6k1r2~x2/sett.png" alt="Fitzgibbon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/f/fi/fitzgibbon/"><img src="dr2k6dr24g2dr2r1dr6k1r2-rev.png" alt="Fitzgibbon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

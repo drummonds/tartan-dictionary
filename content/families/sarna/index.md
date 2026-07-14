@@ -17,7 +17,7 @@ crumbs:
 <tr><td><a href="/tartans/s/sa/sarna-3/">Sarna</a> ★</td><td>1783</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sa/sarna-3/"><img src="/variants/s16/dy13r1dy2r2dy2r1dy2r5dy11r1dy2g2dy2r1dy2g7~x2/sett.png" alt="Sarna sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/sa/sarna-4/">Sarna</a></td><td>~2002</td><td>1</td><td>1</td><td>5.69</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sa/sarna-4/"><img src="/variants/s13/g8ly2dy4dp4g3dp4dy42g4r3g4dy4dp5r3~ly3307090-dy1603076/sett.png" alt="Sarna sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sa/sarna-4/"><img src="g8ly2dy4dp4g3dp4dy42g4r3g4dy4dp5r3-rev.png" alt="Sarna sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/sa/sarna-2/">Sarna</a></td><td>—</td><td>1</td><td>1</td><td>6.21</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sa/sarna-2/"><img src="g8y2o4dp4g3dp4o42g4r3g4o4dp5r3-rev.png" alt="Sarna sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/sa/sarna/">Sarna</a></td><td>—</td><td>1</td><td>1</td><td>8.63</td></tr>

@@ -21,6 +21,6 @@ crumbs:
 <tr><td><a href="/tartans/a/as/asman-hunting/">Asman Hunting</a></td><td>—</td><td>1</td><td>1</td><td>4.22</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/a/as/asman-hunting/"><img src="db4y3db17r7w2o7w2db7b17o3b4-rev.png" alt="Asman Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/a/as/asman-hunting-2/">Asman Hunting</a></td><td>1989</td><td>1</td><td>2</td><td>4.49</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/a/as/asman-hunting-2/"><img src="db4dy3db22r6w2k6w2db6n20k3n4-rev.png" alt="Asman Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/a/as/asman-hunting-2/"><img src="/variants/s11/db4dy3db22r6w2k6w2db6n20k3n4~x2/sett.png" alt="Asman Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

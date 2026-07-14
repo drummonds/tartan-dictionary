@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/l/le/leslie-hebridean/">Leslie, Hebridean</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/l/le/leslie-hebridean/"><img src="/variants/s6/k6g15w2db22r2k4~x2/sett.png" alt="Leslie, Hebridean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/l/le/leslie-hebridean/"><img src="/variants/s6/k6g11w2db22r2k4~x2/sett.png" alt="Leslie, Hebridean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

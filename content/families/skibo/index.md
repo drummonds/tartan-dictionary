@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/s/sk/skibo/">Skibo</a> ★</td><td>1999</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sk/skibo/"><img src="/variants/s8/dg23db11t22r2t22db11dg23r2~x2~db1406275/sett.png" alt="Skibo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/sk/skibo-2/">Skibo</a></td><td>~1999</td><td>2</td><td>2</td><td>2.87</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sk/skibo-2/"><img src="/variants/s5/r2dg23db11t22r2~x2/sett.png" alt="Skibo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/sk/skibo-2/"><img src="r2dg23db11t22r2-rev.png" alt="Skibo sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

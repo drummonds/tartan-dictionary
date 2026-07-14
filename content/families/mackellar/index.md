@@ -25,7 +25,7 @@ crumbs:
 <tr><td><a href="/tartans/m/ma/mackellar-dress-5/">MacKellar, dress</a></td><td>—</td><td>1</td><td>1</td><td>6.64</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackellar-dress-5/"><img src="/variants/s11/o35w4o3y7o3w4o7do15n4w36n5~x2/sett.png" alt="MacKellar, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackellar-dress-2/">MacKellar Dress</a></td><td>2002</td><td>2</td><td>2</td><td>7.02</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackellar-dress-2/"><img src="/variants/s11/r27w2r3b4r3w2r5k13ri2w26dg3~x2~r2109032-ri2806019/sett.png" alt="MacKellar Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackellar-dress-2/"><img src="r27w2r3b4r3w2r5k13ri2w26dg3-rev.png" alt="MacKellar Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackellar-dress-3/">MacKellar Dress</a></td><td>—</td><td>1</td><td>1</td><td>9.10</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/mackellar-dress-3/"><img src="/variants/s11/ly35w4ly3y7ly3w4ly7do15n4w36n5~x2/sett.png" alt="MacKellar Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

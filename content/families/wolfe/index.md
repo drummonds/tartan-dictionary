@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/w/wo/wolfe-2/">Wolfe</a> ★</td><td>1950</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wo/wolfe-2/"><img src="/variants/s12/r36dg4r13dg13r4dg4r4dg13r13dg4r36lo4~x2/sett.png" alt="Wolfe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wo/wolfe/">Wolfe</a></td><td>1950</td><td>1</td><td>1</td><td>2.63</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wo/wolfe/"><img src="dg4r4dg13r13dg4r36lo4-rev.png" alt="Wolfe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/w/wo/wolfe/"><img src="/variants/s7/dg4r4dg13r13dg4r36lo4~x2/sett.png" alt="Wolfe sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

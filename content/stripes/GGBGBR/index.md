@@ -34,7 +34,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/d/du/dunbog-primary-school/"><img src="/variants/s6/r12dbi3g5db16y2g2~x2~dbi1604274-db0805267/sett.png" alt="Dunbog Primary School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/g/go/gorman-george/">Gorman, George</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/go/gorman-george/"><img src="/variants/s6/dg9dgi1dp2dgi1db4r1~x12~dg1104144-dgi1706142/sett.png" alt="Gorman, George sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/go/gorman-george/"><img src="/variants/s6/dg9g1b2g1db4r1~x12~dg1806142-g2408144/sett.png" alt="Gorman, George sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/i/is/isle-of-rona/">Isle of Rona</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/i/is/isle-of-rona/"><img src="/variants/s6/r4t19g10n10dy15y2~x2/sett.png" alt="Isle of Rona sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

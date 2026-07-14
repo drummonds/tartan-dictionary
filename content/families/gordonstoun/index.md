@@ -25,6 +25,6 @@ crumbs:
 <tr><td><a href="/tartans/g/go/gordonstoun-4/">Gordonstoun</a></td><td>1956</td><td>2</td><td>2</td><td>5.93</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/go/gordonstoun-4/"><img src="y4g20r3db11lb3r11g11r3k20r3k3lb3-rev.png" alt="Gordonstoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/g/go/gordonstoun-2/">Gordonstoun</a></td><td>1957</td><td>2</td><td>2</td><td>8.50</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/go/gordonstoun-2/"><img src="y5g19dr2t11lb2dr11g11dr2gi20dr2gi2lb2-rev.png" alt="Gordonstoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/g/go/gordonstoun-2/"><img src="/variants/s12/y5g19dr2t11lb2dr11g11dr2gi20dr2gi2lb2~x2~g1903114-t2503227-lb3103284-gi2203152/sett.png" alt="Gordonstoun sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

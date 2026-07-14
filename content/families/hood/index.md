@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/h/ho/hood-2/">Hood</a> ★</td><td>1800</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ho/hood-2/"><img src="/variants/s40/n2k2n8db8k2n2k2w2k11db8n46k8n2k8n2k8n2k8n2k8n2k8n2k8n2k8n2k8n46db8k11w2k2n2k2db8n8k2n2w2~x2/sett.png" alt="Hood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/ho/hood/">Hood</a></td><td>~1800</td><td>1</td><td>1</td><td>2.81</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ho/hood/"><img src="/variants/s21/k8n2k8n2k8n2k8n2k8n46db8k11w2k2n2k2db8n8k2n2w2~x2/sett.png" alt="Hood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/ho/hood/"><img src="k8n2k8n2k8n2k8n2k8n46db8k11w2k2n2k2db8n8k2n2w2-rev.png" alt="Hood sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

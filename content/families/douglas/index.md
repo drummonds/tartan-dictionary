@@ -27,10 +27,10 @@ A family of [Clan Douglas](/clan/douglas/).
 <tr><td><a href="/tartans/d/do/douglas-7/">Douglas</a></td><td>2002</td><td>1</td><td>1</td><td>4.98</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/do/douglas-7/"><img src="/variants/s5/k8lo2n30dr30lb3~x2/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/d/do/douglas-ancient-dress/">Douglas Ancient Dress</a></td><td>~2003</td><td>1</td><td>1</td><td>7.53</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/do/douglas-ancient-dress/"><img src="/variants/s19/r6k6n1k6n1k2n5k1n5r3k2y3k2n3k8w11k2w4n2~x2/sett.png" alt="Douglas Ancient Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/do/douglas-ancient-dress/"><img src="r6k6n1k6n1k2n5k1n5r3k2y3k2n3k8w11k2w4n2-rev.png" alt="Douglas Ancient Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/d/do/douglas-6/">Douglas</a></td><td>2002</td><td>1</td><td>1</td><td>7.94</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/do/douglas-6/"><img src="k2dr24n24k2n2k2n3k14dr2k2-rev.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/do/douglas-6/"><img src="/variants/s10/k2dr24n24k2n2k2n3k14dr2k2~x2/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/d/do/douglas-3/">Douglas</a></td><td>1842</td><td>2</td><td>2</td><td>8.88</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/do/douglas-3/"><img src="/variants/s8/k10n1k2n1k4n10k1n2~x4/sett.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/do/douglas-3/"><img src="k10n1k2n1k4n10k1n2-rev.png" alt="Douglas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

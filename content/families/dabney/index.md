@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/d/da/dabney/">Dabney</a> ★</td><td>2008</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/da/dabney/"><img src="/variants/s11/r2lb2r1lb24o1n3k3lb3o12lb4r1~x2~o2500000-n1900000/sett.png" alt="Dabney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/d/da/dabney-2/">Dabney</a></td><td>2008</td><td>1</td><td>1</td><td>6.93</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/da/dabney-2/"><img src="r5t3r24g7db6r3g3r3g11r6db3r3t3-rev.png" alt="Dabney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/d/da/dabney-2/"><img src="/variants/s13/r5t3r24g7db6r3g3r3g11r6db3r3t3~x2/sett.png" alt="Dabney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

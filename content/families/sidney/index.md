@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/s/si/sidney-2/">Sidney</a> ★</td><td>—</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/si/sidney-2/"><img src="/variants/s8/n16k4w2k4n6b11n2b16~x2/sett.png" alt="Sidney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/s/si/sidney/">Sidney</a></td><td>1986</td><td>1</td><td>1</td><td>2.81</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/si/sidney/"><img src="/variants/s8/n16k4w2k4n6r11n2r16~x2/sett.png" alt="Sidney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/s/si/sidney/"><img src="n16k4w2k4n6r11n2r16-rev.png" alt="Sidney sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

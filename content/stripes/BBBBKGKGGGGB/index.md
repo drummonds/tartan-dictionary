@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/k/ki/kinloch-anderson-hunting/">Kinloch Anderson Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/ki/kinloch-anderson-hunting/"><img src="/variants/s12/dr4g14dg2g4dg2k6g3k6db14dr2db4dr4~x2/sett.png" alt="Kinloch Anderson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ki/kinloch-anderson-hunting/"><img src="/variants/s12/dr4db4dr2db13k6g3k6y2g4y2g14dp4~x2/sett.png" alt="Kinloch Anderson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

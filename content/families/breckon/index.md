@@ -19,6 +19,6 @@ crumbs:
 <tr><td><a href="/tartans/b/br/breckon-2/">Breckon</a></td><td>2009</td><td>1</td><td>1</td><td>5.30</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/br/breckon-2/"><img src="/variants/s9/k3ly1k14dr14ly1dr1ly1dr1k2~x4/sett.png" alt="Breckon sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/b/br/breckon-hunting/">Breckon Hunting</a></td><td>2009</td><td>1</td><td>1</td><td>11.23</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/br/breckon-hunting/"><img src="/variants/s9/db3dr1db14dg14dr1dg1dr1dg1dr2~x4/sett.png" alt="Breckon Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/b/br/breckon-hunting/"><img src="db3dr1db14dg14dr1dg1dr1dg1dr2-rev.png" alt="Breckon Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

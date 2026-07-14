@@ -19,9 +19,9 @@ crumbs:
 <tr><td><a href="/tartans/h/he/henderson-dress-2/">Henderson Dress</a></td><td>1996</td><td>2</td><td>2</td><td>2.77</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/he/henderson-dress-2/"><img src="/variants/s9/y1k6g4k1w16b1w4b6w1~x2/sett.png" alt="Henderson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/he/henderson-dress-4/">Henderson Dress</a></td><td>1996</td><td>1</td><td>1</td><td>6.77</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/he/henderson-dress-4/"><img src="/variants/s16/k6g4k1w16lb1w4lb6w1lb6w4lb1w16k1g4k6y1~x2/sett.png" alt="Henderson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/he/henderson-dress-4/"><img src="k6g4k1w16lb1w4lb6w1lb6w4lb1w16k1g4k6y1-rev.png" alt="Henderson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/he/henderson-dress/">Henderson Dress</a></td><td>~2002</td><td>1</td><td>1</td><td>8.40</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/he/henderson-dress/"><img src="/variants/s9/w1b3w3b1w5k1w2k3lo1~x4/sett.png" alt="Henderson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/he/henderson-dress/"><img src="w1b3w3b1w5k1w2k3lo1-rev.png" alt="Henderson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/he/henderson-dress-3/">Henderson Dress</a></td><td>2002</td><td>1</td><td>1</td><td>8.81</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/h/he/henderson-dress-3/"><img src="/variants/s16/b3w3b1w5k1w2k3lo1k3w2k1w5b1w3b3w1~x4/sett.png" alt="Henderson Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

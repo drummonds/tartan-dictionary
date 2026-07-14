@@ -17,6 +17,6 @@ crumbs:
 <tr><td><a href="/tartans/m/ma/maclamroc-2/">MacLamroc</a> ★</td><td>1999</td><td>1</td><td>1</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/maclamroc-2/"><img src="/variants/s6/y4k1dg16k16r1w3~x2/sett.png" alt="MacLamroc sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/maclamroc/">MacLamroc</a></td><td>—</td><td>1</td><td>1</td><td>3.44</td></tr>
-<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/maclamroc/"><img src="/variants/s10/y4k1r16k16w3r1k16g16k1y4~x2/sett.png" alt="MacLamroc sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td colspan="5" class="sett-swatch"><a href="/tartans/m/ma/maclamroc/"><img src="y4k1r16k16w3r1k16g16k1y4-rev.png" alt="MacLamroc sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

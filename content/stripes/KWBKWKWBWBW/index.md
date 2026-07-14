@@ -28,12 +28,13 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/tartans/c/cl/clark/">Clark</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/cl/clark/"><img src="/variants/s11/k4lb4db14k15lb4k15lb4db7lb4db10lb4~x2/sett.png" alt="Clark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/cl/clergy-7/">Clergy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/cl/clergy-7/"><img src="/variants/s11/k1lb1db6k6lb1k6lb1db2lb1db3lb1~x2/sett.png" alt="Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clergy-7/"><img src="/variants/s11/k2lb2db10k10lb2k10lb2db3lb2db5lb2~x2/sett.png" alt="Clergy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/cl/clergy-two-spirit/">Clergy &quot;Two Spirit&quot;</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/cl/clergy-two-spirit/"><img src="/variants/s11/k1lb1db6k6lp1k6lb1db2lb1db3lb1~x2/sett.png" alt="Clergy &quot;Two Spirit&quot; sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/c/cl/clark/">Clark</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/clark/"><img src="/variants/s11/k4w4db19k19w4k19w4db7w4db11w4~x2/sett.png" alt="Clark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

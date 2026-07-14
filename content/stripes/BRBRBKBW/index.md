@@ -32,7 +32,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/f/fi/first/"><img src="/variants/s8/dp1r4dp1r1dp12k6db16w1~x2/sett.png" alt="First sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/t/to/tokyo-bluebells/">Tokyo Bluebells</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/t/to/tokyo-bluebells/"><img src="/variants/s8/t18r1t1r1t1k7t13w2~x4/sett.png" alt="Tokyo Bluebells sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/t/to/tokyo-bluebells/"><img src="/variants/s8/db18r1db1r1db1k7db13w2~x4/sett.png" alt="Tokyo Bluebells sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

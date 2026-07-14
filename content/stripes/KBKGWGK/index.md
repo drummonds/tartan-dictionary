@@ -34,7 +34,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-64-or-abercrombie/"><img src="/variants/s7/k6g6w1g6k6dp6k1~x4/sett.png" alt="Wilson's, No 64 or Abercrombie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/g/gr/graham-of-montrose-2/">Graham of Montrose</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gr/graham-of-montrose-2/"><img src="/variants/s7/k9g9w2g9k9db9k3~x2/sett.png" alt="Graham of Montrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/graham-of-montrose-2/"><img src="/variants/s7/k4g4w1g4k4db4k1~x2/sett.png" alt="Graham of Montrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

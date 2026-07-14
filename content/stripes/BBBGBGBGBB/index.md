@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/g/gr/gray-2/">Gray</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gr/gray-2/"><img src="/variants/s10/dr3n30g8dr2g2dr2g2dr8n7dr2~x2/sett.png" alt="Gray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/gray-2/"><img src="/variants/s10/b3n30g8b2g2b2g2b8n7b2~x2/sett.png" alt="Gray sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/h/ho/house-of-bruar/">House of Bruar</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/h/ho/house-of-bruar/"><img src="/variants/s10/do26dt28g26dt8y3dt8g26dt28do26dr6~x2/sett.png" alt="House of Bruar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

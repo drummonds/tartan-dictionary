@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/v/vi/vipont/">Vipont</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/v/vi/vipont/"><img src="/variants/s7/dy3k36g14b2k2g14r3~x2/sett.png" alt="Vipont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/v/vi/vipont/"><img src="/variants/s7/r3g14k2b2g14k36y3~x2/sett.png" alt="Vipont sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

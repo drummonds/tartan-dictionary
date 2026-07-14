@@ -29,8 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/ch/chisholm/">Chisholm</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/ch/chisholm/"><img src="/variants/s8/r12dr2w1dr2r3g8r3dr1/sett.png" alt="Chisholm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/ch/chisholm/"><img src="/variants/s8/r12db2w1db2r3g8r3db1/sett.png" alt="Chisholm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/c/ch/chisholm-the/">Chisholm, The</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/ch/chisholm-the/"><img src="/variants/s8/r12t2w1t2r3g8r3t1~x4/sett.png" alt="Chisholm, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

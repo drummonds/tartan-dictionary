@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ro/robieson-playfield/">Robieson Playfield</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ro/robieson-playfield/"><img src="/variants/s13/y1k1r8db1r1dg8k1db8y1dg1y8k1w1~x6/sett.png" alt="Robieson Playfield sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/robieson-playfield/"><img src="/variants/s13/y1k1r8db1r1g8k1db8y1g1y8k1w1~x6/sett.png" alt="Robieson Playfield sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -36,7 +36,7 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-232/"><img src="/variants/s7/t18k7g5r4g7k1y2~x2/sett.png" alt="Wilson's No.232 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/r/re/regent/">Regent</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/re/regent/"><img src="/variants/s7/dp18k7g5r4g7k1dy2~x2/sett.png" alt="Regent sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/re/regent/"><img src="/variants/s7/dp18k7g5r4g7k1y2~x2/sett.png" alt="Regent sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

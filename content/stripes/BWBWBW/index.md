@@ -28,8 +28,6 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/tartans/e/er/erskine-4/">Erskine</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/e/er/erskine-4/"><img src="/variants/s6/n6lb2n25lb25n2lb6~x2/sett.png" alt="Erskine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/e/er/erskine-blanket/">Erskine Blanket</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/e/er/erskine-blanket/"><img src="/variants/s6/db1w1db5w5db1w1~x8/sett.png" alt="Erskine Blanket sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/h/ha/harmony-13/">Harmony 13</a></td></tr>
@@ -50,6 +48,9 @@ second parent, beside its family or clan).
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/d/dr/dram/">Dram!</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/dr/dram/"><img src="/variants/s6/db5lb1db15lb25db1lb5~x4/sett.png" alt="Dram! sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/tartans/e/er/erskine-4/">Erskine</a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/er/erskine-4/"><img src="/variants/s6/dp6w2dp29w29dp2w6~x2/sett.png" alt="Erskine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/e/er/erskine-dress-burgandy/">Erskine Dress Burgandy</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/e/er/erskine-dress-burgandy/"><img src="/variants/s6/dr5w2dr25w25dr2w5~x2/sett.png" alt="Erskine Dress Burgandy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

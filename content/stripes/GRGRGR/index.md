@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/e/er/erskine-2/">Erskine</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/e/er/erskine-2/"><img src="/variants/s6/dg6r1dg24r28dg1r4~x2/sett.png" alt="Erskine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/er/erskine-2/"><img src="/variants/s6/g6r1g24r28g1r4~x2/sett.png" alt="Erskine sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macquarie/">MacQuarie</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macquarie/"><img src="/variants/s6/r16g1r1g1r4g12/sett.png" alt="MacQuarie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/macquarrie-7/">MacQuarrie 7</a></td></tr>

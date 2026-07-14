@@ -35,7 +35,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/l/lo/lovat-or-fraser-2/">Lovat or Fraser</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/l/lo/lovat-or-fraser-2/"><img src="/variants/s6/r80dp19r8g36r10dp2~x2/sett.png" alt="Lovat or Fraser sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackintosh-4/">MacKintosh</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackintosh-4/"><img src="/variants/s6/r70db20r10g40r10db3/sett.png" alt="MacKintosh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackintosh-4/"><img src="/variants/s6/r24db6r3g12r4db1/sett.png" alt="MacKintosh sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackintosh-2/">MacKintosh 2</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/mackintosh-2/"><img src="/variants/s6/r48db2r3g28r4db2~x2/sett.png" alt="MacKintosh 2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/m/ma/mackintosh-3/">MacKintosh 3</a></td></tr>

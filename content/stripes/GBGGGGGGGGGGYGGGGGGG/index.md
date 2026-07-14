@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/e/eb/ebronen/">Ebronen</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/e/eb/ebronen/"><img src="/variants/s20/dyi2dr30dyi6g2dy6dyi6dgi2dyi24y2dyi4y2dy24ly2dyi6y6dg2dyi6dg2y27dyi1~x2~dyi1503076-g2408144-dy1503038-dgi1806142-y1904072/sett.png" alt="Ebronen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/e/eb/ebronen/"><img src="/variants/s20/dyi2dr30dyi6g2dy6dyi6g2dyi24y2dyi4y2dy24ly2dyi6y6dg2dyi6dg2y27dyi1~x2~dyi1503076-dy1503038-y1904072/sett.png" alt="Ebronen sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -19,8 +19,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s5/k9g3k3g12y2~x4/"><img src="/variants/s5/k9g3k3g12y2~x4/sett.png" alt="MacArthur" width="140"><br>MacArthur</a></li>
 <li><a class="tartan" href="/variants/s6/g18ly2g18k4g2k15~x2/"><img src="/variants/s6/g18ly2g18k4g2k15~x2/sett.png" alt="MacArthur (Highland Society)" width="140"><br>MacArthur (Highland Society)</a></li>
 <li><a class="tartan" href="/variants/s6/dg7db1dg1k4dp4k1~x4/"><img src="/variants/s6/dg7db1dg1k4dp4k1~x4/sett.png" alt="MacArthur of Milton Hunting" width="140"><br>MacArthur of Milton Hunting</a></li>
-<li><a class="tartan" href="/variants/s6/k2r16g6r3g8w1~x2/"><img src="/variants/s6/k2r16g6r3g8w1~x2/sett.png" alt="MacAulay" width="140"><br>MacAulay</a></li>
 <li><a class="tartan" href="/variants/s6/k2r16g6r3g8lb1~x2/"><img src="/variants/s6/k2r16g6r3g8lb1~x2/sett.png" alt="MacAulay" width="140"><br>MacAulay</a></li>
+<li><a class="tartan" href="/variants/s6/k2r16g6r3g8w1~x2/"><img src="/variants/s6/k2r16g6r3g8w1~x2/sett.png" alt="MacAulay" width="140"><br>MacAulay</a></li>
 <li><a class="tartan" href="/variants/s9/r96db1g24db1r10db1g12k1w4~x2/"><img src="/variants/s9/r96db1g24db1r10db1g12k1w4~x2/sett.png" alt="MacAulay (MacGregor)" width="140"><br>MacAulay (MacGregor)</a></li>
 <li><a class="tartan" href="/variants/s8/g6k16w1k16g8k4g12r2~x2/"><img src="/variants/s8/g6k16w1k16g8k4g12r2~x2/sett.png" alt="MacAulay Hunting" width="140"><br>MacAulay Hunting</a></li>
 <li><a class="tartan" href="/variants/s9/r50db3g6db1r3db1g8k1lb3~x2/"><img src="/variants/s9/r50db3g6db1r3db1g8k1lb3~x2/sett.png" alt="MacAulay of Ardincaple (Clan)" width="140"><br>MacAulay of Ardincaple (Clan)</a></li>
@@ -448,8 +448,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/dg5lp3dg32k16db32r3db5~x2/"><img src="/variants/s7/dg5lp3dg32k16db32r3db5~x2/sett.png" alt="MacThomas (Clan)" width="140"><br>MacThomas (Clan)</a></li>
 <li><a class="tartan" href="/variants/s18/r18db2r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x2/"><img src="/variants/s18/r18db2r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x2/sett.png" alt="MacTier of Durris" width="140"><br>MacTier of Durris</a></li>
 <li><a class="tartan" href="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x2/"><img src="/variants/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x2/sett.png" alt="MacTier of Durris" width="140"><br>MacTier of Durris</a></li>
-<li><a class="tartan" href="/variants/s12/lb1dg8k1lb2k1y2k1lb2k1r8w1lb1~x4/"><img src="/variants/s12/lb1dg8k1lb2k1y2k1lb2k1r8w1lb1~x4/sett.png" alt="MacWhirter" width="140"><br>MacWhirter</a></li>
 <li><a class="tartan" href="/variants/s22/dg8k1lb2k1y2k1lb2k1r8w1lb1w1r8k1lb2k1y2k1lb2k1dg8lb1~x4/"><img src="/variants/s22/dg8k1lb2k1y2k1lb2k1r8w1lb1w1r8k1lb2k1y2k1lb2k1dg8lb1~x4/sett.png" alt="MacWhirter" width="140"><br>MacWhirter</a></li>
+<li><a class="tartan" href="/variants/s12/lb1dg8k1lb2k1y2k1lb2k1r8w1lb1~x4/"><img src="/variants/s12/lb1dg8k1lb2k1y2k1lb2k1r8w1lb1~x4/sett.png" alt="MacWhirter" width="140"><br>MacWhirter</a></li>
 <li><a class="tartan" href="/variants/s8/dy2g12k10r1t16r2t16r1~x4/"><img src="/variants/s8/dy2g12k10r1t16r2t16r1~x4/sett.png" alt="MacWilliam" width="140"><br>MacWilliam</a></li>
 <li><a class="tartan" href="/variants/s6/dy2g12k10r1t16r2~x4/"><img src="/variants/s6/dy2g12k10r1t16r2~x4/sett.png" alt="MacWilliam (Clan)" width="140"><br>MacWilliam (Clan)</a></li>
 <li><a class="tartan" href="/variants/s6/dy2dg44k10r1db16r2~x2/"><img src="/variants/s6/dy2dg44k10r1db16r2~x2/sett.png" alt="MacWilliam Htg" width="140"><br>MacWilliam Htg</a></li>

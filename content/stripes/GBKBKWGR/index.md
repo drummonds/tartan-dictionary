@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/co/cowan-of-inveresk/">Cowan of Inveresk</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/co/cowan-of-inveresk/"><img src="/variants/s8/r4g16w2k15db15k2db2y2~x2~db1406275/sett.png" alt="Cowan of Inveresk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/co/cowan-of-inveresk/"><img src="/variants/s8/r4g16w2k15db15k2db2dy2~x2/sett.png" alt="Cowan of Inveresk sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

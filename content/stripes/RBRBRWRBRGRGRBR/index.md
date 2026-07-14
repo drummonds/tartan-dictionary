@@ -33,7 +33,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/d/dr/drummond-of-megginch/">Drummond of Megginch</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/dr/drummond-of-megginch/"><img src="/variants/s15/r26db2r6db6r126lb6r6db38r6dg6r6dg130r19db6r18~r2109032-db0906265-lb3203246-dg1405139/sett.png" alt="Drummond of Megginch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/g/gr/grant-d/">Grant D</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/g/gr/grant-d/"><img src="/variants/s15/r3db1r1g10r1g1r1db3r1w1r12db1r1db1r3~x2/sett.png" alt="Grant D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/g/gr/grant-d/"><img src="/variants/s15/r3db1r1g10r1g1r1db3r1lb1r12db1r1db1r3~x2/sett.png" alt="Grant D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/g/gr/grant-and-drummond/">Grant and Drummond</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/g/gr/grant-and-drummond/"><img src="/variants/s15/r3db2r2g38r2g2r2db10r2lb2r37db2r2db2r3~x2/sett.png" alt="Grant and Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/g/gr/grant-of-ballindalloch/">Grant of Ballindalloch</a></td></tr>

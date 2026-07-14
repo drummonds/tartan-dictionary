@@ -27,7 +27,7 @@ The **MacNeil of Barra** tartan groups 2 setts — the same named design recorde
 <tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s6/y3k2g12k12db14w3/">MacNeil of Barra</a></td><td>0.00</td><td><code>Y/3 K2 G12 K12 DB14 W/3</code></td><td>86</td><td>—</td></tr>
 <tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/y3k2g12k12db14w3~x2/">MacNeil 6</a></td><td>0.00</td><td><code>Y/6 K4 G24 K24 DB28 W/6</code></td><td>172</td><td>1886</td></tr>
 <tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s6/y3k2g12k12db14w3/">MacNeil of Barra</a> · <a href="/variants/s6/y3k2g12k12db14w3~x2/">MacNeil 6</a></td></tr>
-<tr><td><a href="/variants/s6/lr3t14k12dg12k2ly3~x4~t2205244-k0700000/">(Clan)</a></td><td>0.46</td><td><code>LR/12 T56 K48 DG48 K8 LY/12</code></td><td>344</td><td>1831</td></tr>
+<tr><td><a href="/variants/s6/lr3t14k12dg12k2ly3~x4~t2205244-k0700000/">(Clan)</a></td><td>0.46</td><td><code>LY/12 K8 DG48 K48 T56 LR/12</code></td><td>344</td><td>1831</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/lr3t14k12dg12k2ly3~x4~t2205244-k0700000/"><img src="lr3t14k12dg12k2ly3-rev.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

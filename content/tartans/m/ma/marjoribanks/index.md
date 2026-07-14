@@ -24,7 +24,7 @@ The **Marjoribanks** tartan groups 2 setts — the same named design recorded as
 <tbody>
 <tr><td><a href="/variants/s8/w3k3w3k37r40w1r2lo3~x2/">Marjoribanks</a> ★</td><td></td><td><code>W/6 K6 W6 K74 R80 W2 R4 LO/6</code></td><td>356</td><td>1997</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/w3k3w3k37r40w1r2lo3~x2/"><img src="/variants/s8/w3k3w3k37r40w1r2lo3~x2/sett.png" alt="Marjoribanks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/y3r2w1r40k36w3k3w3~x2/">Marjoribanks</a></td><td>0.33</td><td><code>Y/6 R4 W2 R80 K72 W6 K6 W/6</code></td><td>352</td><td>—</td></tr>
+<tr><td><a href="/variants/s8/y3r2w1r40k36w3k3w3~x2/">Marjoribanks</a></td><td>0.33</td><td><code>W/6 K6 W6 K72 R80 W2 R4 Y/6</code></td><td>352</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/y3r2w1r40k36w3k3w3~x2/"><img src="y3r2w1r40k36w3k3w3-rev.png" alt="Marjoribanks sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

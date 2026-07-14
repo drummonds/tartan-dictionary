@@ -33,7 +33,7 @@ The **Ramsay** tartan groups 5 setts — the same named design recorded as diffe
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k4w2k28r30db1r3~x2/"><img src="/variants/s6/k4w2k28r30db1r3~x2/sett.png" alt="Ramsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/k4w2k28r30dr1r3~x2/">Ramsay</a></td><td>2.20</td><td><code>K/8 W4 K56 R60 DR2 R/6</code></td><td>258</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k4w2k28r30dr1r3~x2/"><img src="/variants/s6/k4w2k28r30dr1r3~x2/sett.png" alt="Ramsay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/ri5r2ri30k28w2k4~x2~ri2109032-r1807008/">Red Clan Tartan</a></td><td>2.63</td><td><code>Ri/10 R4 Ri60 K56 W4 K/8</code></td><td>266</td><td>1842</td></tr>
+<tr><td><a href="/variants/s6/ri5r2ri30k28w2k4~x2~ri2109032-r1807008/">Red Clan Tartan</a></td><td>2.63</td><td><code>K/8 W4 K56 Ri60 R4 Ri/10</code></td><td>266</td><td>1842</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/ri5r2ri30k28w2k4~x2~ri2109032-r1807008/"><img src="ri5r2ri30k28w2k4-rev.png" alt="Red Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

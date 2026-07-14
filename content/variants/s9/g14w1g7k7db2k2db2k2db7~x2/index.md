@@ -26,6 +26,8 @@ Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?co
 
 ## Provenance
 
+Very like Logan's 1831 Abercrombie, but the two records disagree at the pivots by a factor of two. Logan gives G/28 W4 G28 K28 B8 K8 B8 K8 B/28 (unit g7 w1 g7 k7 b2 k2 b2 k2 b7); this record reads G/28 W2 G14 K14 DB4 K4 DB4 K4 DB/14 — every count half of Logan's EXCEPT the green pivot. One of the two transcriptions halved (or failed to halve) its pivot counts — the classic full-vs-half pivot convention slip; whether the error is this record's or the original's is undetermined. The count is kept exactly as recorded: this is a human record, and its errors are part of the evidence.
+
 Earliest known date: 1831 Tartan manufacturers and weavers often increase the width of the blue ground when producing this sett. J.Scarlett compares it with the Graham of Menteith and Wilson's No 158 and concludes that "the central panels... , both blue and green, should be doubled in size.
 
 <details class="attestations">

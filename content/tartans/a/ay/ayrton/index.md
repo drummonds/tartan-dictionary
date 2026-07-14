@@ -24,7 +24,7 @@ The **Ayrton** tartan groups 2 setts — the same named design recorded as diffe
 <tbody>
 <tr><td><a href="/variants/s11/r4k2g25k2lb10k2g4k2db25k2y4~x2/">Ayrton</a> ★</td><td></td><td><code>R/8 K4 G50 K4 LB20 K4 G8 K4 DB50 K4 Y/8</code></td><td>312</td><td>~2003</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r4k2g25k2lb10k2g4k2db25k2y4~x2/"><img src="/variants/s11/r4k2g25k2lb10k2g4k2db25k2y4~x2/sett.png" alt="Ayrton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/dy4k2db25k2g4k2lb10k2g25k2r4~x2/">(1979) (Personal)</a></td><td>0.03</td><td><code>DY/8 K4 DB50 K4 G8 K4 LB20 K4 G50 K4 R/8</code></td><td>312</td><td>1979</td></tr>
+<tr><td><a href="/variants/s11/dy4k2db25k2g4k2lb10k2g25k2r4~x2/">(1979) (Personal)</a></td><td>0.03</td><td><code>R/8 K4 G50 K4 LB20 K4 G8 K4 DB50 K4 DY/8</code></td><td>312</td><td>1979</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/dy4k2db25k2g4k2lb10k2g25k2r4~x2/"><img src="dy4k2db25k2g4k2lb10k2g25k2r4-rev.png" alt="(1979) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -27,7 +27,7 @@ The **Galloway Dress** tartan groups 3 setts — the same named design recorded 
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dg2r1db16r16db1y2~x2/"><img src="/variants/s6/dg2r1db16r16db1y2~x2/sett.png" alt="Galloway Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/g1r1db16r16db1w1~x2/">Galloway, dress</a></td><td>0.36</td><td><code>G/2 R2 DB32 R32 DB2 W/2</code></td><td>140</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/g1r1db16r16db1w1~x2/"><img src="/variants/s6/g1r1db16r16db1w1~x2/sett.png" alt="Galloway, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/y2db1r16db16r1g2~x2/">Galloway dress</a></td><td>0.03</td><td><code>Y/4 DB2 R32 DB32 R2 G/4</code></td><td>144</td><td>1950</td></tr>
+<tr><td><a href="/variants/s6/y2db1r16db16r1g2~x2/">Galloway dress</a></td><td>0.03</td><td><code>G/4 R2 DB32 R32 DB2 Y/4</code></td><td>144</td><td>1950</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/y2db1r16db16r1g2~x2/"><img src="y2db1r16db16r1g2-rev.png" alt="Galloway dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

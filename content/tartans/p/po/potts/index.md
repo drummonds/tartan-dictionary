@@ -24,7 +24,7 @@ The **Potts** tartan groups 2 setts — the same named design recorded as differ
 <tbody>
 <tr><td><a href="/variants/s6/k1y3db3do28db36y1~x2/">Potts</a> ★</td><td></td><td><code>K/2 Y6 DB6 DO56 DB72 Y/2</code></td><td>284</td><td>2002</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k1y3db3do28db36y1~x2/"><img src="/variants/s6/k1y3db3do28db36y1~x2/sett.png" alt="Potts sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/y1db36do28db3y3ly1~x2/">(Personal)</a></td><td>0.88</td><td><code>Y/2 DB72 DO56 DB6 Y6 LY/2</code></td><td>284</td><td>2002</td></tr>
+<tr><td><a href="/variants/s6/y1db36do28db3y3ly1~x2/">(Personal)</a></td><td>0.88</td><td><code>LY/2 Y6 DB6 DO56 DB72 Y/2</code></td><td>284</td><td>2002</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/y1db36do28db3y3ly1~x2/"><img src="y1db36do28db3y3ly1-rev.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

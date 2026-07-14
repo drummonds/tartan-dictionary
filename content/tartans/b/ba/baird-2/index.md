@@ -30,9 +30,9 @@ The **Baird** tartan groups 3 setts — the same named design recorded as differ
 <tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s8/db3k2db8k8g8dp1g1dp3~x2/">Baird</a></td><td>0.00</td><td><code>DB/6 K4 DB16 K16 G16 DP2 G2 DP/6</code></td><td>124</td><td>1906</td></tr>
 <tr class="sett-scale"><td>&nbsp;&nbsp;· ×4 — <a href="/variants/s8/db3k2db8k8g8dp1g1dp3~x4/">(Modern)</a></td><td>0.00</td><td><code>DB/12 K8 DB32 K32 G32 DP4 G4 DP/12</code></td><td>248</td><td>1880</td></tr>
 <tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s8/db3k2db8k8g8dp1g1dp3~x2/">Baird</a> · <a href="/variants/s8/db3k2db8k8g8dp1g1dp3~x4/">(Modern)</a></td></tr>
-<tr><td><a href="/variants/s8/dr3g1dr1g8k8db8k2db3~x2/">Baird</a></td><td>0.60</td><td><code>DR/6 G2 DR2 G16 K16 DB16 K4 DB/6</code></td><td>124</td><td>—</td></tr>
+<tr><td><a href="/variants/s8/dr3g1dr1g8k8db8k2db3~x2/">Baird</a></td><td>0.60</td><td><code>DB/6 K4 DB16 K16 G16 DR2 G2 DR/6</code></td><td>124</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dr3g1dr1g8k8db8k2db3~x2/"><img src="dr3g1dr1g8k8db8k2db3-rev.png" alt="Baird sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/r7g3r2g33k31db31k3db3/">Baird</a></td><td>1.15</td><td><code>R/7 G3 R2 G33 K31 DB31 K3 DB/3</code></td><td>216</td><td>~1906</td></tr>
+<tr><td><a href="/variants/s8/r7g3r2g33k31db31k3db3/">Baird</a></td><td>1.15</td><td><code>DB/3 K3 DB31 K31 G33 R2 G3 R/7</code></td><td>216</td><td>~1906</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r7g3r2g33k31db31k3db3/"><img src="r7g3r2g33k31db31k3db3-rev.png" alt="Baird sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

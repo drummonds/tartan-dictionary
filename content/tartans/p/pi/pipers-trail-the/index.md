@@ -19,7 +19,7 @@ The **Pipers' Trail, The** tartan groups 2 setts — the same named design recor
 <tbody>
 <tr><td><a href="/variants/s6/y4lb8dp4k53db54w4/">Pipers' Trail, The</a> ★</td><td></td><td><code>Y/4 LB8 DP4 K53 DB54 W/4</code></td><td>246</td><td>2014</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/y4lb8dp4k53db54w4/"><img src="/variants/s6/y4lb8dp4k53db54w4/sett.png" alt="Pipers' Trail, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/w4db54k53dp4lb8ly4/">Pipers' Trail, The</a></td><td>0.02</td><td><code>W/4 DB54 K53 DP4 LB8 LY/4</code></td><td>246</td><td>2014</td></tr>
+<tr><td><a href="/variants/s6/w4db54k53dp4lb8ly4/">Pipers' Trail, The</a></td><td>0.02</td><td><code>LY/4 LB8 DP4 K53 DB54 W/4</code></td><td>246</td><td>2014</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w4db54k53dp4lb8ly4/"><img src="w4db54k53dp4lb8ly4-rev.png" alt="Pipers' Trail, The sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

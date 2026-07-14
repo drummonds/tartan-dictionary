@@ -24,7 +24,7 @@ The **Mackay** tartan groups 2 setts — the same named design recorded as diffe
 <tbody>
 <tr><td><a href="/variants/s6/r1t8k3t1k3t1~x8/">Mackay</a> ★</td><td></td><td><code>R/8 T64 K24 T8 K24 T/8</code></td><td>256</td><td>1842</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r1t8k3t1k3t1~x8/"><img src="/variants/s6/r1t8k3t1k3t1~x8/sett.png" alt="Mackay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/db2k6db2k6db16r1~x2/">MacKay V</a></td><td>0.66</td><td><code>DB/4 K12 DB4 K12 DB32 R/2</code></td><td>126</td><td>—</td></tr>
+<tr><td><a href="/variants/s6/db2k6db2k6db16r1~x2/">MacKay V</a></td><td>0.66</td><td><code>R/2 DB32 K12 DB4 K12 DB/4</code></td><td>126</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/db2k6db2k6db16r1~x2/"><img src="db2k6db2k6db16r1-rev.png" alt="MacKay V sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

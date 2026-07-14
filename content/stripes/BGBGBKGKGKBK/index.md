@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/k/ke/kells-irish-pubs/">Kells Irish Pubs</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/k/ke/kells-irish-pubs/"><img src="/variants/s12/k17n2k3g2k3g2k24t8g4t4g3t8~x2/sett.png" alt="Kells Irish Pubs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/k/ke/kells-irish-pubs/"><img src="/variants/s12/k17n2k3g2k3g2k24db8g4db4g3db8~x2/sett.png" alt="Kells Irish Pubs sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

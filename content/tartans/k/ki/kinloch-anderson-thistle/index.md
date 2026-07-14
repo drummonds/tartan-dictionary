@@ -22,7 +22,7 @@ The **Kinloch Anderson Thistle** tartan groups 2 setts — the same named design
 <tbody>
 <tr><td><a href="/variants/s12/o8dp28dg4dp8dg4k12dp7k12db28t4db8t8~db1208266-t2508259/">Kinloch Anderson Thistle</a> ★</td><td></td><td><code>O/8 DP28 DG4 DP8 DG4 K12 DP7 K12 DB28 T4 DB8 T/8</code></td><td>246</td><td>2010</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/o8dp28dg4dp8dg4k12dp7k12db28t4db8t8~db1208266-t2508259/"><img src="/variants/s12/o8dp28dg4dp8dg4k12dp7k12db28t4db8t8~db1208266-t2508259/sett.png" alt="Kinloch Anderson Thistle sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/dbi8db8dbi4db28k12dp7k12dg4dp8dg4dp28o8~dbi1406275-db1004274/">(Fashion)</a></td><td>0.11</td><td><code>DBi/8 DB8 DBi4 DB28 K12 DP7 K12 DG4 DP8 DG4 DP28 O/8</code></td><td>246</td><td>~2010</td></tr>
+<tr><td><a href="/variants/s12/dbi8db8dbi4db28k12dp7k12dg4dp8dg4dp28o8~dbi1406275-db1004274/">(Fashion)</a></td><td>0.11</td><td><code>O/8 DP28 DG4 DP8 DG4 K12 DP7 K12 DB28 DBi4 DB8 DBi/8</code></td><td>246</td><td>~2010</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dbi8db8dbi4db28k12dp7k12dg4dp8dg4dp28o8~dbi1406275-db1004274/"><img src="dbi8db8dbi4db28k12dp7k12dg4dp8dg4dp28o8-rev.png" alt="(Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

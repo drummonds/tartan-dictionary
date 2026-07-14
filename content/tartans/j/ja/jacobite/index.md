@@ -32,7 +32,7 @@ The **Jacobite** tartan groups 4 setts — the same named design recorded as dif
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/w1r2db2w1g8w1db2r2w1r2db2w1b8w1db2r2w1~x2/"><img src="/variants/s17/w1r2db2w1g8w1db2r2w1r2db2w1b8w1db2r2w1~x2/sett.png" alt="Jacobite sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s17/w1r2db2w1g9w1db2r2w1r2db2w1b9w1db2r2w1~x4/">Jacobite</a></td><td>1.40</td><td><code>W/4 R8 DB8 W4 G36 W4 DB8 R8 W4 R8 DB8 W4 B36 W4 DB8 R8 W/4</code></td><td>320</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/w1r2db2w1g9w1db2r2w1r2db2w1b9w1db2r2w1~x4/"><img src="/variants/s17/w1r2db2w1g9w1db2r2w1r2db2w1b9w1db2r2w1~x4/sett.png" alt="Jacobite sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s17/w1r2db2w1y8w1db2r2w1r2db2w1g8w1db2r2w1~x4/">(1712) (Universal)</a></td><td>1.25</td><td><code>W/4 R8 DB8 W4 Y32 W4 DB8 R8 W4 R8 DB8 W4 G32 W4 DB8 R8 W/4</code></td><td>304</td><td>1712</td></tr>
+<tr><td><a href="/variants/s17/w1r2db2w1y8w1db2r2w1r2db2w1g8w1db2r2w1~x4/">(1712) (Universal)</a></td><td>1.25</td><td><code>W/4 R8 DB8 W4 G32 W4 DB8 R8 W4 R8 DB8 W4 Y32 W4 DB8 R8 W/4</code></td><td>304</td><td>1712</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/w1r2db2w1y8w1db2r2w1r2db2w1g8w1db2r2w1~x4/"><img src="w1r2db2w1y8w1db2r2w1r2db2w1g8w1db2r2w1-rev.png" alt="(1712) (Universal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -19,7 +19,7 @@ The **Canuck Place** tartan groups 2 setts — the same named design recorded as
 <tbody>
 <tr><td><a href="/variants/s9/y1r2g3o24g26db3g15db2w1~x2/">Canuck Place</a> ★</td><td></td><td><code>Y/2 R4 G6 O48 G52 DB6 G30 DB4 W/2</code></td><td>304</td><td>2007</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/y1r2g3o24g26db3g15db2w1~x2/"><img src="/variants/s9/y1r2g3o24g26db3g15db2w1~x2/sett.png" alt="Canuck Place sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/w1db2g15db3g26o24g3r2ly1~x2/">(Corporate)</a></td><td>0.01</td><td><code>W/2 DB4 G30 DB6 G52 O48 G6 R4 LY/2</code></td><td>304</td><td>~2007</td></tr>
+<tr><td><a href="/variants/s9/w1db2g15db3g26o24g3r2ly1~x2/">(Corporate)</a></td><td>0.01</td><td><code>LY/2 R4 G6 O48 G52 DB6 G30 DB4 W/2</code></td><td>304</td><td>~2007</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/w1db2g15db3g26o24g3r2ly1~x2/"><img src="w1db2g15db3g26o24g3r2ly1-rev.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

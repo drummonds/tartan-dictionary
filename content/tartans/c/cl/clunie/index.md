@@ -21,7 +21,7 @@ The **Clunie** tartan groups 2 setts — the same named design recorded as diffe
 <tbody>
 <tr><td><a href="/variants/s6/w12db48k13n22k3y6/">Clunie</a> ★</td><td></td><td><code>W/12 DB48 K13 N22 K3 Y/6</code></td><td>190</td><td>2002</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w12db48k13n22k3y6/"><img src="/variants/s6/w12db48k13n22k3y6/sett.png" alt="Clunie sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/y6k2n11k7db24w6~x2/">(Name)</a></td><td>0.30</td><td><code>Y/12 K4 N22 K14 DB48 W/12</code></td><td>200</td><td>2005</td></tr>
+<tr><td><a href="/variants/s6/y6k2n11k7db24w6~x2/">(Name)</a></td><td>0.30</td><td><code>W/12 DB48 K14 N22 K4 Y/12</code></td><td>200</td><td>2005</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/y6k2n11k7db24w6~x2/"><img src="y6k2n11k7db24w6-rev.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

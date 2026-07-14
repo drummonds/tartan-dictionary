@@ -24,7 +24,7 @@ The **Oliver Dress** tartan groups 2 setts — the same named design recorded as
 <tbody>
 <tr><td><a href="/variants/s9/k1w7dr6db7dr1g1dr1g1w1~x4/">Oliver Dress</a> ★</td><td></td><td><code>K/4 W28 DR24 DB28 DR4 G4 DR4 G4 W/4</code></td><td>200</td><td>~2002</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k1w7dr6db7dr1g1dr1g1w1~x4/"><img src="/variants/s9/k1w7dr6db7dr1g1dr1g1w1~x4/sett.png" alt="Oliver Dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/w5g3b3g3b3db20b16w21k3~x2/">Oliver, dress</a></td><td>3.24</td><td><code>W/10 G6 B6 G6 B6 DB40 B32 W42 K/6</code></td><td>292</td><td>—</td></tr>
+<tr><td><a href="/variants/s9/w5g3b3g3b3db20b16w21k3~x2/">Oliver, dress</a></td><td>3.24</td><td><code>K/6 W42 B32 DB40 B6 G6 B6 G6 W/10</code></td><td>292</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/w5g3b3g3b3db20b16w21k3~x2/"><img src="w5g3b3g3b3db20b16w21k3-rev.png" alt="Oliver, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

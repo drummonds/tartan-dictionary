@@ -55,8 +55,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/k36w3k10w3dg28dr6k18~x2~dg1804158/"><img src="/variants/s7/k36w3k10w3dg28dr6k18~x2~dg1804158/sett.png" alt="Wild Highlanders" width="140"><br>Wild Highlanders</a></li>
 <li><a class="tartan" href="/variants/s11/k3db10dg25y2dg2y3dg2y2dg25db10w3~x2/"><img src="/variants/s11/k3db10dg25y2dg2y3dg2y2dg25db10w3~x2/sett.png" alt="William and Mary GALA, Inc, The" width="140"><br>William and Mary GALA, Inc, The</a></li>
 <li><a class="tartan" href="/variants/s11/dr6k3n4k10n5lb2k2n31w1n2w2~x2/"><img src="/variants/s11/dr6k3n4k10n5lb2k2n31w1n2w2~x2/sett.png" alt="William Glen and Son" width="140"><br>William Glen and Son</a></li>
-<li><a class="tartan" href="/variants/s4/r60w28ly2lb3~x2/"><img src="/variants/s4/r60w28ly2lb3~x2/sett.png" alt="Willis, H Graham" width="140"><br>Willis, H Graham</a></li>
 <li><a class="tartan" href="/variants/s4/r60w28y2lb3~x2/"><img src="/variants/s4/r60w28y2lb3~x2/sett.png" alt="Willis, H Graham" width="140"><br>Willis, H Graham</a></li>
+<li><a class="tartan" href="/variants/s4/r60w28ly2lb3~x2/"><img src="/variants/s4/r60w28ly2lb3~x2/sett.png" alt="Willis, H Graham" width="140"><br>Willis, H Graham</a></li>
 <li><a class="tartan" href="/variants/s11/k16db2lb2db4g16r2k15db6lb2k3lb4~x2/"><img src="/variants/s11/k16db2lb2db4g16r2k15db6lb2k3lb4~x2/sett.png" alt="Wilson's No.060" width="140"><br>Wilson's No.060</a></li>
 <li><a class="tartan" href="/variants/s5/lb1dp3r1g3lb1~x4/"><img src="/variants/s5/lb1dp3r1g3lb1~x4/sett.png" alt="Wilson's No.95" width="140"><br>Wilson's No.95</a></li>
 <li><a class="tartan" href="/variants/s8/db11lb1k3w1lg4dr5y1db5~x4~db1003265-lg2704216/"><img src="/variants/s8/db11lb1k3w1lg4dr5y1db5~x4~db1003265-lg2704216/sett.png" alt="Wingtip" width="140"><br>Wingtip</a></li>
@@ -89,8 +89,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s5/w4lb44dbi19db44r2~x2~dbi1404259-db1003265/"><img src="/variants/s5/w4lb44dbi19db44r2~x2~dbi1404259-db1003265/sett.png" alt="World Federation of Building Contractors" width="140"><br>World Federation of Building Contractors</a></li>
 <li><a class="tartan" href="/variants/s18/db8dy1db16w1g12db27w1db1w1db1w1db27g12w1db16dy1db8r2~x2~r2109032/"><img src="/variants/s18/db8dy1db16w1g12db27w1db1w1db1w1db27g12w1db16dy1db8r2~x2~r2109032/sett.png" alt="World Youth Congress" width="140"><br>World Youth Congress</a></li>
 <li><a class="tartan" href="/variants/s10/r2db8dy1db16w1g12db27w1db1w1~x2/"><img src="/variants/s10/r2db8dy1db16w1g12db27w1db1w1~x2/sett.png" alt="World Youth Congress (Corporate)" width="140"><br>World Youth Congress (Corporate)</a></li>
-<li><a class="tartan" href="/variants/s7/r9k4r9k25dy3dp18k4~x2/"><img src="/variants/s7/r9k4r9k25dy3dp18k4~x2/sett.png" alt="Wounded Warriors Canada" width="140"><br>Wounded Warriors Canada</a></li>
 <li><a class="tartan" href="/variants/s7/r9k4r9k25y3dp18k4~x2/"><img src="/variants/s7/r9k4r9k25y3dp18k4~x2/sett.png" alt="Wounded Warriors Canada" width="140"><br>Wounded Warriors Canada</a></li>
+<li><a class="tartan" href="/variants/s7/r9k4r9k25dy3dp18k4~x2/"><img src="/variants/s7/r9k4r9k25dy3dp18k4~x2/sett.png" alt="Wounded Warriors Canada" width="140"><br>Wounded Warriors Canada</a></li>
 <li><a class="tartan" href="/variants/s14/o2k4w1k4db18g1db18k6db3y1db2y1db2y2~x2/"><img src="/variants/s14/o2k4w1k4db18g1db18k6db3y1db2y1db2y2~x2/sett.png" alt="Wupper Pipes &amp; Drums (Corporate)" width="140"><br>Wupper Pipes & Drums (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s6/db4ly9w4db9ly18w1~x2/"><img src="/variants/s6/db4ly9w4db9ly18w1~x2/sett.png" alt="WVU Mountaineer (Corporate)" width="140"><br>WVU Mountaineer (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s6/db4dy9w4db9dy18w1~x2/"><img src="/variants/s6/db4dy9w4db9dy18w1~x2/sett.png" alt="WVU Mountaineer Tartan" width="140"><br>WVU Mountaineer Tartan</a></li>

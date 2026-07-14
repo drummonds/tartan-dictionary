@@ -22,7 +22,7 @@ The **Spar Ltd** tartan groups 3 setts — the same named design recorded as dif
 <tbody>
 <tr><td><a href="/variants/s12/g9k9t10k1t2k2t10k9g9w1g2r1~x4/">Spar Ltd</a> ★</td><td></td><td><code>G/36 K36 T40 K4 T8 K8 T40 K36 G36 W4 G8 R/4</code></td><td>480</td><td>1996</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/g9k9t10k1t2k2t10k9g9w1g2r1~x4/"><img src="/variants/s12/g9k9t10k1t2k2t10k9g9w1g2r1~x4/sett.png" alt="Spar Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/db20k2db4k2db20k17g18dr2g4lb2g18k18~x2/">Spar (UK) Ltd Corporate Tartan</a></td><td>0.46</td><td><code>DB/40 K4 DB8 K4 DB40 K34 G36 DR4 G8 LB4 G36 K/36</code></td><td>432</td><td>1996</td></tr>
+<tr><td><a href="/variants/s12/db20k2db4k2db20k17g18dr2g4lb2g18k18~x2/">Spar (UK) Ltd Corporate Tartan</a></td><td>0.46</td><td><code>K/36 G36 LB4 G8 DR4 G36 K34 DB40 K4 DB8 K4 DB/40</code></td><td>432</td><td>1996</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db20k2db4k2db20k17g18dr2g4lb2g18k18~x2/"><img src="db20k2db4k2db20k17g18dr2g4lb2g18k18-rev.png" alt="Spar (UK) Ltd Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s12/k2db10k9g9w1g2r1g9k9db10k1db2~x4/">Spar (UK) Ltd</a></td><td>0.16</td><td><code>K/8 DB40 K36 G36 W4 G8 R4 G36 K36 DB40 K4 DB/8</code></td><td>504</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/k2db10k9g9w1g2r1g9k9db10k1db2~x4/"><img src="/variants/s12/k2db10k9g9w1g2r1g9k9db10k1db2~x4/sett.png" alt="Spar (UK) Ltd sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

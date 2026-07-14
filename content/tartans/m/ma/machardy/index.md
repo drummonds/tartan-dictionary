@@ -28,11 +28,11 @@ The **MacHardy** tartan groups 4 setts — the same named design recorded as dif
 <tbody>
 <tr><td><a href="/variants/s8/db1r1g6db6y1db6r1g1~x2/">MacHardy</a> ★</td><td></td><td><code>DB/2 R2 G12 DB12 Y2 DB12 R2 G/2</code></td><td>88</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db1r1g6db6y1db6r1g1~x2/"><img src="/variants/s8/db1r1g6db6y1db6r1g1~x2/sett.png" alt="MacHardy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/db3r3g18db16w2db26r3g3~x2/">MacHardy</a></td><td>0.80</td><td><code>DB/6 R6 G36 DB32 W4 DB52 R6 G/6</code></td><td>284</td><td>1906</td></tr>
+<tr><td><a href="/variants/s8/db3r3g18db16w2db26r3g3~x2/">MacHardy</a></td><td>0.80</td><td><code>G/6 R6 DB52 W4 DB32 G36 R6 DB/6</code></td><td>284</td><td>1906</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db3r3g18db16w2db26r3g3~x2/"><img src="db3r3g18db16w2db26r3g3-rev.png" alt="MacHardy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s8/db6r3g26db26w4db26r5g5~x2/">Blue</a></td><td>0.67</td><td><code>DB/12 R6 G52 DB52 W8 DB52 R10 G/10</code></td><td>382</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/db6r3g26db26w4db26r5g5~x2/"><img src="/variants/s8/db6r3g26db26w4db26r5g5~x2/sett.png" alt="Blue sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/dt6r3dg26dt26w2dt27r5dg5~x2/">Black</a></td><td>9.67</td><td><code>DT/12 R6 DG52 DT52 W4 DT54 R10 DG/10</code></td><td>378</td><td>~1860</td></tr>
+<tr><td><a href="/variants/s8/dt6r3dg26dt26w2dt27r5dg5~x2/">Black</a></td><td>9.67</td><td><code>DG/10 R10 DT54 W4 DT52 DG52 R6 DT/12</code></td><td>378</td><td>~1860</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dt6r3dg26dt26w2dt27r5dg5~x2/"><img src="dt6r3dg26dt26w2dt27r5dg5-rev.png" alt="Black sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

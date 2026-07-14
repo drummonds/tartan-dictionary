@@ -27,7 +27,7 @@ The **MacWilliam** tartan groups 3 setts — the same named design recorded as d
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dy2g12k10r1db16r2~x2/"><img src="/variants/s6/dy2g12k10r1db16r2~x2/sett.png" alt="MacWilliam sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/dy2g12k10r1t16r2~x4/">(Clan)</a></td><td>0.17</td><td><code>DY/8 G48 K40 R4 T64 R/8</code></td><td>328</td><td>1880</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dy2g12k10r1t16r2~x4/"><img src="/variants/s6/dy2g12k10r1t16r2~x4/sett.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r2db16r1k10g12o2~x2/">MacWilliam</a></td><td>0.30</td><td><code>R/4 DB32 R2 K20 G24 O/4</code></td><td>164</td><td>—</td></tr>
+<tr><td><a href="/variants/s6/r2db16r1k10g12o2~x2/">MacWilliam</a></td><td>0.30</td><td><code>O/4 G24 K20 R2 DB32 R/4</code></td><td>164</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r2db16r1k10g12o2~x2/"><img src="r2db16r1k10g12o2-rev.png" alt="MacWilliam sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

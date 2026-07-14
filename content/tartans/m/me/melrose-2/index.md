@@ -24,7 +24,7 @@ The **Melrose** tartan groups 2 setts — the same named design recorded as diff
 <tbody>
 <tr><td><a href="/variants/s18/y1k1dr15db2dr1db2dr1db2dr1db15k2g2db1g2db1g10k2w1~x2/">Melrose</a> ★</td><td></td><td><code>Y/2 K2 DR30 DB4 DR2 DB4 DR2 DB4 DR2 DB30 K4 G4 DB2 G4 DB2 G20 K4 W/2</code></td><td>244</td><td>2008</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/y1k1dr15db2dr1db2dr1db2dr1db15k2g2db1g2db1g10k2w1~x2/"><img src="/variants/s18/y1k1dr15db2dr1db2dr1db2dr1db15k2g2db1g2db1g10k2w1~x2/sett.png" alt="Melrose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s18/w1k2g10db1g2db1g2k2db15dr1db2dr1db2dr1db2dr15k1lo1~x2/">(Newbigging) (Personal)</a></td><td>0.30</td><td><code>W/2 K4 G20 DB2 G4 DB2 G4 K4 DB30 DR2 DB4 DR2 DB4 DR2 DB4 DR30 K2 LO/2</code></td><td>244</td><td>~2008</td></tr>
+<tr><td><a href="/variants/s18/w1k2g10db1g2db1g2k2db15dr1db2dr1db2dr1db2dr15k1lo1~x2/">(Newbigging) (Personal)</a></td><td>0.30</td><td><code>LO/2 K2 DR30 DB4 DR2 DB4 DR2 DB4 DR2 DB30 K4 G4 DB2 G4 DB2 G20 K4 W/2</code></td><td>244</td><td>~2008</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/w1k2g10db1g2db1g2k2db15dr1db2dr1db2dr1db2dr15k1lo1~x2/"><img src="w1k2g10db1g2db1g2k2db15dr1db2dr1db2dr1db2dr15k1lo1-rev.png" alt="(Newbigging) (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

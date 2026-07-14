@@ -24,7 +24,7 @@ The **Cooper, dress** tartan groups 2 setts — the same named design recorded a
 <tbody>
 <tr><td><a href="/variants/s18/db2r4o2w28db3w2db3k10r3db2r3g9db1k1db21r4db2o2~x2/">Cooper, dress</a> ★</td><td></td><td><code>DB/4 R8 O4 W56 DB6 W4 DB6 K20 R6 DB4 R6 G18 DB2 K2 DB42 R8 DB4 O/4</code></td><td>400</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/db2r4o2w28db3w2db3k10r3db2r3g9db1k1db21r4db2o2~x2/"><img src="/variants/s18/db2r4o2w28db3w2db3k10r3db2r3g9db1k1db21r4db2o2~x2/sett.png" alt="Cooper, dress sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s18/dy2db2r4db21k1db1g9r3db2r3k10db3w2db3w28dy2r4db2~x2/">Cooper Dress (Dalgleish #2) (Dance)</a></td><td>0.60</td><td><code>DY/4 DB4 R8 DB42 K2 DB2 G18 R6 DB4 R6 K20 DB6 W4 DB6 W56 DY4 R8 DB/4</code></td><td>400</td><td>~2002</td></tr>
+<tr><td><a href="/variants/s18/dy2db2r4db21k1db1g9r3db2r3k10db3w2db3w28dy2r4db2~x2/">Cooper Dress (Dalgleish #2) (Dance)</a></td><td>0.60</td><td><code>DB/4 R8 DY4 W56 DB6 W4 DB6 K20 R6 DB4 R6 G18 DB2 K2 DB42 R8 DB4 DY/4</code></td><td>400</td><td>~2002</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/dy2db2r4db21k1db1g9r3db2r3k10db3w2db3w28dy2r4db2~x2/"><img src="dy2db2r4db21k1db1g9r3db2r3k10db3w2db3w28dy2r4db2-rev.png" alt="Cooper Dress (Dalgleish #2) (Dance) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

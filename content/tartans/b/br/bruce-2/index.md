@@ -33,7 +33,7 @@ The **Bruce** tartan groups 4 setts — the same named design recorded as differ
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/r8g2r2g6r1g6r2g2r8y1/"><img src="/variants/s10/r8g2r2g6r1g6r2g2r8y1/sett.png" alt="Bruce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s11/y1r4g1r1g3r1g3r1g1r4w1~x2/">Bruce</a></td><td>0.49</td><td><code>Y/2 R8 G2 R2 G6 R2 G6 R2 G2 R8 W/2</code></td><td>80</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/y1r4g1r1g3r1g3r1g1r4w1~x2/"><img src="/variants/s11/y1r4g1r1g3r1g3r1g1r4w1~x2/sett.png" alt="Bruce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/y4k1r22g5r4g12r6g12r4g5r22k1w4~x2/">Bruce</a></td><td>1.27</td><td><code>Y/8 K2 R44 G10 R8 G24 R12 G24 R8 G10 R44 K2 W/8</code></td><td>392</td><td>—</td></tr>
+<tr><td><a href="/variants/s13/y4k1r22g5r4g12r6g12r4g5r22k1w4~x2/">Bruce</a></td><td>1.27</td><td><code>W/8 K2 R44 G10 R8 G24 R12 G24 R8 G10 R44 K2 Y/8</code></td><td>392</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/y4k1r22g5r4g12r6g12r4g5r22k1w4~x2/"><img src="y4k1r22g5r4g12r6g12r4g5r22k1w4-rev.png" alt="Bruce sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

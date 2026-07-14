@@ -41,7 +41,7 @@ The **MacThomas** tartan groups 6 setts — the same named design recorded as di
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db3r2db22k11g24b2g3~x2/"><img src="/variants/s7/db3r2db22k11g24b2g3~x2/sett.png" alt="MacThomas sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/db3r2db22k11g24o2g3~x2/">Clan Tartan</a></td><td>0.15</td><td><code>DB/6 R4 DB44 K22 G48 O4 G/6</code></td><td>256</td><td>1975</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/db3r2db22k11g24o2g3~x2/"><img src="/variants/s7/db3r2db22k11g24o2g3~x2/sett.png" alt="Clan Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/dg5lp3dg32k16db32r3db5~x2/">(Clan)</a></td><td>0.42</td><td><code>DG/10 LP6 DG64 K32 DB64 R6 DB/10</code></td><td>364</td><td>1954</td></tr>
+<tr><td><a href="/variants/s7/dg5lp3dg32k16db32r3db5~x2/">(Clan)</a></td><td>0.42</td><td><code>DB/10 R6 DB64 K32 DG64 LP6 DG/10</code></td><td>364</td><td>1954</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dg5lp3dg32k16db32r3db5~x2/"><img src="dg5lp3dg32k16db32r3db5-rev.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

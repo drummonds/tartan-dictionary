@@ -27,7 +27,7 @@ The **Dutch** tartan groups 3 setts — the same named design recorded as differ
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k4lo19k19lo2dp22w4~x2/"><img src="/variants/s6/k4lo19k19lo2dp22w4~x2/sett.png" alt="Dutch sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/k4o19k19o2dp22w4~x2/">(District)</a></td><td>0.13</td><td><code>K/8 O38 K38 O4 DP44 W/8</code></td><td>264</td><td>1965</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k4o19k19o2dp22w4~x2/"><img src="/variants/s6/k4o19k19o2dp22w4~x2/sett.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/w2db12lo1k12lo12k1~x2/">District Tartan</a></td><td>1.49</td><td><code>W/4 DB24 LO2 K24 LO24 K/2</code></td><td>154</td><td>1965</td></tr>
+<tr><td><a href="/variants/s6/w2db12lo1k12lo12k1~x2/">District Tartan</a></td><td>1.49</td><td><code>K/2 LO24 K24 LO2 DB24 W/4</code></td><td>154</td><td>1965</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w2db12lo1k12lo12k1~x2/"><img src="w2db12lo1k12lo12k1-rev.png" alt="District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

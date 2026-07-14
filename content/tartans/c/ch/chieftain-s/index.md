@@ -19,7 +19,7 @@ The **Chieftain's** tartan groups 2 setts — the same named design recorded as 
 <tbody>
 <tr><td><a href="/variants/s12/dg8db8ly1r1k1dg2db2ly1r1k1dg8db8~x4/">Chieftain's</a> ★</td><td></td><td><code>DG/32 DB32 LY4 R4 K4 DG8 DB8 LY4 R4 K4 DG32 DB/32</code></td><td>272</td><td>2007</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dg8db8ly1r1k1dg2db2ly1r1k1dg8db8~x4/"><img src="/variants/s12/dg8db8ly1r1k1dg2db2ly1r1k1dg8db8~x4/sett.png" alt="Chieftain's sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/db8g8k1r1ly1db2g2k1r1ly1db8g8~x4/">(Corporate)</a></td><td>0.17</td><td><code>DB/32 G32 K4 R4 LY4 DB8 G8 K4 R4 LY4 DB32 G/32</code></td><td>272</td><td>2007</td></tr>
+<tr><td><a href="/variants/s12/db8g8k1r1ly1db2g2k1r1ly1db8g8~x4/">(Corporate)</a></td><td>0.17</td><td><code>G/32 DB32 LY4 R4 K4 G8 DB8 LY4 R4 K4 G32 DB/32</code></td><td>272</td><td>2007</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/db8g8k1r1ly1db2g2k1r1ly1db8g8~x4/"><img src="db8g8k1r1ly1db2g2k1r1ly1db8g8-rev.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

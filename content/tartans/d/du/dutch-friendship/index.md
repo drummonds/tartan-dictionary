@@ -22,7 +22,7 @@ The **Dutch Friendship** tartan groups 2 setts — the same named design recorde
 <tbody>
 <tr><td><a href="/variants/s9/k3dy14lo4dy9lo14k14g28k1o3~x2/">Dutch Friendship</a> ★</td><td></td><td><code>K/6 DY28 LO8 DY18 LO28 K28 G56 K2 O/6</code></td><td>348</td><td>2006</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/k3dy14lo4dy9lo14k14g28k1o3~x2/"><img src="/variants/s9/k3dy14lo4dy9lo14k14g28k1o3~x2/sett.png" alt="Dutch Friendship sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/k3dy14lo4dy9lo14k14y14g14k1o3~x2~y2202111-g1903114/">(Fashion)</a></td><td>2.25</td><td><code>K/6 DY28 LO8 DY18 LO28 K28 Y28 G28 K2 O/6</code></td><td>348</td><td>2006</td></tr>
+<tr><td><a href="/variants/s10/k3dy14lo4dy9lo14k14y14g14k1o3~x2~y2202111-g1903114/">(Fashion)</a></td><td>2.25</td><td><code>O/6 K2 G28 Y28 K28 LO28 DY18 LO8 DY28 K/6</code></td><td>348</td><td>2006</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/k3dy14lo4dy9lo14k14y14g14k1o3~x2~y2202111-g1903114/"><img src="k3dy14lo4dy9lo14k14y14g14k1o3-rev.png" alt="(Fashion) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -22,7 +22,7 @@ The **McHeadley Society** tartan groups 3 setts — the same named design record
 <tbody>
 <tr><td><a href="/variants/s13/r2dg18g2dg2g2dg2g12db3k13dg10k2g12y2~x2/">McHeadley Society</a> ★</td><td></td><td><code>R/4 DG36 G4 DG4 G4 DG4 G24 DB6 K26 DG20 K4 G24 Y/4</code></td><td>320</td><td>2010</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/r2dg18g2dg2g2dg2g12db3k13dg10k2g12y2~x2/"><img src="/variants/s13/r2dg18g2dg2g2dg2g12db3k13dg10k2g12y2~x2/sett.png" alt="McHeadley Society sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/k4dg10k13db3dgi12dg2dgi2dg2dgi2dg18r2~x2~dgi1806142/">Corporate Tartan</a></td><td>1.51</td><td><code>K/8 DG20 K26 DB6 DGi24 DG4 DGi4 DG4 DGi4 DG36 R/4</code></td><td>268</td><td>—</td></tr>
+<tr><td><a href="/variants/s11/k4dg10k13db3dgi12dg2dgi2dg2dgi2dg18r2~x2~dgi1806142/">Corporate Tartan</a></td><td>1.51</td><td><code>R/4 DG36 DGi4 DG4 DGi4 DG4 DGi24 DB6 K26 DG20 K/8</code></td><td>268</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k4dg10k13db3dgi12dg2dgi2dg2dgi2dg18r2~x2~dgi1806142/"><img src="k4dg10k13db3dgi12dg2dgi2dg2dgi2dg18r2-rev.png" alt="Corporate Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s12/r2dg18g2dg2g2dg2g12db3k13dg10k2ly2~x2/">(Corporate)</a></td><td>1.28</td><td><code>R/4 DG36 G4 DG4 G4 DG4 G24 DB6 K26 DG20 K4 LY/4</code></td><td>272</td><td>2011</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/r2dg18g2dg2g2dg2g12db3k13dg10k2ly2~x2/"><img src="/variants/s12/r2dg18g2dg2g2dg2g12db3k13dg10k2ly2~x2/sett.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

@@ -25,7 +25,7 @@ The **Ontario, Ensign of** tartan groups 3 setts — the same named design recor
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/ly4dg18do3dg3do3dg18k2dr4k2do16dg3do3dg3do16dg3~x2/"><img src="/variants/s15/ly4dg18do3dg3do3dg18k2dr4k2do16dg3do3dg3do16dg3~x2/sett.png" alt="Ontario, Ensign of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s15/dg24k1r5k1do20dg4do4dg4do21dg4y5dg24do4dg4do4~x2/">Ontario Ensign of.. District Tartan</a></td><td>0.58</td><td><code>DG/48 K2 R10 K2 DO40 DG8 DO8 DG8 DO42 DG8 Y10 DG48 DO8 DG8 DO/8</code></td><td>460</td><td>1965</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/dg24k1r5k1do20dg4do4dg4do21dg4y5dg24do4dg4do4~x2/"><img src="/variants/s15/dg24k1r5k1do20dg4do4dg4do21dg4y5dg24do4dg4do4~x2/sett.png" alt="Ontario Ensign of.. District Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s15/dg3do16dg3do3dg3do16k2dr4k2dg18do3dg3do3dg16ly3~x2/">(District)</a></td><td>0.06</td><td><code>DG/6 DO32 DG6 DO6 DG6 DO32 K4 DR8 K4 DG36 DO6 DG6 DO6 DG32 LY/6</code></td><td>380</td><td>1965</td></tr>
+<tr><td><a href="/variants/s15/dg3do16dg3do3dg3do16k2dr4k2dg18do3dg3do3dg16ly3~x2/">(District)</a></td><td>0.06</td><td><code>LY/6 DG32 DO6 DG6 DO6 DG36 K4 DR8 K4 DO32 DG6 DO6 DG6 DO32 DG/6</code></td><td>380</td><td>1965</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/dg3do16dg3do3dg3do16k2dr4k2dg18do3dg3do3dg16ly3~x2/"><img src="dg3do16dg3do3dg3do16k2dr4k2dg18do3dg3do3dg16ly3-rev.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

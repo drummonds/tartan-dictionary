@@ -19,7 +19,7 @@ The **British Hills** tartan groups 2 setts — the same named design recorded a
 <tbody>
 <tr><td><a href="/variants/s5/r2g17r8db8y2~x4/">British Hills</a> ★</td><td></td><td><code>R/8 G68 R32 DB32 Y/8</code></td><td>280</td><td>2015</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/r2g17r8db8y2~x4/"><img src="/variants/s5/r2g17r8db8y2~x4/sett.png" alt="British Hills sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s5/ly2db8r8g17r1~x4/">British Hills</a></td><td>0.55</td><td><code>LY/8 DB32 R32 G68 R/4</code></td><td>276</td><td>2015</td></tr>
+<tr><td><a href="/variants/s5/ly2db8r8g17r1~x4/">British Hills</a></td><td>0.55</td><td><code>R/4 G68 R32 DB32 LY/8</code></td><td>276</td><td>2015</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/ly2db8r8g17r1~x4/"><img src="ly2db8r8g17r1-rev.png" alt="British Hills sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

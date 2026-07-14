@@ -27,9 +27,9 @@ The **Malcolm** tartan groups 5 setts — the same named design recorded as diff
 <tbody>
 <tr><td><a href="/variants/s14/k1y1k1g6k6db6r1db1r1db6k6g6k1lb1~x4/">Malcolm</a> ★</td><td></td><td><code>K/4 Y4 K4 G24 K24 DB24 R4 DB4 R4 DB24 K24 G24 K4 LB/4</code></td><td>344</td><td>1850</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/k1y1k1g6k6db6r1db1r1db6k6g6k1lb1~x4/"><img src="/variants/s14/k1y1k1g6k6db6r1db1r1db6k6g6k1lb1~x4/sett.png" alt="Malcolm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/db1r1db6k6g6k1y1k1lb1k1g6k6db6r1~x2/">(a)</a></td><td>0.00</td><td><code>DB/2 R2 DB12 K12 G12 K2 Y2 K2 LB2 K2 G12 K12 DB12 R/2</code></td><td>172</td><td>—</td></tr>
+<tr><td><a href="/variants/s14/db1r1db6k6g6k1y1k1lb1k1g6k6db6r1~x2/">(a)</a></td><td>0.00</td><td><code>R/2 DB12 K12 G12 K2 LB2 K2 Y2 K2 G12 K12 DB12 R2 DB/2</code></td><td>172</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db1r1db6k6g6k1y1k1lb1k1g6k6db6r1~x2/"><img src="db1r1db6k6g6k1y1k1lb1k1g6k6db6r1-rev.png" alt="(a) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/db1r1db6k6g6k1y1k1w1k1g6k6db6r1/">Malcolm</a></td><td>0.30</td><td><code>DB/1 R1 DB6 K6 G6 K1 Y1 K1 W1 K1 G6 K6 DB6 R/1</code></td><td>86</td><td>—</td></tr>
+<tr><td><a href="/variants/s14/db1r1db6k6g6k1y1k1w1k1g6k6db6r1/">Malcolm</a></td><td>0.30</td><td><code>R/1 DB6 K6 G6 K1 W1 K1 Y1 K1 G6 K6 DB6 R1 DB/1</code></td><td>86</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/db1r1db6k6g6k1y1k1w1k1g6k6db6r1/"><img src="db1r1db6k6g6k1y1k1w1k1g6k6db6r1-rev.png" alt="Malcolm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s14/k1y1k1g6k6db6r1db1r1db6k6g6k1t1~x4/">Malcolm</a></td><td>0.01</td><td><code>K/4 Y4 K4 G24 K24 DB24 R4 DB4 R4 DB24 K24 G24 K4 T/4</code></td><td>344</td><td>1850</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/k1y1k1g6k6db6r1db1r1db6k6g6k1t1~x4/"><img src="/variants/s14/k1y1k1g6k6db6r1db1r1db6k6g6k1t1~x4/sett.png" alt="Malcolm sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

@@ -19,7 +19,7 @@ The **O'Doherty** tartan groups 2 setts — the same named design recorded as di
 <tbody>
 <tr><td><a href="/variants/s13/y2k2dg2y2dg3y1dg10k18dg3db2dg3db10w2~x2/">O'Doherty</a> ★</td><td></td><td><code>Y/4 K4 DG4 Y4 DG6 Y2 DG20 K36 DG6 DB4 DG6 DB20 W/4</code></td><td>232</td><td>2011</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/y2k2dg2y2dg3y1dg10k18dg3db2dg3db10w2~x2/"><img src="/variants/s13/y2k2dg2y2dg3y1dg10k18dg3db2dg3db10w2~x2/sett.png" alt="O'Doherty sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/w2db10dg3db2dg3k18dg10ly1dg3ly2dg2k2ly2~x2/">(Name)</a></td><td>0.05</td><td><code>W/4 DB20 DG6 DB4 DG6 K36 DG20 LY2 DG6 LY4 DG4 K4 LY/4</code></td><td>232</td><td>2011</td></tr>
+<tr><td><a href="/variants/s13/w2db10dg3db2dg3k18dg10ly1dg3ly2dg2k2ly2~x2/">(Name)</a></td><td>0.05</td><td><code>LY/4 K4 DG4 LY4 DG6 LY2 DG20 K36 DG6 DB4 DG6 DB20 W/4</code></td><td>232</td><td>2011</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/w2db10dg3db2dg3k18dg10ly1dg3ly2dg2k2ly2~x2/"><img src="w2db10dg3db2dg3k18dg10ly1dg3ly2dg2k2ly2-rev.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

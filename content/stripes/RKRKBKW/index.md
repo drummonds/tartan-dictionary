@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/m/ma/mackean-2/">MacKean</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackean-2/"><img src="/variants/s7/r4k8r4k8db12k1w2~x2/sett.png" alt="MacKean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/m/ma/mackean-2/"><img src="/variants/s7/r8k18r6k18t27k2w3~x2/sett.png" alt="MacKean sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

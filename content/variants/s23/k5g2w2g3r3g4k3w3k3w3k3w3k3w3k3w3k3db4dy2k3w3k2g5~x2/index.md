@@ -20,6 +20,10 @@ Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23
 
 Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=9](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=9)
 
+## Provenance
+
+Designed by Alistair Buchan in 1971 for Sir Walter Scott's bicentenary; black-and-white check from the Border Shepherd's Plaid.
+
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>

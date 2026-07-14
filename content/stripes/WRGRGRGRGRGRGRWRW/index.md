@@ -31,7 +31,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/d/du/duke-of-rothesay/">Duke of Rothesay</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/d/du/duke-of-rothesay/"><img src="/variants/s17/w4r22g3r3g3r3g13r4g13r3g3r3g3r23w2r2w4~x2/sett.png" alt="Duke of Rothesay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/r/ro/rothesay-3/">Rothesay</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ro/rothesay-3/"><img src="/variants/s17/w8r83dg7r5dg7r7dg28r7dg28r7dg7r5dg7r83w4r4w8/sett.png" alt="Rothesay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ro/rothesay-3/"><img src="/variants/s17/w8r83g7r5g7r7g28r7g28r7g7r5g7r83w4r4w8/sett.png" alt="Rothesay sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/r/ru/rutledge/">Rutledge</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/r/ru/rutledge/"><img src="/variants/s10/k3db10k2w1k2g10k2dg10r1dg1~x4/sett.png" alt="Rutledge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/r/ru/rutledge/"><img src="/variants/s10/k3db10k2w1k2g10k2dg10r1dg2~x4/sett.png" alt="Rutledge sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

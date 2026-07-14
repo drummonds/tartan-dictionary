@@ -33,7 +33,7 @@ The **MacKay** tartan groups 4 setts — the same named design recorded as diffe
 <tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s6/k3g14k14g2db14g3/">MacKay</a> · <a href="/variants/s6/k3g14k14g2db14g3~x2/">MacKay</a></td></tr>
 <tr><td><a href="/variants/s6/k4dg23k23dg2db23dg4~x2/">1800 (Clan)</a></td><td>1.29</td><td><code>K/8 DG46 K46 DG4 DB46 DG/8</code></td><td>300</td><td>1819</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k4dg23k23dg2db23dg4~x2/"><img src="/variants/s6/k4dg23k23dg2db23dg4~x2/sett.png" alt="1800 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/k4g23k23g2t23g4~x2/">(Logan)</a></td><td>1.29</td><td><code>K/8 G46 K46 G4 T46 G/8</code></td><td>300</td><td>1819</td></tr>
+<tr><td><a href="/variants/s6/k4g23k23g2t23g4~x2/">(Logan)</a></td><td>1.29</td><td><code>G/8 T46 G4 K46 G46 K/8</code></td><td>300</td><td>1819</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k4g23k23g2t23g4~x2/"><img src="k4g23k23g2t23g4-rev.png" alt="(Logan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

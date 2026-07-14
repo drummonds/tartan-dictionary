@@ -24,7 +24,7 @@ The **Taplin** tartan groups 2 setts — the same named design recorded as diffe
 <tbody>
 <tr><td><a href="/variants/s11/r52k2r5y3r5k5r5g3r5k2r52~x2/">Taplin</a> ★</td><td></td><td><code>R/104 K4 R10 Y6 R10 K10 R10 G6 R10 K4 R/104</code></td><td>348</td><td>2003</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r52k2r5y3r5k5r5g3r5k2r52~x2/"><img src="/variants/s11/r52k2r5y3r5k5r5g3r5k2r52~x2/sett.png" alt="Taplin sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/r52k2r5g3r5k5r5ly3r5k2r52~x2/">(Name)</a></td><td>0.01</td><td><code>R/104 K4 R10 G6 R10 K10 R10 LY6 R10 K4 R/104</code></td><td>348</td><td>2003</td></tr>
+<tr><td><a href="/variants/s11/r52k2r5g3r5k5r5ly3r5k2r52~x2/">(Name)</a></td><td>0.01</td><td><code>R/104 K4 R10 LY6 R10 K10 R10 G6 R10 K4 R/104</code></td><td>348</td><td>2003</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/r52k2r5g3r5k5r5ly3r5k2r52~x2/"><img src="r52k2r5g3r5k5r5ly3r5k2r52-rev.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

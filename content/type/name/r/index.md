@@ -49,8 +49,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s6/w8lb30g5w3db8r5/"><img src="/variants/s6/w8lb30g5w3db8r5/sett.png" alt="Roseberry" width="140"><br>Roseberry</a></li>
 <li><a class="tartan" href="/variants/s9/dr50dy4w16db2w4db2w15g27r4~x2/"><img src="/variants/s9/dr50dy4w16db2w4db2w15g27r4~x2/sett.png" alt="Rosevear" width="140"><br>Rosevear</a></li>
 <li><a class="tartan" href="/variants/s11/db6k3r2k3r31k6dy2k6dy13k2dy2~x2/"><img src="/variants/s11/db6k3r2k3r31k6dy2k6dy13k2dy2~x2/sett.png" alt="Rourke-Frew (Ontario)" width="140"><br>Rourke-Frew (Ontario)</a></li>
-<li><a class="tartan" href="/variants/s11/db6k3r2k3dg31k6g2k6dy13k2g2~x2/"><img src="/variants/s11/db6k3r2k3dg31k6g2k6dy13k2g2~x2/sett.png" alt="Rourke-Frew Hunting" width="140"><br>Rourke-Frew Hunting</a></li>
 <li><a class="tartan" href="/variants/s11/db6k3r2k3dg31k6dg2k6lo13k2dg2~x2/"><img src="/variants/s11/db6k3r2k3dg31k6dg2k6lo13k2dg2~x2/sett.png" alt="Rourke-Frew Hunting" width="140"><br>Rourke-Frew Hunting</a></li>
+<li><a class="tartan" href="/variants/s11/db6k3r2k3dg31k6g2k6dy13k2g2~x2/"><img src="/variants/s11/db6k3r2k3dg31k6g2k6dy13k2g2~x2/sett.png" alt="Rourke-Frew Hunting" width="140"><br>Rourke-Frew Hunting</a></li>
 <li><a class="tartan" href="/variants/s10/y4r2k9r25k3r2k3r4db15w3~x2/"><img src="/variants/s10/y4r2k9r25k3r2k3r4db15w3~x2/sett.png" alt="Royal &amp; Ancient/Golfing Stewart" width="140"><br>Royal & Ancient/Golfing Stewart</a></li>
 <li><a class="tartan" href="/variants/s10/k3db10k2w1k2g10k2dg10r1dg2~x4/"><img src="/variants/s10/k3db10k2w1k2g10k2dg10r1dg2~x4/sett.png" alt="Rutledge (Name)" width="140"><br>Rutledge (Name)</a></li>
 </ul>

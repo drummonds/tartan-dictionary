@@ -24,7 +24,7 @@ The **Sinclair** tartan groups 2 setts — the same named design recorded as dif
 <tbody>
 <tr><td><a href="/variants/s7/dr4db15w2n15g30dr2g4~x2/">Sinclair</a> ★</td><td></td><td><code>DR/8 DB30 W4 N30 G60 DR4 G/8</code></td><td>272</td><td>2002</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/dr4db15w2n15g30dr2g4~x2/"><img src="/variants/s7/dr4db15w2n15g30dr2g4~x2/sett.png" alt="Sinclair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/g10r3g30n10w2db15r4~x2/">Sinclair</a></td><td>0.33</td><td><code>G/20 R6 G60 N20 W4 DB30 R/8</code></td><td>268</td><td>—</td></tr>
+<tr><td><a href="/variants/s7/g10r3g30n10w2db15r4~x2/">Sinclair</a></td><td>0.33</td><td><code>R/8 DB30 W4 N20 G60 R6 G/20</code></td><td>268</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g10r3g30n10w2db15r4~x2/"><img src="g10r3g30n10w2db15r4-rev.png" alt="Sinclair sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

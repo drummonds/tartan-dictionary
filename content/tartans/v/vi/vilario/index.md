@@ -24,7 +24,7 @@ The **Vilario** tartan groups 2 setts — the same named design recorded as diff
 <tbody>
 <tr><td><a href="/variants/s18/lb10db20b2db20lb10w1lb10db20r2db20lb10w1lb10db20y2db20lb10w1~x2/">Vilario</a> ★</td><td></td><td><code>LB/20 DB40 B4 DB40 LB20 W2 LB20 DB40 R4 DB40 LB20 W2 LB20 DB40 Y4 DB40 LB20 W/2</code></td><td>734</td><td>2006</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/lb10db20b2db20lb10w1lb10db20r2db20lb10w1lb10db20y2db20lb10w1~x2/"><img src="/variants/s18/lb10db20b2db20lb10w1lb10db20r2db20lb10w1lb10db20y2db20lb10w1~x2/sett.png" alt="Vilario sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s18/db20b2db20lb10w1lb10db20y2db20lb10w1lb10db20r2db20lb10w1lb10~x2/">(Personal))</a></td><td>0.00</td><td><code>DB/40 B4 DB40 LB20 W2 LB20 DB40 Y4 DB40 LB20 W2 LB20 DB40 R4 DB40 LB20 W2 LB/20</code></td><td>696</td><td>2006</td></tr>
+<tr><td><a href="/variants/s18/db20b2db20lb10w1lb10db20y2db20lb10w1lb10db20r2db20lb10w1lb10~x2/">(Personal))</a></td><td>0.00</td><td><code>LB/20 W2 LB20 DB40 R4 DB40 LB20 W2 LB20 DB40 Y4 DB40 LB20 W2 LB20 DB40 B4 DB/40</code></td><td>696</td><td>2006</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/db20b2db20lb10w1lb10db20y2db20lb10w1lb10db20r2db20lb10w1lb10~x2/"><img src="db20b2db20lb10w1lb10db20y2db20lb10w1lb10db20r2db20lb10w1lb10-rev.png" alt="(Personal)) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

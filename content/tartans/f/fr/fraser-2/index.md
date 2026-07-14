@@ -24,7 +24,7 @@ The **Fraser** tartan groups 2 setts — the same named design recorded as diffe
 <tbody>
 <tr><td><a href="/variants/s7/r2w2y27g14y2db14y2~x2/">Fraser</a> ★</td><td></td><td><code>R/4 W4 Y54 G28 Y4 DB28 Y/4</code></td><td>244</td><td>~2003</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r2w2y27g14y2db14y2~x2/"><img src="/variants/s7/r2w2y27g14y2db14y2~x2/sett.png" alt="Fraser sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/y1db3y1g3y8w1~x4/">Yellow #2</a></td><td>0.96</td><td><code>Y/4 DB12 Y4 G12 Y32 W/4</code></td><td>128</td><td>—</td></tr>
+<tr><td><a href="/variants/s6/y1db3y1g3y8w1~x4/">Yellow #2</a></td><td>0.96</td><td><code>W/4 Y32 G12 Y4 DB12 Y/4</code></td><td>128</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/y1db3y1g3y8w1~x4/"><img src="y1db3y1g3y8w1-rev.png" alt="Yellow #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

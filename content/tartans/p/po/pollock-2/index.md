@@ -26,7 +26,7 @@ The **Pollock** tartan groups 2 setts — the same named design recorded as diff
 <tbody>
 <tr><td><a href="/variants/s7/g3lo16w4k6g28lo1g3~x4/">Pollock</a> ★</td><td></td><td><code>G/12 LO64 W16 K24 G112 LO4 G/12</code></td><td>464</td><td>1980</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g3lo16w4k6g28lo1g3~x4/"><img src="/variants/s7/g3lo16w4k6g28lo1g3~x4/sett.png" alt="Pollock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/g6lo2g32k8w6lo20g5~x2/">(Name)</a></td><td>0.41</td><td><code>G/12 LO4 G64 K16 W12 LO40 G/10</code></td><td>294</td><td>1980</td></tr>
+<tr><td><a href="/variants/s7/g6lo2g32k8w6lo20g5~x2/">(Name)</a></td><td>0.41</td><td><code>G/10 LO40 W12 K16 G64 LO4 G/12</code></td><td>294</td><td>1980</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/g6lo2g32k8w6lo20g5~x2/"><img src="g6lo2g32k8w6lo20g5-rev.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

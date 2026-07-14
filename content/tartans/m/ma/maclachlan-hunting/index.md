@@ -24,7 +24,7 @@ The **MacLachlan Hunting** tartan groups 2 setts — the same named design recor
 <tbody>
 <tr><td><a href="/variants/s15/g4k1g1k1g1k5db5r2db2r2db5g5k1g1k1~x6/">MacLachlan Hunting</a> ★</td><td></td><td><code>G/24 K6 G6 K6 G6 K30 DB30 R12 DB12 R12 DB30 G30 K6 G6 K/6</code></td><td>414</td><td>2002</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s15/g4k1g1k1g1k5db5r2db2r2db5g5k1g1k1~x6/"><img src="/variants/s15/g4k1g1k1g1k5db5r2db2r2db5g5k1g1k1~x6/sett.png" alt="MacLachlan Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/g4k1g1k1g1k5db5r2db2r2db5g5k1g1~x2/">MacLachlan, Hunting</a></td><td>1.00</td><td><code>G/8 K2 G2 K2 G2 K10 DB10 R4 DB4 R4 DB10 G10 K2 G/2</code></td><td>134</td><td>—</td></tr>
+<tr><td><a href="/variants/s14/g4k1g1k1g1k5db5r2db2r2db5g5k1g1~x2/">MacLachlan, Hunting</a></td><td>1.00</td><td><code>G/2 K2 G10 DB10 R4 DB4 R4 DB10 K10 G2 K2 G2 K2 G/8</code></td><td>134</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/g4k1g1k1g1k5db5r2db2r2db5g5k1g1~x2/"><img src="g4k1g1k1g1k5db5r2db2r2db5g5k1g1-rev.png" alt="MacLachlan, Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

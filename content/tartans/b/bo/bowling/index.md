@@ -27,9 +27,9 @@ The **Bowling** tartan groups 3 setts — the same named design recorded as diff
 <tbody>
 <tr><td><a href="/variants/s13/w2db14lo3k6g2k2w2k2g8dy6k2dy3w2~x4/">Bowling</a> ★</td><td></td><td><code>W/8 DB56 LO12 K24 G8 K8 W8 K8 G32 DY24 K8 DY12 W/8</code></td><td>416</td><td>1880</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/w2db14lo3k6g2k2w2k2g8dy6k2dy3w2~x4/"><img src="/variants/s13/w2db14lo3k6g2k2w2k2g8dy6k2dy3w2~x4/sett.png" alt="Bowling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/w2dy3k2dy6g8k2w2k2g2k6y3db14w1~x2/">Irish Family Tartan</a></td><td>0.79</td><td><code>W/4 DY6 K4 DY12 G16 K4 W4 K4 G4 K12 Y6 DB28 W/2</code></td><td>206</td><td>1880</td></tr>
+<tr><td><a href="/variants/s13/w2dy3k2dy6g8k2w2k2g2k6y3db14w1~x2/">Irish Family Tartan</a></td><td>0.79</td><td><code>W/2 DB28 Y6 K12 G4 K4 W4 K4 G16 DY12 K4 DY6 W/4</code></td><td>206</td><td>1880</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/w2dy3k2dy6g8k2w2k2g2k6y3db14w1~x2/"><img src="w2dy3k2dy6g8k2w2k2g2k6y3db14w1-rev.png" alt="Irish Family Tartan sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2~y2405105-ly3307090/">Bowling</a></td><td>0.81</td><td><code>W/4 Y6 K4 Y12 G16 K4 W4 K4 G4 K12 LY6 DB28 W/2</code></td><td>206</td><td>—</td></tr>
+<tr><td><a href="/variants/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2~y2405105-ly3307090/">Bowling</a></td><td>0.81</td><td><code>W/2 DB28 LY6 K12 G4 K4 W4 K4 G16 Y12 K4 Y6 W/4</code></td><td>206</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2~y2405105-ly3307090/"><img src="w2y3k2y6g8k2w2k2g2k6ly3db14w1-rev.png" alt="Bowling sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

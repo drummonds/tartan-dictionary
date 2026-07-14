@@ -24,7 +24,7 @@ The **Lochnagar** tartan groups 2 setts — the same named design recorded as di
 <tbody>
 <tr><td><a href="/variants/s6/w1dp1o7n4o1w1~x4~o2500000-n1900000/">Lochnagar</a> ★</td><td></td><td><code>W/4 DP4 O28 N16 O4 W/4</code></td><td>112</td><td>2002</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w1dp1o7n4o1w1~x4~o2500000-n1900000/"><img src="/variants/s6/w1dp1o7n4o1w1~x4~o2500000-n1900000/sett.png" alt="Lochnagar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/w1o1n4o7lp1w1~x4~o2500000-n1900000/">Plaid (District)</a></td><td>0.07</td><td><code>W/4 O4 N16 O28 LP4 W/4</code></td><td>112</td><td>~1974</td></tr>
+<tr><td><a href="/variants/s6/w1o1n4o7lp1w1~x4~o2500000-n1900000/">Plaid (District)</a></td><td>0.07</td><td><code>W/4 LP4 O28 N16 O4 W/4</code></td><td>112</td><td>~1974</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/w1o1n4o7lp1w1~x4~o2500000-n1900000/"><img src="w1o1n4o7lp1w1-rev.png" alt="Plaid (District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

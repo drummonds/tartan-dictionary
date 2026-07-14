@@ -28,14 +28,14 @@ The **Gunn** tartan groups 4 setts — the same named design recorded as differe
 <tbody>
 <tr><td><a href="/variants/s6/dg2db12dg1k12dg12r2~x2/">Gunn</a> ★</td><td></td><td><code>DG/4 DB24 DG2 K24 DG24 R/4</code></td><td>156</td><td>1831</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/dg2db12dg1k12dg12r2~x2/"><img src="/variants/s6/dg2db12dg1k12dg12r2~x2/sett.png" alt="Gunn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r2g12k12g1db12g1~x2/">Gunn</a></td><td>0.22</td><td><code>R/4 G24 K24 G2 DB24 G/2</code></td><td>154</td><td>~1810</td></tr>
+<tr><td><a href="/variants/s6/r2g12k12g1db12g1~x2/">Gunn</a></td><td>0.22</td><td><code>G/2 DB24 G2 K24 G24 R/4</code></td><td>154</td><td>~1810</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r2g12k12g1db12g1~x2/"><img src="r2g12k12g1db12g1-rev.png" alt="Gunn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/r2g12k12g1db12g2/">Gunn</a></td><td>0.16</td><td><code>R/2 G12 K12 G1 DB12 G/2</code></td><td>78</td><td>—</td></tr>
+<tr><td><a href="/variants/s6/r2g12k12g1db12g2/">Gunn</a></td><td>0.16</td><td><code>G/2 DB12 G1 K12 G12 R/2</code></td><td>78</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r2g12k12g1db12g2/"><img src="r2g12k12g1db12g2-rev.png" alt="Gunn sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s6/r2g12k12g1db12g2/">Gunn</a></td><td>0.16</td><td><code>R/2 G12 K12 G1 DB12 G/2</code></td><td>78</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/r2g12k12g1db12g2~x2/">Gunn</a></td><td>0.16</td><td><code>R/4 G24 K24 G2 DB24 G/4</code></td><td>156</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s6/r2g12k12g1db12g2/">Gunn</a></td><td>0.16</td><td><code>G/2 DB12 G1 K12 G12 R/2</code></td><td>78</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/r2g12k12g1db12g2~x2/">Gunn</a></td><td>0.16</td><td><code>G/4 DB24 G2 K24 G24 R/4</code></td><td>156</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s6/r2g12k12g1db12g2/">Gunn</a> · <a href="/variants/s6/r2g12k12g1db12g2~x2/">Gunn</a></td></tr>
-<tr><td><a href="/variants/s6/r4g12k12g2db12g3~x2/">1810 (Clan)</a></td><td>0.60</td><td><code>R/8 G24 K24 G4 DB24 G/6</code></td><td>166</td><td>1831</td></tr>
+<tr><td><a href="/variants/s6/r4g12k12g2db12g3~x2/">1810 (Clan)</a></td><td>0.60</td><td><code>G/6 DB24 G4 K24 G24 R/8</code></td><td>166</td><td>1831</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r4g12k12g2db12g3~x2/"><img src="r4g12k12g2db12g3-rev.png" alt="1810 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

@@ -19,7 +19,7 @@ The **Robert Lee Jordan Defiance** tartan groups 2 setts — the same named desi
 <tbody>
 <tr><td><a href="/variants/s13/k4dg21dp1dg3dp12db3dp3db4dp3db24k1w5r3~x2/">Robert Lee Jordan Defiance</a> ★</td><td></td><td><code>K/8 DG42 DP2 DG6 DP24 DB6 DP6 DB8 DP6 DB48 K2 W10 R/6</code></td><td>334</td><td>2007</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s13/k4dg21dp1dg3dp12db3dp3db4dp3db24k1w5r3~x2/"><img src="/variants/s13/k4dg21dp1dg3dp12db3dp3db4dp3db24k1w5r3~x2/sett.png" alt="Robert Lee Jordan Defiance sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/r3w5k1db24dp3db4dp3db3dp12dg3dp1dg21k1ly3~x2/">(Per.)</a></td><td>0.36</td><td><code>R/6 W10 K2 DB48 DP6 DB8 DP6 DB6 DP24 DG6 DP2 DG42 K2 LY/6</code></td><td>336</td><td>2007</td></tr>
+<tr><td><a href="/variants/s14/r3w5k1db24dp3db4dp3db3dp12dg3dp1dg21k1ly3~x2/">(Per.)</a></td><td>0.36</td><td><code>LY/6 K2 DG42 DP2 DG6 DP24 DB6 DP6 DB8 DP6 DB48 K2 W10 R/6</code></td><td>336</td><td>2007</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/r3w5k1db24dp3db4dp3db3dp12dg3dp1dg21k1ly3~x2/"><img src="r3w5k1db24dp3db4dp3db3dp12dg3dp1dg21k1ly3-rev.png" alt="(Per.) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

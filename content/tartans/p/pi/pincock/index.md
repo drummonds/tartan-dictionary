@@ -24,7 +24,7 @@ The **Pincock** tartan groups 2 setts — the same named design recorded as diff
 <tbody>
 <tr><td><a href="/variants/s6/k2g12t24lb50w1r2~x2~t2405244-lb3203246/">Pincock</a> ★</td><td></td><td><code>K/4 G24 T48 LB100 W2 R/4</code></td><td>356</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k2g12t24lb50w1r2~x2~t2405244-lb3203246/"><img src="/variants/s6/k2g12t24lb50w1r2~x2~t2405244-lb3203246/sett.png" alt="Pincock sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/r2w1lb50t24g12k1ly1~x2~lb3203246-t2405244/">(Name)</a></td><td>0.32</td><td><code>R/4 W2 LB100 T48 G24 K2 LY/2</code></td><td>358</td><td>2010</td></tr>
+<tr><td><a href="/variants/s7/r2w1lb50t24g12k1ly1~x2~lb3203246-t2405244/">(Name)</a></td><td>0.32</td><td><code>LY/2 K2 G24 T48 LB100 W2 R/4</code></td><td>358</td><td>2010</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r2w1lb50t24g12k1ly1~x2~lb3203246-t2405244/"><img src="r2w1lb50t24g12k1ly1-rev.png" alt="(Name) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

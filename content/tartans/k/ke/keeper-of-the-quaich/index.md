@@ -19,7 +19,7 @@ The **Keeper of the Quaich** tartan groups 2 setts — the same named design rec
 <tbody>
 <tr><td><a href="/variants/s6/do3db3do3db27do40dy3/">Keeper of the Quaich</a> ★</td><td></td><td><code>DO/3 DB3 DO3 DB27 DO40 DY/3</code></td><td>152</td><td>1988</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/do3db3do3db27do40dy3/"><img src="/variants/s6/do3db3do3db27do40dy3/sett.png" alt="Keeper of the Quaich sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/y3b40db27b3db3b3/">Keeper of the Quaich</a></td><td>8.33</td><td><code>Y/3 B40 DB27 B3 DB3 B/3</code></td><td>152</td><td>—</td></tr>
+<tr><td><a href="/variants/s6/y3b40db27b3db3b3/">Keeper of the Quaich</a></td><td>8.33</td><td><code>B/3 DB3 B3 DB27 B40 Y/3</code></td><td>152</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/y3b40db27b3db3b3/"><img src="y3b40db27b3db3b3-rev.png" alt="Keeper of the Quaich sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

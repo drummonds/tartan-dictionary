@@ -22,7 +22,7 @@ The **Westin Kierland** tartan groups 3 setts — the same named design recorded
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/o2k37dr10db3dr5dy4dr3w2~x2/"><img src="/variants/s8/o2k37dr10db3dr5dy4dr3w2~x2/sett.png" alt="Westin Kierland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s8/o2k37r10db3r5dy4r3w2~x2/">Westin Kierland</a></td><td>0.13</td><td><code>O/4 K74 R20 DB6 R10 DY8 R6 W/4</code></td><td>256</td><td>2014</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/o2k37r10db3r5dy4r3w2~x2/"><img src="/variants/s8/o2k37r10db3r5dy4r3w2~x2/sett.png" alt="Westin Kierland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/w2dr3lyi4dr5db3dr10k38ly2~x2~lyi3407090-ly2705081/">(Corporate)</a></td><td>0.64</td><td><code>W/4 DR6 LYi8 DR10 DB6 DR20 K76 LY/4</code></td><td>260</td><td>2014</td></tr>
+<tr><td><a href="/variants/s8/w2dr3lyi4dr5db3dr10k38ly2~x2~lyi3407090-ly2705081/">(Corporate)</a></td><td>0.64</td><td><code>LY/4 K76 DR20 DB6 DR10 LYi8 DR6 W/4</code></td><td>260</td><td>2014</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/w2dr3lyi4dr5db3dr10k38ly2~x2~lyi3407090-ly2705081/"><img src="w2dr3lyi4dr5db3dr10k38ly2-rev.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

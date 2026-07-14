@@ -24,7 +24,7 @@ The **Invertere** tartan groups 2 setts — the same named design recorded as di
 <tbody>
 <tr><td><a href="/variants/s14/dg6ly2db2ly11dg2ly2r3ly2dg2ly11db2ly2dg6r3~x2/">Invertere</a> ★</td><td></td><td><code>DG/12 LY4 DB4 LY22 DG4 LY4 R6 LY4 DG4 LY22 DB4 LY4 DG12 R/6</code></td><td>206</td><td>2002</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/dg6ly2db2ly11dg2ly2r3ly2dg2ly11db2ly2dg6r3~x2/"><img src="/variants/s14/dg6ly2db2ly11dg2ly2r3ly2dg2ly11db2ly2dg6r3~x2/sett.png" alt="Invertere sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s14/g14dy4db4dy27g3dy4ly5dy4g3dy27db4dy4g14ly5~x2~g2408144-dy1603076-db1406275-ly3307090/">(Daks #2)</a></td><td>5.28</td><td><code>G/28 DY8 DB8 DY54 G6 DY8 LY10 DY8 G6 DY54 DB8 DY8 G28 LY/10</code></td><td>450</td><td>2002</td></tr>
+<tr><td><a href="/variants/s14/g14dy4db4dy27g3dy4ly5dy4g3dy27db4dy4g14ly5~x2~g2408144-dy1603076-db1406275-ly3307090/">(Daks #2)</a></td><td>5.28</td><td><code>LY/10 G28 DY8 DB8 DY54 G6 DY8 LY10 DY8 G6 DY54 DB8 DY8 G/28</code></td><td>450</td><td>2002</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s14/g14dy4db4dy27g3dy4ly5dy4g3dy27db4dy4g14ly5~x2~g2408144-dy1603076-db1406275-ly3307090/"><img src="g14dy4db4dy27g3dy4ly5dy4g3dy27db4dy4g14ly5-rev.png" alt="(Daks #2) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

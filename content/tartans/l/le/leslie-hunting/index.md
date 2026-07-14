@@ -27,10 +27,10 @@ The **Leslie Hunting** tartan groups 2 setts — the same named design recorded 
 <tr><td><a href="/variants/s6/k1g8w1k8db8r1~x4/">Leslie Hunting</a> ★</td><td></td><td><code>K/4 G32 W4 K32 DB32 R/4</code></td><td>208</td><td>1810</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/k1g8w1k8db8r1~x4/"><img src="/variants/s6/k1g8w1k8db8r1~x4/sett.png" alt="Leslie Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s6/k1g8w1k8db8r1~x4/">Leslie Hunting</a> · <a href="/variants/s6/k1g8w1k8db8r1~x4~db1004274/">Syme</a></td></tr>
-<tr><td><a href="/variants/s6/r2db8k8w1g8k1~x2/">Leslie Hunting</a></td><td>0.05</td><td><code>R/2 DB8 K8 W1 G8 K/1</code></td><td>53</td><td>1810</td></tr>
+<tr><td><a href="/variants/s6/r2db8k8w1g8k1~x2/">Leslie Hunting</a></td><td>0.05</td><td><code>K/1 G8 W1 K8 DB8 R/2</code></td><td>53</td><td>1810</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/r2db8k8w1g8k1~x2/"><img src="r2db8k8w1g8k1-rev.png" alt="Leslie Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s6/r2db8k8w1g8k1/">Leslie Hunting</a></td><td>0.05</td><td><code>R/2 DB8 K8 W1 G8 K/1</code></td><td>53</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/r2db8k8w1g8k1~x2/">Leslie, hunting</a></td><td>0.05</td><td><code>R/4 DB16 K16 W2 G16 K/2</code></td><td>106</td><td>1810</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s6/r2db8k8w1g8k1/">Leslie Hunting</a></td><td>0.05</td><td><code>K/1 G8 W1 K8 DB8 R/2</code></td><td>53</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s6/r2db8k8w1g8k1~x2/">Leslie, hunting</a></td><td>0.05</td><td><code>K/2 G16 W2 K16 DB16 R/4</code></td><td>106</td><td>1810</td></tr>
 <tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s6/r2db8k8w1g8k1/">Leslie Hunting</a> · <a href="/variants/s6/r2db8k8w1g8k1~x2/">Leslie, hunting</a></td></tr>
 </tbody>
 </table>

@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/c/cl/cleland/">Cleland</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/c/cl/cleland/"><img src="/variants/s5/k2lb36g12w3r2~x2/sett.png" alt="Cleland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/c/cl/cleland/"><img src="/variants/s5/k2lb28g7w3r2~x2/sett.png" alt="Cleland sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/tartans/c/co/cornish-national-day/">Cornish National Day</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/c/co/cornish-national-day/"><img src="/variants/s5/k5w2y36lb47r3~x2/sett.png" alt="Cornish National Day sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

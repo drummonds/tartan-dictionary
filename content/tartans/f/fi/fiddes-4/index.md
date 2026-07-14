@@ -24,7 +24,7 @@ The **Fiddes** tartan groups 2 setts — the same named design recorded as diffe
 <tbody>
 <tr><td><a href="/variants/s18/g12r11dp12k1dp1k1r32dp8g8dp8g8r32k1dp1k1dp12r11g12~x2/">Fiddes</a> ★</td><td></td><td><code>G/24 R22 DP24 K2 DP2 K2 R64 DP16 G16 DP16 G16 R64 K2 DP2 K2 DP24 R22 G/24</code></td><td>640</td><td>1790</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/g12r11dp12k1dp1k1r32dp8g8dp8g8r32k1dp1k1dp12r11g12~x2/"><img src="/variants/s18/g12r11dp12k1dp1k1r32dp8g8dp8g8r32k1dp1k1dp12r11g12~x2/sett.png" alt="Fiddes sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s18/dg12r11dp12k1dp1k1r32dg8dp8dg8dp8r32k1dp1k1dp12r11dg12~x2/">1790 (Clan)</a></td><td>0.12</td><td><code>DG/24 R22 DP24 K2 DP2 K2 R64 DG16 DP16 DG16 DP16 R64 K2 DP2 K2 DP24 R22 DG/24</code></td><td>640</td><td>—</td></tr>
+<tr><td><a href="/variants/s18/dg12r11dp12k1dp1k1r32dg8dp8dg8dp8r32k1dp1k1dp12r11dg12~x2/">1790 (Clan)</a></td><td>0.12</td><td><code>DG/24 R22 DP24 K2 DP2 K2 R64 DP16 DG16 DP16 DG16 R64 K2 DP2 K2 DP24 R22 DG/24</code></td><td>640</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s18/dg12r11dp12k1dp1k1r32dg8dp8dg8dp8r32k1dp1k1dp12r11dg12~x2/"><img src="dg12r11dp12k1dp1k1r32dg8dp8dg8dp8r32k1dp1k1dp12r11dg12-rev.png" alt="1790 (Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

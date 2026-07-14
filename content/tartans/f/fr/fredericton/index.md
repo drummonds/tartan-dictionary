@@ -24,11 +24,11 @@ The **Fredericton** tartan groups 4 setts — the same named design recorded as 
 <tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s12/y2g16lb2w2lb2w2lb6g7r2w1lb1dp1~x2/">Fredericton</a></td><td>0.00</td><td><code>Y/4 G32 LB4 W4 LB4 W4 LB12 G14 R4 W2 LB2 DP/2</code></td><td>170</td><td>—</td></tr>
 <tr class="sett-scale"><td>&nbsp;&nbsp;· ×6 — <a href="/variants/s12/y2g16lb2w2lb2w2lb6g7r2w1lb1dp1~x6/">#2</a></td><td>0.00</td><td><code>Y/12 G96 LB12 W12 LB12 W12 LB36 G42 R12 W6 LB6 DP/6</code></td><td>510</td><td>1961</td></tr>
 <tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s12/y2g16lb2w2lb2w2lb6g7r2w1lb1dp1~x2/">Fredericton</a> · <a href="/variants/s12/y2g16lb2w2lb2w2lb6g7r2w1lb1dp1~x6/">#2</a></td></tr>
-<tr><td><a href="/variants/s12/dp3lb1w9r6dg5lb2w2lb2w2lb2dg12y2~x4/">#1</a></td><td>0.75</td><td><code>DP/12 LB4 W36 R24 DG20 LB8 W8 LB8 W8 LB8 DG48 Y/8</code></td><td>364</td><td>1961</td></tr>
+<tr><td><a href="/variants/s12/dp3lb1w9r6dg5lb2w2lb2w2lb2dg12y2~x4/">#1</a></td><td>0.75</td><td><code>Y/8 DG48 LB8 W8 LB8 W8 LB8 DG20 R24 W36 LB4 DP/12</code></td><td>364</td><td>1961</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dp3lb1w9r6dg5lb2w2lb2w2lb2dg12y2~x4/"><img src="dp3lb1w9r6dg5lb2w2lb2w2lb2dg12y2-rev.png" alt="#1 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/dp3lb1w9r6g5lb2w2lb2w2lb2g12y2~x2/">Fredericton</a></td><td>0.69</td><td><code>DP/6 LB2 W18 R12 G10 LB4 W4 LB4 W4 LB4 G24 Y/4</code></td><td>182</td><td>1967</td></tr>
+<tr><td><a href="/variants/s12/dp3lb1w9r6g5lb2w2lb2w2lb2g12y2~x2/">Fredericton</a></td><td>0.69</td><td><code>Y/4 G24 LB4 W4 LB4 W4 LB4 G10 R12 W18 LB2 DP/6</code></td><td>182</td><td>1967</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dp3lb1w9r6g5lb2w2lb2w2lb2g12y2~x2/"><img src="dp3lb1w9r6g5lb2w2lb2w2lb2g12y2-rev.png" alt="Fredericton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s12/dp6lb2w24r15g12lb4w4lb4w4lb4g34y4/">(District)</a></td><td>0.74</td><td><code>DP/6 LB2 W24 R15 G12 LB4 W4 LB4 W4 LB4 G34 Y/4</code></td><td>224</td><td>1961</td></tr>
+<tr><td><a href="/variants/s12/dp6lb2w24r15g12lb4w4lb4w4lb4g34y4/">(District)</a></td><td>0.74</td><td><code>Y/4 G34 LB4 W4 LB4 W4 LB4 G12 R15 W24 LB2 DP/6</code></td><td>224</td><td>1961</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s12/dp6lb2w24r15g12lb4w4lb4w4lb4g34y4/"><img src="dp6lb2w24r15g12lb4w4lb4w4lb4g34y4-rev.png" alt="(District) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

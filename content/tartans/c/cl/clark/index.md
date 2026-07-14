@@ -32,7 +32,7 @@ The **Clark** tartan groups 4 setts — the same named design recorded as differ
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k4lb4db14k15lb4k15lb4db7lb4db10lb4~x2/"><img src="/variants/s11/k4lb4db14k15lb4k15lb4db7lb4db10lb4~x2/sett.png" alt="(Clerke/Clergy/Priest) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s11/k4w4db19k19w4k19w4db7w4db11w4~x2/">Clark</a></td><td>1.10</td><td><code>K/8 W8 DB38 K38 W8 K38 W8 DB14 W8 DB22 W/8</code></td><td>380</td><td>1819</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/k4w4db19k19w4k19w4db7w4db11w4~x2/"><img src="/variants/s11/k4w4db19k19w4k19w4db7w4db11w4~x2/sett.png" alt="Clark sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s11/w2lb7w2lb3w2k15w2k15lb15w2lb2~x2/">(Clan)</a></td><td>0.55</td><td><code>W/4 LB14 W4 LB6 W4 K30 W4 K30 LB30 W4 LB/4</code></td><td>260</td><td>~2002</td></tr>
+<tr><td><a href="/variants/s11/w2lb7w2lb3w2k15w2k15lb15w2lb2~x2/">(Clan)</a></td><td>0.55</td><td><code>LB/4 W4 LB30 K30 W4 K30 W4 LB6 W4 LB14 W/4</code></td><td>260</td><td>~2002</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s11/w2lb7w2lb3w2k15w2k15lb15w2lb2~x2/"><img src="w2lb7w2lb3w2k15w2k15lb15w2lb2-rev.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

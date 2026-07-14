@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/w/wi/wilson-s-no-211/">Wilson's No 211</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-211/"><img src="/variants/s4/g4dp4g1dp1~x4/sett.png" alt="Wilson's No 211 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-211/"><img src="/variants/s4/g8dp4g1dp2~x4/sett.png" alt="Wilson's No 211 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/w/wi/wilson-s-no-211-2/">Wilson's No.211</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/w/wi/wilson-s-no-211-2/"><img src="/variants/s4/dg4dp4dg1dp1~x4~dp1105325/sett.png" alt="Wilson's No.211 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>

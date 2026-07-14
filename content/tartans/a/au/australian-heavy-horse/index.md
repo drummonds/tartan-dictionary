@@ -22,7 +22,7 @@ The **Australian Heavy Horse** tartan groups 2 setts — the same named design r
 <tbody>
 <tr><td><a href="/variants/s10/lb4g2lb18k2n5do16w2n2lr2lb4~x2/">Australian Heavy Horse</a> ★</td><td></td><td><code>LB/8 G4 LB36 K4 N10 DO32 W4 N4 LR4 LB/8</code></td><td>212</td><td>2009</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/lb4g2lb18k2n5do16w2n2lr2lb4~x2/"><img src="/variants/s10/lb4g2lb18k2n5do16w2n2lr2lb4~x2/sett.png" alt="Australian Heavy Horse sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s10/lb4dy2n2w2do16n5k2lb18g2lb4~x2/">(Corporate)</a></td><td>0.30</td><td><code>LB/8 DY4 N4 W4 DO32 N10 K4 LB36 G4 LB/8</code></td><td>212</td><td>2009</td></tr>
+<tr><td><a href="/variants/s10/lb4dy2n2w2do16n5k2lb18g2lb4~x2/">(Corporate)</a></td><td>0.30</td><td><code>LB/8 G4 LB36 K4 N10 DO32 W4 N4 DY4 LB/8</code></td><td>212</td><td>2009</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s10/lb4dy2n2w2do16n5k2lb18g2lb4~x2/"><img src="lb4dy2n2w2do16n5k2lb18g2lb4-rev.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

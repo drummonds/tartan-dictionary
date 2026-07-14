@@ -24,7 +24,7 @@ The **North Vancouver Island** tartan groups 2 setts — the same named design r
 <tbody>
 <tr><td><a href="/variants/s8/dy2db6w2db9w9db2w6r2~x4/">North Vancouver Island</a> ★</td><td></td><td><code>DY/8 DB24 W8 DB36 W36 DB8 W24 R/8</code></td><td>288</td><td>1985</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/dy2db6w2db9w9db2w6r2~x4/"><img src="/variants/s8/dy2db6w2db9w9db2w6r2~x4/sett.png" alt="North Vancouver Island sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/r2w6db2w9db9w2db6y2~x2/">North Vancouver, Island</a></td><td>0.03</td><td><code>R/4 W12 DB4 W18 DB18 W4 DB12 Y/4</code></td><td>144</td><td>1985</td></tr>
+<tr><td><a href="/variants/s8/r2w6db2w9db9w2db6y2~x2/">North Vancouver, Island</a></td><td>0.03</td><td><code>Y/4 DB12 W4 DB18 W18 DB4 W12 R/4</code></td><td>144</td><td>1985</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/r2w6db2w9db9w2db6y2~x2/"><img src="r2w6db2w9db9w2db6y2-rev.png" alt="North Vancouver, Island sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

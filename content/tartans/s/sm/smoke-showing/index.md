@@ -19,7 +19,7 @@ The **Smoke Showing** tartan groups 2 setts — the same named design recorded a
 <tbody>
 <tr><td><a href="/variants/s9/y3k18w2k4g12n33k4n5g3~x2/">Smoke Showing</a> ★</td><td></td><td><code>Y/6 K36 W4 K8 G24 N66 K8 N10 G/6</code></td><td>324</td><td>2014</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/y3k18w2k4g12n33k4n5g3~x2/"><img src="/variants/s9/y3k18w2k4g12n33k4n5g3~x2/sett.png" alt="Smoke Showing sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/g3n5k4n33g12k4w2n18ly3~x2/">(UFES)</a></td><td>1.30</td><td><code>G/6 N10 K8 N66 G24 K8 W4 N36 LY/6</code></td><td>324</td><td>2015</td></tr>
+<tr><td><a href="/variants/s9/g3n5k4n33g12k4w2n18ly3~x2/">(UFES)</a></td><td>1.30</td><td><code>LY/6 N36 W4 K8 G24 N66 K8 N10 G/6</code></td><td>324</td><td>2015</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/g3n5k4n33g12k4w2n18ly3~x2/"><img src="g3n5k4n33g12k4w2n18ly3-rev.png" alt="(UFES) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

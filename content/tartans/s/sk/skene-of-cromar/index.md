@@ -24,7 +24,7 @@ The **Skene of Cromar** tartan groups 2 setts — the same named design recorded
 <tbody>
 <tr><td><a href="/variants/s5/db2r20g20k21r1~x2/">Skene of Cromar</a> ★</td><td></td><td><code>DB/4 R40 G40 K42 R/2</code></td><td>250</td><td>1885</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s5/db2r20g20k21r1~x2/"><img src="/variants/s5/db2r20g20k21r1~x2/sett.png" alt="Skene of Cromar sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/g21k21r1db20r20k2~x2/">(Cant version)</a></td><td>1.32</td><td><code>G/42 K42 R2 DB40 R40 K/4</code></td><td>294</td><td>—</td></tr>
+<tr><td><a href="/variants/s6/g21k21r1db20r20k2~x2/">(Cant version)</a></td><td>1.32</td><td><code>K/4 R40 DB40 R2 K42 G/42</code></td><td>294</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s6/g21k21r1db20r20k2~x2/"><img src="g21k21r1db20r20k2-rev.png" alt="(Cant version) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

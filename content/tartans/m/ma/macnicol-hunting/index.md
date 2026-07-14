@@ -24,10 +24,10 @@ The **MacNicol Hunting** tartan groups 2 setts — the same named design recorde
 <tbody>
 <tr><td><a href="/variants/s17/g20k2w2k2y2k2g19r5k19r5t20k2g2k2g2k2t20~x2/">MacNicol Hunting</a> ★</td><td></td><td><code>G/40 K4 W4 K4 Y4 K4 G38 R10 K38 R10 T40 K4 G4 K4 G4 K4 T/40</code></td><td>432</td><td>~1950</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/g20k2w2k2y2k2g19r5k19r5t20k2g2k2g2k2t20~x2/"><img src="/variants/s17/g20k2w2k2y2k2g19r5k19r5t20k2g2k2g2k2t20~x2/sett.png" alt="MacNicol Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s17/db10k1g1k1g1k1db10r3k10r3g10k1y1k1w1k1g10/">MacNicol Hunting</a></td><td>0.20</td><td><code>DB/10 K1 G1 K1 G1 K1 DB10 R3 K10 R3 G10 K1 Y1 K1 W1 K1 G/10</code></td><td>112</td><td>—</td></tr>
+<tr><td><a href="/variants/s17/db10k1g1k1g1k1db10r3k10r3g10k1y1k1w1k1g10/">MacNicol Hunting</a></td><td>0.20</td><td><code>G/10 K1 W1 K1 Y1 K1 G10 R3 K10 R3 DB10 K1 G1 K1 G1 K1 DB/10</code></td><td>112</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s17/db10k1g1k1g1k1db10r3k10r3g10k1y1k1w1k1g10/"><img src="db10k1g1k1g1k1db10r3k10r3g10k1y1k1w1k1g10-rev.png" alt="MacNicol Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s17/db10k1g1k1g1k1db10r3k10r3g10k1y1k1w1k1g10/">MacNicol Hunting</a></td><td>0.20</td><td><code>DB/10 K1 G1 K1 G1 K1 DB10 R3 K10 R3 G10 K1 Y1 K1 W1 K1 G/10</code></td><td>112</td><td>—</td></tr>
-<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s17/db10k1g1k1g1k1db10r3k10r3g10k1y1k1w1k1g10~x2/">Cunningham, hunting</a></td><td>0.20</td><td><code>DB/20 K2 G2 K2 G2 K2 DB20 R6 K20 R6 G20 K2 Y2 K2 W2 K2 G/20</code></td><td>224</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s17/db10k1g1k1g1k1db10r3k10r3g10k1y1k1w1k1g10/">MacNicol Hunting</a></td><td>0.20</td><td><code>G/10 K1 W1 K1 Y1 K1 G10 R3 K10 R3 DB10 K1 G1 K1 G1 K1 DB/10</code></td><td>112</td><td>—</td></tr>
+<tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s17/db10k1g1k1g1k1db10r3k10r3g10k1y1k1w1k1g10~x2/">Cunningham, hunting</a></td><td>0.20</td><td><code>G/20 K2 W2 K2 Y2 K2 G20 R6 K20 R6 DB20 K2 G2 K2 G2 K2 DB/20</code></td><td>224</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s17/db10k1g1k1g1k1db10r3k10r3g10k1y1k1w1k1g10/">MacNicol Hunting</a> · <a href="/variants/s17/db10k1g1k1g1k1db10r3k10r3g10k1y1k1w1k1g10~x2/">Cunningham, hunting</a></td></tr>
 </tbody>
 </table>

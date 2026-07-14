@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/a/al/allianz-deutschland-2012/">Allianz Deutschland 2012</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/a/al/allianz-deutschland-2012/"><img src="/variants/s7/dbi6db3dbi6db20k20db8w4~x2~dbi1406275-db1204274/sett.png" alt="Allianz Deutschland 2012 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/a/al/allianz-deutschland-2012/"><img src="/variants/s7/t6db3t6db20k20db8w4~x2~t1904245-db1004274/sett.png" alt="Allianz Deutschland 2012 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

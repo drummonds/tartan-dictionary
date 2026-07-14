@@ -33,7 +33,7 @@ second parent, beside its family or clan).
 <tr><td><a href="/tartans/m/ma/macgregor-of-balquhidder/">MacGregor of Balquhidder</a></td></tr>
 <tr><td class="sett-swatch"><a href="/tartans/m/ma/macgregor-of-balquhidder/"><img src="/variants/s6/g9r2g9r14k1w2~x2/sett.png" alt="MacGregor of Balquhidder sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/tartans/p/pr/princess-margaret-rose/">Princess Margaret Rose</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/p/pr/princess-margaret-rose/"><img src="/variants/s6/g32r12g6r6k2w3~x2/sett.png" alt="Princess Margaret Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/p/pr/princess-margaret-rose/"><img src="/variants/s6/dg32r12dg6r6k2w3~x2/sett.png" alt="Princess Margaret Rose sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

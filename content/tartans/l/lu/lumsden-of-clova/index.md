@@ -24,7 +24,7 @@ The **Lumsden of Clova** tartan groups 2 setts — the same named design recorde
 <tbody>
 <tr><td><a href="/variants/s25/dp9r2dp9r9dp1r1dp2r1dp1r9w1r4dp11r2dp11r4w1r9g2r4g2r9g9r2g9~x2/">Lumsden of Clova</a> ★</td><td></td><td><code>DP/18 R4 DP18 R18 DP2 R2 DP4 R2 DP2 R18 W2 R8 DP22 R4 DP22 R8 W2 R18 G4 R8 G4 R18 G18 R4 G/18</code></td><td>460</td><td>1975</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s25/dp9r2dp9r9dp1r1dp2r1dp1r9w1r4dp11r2dp11r4w1r9g2r4g2r9g9r2g9~x2/"><img src="/variants/s25/dp9r2dp9r9dp1r1dp2r1dp1r9w1r4dp11r2dp11r4w1r9g2r4g2r9g9r2g9~x2/sett.png" alt="Lumsden of Clova sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s25/dg9r2dg9r9dg2r4dg2r9w1r4dp11r2dp11r4w1r9dp1r1dp2r1dp1r9dp9r2dp9~x2/">(Clan?)</a></td><td>0.10</td><td><code>DG/18 R4 DG18 R18 DG4 R8 DG4 R18 W2 R8 DP22 R4 DP22 R8 W2 R18 DP2 R2 DP4 R2 DP2 R18 DP18 R4 DP/18</code></td><td>460</td><td>1975</td></tr>
+<tr><td><a href="/variants/s25/dg9r2dg9r9dg2r4dg2r9w1r4dp11r2dp11r4w1r9dp1r1dp2r1dp1r9dp9r2dp9~x2/">(Clan?)</a></td><td>0.10</td><td><code>DP/18 R4 DP18 R18 DP2 R2 DP4 R2 DP2 R18 W2 R8 DP22 R4 DP22 R8 W2 R18 DG4 R8 DG4 R18 DG18 R4 DG/18</code></td><td>460</td><td>1975</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s25/dg9r2dg9r9dg2r4dg2r9w1r4dp11r2dp11r4w1r9dp1r1dp2r1dp1r9dp9r2dp9~x2/"><img src="dg9r2dg9r9dg2r4dg2r9w1r4dp11r2dp11r4w1r9dp1r1dp2r1dp1r9dp9r2dp9-rev.png" alt="(Clan?) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

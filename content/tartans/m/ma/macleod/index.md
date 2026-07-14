@@ -28,7 +28,7 @@ The **MacLeod** tartan groups 3 setts — the same named design recorded as diff
 <tr class="sett-scale"><td>&nbsp;&nbsp;· ×1 — <a href="/variants/s7/r3k2g15k10db20k2y2/">MacLeod</a></td><td>0.00</td><td><code>R/3 K2 G15 K10 DB20 K2 Y/2</code></td><td>103</td><td>—</td></tr>
 <tr class="sett-scale"><td>&nbsp;&nbsp;· ×2 — <a href="/variants/s7/r3k2g15k10db20k2y2~x2/">Macleod of Harris</a></td><td>0.00</td><td><code>R/6 K4 G30 K20 DB40 K4 Y/4</code></td><td>206</td><td>1831</td></tr>
 <tr><td colspan="5" class="sett-variants">2 Variants: <a href="/variants/s7/r3k2g15k10db20k2y2/">MacLeod</a> · <a href="/variants/s7/r3k2g15k10db20k2y2~x2/">Macleod of Harris</a></td></tr>
-<tr><td><a href="/variants/s7/ly4k2t20k10g15k2r3~x2/">(Clan)</a></td><td>0.22</td><td><code>LY/8 K4 T40 K20 G30 K4 R/6</code></td><td>210</td><td>1831</td></tr>
+<tr><td><a href="/variants/s7/ly4k2t20k10g15k2r3~x2/">(Clan)</a></td><td>0.22</td><td><code>R/6 K4 G30 K20 T40 K4 LY/8</code></td><td>210</td><td>1831</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/ly4k2t20k10g15k2r3~x2/"><img src="ly4k2t20k10g15k2r3-rev.png" alt="(Clan) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/r3k2g15k10db21k1y2/">MacLeod</a></td><td>0.52</td><td><code>R/3 K2 G15 K10 DB21 K1 Y/2</code></td><td>103</td><td>—</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r3k2g15k10db21k1y2/"><img src="/variants/s7/r3k2g15k10db21k1y2/sett.png" alt="MacLeod sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

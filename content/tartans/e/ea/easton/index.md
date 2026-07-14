@@ -24,7 +24,7 @@ The **Easton** tartan groups 2 setts — the same named design recorded as diffe
 <tbody>
 <tr><td><a href="/variants/s7/n3db2w1db50y1db2r3~x2~n2203265-db1003265/">Easton</a> ★</td><td></td><td><code>N/6 DB4 W2 DB100 Y2 DB4 R/6</code></td><td>236</td><td>2014</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/n3db2w1db50y1db2r3~x2~n2203265-db1003265/"><img src="/variants/s7/n3db2w1db50y1db2r3~x2~n2203265-db1003265/sett.png" alt="Easton sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/r3db2ly1db50w1db2lb3~x2/">(2014)</a></td><td>0.15</td><td><code>R/6 DB4 LY2 DB100 W2 DB4 LB/6</code></td><td>236</td><td>2014</td></tr>
+<tr><td><a href="/variants/s7/r3db2ly1db50w1db2lb3~x2/">(2014)</a></td><td>0.15</td><td><code>LB/6 DB4 W2 DB100 LY2 DB4 R/6</code></td><td>236</td><td>2014</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/r3db2ly1db50w1db2lb3~x2/"><img src="r3db2ly1db50w1db2lb3-rev.png" alt="(2014) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

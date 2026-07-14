@@ -24,7 +24,7 @@ The **Heather** tartan groups 2 setts — the same named design recorded as diff
 <tbody>
 <tr><td><a href="/variants/s9/db4lb3n30lb3dp16lb3dp10dpi48g4~x2~dp1105325-dpi1507327/">Heather</a> ★</td><td></td><td><code>DB/8 LB6 N60 LB6 DP32 LB6 DP20 DPi96 G/8</code></td><td>468</td><td>1993</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/db4lb3n30lb3dp16lb3dp10dpi48g4~x2~dp1105325-dpi1507327/"><img src="/variants/s9/db4lb3n30lb3dp16lb3dp10dpi48g4~x2~dp1105325-dpi1507327/sett.png" alt="Heather sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s9/dg4dpi48dp10lb3dp16lb3n30lb3db2~x2~dpi1507327-dp1105325/">(NSPCC) (Corporate)</a></td><td>0.39</td><td><code>DG/8 DPi96 DP20 LB6 DP32 LB6 N60 LB6 DB/4</code></td><td>464</td><td>~1993</td></tr>
+<tr><td><a href="/variants/s9/dg4dpi48dp10lb3dp16lb3n30lb3db2~x2~dpi1507327-dp1105325/">(NSPCC) (Corporate)</a></td><td>0.39</td><td><code>DB/4 LB6 N60 LB6 DP32 LB6 DP20 DPi96 DG/8</code></td><td>464</td><td>~1993</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s9/dg4dpi48dp10lb3dp16lb3n30lb3db2~x2~dpi1507327-dp1105325/"><img src="dg4dpi48dp10lb3dp16lb3n30lb3db2-rev.png" alt="(NSPCC) (Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

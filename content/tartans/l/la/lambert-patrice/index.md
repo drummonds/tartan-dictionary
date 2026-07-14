@@ -22,7 +22,7 @@ The **Lambert, Patrice** tartan groups 2 setts — the same named design recorde
 <tbody>
 <tr><td><a href="/variants/s8/y1db2y1db12k1g6dp3w1~x4/">Lambert, Patrice</a> ★</td><td></td><td><code>Y/4 DB8 Y4 DB48 K4 G24 DP12 W/4</code></td><td>208</td><td>2011</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/y1db2y1db12k1g6dp3w1~x4/"><img src="/variants/s8/y1db2y1db12k1g6dp3w1~x4/sett.png" alt="Lambert, Patrice sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s8/w1dp3g6k1db12ly1db2ly1~x4/">(Personal)</a></td><td>0.04</td><td><code>W/4 DP12 G24 K4 DB48 LY4 DB8 LY/4</code></td><td>208</td><td>2011</td></tr>
+<tr><td><a href="/variants/s8/w1dp3g6k1db12ly1db2ly1~x4/">(Personal)</a></td><td>0.04</td><td><code>LY/4 DB8 LY4 DB48 K4 G24 DP12 W/4</code></td><td>208</td><td>2011</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s8/w1dp3g6k1db12ly1db2ly1~x4/"><img src="w1dp3g6k1db12ly1db2ly1-rev.png" alt="(Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>

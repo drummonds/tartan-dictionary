@@ -29,7 +29,7 @@ second parent, beside its family or clan).
 <table class="sett-table">
 <tbody>
 <tr><td><a href="/tartans/f/fo/forrester-hunting/">Forrester Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/tartans/f/fo/forrester-hunting/"><img src="/variants/s10/k3y2dg18w3dg18k3y4k3g18w3~x2~dg1806142-g2408144/sett.png" alt="Forrester Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td class="sett-swatch"><a href="/tartans/f/fo/forrester-hunting/"><img src="/variants/s10/k3y2dg18w3dg13k3y4k3g18w3~x2~dg1806142-g2408144/sett.png" alt="Forrester Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

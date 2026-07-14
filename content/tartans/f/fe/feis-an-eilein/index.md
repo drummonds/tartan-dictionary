@@ -19,7 +19,7 @@ The **Feis An Eilein** tartan groups 2 setts — the same named design recorded 
 <tbody>
 <tr><td><a href="/variants/s7/n2r9db8dr4db8g2y2~x8/">Feis An Eilein</a> ★</td><td></td><td><code>N/16 R72 DB64 DR32 DB64 G16 Y/16</code></td><td>528</td><td>2004</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/n2r9db8dr4db8g2y2~x8/"><img src="/variants/s7/n2r9db8dr4db8g2y2~x8/sett.png" alt="Feis An Eilein sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s7/y2g2db8dr4db8r9lb2~x4/">(Corporate)</a></td><td>0.30</td><td><code>Y/8 G8 DB32 DR16 DB32 R36 LB/8</code></td><td>264</td><td>~2007</td></tr>
+<tr><td><a href="/variants/s7/y2g2db8dr4db8r9lb2~x4/">(Corporate)</a></td><td>0.30</td><td><code>LB/8 R36 DB32 DR16 DB32 G8 Y/8</code></td><td>264</td><td>~2007</td></tr>
 <tr><td colspan="5" class="sett-swatch"><a href="/variants/s7/y2g2db8dr4db8r9lb2~x4/"><img src="y2g2db8dr4db8r9lb2-rev.png" alt="(Corporate) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
